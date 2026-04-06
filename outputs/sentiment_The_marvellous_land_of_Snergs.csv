@@ -1,0 +1,428 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The marvellous land of Snergs This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.065,0.102,0.833,negative,The marvellous land of Snergs
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The marvellous land of Snergs
+"Title : The marvellous land of Snergs Author : E. A. Wyke-Smith Illustrator : George Morrow Release date : March 5, 2026 [eBook #78120] Language : English Original publication : London: Ernest Benn Limited, 1927 Other information and formats : www.gutenberg.org/ebooks/78120 Credits : Hendrik Kaiber and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive) *** START OF THE PROJECT GUTENBERG EBOOK THE MARVELLOUS LAND OF SNERGS *** The Marvellous Land of Snergs by E. A. Wyke Smith Author of ""Some Pirates and Marmaduke"" ""The Last of the Baron,"" etc.",0.6908,0.077,0.019,0.904,positive,The marvellous land of Snergs
+illustrated by George Morrow London Ernest Benn Limited Bouverie House Fleet Street 1927 Printed in Great Britain To My Daughter Nina A List of the Chapters Part I Page 1.,0.4939,0.128,0.059,0.812,positive,The marvellous land of Snergs
+A Place apart 1 2.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Miss Watkyns 2 3.,-0.1531,0.0,0.444,0.556,negative,The marvellous land of Snergs
+Ways and Means 4 4.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Snergs 7 5.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Sylvia 11 6.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Joe 13 7.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Vanderdecken and his Men 14 8.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+How the Adventure started 19 9.,0.3182,0.315,0.0,0.685,positive,The marvellous land of Snergs
+How it really began 21 10.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Turret Chamber 23 11.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+How Joe bore Captivity 24 12.,-0.25,0.0,0.286,0.714,negative,The marvellous land of Snergs
+The Forest Land 29 13.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Dawn 33 14.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Gorbo the Snerg 35 15.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Town 38 16.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Royal House 40 17.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The King of the Snergs 41 18.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Feast 45 19.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+A Morning Walk 47 20.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Twisted Trees 50 Part II 21.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Trouble at Watkyns Bay 57 22.,-0.4019,0.0,0.351,0.649,negative,The marvellous land of Snergs
+Beyond the Door 60 23.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Mushroom Cavern 63 24.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The other side of the River 71 25.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Golithos the Ogre 73 26.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Dinner with Golithos 76 27.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Golithos explains 80 28.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Upstairs Room 82 29.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Gorbo's Doubts 84 30.,-0.296,0.0,0.423,0.577,negative,The marvellous land of Snergs
+Golithos is tempted 86 31.,-0.3818,0.0,0.394,0.606,negative,The marvellous land of Snergs
+Beyond the Tower 89 32.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Knight Errant 90 33.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Sir Percival's Job 95 34.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Mysterious Castle 96 35.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Sir Percival's Annoyance 99 36.,-0.3182,0.0,0.365,0.635,negative,The marvellous land of Snergs
+The Castle Kitchen 100 37.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Breakfast 101 38.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+A Terrible Moment 103 39.,-0.4767,0.0,0.508,0.492,negative,The marvellous land of Snergs
+More Trouble 104 40.,-0.4576,0.0,0.499,0.501,negative,The marvellous land of Snergs
+The Sorrows of Baldry 107 41.,-0.3818,0.0,0.342,0.658,negative,The marvellous land of Snergs
+The Dark Woods 113 42.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Mother Meldrum's House 115 43.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+More Sorrow for Baldry 119 44.,-0.5709,0.0,0.425,0.575,negative,The marvellous land of Snergs
+A Change of Tone 121 45.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Dinner with a Witch 122 46.,-0.3612,0.0,0.385,0.615,negative,The marvellous land of Snergs
+The Spare Bedroom 125 47.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+What happened in the Night 127 48.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Green Ride 132 49.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Captives 137 Part III 50.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Doings at Home 139 51.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Ingenuity of Vanderdecken 141 52.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+How they passed over the River 142 53.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Boot and Saddle 144 54.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The First Day's March 145 55.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Mysterious Castle again 146 56.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+How Gorbo gathered Mandrakes 151 57.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Cozening of Gorbo 158 58.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+A Fearful Bargain 162 59.,-0.34,0.257,0.457,0.286,negative,The marvellous land of Snergs
+Captives on the Road 165 60.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+King Kul I 167 61.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+A Change of Clothes at last 171 62.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Another Meal with Royalty 173 63.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+A Stinger 174 64.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Morning after 177 65.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Invasion 179 66.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+An Historic Meeting 181 67.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Necessary Explanations 182 68.,-0.5994,0.0,0.565,0.435,negative,The marvellous land of Snergs
+Baldry's Sentence 184 69.,0.0772,0.302,0.0,0.698,positive,The marvellous land of Snergs
+Royal Clemency 187 70.,-0.6249,0.0,0.577,0.423,negative,The marvellous land of Snergs
+The Next Day 189 71.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+And the Day after that 190 72.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Captives again 194 73.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Barren Rocks 200 74.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+How Gorbo found the Way 203 75.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+The Reform of Golithos 206 76.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Mother Meldrum goes 208 77.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+All Troubles over 210 78.,-0.4588,0.0,0.429,0.571,negative,The marvellous land of Snergs
+Back across the River 213 79.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Back to the Town 214 80.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Back to Watkyns Bay 215 81.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"To finish up 217 The Marvellous Land of Snergs Part I A Place Apart If any seafaring person, such as a yachtsman, were to sail round the corner of Watkyns Bay in the morning, he would find large numbers of children playing in the water, and would be either pleased or depressed at the sight according to the way his nature was originally formed.",0.1027,0.071,0.05,0.879,positive,The marvellous land of Snergs
+"Certainly he would wonder how they came to be there, in such a lonely place and so very much at home, the little ones splashing about in the shallow parts and chasing each other over the sand, and the bigger ones swimming out to rafts and diving from them, and all shouting and squeaking.",0.0516,0.066,0.044,0.89,positive,The marvellous land of Snergs
+"But this is a case of supposing, for no yacht or any other vessel will ever round the corner of the bay and no sail will ever be seen on the skyline, the reason being that it is the land of the S.R.S.C.",-0.6808,0.0,0.123,0.877,negative,The marvellous land of Snergs
+and therefore a place set apart.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"If a yachtsman were ever tempted to sail in that direction he would be met by baffling winds from the nor'-east, alternating with baffling winds from the sou'-west, and this, combined with the prevalence of waterspouts, would make him repent of his purpose, and he could consider himself lucky if he got out of those waters lashed to what was left of the mast.",0.4215,0.043,0.0,0.957,positive,The marvellous land of Snergs
+"There is one exception to the rule that no outsider can sail near there, and that is the case of Vanderdecken and his men, who put in and camped some two and a half miles north of the bay.",-0.296,0.0,0.056,0.944,negative,The marvellous land of Snergs
+"Owing to his rash oath that he would beat round the Cape of Good Hope if he beat round it till Doomsday he found himself doing so, and though this was rough luck on his crew, who had not made any rash oaths, naturally they had to beat round with him.",-0.1027,0.14,0.146,0.714,negative,The marvellous land of Snergs
+It is supposed that the curse wore thin after a few hundred years; at any rate they managed to slip into the waters of the S.R.S.C.,-0.5423,0.0,0.127,0.873,negative,The marvellous land of Snergs
+"during the vernal equinox, and there they are now, camped in little huts, with the ship anchored in the mouth of a river and in a shocking state of barnacles.",-0.4019,0.0,0.091,0.909,negative,The marvellous land of Snergs
+"Miss Watkyns The bay is named after Miss Watkyns, who is not only the Principal but the originator of the S.R.S.C., or Society for the Removal of Superfluous Children.",-0.1531,0.0,0.088,0.912,negative,The marvellous land of Snergs
+"Like a good many ladies who have no children of their own she was greatly interested in them, and being a little interfering in her ways she became in time a noted figure in police courts and was often laughed at by the public.",0.8479,0.23,0.044,0.726,positive,The marvellous land of Snergs
+"This brought her in contact with other ladies similarly disposed and finally the Society was formed, its object being the removal of children who are obviously not wanted by their parents, or parent, as the case may be.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"The greatest care is taken to avoid mistakes, but once a child is removed it is never returned, and it soon forgets what happened when it was with its parents (or parent) for the air of the place is splendid for forgetting.",0.8201,0.201,0.068,0.731,positive,The marvellous land of Snergs
+"There are cases where, after some years with the Society (or what would be some years if time counted there in the ordinary way), a child is delivered over to some person who ardently desires one; but the selection of such a person needs even greater care to avoid mistakes.",0.3612,0.131,0.105,0.764,positive,The marvellous land of Snergs
+"Miss Watkyns is a lady of intelligence far above the ordinary, and in addition to being a great organizer she has no mean knowledge of the sciences.",0.6597,0.225,0.119,0.656,positive,The marvellous land of Snergs
+These qualities enabled her not only to discover the existence of the Land of the Snergs (in itself a marvellous piece of brain work) but also how to get there without a nasty spill.,0.5975,0.111,0.0,0.889,positive,The marvellous land of Snergs
+I do not propose to go into details of how she managed this (as it would take a book twice as long as this one) but will merely state that she admitted into the Society twenty-two carefully selected ladies (each of whom had four or five children ready to be removed from their homes without notice) and made the most careful preparations for transferring them all to the new land.,0.7869,0.123,0.0,0.877,positive,The marvellous land of Snergs
+"It was arranged that each lady should come with one well wrapped up superfluous child, as this would be all that they could carry at one time and the rest could be fetched later.",0.2732,0.06,0.0,0.94,positive,The marvellous land of Snergs
+"They were to bring also for each one a bundle containing blankets, woollies, and two combination suits of wear-resisting fabric, and to use their discretion with regard to small extras, such as wash rags, fine tooth combs and the like.",0.5106,0.104,0.0,0.896,positive,The marvellous land of Snergs
+All went excellently.,0.6249,0.672,0.0,0.328,positive,The marvellous land of Snergs
+"They met on Hampstead Heath one blowy October night at 11.30, and by 12.15 Miss Watkyns had inspected and passed all bundles and seen that all hands had taken a cup of hot milk or cocoa.",-0.1531,0.0,0.045,0.955,negative,The marvellous land of Snergs
+Then she gave the word and away they all went on a high wind.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+From this slight beginning grew the organization of the S.R.S.C.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"as it is to-day, with 478 superfluous children under its care and more coming.",0.4939,0.198,0.0,0.802,positive,The marvellous land of Snergs
+"As this is purely a narrative of the extraordinary adventures that befell two of the children owing to their foolish disregard of the laws so wisely made for their benefit (a narrative which should not be without improving effect on the minds of my younger readers), I will not give more than a brief account of the ways and means by which the Society attains its object.",0.7784,0.15,0.057,0.792,positive,The marvellous land of Snergs
+"Ways and Means The children are divided into two classes, according to size and age.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"The little ones wear one-piece garments known as the ""slip-on,"" which have the advantage that they can be slipped off for bathing with one wriggle.",0.25,0.077,0.0,0.923,positive,The marvellous land of Snergs
+The older ones wear two-piece garments; the boys having shorts and shirts and the girls skirts and blouses.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Woolly coats are worn in the cold weather, which lasts only for a few seasonable weeks at Christmas time.",-0.296,0.0,0.115,0.885,negative,The marvellous land of Snergs
+"For most of the year they do not wear shoes, but what are called slinkers.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"The houses are on the higher ground just behind Watkyns Bay, and are all of one story.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"They are made of a criss-cross framework of timbers, with walls of clay mixed with little mashed-up shells in between the timbers, very strong and neat in appearance.",0.7818,0.215,0.0,0.785,positive,The marvellous land of Snergs
+"Inside, the walls are plastered and painted light pink or blue.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Behind the houses there is a wide stretch of turf, on which are swings and arrangements for healthful games such as net-ball and bumble-puppy.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Not far away the forest begins with few trees at first and mostly bushes, where they play at pretence Indians and Robin Hood and so forth; but the trees soon grow thicker and thicker until it is quite shady even at midday in some parts.",0.1779,0.037,0.0,0.963,positive,The marvellous land of Snergs
+"A pleasant place, with soft lawns here and there and a variety of ferns, but it is not wise to let the children roam about there too much for it is quite easy to get lost.",0.0409,0.151,0.147,0.702,neutral,The marvellous land of Snergs
+"Beyond the forest, a long day's march away, is the town of the Snergs, who built the houses for the Society as well as doing other useful things of which I will give an account later.",0.6124,0.135,0.0,0.865,positive,The marvellous land of Snergs
+"Each house has a protecting fence twelve feet from the walls to keep away the cinnamon bears, who live in the forest and who form friendships with the children when on their walks.",0.3818,0.077,0.0,0.923,positive,The marvellous land of Snergs
+"This is all very well in its way, but the bears had the habit of trying to get into the houses at night, and, when they found the doors shut, of lying down outside and rubbing against the walls at intervals, which kept the children awake and made them giggle and whisper in a silly way, so the fence was put up.",-0.0138,0.096,0.068,0.836,neutral,The marvellous land of Snergs
+"The bears are of fair size, with softish fur smelling slightly of cinnamon, hence the name.",0.3182,0.133,0.0,0.867,positive,The marvellous land of Snergs
+"They must not be confused with the large grizzly bears which, rumour has it, live beyond the deep river on the other side of the Snerg country, as also tigers, unicorns, a dragon or two, and other creatures full of original sin.",-0.0869,0.093,0.078,0.829,negative,The marvellous land of Snergs
+"With the exception of the very little ones each child has to attend to its own bed, and on Saturdays to refill the mattresses with little buds like hops, which have a pleasant aromatic smell and induce sleep.",0.6728,0.136,0.0,0.864,positive,The marvellous land of Snergs
+The old hops are thrown out on the beach at high tide.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Saturday is the clean-up time.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Lockers are tidied, pinafores are ironed, and puppies and other animals that need it are washed with soap; altogether there is a good deal of what the Gentlemen of the Life Guards call spit and polish, so as to be ready for Sunday.",0.6597,0.119,0.0,0.881,positive,The marvellous land of Snergs
+"The smallest children have beds with rockers, Miss Watkyns having little patience with new-fangled ideas about not rocking children.",-0.1531,0.0,0.082,0.918,negative,The marvellous land of Snergs
+A good deal of worry and argument has been caused by the amount of animal life in and round about the houses.,-0.3612,0.11,0.205,0.684,negative,The marvellous land of Snergs
+"There is a craze for pets, and Miss Watkyns' attempt to limit at the rate of one pet animal to each three children resulted in quarrels and sulking in corners, and finally it came to the rule of one child one animal.",-0.5719,0.0,0.13,0.87,negative,The marvellous land of Snergs
+"Puppies, kittens and small rabbits are the most popular; badgers are discouraged.",0.101,0.196,0.171,0.633,positive,The marvellous land of Snergs
+"At one time the elder children got excited over a recitation from the poets concerning a girl who owned a lamb which followed her about everywhere, even to school, where it made the other scholars laugh, and after that it was nothing but lambs.",0.4588,0.093,0.0,0.907,positive,The marvellous land of Snergs
+"At length Miss Watkyns decided that only those who showed perfect behaviour for a month could have one, and that limited the number right enough.",0.3612,0.175,0.123,0.702,positive,The marvellous land of Snergs
+"At the end of the month only two smug little girls had qualified for lambs, and by that time the rage for mongeese had come up.",-0.4215,0.061,0.122,0.816,negative,The marvellous land of Snergs
+Another source of trouble over animals is the food question.,-0.4019,0.0,0.231,0.769,negative,The marvellous land of Snergs
+The ladies as a rule are rather sentimental in their ideas and it needed all the firmness and common sense of Miss Watkyns to prevent a wave of sloppiness passing over the Society and damaging the children's character and insides.,-0.3612,0.08,0.116,0.804,negative,The marvellous land of Snergs
+"Some even went to the length of proposing that the food should consist entirely of bread, butter, milk, and green stuff; and the experiment was actually tried for a time, with the result that the children broke out in pimples.",-0.4215,0.0,0.069,0.931,negative,The marvellous land of Snergs
+"Then fish diet was added, it being supposed that fish feel no pain when they are caught, only a little regret, but this was also a failure; the little ones' systems still cried out for meat and gravy in moderation.",-0.9072,0.0,0.288,0.712,negative,The marvellous land of Snergs
+"Finally, Miss Watkyns put her foot down firmly and arranged that a supply of sheep and hares, etc., be delivered at regular intervals by the Snergs, who are not at all sentimental about killing animals; in fact they rather like it, being great hunters.",-0.0931,0.126,0.151,0.723,negative,The marvellous land of Snergs
+The Snergs The Snergs are a race of people only slightly taller than the average table but broad in the shoulders and of great strength.,0.899,0.311,0.0,0.689,positive,The marvellous land of Snergs
+"Probably they are some offshoot of the pixies who once inhabited the hills and forests of England, and who finally disappeared about the reign of Henry VIII.",-0.2263,0.0,0.068,0.932,negative,The marvellous land of Snergs
+"Their language is not very difficult and the children especially learn to speak it in a few weeks, which helps to strengthen my theory of their origin.",0.7373,0.239,0.0,0.761,positive,The marvellous land of Snergs
+"The ladies, however, never learn to speak the language with fluency, and the little slang expressions are quite beyond them; but owing to the untiring energy of Miss Watkyns, that brainy woman, they now have a little Snerg grammar, with a vocabulary and some easy exercises.",0.6808,0.132,0.038,0.83,positive,The marvellous land of Snergs
+The Snergs took a great interest in the Society's development and offered their services at an early date.,0.7964,0.321,0.0,0.679,positive,The marvellous land of Snergs
+"It soon came to pass that they did all the heavy work, such as building (at which they are expert), gardening, painting and decorating, and the more troublesome part of the housework, such as swabbing floors.",-0.5563,0.0,0.093,0.907,negative,The marvellous land of Snergs
+"They come in batches and spend some weeks at work; then they say they are homesick, which means they have got tired of it, and they go home as soon as another batch can take their place.",-0.5574,0.0,0.116,0.884,negative,The marvellous land of Snergs
+"In return for these services they receive instruction in up-to-date methods from Miss Watkyns' Encyclopædia, little presents from London or some other large town when one of the ladies has gone there on business, and those little general advantages, difficult to specify in words, which come from intercourse with refined females.",-0.1567,0.041,0.071,0.888,negative,The marvellous land of Snergs
+"If the children go to the woods to collect berries or mushrooms or whatever else happens to be in season, or to play at outlaws or a little scalping party, a Snerg or two goes with them to shoo away obtrusive bears.",0.5888,0.113,0.0,0.887,positive,The marvellous land of Snergs
+When they are bathing a Snerg or two sits on a rock ready to dive in and pick out any child that has got into trouble.,-0.0516,0.092,0.099,0.809,negative,The marvellous land of Snergs
+"It is interesting to see how they reach such a one with a few vigorous strokes, take it to land, up-end it by the heels to let the water run out, and lay it on the grass to dry.",0.4215,0.098,0.0,0.902,positive,The marvellous land of Snergs
+"The Snergs dress in tight-fitting woollen hose, with a jerkin of the same material and a leather belt, and little round leather caps rather like the deeper kinds of saucers.",0.3612,0.085,0.0,0.915,positive,The marvellous land of Snergs
+"When at home most of them live in the town; some few have their mills and farms a little distance away, but they come in pretty often for they are gregarious people, loving company.",0.8922,0.237,0.0,0.763,positive,The marvellous land of Snergs
+"The town has one main street which goes rambling round corners, with one or two little alleys branching off from it through archways and so forth, and the houses are three or four or more stories in height, built in an irregular way of timber and clay and plaster, top-heavy in appearance though sound in reality even if a bit elastic.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"If a house leans over more than it should they prop it up by timbers reaching across to the house opposite, this generally giving them an excuse for making a little covered-in passage way on the timbers so that they can visit one another without all the fuss of going downstairs and up again, they being great on visits.",0.8225,0.153,0.0,0.847,positive,The marvellous land of Snergs
+"You never know when a Snerg will finish with his house because he is always making additions to it, such as throwing out bay windows, or carrying a balcony on stilts to one of the big trees near by and then building a spare bedroom in the tree itself, and the like fool tricks.",-0.2263,0.046,0.08,0.874,negative,The marvellous land of Snergs
+They are long-lived people; roughly speaking they live as long as oaks.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"For instance those Snergs who remember the excitement caused by the landing of William the Conqueror (1066) are old, old gaffers, opinionated, sitting in arm-chairs.",0.4939,0.118,0.0,0.882,positive,The marvellous land of Snergs
+"The men who remember the Wars of the Roses are middle-aged and of ripe judgment (in so far as a Snerg ever has judgment), while those born about the time of the Gunpowder Plot have still something of the gay insouciance of youth.",-0.5574,0.0,0.081,0.919,negative,The marvellous land of Snergs
+The babies date from Trafalgar and upwards.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"They are great on feasts, which they have in the open air at long tables joined end on and following the turns of the street.",0.6249,0.146,0.0,0.854,positive,The marvellous land of Snergs
+"This is necessary because nearly everybody is invited--that is to say, commanded to come, because the King gives the feasts, though each person has to bring his share of food and drink and put it in the general stock.",0.296,0.055,0.0,0.945,positive,The marvellous land of Snergs
+Of late years the procedure has changed owing to the enormous number of invitations that had to be sent; the commands are now understood and only invitations to stay away are sent to the people who are not wanted on the particular occasion.,0.0772,0.03,0.0,0.97,positive,The marvellous land of Snergs
+"They are sometimes hard up for a reason for a feast, and then the Master of the Household, whose job it is, has to hunt for a reason, such as its being somebody's birthday.",-0.1027,0.0,0.045,0.955,negative,The marvellous land of Snergs
+Once they had a feast because it was nobody's birthday that day.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"The King presides at the head of the table, with the best people on either hand, and there they sit in the mellow evening light and tell tales of the brave days of old and listen to the sound of harps.",0.8957,0.221,0.0,0.779,positive,The marvellous land of Snergs
+"But at the other end of the table, round the corner and out of sight, there is often a good deal of reckless behaviour and talk, since there is no one to check the number of cups of mead they drink; and the truth is they get slightly tiddleums, and laugh far too much and grab off each other's caps and throw them in other fellow's faces, and so on.",0.751,0.155,0.077,0.767,positive,The marvellous land of Snergs
+Queer people.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"The tale is going to start very soon but it will be necessary to give some account of the two children, Sylvia and Joe, who got mixed up with the strange doings I have mentioned, and also of Vanderdecken and his men, because if it had not been for them I really don't know how things would have come out as well as they did.",0.1154,0.04,0.033,0.926,positive,The marvellous land of Snergs
+Let us begin with Sylvia.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Sylvia Sylvia's mother was a widow who lived in a commodious house in London and who was much admired, and whom we will call Mrs Walker because it was not her name.",0.5106,0.102,0.0,0.898,positive,The marvellous land of Snergs
+"Though she was rather proud of Sylvia in a way, because she was a pretty little girl with hair that curled naturally, she never bothered about her very much owing to her Society engagements.",0.8343,0.26,0.0,0.74,positive,The marvellous land of Snergs
+"She never, for example, made her laugh with the business of the little pigs, or pretended to eat her, beginning with the feet, and she never bored people by exhibiting her little frocks to show how she was growing out of them; in fact, she never saw her at all except sometimes when she spared a moment to run upstairs before going to dinners and dances and the like.",0.8231,0.131,0.0,0.869,positive,The marvellous land of Snergs
+"But she provided a capable nurse called Norah who was skilled in all things necessary for young ones, including interesting tales, and this worked finely until Norah had to go away and marry a young man in the sausage business.",0.7876,0.162,0.0,0.838,positive,The marvellous land of Snergs
+The new nurse who came had her own society engagements to attend to (though not such classy ones) and could not spare very much time for Sylvia.,-0.2037,0.055,0.083,0.862,negative,The marvellous land of Snergs
+"One day Sylvia got wet through in the park and the nurse (Gwendoline) forgot to change her things, so that she got ill. She got more and more ill and the doctor was sent for, but he was absolutely rude to Mrs Walker because he had not been sent for before and this upset her as she was not accustomed to rudeness.",-0.8616,0.037,0.17,0.793,negative,The marvellous land of Snergs
+"But what made her more upset was the sight of a dowdy, middle-aged woman who had got in somehow and was sitting by Sylvia's bed, and when she asked her what she was doing there she got no answer but a snort, so she went away.",-0.7677,0.0,0.137,0.863,negative,The marvellous land of Snergs
+"And half an hour later there was a real trouble, for the dowdy person and Sylvia were missing.",-0.5994,0.0,0.246,0.754,negative,The marvellous land of Snergs
+"There was a good deal of excitement because there had been one or two cases of this kind lately, and there were head-lines in the papers about it; but nothing more happened and the little bed was empty for keeps.",0.5783,0.151,0.042,0.807,positive,The marvellous land of Snergs
+"In time--that is to say, in three weeks--the matter had blown over, and Mrs Walker went into mourning and looked so absolutely sweet and lovely that Sir Samuel Gollop (Biscuits) asked for her hand and got it and serve him right, and she is now my Lady Gollop, with a house in one of the best parts and two cars and a Pekinese which has taken a prize.",0.948,0.242,0.036,0.722,positive,The marvellous land of Snergs
+"But no Sylvia, never again.",-0.4215,0.0,0.412,0.588,negative,The marvellous land of Snergs
+And Sylvia was learning to play a new kind of water-polo in which seals take part and was fast forgetting all about her former life except the tales Norah used to tell her.,0.34,0.072,0.0,0.928,positive,The marvellous land of Snergs
+Joe Joe is a sturdy boy of about the same age as Sylvia who has caused the Society more anxiety and exasperation than any ten other boys of his weight and size.,-0.2484,0.0,0.062,0.938,negative,The marvellous land of Snergs
+"When he first arrived he was by no means sturdy; his legs and arms were thin, and on all corners of him there was either a bruise or a place breaking out.",-0.296,0.0,0.071,0.929,negative,The marvellous land of Snergs
+"This was owing to his father, a circus rider, who used to train Joe to do dexterous tricks with ropes and poles so that he would in time be able to earn money and help support the family--which, by the way, now consisted only of Father; his mother had been worn out long ago.",0.4019,0.093,0.064,0.843,positive,The marvellous land of Snergs
+"Every time Joe missed doing the tricks dexterously it meant trouble for him, for his father used to drink as much as his wages allowed and this impaired his judgment and led him many times to nearly overdo what he used to do to Joe in the evenings at home.",-0.6597,0.0,0.12,0.88,negative,The marvellous land of Snergs
+"Joe never complained to the other circus people because he believed that boys came into the world for the purpose of being hammered by their parents; also he worked it out that if he did complain his father would do him in as he had often promised to do and, ridiculous as it may seem to us, Joe wanted to go on living.",-0.0624,0.069,0.073,0.858,negative,The marvellous land of Snergs
+"Matters came to a finish one evening when he had made a deplorable mess of some gymnastics and his father was greatly annoyed with him, and, as he said he would, ""put it acrost him"" properly.",-0.6478,0.029,0.144,0.827,negative,The marvellous land of Snergs
+"He was interrupted by the sudden appearance of a grim elderly lady bigger than he was, whom he had noticed several times lately in the one-and-threepence seats, and who now burst open his private kitchen door in defiance of the law and picked up the tongs, not by the handle but by the other end.",-0.4497,0.0,0.071,0.929,negative,The marvellous land of Snergs
+Then Father knew no more for hours.,-0.296,0.0,0.268,0.732,negative,The marvellous land of Snergs
+And when he did know more it was very unsatisfactory.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"His skull seemed loose like a jig-saw puzzle, and he was in a horrid mess.",-0.7003,0.126,0.419,0.455,negative,The marvellous land of Snergs
+And Joe was gone.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"There were no head-lines in the paper about this case because no one cared anything about it--except Father--and by the time his skull was fitted close together again by the great skill of surgeons (his nose they could do nothing with) Joe was becoming justly celebrated among the other children for his reckless way of riding bucking bears bare-backed, and doing other things contrary to regulations.",0.6705,0.136,0.091,0.772,positive,The marvellous land of Snergs
+"Vanderdecken and His Men As the strange adventures of Joe and Sylvia were primarily due to what Joe did to Vanderdecken's crew's soup, it is advisable to give here a short account of these interesting foreigners.",0.5106,0.131,0.046,0.823,positive,The marvellous land of Snergs
+"As I have said, Vanderdecken (vulgarly known as the Flying Dutchman) had come in some time before and camped on the bank of a river north of Watkyns Bay.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"They had had so much tossing about the seas since they started out from Holland in the seventeenth century that it was quite a nice change for them, and they were in no hurry to go away, even though they were very anxious to see their wives and babies again.",-0.1027,0.058,0.084,0.858,negative,The marvellous land of Snergs
+"And it was just as well that they were in no hurry to go, for their wives and babies had all died hundreds of years ago and it would have been a distressing shock to them if they had managed to reach home, this in itself a doubtful matter.",-0.8807,0.076,0.238,0.687,negative,The marvellous land of Snergs
+"Each man had his hut, made of stout reeds with a roof of palm branches.",0.1779,0.116,0.0,0.884,positive,The marvellous land of Snergs
+"They stood in a semicircle, with a double-sized one in the middle for Vanderdecken, and there was a garden in front in which was planted some sweet-peas and a few simple bulbs.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"There was also a large general hut where they had their meals and sat about the table afterwards, smoking their long pipes and talking about how they really must think of getting busy with the old ship and cleaning her up for the voyage.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"She was in a bad way, with the sails all patched and the carved dolphins on her bows all worn smooth with the seas she had dived into for so many weary years; but the most they ever did towards getting her ready was to lighten her by taking the heavy things out and putting them on shore--quaint old cannon and the two spare anchors, and bales of spices and elephants' tusks, and casks of salt beef all hard as horn from age, and so forth.",-0.2238,0.036,0.079,0.885,negative,The marvellous land of Snergs
+"Each seaman took his chest and hammock ashore and made his hut neat with a floor of little mashed-up shells, and perhaps a shelf or two and a rack for pipes and pannikins and other small matters.",0.4767,0.114,0.0,0.886,positive,The marvellous land of Snergs
+"Vanderdecken's parrot was still going strong, for the curse had come on him too (not that that troubled him) and he sat on a perch outside in the sun with a tin pot full of nuts beside him, swearing in High Dutch.",-0.7579,0.067,0.22,0.713,negative,The marvellous land of Snergs
+"It is to be regretted that their relations with the Society, though friendly, were not at all enthusiastic.",-0.2565,0.137,0.223,0.64,negative,The marvellous land of Snergs
+"In the first place, they were, like all Dutchmen, phlegmatic and not given to gush.",0.3612,0.152,0.0,0.848,positive,The marvellous land of Snergs
+"In the second place, England was at war with Holland when they started out and they did not like the sight of the British flag flying over the main building in Watkyns Bay.",-0.7193,0.0,0.162,0.838,negative,The marvellous land of Snergs
+"It was of course Miss Watkyns' duty to make the first call, so she went with six of the ladies and told them that she had no objection to their staying there--which seemed rather superfluous as they had already settled down very comfortably--and that she hoped they would find the rest and change beneficial.",0.4019,0.093,0.064,0.843,positive,The marvellous land of Snergs
+"No refreshments were offered, for Vanderdecken had no tea but only Schnapps, a heady liquor calculated to make an unaccustomed man climb trees and therefore obviously unsuited to ladies.",-0.296,0.0,0.11,0.89,negative,The marvellous land of Snergs
+"The call was returned in due time by Vanderdecken and his mate and two washed seamen; and from then on there were little formal calls at intervals, but, as I say, no real cordiality; mostly talk about the weather.",-0.4215,0.0,0.07,0.93,negative,The marvellous land of Snergs
+"But the Dutchmen get on famously with the Snergs, who visit them frequently and invite them over to the town for week-ends, this giving a nice excuse for a feast.",0.8649,0.308,0.0,0.692,positive,The marvellous land of Snergs
+"Then they introduced them to a special kind of mead made from wild bees' honey, with a little distillation of ginger added to give it a kick.",0.4019,0.105,0.0,0.895,positive,The marvellous land of Snergs
+"This was glad news to the weary mariners, for though they had started out with a good supply of Schnapps they had of course not taken the curse into account and the supply was getting alarmingly low, and there had been many wrinkled brows over the matter.",0.2617,0.174,0.138,0.688,positive,The marvellous land of Snergs
+"Hunting parties are organized very often; the Dutchmen go with strangely carved muskets and the Snergs with bows and arrows, and they come home with mixed bags.",0.128,0.09,0.074,0.836,positive,The marvellous land of Snergs
+"This, however, has caused trouble with the Society, for Miss Watkyns said she could not allow promiscuous slaying of animals in the forest land between the coast and the Snerg country; that if they liked (she meant this ironically) they could go to the country beyond the deep river, where rumour had it there were fierce beasts worthy of their skill, and kill as many as they liked.",-0.2368,0.121,0.133,0.746,negative,The marvellous land of Snergs
+"She gave a list of animals that were prohibited; among these were cinnamon bears, young deer and various sorts of birds.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Vanderdecken objected strongly to this, and he came over to argue the matter; but there was breeding in the man and he finally gave way.",-0.0258,0.099,0.065,0.837,neutral,The marvellous land of Snergs
+"They now hunt only large deer, hares, duck, and wobsers, a swift-running, graminivorous animal something between a platypus and a pig, but with a prehensile tail.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Cooked with bay leaves they are delicious.,0.5719,0.381,0.0,0.619,positive,The marvellous land of Snergs
+"But though there was no great cordiality between the ladies of the Society and the Dutchmen, there was no friction to speak of.",0.2617,0.181,0.179,0.64,positive,The marvellous land of Snergs
+"Miss Watkyns would often send over a few dozen eggs or a basket of plums from the orchard and the like, and Vanderdecken sent one of his men to plant tulips in the way they should be planted, the Dutch being very skilful at this.",0.2263,0.055,0.035,0.909,positive,The marvellous land of Snergs
+"When the ladies' bathing kiosk blew over in a high wind he and his men came and put it right side up by brute force, and last Christmas he sent two sacks of little carved windmills for the children.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+On the whole relations could be called satisfactory.,0.3612,0.263,0.0,0.737,positive,The marvellous land of Snergs
+"How the Adventure Started Having given a short general statement of conditions, it is now time to recount what happened to Sylvia and Joe owing to her impulsiveness and his disobedience and cheek, and I say again (for it is a point that will bear repetition) that I hope the tale will not be without due effect on my young readers.",0.6369,0.086,0.0,0.914,positive,The marvellous land of Snergs
+I have already said that Joe caused the Society anxiety and exasperation.,-0.1779,0.0,0.145,0.855,negative,The marvellous land of Snergs
+"This was chiefly owing to his insatiable curiosity to know what would be the effect of certain acts, particularly those that were forbidden, and though the lady who was responsible for his arrival (Miss Gribblestone) had lectured him and read him moral tales, such as the one about the boy who was devoured by curiosity and finished by getting devoured by a serpent, and though Miss Watkyns had told him that at his rate of going severe punishment was only a matter of time, all this had little or no effect.",-0.7665,0.056,0.123,0.821,negative,The marvellous land of Snergs
+"And the really serious part was that he and Sylvia were firm chums and she, being impulsive, would aid and abet him in his enterprises.",-0.1513,0.0,0.062,0.938,negative,The marvellous land of Snergs
+"They could not live apart, these two.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"They shared everything they had, including secrets, and any little extra snacks that came into their possession.",0.34,0.13,0.0,0.87,positive,The marvellous land of Snergs
+"They even shared a puppy (whom they named Tiger owing to his ferocity with slippers and other small matters, and who was pure white all over except on one ear and the left side of the head where he looked as if he had been well rubbed in a tin of blacking) and this is the only known case of dual ownership since Miss Watkyns made that excellent rule of one child, one animal.",0.7184,0.118,0.042,0.84,positive,The marvellous land of Snergs
+"Many were the remedies proposed for their improvement, but the difficulty was that the Misses Scadging and Gribblestone could not agree to any particular method.",-0.7282,0.064,0.261,0.675,negative,The marvellous land of Snergs
+"Miss Scadging was the one who had taken Sylvia away from her mother, and she said that Joe had an evil influence on the little girl and that he alone should be punished.",-0.875,0.0,0.275,0.725,negative,The marvellous land of Snergs
+Miss Gribblestone on the other hand was of opinion that if it were not for Sylvia's encouragement Joe would be a pattern boy like that Edgar of the story-book who went out before breakfast and gathered fresh groundsel for his aunt's canary.,0.6209,0.167,0.082,0.751,positive,The marvellous land of Snergs
+"And so the matter stood, for Miss Watkyns made it a rule never to interfere except in very urgent cases.",0.2195,0.165,0.076,0.759,positive,The marvellous land of Snergs
+That Sylvia encouraged the boy there was no doubt.,-0.296,0.189,0.356,0.455,negative,The marvellous land of Snergs
+"She had blue eyes and a quantity of fluffy gold curls, and consequently, when she giggled and told him he would never dare to do what he said would be a choice thing to do, he usually went at once and did it, whatever it happened to be.",0.3612,0.053,0.0,0.947,positive,The marvellous land of Snergs
+"And when the deed was done and some of the ladies went forth to pick up the bits or to do whatever else needed doing and to bring in Joe and Sylvia for immediate explanation, they would find them at the time harmless and lovable, perhaps sitting on the shore with their arms round each other's necks as good as gold, or else engaged in some deed of kindness, such as swimming out to the Penguins' Rock with a little string bag full of snails.",0.9274,0.156,0.0,0.844,positive,The marvellous land of Snergs
+"How it Really Began To come to how it really began, one bright morning the two went over to Vanderdecken's camp without leave, and there Joe was wicked enough and foolish enough to heave half a brick into the cauldron of soup preparing for the mariners.",-0.2933,0.085,0.108,0.807,negative,The marvellous land of Snergs
+"It was a wicked thing to do because they had never harmed him, and a foolish thing because detection was certain.",-0.2134,0.185,0.219,0.596,negative,The marvellous land of Snergs
+"But he had bragged that he would do it, and Sylvia had giggled in the usual way and said she didn't believe him, so he hunted up the half-brick and off they went.",0.5023,0.092,0.0,0.908,positive,The marvellous land of Snergs
+Speaking of the act entirely apart from its moral aspect I may say that it was a good shot.,0.4404,0.153,0.0,0.847,positive,The marvellous land of Snergs
+"Six mariners were standing about the cauldron, sniffing the fragrant steam and speaking in praise of the cook, when the missile arrived from a high neighbouring rock, and its impact caused the hot, glutinous liquid to bespatter their faces and clothing.",0.5574,0.085,0.0,0.915,positive,The marvellous land of Snergs
+"On the next instant Joe, Sylvia and Tiger started home at a brisk run.",0.1531,0.118,0.0,0.882,positive,The marvellous land of Snergs
+"Arriving breathless they proceeded at once, and in sight of some of the ladies, to be kind to animals.",0.5267,0.159,0.0,0.841,positive,The marvellous land of Snergs
+"They gathered handfuls of grass and offered them to some overfed sheep, and their expression while doing so was something like that on the faces of angels in the pictures of Murillo, that great painter.",0.7823,0.172,0.0,0.828,positive,The marvellous land of Snergs
+In due time the six mariners and the cook arrived to make their complaint.,-0.296,0.0,0.145,0.855,negative,The marvellous land of Snergs
+"Their annoyance was so great that, though fluent, they were unintelligible; I am inclined to think that at first they could only articulate expletives in use among Dutch seamen of the seventeenth century.",0.4754,0.12,0.063,0.818,positive,The marvellous land of Snergs
+"But at length they were calmed sufficiently to enable them to state their case and to demand that Joe, whom they had recognized, be delivered over to them for the punishment of keel-hauling, a term which was not understood by any of the ladies.",-0.3919,0.069,0.122,0.809,negative,The marvellous land of Snergs
+"Miss Watkyns was sympathetic, but she could not, of course, allow them to take the law into their own hands.",-0.0384,0.096,0.147,0.757,neutral,The marvellous land of Snergs
+"She soothed them down with diplomatic words, promised that the boy should receive castigation proportional to his offence, and gave them each a ball of some composition warranted to remove grease stains without injuring the fabric.",0.2023,0.105,0.058,0.838,positive,The marvellous land of Snergs
+Then she went for the Handy Encyclopædia to see what it had to say about keel-hauling.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"It was as follows: "" Keel-hauling.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+A form of discipline once in great vogue among seamen.,0.6249,0.339,0.0,0.661,positive,The marvellous land of Snergs
+"The usual method of application was to attach ropes to the four limbs of the delinquent, lower him over the bows of the ship, and drag him to the stern post and up again, the process being repeated as many times as was considered necessary to expiate the offence.",-0.6486,0.0,0.12,0.88,negative,The marvellous land of Snergs
+In very serious cases it was the custom to continue the operation until such barnacles as had accumulated on the ship's keel had been scraped off.,-0.1513,0.0,0.06,0.94,negative,The marvellous land of Snergs
+"See Shell Fish .""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""I gather that they are vexed,"" observed Miss Watkyns to herself as she replaced the volume.",-0.1531,0.0,0.096,0.904,negative,The marvellous land of Snergs
+"Then--for in spite of her high ideals she was human--""I should have liked to see that half-brick arriving.""",0.0516,0.2,0.148,0.652,positive,The marvellous land of Snergs
+"In the conference that followed Miss Scadging proposed that Joe should be considered the sole culprit, since he was a boy and therefore it was his duty to set an example to the weaker sex.",-0.5423,0.0,0.123,0.877,negative,The marvellous land of Snergs
+Miss Gribblestone objected to this on principle; she was by no means convinced that women were the weaker sex and she recounted again how she had laid out Joe's father; also she quoted Police Court instances of crimes committed by men at the instigation of females.,-0.2263,0.091,0.128,0.781,negative,The marvellous land of Snergs
+Miss Watkyns was of opinion that a good and quick way to settle the matter would be to hand Joe six or ten of the very best with the back of a hairbrush before the assembled children; but Miss Gribblestone objected strongly to this as tending to break the boy's spirit.,0.8098,0.221,0.056,0.723,positive,The marvellous land of Snergs
+She made the counter-suggestion of an appeal to his pride.,0.34,0.211,0.0,0.789,positive,The marvellous land of Snergs
+"It is no exaggeration to say that I could keep on like this for pages, but I will not risk wearying the reader with a disquisition on the arguments for and against corporal punishment.",-0.7564,0.101,0.24,0.66,negative,The marvellous land of Snergs
+"I will merely state that it was finally decided to let Sylvia off for just this once, but to incarcerate Joe for the rest of the day in the Turret Chamber on a diet of bread and water.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"The Turret Chamber The Turret Chamber was, as its name implies, a chamber in a turret.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+I have previously explained that the erection of the buildings was done by the Snergs; also that their natural tendency was to indulge in wild architectural freaks.,0.2732,0.09,0.05,0.86,positive,The marvellous land of Snergs
+"By careful watching, however, Miss Watkyns had managed to keep them building according to the neat plans she had prepared, and to subdue their inclination to spoil the symmetry of the houses by fantastic and unnecessary additions.",0.8176,0.231,0.037,0.732,positive,The marvellous land of Snergs
+"But during her absence one day on a picnic the Snergs broke loose and built a swift tower in a corner of the main building, with some scalloped fancy work on the walls and a twisting flight of stairs in the interior leading to the chamber in question, and by the time she arrived home they were already roofing it in.",-0.6652,0.035,0.106,0.859,negative,The marvellous land of Snergs
+"In appearance it resembled the more despicable forms of lighthouses, and it was quite useless for anything practical, being so narrow that a grown-up person ascending the stairs had to writhe up like a snake, and the chamber atop being so small that Miss Watkyns had considered the question of turning the whole business into a pigeon-house.",-0.352,0.043,0.085,0.872,negative,The marvellous land of Snergs
+"However, it did very well as a lock-up for Master Joe.",0.3384,0.21,0.0,0.79,positive,The marvellous land of Snergs
+How Joe Bore Captivity Hours had passed.,-0.25,0.0,0.25,0.75,negative,The marvellous land of Snergs
+The sun was not now so very high in the heavens.,0.4019,0.213,0.0,0.787,positive,The marvellous land of Snergs
+From the direction of the beach came the sounds of happy shrieks; the children were having a great time there.,0.8316,0.315,0.0,0.685,positive,The marvellous land of Snergs
+"On the window-sill of the turret chamber sat Joe, his hands in his shorts' pockets and his feet dangling outside, looking forth disconsolately.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Behind him on the floor was a platter with odd bits of dry bread, and a pitcher of clear cold water from the pump.",0.0772,0.104,0.092,0.803,positive,The marvellous land of Snergs
+There was nothing else behind him but a little wooden bench; the chamber was as bare and smooth as an empty jam-pot.,-0.296,0.0,0.099,0.901,negative,The marvellous land of Snergs
+Above him was the bright blue sky.,0.4404,0.326,0.0,0.674,positive,The marvellous land of Snergs
+Before him was green grass and waving forest.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Below him was a nasty drop of twenty-seven feet.,-0.6908,0.0,0.487,0.513,negative,The marvellous land of Snergs
+I don't think I have left anything out.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Joe started suddenly and looked about, for from somewhere he had heard the hoot of the Aviola, or small downy owl, which by rights should be still asleep at that hour.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"He replied with the half-whistle, half-bleat of the Crested Grebe (these were secret signals), and Sylvia came worming her way out from the neighbouring herbaceous border, accompanied by their small but faithful hound.",0.5927,0.107,0.0,0.893,positive,The marvellous land of Snergs
+"She parted her mass of curls, which had fallen across her face in the passage, and stood having a good look at him.",0.1027,0.114,0.098,0.787,positive,The marvellous land of Snergs
+"""Oh, Joe,"" she said in the low voice of pity, ""are you very beastly lonely up there?""",-0.7251,0.0,0.336,0.664,negative,The marvellous land of Snergs
+"""Yes, Sylvia, I'm just as lonely and miserable!",-0.7177,0.0,0.5,0.5,negative,The marvellous land of Snergs
+And I've had nothing to eat but some dry bread.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"I think they dried it on purpose.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""And Tiger's been wondering what's the matter, Joe.""",0.0258,0.136,0.0,0.864,neutral,The marvellous land of Snergs
+"She held him up, and Tiger caught sight of Joe and wriggled and made moans, as of a puppy that wanted comfort.",0.2263,0.108,0.069,0.823,positive,The marvellous land of Snergs
+"""But I've got something for you.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+She put down Tiger and produced a handkerchief.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""I've got some apple sauce on bits of bread that aren't so dry, and a piece of seedy cake.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+And some pears.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"I suppose you haven't got a piece of string?""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Yes I have,"" he answered joyfully.",0.7351,0.674,0.0,0.326,positive,The marvellous land of Snergs
+"""I've got my fishing line.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Here it is.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"I've been fishing for hours and hours trying to fish up something to play with, but all I got was some bits of twigs and I couldn't do much with them.""",0.1779,0.057,0.0,0.943,positive,The marvellous land of Snergs
+"Sylvia hooked her handkerchief with the provisions on to the line, and a moment later Joe was eating busily.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""You're just like a captive princess in a tower,"" she said after a time.",0.3612,0.2,0.0,0.8,positive,The marvellous land of Snergs
+"""Like Rapunzel.""",0.3612,0.714,0.0,0.286,positive,The marvellous land of Snergs
+"""Except I haven't got such long hair.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+I feel like an old cat up a pole--except I can't get down.,0.3612,0.217,0.0,0.783,positive,The marvellous land of Snergs
+"When are they going to let me out?""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Miss Watkyns said when all of us are in bed.",-0.1531,0.0,0.151,0.849,negative,The marvellous land of Snergs
+"Isn't she vicious?""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""But that's hours and hours!",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Oh, Sylvia, I must get out!""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"He bounced up and down on the window-sill, and Sylvia squawked.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Oh, Joe, you ass, you'll fall!""",-0.5848,0.0,0.431,0.569,negative,The marvellous land of Snergs
+"""Not me, don't you think it.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+He bounced up and down again to show his skill.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Look here, Joe, shall I hook on Tiger?",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"I'll tie him in my hankie so that he won't fall and then you can play with him for a bit--No, you keep him up there with you, and then won't Miss Watkyns be surprised when she finds him there!",0.6169,0.144,0.0,0.856,positive,The marvellous land of Snergs
+"She'll think he's got wings somehow.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Yes, that'd be fine.",0.2023,0.375,0.0,0.625,positive,The marvellous land of Snergs
+"But I've got a much better idea, Sylvia.",0.5927,0.391,0.0,0.609,positive,The marvellous land of Snergs
+"You just bring me that clothes-line over there.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""What for?",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"And it's got nighties drying on it.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""I don't want them, I want only the rope.",-0.1139,0.0,0.289,0.711,negative,The marvellous land of Snergs
+"Do, Sylvia, it's something delicious.",0.5719,0.481,0.0,0.519,positive,The marvellous land of Snergs
+"If you don't I'll show you how to hang out of a window head downwards.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""No, don't !""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+cried Sylvia.,-0.3818,0.0,0.722,0.278,negative,The marvellous land of Snergs
+"""I'll bring it.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"She ran off and came back a minute later with the clothes-line, which she fastened to his fish-hook.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Nighties all over the grass.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+There'll be a fine row over it if they catch me.,0.2023,0.167,0.0,0.833,positive,The marvellous land of Snergs
+"You are a headstrong boy, Joe.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Joe did not answer, for he was busy.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"He hauled up the rope and fastened one end of it to the bench, and then managed to jam the bench across the window frame.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Then he called to Sylvia to stand from under.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Because,"" he said, ""it's rather a rotten piece of rope, and besides, I don't think this silly old bench is going to stand much jerking about.",-0.4897,0.043,0.125,0.833,negative,The marvellous land of Snergs
+"But we'll soon see.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"On the next instant, Sylvia gave a screech, for there was Joe outside the window, spinning round on the rope.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+But before you could count ten he had slid down to the ground and Tiger was leaping and trying to get at his face so as to lick it.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Not a very wonderful trick for a circus boy, but then Sylvia didn't know anything about circuses.",-0.2336,0.072,0.129,0.798,negative,The marvellous land of Snergs
+She put her arms round his neck and hugged him.,0.4019,0.231,0.0,0.769,positive,The marvellous land of Snergs
+"""Oh, Joe,"" she said, ""you are a brave boy!",0.5707,0.345,0.0,0.655,positive,The marvellous land of Snergs
+You looked just like a clean monkey coming down--except that you haven't got a tail.,0.6369,0.321,0.0,0.679,positive,The marvellous land of Snergs
+"But how are you going to get the rope put back?""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""I'm not bothering about the rope,"" said Joe.",0.2924,0.238,0.0,0.762,positive,The marvellous land of Snergs
+"""You see we're just going to run away.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Run away!",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"What for?""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""For fun.",0.5106,0.767,0.0,0.233,positive,The marvellous land of Snergs
+I'm not going to be locked up by anybody.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"I'm going over to see the Snergs, and you've got to come with me.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Tiger's coming, too, of course.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"We'll have a glorious time!""",0.6696,0.6,0.0,0.4,positive,The marvellous land of Snergs
+"""What do you mean, you contentious infant?""",-0.296,0.0,0.268,0.732,negative,The marvellous land of Snergs
+(She sometimes used words she had heard from Miss Watkyns and other ladies.),-0.1531,0.0,0.118,0.882,negative,The marvellous land of Snergs
+"""It's miles and miles and miles!",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"And you don't know the way there.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Yes I do.",0.4019,0.73,0.0,0.27,positive,The marvellous land of Snergs
+"It's straight over there, just a little bit this side of where the sun goes under.",0.2263,0.119,0.0,0.881,positive,The marvellous land of Snergs
+"We'll just go that way until we can't see it, and then we'll sleep in a nice place in the forest.""",0.4215,0.128,0.0,0.872,positive,The marvellous land of Snergs
+"""Yes, Clever, and what about to-morrow?",0.4588,0.375,0.0,0.625,positive,The marvellous land of Snergs
+"The sun's always over the sea in the morning.""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Then all we've got to do is to go the other way.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Can't you see?""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Sylvia was rather impressed by his resourcefulness.,0.4767,0.341,0.0,0.659,positive,The marvellous land of Snergs
+"""Yes, but what about afterwards, Joe,"" she said after a moment.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""What will Miss Watkyns do when she knows about it?""",-0.1531,0.0,0.151,0.849,negative,The marvellous land of Snergs
+"""Yes, but what happens afterwards will happen afterwards .",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Can't you see?,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Come along, Sylvia, it's adventures, like those tales your nurse told you about.",0.5994,0.308,0.0,0.692,positive,The marvellous land of Snergs
+And it's much better being a tale than just hearing it.,0.4404,0.244,0.0,0.756,positive,The marvellous land of Snergs
+We'll sleep in the forest to-night--it's nice and warm--and to-morrow sometime we'll be at the Snerg's place and have a jolly time with them.,0.7269,0.225,0.0,0.775,positive,The marvellous land of Snergs
+Just think what the other kids will think of us.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Won't they be jealous!""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"How it happened Sylvia could never quite make out, but she found herself running along hand-in-hand with Joe over the soft turf, with Tiger bouncing alongside of them and sometimes tumbling over his own barks, drawing nearer and nearer to the trees which looked so cool and inviting on that warm afternoon.",0.8652,0.165,0.0,0.835,positive,The marvellous land of Snergs
+"""Oh, Joe,"" she panted as she ran, "" what an absurd mite you are!""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"The Forest Land It seemed to these precocious infants that the forest was deeper and shadier and more silent, and the grass softer than they had ever known it before; but perhaps that was because before they had always gone with troops of young ones, which would at least do away with the quietness.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"In parts where the trees were not so very thick the grass was all dappled with spots of sun, and sometimes there were great shafts of light through the trees to make a guide for them, for all they had to do so far was to go as fast as they could in the direction of the sun.",0.6249,0.068,0.0,0.932,positive,The marvellous land of Snergs
+"And they ran on and on and on, with the pretence idea that they were fleeing from enemies who knew no touch of mercy and they must get as far as possible while they could.",-0.4404,0.063,0.135,0.802,negative,The marvellous land of Snergs
+"At length they had to stop running and walk, but they walked hard because Joe said they must keep on for hours and hours.",-0.296,0.0,0.127,0.873,negative,The marvellous land of Snergs
+"But it was not so very long before they had to sit down and rest, for they were all hot and sticky and getting very hungry.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Joe opened Sylvia's handkerchief, in which he carried the rest of the pears she had brought.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"There were five left, rather soft with the jolting, being ripe, but they ate them, squashed parts and peel and all, and then they had a draught from a stream, lying down on their stomachs and drinking like hunters.",-0.3291,0.076,0.107,0.817,negative,The marvellous land of Snergs
+"Tiger's share of the meal was as much water as he liked to drink, and the sight of him sitting up and thinking after this meagre diet brought into Sylvia's head an idea that perhaps they had been a tiny bit rash.",0.3182,0.109,0.059,0.832,positive,The marvellous land of Snergs
+"But Joe said that Tiger could make up for it to-morrow by a good blow-out, entirely omitting to consider the many weary miles that lay between them and the country of the Snergs and the slim chance they had of ever finding their way there at all.",0.5719,0.122,0.051,0.827,positive,The marvellous land of Snergs
+"He said it was really adventures, like the one her nurse had told her of, and he pointed out how very likely it was that something exciting would happen at any moment.",0.8258,0.23,0.0,0.77,positive,The marvellous land of Snergs
+Sylvia gave her opinion that they were rather too small to be of much use if anything exciting did occur and said she hoped it wouldn't.,0.7003,0.195,0.0,0.805,positive,The marvellous land of Snergs
+"She asked him if he thought it would be cold when the dark came, and he said, ""No, only nice and cool,"" for he was an optimist always.",0.7351,0.193,0.0,0.807,positive,The marvellous land of Snergs
+"They got up and went on again, following the gleam of the sun as well as they could, until at last it went altogether and they could only see a red glow from the open parts where there were mostly bushes.",0.2732,0.051,0.0,0.949,positive,The marvellous land of Snergs
+"And still they went on and on and on, until Sylvia said her legs began to feel all wobbly and she had to sit down.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+There it was: those silly things were deep in the lonely woods and the shadows were creeping up from the far places.,-0.34,0.047,0.106,0.847,negative,The marvellous land of Snergs
+"Joe climbed a tree to see if he could see something worth seeing, such as the smoke from an honest wood-cutter's hut or the like, as in the tales of forests; though really he hadn't much expectation of finding anything, for he had been told there was little else but billions of trees between the sea and the Snerg country.",0.5187,0.087,0.0,0.913,positive,The marvellous land of Snergs
+"All he could see was a little speck of red which he said might be the last of the sunset, or might be a fire made by Indians or cannibals; though of course he did not mean the last part nor did Sylvia believe it or take any interest in it.",0.1531,0.057,0.046,0.897,positive,The marvellous land of Snergs
+What she wanted was a bite of real supper and a bed; the forest had been growing darker and more serious and a little shiver went through her as if a lot of the fun had suddenly gone.,0.5279,0.133,0.042,0.825,positive,The marvellous land of Snergs
+"""It's getting more and more like one of those tales,"" said Joe in a satisfied way--as will have been seen, he had a good deal of what is known as the bulldog breed in him.",0.8297,0.226,0.0,0.774,positive,The marvellous land of Snergs
+"""Specially that part over there where it's like a dark passage.",0.3612,0.217,0.0,0.783,positive,The marvellous land of Snergs
+"Suppose an old witch was to come along there, flop, flop, flop, and tell us to go home with her.""",-0.8271,0.0,0.377,0.623,negative,The marvellous land of Snergs
+"""Oh, don't, Joe!",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+We don't want it too much like those tales.,0.3134,0.233,0.114,0.653,positive,The marvellous land of Snergs
+It's getting awfully lonely.,-0.4201,0.0,0.482,0.518,negative,The marvellous land of Snergs
+"I wish I hadn't come.""",0.4019,0.574,0.0,0.426,positive,The marvellous land of Snergs
+"""But it's only lonely enough to be nice, Sylvia.",0.1154,0.265,0.233,0.502,positive,The marvellous land of Snergs
+"Besides, it's great fun.",0.8126,0.787,0.0,0.213,positive,The marvellous land of Snergs
+"There's nobody to tell us we mustn't do things, or to tell us when to go to bed.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"We jolly well go to bed when we like.""",0.6597,0.435,0.0,0.565,positive,The marvellous land of Snergs
+"""Yes, but where are we to go to bed?""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"""Oh, somewhere or other.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+I know!,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"We'll get some fallen leaves, like in the babes in the wood, and cover ourselves up.""",0.0,0.132,0.132,0.737,neutral,The marvellous land of Snergs
+"""But it's summer time and there aren't any fallen leaves.""",0.395,0.228,0.0,0.772,positive,The marvellous land of Snergs
+"""More there are.",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+Then what we've got to do is to cuddle up close.,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"I'll look after you, never fear, and if any old witch was to----"" here he stopped suddenly and looked round at the deepening shadows.",-0.1955,0.094,0.157,0.749,negative,The marvellous land of Snergs
+"""Oh, Joe!""",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"cried Sylvia, getting close up to him and rather behind him.",-0.3818,0.0,0.206,0.794,negative,The marvellous land of Snergs
+"The sound they heard was a nasty, soft, flopping sound, and it came from the part which Joe had said looked like a dark passage.",-0.2732,0.092,0.133,0.775,negative,The marvellous land of Snergs
+"He wished he had brought a sword with him somehow, or a bow and arrows, or else one of old Vanderdecken's guns even if it did knock him over backwards as the one did that he got hold of one day (but nobody found out who it was).",0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+"Alas, he had nothing but his wooden scalping knife; but he got it out because it seemed better than nothing.",0.5106,0.165,0.066,0.769,positive,The marvellous land of Snergs
+"Then, to the surprise and joy of these infants, a great cinnamon bear hove in sight and came up to them, wagging his head from side to side, and, so to speak, gently barging at them.",0.9226,0.3,0.0,0.7,positive,The marvellous land of Snergs
+"It took some time to prove to him that they were in no mood for play, but by dint of strenuous pushing at him on one side he got it into his thick head that they wanted him to lie down, and he flopped over.",0.0258,0.037,0.035,0.929,neutral,The marvellous land of Snergs
+"Then they got close up to him, Sylvia on the inside so as to give her as much of the fur as possible, and Tiger curled up in a little hollow space by her neck; and they were soon asleep, for they were very tired, what with the long tramp and the novelty of everything.",-0.4927,0.0,0.057,0.943,negative,The marvellous land of Snergs
+But what a change!,0.0,0.0,0.0,1.0,neutral,The marvellous land of Snergs
+From their nicely prepared supper of warm milk and rusks to cold pears and water.,0.6908,0.358,0.0,0.642,positive,The marvellous land of Snergs
+"From their clean, decorously tinted dormitory to the lonely wind-sighing forest.",0.0516,0.19,0.176,0.634,positive,The marvellous land of Snergs
+"From their little cots, with clean sheets spread over resilient aromatic hops, to the lee-side of a bear.",0.3477,0.132,0.0,0.868,positive,The marvellous land of Snergs
+"And the bear had bad dreams and kept waking them up by moaning and shuddering sounds, and more than once he turned over, forgetting all about them, and Joe had to punch him and pull his fur hard to let him know that there were young folks and a puppy underneath.",-0.3818,0.049,0.115,0.836,negative,The marvellous land of Snergs
+"It was a long, hard, disagreeable night, and they were right g",-0.4767,0.0,0.339,0.661,negative,The marvellous land of Snergs

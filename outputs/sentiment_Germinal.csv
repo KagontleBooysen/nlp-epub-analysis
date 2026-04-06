@@ -1,0 +1,481 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Germinal This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Germinal
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Germinal
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Germinal
+"Title : Germinal Author : Émile Zola Release date : May 1, 2004 [eBook #5711] Most recently updated: December 29, 2020 Language : French Other information and formats : www.gutenberg.org/ebooks/5711 Credits : This eBook was produced by Carlo Traverso *** START OF THE PROJECT GUTENBERG EBOOK GERMINAL *** This eBook was produced by Carlo Traverso.",0.3612,0.05,0.0,0.95,positive,Germinal
+"Author: Émile Zola Title: Germinal Remark: n. 13 of ""Les Rougon-Macquart"" Language: French Encoding: ISO-8859-1 We thank the Bibliotheque Nationale de France that has made available the image files at www://gallica.bnf.fr, authorizing the preparation of the etext through OCR.",0.3612,0.062,0.0,0.938,positive,Germinal
+"Nous remercions la Bibliothèque Nationale de France qui a mis à disposition les images dans www://gallica.bnf.fr, et a donné l'autorisation de les utiliser pour préparer ce texte.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Émile Zola Germinal Première Partie I Dans la plaine rase, sous la nuit sans étoiles, d'une obscurité et d'une épaisseur d'encre, un homme suivait seul la grande route de Marchiennes à Montsou, dix kilomètres de pavé coupant tout droit, à travers les champs de betteraves.",0.3182,0.063,0.034,0.903,positive,Germinal
+"Devant lui, il ne voyait même pas le sol noir, et il n'avait la sensation de l'immense horizon plat que par les souffles du vent de mars, des rafales larges comme sur une mer, glacées d'avoir balayé des lieues de marais et de terres nues.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Aucune ombre d'arbre ne tachait le ciel, le pavé se déroulait avec la rectitude d'une jetée, au milieu de l'embrun aveuglant des ténèbres.",0.0,0.0,0.0,1.0,neutral,Germinal
+L'homme était parti de Marchiennes vers deux heures.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Il marchait d'un pas allongé, grelottant sous le coton aminci de sa veste et de son pantalon de velours.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Un petit paquet, noué dans un mouchoir à carreaux, le gênait beaucoup; et il le serrait contre ses flancs, tantôt d'un coude, tantôt de l'autre, pour glisser au fond de ses poches les deux mains à la fois, des mains gourdes que les lanières du vent d'est faisaient saigner.",0.4404,0.059,0.0,0.941,positive,Germinal
+"Une seule idée occupait sa tête vide d'ouvrier sans travail et sans gîte, l'espoir que le froid serait moins vif après le lever du jour.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Depuis une heure, il avançait ainsi, lorsque sur la gauche, à deux kilomètres de Montsou, il aperçut des feux rouges, trois brasiers brûlant au plein air, et comme suspendus.",0.0,0.0,0.0,1.0,neutral,Germinal
+"D'abord, il hésita, pris de crainte; puis, il ne put résister au besoin douloureux de se chauffer un instant les mains.",0.0,0.0,0.0,1.0,neutral,Germinal
+Un chemin creux s'enfonçait.,0.0,0.0,0.0,1.0,neutral,Germinal
+Tout disparut.,-0.128,0.0,0.6,0.4,negative,Germinal
+"L'homme avait à droite une palissade, quelque mur de grosses planches fermant une voie ferrée; tandis qu'un talus d'herbe s'élevait à gauche, surmonté de pignons confus, d'une vision de village aux toitures basses et uniformes.",0.0516,0.057,0.052,0.891,positive,Germinal
+Il fit environ deux cents pas.,0.3612,0.333,0.0,0.667,positive,Germinal
+"Brusquement, à un coude du chemin, les feux reparurent près de lui, sans qu'il comprît davantage comment ils brûlaient si haut dans le ciel mort, pareils à des lunes fumeuses.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais, au ras du sol, un autre spectacle venait de l'arrêter.",0.0,0.0,0.0,1.0,neutral,Germinal
+"C'était une masse lourde, un tas écrasé de constructions, d'où se dressait la silhouette d'une cheminée d'usine; de rares lueurs sortaient des fenêtres encrassées, cinq ou six lanternes tristes étaient pendues dehors, à des charpentes dont les bois noircis alignaient vaguement des profils de tréteaux gigantesques; et, de cette apparition fantastique, noyée de nuit et de fumée, une seule voix montait, la respiration grosse et longue d'un échappement de vapeur, qu'on ne voyait point.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Alors, l'homme reconnut une fosse.",0.0,0.0,0.0,1.0,neutral,Germinal
+Il fut repris de honte: à quoi bon?,0.0,0.0,0.0,1.0,neutral,Germinal
+il n'y aurait pas de travail.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Au lieu de se diriger vers les bâtiments, il se risqua enfin à gravir le terri sur lequel brûlaient les trois feux de houille, dans des corbeilles de fonte, pour éclairer et réchauffer la besogne.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Les ouvriers de la coupe à terre avaient dû travailler tard, on sortait encore les débris inutiles.",-0.5423,0.0,0.189,0.811,negative,Germinal
+"Maintenant, il entendait les moulineurs pousser les trains sur les tréteaux, il distinguait des ombres vivantes culbutant les berlines, près de chaque feu.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Bonjour, dit-il en s'approchant d'une des corbeilles.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Tournant le dos au brasier, le charretier était debout, un vieillard vêtu d'un tricot de laine violette, coiffé d'une casquette en poil de lapin; pendant que son cheval, un gros cheval jaune, attendait, dans une immobilité de pierre, qu'on eût vidé les six berlines montées par lui.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Le manoeuvre employé au culbuteur, un gaillard roux et efflanqué, ne se pressait guère, pesait sur le levier d'une main endormie.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et, là-haut, le vent redoublait, une bise glaciale, dont les grandes haleines régulières passaient comme des coups de faux.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Bonjour, répondit le vieux.",0.0,0.0,0.0,1.0,neutral,Germinal
+Un silence se fit.,0.3612,0.455,0.0,0.545,positive,Germinal
+"L'homme, qui se sentait regardé d'un oeil méfiant, dit son nom tout de suite.",-0.128,0.0,0.103,0.897,negative,Germinal
+"--Je me nomme Étienne Lantier, je suis machineur… Il n'y a pas de travail ici?",0.0,0.0,0.0,1.0,neutral,Germinal
+"Les flammes l'éclairaient, il devait avoir vingt et un ans, très brun, joli homme, l'air fort malgré ses membres menus.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Rassuré, le charretier hochait la tête.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Du travail pour un machineur, non, non… Il s'en est encore présenté deux hier.",0.0,0.0,0.0,1.0,neutral,Germinal
+Il n'y a rien.,0.0,0.0,0.0,1.0,neutral,Germinal
+Une rafale leur coupa la parole.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Puis, Étienne demanda, en montrant le tas sombre des constructions, au pied du terri: --C'est une fosse, n'est-ce pas?",0.0,0.0,0.0,1.0,neutral,Germinal
+"Le vieux, cette fois, ne put répondre.",0.0,0.0,0.0,1.0,neutral,Germinal
+Un violent accès de toux l'étranglait.,-0.5994,0.0,0.438,0.562,negative,Germinal
+"Enfin, il cracha, et son crachat, sur le sol empourpré, laissa une tache noire.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Oui, une fosse, le Voreux… Tenez!",0.0,0.0,0.0,1.0,neutral,Germinal
+le coron est tout près.,-0.128,0.0,0.273,0.727,negative,Germinal
+"A son tour, de son bras tendu, il désignait dans la nuit le village dont le jeune homme avait deviné les toitures.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais les six berlines étaient vides, il les suivit sans un claquement de fouet, les jambes raidies par des rhumatismes; tandis que le gros cheval jaune repartait tout seul, tirait pesamment entre les rails, sous une nouvelle bourrasque, qui lui hérissait le poil.",-0.128,0.0,0.034,0.966,negative,Germinal
+"Le Voreux, à présent, sortait du rêve.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Étienne, qui s'oubliait devant le brasier à chauffer ses pauvres mains saignantes, regardait, retrouvait chaque partie de la fosse, le hangar goudronné du criblage, le beffroi du puits, la vaste chambre de la machine d'extraction, la tourelle carrée de la pompe d'épuisement.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Cette fosse, tassée au fond d'un creux, avec ses constructions trapues de briques, dressant sa cheminée comme une corne menaçante, lui semblait avoir un air mauvais de bête goulue, accroupie là pour manger le monde.",0.4404,0.079,0.0,0.921,positive,Germinal
+"Tout en l'examinant, il songeait à lui, à son existence de vagabond, depuis huit jours qu'il cherchait une place; il se revoyait dans son atelier du chemin de fer, giflant son chef, chassé de Lille, chassé de partout; le samedi, il était arrivé à Marchiennes, où l'on disait qu'il y avait du travail, aux Forges; et rien, ni aux Forges, ni chez Sonneville, il avait dû passer le dimanche caché sous les bois d'un chantier de charronnage, dont le surveillant venait de l'expulser, à deux heures de la nuit.",-0.128,0.0,0.018,0.982,negative,Germinal
+"Rien, plus un sou, pas même une croûte: qu'allait-il faire ainsi par les chemins, sans but, ne sachant seulement où s'abriter contre la bise?",0.0,0.0,0.0,1.0,neutral,Germinal
+"Oui, c'était bien une fosse, les rares lanternes éclairaient le carreau, une porte brusquement ouverte lui avait permis d'entrevoir les foyers des générateurs, dans une clarté vive.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il s'expliquait jusqu'à l'échappement de la pompe, cette respiration grosse et longue, soufflant sans relâche, qui était comme l'haleine engorgée du monstre.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Le manoeuvre du culbuteur, gonflant le dos, n'avait pas même levé les yeux sur Étienne, et celui-ci allait ramasser son petit paquet tombé à terre, lorsqu'un accès de toux annonça le retour du charretier.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Lentement, on le vit sortir de l'ombre, suivi du cheval jaune, qui montait six nouvelles berlines pleines.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Il y a des fabriques à Montsou?,0.0,0.0,0.0,1.0,neutral,Germinal
+demanda le jeune homme.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Le vieux cracha noir, puis répondit dans le vent: --Oh!",0.0,0.0,0.0,1.0,neutral,Germinal
+ce ne sont pas les fabriques qui manquent.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Fallait voir ça, il y a trois ou quatre ans!",0.0,0.0,0.0,1.0,neutral,Germinal
+"Tout ronflait, on ne pouvait trouver des hommes, jamais on n'avait tant gagné… Et voilà qu'on se remet à se serrer le ventre.",-0.128,0.0,0.067,0.933,negative,Germinal
+"Une vraie pitié dans le pays, on renvoie le monde, les ateliers ferment les uns après les autres… Ce n'est peut-être pas la faute de l'empereur; mais pourquoi va-t-il se battre en Amérique?",0.0,0.0,0.0,1.0,neutral,Germinal
+"Sans compter que les bêtes meurent du choléra, comme les gens.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Alors, en courtes phrases, l'haleine coupée, tous deux continuèrent à se plaindre.",0.0,0.0,0.0,1.0,neutral,Germinal
+Étienne racontait ses courses inutiles depuis une semaine: il fallait donc crever de faim?,0.0,0.0,0.0,1.0,neutral,Germinal
+bientôt les routes seraient pleines de mendiants.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Oui, disait le vieillard, ça finirait par mal tourner, car il n'était pas Dieu permis de jeter tant de chrétiens à la rue.",0.0,0.0,0.0,1.0,neutral,Germinal
+--On n'a pas de la viande tous les jours.,0.0,0.0,0.0,1.0,neutral,Germinal
+--Encore si l'on avait du pain!,-0.5562,0.0,0.418,0.582,negative,Germinal
+"--C'est vrai, si l'on avait du pain seulement!",-0.5562,0.0,0.339,0.661,negative,Germinal
+"Leurs voix se perdaient, des bourrasques emportaient les mots dans un hurlement mélancolique.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Tenez!,0.0,0.0,0.0,1.0,neutral,Germinal
+"reprit très haut le charretier en se tournant vers le midi, Montsou est là… Et, de sa main tendue de nouveau, il désigna dans les ténèbres des points invisibles, à mesure qu'il les nommait.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Là-bas, à Montsou, la sucrerie Fauvelle marchait encore, mais la sucrerie Hoton venait de réduire son personnel, il n'y avait guère que la minoterie Dutilleul et la corderie Bleuze pour les câbles de mine, qui tinssent le coup.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Puis, d'un geste large, il indiqua, au nord, toute une moitié de l'horizon: les ateliers de construction Sonneville n'avaient pas reçu les deux tiers de leurs commandes habituelles; sur les trois hauts fourneaux des Forges de Marchiennes, deux seulement étaient allumés; enfin, à la verrerie Gagebois, une grève menaçait, car on parlait d'une réduction de salaire.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Je sais, je sais, répétait le jeune homme à chaque indication.",0.0,0.0,0.0,1.0,neutral,Germinal
+J'en viens.,0.0,0.0,0.0,1.0,neutral,Germinal
+"--Nous autres, ça va jusqu'à présent, ajouta le charretier.",0.0,0.0,0.0,1.0,neutral,Germinal
+Les fosses ont pourtant diminué leur extraction.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Et regardez, en face, à la Victoire, il n'y a aussi que deux batteries de fours à coke qui flambent.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il cracha, il repartit derrière son cheval somnolent, après l'avoir attelé aux berlines vides.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Maintenant, Étienne dominait le pays entier.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Les ténèbres demeuraient profondes, mais la main du vieillard les avait comme emplies de grandes misères, que le jeune homme, inconsciemment, sentait à cette heure autour de lui, partout, dans l'étendue sans bornes.",0.0,0.0,0.0,1.0,neutral,Germinal
+"N'était-ce pas un cri de famine que roulait le vent de mars, au travers de cette campagne nue?",0.0,0.0,0.0,1.0,neutral,Germinal
+"Les rafales s'étaient enragées, elles semblaient apporter la mort du travail, une disette qui tuerait beaucoup d'hommes.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et, les yeux errants, il s'efforçait de percer les ombres, tourmenté du désir et de la peur de voir.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Tout s'anéantissait au fond de l'inconnu des nuits obscures, il n'apercevait, très loin, que les hauts fourneaux et les fours à coke.",0.34,0.124,0.064,0.812,positive,Germinal
+"Ceux-ci, des batteries de cent cheminées, plantées obliquement, alignaient des rampes de flammes rouges; tandis que les deux tours, plus à gauche, brûlaient toutes bleues en plein ciel, comme des torches géantes.",0.0,0.0,0.0,1.0,neutral,Germinal
+"C'était d'une tristesse d'incendie, il n'y avait d'autres levers d'astres, à l'horizon menaçant, que ces feux nocturnes des pays de la houille et du fer.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Vous êtes peut-être de la Belgique?,0.0,0.0,0.0,1.0,neutral,Germinal
+"reprit derrière Étienne le charretier, qui était revenu.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Cette fois, il n'amenait que trois berlines.",0.0,0.0,0.0,1.0,neutral,Germinal
+"On pouvait toujours culbuter celles-là: un accident arrivé à la cage d'extraction, un écrou cassé, allait arrêter le travail pendant un grand quart d'heure.",-0.0258,0.111,0.114,0.775,neutral,Germinal
+"En bas du terri, un silence s'était fait, les moulineurs n'ébranlaient plus les tréteaux d'un roulement prolongé.",0.0,0.0,0.0,1.0,neutral,Germinal
+"On entendait seulement sortir de la fosse le bruit lointain d'un marteau, tapant sur de la tôle.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Non, je suis du Midi, répondit le jeune homme.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Le manoeuvre, après avoir vidé les berlines, s'était assis à terre, heureux de l'accident; et il gardait sa sauvagerie muette, il avait simplement levé de gros yeux éteints sur le charretier, comme gêné par tant de paroles.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Ce dernier, en effet, n'en disait pas si long d'habitude.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il fallait que le visage de l'inconnu lui convînt et qu'il fût pris d'une de ces démangeaisons de confidences, qui font parfois causer les vieilles gens tout seuls, à haute voix.",-0.128,0.0,0.049,0.951,negative,Germinal
+"--Moi, dit-il, je suis de Montsou, je m'appelle Bonnemort.",0.0,0.0,0.0,1.0,neutral,Germinal
+--C'est un surnom?,0.0,0.0,0.0,1.0,neutral,Germinal
+demanda Étienne étonné.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Le vieux eut un ricanement d'aise, et montrant le Voreux: --Oui, oui… On m'a retiré trois fois de là-dedans en morceaux, une fois avec tout le poil roussi, une autre avec de la terre jusque dans le gésier, la troisième avec le ventre gonflé d'eau comme une grenouille… Alors, quand ils ont vu que je ne voulais pas crever, ils m'ont appelé Bonnemort, pour rire.",-0.128,0.0,0.023,0.977,negative,Germinal
+"Sa gaieté redoubla, un grincement de poulie mal graissée, qui finit par dégénérer en un accès terrible de toux.",-0.4767,0.0,0.147,0.853,negative,Germinal
+"La corbeille de feu, maintenant, éclairait en plein sa grosse tête, aux cheveux blancs et rares, à la face plate, d'une pâleur livide, maculée de taches bleuâtres.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il était petit, le cou énorme, les mollets et les talons en dehors, avec de longs bras dont les mains carrées tombaient à ses genoux.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Du reste, comme son cheval qui demeurait immobile sur les pieds, sans paraître souffrir du vent, il semblait en pierre, il n'avait l'air de se douter ni du froid ni des bourrasques sifflant à ses oreilles.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Quand il eut toussé, la gorge arrachée par un raclement profond, il cracha au pied de la corbeille, et la terre noircit.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Étienne le regardait, regardait le sol qu'il tachait de la sorte.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Il y a longtemps, reprit-il, que vous travaillez à la mine?",0.0,0.0,0.0,1.0,neutral,Germinal
+Bonnemort ouvrit tout grands les deux bras.,-0.128,0.0,0.2,0.8,negative,Germinal
+"--Longtemps, ah!",0.0,0.0,0.0,1.0,neutral,Germinal
+"oui!… Je n'avais pas huit ans, lorsque je suis descendu, tenez!",0.0,0.0,0.0,1.0,neutral,Germinal
+"juste dans le Voreux, et j'en ai cinquante-huit, à cette heure.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Calculez un peu… J'ai tout fait là-dedans, galibot d'abord, puis herscheur, quand j'ai eu la force de rouler, puis haveur pendant dix-huit ans.",-0.128,0.0,0.064,0.936,negative,Germinal
+"Ensuite, à cause de mes sacrées jambes, ils m'ont mis de la coupe à terre, remblayeur, raccommodeur, jusqu'au moment où il leur a fallu me sortir du fond, parce que le médecin disait que j'allais y rester.",0.4404,0.083,0.0,0.917,positive,Germinal
+"Alors, il y a cinq années de cela, ils m'ont fait charretier… Hein?",0.0,0.0,0.0,1.0,neutral,Germinal
+"c'est joli, cinquante ans de mine, dont quarante-cinq au fond!",-0.4015,0.0,0.231,0.769,negative,Germinal
+"Tandis qu'il parlait, des morceaux de houille enflammés, qui, par moments, tombaient de la corbeille, allumaient sa face blême d'un reflet sanglant.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Ils me disent de me reposer, continua-t-il.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Moi, je ne veux pas, ils me croient trop bête!… J'irai bien deux années, jusqu'à ma soixantaine, pour avoir la pension de cent quatre-vingts francs.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Si je leur souhaitais le bonsoir aujourd'hui, ils m'accorderaient tout de suite celle de cent cinquante.",-0.128,0.0,0.091,0.909,negative,Germinal
+"Ils sont malins, les bougres!… D'ailleurs, je suis solide, à part les jambes.",0.0,0.0,0.0,1.0,neutral,Germinal
+"C'est, voyez-vous, l'eau qui m'est entrée sous la peau, à force d'être arrosé dans les tailles.",0.0,0.0,0.0,1.0,neutral,Germinal
+Il y a des jours où je ne peux pas remuer une patte sans crier.,0.0,0.0,0.0,1.0,neutral,Germinal
+Une crise de toux l'interrompit encore.,0.0,0.0,0.0,1.0,neutral,Germinal
+--Et ça vous fait tousser aussi?,0.0,0.0,0.0,1.0,neutral,Germinal
+dit Étienne.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais il répondit non de la tête, violemment.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Puis, quand il put parler: --Non, non, je me suis enrhumé, l'autre mois.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Jamais je ne toussais, à présent je ne peux plus me débarrasser… Et le drôle, c'est que je crache, c'est que je crache… Un raclement monta de sa gorge, il cracha noir.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Est-ce que c'est du sang?,0.0,0.0,0.0,1.0,neutral,Germinal
+"demanda Étienne, osant enfin le questionner.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Lentement, Bonnemort s'essuyait la bouche d'un revers de main.",0.0,0.0,0.0,1.0,neutral,Germinal
+--C'est du charbon… J'en ai dans la carcasse de quoi me chauffer jusqu'à la fin de mes jours.,0.0,0.0,0.0,1.0,neutral,Germinal
+Et voilà cinq ans que je ne remets pas les pieds au fond.,0.4404,0.195,0.0,0.805,positive,Germinal
+"J'avais ça en magasin, paraît-il, sans même m'en douter.",0.0,0.0,0.0,1.0,neutral,Germinal
+Bah!,0.0,0.0,0.0,1.0,neutral,Germinal
+ça conserve!,0.0,0.0,0.0,1.0,neutral,Germinal
+"Il y eut un silence, le marteau lointain battait à coups réguliers dans la fosse, le vent passait avec sa plainte, comme un cri de faim et de lassitude venu des profondeurs de la nuit.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Devant les flammes qui s'effaraient, le vieux continuait plus bas, remâchant des souvenirs.",0.0,0.0,0.0,1.0,neutral,Germinal
+Ah!,0.0,0.0,0.0,1.0,neutral,Germinal
+"bien sûr, ce n'était pas d'hier que lui et les siens tapaient à la veine!",0.0,0.0,0.0,1.0,neutral,Germinal
+"La famille travaillait pour la Compagnie des mines de Montsou, depuis la création; et cela datait de loin, il y avait déjà cent six ans.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Son aïeul, Guillaume Maheu, un gamin de quinze ans alors, avait trouvé le charbon gras à Réquillart, la première fosse de la Compagnie, une vieille fosse aujourd'hui abandonnée, là-bas, près de la sucrerie Fauvelle.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Tout le pays le savait, à preuve que la veine découverte s'appelait la veine Guillaume, du prénom de son grand-père.",-0.128,0.0,0.077,0.923,negative,Germinal
+"Il ne l'avait pas connu, un gros à ce qu'on racontait, très fort, mort de vieillesse à soixante ans.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Puis, son père, Nicolas Maheu dit le Rouge, âgé de quarante ans à peine, était resté dans le Voreux, que l'on fonçait en ce temps-là: un éboulement, un aplatissement complet, le sang bu et les os avalés par les roches.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Deux de ses oncles et ses trois frères, plus tard, y avaient aussi laissé leur peau.",-0.5423,0.0,0.2,0.8,negative,Germinal
+"Lui, Vincent Maheu, qui en était sorti à peu près entier, les jambes mal d'aplomb seulement, passait pour un malin.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Quoi faire, d'ailleurs?",0.0,0.0,0.0,1.0,neutral,Germinal
+Il fallait travailler.,0.0,0.0,0.0,1.0,neutral,Germinal
+"On faisait ça de père en fils, comme on aurait fait autre chose.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Son fils, Toussaint Maheu, y crevait maintenant, et ses petits-fils, et tout son monde, qui logeait en face, dans le coron.",-0.128,0.0,0.073,0.927,negative,Germinal
+"Cent six ans d'abattage, les mioches après les vieux, pour le même patron: hein?",0.0,0.0,0.0,1.0,neutral,Germinal
+beaucoup de bourgeois n'auraient pas su dire si bien leur histoire!,-0.5093,0.0,0.248,0.752,negative,Germinal
+"--Encore, lorsqu'on mange!",0.0,0.0,0.0,1.0,neutral,Germinal
+murmura de nouveau Étienne.,0.0,0.0,0.0,1.0,neutral,Germinal
+"--C'est ce que je dis, tant qu'on a du pain à manger, on peut vivre.",-0.5106,0.0,0.216,0.784,negative,Germinal
+"Bonnemort se tut, les yeux tournés vers le coron, où des lueurs s'allumaient une à une.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Quatre heures sonnaient au clocher de Montsou, le froid devenait plus vif.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Et elle est riche, votre Compagnie?",0.0,0.0,0.0,1.0,neutral,Germinal
+reprit Étienne.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Le vieux haussa les épaules, puis les laissa retomber, comme accablé sous un écroulement d'écus.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Ah!,0.0,0.0,0.0,1.0,neutral,Germinal
+"oui, ah!",0.0,0.0,0.0,1.0,neutral,Germinal
+"oui… Pas aussi riche peut-être que sa voisine, la Compagnie d'Anzin.",0.0,0.0,0.0,1.0,neutral,Germinal
+Mais des millions et des millions tout de même.,-0.128,0.0,0.158,0.842,negative,Germinal
+"On ne compte plus… Dix-neuf fosses, dont treize pour l'exploitation, le Voreux, la Victoire, Crèvecoeur, Mirou, Saint-Thomas, Madeleine, Feutry-Cantel, d'autres encore, et six pour l'épuisement ou l'aérage, comme Réquillart… Dix mille ouvriers, des concessions qui s'étendent sur soixante-sept communes, une extraction de cinq mille tonnes par jour, un chemin de fer reliant toutes les fosses, et des ateliers, et des fabriques!… Ah!",0.2695,0.033,0.0,0.967,positive,Germinal
+"oui, ah!",0.0,0.0,0.0,1.0,neutral,Germinal
+"oui, il y en a, de l'argent!",0.0,0.0,0.0,1.0,neutral,Germinal
+"Un roulement de berlines, sur les tréteaux, fit dresser les oreilles du gros cheval jaune.",0.3612,0.152,0.0,0.848,positive,Germinal
+"En bas, la cage devait être réparée, les moulineurs avaient repris leur besogne.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Pendant qu'il attelait sa bête, pour redescendre, le charretier ajouta doucement, en s'adressant à elle: --Faut pas t'habituer à bavarder, fichu paresseux!… Si monsieur Hennebeau savait à quoi tu perds le temps!",0.0,0.0,0.0,1.0,neutral,Germinal
+"Étienne, songeur, regardait la nuit.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il demanda: --Alors, c'est à monsieur Hennebeau, la mine?",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Non, expliqua le vieux, monsieur Hennebeau n'est que le directeur général.",0.0,0.0,0.0,1.0,neutral,Germinal
+Il est payé comme nous.,0.0,0.0,0.0,1.0,neutral,Germinal
+"D'un geste, le jeune homme montra l'immensité des ténèbres.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--A qui est-ce donc, tout ça?",-0.128,0.0,0.231,0.769,negative,Germinal
+"Mais Bonnemort resta un instant suffoqué par une nouvelle crise, d'une telle violence, qu'il ne pouvait reprendre haleine.",-0.6249,0.0,0.194,0.806,negative,Germinal
+"Enfin, quand il eut craché et essuyé l'écume noire de ses lèvres, il dit, dans le vent qui redoublait: --Hein?",0.0,0.0,0.0,1.0,neutral,Germinal
+à qui tout ça?… On n'en sait rien.,-0.128,0.0,0.2,0.8,negative,Germinal
+A des gens.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Et, de la main, il désignait dans l'ombre un point vague, un lieu ignoré et reculé, peuplé de ces gens, pour qui les Maheu tapaient à la veine depuis plus d'un siècle.",-0.1027,0.0,0.045,0.955,negative,Germinal
+"Sa voix avait pris une sorte de peur religieuse, c'était comme s'il eût parlé d'un tabernacle inaccessible, où se cachait le dieu repu et accroupi, auquel ils donnaient tous leur chair, et qu'ils n'avaient jamais vu.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Au moins si l'on mangeait du pain à sa suffisance!,-0.5562,0.0,0.31,0.69,negative,Germinal
+"répéta pour la troisième fois Étienne, sans transition apparente.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Dame, oui!",0.0,0.0,0.0,1.0,neutral,Germinal
+"si l'on mangeait toujours du pain, ce serait trop beau!",-0.5562,0.0,0.285,0.715,negative,Germinal
+"Le cheval était parti, le charretier disparut à son tour, d'un pas traînard d'invalide.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Près du culbuteur, le manoeuvre n'avait point bougé, ramassé en boule, enfonçant le menton entre ses genoux, fixant sur le vide ses gros yeux éteints.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Quand il eut repris son paquet, Étienne ne s'éloigna pas encore.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il sentait les rafales lui glacer le dos, pendant que sa poitrine brûlait, devant le grand feu.",0.4588,0.158,0.0,0.842,positive,Germinal
+"Peut-être, tout de même, ferait-il bien de s'adresser à la fosse: le vieux pouvait ne pas savoir; puis, il se résignait, il accepterait n'importe quelle besogne.",-0.128,0.0,0.059,0.941,negative,Germinal
+"Où aller et que devenir, à travers ce pays affamé par le chômage?",0.0,0.0,0.0,1.0,neutral,Germinal
+laisser derrière un mur sa carcasse de chien perdu?,0.0,0.0,0.0,1.0,neutral,Germinal
+"Cependant, une hésitation le troublait, une peur du Voreux, au milieu de cette plaine rase, noyée sous une nuit si épaisse.",0.0,0.0,0.0,1.0,neutral,Germinal
+"A chaque bourrasque, le vent paraissait grandir, comme s'il eût soufflé d'un horizon sans cesse élargi.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Aucune aube ne blanchissait dans le ciel mort, les hauts fourneaux seuls flambaient, ainsi que les fours à coke, ensanglantant les ténèbres, sans en éclairer l'inconnu.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et le Voreux, au fond de son trou, avec son tassement de bête méchante, s'écrasait davantage, respirait d'une haleine plus grosse et plus longue, l'air gêné par sa digestion pénible de chair humaine.",0.4404,0.083,0.0,0.917,positive,Germinal
+"II Au milieu des champs de blé et de betteraves, le coron des Deux-Cent-Quarante dormait sous la nuit noire.",0.4215,0.135,0.0,0.865,positive,Germinal
+"On distinguait vaguement les quatre immenses corps de petites maisons adossées, des corps de caserne ou d'hôpital, géométriques, parallèles, que séparaient les trois larges avenues, divisées en jardins égaux.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et, sur le plateau désert, on entendait la seule plainte des rafales, dans les treillages arrachés des clôtures.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Chez les Maheu, au numéro 16 du deuxième corps, rien ne bougeait.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Des ténèbres épaisses noyaient l'unique chambre du premier étage, comme écrasant de leur poids le sommeil des êtres que l'on sentait là, en tas, la bouche ouverte, assommés de fatigue.",-0.25,0.0,0.065,0.935,negative,Germinal
+"Malgré le froid vif du dehors, l'air alourdi avait une chaleur vivante, cet étouffement chaud des chambrées les mieux tenues, qui sentent le bétail humain.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Quatre heures sonnèrent au coucou de la salle du rez-de-chaussée, rien encore ne remua, des haleines grêles sifflaient, accompagnées de deux ronflements sonores.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et, brusquement, ce fut Catherine qui se leva.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Dans sa fatigue, elle avait, par habitude, compté les quatre coups du timbre, à travers le plancher, sans trouver la force de s'éveiller complètement.",-0.25,0.0,0.083,0.917,negative,Germinal
+"Puis, les jambes jetées hors des couvertures, elle tâtonna, frotta enfin une allumette et alluma la chandelle.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais elle restait assise, la tête si pesante, qu'elle se renversait entre les deux épaules, cédant au besoin invincible de retomber sur le traversin.",0.4939,0.122,0.0,0.878,positive,Germinal
+"Maintenant, la chandelle éclairait la chambre, carrée, à deux fenêtres, que trois lits emplissaient.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il y avait une armoire, une table, deux chaises de vieux noyer, dont le ton fumeux tachait durement les murs, peints en jaune clair.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et rien autre, des hardes pendues à des clous, une cruche posée sur le carreau, près d'une terrine rouge servant de cuvette.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Dans le lit de gauche, Zacharie, l'aîné, un garçon de vingt et un ans, était couché avec son frère Jeanlin, qui achevait sa onzième année; dans celui de droite, deux mioches, Lénore et Henri, la première de six ans, le second de quatre, dormaient aux bras l'un de l'autre; tandis que Catherine partageait le troisième lit avec sa soeur Alzire, si chétive pour ses neuf ans, qu'elle ne l'aurait même pas sentie près d'elle, sans la bosse de la petite infirme qui lui enfonçait les côtes.",0.0,0.0,0.0,1.0,neutral,Germinal
+"La porte vitrée était ouverte, on apercevait le couloir du palier, l'espèce de boyau où le père et la mère occupaient un quatrième lit, contre lequel ils avaient dû installer le berceau de la dernière venue, Estelle, âgée de trois mois à peine.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Cependant, Catherine fit un effort désespéré.",0.3612,0.333,0.0,0.667,positive,Germinal
+"Elle s'étirait, elle crispait ses deux mains dans ses cheveux roux, qui lui embroussaillaient le front et la nuque.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Fluette pour ses quinze ans, elle ne montrait de ses membres, hors du fourreau étroit de sa chemise, que des pieds bleuis, comme tatoués de charbon, et des bras délicats, dont la blancheur de lait tranchait sur le teint blême du visage, déjà gâté par les continuels lavages au savon noir.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Un dernier bâillement ouvrit sa bouche un peu grande, aux dents superbes dans la pâleur chlorotique des gencives; pendant que ses yeux gris pleuraient de sommeil combattu, avec une expression douloureuse et brisée, qui semblait enfler de fatigue sa nudité entière.",-0.25,0.0,0.048,0.952,negative,Germinal
+"Mais un grognement arriva du palier, la voix de Maheu bégayait, empâtée: --Sacré nom!",0.0,0.0,0.0,1.0,neutral,Germinal
+"il est l'heure… C'est toi qui allumes, Catherine?",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Oui, père… Ça vient de sonner, en bas.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Dépêche-toi donc, fainéante!",0.0,0.0,0.0,1.0,neutral,Germinal
+"Si tu avais moins dansé hier dimanche, tu nous aurais réveillés plus tôt… En voilà une vie de paresse!",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et il continua de gronder, mais le sommeil le reprit à son tour, ses reproches s'embarrassèrent, s'éteignirent dans un nouveau ronflement.",0.0,0.0,0.0,1.0,neutral,Germinal
+"La jeune fille, en chemise, pieds nus sur le carreau, allait et venait par la chambre.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Comme elle passait devant le lit d'Henri et de Lénore, elle rejeta sur eux la couverture, qui avait glissé; et ils ne s'éveillaient pas, anéantis dans le gros sommeil de l'enfance.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Alzire, les yeux ouverts, s'était retournée pour prendre la place chaude de sa grande soeur, sans prononcer un mot.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Dis donc, Zacharie!",0.0,0.0,0.0,1.0,neutral,Germinal
+"et toi, Jeanlin, dis donc!",0.0,0.0,0.0,1.0,neutral,Germinal
+"répétait Catherine, debout devant les deux frères, qui restaient vautrés, le nez dans le traversin.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle dut saisir le grand par l'épaule et le secouer; puis, tandis qu'il mâchait des injures, elle prit le parti de les découvrir, en arrachant le drap.",0.4588,0.103,0.0,0.897,positive,Germinal
+"Cela lui parut drôle, elle se mit à rire, lorsqu'elle vit les deux garçons se débattre, les jambes nues.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--C'est bête, lâche-moi!",0.0,0.0,0.0,1.0,neutral,Germinal
+"grogna Zacharie de méchante humeur, quand il se fut assis.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Je n'aime pas les farces… Dire, nom de Dieu!",-0.5093,0.0,0.292,0.708,negative,Germinal
+qu'il faut se lever!,0.0,0.0,0.0,1.0,neutral,Germinal
+"Il était maigre, dégingandé, la figure longue, salie de quelques rares poils de barbe, avec les cheveux jaunes et la pâleur anémique de toute la famille.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Sa chemise lui remontait au ventre, et il la baissa, non par pudeur, mais parce qu'il n'avait pas chaud.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--C'est sonné en bas, répétait Catherine.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Allons, houp!",0.0,0.0,0.0,1.0,neutral,Germinal
+le père se fâche.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Jeanlin, qui s'était pelotonné, referma les yeux, en disant: --Va te faire fiche, je dors!",0.0,0.0,0.0,1.0,neutral,Germinal
+Elle eut un nouveau rire de bonne fille.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Il était si petit, les membres grêles, avec des articulations énormes, grossies par des scrofules, qu'elle le prit, à pleins bras.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais il gigotait, son masque de singe blafard et crépu, troué de ses yeux verts, élargi par ses grandes oreilles, pâlissait de la rage d'être faible.",-0.5574,0.0,0.126,0.874,negative,Germinal
+"Il ne dit rien, il la mordit au sein droit.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Méchant bougre!,0.0,0.0,0.0,1.0,neutral,Germinal
+murmura-t-elle en retenant un cri et en le posant par terre.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Alzire, silencieuse, le drap au menton, ne s'était pas rendormie.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle suivait de ses yeux intelligents d'infirme sa soeur et ses deux frères, qui maintenant s'habillaient.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Une autre querelle éclata autour de la terrine, les garçons bousculèrent la jeune fille, parce qu'elle se lavait trop longtemps.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Les chemises volaient, pendant que, gonflés encore de sommeil, ils se soulageaient sans honte, avec l'aisance tranquille d'une portée de jeunes chiens, grandis ensemble.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Du reste, Catherine fut prête la première.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle enfila sa culotte de mineur, passa la veste de toile, noua le béguin bleu autour de son chignon; et, dans ces vêtements propres du lundi, elle avait l'air d'un petit homme, rien ne lui restait de son sexe, que le dandinement léger des hanches.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Quand le vieux rentrera, dit méchamment Zacharie, il sera content de trouver le lit défait… Tu sais, je lui raconterai que c'est toi.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Le vieux, c'était le grand-père, Bonnemort, qui, travaillant la nuit, se couchait au jour; de sorte que le lit ne refroidissait pas, il y avait toujours dedans quelqu'un à ronfler.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Sans répondre, Catherine s'était mise à tirer la couverture et à la border.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais, depuis un instant, des bruits s'entendaient derrière le mur, dans la maison voisine.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Ces constructions de briques, installées économiquement par la Compagnie, étaient si minces, que les moindres souffles les traversaient.",0.0,0.0,0.0,1.0,neutral,Germinal
+"On vivait coude à coude, d'un bout à l'autre; et rien de la vie intime n'y restait caché, même aux gamins.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Un pas lourd avait ébranlé un escalier, puis il y eut comme une chute molle, suivie d'un soupir d'aise.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Bon!,0.0,0.0,0.0,1.0,neutral,Germinal
+"dit Catherine, Levaque descend, et voilà Bouteloup qui va retrouver la Levaque.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Jeanlin ricana, les yeux d'Alzire eux-mêmes brillèrent.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Chaque matin, ils s'égayaient ainsi du ménage à trois des voisins, un haveur qui logeait un ouvrier de la coupe à terre, ce qui donnait à la femme deux hommes, l'un de nuit, l'autre de jour.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Philomène tousse, reprit Catherine, après avoir tendu l'oreille.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle parlait de l'aînée des Levaque, une grande fille de dix-neuf ans, la maîtresse de Zacharie, dont elle avait deux enfants déjà, si délicate de poitrine d'ailleurs, qu'elle était cribleuse à la fosse, n'ayant jamais pu travailler au fond.",0.2023,0.071,0.051,0.878,positive,Germinal
+"--Ah, ouiche!",0.0,0.0,0.0,1.0,neutral,Germinal
+Philomène!,0.0,0.0,0.0,1.0,neutral,Germinal
+"répondit Zacharie, elle s'en moque, elle dort!… C'est cochon de dormir jusqu'à six heures!",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il passait sa culotte, lorsqu'il ouvrit une fenêtre, préoccupé d'une idée brusque.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Au-dehors, dans les ténèbres, le coron s'éveillait, des lumières pointaient une à une, entre les lames des persiennes.",-0.296,0.0,0.121,0.879,negative,Germinal
+"Et ce fut encore une dispute: il se penchait pour guetter s'il ne verrait pas sortir de chez les Pierron, en face, le maître-porion du Voreux, qu'on accusait de coucher avec la Pierronne; tandis que sa soeur lui criait que le mari avait, depuis la veille, pris son service de jour à l'accrochage, et que bien sûr Dansaert n'avait pu coucher, cette nuit-là.",-0.5859,0.0,0.074,0.926,negative,Germinal
+"L'air entrait par bouffées glaciales, tous deux s'emportaient, en soutenant chacun l'exactitude de ses renseignements, lorsque des cris et des larmes éclatèrent.",0.0,0.0,0.0,1.0,neutral,Germinal
+"C'était, dans son berceau, Estelle que le froid contrariait.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Du coup, Maheu se réveilla.",0.0,0.0,0.0,1.0,neutral,Germinal
+Qu'avait-il donc dans les os?,0.0,0.0,0.0,1.0,neutral,Germinal
+voilà qu'il se rendormait comme un propre à rien!,0.0,0.0,0.0,1.0,neutral,Germinal
+"Et il jurait si fort, que les enfants, à côté, ne soufflaient plus.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Zacharie et Jeanlin achevèrent de se laver, avec une lenteur déjà lasse.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Alzire, les yeux grands ouverts, regardait toujours.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Les deux mioches, Lénore et Henri, aux bras l'un de l'autre, n'avaient pas remué, respirant du même petit souffle, malgré le vacarme.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Catherine, donne-moi la chandelle!",0.0,0.0,0.0,1.0,neutral,Germinal
+cria Maheu.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle finissait de boutonner sa veste, elle porta la chandelle dans le cabinet, laissant ses frères chercher leurs vêtements, au peu de clarté qui venait de la porte.",0.0,0.0,0.0,1.0,neutral,Germinal
+Son père sautait du lit.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais elle ne s'arrêta point, elle descendit en gros bas de laine, à tâtons, et alluma dans la salle une autre chandelle, pour préparer le café.",0.0,0.0,0.0,1.0,neutral,Germinal
+Tous les sabots de la famille étaient sous le buffet.,0.0,0.0,0.0,1.0,neutral,Germinal
+"--Te tairas-tu, vermine!",0.0,0.0,0.0,1.0,neutral,Germinal
+"reprit Maheu, exaspéré des cris d'Estelle, qui continuaient.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il était petit comme le vieux Bonnemort, et il lui ressemblait en gras, la tête forte, la face plate et livide, sous les cheveux jaunes, coupés très courts.",0.0,0.0,0.0,1.0,neutral,Germinal
+"L'enfant hurlait davantage, effrayée par ces grands bras noueux qui se balançaient au-dessus d'elle.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Laisse-la, tu sais bien qu'elle ne veut pas se taire, dit la Maheude, en s'allongeant au milieu du lit.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle aussi venait de s'éveiller, et elle se plaignait, c'était bête de ne jamais faire sa nuit complète.",0.0,0.0,0.0,1.0,neutral,Germinal
+Ils ne pouvaient donc partir doucement?,0.0,0.0,0.0,1.0,neutral,Germinal
+"Enfouie dans la couverture, elle ne montrait que sa figure longue, aux grands traits, d'une beauté lourde, déjà déformée à trente-neuf ans par sa vie de misère et les sept enfants qu'elle avait eus.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Les yeux au plafond, elle parla avec lenteur, pendant que son homme s'habillait.",0.0,0.0,0.0,1.0,neutral,Germinal
+Ni l'un ni l'autre n'entendait plus la petite qui s'étranglait à crier.,0.0,0.0,0.0,1.0,neutral,Germinal
+--Hein?,0.0,0.0,0.0,1.0,neutral,Germinal
+"tu sais, je suis sans le sou, et nous voici à lundi seulement: encore six jours à attendre la quinzaine… Il n'y a pas moyen que ça dure.",0.0,0.0,0.0,1.0,neutral,Germinal
+"A vous tous, vous apportez neuf francs.",0.0,0.0,0.0,1.0,neutral,Germinal
+Comment veux-tu que j'arrive?,0.0,0.0,0.0,1.0,neutral,Germinal
+nous sommes dix à la maison.,0.0,0.0,0.0,1.0,neutral,Germinal
+--Oh!,0.0,0.0,0.0,1.0,neutral,Germinal
+neuf francs!,0.0,0.0,0.0,1.0,neutral,Germinal
+se récria Maheu.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Moi et Zacharie, trois: ça fait six… Catherine et le père, deux: ça fait quatre; quatre et six, dix… Et Jeanlin, un, ça fait onze.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Oui, onze, mais il y a les dimanches et les jours de chômage… Jamais plus de neuf, entends-tu?",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il ne répondit pas, occupé à chercher par terre sa ceinture de cuir.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Puis, il dit en se relevant: --Faut pas se plaindre, je suis tout de même solide.",-0.128,0.0,0.091,0.909,negative,Germinal
+"Il y en a plus d'un, à quarante-deux ans, qui passe au raccommodage.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Possible, mon vieux, mais ça ne nous donne pas du pain… Qu'est-ce que je vais fiche, dis?",0.0,0.0,0.0,1.0,neutral,Germinal
+"Tu n'as rien, toi?",0.0,0.0,0.0,1.0,neutral,Germinal
+--J'ai deux sous.,0.0,0.0,0.0,1.0,neutral,Germinal
+--Garde-les pour boire une chope… Mon Dieu!,0.0,0.0,0.0,1.0,neutral,Germinal
+qu'est-ce que je vais fiche?,0.0,0.0,0.0,1.0,neutral,Germinal
+"Six jours, ça n'en finit plus.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Nous devons soixante francs à Maigrat, qui m'a mise à la porte avant-hier.",0.0,0.0,0.0,1.0,neutral,Germinal
+Ça ne m'empêchera pas de retourner le voir.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais, s'il s'entête à refuser… Et la Maheude continua d'une voix morne, la tête immobile, fermant par instants les yeux sous la clarté triste de la chandelle.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle disait le buffet vide, les petits demandant des tartines, le café même manquant, et l'eau qui donnait des coliques, et les longues journées passées à tromper la faim avec des feuilles de choux bouillies.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Peu à peu, elle avait dû hausser le ton, car le hurlement d'Estelle couvrait ses paroles.",0.0,0.0,0.0,1.0,neutral,Germinal
+Ces cris devenaient insoutenables.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Maheu parut tout d'un coup les entendre, hors de lui, et il saisit la petite dans le berceau, il la jeta sur le lit de la mère, en balbutiant de fureur: --Tiens!",-0.2003,0.0,0.055,0.945,negative,Germinal
+"prends-la, je l'écraserais… Nom de Dieu d'enfant!",0.0,0.0,0.0,1.0,neutral,Germinal
+"ça ne manque de rien, ça tète, et ça se plaint plus haut que les autres!",0.0,0.0,0.0,1.0,neutral,Germinal
+"Estelle s'était mise à téter, en effet.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Disparue sous la couverture, calmée par la tiédeur du lit, elle n'avait plus qu'un petit bruit goulu des lèvres.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Est-ce que les bourgeois de la Piolaine ne t'ont pas dit d'aller les voir?,0.0,0.0,0.0,1.0,neutral,Germinal
+reprit le père au bout d'un silence.,0.0,0.0,0.0,1.0,neutral,Germinal
+"La mère pinça la bouche, d'un air de doute découragé.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Oui, ils m'ont rencontrée, ils portent des vêtements aux enfants pauvres… Enfin, je mènerai ce matin chez eux Lénore et Henri.",0.0,0.0,0.0,1.0,neutral,Germinal
+S'ils me donnaient cent sous seulement.,0.0,0.0,0.0,1.0,neutral,Germinal
+Le silence recommença.,0.0,0.0,0.0,1.0,neutral,Germinal
+Maheu était prêt.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Il demeura un moment immobile, puis il conclut de sa voix sourde: --Qu'est-ce que tu veux?",0.0,0.0,0.0,1.0,neutral,Germinal
+"c'est comme ça, arrange-toi pour la soupe… Ça n'avance à rien d'en causer, vaut mieux être là-bas au travail.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Bien sûr, répondit la Maheude.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Souffle la chandelle, je n'ai pas besoin de voir la couleur de mes idées.",0.0,0.0,0.0,1.0,neutral,Germinal
+Il souffla la chandelle.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Déjà, Zacharie et Jeanlin descendaient; il les suivit; et l'escalier de bois craquait sous leurs pieds lourds, chaussés de laine.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Derrière eux, le cabinet et la chambre étaient retombés aux ténèbres.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Les enfants dormaient, les paupières d'Alzire elle-même s'étaient closes.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais la mère restait maintenant les yeux ouverts dans l'obscurité, tandis que, tirant sur sa mamelle pendante de femme épuisée, Estelle ronronnait comme un petit chat.",0.0,0.0,0.0,1.0,neutral,Germinal
+"En bas, Catherine s'était d'abord occupée du feu, la cheminée de fonte, à grille centrale, flanquée de deux fours, et où brûlait constamment un feu de houille.",0.0,0.0,0.0,1.0,neutral,Germinal
+"La Compagnie distribuait par mois, à chaque famille, huit hectolitres d'escaillage, charbon dur ramassé dans les voies.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il s'allumait difficilement, et la jeune fille qui couvrait le feu chaque soir, n'avait qu'à le secouer le matin, en ajoutant des petits morceaux de charbon tendre, triés avec soin.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Puis, après avoir posé une bouillotte sur la grille, elle s'accroupit devant le buffet.",0.0,0.0,0.0,1.0,neutral,Germinal
+"C'était une salle assez vaste, tenant tout le rez-de-chaussée, peinte en vert pomme, d'une propreté flamande, avec ses dalles lavées à grande eau et semées de sable blanc.",-0.128,0.0,0.055,0.945,negative,Germinal
+"Outre le buffet de sapin verni, l'ameublement consistait en une table et des chaises du même bois.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Collées sur les murs, des enluminures violentes, les portraits de l'Empereur et de l'Impératrice donnés par la Compagnie, des soldats et des saints, bariolés d'or, tranchaient crûment dans la nudité claire de la pièce; et il n'y avait d'autres ornements qu'une boîte de carton rose sur le buffet, et que le coucou à cadran peinturluré, dont le gros tic-tac semblait emplir le vide du plafond.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Près de la porte de l'escalier, une autre porte conduisait à la cave.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Malgré la propreté, une odeur d'oignon cuit, enfermée depuis la veille, empoisonnait l'air chaud, cet air alourdi, toujours chargé d'une âcreté de houille.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Devant le buffet ouvert, Catherine réfléchissait.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il ne restait qu'un bout de pain, du fromage blanc en suffisance, mais à peine une lichette de beurre; et il s'agissait de faire les tartines pour eux quatre.",-0.5106,0.0,0.109,0.891,negative,Germinal
+"Enfin, elle se décida, coupa les tranches, en prit une qu'elle couvrit de fromage, en frotta une autre de beurre, puis les colla ensemble: c'était «le briquet», la double tartine emportée chaque matin à la fosse.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Bientôt, les quatre briquets furent en rang sur la table, répartis avec une sévère justice, depuis le gros du père jusqu'au petit de Jeanlin.",0.5267,0.129,0.0,0.871,positive,Germinal
+"Catherine, qui paraissait toute à son ménage, devait pourtant rêvasser aux histoires que Zacharie racontait sur le maître-porion et la Pierronne, car elle entrebâilla la porte d'entrée et jeta un coup d'oeil dehors.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Le vent soufflait toujours, des clartés plus nombreuses couraient sur les façades basses du coron, d'où montait une vague trépidation de réveil.",-0.1027,0.0,0.062,0.938,negative,Germinal
+"Déjà des portes se refermaient, des files noires d'ouvriers s'éloignaient dans la nuit.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Était-elle bête, de se refroidir, puisque le chargeur à l'accrochage dormait bien sûr, en attendant d'aller prendre son service, à six heures!",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et elle restait, elle regardait la maison, de l'autre côté des jardins.",0.0,0.0,0.0,1.0,neutral,Germinal
+"La porte s'ouvrit, sa curiosité s'alluma.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais ce ne pouvait être que la petite des Pierron, Lydie, qui partait pour la fosse.",0.0,0.0,0.0,1.0,neutral,Germinal
+Un bruit sifflant de vapeur la fit se tourner.,0.3612,0.238,0.0,0.762,positive,Germinal
+"Elle ferma, se hâta de courir: l'eau bouillait et se répandait, éteignant le feu.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il ne restait plus de café, elle dut se contenter de passer l'eau sur le marc de la veille; puis, elle sucra dans la cafetière, avec de la cassonade.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Justement, son père et ses deux frères descendaient.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Fichtre!,0.0,0.0,0.0,1.0,neutral,Germinal
+"déclara Zacharie, quand il eut mis le nez dans son bol, en voilà un qui ne nous cassera pas la tête!",0.0,0.0,0.0,1.0,neutral,Germinal
+Maheu haussa les épaules d'un air résigné.,0.0,0.0,0.0,1.0,neutral,Germinal
+--Bah!,0.0,0.0,0.0,1.0,neutral,Germinal
+"c'est chaud, c'est bon tout de même.",-0.128,0.0,0.2,0.8,negative,Germinal
+Jeanlin avait ramassé les miettes des tartines et trempait une soupe.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Après avoir bu, Catherine acheva de vider la cafetière dans les gourdes de fer-blanc.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Tous quatre, debout, mal éclairés par la chandelle fumeuse, avalaient en hâte.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Y sommes-nous à la fin!,0.0,0.0,0.0,1.0,neutral,Germinal
+dit le père.,0.0,0.0,0.0,1.0,neutral,Germinal
+On croirait qu'on a des rentes!,0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais une voix vint de l'escalier, dont ils avaient laissé la porte ouverte.",0.0,0.0,0.0,1.0,neutral,Germinal
+"C'était la Maheude qui criait: --Prenez tout le pain, j'ai un peu de vermicelle pour les enfants!",-0.6239,0.0,0.253,0.747,negative,Germinal
+"--Oui, oui!",0.0,0.0,0.0,1.0,neutral,Germinal
+répondit Catherine.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle avait recouvert le feu, en calant, sur un coin de la grille, un restant de soupe, que le grand-père trouverait chaude, lorsqu'il rentrerait à six heures.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Chacun prit sa paire de sabots sous le buffet, se passa la ficelle de sa gourde à l'épaule, et fourra son briquet dans son dos, entre la chemise et la veste.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et ils sortirent, les hommes devant, la fille derrière, soufflant la chandelle, donnant un tour de clef.",0.0,0.0,0.0,1.0,neutral,Germinal
+La maison redevint noire.,0.0,0.0,0.0,1.0,neutral,Germinal
+--Tiens!,0.0,0.0,0.0,1.0,neutral,Germinal
+"nous filons ensemble, dit un homme qui refermait la porte de la maison voisine.",0.0,0.0,0.0,1.0,neutral,Germinal
+"C'était Levaque, avec son fils Bébert, un gamin de douze ans, grand ami de Jeanlin.",0.4588,0.176,0.0,0.824,positive,Germinal
+"Catherine, étonnée, étouffa un rire, à l'oreille de Zacharie: quoi donc?",0.0,0.0,0.0,1.0,neutral,Germinal
+Bouteloup n'attendait même plus que le mari fût parti!,0.0,0.0,0.0,1.0,neutral,Germinal
+"Maintenant, dans le coron, les lumières s'éteignaient.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Une dernière porte claqua, tout dormait de nouveau, les femmes et les petits reprenaient leur somme, au fond des lits plus larges.",0.34,0.119,0.061,0.82,positive,Germinal
+"Et, du village éteint au Voreux qui soufflait, c'était sous les rafales un lent défilé d'ombres, le départ des charbonniers pour le travail, roulant des épaules, embarrassés de leurs bras, qu'ils croisaient sur la poitrine; tandis que, derrière, le briquet faisait à chacun une bosse.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Vêtus de toile mince, ils grelottaient de froid, sans se hâter davantage, débandés le long de la route, avec un piétinement de troupeau.",0.0,0.0,0.0,1.0,neutral,Germinal
+"III Étienne, descendu enfin du terri, venait d'entrer au Voreux; et les hommes auxquels il s'adressait, demandant s'il y avait du travail, hochaient la tête, lui disaient tous d'attendre le maître-porion.",0.0,0.0,0.0,1.0,neutral,Germinal
+"On le laissait libre, au milieu des bâtiments mal éclairés, pleins de trous noirs, inquiétants avec la complication de leurs salles et de leurs étages.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Après avoir monté un escalier obscur à moitié détruit, il s'était trouvé sur une passerelle branlante, puis avait traversé le hangar du criblage, plongé dans une nuit si profonde, qu'il marchait les mains en avant, pour ne pas se heurter.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Devant lui, brusquement, deux yeux jaunes, énormes, trouèrent les ténèbres.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il était sous le beffroi, dans la salle de recette, à la bouche même du puits.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Un porion, le père Richomme, un gros à figure de bon gendarme, barrée de moustaches grises, se dirigeait justement vers le bureau du receveur.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--On n'a pas besoin d'un ouvrier ici, pour n'importe quel travail?",0.0,0.0,0.0,1.0,neutral,Germinal
+demanda de nouveau Étienne.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Richomme allait dire non; mais il se reprit et répondit comme les autres, en s'éloignant: --Attendez monsieur Dansaert, le maître-porion.",-0.4588,0.0,0.136,0.864,negative,Germinal
+"Quatre lanternes étaient plantées là, et les réflecteurs, qui jetaient toute la lumière sur le puits, éclairaient vivement les rampes de fer, les leviers des signaux et des verrous, les madriers des guides, où glissaient les deux cages.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Le reste, la vaste salle, pareille à une nef d'église, se noyait, peuplée de grandes ombres flottantes.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Seule, la lampisterie flambait au fond, tandis que, dans le bureau du receveur, une maigre lampe mettait comme une étoile près de s'éteindre.",0.4404,0.116,0.0,0.884,positive,Germinal
+"L'extraction venait d'être reprise; et, sur les dalles de fonte, c'était un tonnerre continu, les berlines de charbon roulées sans cesse, les courses des moulineurs, dont on distinguait les longues échines penchées, dans le remuement de toutes ces choses noires et bruyantes qui s'agitaient.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Un instant, Étienne resta immobile, assourdi, aveuglé.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il était glacé, des courants d'air entraient de partout.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Alors, il fit quelques pas, attiré par la machine, dont il voyait maintenant luire les aciers et les cuivres.",0.3612,0.122,0.0,0.878,positive,Germinal
+"Elle se trouvait en arrière du puits, à vingt-cinq mètres, dans une salle plus haute, et assise si carrément sur son massif de briques, qu'elle marchait à toute vapeur, de toute sa force de quatre cents chevaux, sans que le mouvement de sa bielle énorme, émergeant et plongeant avec une douceur huilée, donnât un frisson aux murs.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Le machineur, debout à la barre de mise en train, écoutait les sonneries des signaux, ne quittait pas des yeux le tableau indicateur, où le puits était figuré, avec ses étages différents, par une rainure verticale, que parcouraient des plombs pendus à des ficelles, représentant les cages.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et, à chaque départ, quand la machine se remettait en branle, les bobines, les deux immenses roues de cinq mètres de rayon, aux moyeux desquels les deux câbles d'acier s'enroulaient et se déroulaient en sens contraire, tournaient d'une telle vitesse, qu'elles n'étaient plus qu'une poussière grise.",0.0,0.0,0.0,1.0,neutral,Germinal
+--Attention donc!,0.0,0.0,0.0,1.0,neutral,Germinal
+"crièrent trois moulineurs, qui traînaient une échelle gigantesque.",0.0,0.0,0.0,1.0,neutral,Germinal
+Étienne avait manqué d'être écrasé.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Ses yeux s'habituaient, il regardait en l'air filer les câbles, plus de trente mètres de ruban d'acier, qui montaient d'une volée dans le beffroi, où ils passaient sur les molettes, pour descendre à pic dans le puits s'attacher aux cages d'extraction.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Une charpente de fer, pareille à la haute charpente d'un clocher, portait les molettes.",0.0,0.0,0.0,1.0,neutral,Germinal
+"C'était un glissement d'oiseau, sans un bruit, sans un heurt, la fuite rapide, le continuel va-et-vient d'un fil de poids énorme, qui pouvait enlever jusqu'à douze mille kilogrammes, avec une vitesse de dix mètres à la seconde.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Attention donc, nom de Dieu!",0.0,0.0,0.0,1.0,neutral,Germinal
+"crièrent de nouveau les moulineurs, qui poussaient l'échelle de l'autre côté, pour visiter la molette de gauche.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Lentement, Étienne revint à la recette.",0.0,0.0,0.0,1.0,neutral,Germinal
+Ce vol géant sur sa tête l'ahurissait.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Et, grelottant dans les courants d'air, il regarda la manoeuvre des cages, les oreilles cassées par le roulement des berlines.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Près du puits, le signal fonctionnait, un lourd marteau à levier, qu'une corde tirée du fond laissait tomber sur un billot.",0.4404,0.132,0.0,0.868,positive,Germinal
+"Un coup pour arrêter, deux pour descendre, trois pour monter: c'était sans relâche comme des coups de massue dominant le tumulte, accompagnés d'une claire sonnerie de timbre; pendant que le moulineur, dirigeant la manoeuvre, augmentait encore le tapage, en criant des ordres au machineur, dans un porte-voix.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Les cages, au milieu de ce branle-bas, apparaissaient et s'enfonçaient, se vidaient et se remplissaient, sans qu'Étienne comprît rien à ces besognes compliquées.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Il ne comprenait bien qu'une chose: le puits avalait des hommes par bouchées de vingt et de trente, et d'un coup de gosier si facile, qu'il semblait ne pas les sentir passer.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Dès quatre heures, la descente des ouvriers commençait.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Ils arrivaient de la baraque, pieds nus, la lampe à la main, attendant par petits groupes d'être en nombre suffisant.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Sans un bruit, d'un jaillissement doux de bête nocturne, la cage de fer montait du noir, se calait sur les verrous, avec ses quatre étages contenant chacun deux berlines pleines de charbon.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Des moulineurs, aux différents paliers, sortaient les berlines, les remplaçaient par d'autres, vides ou chargées à l'avance des bois de taille.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Et c'était dans les berlines vides que s'empilaient les ouvriers, cinq par cinq, jusqu'à quarante d'un coup, lorsqu'ils tenaient toutes les cases.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Un ordre partait du porte-voix, un beuglement sourd et indistinct, pendant qu'on tirait quatre fois la corde du signal d'en bas, «sonnant à la viande», pour prévenir de ce chargement de chair humaine.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Puis, après un léger sursaut, la cage plongeait silencieuse, tombait comme une pierre, ne laissait derrière elle que la fuite vibrante du câble.",0.0,0.0,0.0,1.0,neutral,Germinal
+--C'est profond?,0.0,0.0,0.0,1.0,neutral,Germinal
+"demanda Étienne à un mineur, qui attendait près de lui, l'air somnolent.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Cinq cent cinquante-quatre mètres, répondit l'homme.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Mais il y a quatre accrochages au-dessus, le premier à trois cent vingt.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Tous deux se turent, les yeux sur le câble qui remontait.",0.0,0.0,0.0,1.0,neutral,Germinal
+Étienne reprit: --Et quand ça casse?,0.0,0.0,0.0,1.0,neutral,Germinal
+--Ah!,0.0,0.0,0.0,1.0,neutral,Germinal
+quand ça casse… Le mineur acheva d'un geste.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Son tour était arrivé, la cage avait reparu, de son mouvement aisé et sans fatigue.",-0.25,0.0,0.125,0.875,negative,Germinal
+"Il s'y accroupit avec des camarades, elle replongea, puis jaillit de nouveau au bout de quatre minutes à peine, pour engloutir une autre charge d'hommes.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Pendant une demi-heure, le puits en dévora de la sorte, d'une gueule plus ou moins gloutonne, selon la profondeur de l'accrochage où ils descendaient, mais sans un arrêt, toujours affamé, de boyaux géants capables de digérer un peuple.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Cela s'emplissait, s'emplissait encore, et les ténèbres restaient mortes, la cage montait du vide dans le même silence vorace.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Étienne, à la longue, fut repris du malaise qu'il avait éprouvé déjà sur le terri.",0.0,0.0,0.0,1.0,neutral,Germinal
+Pourquoi s'entêter?,0.0,0.0,0.0,1.0,neutral,Germinal
+ce maître porion le congédierait comme les autres.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Une peur vague le décida brusquement: il s'en alla, il ne s'arrêta dehors que devant le bâtiment des générateurs.",-0.1027,0.0,0.072,0.928,negative,Germinal
+"La porte, grande ouverte, laissait voir sept chaudières à deux foyers.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Au milieu de la buée blanche, dans le sifflement des fuites, un chauffeur était occupé à charger un des foyers, dont l'ardente fournaise se faisait sentir jusque sur le seuil; et le jeune homme, heureux d'avoir chaud, s'approchait, lorsqu'il rencontra une nouvelle bande de charbonniers, qui arrivait à la fosse.",0.0,0.0,0.0,1.0,neutral,Germinal
+C'étaient les Maheu et les Levaque.,0.0,0.0,0.0,1.0,neutral,Germinal
+"Quand il aperçut, en tête, Catherine avec son air doux de garçon, l'idée superstitieuse lui vint de risquer une dernière demande.",0.0,0.0,0.0,1.0,neutral,Germinal
+"--Dites donc, camarade, on n'a pas besoin d'un ouvrier ici, pour n'importe quel travail?",0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle le regarda, surprise, un peu effrayée de cette voix brusque qui sortait de l'ombre.",0.2732,0.13,0.0,0.87,positive,Germinal
+"Mais, derrière elle, Maheu avait entendu, et il répondit, il causa un instant.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Non, on n'avait besoin de personne.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Ce pauvre diable d'ouvrier, perdu sur les routes, l'intéressait.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Lorsqu'il le quitta, il dit aux autres: --Hein!",0.0,0.0,0.0,1.0,neutral,Germinal
+"on pourrait être comme ça… Faut pas se plaindre, tous n'ont pas du travail à crever.",0.0,0.0,0.0,1.0,neutral,Germinal
+"La bande entra et alla droit à la baraque, vaste salle grossièrement crépie, entourée d'armoires que fermaient des cadenas.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Au centre, une cheminée de fer, une sorte de poêle sans porte, était rouge, si bourrée de houille incandescente, que des morceaux craquaient et déboulaient sur la terre battue du sol.",0.0,0.0,0.0,1.0,neutral,Germinal
+"La salle ne se trouvait éclairée que par ce brasier, dont les reflets sanglants dansaient le long des boiseries crasseuses, jusqu'au plafond sali d'une poussière noire.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Comme les Maheu arrivaient, des rires éclataient dans la grosse chaleur.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Une trentaine d'ouvriers étaient debout, le dos tourné à la flamme, se rôtissant d'un air de jouissance.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Avant la descente, tous venaient ainsi prendre et emporter dans la peau un bon coup de feu, pour braver l'humidité du puits.",0.5267,0.139,0.0,0.861,positive,Germinal
+"Mais, ce matin-là, on s'égayait davantage, on plaisantait la Mouquette, une herscheuse de dix-huit ans, bonne fille dont la gorge et le derrière énormes crevaient la veste et la culotte.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Elle habitait Réquillart avec son père, le vieux Mouque, palefrenier, et Mouquet son frère, moulineur; seulement, les heures de travail n'étant pas les mêmes, elle se rendait seule à la fosse; et, au milieu des blés en été, contre un mur en hiver, elle se donnait du plaisir, en compagnie de son amoureux de la semaine.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Toute la mine y passait, une vraie tournée de camarades, sans autre conséquence.",0.0,0.0,0.0,1.0,neutral,Germinal
+"Un jour qu'on lui reprochait un cloutier de Marchiennes, elle avait failli crever de colère, criant qu'elle se respectait trop, qu'elle se couperait un bras, si quelqu'un pouvait se flatter de l'avoir vue avec un autre qu'un charbonn",0.1027,0.036,0.0,0.964,positive,Germinal

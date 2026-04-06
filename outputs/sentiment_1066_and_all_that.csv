@@ -1,0 +1,461 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of 1066 and all that This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.066,0.104,0.829,negative,1066 and all that
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,1066 and all that
+"Title : 1066 and all that A memorable history of England, comprising all the parts you can remember, including 103 good things, 5 bad kings and 2 genuine dates Author : Walter Carruthers Sellar Robert Julian Yeatman Illustrator : John Reynolds Release date : March 6, 2026 [eBook #78124] Language : English Original publication : London: Methuen & Co. LTD, 1930 Other information and formats : www.gutenberg.org/ebooks/78124 Credits : Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive) *** START OF THE PROJECT GUTENBERG EBOOK 1066 AND ALL THAT *** 1066 AND ALL THAT 1066 AND ALL THAT A Memorable History of England, comprising all the parts you can remember, including 103 Good Things, 5 Bad Kings and 2 Genuine Dates BY WALTER CARRUTHERS SELLAR Aegrot: Oxon: AND ROBERT JULIAN YEATMAN Failed M.A., etc.",0.2732,0.09,0.069,0.841,positive,1066 and all that
+"Oxon: ILLUSTRATED BY JOHN REYNOLDS, Gent.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"METHUEN & CO. LTD. LONDON 36 Essex Street, Strand, W.C.2 DEDICATION ABSIT OMAN This book was originally published October 16th 1930 It has been reprinted thirty-four times Thirty-fifth edition, 1951 CATALOGUE NO.",-0.4466,0.0,0.089,0.911,negative,1066 and all that
+3858/U PRINTED IN GREAT BRITAIN COMPULSORY PREFACE ( This Means You ) Histories have previously been written with the object of exalting their authors.,0.7034,0.187,0.0,0.813,positive,1066 and all that
+The object of this History is to console the reader.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+No other history does this.,-0.296,0.0,0.355,0.645,negative,1066 and all that
+History is not what you thought.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+It is what you can remember.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+All other history defeats itself.,-0.3182,0.0,0.365,0.635,negative,1066 and all that
+"This is the only Memorable History of England, because all the History that you can remember is in this book, which is the result of years of research in golf-clubs, gun-rooms, green-rooms, etc.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"For instance, 2 out of the 4 Dates originally included were eliminated at the last moment, a research done at the Eton and Harrow match having revealed that they are not memorable .",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"The Editors will be glad of further assistance towards the elimination, in future editions, of any similarly unhistorical matter which, despite their vigilance, may have crept into the text.",0.4767,0.132,0.0,0.868,positive,1066 and all that
+They take this opportunity of acknowledging their inestimable debt to the mass of educated men and women of their race whose historical intuitions and opinions this work enshrines.,0.1901,0.102,0.079,0.819,positive,1066 and all that
+"Also, to the Great British People without whose self-sacrificing determination to become top Nation there would have been no (memorable) history.",0.3489,0.216,0.163,0.621,positive,1066 and all that
+History is now at an end (see p. 113 ); this History is therefore final.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+W. C. S. R. J. Y.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"PREFACE TO SECOND EDITION A first edition limited to 1 copy and printed on rice paper and bound in buck-boards and signed by one of the editors was sold to the other editor, who left it in a taxi somewhere between Piccadilly Circus and the Bodleian.",-0.2263,0.0,0.043,0.957,negative,1066 and all that
+"W. C. S. R. J. Y. ACKNOWLEDGMENTS The Editors acknowledge their comparative indebtedness to the Editors of The Historical Review , Bradshaw , The Lancet , La Vie Parisienne , etc., in which none of the following chapters has appeared.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Their thanks are also due to their wife, for not preparing the index wrong.",-0.0516,0.161,0.172,0.667,negative,1066 and all that
+There is no index.,-0.296,0.0,0.423,0.577,negative,1066 and all that
+"PRESS OPINIONS ""This slim volume...."" ( The Bookworm. )",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"""... We look forward keenly to the appearance of their last work.""",0.25,0.154,0.0,0.846,positive,1066 and all that
+( The Review of Reviews of Reviews. ),0.0,0.0,0.0,1.0,neutral,1066 and all that
+"""... vague...."" ( Vague. )",-0.1027,0.0,0.412,0.588,negative,1066 and all that
+ERRATA P. 3 .,0.0,0.0,0.0,1.0,neutral,1066 and all that
+For Middletoe read Mistletoe.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+P. 9 .,0.0,0.0,0.0,1.0,neutral,1066 and all that
+For looked 4th read looked forth.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+P. 43 .,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"For Pheasant read Peasant, throughout.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+P. 44 .,0.0,0.0,0.0,1.0,neutral,1066 and all that
+For sausage read hostage.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+CHAPTER I CÆSAR INVADES BRITAIN The first date⁠ [1] in English History is 55 B.C.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+", in which year Julius Cæsar (the memorable Roman Emperor) landed, like all other successful invaders of these islands, at Thanet.",0.743,0.259,0.0,0.741,positive,1066 and all that
+"This was in the Olden Days, when the Romans were top nation on account of their classical education, etc.",0.2023,0.091,0.0,0.909,positive,1066 and all that
+"Top nation Julius Cæsar advanced very energetically, throwing his cavalry several thousands of paces over the River Flumen; but the Ancient Britons, though all well over military age, painted themselves true blue, or woad , and fought as heroically under their dashing queen, Woadicea, as they did later in thin red lines under their good queen, Victoria.",0.9413,0.279,0.042,0.679,positive,1066 and all that
+Julius Cæsar was therefore compelled to invade Britain again the following year (54 B.C.,0.0516,0.085,0.0,0.915,positive,1066 and all that
+", not 56, owing to the peculiar Roman method of counting), and having defeated the Ancient Britons by unfair means, such as battering-rams, tortoises, hippocausts, centipedes, axes and bundles, set the memorable Latin sentence, ""Veni, Vidi, Vici,"" which the Romans, who were all very well educated, construed correctly.",-0.4417,0.099,0.116,0.785,negative,1066 and all that
+"Dawn of British heroism The Britons, however, who of course still used the old pronunciation, understanding him to have called them ""Weeny, Weedy and Weaky,"" lost heart and gave up the struggle, thinking that he had already divided them All into Three Parts.",0.0516,0.079,0.095,0.826,positive,1066 and all that
+"CULTURE AMONG THE ANCIENT BRITONS The Ancient Britons were by no means savages before the Conquest, and had already made great strides in civilization, e.g.",-0.128,0.129,0.177,0.694,negative,1066 and all that
+"they buried each other in long round wheelbarrows (agriculture) and burnt each other alive (religion) under the guidance of even older Britons called Druids or Eisteddfods, who worshipped the Middletoe in the famous Druidical churchyard at Stoke Penge.",0.743,0.149,0.0,0.851,positive,1066 and all that
+"Agriculture The Roman Conquest was, however, a Good Thing , since the Britons were only natives at that time.",0.4404,0.153,0.0,0.847,positive,1066 and all that
+"THE ROMAN OCCUPATION Roman occupied For some reason the Romans neglected to overrun the country with fire and the sword, though they had both of these; in fact, after the Conquest they did not mingle with the Britons at all, but lived a semi-detached life in villas.",-0.4404,0.0,0.081,0.919,negative,1066 and all that
+"They occupied their time for two or three hundred years in building Roman roads and having Roman baths; this was called the Roman Occupation, and gave rise to the memorable Roman law, ""HE WHO BATHS FIRST BATHS FAST,"" which was a Good Thing, and still is.",0.4404,0.062,0.0,0.938,positive,1066 and all that
+The Roman roads ran absolutely straight in all directions and all led to Rome.,0.2944,0.144,0.0,0.856,positive,1066 and all that
+"The Romans also built towns wherever they were wanted, and, in addition, a wall between England and Scotland to keep out the savage Picts and Scots.",-0.4588,0.0,0.111,0.889,negative,1066 and all that
+This wall was the work of the memorable Roman Emperor Balbus and was thus called Hadrian's Wall.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"The Picts, or painted men,⁠ [2] were so called to distinguish them from the Britons.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"(See supra , woad .)",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"FOOTNOTES: [1] For the other date see Chapter XI , William the Conqueror .",0.0,0.0,0.0,1.0,neutral,1066 and all that
+[2] e.g.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"The Black Watch, The Red Comyn and Douglases of all colours.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+CHAPTER II BRITAIN CONQUERED AGAIN The withdrawal of the Roman legions to take part in Gibbon's Decline and Fall of the Roman Empire (due to a clamour among the Romans for pompous amusements such as bread and circumstances) left Britain defenceless and subjected Europe to that long succession of Waves of which History is chiefly composed.,0.5267,0.094,0.0,0.906,positive,1066 and all that
+"While the Roman Empire was overrun by waves not only of Ostrogoths, Vizigoths and even Goths, but also of Vandals (who destroyed works of art) and Huns (who destroyed everything and everybody, including Goths, Ostrogoths, Vizigoths and even Vandals), Britain was attacked by waves of Picts (and, of course, Scots) who had recently learnt how to climb the wall, and of Angles, Saxons and Jutes who, landing at Thanet, soon overran the country with fire (and, of course, the sword).",-0.9493,0.0,0.171,0.829,negative,1066 and all that
+"IMPORTANT NOTE The Scots (originally Irish, but by now Scotch) were at this time inhabiting Ireland, having driven the Irish (Picts) out of Scotland; while the Picts (originally Scots) were now Irish (living in brackets) and vice versa .",0.1941,0.046,0.0,0.954,positive,1066 and all that
+It is essential to keep these distinctions clearly in mind (and verce visa ).,0.4019,0.172,0.0,0.828,positive,1066 and all that
+HUMILIATION OF THE BRITONS (?,-0.6633,0.0,0.526,0.474,negative,1066 and all that
+"or horse) The brutal Saxon invaders drove the Britons westward into Wales and compelled them to become Welsh, it is now considered doubtful whether this was a Good Thing.",-0.5267,0.118,0.188,0.694,negative,1066 and all that
+Memorable among the Saxon warriors were Hengist and his wife (?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"or horse), Horsa.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+Hengist made himself King in the South.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Thus Hengist was the first English King and his wife (or horse), Horsa, the first English Queen (or horse).",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"The country was now almost entirely inhabited by Saxons and was therefore renamed England, and thus (naturally) soon became C. of E. This was a Good Thing, because previously the Saxons had worshipped some dreadful gods of their own called Monday, Tuesday, Wednesday, Thursday, Friday and Saturday.",0.5719,0.126,0.055,0.819,positive,1066 and all that
+"CHAPTER III THE CONVERSION OF ENGLAND Noticing some fair-haired children in the slave market one morning, Pope Gregory, the memorable Pope, said (in Latin).",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"""What are those?""",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"and on being told that they were Angels, made the memorable joke--""Non Angli, sed Angeli"" ("" not Angels, but Anglicans "") and commanded one of his Saints called St. Augustine to go and convert the rest.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+Angels?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"The conversion of England was thus effected by the landing of St. Augustine in Thanet and other places, which resulted in the country being overrun by a Wave of Saints.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Among these were St. Ive, St. Pancra, the great St. Bernard (originator of the clerical collar), St. Bee, St. Ebb, St. Neot (who invented whisky), St.",0.6249,0.141,0.0,0.859,positive,1066 and all that
+"Kit and St. Kin, and the Venomous Bead (author of The Rosary ).",0.0,0.0,0.0,1.0,neutral,1066 and all that
+Wave of Sts.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+England was now divided into seven kingdoms and so ready were the English to become C. of E. that on one memorable occasion a whole Kingdom was easily converted by a sparrow.,0.685,0.168,0.0,0.832,positive,1066 and all that
+"WAVE OF EGG-KINGS Soon after this event Egg-Kings were found on the thrones of all these kingdoms, such as Eggberd, Eggbreth, Eggfroth, etc.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"None of them, however, succeeded in becoming memorable--except in so far as it is difficult to forget such names as Eggbirth, Eggbred, Eggbeard, Eggfilth, etc.",-0.1531,0.096,0.151,0.753,negative,1066 and all that
+Nor is it even remembered by what kind of Eggdeath they perished.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"CHAPTER IV BRITAIN CONQUERED AGAIN The conversion of Britain was followed by a Wave of Danes, accompanied by their sisters or Sagas , and led by such memorable warriors as Harold Falsetooth and Magnus the Great, who, landing correctly in Thanet, overran the country from right to left, with fire.⁠ [3] After this the Danes invented a law called the Danelaw, which easily proved that since there was nobody else left alive there, all the right-hand part of England belonged to them.",0.8442,0.107,0.0,0.893,positive,1066 and all that
+"The Danish Conquest was, however, undoubtedly a Good Thing , because although it made the Danes top nation for a time it was the cause of Alfred the Cake (and in any case they were beaten utterly in the end by Nelson).",0.2263,0.108,0.064,0.828,positive,1066 and all that
+By this time the Saxons had all become very old like the Britons before them and were called ealdormen ; when they had been defeated in a battle by the Danes they used to sing little songs to themselves such as the memorable fragment discovered in the Bodleian Library at Oxford: OLD-SAXON FRAGMENT Syng a song of Saxons In the Wapentake of Rye Four and twenty eaoldormen Two eaold to die.... Anon.,-0.4445,0.037,0.077,0.886,negative,1066 and all that
+"The Danes, on the other hand, wrote a very defiant kind of Epic poetry, e.g.",0.2516,0.184,0.126,0.69,positive,1066 and all that
+: BEOLEOPARD .,0.0,0.0,0.0,1.0,neutral,1066 and all that
+.,0.0,0.0,0.0,0.0,neutral,1066 and all that
+OR THE WITAN'S WHAIL .,0.0,0.0,0.0,1.0,neutral,1066 and all that
+.,0.0,0.0,0.0,0.0,neutral,1066 and all that
+Whan Cnut Cyng the Witan wold enfeoff Of infanthief and outfangthief Wonderlich were they enwraged And wordwar waged Sware Cnut great scot and lot Swingë wold ich this illbegotten lot.,0.6249,0.124,0.0,0.876,positive,1066 and all that
+Wroth was Cnut and wrothword spake.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Well wold he win at wopantake.,0.7096,0.596,0.0,0.404,positive,1066 and all that
+Fain wold he brakë frith and crackë heads And than they shold worshippe his redes.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Swingéd Cnut Cyng with swung sword Howléd Witanë hellë but hearkened his word Murië sang Cnut Cyng Outfangthief is Damgudthyng.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"FOOTNOTES: [3] And, according to certain obstinate historians, the Sword.",-0.0258,0.171,0.179,0.65,neutral,1066 and all that
+"CHAPTER V ALFRED THE CAKE King Alfred was the first Good King, with the exception of Good King Wenceslas, who, though he looked 4th, really came first (it is not known, however, what King Wenceslas was King of).",0.7003,0.142,0.0,0.858,positive,1066 and all that
+"Alfred ought never to be confused with King Arthur, equally memorable but probably non-existent and therefore perhaps less important historically (unless he did exist).",0.3053,0.128,0.0,0.872,positive,1066 and all that
+"There is a story that King Arthur once burnt some cakes belonging to Mrs. Girth, a great lady of the time, at a place called Atheling.",0.6249,0.157,0.0,0.843,positive,1066 and all that
+"As, however, Alfred could not have been an Incendiary King and a Good King, we may dismiss the story as absurd, and in any case the event is supposed to have occurred in a marsh where the cakes would not have burnt properly.",0.4404,0.068,0.0,0.932,positive,1066 and all that
+Cf.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"the famous lines of poetry about King Arthur and the cakes: ""Then slowly answered Alfred from the marsh--"" Arthur, Lord Tennyson.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+CHAPTER VI EXGALAHAD AND THE BRITISH NAVY King Arthur invented Conferences because he was secretly a Weak King and liked to know what his memorable thousand and one Knights wanted to do next.,-0.0258,0.078,0.081,0.84,neutral,1066 and all that
+"As they were all parfitly jealous Knights he had to have the Memorable Round Table made to have the Conferences at, so that it was impossible to say which was top knight.",-0.296,0.052,0.086,0.862,negative,1066 and all that
+He had a miraculous sword called Exgalahad with which he defeated the Danes in numerous battles.,-0.6908,0.0,0.305,0.695,negative,1066 and all that
+"In this he was also much assisted by his marine inventions, including the water-clock and the British Navy.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+The latter invention occurred as follows.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Alfred noticed that the Danes had very long ships, so he built a great many more much longer ones, thus cleverly founding the British Navy.",0.8255,0.258,0.0,0.742,positive,1066 and all that
+"From that time onwards foreigners, who, unlike the English, do not prefer to fight against long odds, seldom attacked the British Navy.",0.5667,0.189,0.0,0.811,positive,1066 and all that
+"Hence the important International Law called the Rule Britannia, technically known as the Freedom of the Seas.",0.7184,0.286,0.0,0.714,positive,1066 and all that
+"HUMILIATION OF THE DANES The English resisted the Danes heroically under Alfred, never fighting except against heavy odds, till at the memorable Peace of Wedmore Alfred compelled the Danes, who were now (of course) beaten, to stop being Danes and become English and therefore C. of E. and get properly married.",-0.0575,0.16,0.148,0.691,negative,1066 and all that
+"For this purpose they were made to go back and start again at Thanet, after which they were called in future Thanes instead of Danes and were on our side and in the right and very romantic.",0.4576,0.077,0.0,0.923,positive,1066 and all that
+CHAPTER VII LADY WINDERMERE.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"AGE OF LAKE DWELLERS A Bad Queen Alfred had a very interesting wife called Lady Windermere (The Lady of the Lake), who was always clothed in the same white frock, and used to go bathing with Sir Launcelot (also of the Lake) and was thus a Bad Queen.",-0.7219,0.056,0.17,0.773,negative,1066 and all that
+"It was also in King Arthur's time that the Anglo-Saxon Chronicle was published: this was the first English newspaper and had all the news about his victories, and Lady Windermere, and the Cakes, etc.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+CHAPTER VIII ETHELREAD THE UNREADY.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+A WEAK KING Ethelread the Unready was the first Weak King of England and was thus the cause of a fresh Wave of Danes.,-0.6408,0.083,0.235,0.683,negative,1066 and all that
+He was called the Unready because he was never ready when the Danes were.,-0.2755,0.0,0.14,0.86,negative,1066 and all that
+"Rather than wait for him the Danes used to fine him large sums called Danegeld, for not being ready.",-0.0798,0.086,0.101,0.813,negative,1066 and all that
+"But though they were always ready, the Danes had very bad memories and often used to forget that they had been paid the Danegeld and come back for it almost before they had sailed away.",-0.6474,0.076,0.176,0.748,negative,1066 and all that
+By that time Ethelread was always unready again.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Finally, Ethelread was taken completely unawares by his own death and was succeeded by Canute.",-0.2732,0.142,0.198,0.66,negative,1066 and all that
+"CHAPTER IX CANUTE, AN EXPERIMENTAL KING This memorable monarch, having set out from Norway to collect some Danegeld, landed by mistake at Thanet, and thus became King.",-0.34,0.0,0.085,0.915,negative,1066 and all that
+"CANUTE AND THE WAVES A Bad King Canute began by being a Bad King on the advice of his Courtiers, who informed him (owing to a misunderstanding of the Rule Britannia) that the King of England was entitled to sit on the sea without getting wet.",-0.8271,0.041,0.193,0.766,negative,1066 and all that
+"But finding that they were wrong he gave up this policy and decided to take his own advice in future--thus originating the memorable proverb, ""Paddle your own Canute""--and became a Good King and C. of E., and ceased to be memorable.",-0.0772,0.084,0.09,0.826,negative,1066 and all that
+"After Canute there were no more aquatic kings till William IV (see later, Creation of Piers ).",-0.0258,0.109,0.114,0.777,neutral,1066 and all that
+"Canute had two sons, Halfacanute and Partacanute, and two other offspring, Rathacanute and Hardlicanute, whom, however, he would never acknowledge, denying to the last that he was their Fathacanute.",0.2584,0.068,0.0,0.932,positive,1066 and all that
+"CHAPTER X EDWARD THE CONFESSOR On his death Canute's Kingdom was divided between two further sons, who had been previously overlooked, Aftercanute and Harold Harebrush.",-0.6124,0.0,0.185,0.815,negative,1066 and all that
+These were succeeded by Edward the Confessor.,0.4215,0.318,0.0,0.682,positive,1066 and all that
+"It was about this time that the memorable Mac Beth (""Ian Hay""), known as the Bane of Fife, murdered a number of his enemies, including Mac Duff, Lord Dunsinaney, Sleep, etc.",-0.8074,0.036,0.212,0.752,negative,1066 and all that
+"Edward the Confessor was with difficulty prevented from confessing to all these and many other crimes committed in his reign, as he was in the habit of confessing everything whether he had done it or not, and was thus a Weak King.",-0.4767,0.07,0.116,0.813,negative,1066 and all that
+THE LAST ENGLISH KING With Edward the Confessor perished the last English King (viz.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Edward the Confessor), since he was succeeded by Waves of Norman Kings (French), Tudors (Welsh), Stuarts (Scottish) and Hanoverians (German), not to mention the memorable Dutch King Williamanmary.",0.4215,0.094,0.0,0.906,positive,1066 and all that
+TEST PAPER I Up to the End of 1066 1.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Which do you consider were the more alike, Cæsar or Pompey, or vice versa ?",0.0,0.0,0.0,1.0,neutral,1066 and all that
+(Be brief.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+2.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Discuss, in latin or gothic ( but not both ), whether the Northumbrian Bishops were more schismatical than the Cumbrian Abbots.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+(Be bright.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+3.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Which came first, A.D. or B.C.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+?,0.0,0.0,0.0,0.0,neutral,1066 and all that
+(Be careful.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+4.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Has it never occurred to you that the Romans counted backwards ?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(Be honest.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+5.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+How angry would you be if it was suggested (1) That the XIth Chap.,-0.5106,0.0,0.202,0.798,negative,1066 and all that
+of the Consolations of Boethius was an interpolated palimpsest?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(2) That an eisteddfod was an agricultural implement?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+6.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+How would you have attempted to deal with ( a ) The Venomous Bead?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+( b ) A Mabinogion or Wapentake?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(Be quick.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+7.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+What would have happened if ( a ) Boadicea had been the daughter of Edward the Confessor?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+( b ) Canute had succeeded in sitting on the waves?,0.4215,0.286,0.0,0.714,positive,1066 and all that
+Does it matter?,0.0258,0.355,0.0,0.645,neutral,1066 and all that
+8.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Have you the faintest recollection of (1) Ethelbreth?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(2) Athelthral?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(3) Thruthelthrolth?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+9.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+What have you the faintest recollection of?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+10.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Estimate the average age of (1) The Ancient Britons.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(2) Ealdormen.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(3) Old King Cole.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+11.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Why do you know nothing at all about ( a ) The Laws of Infangthief and Egg-seisin?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+( b ) Saint Pancras?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+12.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Would you say that Ethelread the Unready was directly responsible for the French Revolution?,0.3182,0.15,0.0,0.85,positive,1066 and all that
+"If so, what would you say?",0.0,0.0,0.0,1.0,neutral,1066 and all that
+N.B.--Do not attempt to answer more than one question at a time.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+CHAPTER XI WILLIAM I.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"A CONQUERING KING In the year 1066 occurred the other memorable date in English History, viz.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"William the Conqueror, Ten Sixty-six .",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"This is also called The Battle of Hastings , and was when William I (1066) conquered England at the Battle of Senlac ( Ten Sixty-six ).",-0.6369,0.0,0.198,0.802,negative,1066 and all that
+First Conquering Action When William the Conqueror landed he lay down on the beach and swallowed two mouthfuls of sand.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+This was his first conquering action and was in the South; later he ravaged the North as well.,0.2732,0.11,0.0,0.89,positive,1066 and all that
+"The Norman Conquest was a Good Thing, as from this time onwards England stopped being conquered and thus was able to become top nation.",0.4215,0.177,0.071,0.752,positive,1066 and all that
+"DOOMSDAY BOOK AND THE FORESTS William next invented a system according to which everybody had to belong to somebody else, and everybody else to the King.",-0.6739,0.0,0.159,0.841,negative,1066 and all that
+"This was called the Feutile System, and in order to prove that it was true he wrote a book called the Doomsday Book , which contained an inventory of all the Possessions of all his subjects; after reading the book through carefully William agreed with it and signed it, indicating to everybody that the Possessions mentioned in it were now his.",0.1531,0.098,0.058,0.844,positive,1066 and all that
+"William the Conqueror (1066) is memorable for having loved an old stag as if it was his father, and was in general very fond of animals: he therefore made some very just and conquering laws about the Forests.",0.796,0.165,0.0,0.835,positive,1066 and all that
+"One of these laws said that all the forests and places which were not already Possessions belonged to the King and that anyone found in them should have his ears and legs cut off --(these belonged to somebody else under the Feutile System, anyway)--and (if this had not already been done) should have his eyes put out with red-hot irons ; after this the offender was allowed to fly the country.",-0.5574,0.0,0.063,0.937,negative,1066 and all that
+Another very conquering law made by William I said that everyone had to go to bed at eight o'clock.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+This was called the Curfew and was a Good Thing in the end since it was the cause of Gray's Energy in the country churchyard (at Stoke Penge).,0.6124,0.167,0.0,0.833,positive,1066 and all that
+Although in all these ways William the Conqueror (1066) was a very strong king he was eventually stumbled to death by a horse and was succeeded by his son Rufus.,0.3597,0.181,0.111,0.708,positive,1066 and all that
+CHAPTER XII RUFUS.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"A RUDDY KING A Good Thing This monarch was always very angry and red in the face and was therefore unpopular, so that his death was a Good Thing: it occurred in the following memorable way.",-0.4509,0.136,0.182,0.681,negative,1066 and all that
+"Rufus was hunting one day in the New Forest, when William Tell (the memorable crack-shot, inventor of Cross-bow puzzles) took unerring aim at a reddish apple, which had fallen on to the King's head, and shot him through the heart.",-0.3612,0.0,0.062,0.938,negative,1066 and all that
+"Sir Isaac Walton, who happened to be present at the time, thereupon invented the Law of Gravity.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+Thus was the reign of Rufus brought to a Good End.,0.4404,0.244,0.0,0.756,positive,1066 and all that
+CHAPTER XIII HENRY I.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+A TRAGIC KING Henry I was famous for his handwriting and was therefore generally called Henry Beau-geste.,-0.5766,0.0,0.211,0.789,negative,1066 and all that
+"He was extremely fond of his son William, who was, however, drowned in the White City.",-0.1796,0.151,0.185,0.664,negative,1066 and all that
+Henry tried to console himself for his loss by eating a surfeit of palfreys.,-0.3182,0.0,0.161,0.839,negative,1066 and all that
+This was a Bad Thing since he died of it and never smiled again .,-0.8735,0.0,0.499,0.501,negative,1066 and all that
+CHAPTER XIV THE DREADFUL STORY OF STEPHEN AND HIS AUNT MATILDA (OR MAUD) The moment Stephen came to the throne it was realized that he was a mistake and had been christened wrong; thus everything was thrown into confusion.,-0.8842,0.0,0.25,0.75,negative,1066 and all that
+"Stephen himself felt quite uncalled for, and even his Aunt Matilda was able to take him in when she began announcing that she was the real King.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Stephen, however, soon discovered that she had been malchristened, too, and was unable to say for certain whether her name was Matilda or Maud.",0.2732,0.084,0.0,0.916,positive,1066 and all that
+After this Stephen and Matilda (or Maud) spent the reign escaping from each other over the snow in nightgowns while 'God and His Angels slept.',0.3182,0.125,0.0,0.875,positive,1066 and all that
+"Lax State of Affairs Taking advantage of this lax state of affairs, the Barons built a surfeit of romantic castles, into which they lured everybody and then put them to the torture; nor is it recorded that the Sword was once sheathed, right to the bottom, during the whole of this dreadful reign.",-0.5537,0.078,0.121,0.8,negative,1066 and all that
+"Hence the memorable greeting so common among the Barons of the time--""Merrie Englande!""",0.4389,0.194,0.0,0.806,positive,1066 and all that
+CHAPTER XV HENRY II.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"A JUST KING Henry II was a great Lawgiver, and it was he who laid down the great Legal Principle that everything is either legal or (preferably) illegal.",0.765,0.313,0.101,0.587,positive,1066 and all that
+"He also made another very just arrangement about trials:-- Before Henry II's time there were two kinds of legal trial, ( a ) the Ideal and ( b ) the Combat.",0.3612,0.167,0.082,0.751,positive,1066 and all that
+"The Ideal form of trial consisted in making a man plunge his head in boiling ploughshares, in order to see whether he had committed a crime or not.",0.25,0.172,0.109,0.719,positive,1066 and all that
+According to Henry's reformed system a man was tried first by a jury of his equals and only had to plunge his head into the ploughshares afterwards (in order to confirm the jury's opinion that he had committed the crime).,0.2732,0.054,0.0,0.946,positive,1066 and all that
+This was obviously a much Better Thing .,0.4404,0.367,0.0,0.633,positive,1066 and all that
+"The Combat was a system by which in civil cases the litigants decided their dispute by mortal combat, after which the defeated party was allowed to fly the country.",-0.7845,0.074,0.292,0.634,negative,1066 and all that
+"But Henry altered all this and declared that a Grand Jury must decide first what the parties were fighting about: a reform which naturally gave rise to grave discontent among the Barons, who believed in the Combat, the whole Combat and nothing but the Combat.",-0.8126,0.127,0.268,0.605,negative,1066 and all that
+"THOMAS À BELLOC It was at this time that Thomas à Belloc, the great religious leader, claimed that clergymen, whatever crimes they might commit, could not be punished at all; this privilege, which was for some reason known as Benefit of Clergy, was in full accord with the devout spirit of the age.",0.9366,0.267,0.0,0.733,positive,1066 and all that
+"Henry II, however, exclaimed to some of his Knights one day, ""Who will rid me of this Chesterton beast?""",0.0,0.0,0.0,1.0,neutral,1066 and all that
+Whereupon the Knights pursued Belloc and murdered him in the organ at Canterbury Cathedral.,-0.6597,0.0,0.253,0.747,negative,1066 and all that
+Belloc was therefore made a Saint and the Knights came to be called the Canterbury Pilgrims.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Shortly afterwards Henry died of despair on receiving news that his sons were all revolting.,-0.7096,0.0,0.312,0.688,negative,1066 and all that
+"CHAPTER XVI THE AGE OF PIETY The Chapters between William I (1066) and the Tudors (Henry VIII, etc.)",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"are always called the Middle Ages , on account of their coming at the beginning; this was also The Age of Piety , since Religious fervour was then at its height, people being (1) burnt alive with faggots (The Steak), (2) bricked up in the walls of Convents (Religious Foundations) and (3) tortured in dungeons (The Confessional).",-0.7351,0.042,0.125,0.833,negative,1066 and all that
+"All this was not only pious but a Good Thing, as many of the people who were burnt, bricked, tortured, etc., became quite otherworldly.",-0.2617,0.129,0.165,0.706,negative,1066 and all that
+"Nowadays people are not so pious, even sinners being denied the benefits of fervent Religion.",0.2023,0.24,0.148,0.612,positive,1066 and all that
+CHAPTER XVII RICHARD I.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"A WILD KING Richard I was a hairy King with a Lion's Heart; he went roaring about the Desert making ferocious attacks on the Saladins and the Paladins, and was thus a very romantic King.",-0.079,0.087,0.125,0.787,negative,1066 and all that
+Whenever he returned to England he always set out again immediately for the Mediterranean and was therefore known as Richard Gare de Lyon.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"He had a sword of enormous dimensions with which he used to practise cutting iron bars and anvils in half, whereas the Saladins had very sharp swords which were only useful for cutting cushions in half.",0.2263,0.077,0.079,0.844,positive,1066 and all that
+"In spite of which the Crusaders under Richard never got Jerusalem back; this was undoubtedly due to the treacherous behaviour of the Saladins, who used to fire on the Red Cross which the Crusaders wore on their chests in battle.",-0.8126,0.0,0.185,0.815,negative,1066 and all that
+A Wild King THE STORY OF BLONDIN Richard is also famous for having a minstrel boy (or Touralour) called Blondin who searched for him under the walls of all the dungeons in Europe.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+This was when Richard had been caught by the blind King of Bohemia during a game of Blind King's Bluff and sold to the Holy Roman Terror.,-0.8316,0.0,0.277,0.723,negative,1066 and all that
+"Blondin eventually found him by singing the memorable song (or ""touralay"") called ""O Richard et mon Droit"" (""Are you right, there, Richard?",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"""), which Richard himself had composed.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Richard roared the chorus so that Blondin knew which dungeon he was in, and thus the King easily escaped and returned to the Crusades, where he died soon after of a surfeit of Saladins, and was therefore known in the East as Richard Cœur de Laitue.",-0.296,0.049,0.073,0.878,negative,1066 and all that
+CHAPTER XVIII JOHN.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"AN AWFUL KING When John came to the throne he lost his temper and flung himself on the floor, foaming at the mouth and biting the rushes.",-0.8331,0.0,0.269,0.731,negative,1066 and all that
+He was thus a Bad King.,-0.5423,0.0,0.467,0.533,negative,1066 and all that
+"Indeed, he had begun badly as a Bad Prince, having attempted to answer the Irish Question⁠ [4] by pulling the beards of the aged Irish chiefs, which was a Bad Thing and the wrong answer.",-0.9217,0.0,0.313,0.687,negative,1066 and all that
+"PRINCE ARTHUR--A TRAGEDY IN LITTLE John had a little nephew called Little Arthur, who was writing a little History of England in quite a small dungeon, and whose little blue eyes John had ordered to be put out with some weeny red-hot irons.",-0.7297,0.0,0.116,0.884,negative,1066 and all that
+"The gaoler Hubert, however, who was a Good Man, wept so much that he put out the red-hot irons instead.",-0.0258,0.127,0.131,0.742,neutral,1066 and all that
+"John was therefore compelled to do the little deed himself with a large, smallish knife, thus becoming the first memorable wicked uncle.",-0.4939,0.051,0.144,0.805,negative,1066 and all that
+"THE BULL John was so bad that the Pope decided to put the whole country under an Interdict, i.e.",-0.6696,0.0,0.2,0.8,negative,1066 and all that
+he gave orders that no one was to be born or die or marry (except in Church porches).,-0.7269,0.0,0.276,0.724,negative,1066 and all that
+But John was still not cured of his Badness; so the Pope sent a Bull to England to excommunicate John himself.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+In spite of the King's efforts to prevent it the Bull succeeded in landing and gave orders that John himself was not to be born or marry or die (except in Church porches); that no one was to obey him or stand him a drink or tell him the right time or the answer to the Irish Question or anything nice.,-0.5859,0.095,0.135,0.769,negative,1066 and all that
+"So at last John gave way and he and his subjects began once more to be born and to marry and to die, etc.",-0.5994,0.0,0.145,0.855,negative,1066 and all that
+etc.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"FOOTNOTES: [4] N.B.--The Irish Question at this time consisted of: (1) Some Norman Barons, who lived in a Pail (near Dublin).",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"(2) The natives and Irish Chieftains, who were beyond Pail, living in bogs, beards, etc.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"CHAPTER XIX MAGNA CHARTER There also happened in this reign the memorable Charta, known as Magna Charter on account of the Latin Magna (great) and Charter (a Charter); this was the first of the famous Chartas and Gartas of the Realm and was invented by the Barons on a desert island in the Thames called Ganymede.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"By congregating there, armed to the teeth, the Barons compelled John to sign the Magna Charter, which said: 1.",0.0516,0.062,0.0,0.938,positive,1066 and all that
+"That no one was to be put to death, save for some reason--(except the Common People).",-0.4404,0.143,0.274,0.583,negative,1066 and all that
+2.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+That everyone should be free--(except the Common People).,0.0,0.0,0.0,1.0,neutral,1066 and all that
+3.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+That everything should be of the same weight and measure throughout the Realm--(except the Common People).,0.0,0.0,0.0,1.0,neutral,1066 and all that
+4.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"That the Courts should be stationary, instead of following a very tiresome mediæval official known as the King's Person all over the country.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+5.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"That ""no person should be fined to his utter ruin""--(except the King's Person).",-0.296,0.0,0.155,0.845,negative,1066 and all that
+6.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+That the Barons should not be tried except by a special jury of other Barons who would understand.,0.4019,0.144,0.0,0.856,positive,1066 and all that
+"Magna Charter was therefore the chief cause of Democracy in England, and thus a Good Thing for everyone (except the Common People).",0.4404,0.127,0.0,0.873,positive,1066 and all that
+"Utter Incompetence After this King John hadn't a leg to stand on and was therefore known as ""John Lackshanks.""",-0.5106,0.0,0.163,0.837,negative,1066 and all that
+FINAL ACTS OF MISGOVERNMENT John finally demonstrated his utter incompetence by losing the Crown and all his clothes in the wash and then dying of a surfeit of peaches and no cyder; thus his awful reign came to an end.,-0.8779,0.0,0.241,0.759,negative,1066 and all that
+CHAPTER XX ROBIN HOOD AND HIS MERRIE MEN About this time the memorable hero Robin Hood flourished in a romantic manner.,0.743,0.259,0.0,0.741,positive,1066 and all that
+"Having been unjustly accused by two policemen in Richmond Park, he was condemned to be an outdoor and went and lived with a maid who was called Marion, and a band of Merrie Men, in Greenwood Forest, near Sherborne.",-0.6249,0.0,0.127,0.873,negative,1066 and all that
+"Amongst his Merrie Men were Will Scarlet ( The Scarlet Pimpernel ), Black Beauty, White Melville, Little Red Riding Hood (probably an outdaughter of his) and the famous Friar Puck who used to sit in a cowslip and suck bees, thus becoming so fat that he declared he could put his girdle round the Earth.",0.2263,0.066,0.05,0.884,positive,1066 and all that
+Robin Hood was a miraculous shot with the longbow and it is said that he could split a hare at 400 paces and a Sheriff at 800.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+He therefore spent his time blowing a horn and shooting at the Sheriff of Nottingham (who was an outwit).,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"He always used to sound his horn first, particularly when shooting round a corner; this showed his sportsmanship and also enabled him to shoot the Sheriff running, which was more difficult.",-0.6361,0.0,0.156,0.844,negative,1066 and all that
+"Robin Hood was also very good at socialism and often took money away from rich clergymen and gave it to the poor, who loved him for his generosity.",0.8977,0.349,0.077,0.574,positive,1066 and all that
+He died very romantically.,-0.1298,0.356,0.414,0.23,negative,1066 and all that
+"Having taken some medicine supplied by his Wicked Aunt and feeling his strength going, he blew a dying blast on his horn and with his dying breath fired a last shot out of his bedroom window, and hit the Sheriff of Nottingham again .",-0.5106,0.097,0.144,0.76,negative,1066 and all that
+Sheriff running ... more difficult CHAPTER XXI HENRY III.,-0.4201,0.0,0.259,0.741,negative,1066 and all that
+"A NONDESCRIPT KING Henry III was a confused kind of King and is only memorable for having seized all the money in the Mint, imprisoned himself in the Tower of London and, finally, flung himself into the Bosom of the Pope.",-0.6486,0.0,0.125,0.875,negative,1066 and all that
+"While he was in the Tower, Henry III wrote a letter to the nation saying that he was a Good Thing.",0.4404,0.139,0.0,0.861,positive,1066 and all that
+"This so confused the Londoners that they armed themselves with staves, jerkins, etc., and massacred the Jews in the City.",-0.3804,0.0,0.12,0.88,negative,1066 and all that
+"Later, when he was in the Pope's Bosom, Henry further confused the People by presenting all the Bonifaces of the Church to Italians.",-0.3182,0.0,0.095,0.905,negative,1066 and all that
+And the whole reign was rapidly becoming less and less memorable when one of the Barons called Simon de Montfort saved the situation by announcing that he had a memorable Idea.,0.4215,0.088,0.0,0.912,positive,1066 and all that
+"SIMON DE MONTFORT'S GOOD IDEA Simon de Montfort's Idea was to make the Parliament more Representative by inviting one or two vergers, or vergesses, to come from every parish, thus causing the only Good Parliament in History.",0.8441,0.211,0.0,0.789,positive,1066 and all that
+"THE BARONS Simon de Montfort, though only a Frenchman, was thus a Good Thing, and is very notable as being the only good Baron in history.",0.7003,0.209,0.0,0.791,positive,1066 and all that
+"The other Barons were, of course, all wicked Barons.",-0.5267,0.0,0.298,0.702,negative,1066 and all that
+"They had, however, many important duties under the Banorial system.",0.2023,0.167,0.0,0.833,positive,1066 and all that
+These were: 1.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+To be armed to the teeth.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+2.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"To extract from the Villein⁠ [5] Saccage and Soccage, tollage and tallage, pillage and ullage, and, in extreme cases, all other banorial amenities such as umbrage and porrage.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+(These may be collectively defined as the banorial rites of carnage and wreckage.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+3.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"To hasten the King's death, deposition, insanity, etc., and make quite sure that there were always at least three false claimants to the throne.",-0.719,0.083,0.244,0.673,negative,1066 and all that
+4.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+To resent the Attitude of the Church.,-0.1779,0.0,0.221,0.779,negative,1066 and all that
+"(The Barons were secretly jealous of the Church, which they accused of encroaching on their rites--see p. 22 , Age of Piety.)",-0.6369,0.0,0.215,0.785,negative,1066 and all that
+5.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+To keep up the Middle Ages.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+To extract from The Villein Note In order to clear up the general confusion of the period it is customary to give at this point a genealogical table of the Kings (and even some Queens) of England.,0.1027,0.067,0.057,0.876,positive,1066 and all that
+"As these tables are themselves somewhat confusing, the one which follows has been to a certain extent rationalized , and will, the Editors hope, prove to be exceptionally memorable.",0.5256,0.163,0.053,0.784,positive,1066 and all that
+Julius Cæsar = Cymbaline Balbus = Boadicea Edward the Confessor = the Lady of Shalott William I William II Williamandmary William IV Broody Mary Elizabeth Anne Victoria Edward I Edward II Edward III Edward IV Edward V Edward VI Edward VII Alfred (Arthur) = Lady Windermere (The Lady of the Lake) John of Gaunt = (1) Lady Godiva Henry I o.s.p.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+* Henry II Henry III Henry IV (Part I) Henry V Henry VI Henry VII Henry VIII James I James II Charles I Charles II George I George II George III George IV Richard I Richard II Richard III John of Gaunt = (2) Margaret of Angoulême John of Gaunt = (3) Joan of Arc John of Gaunt = (4) The Infanta John of Gaunt = (5) The Maria Theresa John of Gaunt = (6) Ann of Geierstein John of Gaunt = (7) etc.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+John of Gaunt = (8) etc.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+etc.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Carried forward: Ole King Cole Stephen John o.s.p.† Henry IV (Part II) E. & O. E. TEST PAPER II Up to the End of Henry III *1.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Give the dates of at least two of the following: (1) William the Conqueror.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(2) 1066.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+*2.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+What is a Plantagenet?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Do you agree?,0.3612,0.556,0.0,0.444,positive,1066 and all that
+*3.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Trace by means of graphs, etc., (1) The incidence of scurvy in the Chiltern Hundreds during the reign of Rufus.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+(2) The Bosom of the Pope.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"(Squared paper, compasses, etc., may be used.)",0.0,0.0,0.0,1.0,neutral,1066 and all that
+*4.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Expostulate (chiefly) on ( a ) The Curfew.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+( b ) Gray's Energy in the Country Churchyard.,0.2732,0.296,0.0,0.704,positive,1066 and all that
+*5.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Estimate the size of (1) Little Arthur.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(2) Friar Puck.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(3) Magna Charta.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+6.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Fill in the names of at least some of the following: (1) ------------.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(2) ------------.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(3) Simon de Montfort.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+7.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+King John had no redeeming features.,-0.296,0.0,0.306,0.694,negative,1066 and all that
+(Illustrate.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+8.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Arrange in this order: (1) Henry I.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(2) Henry II.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(3) Henry III.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(Do not attempt to answer more than once.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+*9.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+( a ) How far did the Lords Repellent drive Henry III into the arms of Pedro the Cruel?,-0.5859,0.0,0.202,0.798,negative,1066 and all that
+(Protractors may not be used.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+( b ) Matilda or Maud?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(Write on one side of the paper only.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+*10.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+How would you dispose of: ( a ) A Papal Bull?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+( b ) Your nephews?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+( c ) Your mother?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(Be brutal.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+*11.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Which would you rather be: (1) The Sheriff of Nottingham?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+(2) A Weak King?,-0.4404,0.0,0.592,0.408,negative,1066 and all that
+(3) Put to the Sword?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"*N.B.--Candidates over thirty need not attempt questions 10, 2, 5, 3, 4, 11, 8 or 1.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"FOOTNOTES: [5] Villein : mediæval term for agricultural labourer, usually suffering from scurvy, Black Death, etc.",-0.7906,0.0,0.35,0.65,negative,1066 and all that
+CHAPTER XXII EDWARD I.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"A STRONG KING Long before Henry III had died (of a surfeit of Barons, Bonifaces, etc.)",0.1111,0.205,0.183,0.611,positive,1066 and all that
+Edward I had taken advantage of the general confusion and of the death of Simon de Montfort (probably of a surfeit of Vergers) to become King before his reign had begun.,-0.6249,0.059,0.179,0.762,negative,1066 and all that
+"Sat on it himself Edward I was thus a strong King, and one of the first things he did was to make a strong arrangement about the Law Courts.",0.765,0.216,0.0,0.784,positive,1066 and all that
+"Hitherto there had been a number of Benches there, on all of which a confused official called the Justinian had tried to sit.",-0.25,0.058,0.102,0.841,negative,1066 and all that
+"Edward had them all amalgamated into one large Bench called the King's Bench, and sat on it himself.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Edward I, who had already (in his Saladin days) piously decimated several thousand Turks at Nazareth, now felt so strong that he decided to Hammer the Scots, who accordingly now come right into History.",0.6418,0.114,0.0,0.886,positive,1066 and all that
+"Malleus Scotorum The childless Scotch King Alexander the Great had trotted over a cliff and was thus dead; so the Scots asked Edward to tell them who was King of Scotland, and Edward said that a Balliol man ought to be.",-0.0516,0.09,0.095,0.815,negative,1066 and all that
+"Delighted with this decision the Scots crossed the Border and ravaged Cumberland with savage ferocity; in reply to which Edward also crossed the Border and, carrying off the Sacred Scone of Scotland on which the Scottish Kings had been crowned for centuries, buried it with great solemnity in Westminster Abbey.",0.3818,0.125,0.115,0.76,positive,1066 and all that
+"This was, of course, a Good Thing for the Scots because it was the cause of William the Wallace (not to be confused with Robert Bruce), who immediately defeated the English at Cambuskenneth (Scotch for Stirling) and invaded England with ferocious savagery.",-0.7506,0.059,0.209,0.732,negative,1066 and all that
+In answer to this Edward captured the Bruce and had him horribly executed with savage ferocity.,-0.7964,0.0,0.384,0.616,negative,1066 and all that
+"Soon after, Edward died of suffocation at a place called Burrow-in-the-Sands and was succeeded by his worthless son Edward II.",-0.5719,0.111,0.257,0.632,negative,1066 and all that
+CHAPTER XXIII EDWARD II.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"A WORTHLESS KING Edward II had a wave of favourites or hangers-on at Court, of whom the worst were the Suspenders and the Peers Gaveston.",-0.8286,0.0,0.269,0.731,negative,1066 and all that
+"There were two memorable Suspenders, the Old Suspender and the Young Suspender, and they were Edward's reply to the continual applications of the Barons for a confirmation of all the charters and garters of the Realm.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+But even Edward II's worthless character cannot alone explain.,-0.4098,0.163,0.297,0.54,negative,1066 and all that
+"THE BATTLE OF BANNOCKBURN The Scots were now under the leadership of the Bruce (not to be confused with the Wallace), who, doubtful whether he had slain the Red Comyn or not, armed himself with an enormous spider and marched against the English, determined if possible to win back the Great Scone by beating the English three times running.",0.0688,0.14,0.15,0.709,positive,1066 and all that
+THE BANNOCKBURN (or Flodden) The fact that the English were defeated has so confused Historians that many false theories are prevalent about the Bannockburn Campaign.,-0.6901,0.0,0.198,0.802,negative,1066 and all that
+What actually happened is quite clear from the sketch map on opposite page.,0.4391,0.194,0.0,0.806,positive,1066 and all that
+The causes of the English defeat were all unfair and were: 1.,-0.7269,0.0,0.379,0.621,negative,1066 and all that
+The Pits.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"Every time the Wallace saw some English Knights charging at him he quickly dug one of these unnatural hazards into which the English Knights, who had been taught to ride straight, galloped with flying colours.",0.2263,0.053,0.0,0.947,positive,1066 and all that
+2.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Superior numbers of the English (four to one).,0.5423,0.333,0.0,0.667,positive,1066 and all that
+"Accustomed to fight against heavy odds the English were uneasy, and when the Scots were unexpectedly reinforced by a large body of butlers with camp stools the English soldiers mistook them for a fresh army of Englishmen and retreated in disgust.",-0.7783,0.05,0.196,0.754,negative,1066 and all that
+3.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Foul riding by Scottish Knights.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"This was typified even before the battle during an exhibition combat between the Bruce and the English Champion, Baron Henry le Bohunk, when Bruce, mounted on a Shetland pony, galloped underneath the Baron and, coming up unexpectedly on the blind side, struck him a foul blow behind and maced him up for life.",-0.5859,0.065,0.163,0.772,negative,1066 and all that
+MEMORABLE SCREAMS OF EDWARD II Edward II was so weak that he kept banishing his favourites and then unbanishing them again.,-0.77,0.0,0.26,0.74,negative,1066 and all that
+The Barons therefore became so impatient that they deposed Edward without even waiting to arrange for any false claimants to the throne.,-0.4341,0.0,0.12,0.88,negative,1066 and all that
+Thus Edward III became King.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Shortly afterwards HORRIBLE SCREAMS were heard issuing from the Berkeley where Edward II was imprisoned and the next day he was horribly dead.,-0.9576,0.0,0.498,0.502,negative,1066 and all that
+"But since not even the Barons would confess to having horribly murdered him, it is just possible that Edward had merely been dying of a surfeit in the ordinary way.",-0.9136,0.0,0.284,0.716,negative,1066 and all that
+CHAPTER XXIV EDWARD III.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"A ROMANTIC KING Edward III had a very romantic reign which he began by confining his mother in a stronghold for the rest of her life, and inventing a law called the Gallic Law according to which he was King of France, and could therefore make war on it whenever he felt inclined.",0.4635,0.139,0.069,0.792,positive,1066 and all that
+"In order to placate Edward, the French King sent him a box of new tennis balls.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"When the parcel was opened the Prince of Wales, who was present, mottoed to himself memorably (in Bohemian) ""Ich Dien,"" which means ""My serve,"" and immediately invaded France with an army of archers.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+"This prince was the memorable All-Black Prince, and the war was called the Hundred Years War, because the troops signed on for a hundred years or the duration.",-0.8316,0.0,0.238,0.762,negative,1066 and all that
+"THE BATTLE OF CRESY This deçisive battle of the world was fought during a total eclipçe of the sun and naturally ended in a complete victory for the All-Black Prince, who very romantically ""won his Spurs""⁠ [6] by slaughtering one-third of the French nobility.",-0.0417,0.135,0.157,0.707,neutral,1066 and all that
+"THE SIX BURGLARS OF CALAIS Edward III then laid siege to Calais in order to be ready to return to England if necessary, and on the capitulation of the town ordered the six richest citizens to come forth with halters round their necks and wearing only their shorts, and to surrender all the keys in the city.",0.7096,0.097,0.0,0.903,positive,1066 and all that
+"The inhabitants therefore at once appointed the six chief burglars of Calais and Edward agreed with this, romantically commanding that they should be put to death as soon as they came in.",0.0,0.13,0.103,0.767,neutral,1066 and all that
+"His Queen, however, pointed out what a much more romantic thing it would be to pardon them and make them barons in the Exchequer.",0.6478,0.201,0.0,0.799,positive,1066 and all that
+Edward therefore pardoned them in spite of his private feelings that the original plan was more romantic still.,0.4201,0.292,0.138,0.569,positive,1066 and all that
+"After this Edward had all the wool in England kept in a stable at Calais instead of in a sack in the House of Commons; this was a Bad Thing, as it was the beginning of Political Economy.",-0.3182,0.057,0.09,0.853,negative,1066 and all that
+"WYCLIF AND THE DULLARDS During this reign the memorable preacher Wyclif collected together a curious set of men known as the Lollards or Dullards, because they insisted on walking about with their tongues hanging out and because they were so stupid that they could not do the Bible in Latin and demanded that everyone should be allowed to use an English translation.",-0.8834,0.032,0.178,0.79,negative,1066 and all that
+They were thus heretics and were accordingly unpopular with the top men in the Church who were very good at Latin and who liked to see some Dullards burnt before every meal.,0.6115,0.202,0.073,0.726,positive,1066 and all that
+"Hence the memorable grace ""De Heretico Comburendo, Amen,"" known as the Pilgrim's Grace.",0.6808,0.337,0.0,0.663,positive,1066 and all that
+ROYAL TACT Edward III had very good manners.,0.4927,0.313,0.0,0.687,positive,1066 and all that
+"One day at a royal dance he noticed some men-about-court mocking a lady whose garter had come off, whereupon to put her at her ease he stopped the dance and made the memorable epitaph: "" Honi soie qui mal y pense "" (""Honey, your silk stocking's hanging down"") and having replaced the garter with a romantic gesture gave the ill-mannered courtiers the Order of the Bath.",0.1531,0.079,0.07,0.851,positive,1066 and all that
+(This was an extreme form of torture in the Middle Ages.),-0.5994,0.0,0.281,0.719,negative,1066 and all that
+FOOTNOTES: [6] His father the King had betted him a pair of hotspurs that he could not do this.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+CHAPTER XXV RICHARD II.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"AN UNBALANCED KING Got off the throne Richard II was only a boy at his accession: one day, however, suspecting that he was now twenty-one, he asked his uncle and, on learning that he was, mounted the throne himself and tried first being a Good King and then being a Bad King, without enjoying either very much: then, being told that he was unbalanced, he got off the throne again in despair, exclaiming gloomily: ""For God's sake let me sit on the ground and tell bad stories about cabbages and things.""",-0.8713,0.029,0.14,0.831,negative,1066 and all that
+"Whereupon his cousin Lancaster (spelt Bolingbroke) quickly mounted the throne and said he was Henry IV, Part I. Richard was thus abdicated and was led to the Tower and subsequently to Pontefract Castle where he died of mysterious circumstances, probably a surfeit of Pumfreys (spelt Pontefracts).",-0.5574,0.0,0.076,0.924,negative,1066 and all that
+"APPENDIX THE PHEASANTS REVOLT They did this in several reigns under such memorable leaders as Black Kat, Straw Hat, John Bull and What Tyler I.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+Objects: ( a ) to obtain a free pardon for having revolted.,0.6808,0.483,0.0,0.517,positive,1066 and all that
+( b ) to find out which was the gentleman when Adam delved and Eve span.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"(The answer was, of course, Adam, but the mystics of the Church had concealed this dangerous knowledge.)",-0.7129,0.0,0.236,0.764,negative,1066 and all that
+( c ) to find out who was King and which of them was the Leader of the Rebellion.,-0.128,0.0,0.091,0.909,negative,1066 and all that
+( d ) to abolish the Villein.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+The Pheasants' Revolts were therefore purely educational movements and were thus easily suppressed.,0.34,0.167,0.0,0.833,positive,1066 and all that
+II.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"How Quelled: ( a ) the Pheasants were met at Smithfield by the King who ( b ) riding forward alone on a white horse answered object ( c ) by announcing (I) ""I am your King,"" and (II) ""I will be your leader.""",-0.25,0.0,0.057,0.943,negative,1066 and all that
+( c ) the real leader was then slain quickly by one of the Barons.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+( d ) a free pardon was granted to the Pheasants [see object ( a )].,0.765,0.521,0.0,0.479,positive,1066 and all that
+( e ) all were then put to death on the ground that they were Villeins [see object ( d )].,-0.5994,0.0,0.206,0.794,negative,1066 and all that
+"These Revolts were thus clearly romantic episodes, and a Good Thing, and the clergy were enabled to prevent the pheasants finding out the answer to object ( b ).",0.8126,0.299,0.0,0.701,positive,1066 and all that
+CHAPTER XXVI HENRY IV.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+A SPLIT KING When Henry IV Part I came to the throne the Barons immediately flung their gloves on the floor in order to prove 1.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+That Richard II was not yet dead 2.,0.5334,0.33,0.0,0.67,positive,1066 and all that
+That Henry had murdered him.,-0.6597,0.0,0.524,0.476,negative,1066 and all that
+"Henry very gallantly replied to this challenge by exhibiting Richard II's head in St. Paul's Cathedral, thus proving that he was innocent.",0.7156,0.268,0.0,0.732,positive,1066 and all that
+"Finding, however, that he was not memorable, he very patriotically abdicated in favour of Henry IV, Part II.",0.4404,0.146,0.0,0.854,positive,1066 and all that
+"RENEWED EDUCATIONAL FERMENT Even Henry IV Part II, however, is only memorable for having passed some interesting laws against his Old Retainers , i.e.",0.4019,0.109,0.0,0.891,positive,1066 and all that
+"butlers and sutlers, who had irritated him by demanding Liveries , requiring too much Maintenance , etc.",-0.5994,0.0,0.274,0.726,negative,1066 and all that
+"He also captured the Scottish Prince James and, while keeping him as a sausage, had him carefully educated for nineteen years; finding, however, that James was still Scotch, Henry IV Part II lost interest in education and died.",-0.34,0.104,0.136,0.76,negative,1066 and all that
+"CHAPTER XXVII HENRY V. AN IDEAL KING On the death of Henry IV Part II, his son, Prince Hal, who had won all English hearts by his youthful pranks--(such as trying on the crown while his father lay dying, and hitting a very old man called Judge Gascoigne)--determined to justify public expectation by becoming the Ideal English King .",0.8636,0.195,0.056,0.749,positive,1066 and all that
+"He therefore decided on an immediate appearance in the Hundred Years War, making a declaration that all the treaties with France were to be regarded as dull and void.",-0.765,0.0,0.202,0.798,negative,1066 and all that
+"Conditions in France were favourable to Henry since the French King, being mad, had entrusted the government of the country to a dolphin and the command of the army to an elderly constable.",-0.34,0.051,0.091,0.857,negative,1066 and all that
+"After capturing some breeches at Harfleur (more than once) by the original expedients of disguising his friends as imitation tigers, stiffening their sinews, etc., Henry was held up on the road to Calais by the constable, whom he defeated at the utterably memorable battle of Agincourt (French Poictiers ).",-0.3818,0.094,0.139,0.767,negative,1066 and all that
+"He then displaced the dolphin as ruler of Anjou, Menjou, Poilou, Maine, Touraine, Againe and Againe, and realizing that he was now too famous to live long expired at the ideal moment.",0.5267,0.099,0.0,0.901,positive,1066 and all that
+CHAPTER XXVIII HENRY VI.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"A VERY SMALL KING A Weak King The next King, Henry VI, was only one year old and was thus rather a Weak King; indeed the Barons declared that he was quite numb and vague.",-0.9001,0.0,0.3,0.7,negative,1066 and all that
+"When he grew up, however, he was such a Good Man that he was considered a Saint, or alternatively (especially by the Barons) an imbecile.",-0.0772,0.107,0.118,0.775,negative,1066 and all that
+"JOAN OF ARK During this reign the Hundred Years War was brought to an end by Joan of Ark , a French descendant of Noah who after hearing Angel voices singing Do Ré Mi became inspired, thus unfairly defeating the English in several battles.",-0.7096,0.064,0.181,0.755,negative,1066 and all that
+"Indeed, she might even have made France top nation if the Church had not decided that she would make an exceptionally memorable martyr.",0.2023,0.076,0.0,0.924,positive,1066 and all that
+Thus Joan of Ark was a Good Thing in the end and is now the only memorable French saint.,0.4404,0.146,0.0,0.854,positive,1066 and all that
+"THE WARS OF THE ROSES Noticing suddenly that the Middle Ages were coming to an end, the Barons now made a stupendous effort to revive the old Feudal amenities of Sackage, Carnage and Wreckage and so stave off the Tudors for a time.",-0.5766,0.052,0.132,0.817,negative,1066 and all that
+"They achieved this by a very clever plan, known as the Wars of the Roses (because the Barons all picked different coloured roses in order to see which side they were on).",-0.079,0.092,0.1,0.808,negative,1066 and all that
+"WARWICK THE KINGMAKER One of the rules in the Wars of the Roses was that nobody was ever really King but that Edmund Mortimer really ought to be: any Baron who wished to be considered King was allowed to apply at Warwick the Kingmaker's, where he was made to fill up a form, answering the following questions: 1.",-0.3182,0.0,0.039,0.961,negative,1066 and all that
+Are you a good plain cook?,0.4404,0.42,0.0,0.58,positive,1066 and all that
+2.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Are you Edmund Mortimer?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"If not, have you got him?",0.0,0.0,0.0,1.0,neutral,1066 and all that
+3.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Have you ever been King before?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"If so, state how many times; also whether deposed, beheaded, or died of surfeit.",-0.5574,0.0,0.217,0.783,negative,1066 and all that
+4.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Are you insane?,-0.4019,0.0,0.574,0.426,negative,1066 and all that
+"If so, state whether permanently or only temporarily.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+5.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Are you prepared to marry Margaret of Angoulême?,0.2263,0.213,0.0,0.787,positive,1066 and all that
+"If Isabella of Hainault preferred, give reasons.",0.0,0.0,0.0,1.0,neutral,1066 and all that
+(Candidates are advised not to attempt both ladies.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+6.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Have you had the Black Death?,-0.5994,0.0,0.438,0.562,negative,1066 and all that
+7.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+What have you done with your mother?,0.0,0.0,0.0,1.0,neutral,1066 and all that
+"(If Nun , write None .)",0.0,0.0,0.0,1.0,neutral,1066 and all that
+8.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+Do you intend to be I ( a ) a Good King.,0.4404,0.326,0.0,0.674,positive,1066 and all that
+( b ) a Bad King.,-0.5423,0.0,0.778,0.222,negative,1066 and all that
+( c ) a Weak King.,-0.4404,0.0,0.744,0.256,negative,1066 and all that
+II ( a ) a Good Man.,0.4404,0.592,0.0,0.408,positive,1066 and all that
+( b ) a Bad Man.,-0.5423,0.0,0.778,0.222,negative,1066 and all that
+(Candidates must not attempt more than one in each section.),0.0,0.0,0.0,1.0,neutral,1066 and all that
+9.,0.0,0.0,0.0,1.0,neutral,1066 and all that
+How do you propose to die?,-0.5994,0.0,0.438,0.562,negative,1066 and all that
+(Write your answer,0.0,0.0,0.0,1.0,neutral,1066 and all that

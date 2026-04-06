@@ -1,0 +1,637 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Invisible Man: A Grotesque Romance This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,0.4588,0.14,0.096,0.764,positive,The Invisible Man: A Grotesque Romance
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Invisible Man: A Grotesque Romance
+"Title : The Invisible Man: A Grotesque Romance Author : H. G. Wells Release date : March 1, 2004 [eBook #5230] Most recently updated: October 16, 2021 Language : English Other information and formats : www.gutenberg.org/ebooks/5230 Credits : Andrew Sly *** START OF THE PROJECT GUTENBERG EBOOK THE INVISIBLE MAN: A GROTESQUE ROMANCE *** The Invisible Man A Grotesque Romance by H. G. Wells Contents I.",0.9519,0.261,0.0,0.739,positive,The Invisible Man: A Grotesque Romance
+The strange Man's Arrival II.,-0.2023,0.0,0.31,0.69,negative,The Invisible Man: A Grotesque Romance
+Mr. Teddy Henfrey's first Impressions III.,0.2263,0.275,0.0,0.725,positive,The Invisible Man: A Grotesque Romance
+The thousand and one Bottles IV.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Mr. Cuss interviews the Stranger V. The Burglary at the Vicarage VI.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The Furniture that went mad VII.,-0.4939,0.0,0.39,0.61,negative,The Invisible Man: A Grotesque Romance
+The Unveiling of the Stranger VIII.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+In Transit IX.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Mr. Thomas Marvel X. Mr. Marvel's Visit to Iping XI.,0.4215,0.237,0.0,0.763,positive,The Invisible Man: A Grotesque Romance
+"In the ""Coach and Horses"" XII.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The invisible Man loses his Temper XIII.,-0.6249,0.0,0.505,0.495,negative,The Invisible Man: A Grotesque Romance
+Mr. Marvel discusses his Resignation XIV.,0.1531,0.311,0.244,0.444,positive,The Invisible Man: A Grotesque Romance
+At Port Stowe XV.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The Man who was running XVI.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"In the ""Jolly Cricketers"" XVII.",0.5106,0.452,0.0,0.548,positive,The Invisible Man: A Grotesque Romance
+Dr. Kemp's Visitor XVIII.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The invisible Man sleeps XIX.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Certain first Principles XX.,0.2732,0.412,0.0,0.588,positive,The Invisible Man: A Grotesque Romance
+At the House in Great Portland Street XXI.,0.6249,0.369,0.0,0.631,positive,The Invisible Man: A Grotesque Romance
+In Oxford Street XXII.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+In the Emporium XXIII.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+In Drury Lane XXIV.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The Plan that failed XXV.,-0.5106,0.0,0.452,0.548,negative,The Invisible Man: A Grotesque Romance
+The Hunting of the invisible Man XXVI.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The Wicksteed Murder XXVII.,-0.6908,0.0,0.61,0.39,negative,The Invisible Man: A Grotesque Romance
+The Siege of Kemp's House XXVIII.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The Hunter hunted The Epilogue CHAPTER I.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"THE STRANGE MAN'S ARRIVAL The stranger came early in February, one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking from Bramblehurst railway station, and carrying a little black portmanteau in his thickly gloved hand.",0.1697,0.068,0.054,0.877,positive,The Invisible Man: A Grotesque Romance
+"He was wrapped up from head to foot, and the brim of his soft felt hat hid every inch of his face but the shiny tip of his nose; the snow had piled itself against his shoulders and chest, and added a white crest to the burden he carried.",-0.6187,0.0,0.099,0.901,negative,The Invisible Man: A Grotesque Romance
+"He staggered into the ""Coach and Horses"" more dead than alive, and flung his portmanteau down.",-0.4077,0.133,0.214,0.652,negative,The Invisible Man: A Grotesque Romance
+"""A fire,"" he cried, ""in the name of human charity!",0.126,0.226,0.19,0.584,positive,The Invisible Man: A Grotesque Romance
+"A room and a fire!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He stamped and shook the snow from off himself in the bar, and followed Mrs. Hall into her guest parlour to strike his bargain.",-0.0258,0.07,0.113,0.817,neutral,The Invisible Man: A Grotesque Romance
+"And with that much introduction, that and a couple of sovereigns flung upon the table, he took up his quarters in the inn.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Mrs. Hall lit the fire and left him there while she went to prepare him a meal with her own hands.,-0.34,0.0,0.112,0.888,negative,The Invisible Man: A Grotesque Romance
+"A guest to stop at Iping in the wintertime was an unheard-of piece of luck, let alone a guest who was no ""haggler,"" and she was resolved to show herself worthy of her good fortune.",0.6249,0.245,0.149,0.606,positive,The Invisible Man: A Grotesque Romance
+"As soon as the bacon was well under way, and Millie, her lymphatic maid, had been brisked up a bit by a few deftly chosen expressions of contempt, she carried the cloth, plates, and glasses into the parlour and began to lay them with the utmost éclat .",-0.4019,0.043,0.078,0.879,negative,The Invisible Man: A Grotesque Romance
+"Although the fire was burning up briskly, she was surprised to see that her visitor still wore his hat and coat, standing with his back to her and staring out of the window at the falling snow in the yard.",-0.2732,0.044,0.093,0.862,negative,The Invisible Man: A Grotesque Romance
+"His gloved hands were clasped behind him, and he seemed to be lost in thought.",-0.3182,0.0,0.141,0.859,negative,The Invisible Man: A Grotesque Romance
+She noticed that the melting snow that still sprinkled his shoulders dripped upon her carpet.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Can I take your hat and coat, sir?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"she said, ""and give them a good dry in the kitchen?""",0.4404,0.244,0.0,0.756,positive,The Invisible Man: A Grotesque Romance
+"""No,"" he said without turning.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"She was not sure she had heard him, and was about to repeat her question.",-0.2411,0.0,0.123,0.877,negative,The Invisible Man: A Grotesque Romance
+He turned his head and looked at her over his shoulder.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I prefer to keep them on,"" he said with emphasis, and she noticed that he wore big blue spectacles with sidelights, and had a bush side-whisker over his coat-collar that completely hid his cheeks and face.",-0.1761,0.0,0.047,0.953,negative,The Invisible Man: A Grotesque Romance
+"""Very well, sir,"" she said. """,0.3384,0.374,0.0,0.626,positive,The Invisible Man: A Grotesque Romance
+As you like.,0.3612,0.556,0.0,0.444,positive,The Invisible Man: A Grotesque Romance
+"In a bit the room will be warmer.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He made no answer, and had turned his face away from her again, and Mrs. Hall, feeling that her conversational advances were ill-timed, laid the rest of the table things in a quick staccato and whisked out of the room.",-0.1779,0.037,0.054,0.909,negative,The Invisible Man: A Grotesque Romance
+"When she returned he was still standing there, like a man of stone, his back hunched, his collar turned up, his dripping hat-brim turned down, hiding his face and ears completely.",0.0772,0.076,0.067,0.856,positive,The Invisible Man: A Grotesque Romance
+"She put down the eggs and bacon with considerable emphasis, and called rather than said to him, ""Your lunch is served, sir.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Thank you,"" he said at the same time, and did not stir until she was closing the door.",0.3612,0.128,0.0,0.872,positive,The Invisible Man: A Grotesque Romance
+Then he swung round and approached the table with a certain eager quickness.,0.5574,0.315,0.0,0.685,positive,The Invisible Man: A Grotesque Romance
+As she went behind the bar to the kitchen she heard a sound repeated at regular intervals.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Chirk, chirk, chirk, it went, the sound of a spoon being rapidly whisked round a basin.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""That girl!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+she said.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""There!",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+I clean forgot it.,0.4019,0.574,0.0,0.426,positive,The Invisible Man: A Grotesque Romance
+"It's her being so long!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"And while she herself finished mixing the mustard, she gave Millie a few verbal stabs for her excessive slowness.",-0.4404,0.0,0.146,0.854,negative,The Invisible Man: A Grotesque Romance
+"She had cooked the ham and eggs, laid the table, and done everything, while Millie (help indeed!)",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+had only succeeded in delaying the mustard.,0.4215,0.318,0.0,0.682,positive,The Invisible Man: A Grotesque Romance
+And him a new guest and wanting to stay!,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Then she filled the mustard pot, and, putting it with a certain stateliness upon a gold and black tea-tray, carried it into the parlour.",0.2732,0.091,0.0,0.909,positive,The Invisible Man: A Grotesque Romance
+She rapped and entered promptly.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"As she did so her visitor moved quickly, so that she got but a glimpse of a white object disappearing behind the table.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+It would seem he was picking something from the floor.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"She rapped down the mustard pot on the table, and then she noticed the overcoat and hat had been taken off and put over a chair in front of the fire, and a pair of wet boots threatened rust to her steel fender.",-0.6597,0.0,0.122,0.878,negative,The Invisible Man: A Grotesque Romance
+She went to these things resolutely.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I suppose I may have them to dry now,"" she said in a voice that brooked no denial.",-0.296,0.0,0.128,0.872,negative,The Invisible Man: A Grotesque Romance
+"""Leave the hat,"" said her visitor, in a muffled voice, and turning she saw he had raised his head and was sitting and looking at her.",-0.0516,0.0,0.048,0.952,negative,The Invisible Man: A Grotesque Romance
+"For a moment she stood gaping at him, too surprised to speak.",0.2263,0.16,0.0,0.84,positive,The Invisible Man: A Grotesque Romance
+"He held a white cloth--it was a serviette he had brought with him--over the lower part of his face, so that his mouth and jaws were completely hidden, and that was the reason of his muffled voice.",-0.296,0.0,0.061,0.939,negative,The Invisible Man: A Grotesque Romance
+But it was not that which startled Mrs. Hall.,0.1967,0.182,0.0,0.818,positive,The Invisible Man: A Grotesque Romance
+"It was the fact that all his forehead above his blue glasses was covered by a white bandage, and that another covered his ears, leaving not a scrap of his face exposed excepting only his pink, peaked nose.",-0.0772,0.0,0.036,0.964,negative,The Invisible Man: A Grotesque Romance
+"It was bright, pink, and shiny just as it had been at first.",0.4404,0.195,0.0,0.805,positive,The Invisible Man: A Grotesque Romance
+"He wore a dark-brown velvet jacket with a high, black, linen-lined collar turned up about his neck.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"The thick black hair, escaping as it could below and between the cross bandages, projected in curious tails and horns, giving him the strangest appearance conceivable.",0.5994,0.204,0.0,0.796,positive,The Invisible Man: A Grotesque Romance
+"This muffled and bandaged head was so unlike what she had anticipated, that for a moment she was rigid.",-0.128,0.0,0.081,0.919,negative,The Invisible Man: A Grotesque Romance
+"He did not remove the serviette, but remained holding it, as she saw now, with a brown gloved hand, and regarding her with his inscrutable blue glasses.",0.6486,0.147,0.0,0.853,positive,The Invisible Man: A Grotesque Romance
+"""Leave the hat,"" he said, speaking very distinctly through the white cloth.",-0.0516,0.0,0.098,0.902,negative,The Invisible Man: A Grotesque Romance
+Her nerves began to recover from the shock they had received.,-0.4588,0.0,0.308,0.692,negative,The Invisible Man: A Grotesque Romance
+She placed the hat on the chair again by the fire.,-0.34,0.0,0.194,0.806,negative,The Invisible Man: A Grotesque Romance
+"""I didn't know, sir,"" she began, ""that--"" and she stopped embarrassed.",-0.5267,0.0,0.328,0.672,negative,The Invisible Man: A Grotesque Romance
+"""Thank you,"" he said drily, glancing from her to the door and then at her again.",0.3612,0.143,0.0,0.857,positive,The Invisible Man: A Grotesque Romance
+"""I'll have them nicely dried, sir, at once,"" she said, and carried his clothes out of the room.",0.4404,0.146,0.0,0.854,positive,The Invisible Man: A Grotesque Romance
+She glanced at his white-swathed head and blue goggles again as she was going out of the door; but his napkin was still in front of his face.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"She shivered a little as she closed the door behind her, and her face was eloquent of her surprise and perplexity.",0.2732,0.1,0.0,0.9,positive,The Invisible Man: A Grotesque Romance
+"""I never ,"" she whispered.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""There!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"She went quite softly to the kitchen, and was too preoccupied to ask Millie what she was messing about with now , when she got there.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The visitor sat and listened to her retreating feet.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He glanced inquiringly at the window before he removed his serviette, and resumed his meal.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He took a mouthful, glanced suspiciously at the window, took another mouthful, then rose and, taking the serviette in his hand, walked across the room and pulled the blind down to the top of the white muslin that obscured the lower panes.",-0.3818,0.103,0.156,0.741,negative,The Invisible Man: A Grotesque Romance
+This left the room in a twilight.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"This done, he returned with an easier air to the table and his meal.",0.4215,0.177,0.0,0.823,positive,The Invisible Man: A Grotesque Romance
+"""The poor soul's had an accident or an op'ration or somethin',"" said Mrs. Hall.",-0.7351,0.0,0.341,0.659,negative,The Invisible Man: A Grotesque Romance
+"""What a turn them bandages did give me, to be sure!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"She put on some more coal, unfolded the clothes-horse, and extended the traveller's coat upon this.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""And they goggles!",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Why, he looked more like a divin' helmet than a human man!""",0.474,0.255,0.0,0.745,positive,The Invisible Man: A Grotesque Romance
+She hung his muffler on a corner of the horse.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""And holding that handkerchief over his mouth all the time.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Talkin' through it!,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"... Perhaps his mouth was hurt too--maybe.""",-0.5267,0.0,0.362,0.638,negative,The Invisible Man: A Grotesque Romance
+"She turned round, as one who suddenly remembers.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Bless my soul alive!""",0.4753,0.508,0.0,0.492,positive,The Invisible Man: A Grotesque Romance
+"she said, going off at a tangent; ""ain't you done them taters yet , Millie?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"When Mrs. Hall went to clear away the stranger's lunch, her idea that his mouth must also have been cut or disfigured in the accident she supposed him to have suffered, was confirmed, for he was smoking a pipe, and all the time that she was in the room he never loosened the silk muffler he had wrapped round the lower part of his face to put the mouthpiece to his lips.",-0.7906,0.033,0.134,0.833,negative,The Invisible Man: A Grotesque Romance
+"Yet it was not forgetfulness, for she saw he glanced at it as it smouldered out.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He sat in the corner with his back to the window-blind and spoke now, having eaten and drunk and being comfortably warmed through, with less aggressive brevity than before.",0.2944,0.146,0.11,0.744,positive,The Invisible Man: A Grotesque Romance
+The reflection of the fire lent a kind of red animation to his big spectacles they had lacked hitherto.,-0.34,0.0,0.124,0.876,negative,The Invisible Man: A Grotesque Romance
+"""I have some luggage,"" he said, ""at Bramblehurst station,"" and he asked her how he could have it sent.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+He bowed his bandaged head quite politely in acknowledgment of her explanation.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""To-morrow?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+he said.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""There is no speedier delivery?""",-0.296,0.0,0.355,0.645,negative,The Invisible Man: A Grotesque Romance
+"and seemed quite disappointed when she answered, ""No.""",-0.5256,0.0,0.326,0.674,negative,The Invisible Man: A Grotesque Romance
+Was she quite sure?,0.3804,0.464,0.0,0.536,positive,The Invisible Man: A Grotesque Romance
+No man with a trap who would go over?,-0.5423,0.0,0.429,0.571,negative,The Invisible Man: A Grotesque Romance
+"Mrs. Hall, nothing loath, answered his questions and developed a conversation.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""It's a steep road by the down, sir,"" she said in answer to the question about a trap; and then, snatching at an opening, said, ""It was there a carriage was upsettled, a year ago and more.",-0.3182,0.0,0.067,0.933,negative,The Invisible Man: A Grotesque Romance
+"A gentleman killed, besides his coachman.",-0.6705,0.0,0.529,0.471,negative,The Invisible Man: A Grotesque Romance
+"Accidents, sir, happen in a moment, don't they?""",-0.3182,0.0,0.277,0.723,negative,The Invisible Man: A Grotesque Romance
+But the visitor was not to be drawn so easily.,0.6339,0.317,0.0,0.683,positive,The Invisible Man: A Grotesque Romance
+"""They do,"" he said through his muffler, eyeing her quietly through his impenetrable glasses.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""But they take long enough to get well, don't they?",0.3919,0.227,0.0,0.773,positive,The Invisible Man: A Grotesque Romance
+...,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"There was my sister's son, Tom, jest cut his arm with a scythe, tumbled on it in the 'ayfield, and, bless me!",0.2481,0.128,0.087,0.785,positive,The Invisible Man: A Grotesque Romance
+he was three months tied up sir.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+You'd hardly believe it.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"It's regular given me a dread of a scythe, sir.""",-0.4588,0.0,0.3,0.7,negative,The Invisible Man: A Grotesque Romance
+"""I can quite understand that,"" said the visitor.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""He was afraid, one time, that he'd have to have an op'ration--he was that bad, sir.""",-0.5423,0.0,0.189,0.811,negative,The Invisible Man: A Grotesque Romance
+"The visitor laughed abruptly, a bark of a laugh that he seemed to bite and kill in his mouth. """,0.2263,0.261,0.186,0.553,positive,The Invisible Man: A Grotesque Romance
+"Was he?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+he said.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""He was, sir.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"And no laughing matter to them as had the doing for him, as I had--my sister being took up with her little ones so much.",0.2732,0.156,0.08,0.764,positive,The Invisible Man: A Grotesque Romance
+"There was bandages to do, sir, and bandages to undo.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"So that if I may make so bold as to say it, sir--"" ""Will you get me some matches?""",0.5214,0.165,0.0,0.835,positive,The Invisible Man: A Grotesque Romance
+"said the visitor, quite abruptly.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""My pipe is out.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Mrs. Hall was pulled up suddenly.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"It was certainly rude of him, after telling him all she had done.",-0.1531,0.146,0.183,0.671,negative,The Invisible Man: A Grotesque Romance
+"She gasped at him for a moment, and remembered the two sovereigns.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+She went for the matches.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Thanks,"" he said concisely, as she put them down, and turned his shoulder upon her and stared out of the window again.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+It was altogether too discouraging.,-0.4404,0.0,0.42,0.58,negative,The Invisible Man: A Grotesque Romance
+Evidently he was sensitive on the topic of operations and bandages.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"She did not ""make so bold as to say,"" however, after all.",0.5214,0.234,0.0,0.766,positive,The Invisible Man: A Grotesque Romance
+"But his snubbing way had irritated her, and Millie had a hot time of it that afternoon.",-0.7469,0.0,0.312,0.688,negative,The Invisible Man: A Grotesque Romance
+"The visitor remained in the parlour until four o'clock, without giving the ghost of an excuse for an intrusion.",0.0583,0.153,0.096,0.751,positive,The Invisible Man: A Grotesque Romance
+For the most part he was quite still during that time; it would seem he sat in the growing darkness smoking in the firelight--perhaps dozing.,-0.0772,0.064,0.075,0.861,negative,The Invisible Man: A Grotesque Romance
+"Once or twice a curious listener might have heard him at the coals, and for the space of five minutes he was audible pacing the room.",0.3182,0.087,0.0,0.913,positive,The Invisible Man: A Grotesque Romance
+He seemed to be talking to himself.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Then the armchair creaked as he sat down again.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"MR. TEDDY HENFREY'S FIRST IMPRESSIONS At four o'clock, when it was fairly dark and Mrs. Hall was screwing up her courage to go in and ask her visitor if he would take some tea, Teddy Henfrey, the clock-jobber, came into the bar.",0.6037,0.125,0.041,0.835,positive,The Invisible Man: A Grotesque Romance
+"""My sakes!",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Mrs. Hall,"" said he, ""but this is terrible weather for thin boots!""",-0.6643,0.0,0.288,0.712,negative,The Invisible Man: A Grotesque Romance
+The snow outside was falling faster.,-0.1531,0.0,0.242,0.758,negative,The Invisible Man: A Grotesque Romance
+"Mrs. Hall agreed, and then noticed he had his bag with him.",0.2732,0.16,0.0,0.84,positive,The Invisible Man: A Grotesque Romance
+"""Now you're here, Mr. Teddy,"" said she, ""I'd be glad if you'd give th' old clock in the parlour a bit of a look.",0.4588,0.125,0.0,0.875,positive,The Invisible Man: A Grotesque Romance
+"'Tis going, and it strikes well and hearty; but the hour-hand won't do nuthin' but point at six.""",-0.0516,0.08,0.091,0.829,negative,The Invisible Man: A Grotesque Romance
+"And leading the way, she went across to the parlour door and rapped and entered.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Her visitor, she saw as she opened the door, was seated in the armchair before the fire, dozing it would seem, with his bandaged head drooping on one side.",-0.34,0.0,0.079,0.921,negative,The Invisible Man: A Grotesque Romance
+"The only light in the room was the red glow from the fire--which lit his eyes like adverse railway signals, but left his downcast face in darkness--and the scanty vestiges of the day that came in through the open door.",-0.5719,0.04,0.123,0.837,negative,The Invisible Man: A Grotesque Romance
+"Everything was ruddy, shadowy, and indistinct to her, the more so since she had just been lighting the bar lamp, and her eyes were dazzled.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+But for a second it seemed to her that the man she looked at had an enormous mouth wide open--a vast and incredible mouth that swallowed the whole of the lower portion of his face.,-0.4215,0.0,0.078,0.922,negative,The Invisible Man: A Grotesque Romance
+"It was the sensation of a moment: the white-bound head, the monstrous goggle eyes, and this huge yawn below it.",0.3869,0.127,0.0,0.873,positive,The Invisible Man: A Grotesque Romance
+"Then he stirred, started up in his chair, put up his hand.",0.4939,0.225,0.0,0.775,positive,The Invisible Man: A Grotesque Romance
+"She opened the door wide, so that the room was lighter, and she saw him more clearly, with the muffler held up to his face just as she had seen him hold the serviette before.",0.4576,0.081,0.0,0.919,positive,The Invisible Man: A Grotesque Romance
+"The shadows, she fancied, had tricked her.",-0.1531,0.0,0.211,0.789,negative,The Invisible Man: A Grotesque Romance
+"""Would you mind, sir, this man a-coming to look at the clock, sir?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"she said, recovering from the momentary shock.",-0.3818,0.0,0.302,0.698,negative,The Invisible Man: A Grotesque Romance
+"""Look at the clock?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"he said, staring round in a drowsy manner, and speaking over his hand, and then, getting more fully awake, ""certainly.""",0.4939,0.151,0.0,0.849,positive,The Invisible Man: A Grotesque Romance
+"Mrs. Hall went away to get a lamp, and he rose and stretched himself.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Then came the light, and Mr. Teddy Henfrey, entering, was confronted by this bandaged person.",-0.2023,0.0,0.114,0.886,negative,The Invisible Man: A Grotesque Romance
+"He was, he says, ""taken aback.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Good afternoon,"" said the stranger, regarding him--as Mr. Henfrey says, with a vivid sense of the dark spectacles--""like a lobster.""",0.4404,0.146,0.0,0.854,positive,The Invisible Man: A Grotesque Romance
+"""I hope,"" said Mr. Henfrey, ""that it's no intrusion.""",-0.296,0.0,0.216,0.784,negative,The Invisible Man: A Grotesque Romance
+"""None whatever,"" said the stranger.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Though, I understand,"" he said turning to Mrs. Hall, ""that this room is really to be mine for my own private use.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I thought, sir,"" said Mrs. Hall, ""you'd prefer the clock--"" ""Certainly,"" said the stranger, ""certainly--but, as a rule, I like to be alone and undisturbed.",0.128,0.098,0.078,0.824,positive,The Invisible Man: A Grotesque Romance
+"""But I'm really glad to have the clock seen to,"" he said, seeing a certain hesitation in Mr. Henfrey's manner.",0.664,0.275,0.103,0.622,positive,The Invisible Man: A Grotesque Romance
+"""Very glad.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Mr. Henfrey had intended to apologise and withdraw, but this anticipation reassured him.",0.7269,0.415,0.0,0.585,positive,The Invisible Man: A Grotesque Romance
+The stranger turned round with his back to the fireplace and put his hands behind his back.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""And presently,"" he said, ""when the clock-mending is over, I think I should like to have some tea.",0.3612,0.143,0.0,0.857,positive,The Invisible Man: A Grotesque Romance
+"But not till the clock-mending is over.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Mrs. Hall was about to leave the room--she made no conversational advances this time, because she did not want to be snubbed in front of Mr. Henfrey--when her visitor asked her if she had made any arrangements about his boxes at Bramblehurst.",-0.683,0.0,0.167,0.833,negative,The Invisible Man: A Grotesque Romance
+"She told him she had mentioned the matter to the postman, and that the carrier could bring them over on the morrow.",0.0258,0.05,0.0,0.95,neutral,The Invisible Man: A Grotesque Romance
+"""You are certain that is the earliest?""",0.2732,0.259,0.0,0.741,positive,The Invisible Man: A Grotesque Romance
+he said.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"She was certain, with a marked coldness.",0.2732,0.296,0.0,0.704,positive,The Invisible Man: A Grotesque Romance
+"""I should explain,"" he added, ""what I was really too cold and fatigued to do before, that I am an experimental investigator.""",-0.34,0.0,0.112,0.888,negative,The Invisible Man: A Grotesque Romance
+"""Indeed, sir,"" said Mrs. Hall, much impressed.",0.4767,0.341,0.0,0.659,positive,The Invisible Man: A Grotesque Romance
+"""And my baggage contains apparatus and appliances.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Very useful things indeed they are, sir,"" said Mrs. Hall.",0.4927,0.262,0.0,0.738,positive,The Invisible Man: A Grotesque Romance
+"""And I'm very naturally anxious to get on with my inquiries.""",-0.3134,0.0,0.186,0.814,negative,The Invisible Man: A Grotesque Romance
+"""Of course, sir.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""My reason for coming to Iping,"" he proceeded, with a certain deliberation of manner, ""was ... a desire for solitude.",0.5859,0.231,0.0,0.769,positive,The Invisible Man: A Grotesque Romance
+I do not wish to be disturbed in my work.,-0.5938,0.0,0.41,0.59,negative,The Invisible Man: A Grotesque Romance
+"In addition to my work, an accident--"" ""I thought as much,"" said Mrs. Hall to herself. """,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+--necessitates a certain retirement.,0.2732,0.512,0.0,0.488,positive,The Invisible Man: A Grotesque Romance
+My eyes--are sometimes so weak and painful that I have to shut myself up in the dark for hours together.,-0.7848,0.0,0.289,0.711,negative,The Invisible Man: A Grotesque Romance
+Lock myself up.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Sometimes--now and then.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Not at present, certainly.",-0.2584,0.0,0.404,0.596,negative,The Invisible Man: A Grotesque Romance
+"At such times the slightest disturbance, the entry of a stranger into the room, is a source of excruciating annoyance to me--it is well these things should be understood.""",-0.7964,0.061,0.268,0.671,negative,The Invisible Man: A Grotesque Romance
+"""Certainly, sir,"" said Mrs. Hall.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""And if I might make so bold as to ask--"" ""That I think, is all,"" said the stranger, with that quietly irresistible air of finality he could assume at will.",0.6972,0.182,0.0,0.818,positive,The Invisible Man: A Grotesque Romance
+Mrs. Hall reserved her question and sympathy for a better occasion.,0.6597,0.403,0.0,0.597,positive,The Invisible Man: A Grotesque Romance
+"After Mrs. Hall had left the room, he remained standing in front of the fire, glaring, so Mr. Henfrey puts it, at the clock-mending.",-0.34,0.0,0.094,0.906,negative,The Invisible Man: A Grotesque Romance
+"Mr. Henfrey not only took off the hands of the clock, and the face, but extracted the works; and he tried to work in as slow and quiet and unassuming a manner as possible.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He worked with the lamp close to him, and the green shade threw a brilliant light upon his hands, and upon the frame and wheels, and left the rest of the room shadowy.",0.5859,0.109,0.0,0.891,positive,The Invisible Man: A Grotesque Romance
+"When he looked up, coloured patches swam in his eyes.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Being constitutionally of a curious nature, he had removed the works--a quite unnecessary proceeding--with the idea of delaying his departure and perhaps falling into conversation with the stranger.",0.1779,0.08,0.055,0.865,positive,The Invisible Man: A Grotesque Romance
+"But the stranger stood there, perfectly silent and still.",0.7783,0.42,0.0,0.58,positive,The Invisible Man: A Grotesque Romance
+"So still, it got on Henfrey's nerves.",-0.1027,0.0,0.189,0.811,negative,The Invisible Man: A Grotesque Romance
+"He felt alone in the room and looked up, and there, grey and dim, was the bandaged head and huge blue lenses staring fixedly, with a mist of green spots drifting in front of them.",0.128,0.096,0.055,0.849,positive,The Invisible Man: A Grotesque Romance
+It was so uncanny to Henfrey that for a minute they remained staring blankly at one another.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Then Henfrey looked down again.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Very uncomfortable position!,-0.4914,0.0,0.614,0.386,negative,The Invisible Man: A Grotesque Romance
+One would like to say something.,0.3612,0.333,0.0,0.667,positive,The Invisible Man: A Grotesque Romance
+Should he remark that the weather was very cold for the time of year?,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+He looked up as if to take aim with that introductory shot.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""The weather--"" he began.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Why don't you finish and go?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"said the rigid figure, evidently in a state of painfully suppressed rage.",-0.8176,0.0,0.515,0.485,negative,The Invisible Man: A Grotesque Romance
+"""All you've got to do is to fix the hour-hand on its axle.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"You're simply humbugging--"" ""Certainly, sir--one minute more.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"I overlooked--"" and Mr. Henfrey finished and went.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+But he went feeling excessively annoyed.,-0.3919,0.191,0.372,0.437,negative,The Invisible Man: A Grotesque Romance
+"""Damn it!""",-0.4574,0.0,0.749,0.251,negative,The Invisible Man: A Grotesque Romance
+"said Mr. Henfrey to himself, trudging down the village through the thawing snow; ""a man must do a clock at times, surely.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"And again, ""Can't a man look at you?--Ugly!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"And yet again, ""Seemingly not.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"If the police was wanting you you couldn't be more wropped and bandaged.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"At Gleeson's corner he saw Hall, who had recently married the stranger's hostess at the ""Coach and Horses,"" and who now drove the Iping conveyance, when occasional people required it, to Sidderbridge Junction, coming towards him on his return from that place.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Hall had evidently been ""stopping a bit"" at Sidderbridge, to judge by his driving.",-0.1531,0.0,0.118,0.882,negative,The Invisible Man: A Grotesque Romance
+"""'Ow do, Teddy?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"he said, passing.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""You got a rum un up home!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+said Teddy.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Hall very sociably pulled up.,0.4391,0.42,0.0,0.58,positive,The Invisible Man: A Grotesque Romance
+"""What's that?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+he asked.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Rum-looking customer stopping at the 'Coach and Horses,'"" said Teddy.",-0.1531,0.0,0.151,0.849,negative,The Invisible Man: A Grotesque Romance
+"""My sakes!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+And he proceeded to give Hall a vivid description of his grotesque guest.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Looks a bit like a disguise, don't it?",0.128,0.294,0.235,0.471,positive,The Invisible Man: A Grotesque Romance
+"I'd like to see a man's face if I had him stopping in my place,"" said Henfrey.",0.2263,0.146,0.094,0.76,positive,The Invisible Man: A Grotesque Romance
+"""But women are that trustful--where strangers are concerned.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He's took your rooms and he ain't even given a name, Hall.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""You don't say so!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"said Hall, who was a man of sluggish apprehension.",-0.7003,0.0,0.492,0.508,negative,The Invisible Man: A Grotesque Romance
+"""Yes,"" said Teddy.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""By the week.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Whatever he is, you can't get rid of him under the week.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"And he's got a lot of luggage coming to-morrow, so he says.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Let's hope it won't be stones in boxes, Hall.""",0.4404,0.266,0.0,0.734,positive,The Invisible Man: A Grotesque Romance
+He told Hall how his aunt at Hastings had been swindled by a stranger with empty portmanteaux.,-0.2023,0.0,0.107,0.893,negative,The Invisible Man: A Grotesque Romance
+Altogether he left Hall vaguely suspicious.,-0.3612,0.0,0.333,0.667,negative,The Invisible Man: A Grotesque Romance
+"""Get up, old girl,"" said Hall.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I s'pose I must see 'bout this.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Teddy trudged on his way with his mind considerably relieved.,0.4391,0.243,0.0,0.757,positive,The Invisible Man: A Grotesque Romance
+"Instead of ""seeing 'bout it,"" however, Hall on his return was severely rated by his wife on the length of time he had spent in Sidderbridge, and his mild inquiries were answered snappishly and in a manner not to the point.",-0.4588,0.0,0.071,0.929,negative,The Invisible Man: A Grotesque Romance
+But the seed of suspicion Teddy had sown germinated in the mind of Mr. Hall in spite of these discouragements.,-0.9136,0.0,0.408,0.592,negative,The Invisible Man: A Grotesque Romance
+"""You wim' don't know everything,"" said Mr. Hall, resolved to ascertain more about the personality of his guest at the earliest possible opportunity.",0.5423,0.176,0.0,0.824,positive,The Invisible Man: A Grotesque Romance
+"And after the stranger had gone to bed, which he did about half-past nine, Mr. Hall went very aggressively into the parlour and looked very hard at his wife's furniture, just to show that the stranger wasn't master there, and scrutinised closely and a little contemptuously a sheet of mathematical computations the stranger had left.",-0.7501,0.0,0.129,0.871,negative,The Invisible Man: A Grotesque Romance
+When retiring for the night he instructed Mrs. Hall to look very closely at the stranger's luggage when it came next day.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""You mind your own business, Hall,"" said Mrs. Hall, ""and I'll mind mine.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"She was all the more inclined to snap at Hall because the stranger was undoubtedly an unusually strange sort of stranger, and she was by no means assured about him in her own mind.",-0.2006,0.066,0.114,0.82,negative,The Invisible Man: A Grotesque Romance
+"In the middle of the night she woke up dreaming of huge white heads like turnips, that came trailing after her, at the end of interminable necks, and with vast black eyes.",0.5859,0.138,0.0,0.862,positive,The Invisible Man: A Grotesque Romance
+"But being a sensible woman, she subdued her terrors and turned over and went to sleep again.",-0.7096,0.0,0.246,0.754,negative,The Invisible Man: A Grotesque Romance
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"THE THOUSAND AND ONE BOTTLES So it was that on the twenty-ninth day of February, at the beginning of the thaw, this singular person fell out of infinity into Iping village.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Next day his luggage arrived through the slush--and very remarkable luggage it was.,0.5984,0.245,0.0,0.755,positive,The Invisible Man: A Grotesque Romance
+"There were a couple of trunks indeed, such as a rational man might need, but in addition there were a box of books--big, fat books, of which some were just in an incomprehensible handwriting--and a dozen or more crates, boxes, and cases, containing objects packed in straw, as it seemed to Hall, tugging with a casual curiosity at the straw--glass bottles.",0.296,0.038,0.0,0.962,positive,The Invisible Man: A Grotesque Romance
+"The stranger, muffled in hat, coat, gloves, and wrapper, came out impatiently to meet Fearenside's cart, while Hall was having a word or so of gossip preparatory to helping bring them in.",-0.3566,0.063,0.134,0.803,negative,The Invisible Man: A Grotesque Romance
+"Out he came, not noticing Fearenside's dog, who was sniffing in a dilettante spirit at Hall's legs.",0.1779,0.102,0.0,0.898,positive,The Invisible Man: A Grotesque Romance
+"""Come along with those boxes,"" he said.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I've been waiting long enough.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+And he came down the steps towards the tail of the cart as if to lay hands on the smaller crate.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"No sooner had Fearenside's dog caught sight of him, however, than it began to bristle and growl savagely, and when he rushed down the steps it gave an undecided hop, and then sprang straight at his hand.",-0.296,0.115,0.164,0.721,negative,The Invisible Man: A Grotesque Romance
+"""Whup!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"cried Hall, jumping back, for he was no hero with dogs, and Fearenside howled, ""Lie down!""",-0.126,0.166,0.235,0.599,negative,The Invisible Man: A Grotesque Romance
+and snatched his whip.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"They saw the dog's teeth had slipped the hand, heard a kick, saw the dog execute a flanking jump and get home on the stranger's leg, and heard the rip of his trousering.",0.4939,0.096,0.0,0.904,positive,The Invisible Man: A Grotesque Romance
+"Then the finer end of Fearenside's whip reached his property, and the dog, yelping with dismay, retreated under the wheels of the waggon.",-0.34,0.056,0.111,0.833,negative,The Invisible Man: A Grotesque Romance
+It was all the business of a swift half-minute.,0.2023,0.205,0.0,0.795,positive,The Invisible Man: A Grotesque Romance
+"No one spoke, everyone shouted.",-0.296,0.0,0.355,0.645,negative,The Invisible Man: A Grotesque Romance
+"The stranger glanced swiftly at his torn glove and at his leg, made as if he would stoop to the latter, then turned and rushed swiftly up the steps into the inn.",0.34,0.124,0.056,0.819,positive,The Invisible Man: A Grotesque Romance
+They heard him go headlong across the passage and up the uncarpeted stairs to his bedroom.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""You brute, you!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"said Fearenside, climbing off the waggon with his whip in his hand, while the dog watched him through the wheel.",0.4939,0.144,0.0,0.856,positive,The Invisible Man: A Grotesque Romance
+"""Come here,"" said Fearenside--""You'd better.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Hall had stood gaping.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""He wuz bit,"" said Hall.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I'd better go and see to en,"" and he trotted after the stranger.",0.4404,0.195,0.0,0.805,positive,The Invisible Man: A Grotesque Romance
+He met Mrs. Hall in the passage.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Carrier's darg,"" he said ""bit en.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He went straight upstairs, and the stranger's door being ajar, he pushed it open and was entering without any ceremony, being of a naturally sympathetic turn of mind.",0.6369,0.172,0.0,0.828,positive,The Invisible Man: A Grotesque Romance
+The blind was down and the room dim.,-0.4019,0.0,0.278,0.722,negative,The Invisible Man: A Grotesque Romance
+"He caught a glimpse of a most singular thing, what seemed a handless arm waving towards him, and a face of three huge indeterminate spots on white, very like the face of a pale pansy.",0.624,0.154,0.0,0.846,positive,The Invisible Man: A Grotesque Romance
+"Then he was struck violently in the chest, hurled back, and the door slammed in his face and locked.",-0.7003,0.0,0.254,0.746,negative,The Invisible Man: A Grotesque Romance
+It was so rapid that it gave him no time to observe.,-0.296,0.0,0.167,0.833,negative,The Invisible Man: A Grotesque Romance
+"A waving of indecipherable shapes, a blow, and a concussion.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"There he stood on the dark little landing, wondering what it might be that he had seen.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"A couple of minutes after, he rejoined the little group that had formed outside the ""Coach and Horses.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"There was Fearenside telling about it all over again for the second time; there was Mrs. Hall saying his dog didn't have no business to bite her guests; there was Huxter, the general dealer from over the road, interrogative; and Sandy Wadgers from the forge, judicial; besides women and children, all of them saying fatuities: ""Wouldn't let en bite me , I knows""; ""'Tasn't right have such dargs""; ""Whad ' e bite 'n for, then?""",0.2235,0.026,0.0,0.974,positive,The Invisible Man: A Grotesque Romance
+and so forth.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Mr. Hall, staring at them from the steps and listening, found it incredible that he had seen anything so very remarkable happen upstairs.",0.6335,0.159,0.0,0.841,positive,The Invisible Man: A Grotesque Romance
+"Besides, his vocabulary was altogether too limited to express his impressions.",0.0,0.148,0.148,0.703,neutral,The Invisible Man: A Grotesque Romance
+"""He don't want no help, he says,"" he said in answer to his wife's inquiry.",-0.1511,0.109,0.2,0.691,negative,The Invisible Man: A Grotesque Romance
+"""We'd better be a-takin' of his luggage in.""",0.4404,0.293,0.0,0.707,positive,The Invisible Man: A Grotesque Romance
+"""He ought to have it cauterised at once,"" said Mr. Huxter; ""especially if it's at all inflamed.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I'd shoot en, that's what I'd do,"" said a lady in the group.",-0.34,0.0,0.179,0.821,negative,The Invisible Man: A Grotesque Romance
+Suddenly the dog began growling again.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Come along,"" cried an angry voice in the doorway, and there stood the muffled stranger with his collar turned up, and his hat-brim bent down.",-0.7096,0.0,0.204,0.796,negative,The Invisible Man: A Grotesque Romance
+"""The sooner you get those things in the better I'll be pleased.""",0.4404,0.209,0.0,0.791,positive,The Invisible Man: A Grotesque Romance
+It is stated by an anonymous bystander that his trousers and gloves had been changed.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Was you hurt, sir?""",-0.5267,0.0,0.531,0.469,negative,The Invisible Man: A Grotesque Romance
+said Fearenside.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I'm rare sorry the darg--"" ""Not a bit,"" said the stranger.",-0.0772,0.0,0.126,0.874,negative,The Invisible Man: A Grotesque Romance
+"""Never broke the skin.",0.3252,0.437,0.0,0.563,positive,The Invisible Man: A Grotesque Romance
+"Hurry up with those things.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He then swore to himself, so Mr. Hall asserts.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Directly the first crate was, in accordance with his directions, carried into the parlour, the stranger flung himself upon it with extraordinary eagerness, and began to unpack it, scattering the straw with an utter disregard of Mrs. Hall's carpet.",0.1531,0.065,0.05,0.885,positive,The Invisible Man: A Grotesque Romance
+"And from it he began to produce bottles--little fat bottles containing powders, small and slender bottles containing coloured and white fluids, fluted blue bottles labeled Poison, bottles with round bodies and slender necks, large green-glass bottles, large white-glass bottles, bottles with glass stoppers and frosted labels, bottles with fine corks, bottles with bungs, bottles with wooden caps, wine bottles, salad-oil bottles--putting them in rows on the chiffonnier, on the mantel, on the table under the window, round the floor, on the bookshelf--everywhere.",-0.4019,0.021,0.041,0.938,negative,The Invisible Man: A Grotesque Romance
+The chemist's shop in Bramblehurst could not boast half so many.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Quite a sight it was.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Crate after crate yielded bottles, until all six were empty and the table high with straw; the only things that came out of these crates besides the bottles were a number of test-tubes and a carefully packed balance.",0.0,0.074,0.048,0.878,neutral,The Invisible Man: A Grotesque Romance
+"And directly the crates were unpacked, the stranger went to the window and set to work, not troubling in the least about the litter of straw, the fire which had gone out, the box of books outside, nor for the trunks and other luggage that had gone upstairs.",0.1154,0.056,0.047,0.898,positive,The Invisible Man: A Grotesque Romance
+"When Mrs. Hall took his dinner in to him, he was already so absorbed in his work, pouring little drops out of the bottles into test-tubes, that he did not hear her until she had swept away the bulk of the straw and put the tray on the table, with some little emphasis perhaps, seeing the state that the floor was in.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Then he half turned his head and immediately turned it away again.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"But she saw he had removed his glasses; they were beside him on the table, and it seemed to her that his eye sockets were extraordinarily hollow.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He put on his spectacles again, and then turned and faced her.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+She was about to complain of the straw on the floor when he anticipated her.,-0.3612,0.0,0.152,0.848,negative,The Invisible Man: A Grotesque Romance
+"""I wish you wouldn't come in without knocking,"" he said in the tone of abnormal exasperation that seemed so characteristic of him.",0.4019,0.114,0.0,0.886,positive,The Invisible Man: A Grotesque Romance
+"""I knocked, but seemingly--"" ""Perhaps you did.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"But in my investigations--my really very urgent and necessary investigations--the slightest disturbance, the jar of a door--I must ask you--"" ""Certainly, sir.",-0.0882,0.12,0.134,0.746,negative,The Invisible Man: A Grotesque Romance
+"You can turn the lock if you're like that, you know.",0.3612,0.2,0.0,0.8,positive,The Invisible Man: A Grotesque Romance
+"Any time.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""A very good idea,"" said the stranger.",0.4927,0.347,0.0,0.653,positive,The Invisible Man: A Grotesque Romance
+"""This stror, sir, if I might make so bold as to remark--"" ""Don't.",0.5214,0.234,0.0,0.766,positive,The Invisible Man: A Grotesque Romance
+"If the straw makes trouble put it down in the bill.""",-0.4019,0.0,0.213,0.787,negative,The Invisible Man: A Grotesque Romance
+And he mumbled at her--words suspiciously like curses.,-0.0516,0.223,0.241,0.536,negative,The Invisible Man: A Grotesque Romance
+"He was so odd, standing there, so aggressive and explosive, bottle in one hand and test-tube in the other, that Mrs. Hall was quite alarmed.",-0.5574,0.1,0.244,0.656,negative,The Invisible Man: A Grotesque Romance
+But she was a resolute woman.,0.3919,0.398,0.0,0.602,positive,The Invisible Man: A Grotesque Romance
+"""In which case, I should like to know, sir, what you consider--"" ""A shilling--put down a shilling.",0.3612,0.152,0.0,0.848,positive,The Invisible Man: A Grotesque Romance
+"Surely a shilling's enough?""",0.4404,0.592,0.0,0.408,positive,The Invisible Man: A Grotesque Romance
+"""So be it,"" said Mrs. Hall, taking up the table-cloth and beginning to spread it over the table.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""If you're satisfied, of course--"" He turned and sat down, with his coat-collar toward her.",0.4215,0.167,0.0,0.833,positive,The Invisible Man: A Grotesque Romance
+"All the afternoon he worked with the door locked and, as Mrs. Hall testifies, for the most part in silence.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"But once there was a concussion and a sound of bottles ringing together as though the table had been hit, and the smash of a bottle flung violently down, and then a rapid pacing athwart the room.",-0.7351,0.0,0.14,0.86,negative,The Invisible Man: A Grotesque Romance
+"Fearing ""something was the matter,"" she went to the door and listened, not caring to knock.",-0.7452,0.0,0.311,0.689,negative,The Invisible Man: A Grotesque Romance
+"""I can't go on,"" he was raving.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I can't go on.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Three hundred thousand, four hundred thousand!",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The huge multitude!,0.3802,0.564,0.0,0.436,positive,The Invisible Man: A Grotesque Romance
+Cheated!,-0.5562,0.0,1.0,0.0,negative,The Invisible Man: A Grotesque Romance
+All my life it may take me!,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+... Patience!,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Patience indeed!,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+... Fool!,-0.4926,0.0,0.761,0.239,negative,The Invisible Man: A Grotesque Romance
+"fool!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"There was a noise of hobnails on the bricks in the bar, and Mrs. Hall had very reluctantly to leave the rest of his soliloquy.",-0.2862,0.0,0.125,0.875,negative,The Invisible Man: A Grotesque Romance
+"When she returned the room was silent again, save for the faint crepitation of his chair and the occasional clink of a bottle.",0.4939,0.132,0.0,0.868,positive,The Invisible Man: A Grotesque Romance
+It was all over; the stranger had resumed work.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"When she took in his tea she saw broken glass in the corner of the room under the concave mirror, and a golden stain that had been carelessly wiped.",-0.6249,0.0,0.164,0.836,negative,The Invisible Man: A Grotesque Romance
+She called attention to it.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Put it down in the bill,"" snapped her visitor.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""For God's sake don't worry me.",0.3412,0.325,0.0,0.675,positive,The Invisible Man: A Grotesque Romance
+"If there's damage done, put it down in the bill,"" and he went on ticking a list in the exercise book before him.",-0.4939,0.0,0.132,0.868,negative,The Invisible Man: A Grotesque Romance
+"""I'll tell you something,"" said Fearenside, mysteriously.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"It was late in the afternoon, and they were in the little beer-shop of Iping Hanger.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Well?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+said Teddy Henfrey.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""This chap you're speaking of, what my dog bit.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Well--he's black.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Leastways, his legs are.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+I seed through the tear of his trousers and the tear of his glove.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"You'd have expected a sort of pinky to show, wouldn't you?",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Well--there wasn't none.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Just blackness.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"I tell you, he's as black as my hat.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""My sakes!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+said Henfrey.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""It's a rummy case altogether.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Why, his nose is as pink as paint!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""That's true,"" said Fearenside.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""I knows that.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+And I tell 'ee what I'm thinking.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"That marn's a piebald, Teddy.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Black here and white there--in patches.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+And he's ashamed of it.,-0.4767,0.0,0.437,0.563,negative,The Invisible Man: A Grotesque Romance
+"He's a kind of half-breed, and the colour's come off patchy instead of mixing.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+I've heard of such things before.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"And it's the common way with horses, as any one can see.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"MR. CUSS INTERVIEWS THE STRANGER I have told the circumstances of the stranger's arrival in Iping with a certain fulness of detail, in order that the curious impression he created may be understood by the reader.",0.743,0.217,0.0,0.783,positive,The Invisible Man: A Grotesque Romance
+"But excepting two odd incidents, the circumstances of his stay until the extraordinary day of the club festival may be passed over very cursorily.",0.3291,0.147,0.101,0.752,positive,The Invisible Man: A Grotesque Romance
+"There were a number of skirmishes with Mrs. Hall on matters of domestic discipline, but in every case until late April, when the first signs of penury began, he over-rode her by the easy expedient of an extra payment.",0.6187,0.147,0.0,0.853,positive,The Invisible Man: A Grotesque Romance
+"Hall did not like him, and whenever he dared he talked of the advisability of getting rid of him; but he showed his dislike chiefly by concealing it ostentatiously, and avoiding his visitor as much as possible.",-0.7938,0.0,0.192,0.808,negative,The Invisible Man: A Grotesque Romance
+"""Wait till the summer,"" said Mrs. Hall sagely, ""when the artisks are beginning to come.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Then we'll see.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He may be a bit overbearing, but bills settled punctual is bills settled punctual, whatever you'd like to say.""",0.5023,0.16,0.0,0.84,positive,The Invisible Man: A Grotesque Romance
+"The stranger did not go to church, and indeed made no difference between Sunday and the irreligious days, even in costume.",-0.296,0.0,0.099,0.901,negative,The Invisible Man: A Grotesque Romance
+"He worked, as Mrs. Hall thought, very fitfully.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Some days he would come down early and be continuously busy.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"On others he would rise late, pace his room, fretting audibly for hours together, smoke, sleep in the armchair by the fire.",-0.34,0.0,0.103,0.897,negative,The Invisible Man: A Grotesque Romance
+Communication with the world beyond the village he had none.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"His temper continued very uncertain; for the most part his manner was that of a man suffering under almost unendurable provocation, and once or twice things were snapped, torn, crushed, or broken in spasmodic gusts of violence.",-0.9606,0.0,0.413,0.587,negative,The Invisible Man: A Grotesque Romance
+He seemed under a chronic irritation of the greatest intensity.,0.2263,0.29,0.228,0.483,positive,The Invisible Man: A Grotesque Romance
+"His habit of talking to himself in a low voice grew steadily upon him, but though Mrs. Hall listened conscientiously she could make neither head nor tail of what she heard.",-0.1406,0.0,0.051,0.949,negative,The Invisible Man: A Grotesque Romance
+"He rarely went abroad by daylight, but at twilight he would go out muffled up invisibly, whether the weather were cold or not, and he chose the loneliest paths and those most overshadowed by trees and banks.",-0.6808,0.0,0.113,0.887,negative,The Invisible Man: A Grotesque Romance
+"His goggling spectacles and ghastly bandaged face under the penthouse of his hat, came with a disagreeable suddenness out of the darkness upon one or two home-going labourers, and Teddy Henfrey, tumbling out of the ""Scarlet Coat"" one night, at half-past nine, was scared shamefully by the stranger's skull-like head (he was walking hat in hand) lit by the sudden light of the opened inn door.",-0.8591,0.0,0.147,0.853,negative,The Invisible Man: A Grotesque Romance
+"Such children as saw him at nightfall dreamt of bogies, and it seemed doubtful whether he disliked boys more than they disliked him, or the reverse; but there was certainly a vivid enough dislike on either side.",-0.5719,0.072,0.205,0.723,negative,The Invisible Man: A Grotesque Romance
+It was inevitable that a person of so remarkable an appearance and bearing should form a frequent topic in such a village as Iping.,0.6825,0.188,0.0,0.812,positive,The Invisible Man: A Grotesque Romance
+Opinion was greatly divided about his occupation.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Mrs. Hall was sensitive on the point.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"When questioned, she explained very carefully that he was an ""experimental investigator,"" going gingerly over the syllables as one who dreads pitfalls.",-0.2516,0.073,0.155,0.773,negative,The Invisible Man: A Grotesque Romance
+"When asked what an experimental investigator was, she would say with a touch of superiority that most educated people knew such things as that, and would thus explain that he ""discovered things.""",0.34,0.074,0.0,0.926,positive,The Invisible Man: A Grotesque Romance
+"Her visitor had had an accident, she said, which temporarily discoloured his face and hands, and being of a sensitive disposition, he was averse to any public notice of the fact.",-0.4767,0.0,0.097,0.903,negative,The Invisible Man: A Grotesque Romance
+Out of her hearing there was a view largely entertained that he was a criminal trying to escape from justice by wrapping himself up so as to conceal himself altogether from the eye of the police.,0.5267,0.189,0.083,0.728,positive,The Invisible Man: A Grotesque Romance
+This idea sprang from the brain of Mr. Teddy Henfrey.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+No crime of any magnitude dating from the middle or end of February was known to have occurred.,-0.6908,0.0,0.263,0.737,negative,The Invisible Man: A Grotesque Romance
+"Elaborated in the imagination of Mr. Gould, the probationary assistant in the National School, this theory took the form that the stranger was an Anarchist in disguise, preparing explosives, and he resolved to undertake such detective operations as his time permitted.",-0.0772,0.04,0.047,0.913,negative,The Invisible Man: A Grotesque Romance
+"These consisted for the most part in looking very hard at the stranger whenever they met, or in asking people who had never seen the stranger, leading questions about him.",-0.1761,0.0,0.055,0.945,negative,The Invisible Man: A Grotesque Romance
+But he detected nothing.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Another school of opinion followed Mr. Fearenside, and either accepted the piebald view or some modification of it; as, for instance, Silas Durgan, who was heard to assert that ""if he chooses to show enself at fairs he'd make his fortune in no time,"" and being a bit of a theologian, compared the stranger to the man with the one talent.",0.4019,0.078,0.035,0.887,positive,The Invisible Man: A Grotesque Romance
+Yet another view explained the entire matter by regarding the stranger as a harmless lunatic.,-0.2732,0.179,0.185,0.636,negative,The Invisible Man: A Grotesque Romance
+That had the advantage of accounting for everything straight away.,0.4404,0.328,0.0,0.672,positive,The Invisible Man: A Grotesque Romance
+Between these main groups there were waverers and compromisers.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Sussex folk have few superstitions, and it was only after the events of early April that the thought of the supernatural was first whispered in the village.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Even then it was only credited among the women folk.,0.3612,0.217,0.0,0.783,positive,The Invisible Man: A Grotesque Romance
+"But whatever they thought of him, people in Iping, on the whole, agreed in disliking him.",-0.0772,0.135,0.151,0.714,negative,The Invisible Man: A Grotesque Romance
+"His irritability, though it might have been comprehensible to an urban brain-worker, was an amazing thing to these quiet Sussex villagers.",0.34,0.151,0.095,0.754,positive,The Invisible Man: A Grotesque Romance
+"The frantic gesticulations they surprised now and then, the headlong pace after nightfall that swept him upon them round quiet corners, the inhuman bludgeoning of all tentative advances of curiosity, the taste for twilight that led to the closing of doors, the pulling down of blinds, the extinction of candles and lamps--who could agree with such goings on?",0.128,0.071,0.047,0.883,positive,The Invisible Man: A Grotesque Romance
+"They drew aside as he passed down the village, and when he had gone by, young humourists would up with coat-collars and down with hat-brims, and go pacing nervously after him in imitation of his occult bearing.",-0.1531,0.0,0.043,0.957,negative,The Invisible Man: A Grotesque Romance
+"There was a song popular at that time called ""The Bogey Man"".",0.4215,0.219,0.0,0.781,positive,The Invisible Man: A Grotesque Romance
+"Miss Statchell sang it at the schoolroom concert (in aid of the church lamps), and thereafter whenever one or two of the villagers were gathered together and the stranger appeared, a bar or so of this tune, more or less sharp or flat, was whistled in the midst of them.",-0.1531,0.0,0.032,0.968,negative,The Invisible Man: A Grotesque Romance
+"Also belated little children would call ""Bogey Man!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"after him, and make off tremulously elated.",0.6369,0.412,0.0,0.588,positive,The Invisible Man: A Grotesque Romance
+"Cuss, the general practitioner, was devoured by curiosity.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"The bandages excited his professional interest, the report of the thousand and one bottles aroused his jealous regard.",0.34,0.231,0.128,0.641,positive,The Invisible Man: A Grotesque Romance
+"All through April and May he coveted an opportunity of talking to the stranger, and at last, towards Whitsuntide, he could stand it no longer, but hit upon the subscription-list for a village nurse as an excuse.",0.1901,0.088,0.042,0.87,positive,The Invisible Man: A Grotesque Romance
+He was surprised to find that Mr. Hall did not know his guest's name.,0.2263,0.128,0.0,0.872,positive,The Invisible Man: A Grotesque Romance
+"""He give a name,"" said Mrs. Hall--an assertion which was quite unfounded--""but I didn't rightly hear it.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+She thought it seemed so silly not to know the man's name.,0.1258,0.119,0.0,0.881,positive,The Invisible Man: A Grotesque Romance
+Cuss rapped at the parlour door and entered.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+There was a fairly audible imprecation from within.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Pardon my intrusion,"" said Cuss, and then the door closed and cut Mrs. Hall off from the rest of the conversation.",0.0516,0.098,0.09,0.812,positive,The Invisible Man: A Grotesque Romance
+"She could hear the murmur of voices for the next ten minutes, then a cry of surprise, a stirring of feet, a chair flung aside, a bark of laughter, quick steps to the door, and Cuss appeared, his face white, his eyes staring over his shoulder.",0.296,0.112,0.065,0.823,positive,The Invisible Man: A Grotesque Romance
+"He left the door open behind him, and without looking at her strode across the hall and went down the steps, and she heard his feet hurrying along the road.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+He carried his hat in his hand.,0.4939,0.348,0.0,0.652,positive,The Invisible Man: A Grotesque Romance
+"She stood behind the door, looking at the open door of the parlour.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Then she heard the stranger laughing quietly, and then his footsteps came across the room.",0.4939,0.186,0.0,0.814,positive,The Invisible Man: A Grotesque Romance
+She could not see his face where she stood.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"The parlour door slammed, and the place was silent again.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Cuss went straight up the village to Bunting the vicar.,0.2263,0.174,0.0,0.826,positive,The Invisible Man: A Grotesque Romance
+"""Am I mad?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Cuss began abruptly, as he entered the shabby little study.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Do I look like an insane person?""",-0.0516,0.272,0.293,0.435,negative,The Invisible Man: A Grotesque Romance
+"""What's happened?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"said the vicar, putting the ammonite on the loose sheets of his forth-coming sermon.",-0.3182,0.0,0.15,0.85,negative,The Invisible Man: A Grotesque Romance
+"""That chap at the inn--"" ""Well?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Give me something to drink,"" said Cuss, and he sat down.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+When his nerves had been steadied by a glass of cheap sherry--the only drink the good vicar had available--he told him of the interview he had just had.,0.3612,0.099,0.048,0.853,positive,The Invisible Man: A Grotesque Romance
+"""Went in,"" he gasped, ""and began to demand a subscription for that Nurse Fund.",-0.128,0.0,0.111,0.889,negative,The Invisible Man: A Grotesque Romance
+"He'd stuck his hands in his pockets as I came in, and he sat down lumpily in his chair.",-0.25,0.0,0.105,0.895,negative,The Invisible Man: A Grotesque Romance
+Sniffed.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+I told him I'd heard he took an interest in scientific things.,0.4588,0.231,0.0,0.769,positive,The Invisible Man: A Grotesque Romance
+He said yes.,0.4019,0.574,0.0,0.426,positive,The Invisible Man: A Grotesque Romance
+Sniffed again.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Kept on sniffing all the time; evidently recently caught an infernal cold.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"No wonder, wrapped up like that!",0.1511,0.31,0.245,0.445,positive,The Invisible Man: A Grotesque Romance
+"I developed the nurse idea, and all the while kept my eyes open.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Bottles--chemicals--everywhere.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Balance, test-tubes in stands, and a smell of--evening primrose.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Would he subscribe?,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Said he'd consider it.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Asked him, point-blank, was he researching.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Said he was.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+A long research?,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Got quite cross.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"'A damnable long research,' said he, blowing the cork out, so to speak.",-0.4019,0.0,0.184,0.816,negative,The Invisible Man: A Grotesque Romance
+"'Oh,' said I.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+And out came the grievance.,-0.4767,0.0,0.437,0.563,negative,The Invisible Man: A Grotesque Romance
+"The man was just on the boil, and my question boiled him over.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He had been given a prescription, most valuable prescription--what for he wouldn't say.",0.5256,0.236,0.0,0.764,positive,The Invisible Man: A Grotesque Romance
+Was it medical?,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+'Damn you!,-0.4574,0.0,0.749,0.251,negative,The Invisible Man: A Grotesque Romance
+What are you fishing after?',0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+I apologised.,0.1027,1.0,0.0,0.0,positive,The Invisible Man: A Grotesque Romance
+Dignified sniff and cough.,0.4939,0.516,0.0,0.484,positive,The Invisible Man: A Grotesque Romance
+He resumed.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+He'd read it.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Five ingredients.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Put it down; turned his head.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Draught of air from window lifted the paper.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Swish, rustle.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He was working in a room with an open fireplace, he said.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Saw a flicker, and there was the prescription burning and lifting chimneyward.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Rushed towards it just as it whisked up the chimney.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+So!,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Just at that point, to illustrate his story, out came his arm.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Well?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""No hand--just an empty sleeve.",-0.4588,0.0,0.571,0.429,negative,The Invisible Man: A Grotesque Romance
+Lord!,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"I thought, that's a deformity!",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Got a cork arm, I suppose, and has taken it off.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Then, I thought, there's something odd in that.",-0.3182,0.0,0.277,0.723,negative,The Invisible Man: A Grotesque Romance
+"What the devil keeps that sleeve up and open, if there's nothing in it?",-0.6597,0.0,0.253,0.747,negative,The Invisible Man: A Grotesque Romance
+"There was nothing in it, I tell you.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Nothing down it, right down to the joint.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"I could see right down it to the elbow, and there was a glimmer of light shining through a tear of the cloth.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+'Good God!',0.4926,0.761,0.0,0.239,positive,The Invisible Man: A Grotesque Romance
+I said.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Then he stopped.,-0.2263,0.0,0.487,0.513,negative,The Invisible Man: A Grotesque Romance
+"Stared at me with those black goggles of his, and then at his sleeve.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Well?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""That's all.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He never said a word; just glared, and put his sleeve back in his pocket quickly.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"'I was saying,' said he, 'that there was the prescription burning, wasn't I?'",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Interrogative cough.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"'How the devil,' said I, 'can you move an empty sleeve like that?'",0.1779,0.163,0.118,0.719,positive,The Invisible Man: A Grotesque Romance
+'Empty sleeve?',-0.2023,0.0,0.643,0.357,negative,The Invisible Man: A Grotesque Romance
+"'Yes,' said I, 'an empty sleeve.'",-0.2023,0.0,0.265,0.735,negative,The Invisible Man: A Grotesque Romance
+"""'It's an empty sleeve, is it?",-0.2023,0.0,0.265,0.735,negative,The Invisible Man: A Grotesque Romance
+You saw it was an empty sleeve?',-0.2023,0.0,0.231,0.769,negative,The Invisible Man: A Grotesque Romance
+He stood up right away.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+I stood up too.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He came towards me in three very slow steps, and stood quite close.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Sniffed venomously.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"I didn't flinch, though I'm hanged if that bandaged knob of his, and those blinkers, aren't enough to unnerve any one, coming quietly up to you.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""'You said it was an empty sleeve?'",-0.2023,0.0,0.231,0.769,negative,The Invisible Man: A Grotesque Romance
+he said.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"'Certainly,' I said.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"At staring and saying nothing a barefaced man, unspectacled, starts scratch.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Then very quietly he pulled his sleeve out of his pocket again, and raised his arm towards me as though he would show it to me again.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He did it very, very slowly.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+I looked at it.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Seemed an age.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+'Well?',0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"said I, clearing my throat, 'there's nothing in it.'",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Had to say something.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+I was beginning to feel frightened.,-0.4404,0.0,0.42,0.58,negative,The Invisible Man: A Grotesque Romance
+I could see right down it.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He extended it straight towards me, slowly, slowly--just like that--until the cuff was six inches from my face.",0.5267,0.216,0.0,0.784,positive,The Invisible Man: A Grotesque Romance
+Queer thing to see an empty sleeve come at you like that!,0.2481,0.191,0.123,0.685,positive,The Invisible Man: A Grotesque Romance
+"And then--"" ""Well?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Something--exactly like a finger and thumb it felt--nipped my nose.""",0.3612,0.238,0.0,0.762,positive,The Invisible Man: A Grotesque Romance
+Bunting began to laugh.,0.5574,0.545,0.0,0.455,positive,The Invisible Man: A Grotesque Romance
+"""There wasn't anything there!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"said Cuss, his voice running up into a shriek at the ""there.""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""It's all very well for you to laugh, but I tell you I was so startled, I hit his cuff hard, and turned around, and cut out of the room--I left him--"" Cuss stopped.",-0.6668,0.104,0.246,0.65,negative,The Invisible Man: A Grotesque Romance
+There was no mistaking the sincerity of his panic.,-0.765,0.0,0.559,0.441,negative,The Invisible Man: A Grotesque Romance
+He turned round in a helpless way and took a second glass of the excellent vicar's very inferior sherry.,-0.3167,0.156,0.253,0.591,negative,The Invisible Man: A Grotesque Romance
+"""When I hit his cuff,"" said Cuss, ""I tell you, it felt exactly like hitting an arm.",0.3612,0.143,0.0,0.857,positive,The Invisible Man: A Grotesque Romance
+And there wasn't an arm!,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"There wasn't the ghost of an arm!""",0.308,0.273,0.0,0.727,positive,The Invisible Man: A Grotesque Romance
+Mr. Bunting thought it over.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+He looked suspiciously at Cuss.,-0.4019,0.0,0.403,0.597,negative,The Invisible Man: A Grotesque Romance
+"""It's a most remarkable story,"" he said.",0.5984,0.438,0.0,0.562,positive,The Invisible Man: A Grotesque Romance
+He looked very wise and grave indeed.,0.1354,0.301,0.254,0.444,positive,The Invisible Man: A Grotesque Romance
+"""It's really,"" said Mr. Bunting with judicial emphasis, ""a most remarkable story.""",0.5984,0.261,0.0,0.739,positive,The Invisible Man: A Grotesque Romance
+CHAPTER V. THE BURGLARY AT THE VICARAGE The facts of the burglary at the vicarage came to us chiefly through the medium of the vicar and his wife.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"It occurred in the small hours of Whit Monday, the day devoted in Iping to the Club festivities.",0.7003,0.266,0.0,0.734,positive,The Invisible Man: A Grotesque Romance
+"Mrs. Bunting, it seems, woke up suddenly in the stillness that comes before the dawn, with the strong impression that the door of their bedroom had opened and closed.",0.6369,0.161,0.0,0.839,positive,The Invisible Man: A Grotesque Romance
+"She did not arouse her husband at first, but sat up in bed listening.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"She then distinctly heard the pad, pad, pad of bare feet coming out of the adjoining dressing-room and walking along the passage towards the staircase.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"As soon as she felt assured of this, she aroused the Rev.",0.3612,0.185,0.0,0.815,positive,The Invisible Man: A Grotesque Romance
+Mr. Bunting as quietly as possible.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"He did not strike a light, but putting on his spectacles, her dressing-gown and his bath slippers, he went out on the landing to listen.",0.0477,0.049,0.0,0.951,neutral,The Invisible Man: A Grotesque Romance
+"He heard quite distinctly a fumbling going on at his study desk down-stairs, and then a violent sneeze.",-0.5994,0.0,0.206,0.794,negative,The Invisible Man: A Grotesque Romance
+"At that he returned to his bedroom, armed himself with the most obvious weapon, the poker, and descended the staircase as noiselessly as possible.",-0.3566,0.0,0.097,0.903,negative,The Invisible Man: A Grotesque Romance
+Mrs. Bunting came out on the landing.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"The hour was about four, and the ultimate darkness of the night was past.",-0.25,0.0,0.133,0.867,negative,The Invisible Man: A Grotesque Romance
+"There was a faint shimmer of light in the hall, but the study doorway yawned impenetrably black.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Everything was still except the faint creaking of the stairs under Mr. Bunting's tread, and the slight movements in the study.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Then something snapped, the drawer was opened, and there was a rustle of papers.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Then came an imprecation, and a match was struck and the study was flooded with yellow light.",-0.25,0.0,0.118,0.882,negative,The Invisible Man: A Grotesque Romance
+"Mr. Bunting was now in the hall, and through the crack of the door he could see the desk and the open drawer and a candle burning on the desk.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+But the robber he could not see.,-0.7096,0.0,0.45,0.55,negative,The Invisible Man: A Grotesque Romance
+"He stood there in the hall undecided what to do, and Mrs. Bunting, her face white and intent, crept slowly downstairs after him.",-0.2263,0.0,0.079,0.921,negative,The Invisible Man: A Grotesque Romance
+One thing kept Mr. Bunting's courage; the persuasion that this burglar was a resident in the village.,0.4939,0.176,0.0,0.824,positive,The Invisible Man: A Grotesque Romance
+"They heard the chink of money, and realised that the robber had found the housekeeping reserve of gold--two pounds ten in half sovereigns altogether.",-0.5574,0.0,0.135,0.865,negative,The Invisible Man: A Grotesque Romance
+At that sound Mr. Bunting was nerved to abrupt action.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Gripping the poker firmly, he rushed into the room, closely followed by Mrs. Bunting.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Surrender!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"cried Mr. Bunting, fiercely, and then stooped amazed.",0.1531,0.271,0.22,0.508,positive,The Invisible Man: A Grotesque Romance
+Apparently the room was perfectly empty.,0.5267,0.42,0.18,0.4,positive,The Invisible Man: A Grotesque Romance
+"Yet their conviction that they had, that very moment, heard somebody moving in the room had amounted to a certainty.",0.25,0.1,0.0,0.9,positive,The Invisible Man: A Grotesque Romance
+"For half a minute, perhaps, they stood gaping, then Mrs. Bunting went across the room and looked behind the screen, while Mr. Bunting, by a kindred impulse, peered under the desk.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Then Mrs. Bunting turned back the window-curtains, and Mr. Bunting looked up the chimney and probed it with the poker.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Then Mrs. Bunting scrutinised the waste-paper basket and Mr. Bunting opened the lid of the coal-scuttle.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+Then they came to a stop and stood with eyes interrogating each other.,-0.296,0.0,0.167,0.833,negative,The Invisible Man: A Grotesque Romance
+"""I could have sworn--"" said Mr. Bunting.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""The candle!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+said Mr. Bunting.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Who lit the candle?""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""The drawer!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+said Mrs. Bunting.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""And the money's gone!""",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+She went hastily to the doorway.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Of all the strange occurrences--"" There was a violent sneeze in the passage.",-0.6908,0.0,0.363,0.637,negative,The Invisible Man: A Grotesque Romance
+"They rushed out, and as they did so the kitchen door slammed.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"""Bring the candle,"" said Mr. Bunting, and led the way.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+They both heard a sound of bolts being hastily shot back.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"As he opened the kitchen door he saw through the scullery that the back door was just opening, and the faint light of early dawn displayed the dark masses of the garden beyond.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+He is certain that nothing went out of the door.,0.2732,0.189,0.0,0.811,positive,The Invisible Man: A Grotesque Romance
+"It opened, stood open for a moment, and then closed with a slam.",-0.3818,0.0,0.206,0.794,negative,The Invisible Man: A Grotesque Romance
+"As it did so, the candle Mrs. Bunting was carrying from the study flickered and flared.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+It was a minute or more before they entered the kitchen.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+The place was empty.,-0.2023,0.0,0.375,0.625,negative,The Invisible Man: A Grotesque Romance
+"They refastened the back door, examined the kitchen, pantry, and scullery thoroughly, and at last went down into the cellar.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"There was not a soul to be found in the house, search as they would.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"Daylight found the vicar and his wife, a quaintly-costumed little couple, still marvelling about on their own ground floor by the unnecessary light of a guttering candle.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"THE FURNITURE THAT WENT MAD Now it happened that in the early hours of Whit Monday, before Millie was hunted out for the day, Mr. Hall and Mrs. Hall both rose and went noiselessly down into the cellar.",-0.6037,0.0,0.096,0.904,negative,The Invisible Man: A Grotesque Romance
+"Their business there was of a private nature, and had something to do with the specific gravity of their beer.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+They had hardly entered the cellar when Mrs. Hall found she had forgotten to bring down a bottle of sarsaparilla from their joint-room.,-0.2263,0.0,0.083,0.917,negative,The Invisible Man: A Grotesque Romance
+"As she was the expert and principal operator in this affair, Hall very properly went upstairs for it.",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+On the landing he was surprised to see that the stranger's door was ajar.,0.2263,0.128,0.0,0.872,positive,The Invisible Man: A Grotesque Romance
+He went on into his own room and found the bottle as he had been directed.,0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance
+"But returning with the bottle, he noticed that the bolts of the fro",0.0,0.0,0.0,1.0,neutral,The Invisible Man: A Grotesque Romance

@@ -1,0 +1,627 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Herland This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Herland
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Herland
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Herland
+"Title : Herland Author : Charlotte Perkins Gilman Release date : June 27, 2008 [eBook #32] Most recently updated: September 17, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/32 *** START OF THE PROJECT GUTENBERG EBOOK HERLAND *** HERLAND by Charlotte Perkins Stetson Gilman Contents CHAPTER 1.",0.0,0.0,0.0,1.0,neutral,Herland
+A Not Unnatural Enterprise CHAPTER 2.,0.0,0.0,0.0,1.0,neutral,Herland
+Rash Advances CHAPTER 3.,-0.4019,0.0,0.474,0.526,negative,Herland
+A Peculiar Imprisonment CHAPTER 4.,0.1531,0.348,0.0,0.652,positive,Herland
+Our Venture CHAPTER 5.,0.0,0.0,0.0,1.0,neutral,Herland
+A Unique History CHAPTER 6.,0.0,0.0,0.0,1.0,neutral,Herland
+Comparisons Are Odious CHAPTER 7.,0.0,0.0,0.0,1.0,neutral,Herland
+Our Growing Modesty CHAPTER 8.,0.1779,0.298,0.0,0.702,positive,Herland
+The Girls of Herland CHAPTER 9.,0.0,0.0,0.0,1.0,neutral,Herland
+Our Relations and Theirs CHAPTER 10.,0.0,0.0,0.0,1.0,neutral,Herland
+Their Religions and Our Marriages CHAPTER 11.,0.0,0.0,0.0,1.0,neutral,Herland
+Our Difficulties CHAPTER 12.,-0.296,0.0,0.423,0.577,negative,Herland
+Expelled CHAPTER 1.,-0.25,0.0,0.5,0.5,negative,Herland
+"A Not Unnatural Enterprise This is written from memory, unfortunately.",-0.34,0.0,0.231,0.769,negative,Herland
+"If I could have brought with me the material I so carefully prepared, this would be a very different story.",0.4887,0.218,0.0,0.782,positive,Herland
+"Whole books full of notes, carefully copied records, firsthand descriptions, and the pictures--that's the worst loss.",-0.7096,0.072,0.306,0.622,negative,Herland
+"We had some bird's-eyes of the cities and parks; a lot of lovely views of streets, of buildings, outside and in, and some of those gorgeous gardens, and, most important of all, of the women themselves.",0.8718,0.236,0.0,0.764,positive,Herland
+Nobody will ever believe how they looked.,0.0,0.0,0.0,1.0,neutral,Herland
+"Descriptions aren't any good when it comes to women, and I never was good at descriptions anyhow.",-0.5875,0.0,0.256,0.744,negative,Herland
+But it's got to be done somehow; the rest of the world needs to know about that country.,0.0,0.0,0.0,1.0,neutral,Herland
+"I haven't said where it was for fear some self-appointed missionaries, or traders, or land-greedy expansionists, will take it upon themselves to push in.",-0.4939,0.0,0.127,0.873,negative,Herland
+"They will not be wanted, I can tell them that, and will fare worse than we did if they do find it.",-0.4767,0.0,0.134,0.866,negative,Herland
+It began this way.,0.0,0.0,0.0,1.0,neutral,Herland
+"There were three of us, classmates and friends--Terry O. Nicholson (we used to call him the Old Nick, with good reason), Jeff Margrave, and I, Vandyck Jennings.",0.4404,0.1,0.0,0.9,positive,Herland
+"We had known each other years and years, and in spite of our differences we had a good deal in common.",-0.128,0.119,0.14,0.741,negative,Herland
+All of us were interested in science.,0.4019,0.31,0.0,0.69,positive,Herland
+Terry was rich enough to do as he pleased.,0.7579,0.481,0.0,0.519,positive,Herland
+His great aim was exploration.,0.7184,0.667,0.0,0.333,positive,Herland
+"He used to make all kinds of a row because there was nothing left to explore now, only patchwork and filling in, he said.",0.0,0.0,0.0,1.0,neutral,Herland
+He filled in well enough--he had a lot of talents--great on mechanics and electricity.,0.2732,0.149,0.0,0.851,positive,Herland
+"Had all kinds of boats and motorcars, and was one of the best of our airmen.",0.6369,0.219,0.0,0.781,positive,Herland
+We never could have done the thing at all without Terry.,0.0,0.0,0.0,1.0,neutral,Herland
+"Jeff Margrave was born to be a poet, a botanist--or both--but his folks persuaded him to be a doctor instead.",0.0,0.0,0.0,1.0,neutral,Herland
+"He was a good one, for his age, but his real interest was in what he loved to call ""the wonders of science.""",0.9062,0.373,0.0,0.627,positive,Herland
+"As for me, sociology's my major.",0.0,0.0,0.0,1.0,neutral,Herland
+"You have to back that up with a lot of other sciences, of course.",0.0,0.0,0.0,1.0,neutral,Herland
+I'm interested in them all.,0.4019,0.403,0.0,0.597,positive,Herland
+"Terry was strong on facts--geography and meteorology and those; Jeff could beat him any time on biology, and I didn't care what it was they talked about, so long as it connected with human life, somehow.",0.171,0.085,0.068,0.848,positive,Herland
+There are few things that don't.,0.0,0.0,0.0,1.0,neutral,Herland
+We three had a chance to join a big scientific expedition.,0.4939,0.375,0.0,0.625,positive,Herland
+"They needed a doctor, and that gave Jeff an excuse for dropping his just opening practice; they needed Terry's experience, his machine, and his money; and as for me, I got in through Terry's influence.",0.0772,0.039,0.0,0.961,positive,Herland
+"The expedition was up among the thousand tributaries and enormous hinterland of a great river, up where the maps had to be made, savage dialects studied, and all manner of strange flora and fauna expected.",0.0772,0.103,0.12,0.777,positive,Herland
+But this story is not about that expedition.,0.0,0.0,0.0,1.0,neutral,Herland
+That was only the merest starter for ours.,0.0,0.0,0.0,1.0,neutral,Herland
+My interest was first roused by talk among our guides.,0.4588,0.25,0.0,0.75,positive,Herland
+"I'm quick at languages, know a good many, and pick them up readily.",0.4404,0.209,0.0,0.791,positive,Herland
+"What with that and a really good interpreter we took with us, I made out quite a few legends and folk myths of these scattered tribes.",0.4927,0.127,0.0,0.873,positive,Herland
+"And as we got farther and farther upstream, in a dark tangle of rivers, lakes, morasses, and dense forests, with here and there an unexpected long spur running out from the big mountains beyond, I noticed that more and more of these savages had a story about a strange and terrible Woman Land in the high distance.",-0.8207,0.0,0.146,0.854,negative,Herland
+"""Up yonder,"" ""Over there,"" ""Way up""--was all the direction they could offer, but their legends all agreed on the main point--that there was this strange country where no men lived--only women and girl children.",-0.3919,0.068,0.136,0.796,negative,Herland
+None of them had ever seen it.,0.0,0.0,0.0,1.0,neutral,Herland
+"It was dangerous, deadly, they said, for any man to go there.",-0.4767,0.0,0.22,0.78,negative,Herland
+"But there were tales of long ago, when some brave investigator had seen it--a Big Country, Big Houses, Plenty People--All Women.",0.6808,0.187,0.0,0.813,positive,Herland
+Had no one else gone?,-0.296,0.0,0.355,0.645,negative,Herland
+Yes--a good many--but they never came back.,0.4404,0.326,0.0,0.674,positive,Herland
+It was no place for men--of that they seemed sure.,0.0258,0.184,0.176,0.64,neutral,Herland
+"I told the boys about these stories, and they laughed at them.",0.4588,0.231,0.0,0.769,positive,Herland
+Naturally I did myself.,0.0,0.0,0.0,1.0,neutral,Herland
+I knew the stuff that savage dreams are made of.,-0.0772,0.213,0.236,0.551,negative,Herland
+"But when we had reached our farthest point, just the day before we all had to turn around and start for home again, as the best of expeditions must in time, we three made a discovery.",0.8126,0.183,0.0,0.817,positive,Herland
+"The main encampment was on a spit of land running out into the main stream, or what we thought was the main stream.",0.0,0.0,0.0,1.0,neutral,Herland
+"It had the same muddy color we had been seeing for weeks past, the same taste.",0.0,0.0,0.0,1.0,neutral,Herland
+"I happened to speak of that river to our last guide, a rather superior fellow with quick, bright eyes.",0.7506,0.299,0.0,0.701,positive,Herland
+"He told me that there was another river--""over there, short river, sweet water, red and blue.""",0.4588,0.167,0.0,0.833,positive,Herland
+"I was interested in this and anxious to see if I had understood, so I showed him a red and blue pencil I carried, and asked again.",0.1779,0.109,0.081,0.81,positive,Herland
+"Yes, he pointed to the river, and then to the southwestward.",0.4019,0.213,0.0,0.787,positive,Herland
+"""River--good water--red and blue.""",0.0,0.0,0.0,1.0,neutral,Herland
+Terry was close by and interested in the fellow's pointing.,0.4019,0.231,0.0,0.769,positive,Herland
+"""What does he say, Van?""",0.0,0.0,0.0,1.0,neutral,Herland
+I told him.,0.0,0.0,0.0,1.0,neutral,Herland
+Terry blazed up at once.,0.0,0.0,0.0,1.0,neutral,Herland
+"""Ask him how far it is.""",0.0,0.0,0.0,1.0,neutral,Herland
+"The man indicated a short journey; I judged about two hours, maybe three.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Let's go,"" urged Terry.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Just us three.",0.0,0.0,0.0,1.0,neutral,Herland
+Maybe we can really find something.,0.0,0.0,0.0,1.0,neutral,Herland
+"May be cinnabar in it.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""May be indigo,"" Jeff suggested, with his lazy smile.",0.0,0.208,0.208,0.583,neutral,Herland
+"It was early yet; we had just breakfasted; and leaving word that we'd be back before night, we got away quietly, not wishing to be thought too gullible if we failed, and secretly hoping to have some nice little discovery all to ourselves.",-0.2182,0.11,0.146,0.744,negative,Herland
+"It was a long two hours, nearer three.",0.0,0.0,0.0,1.0,neutral,Herland
+I fancy the savage could have done it alone much quicker.,-0.6124,0.0,0.385,0.615,negative,Herland
+There was a desperate tangle of wood and water and a swampy patch we never should have found our way across alone.,-0.5106,0.0,0.193,0.807,negative,Herland
+"But there was one, and I could see Terry, with compass and notebook, marking directions and trying to place landmarks.",0.0,0.0,0.0,1.0,neutral,Herland
+"We came after a while to a sort of marshy lake, very big, so that the circling forest looked quite low and dim across it.",-0.3384,0.0,0.098,0.902,negative,Herland
+"Our guide told us that boats could go from there to our camp--but ""long way--all day.""",0.0,0.0,0.0,1.0,neutral,Herland
+"This water was somewhat clearer than that we had left, but we could not judge well from the margin.",-0.3007,0.0,0.11,0.89,negative,Herland
+"We skirted it for another half hour or so, the ground growing firmer as we advanced, and presently we turned the corner of a wooded promontory and saw a quite different country--a sudden view of mountains, steep and bare.",0.4522,0.102,0.0,0.898,positive,Herland
+"""One of those long easterly spurs,"" Terry said appraisingly.",0.0,0.0,0.0,1.0,neutral,Herland
+"""May be hundreds of miles from the range.",0.0,0.0,0.0,1.0,neutral,Herland
+"They crop out like that.""",0.3612,0.385,0.0,0.615,positive,Herland
+Suddenly we left the lake and struck directly toward the cliffs.,-0.25,0.0,0.167,0.833,negative,Herland
+"We heard running water before we reached it, and the guide pointed proudly to his river.",0.6124,0.263,0.0,0.737,positive,Herland
+It was short.,0.0,0.0,0.0,1.0,neutral,Herland
+We could see where it poured down a narrow vertical cataract from an opening in the face of the cliff.,0.0,0.0,0.0,1.0,neutral,Herland
+It was sweet water.,0.4588,0.5,0.0,0.5,positive,Herland
+The guide drank eagerly and so did we.,0.3818,0.271,0.0,0.729,positive,Herland
+"""That's snow water,"" Terry announced.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Must come from way back in the hills.""",0.0,0.0,0.0,1.0,neutral,Herland
+But as to being red and blue--it was greenish in tint.,0.0,0.0,0.0,1.0,neutral,Herland
+The guide seemed not at all surprised.,-0.1695,0.0,0.217,0.783,negative,Herland
+"He hunted about a little and showed us a quiet marginal pool where there were smears of red along the border; yes, and of blue.",0.4019,0.109,0.0,0.891,positive,Herland
+Terry got out his magnifying glass and squatted down to investigate.,0.0,0.0,0.0,1.0,neutral,Herland
+"""Chemicals of some sort--I can't tell on the spot.",0.0,0.0,0.0,1.0,neutral,Herland
+Look to me like dyestuffs.,0.3612,0.385,0.0,0.615,positive,Herland
+"Let's get nearer,"" he urged, ""up there by the fall.""",0.0,0.0,0.0,1.0,neutral,Herland
+We scrambled along the steep banks and got close to the pool that foamed and boiled beneath the falling water.,-0.1531,0.0,0.078,0.922,negative,Herland
+Here we searched the border and found traces of color beyond dispute.,-0.4019,0.0,0.197,0.803,negative,Herland
+More--Jeff suddenly held up an unlooked-for trophy.,0.0,0.0,0.0,1.0,neutral,Herland
+"It was only a rag, a long, raveled fragment of cloth.",0.0,0.0,0.0,1.0,neutral,Herland
+"But it was a well-woven fabric, with a pattern, and of a clear scarlet that the water had not faded.",0.5267,0.175,0.0,0.825,positive,Herland
+No savage tribe that we had heard of made such fabrics.,-0.6369,0.0,0.366,0.634,negative,Herland
+"The guide stood serenely on the bank, well pleased with our excitement.",0.802,0.477,0.0,0.523,positive,Herland
+"""One day blue--one day red--one day green,"" he told us, and pulled from his pouch another strip of bright-hued cloth.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Come down,"" he said, pointing to the cataract.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Woman Country--up there.""",0.0,0.0,0.0,1.0,neutral,Herland
+Then we were interested.,0.4019,0.474,0.0,0.526,positive,Herland
+We had our rest and lunch right there and pumped the man for further information.,0.0,0.0,0.0,1.0,neutral,Herland
+"He could tell us only what the others had--a land of women--no men--babies, but all girls.",0.0,0.0,0.0,1.0,neutral,Herland
+No place for men--dangerous.,-0.296,0.0,0.423,0.577,negative,Herland
+Some had gone to see--none had come back.,0.0,0.0,0.0,1.0,neutral,Herland
+I could see Terry's jaw set at that.,0.0,0.0,0.0,1.0,neutral,Herland
+No place for men?,-0.296,0.0,0.423,0.577,negative,Herland
+Dangerous?,-0.4767,0.0,1.0,0.0,negative,Herland
+He looked as if he might shin up the waterfall on the spot.,0.0,0.0,0.0,1.0,neutral,Herland
+"But the guide would not hear of going up, even if there had been any possible method of scaling that sheer cliff, and we had to get back to our party before night.",0.5499,0.1,0.0,0.9,positive,Herland
+"""They might stay if we told them,"" I suggested.",0.0,0.0,0.0,1.0,neutral,Herland
+But Terry stopped in his tracks.,-0.3291,0.0,0.32,0.68,negative,Herland
+"""Look here, fellows,"" he said.",0.0,0.0,0.0,1.0,neutral,Herland
+"""This is our find.",0.0,0.0,0.0,1.0,neutral,Herland
+Let's not tell those cocky old professors.,0.0951,0.186,0.0,0.814,positive,Herland
+"Let's go on home with 'em, and then come back--just us--have a little expedition of our own.""",0.0,0.0,0.0,1.0,neutral,Herland
+"We looked at him, much impressed.",0.4767,0.383,0.0,0.617,positive,Herland
+There was something attractive to a bunch of unattached young men in finding an undiscovered country of a strictly Amazonian nature.,0.4404,0.139,0.0,0.861,positive,Herland
+Of course we didn't believe the story--but yet!,0.0,0.0,0.0,1.0,neutral,Herland
+"""There is no such cloth made by any of these local tribes,"" I announced, examining those rags with great care.",0.7269,0.286,0.086,0.627,positive,Herland
+"""Somewhere up yonder they spin and weave and dye--as well as we do.""",0.2732,0.149,0.0,0.851,positive,Herland
+"""That would mean a considerable civilization, Van.",0.0,0.0,0.0,1.0,neutral,Herland
+"There couldn't be such a place--and not known about.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""Oh, well, I don't know.",0.2732,0.412,0.0,0.588,positive,Herland
+What's that old republic up in the Pyrenees somewhere--Andorra?,0.0,0.0,0.0,1.0,neutral,Herland
+"Precious few people know anything about that, and it's been minding its own business for a thousand years.",0.5719,0.188,0.0,0.812,positive,Herland
+"Then there's Montenegro--splendid little state--you could lose a dozen Montenegroes up and down these great ranges.""",0.3947,0.21,0.125,0.665,positive,Herland
+We discussed it hotly all the way back to camp.,0.0,0.0,0.0,1.0,neutral,Herland
+We discussed it with care and privacy on the voyage home.,0.4939,0.242,0.0,0.758,positive,Herland
+"We discussed it after that, still only among ourselves, while Terry was making his arrangements.",0.0,0.0,0.0,1.0,neutral,Herland
+He was hot about it.,0.0,0.0,0.0,1.0,neutral,Herland
+"Lucky he had so much money--we might have had to beg and advertise for years to start the thing, and then it would have been a matter of public amusement--just sport for the papers.",0.4404,0.112,0.0,0.888,positive,Herland
+"But T. O. Nicholson could fix up his big steam yacht, load his specially-made big motorboat aboard, and tuck in a ""dissembled"" biplane without any more notice than a snip in the society column.",0.0387,0.036,0.0,0.964,neutral,Herland
+We had provisions and preventives and all manner of supplies.,0.0,0.0,0.0,1.0,neutral,Herland
+His previous experience stood him in good stead there.,0.4404,0.266,0.0,0.734,positive,Herland
+It was a very complete little outfit.,0.0,0.0,0.0,1.0,neutral,Herland
+"We were to leave the yacht at the nearest safe port and go up that endless river in our motorboat, just the three of us and a pilot; then drop the pilot when we got to that last stopping place of the previous party, and hunt up that clear water stream ourselves.",0.6486,0.141,0.084,0.775,positive,Herland
+The motorboat we were going to leave at anchor in that wide shallow lake.,-0.0516,0.0,0.085,0.915,negative,Herland
+"It had a special covering of fitted armor, thin but strong, shut up like a clamshell.",0.8608,0.465,0.0,0.535,positive,Herland
+"""Those natives can't get into it, or hurt it, or move it,"" Terry explained proudly.",0.0516,0.18,0.17,0.65,positive,Herland
+"""We'll start our flier from the lake and leave the boat as a base to come back to.""",-0.0516,0.0,0.07,0.93,negative,Herland
+"""If we come back,"" I suggested cheerfully.",0.4767,0.383,0.0,0.617,positive,Herland
+"""'Fraid the ladies will eat you?""",0.0,0.0,0.0,1.0,neutral,Herland
+he scoffed.,0.0,0.0,0.0,1.0,neutral,Herland
+"""We're not so sure about those ladies, you know,"" drawled Jeff.",-0.3556,0.0,0.198,0.802,negative,Herland
+"""There may be a contingent of gentlemen with poisoned arrows or something.""",-0.4939,0.0,0.242,0.758,negative,Herland
+"""You don't need to go if you don't want to,"" Terry remarked drily.",-0.0572,0.0,0.092,0.908,negative,Herland
+"""Go?",0.0,0.0,0.0,1.0,neutral,Herland
+"You'll have to get an injunction to stop me!""",-0.3595,0.0,0.238,0.762,negative,Herland
+Both Jeff and I were sure about that.,0.3182,0.277,0.0,0.723,positive,Herland
+"But we did have differences of opinion, all the long way.",0.0,0.0,0.0,1.0,neutral,Herland
+An ocean voyage is an excellent time for discussion.,0.5719,0.316,0.0,0.684,positive,Herland
+"Now we had no eavesdroppers, we could loll and loaf in our deck chairs and talk and talk--there was nothing else to do.",-0.296,0.0,0.091,0.909,negative,Herland
+Our absolute lack of facts only made the field of discussion wider.,-0.3182,0.0,0.173,0.827,negative,Herland
+"""We'll leave papers with our consul where the yacht stays,"" Terry planned.",-0.0516,0.0,0.098,0.902,negative,Herland
+"""If we don't come back in--say a month--they can send a relief party after us.""",0.7003,0.345,0.0,0.655,positive,Herland
+"""A punitive expedition,"" I urged.",-0.5106,0.0,0.524,0.476,negative,Herland
+"""If the ladies do eat us we must make reprisals.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""They can locate that last stopping place easy enough, and I've made a sort of chart of that lake and cliff and waterfall.""",0.3182,0.118,0.065,0.816,positive,Herland
+"""Yes, but how will they get up?""",0.0,0.0,0.0,1.0,neutral,Herland
+asked Jeff.,0.0,0.0,0.0,1.0,neutral,Herland
+"""Same way we do, of course.",0.0,0.0,0.0,1.0,neutral,Herland
+"If three valuable American citizens are lost up there, they will follow somehow--to say nothing of the glittering attractions of that fair land--let's call it 'Feminisia,'"" he broke off.",0.4767,0.22,0.137,0.643,positive,Herland
+"""You're right, Terry.",0.0,0.0,0.0,1.0,neutral,Herland
+"Once the story gets out, the river will crawl with expeditions and the airships rise like a swarm of mosquitoes.""",0.3612,0.122,0.0,0.878,positive,Herland
+I laughed as I thought of it.,0.4588,0.429,0.0,0.571,positive,Herland
+"""We've made a great mistake not to let Mr. Yellow Press in on this.",0.4019,0.234,0.137,0.629,positive,Herland
+Save us!,0.5411,0.777,0.0,0.223,positive,Herland
+"What headlines!""",0.0,0.0,0.0,1.0,neutral,Herland
+"""Not much!""",0.0,0.0,0.0,1.0,neutral,Herland
+said Terry grimly.,-0.3182,0.0,0.535,0.465,negative,Herland
+"""This is our party.",0.4019,0.474,0.0,0.526,positive,Herland
+"We're going to find that place alone.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""What are you going to do with it when you do find it--if you do?""",0.0,0.0,0.0,1.0,neutral,Herland
+Jeff asked mildly.,0.0,0.0,0.0,1.0,neutral,Herland
+Jeff was a tender soul.,0.0,0.0,0.0,1.0,neutral,Herland
+"I think he thought that country--if there was one--was just blossoming with roses and babies and canaries and tidies, and all that sort of thing.",0.0,0.0,0.0,1.0,neutral,Herland
+"And Terry, in his secret heart, had visions of a sort of sublimated summer resort--just Girls and Girls and Girls--and that he was going to be--well, Terry was popular among women even when there were other men around, and it's not to be wondered at that he had pleasant dreams of what might happen.",0.8658,0.179,0.0,0.821,positive,Herland
+"I could see it in his eyes as he lay there, looking at the long blue rollers slipping by, and fingering that impressive mustache of his.",0.5106,0.121,0.0,0.879,positive,Herland
+But I thought--then--that I could form a far clearer idea of what was before us than either of them.,0.0,0.0,0.0,1.0,neutral,Herland
+"""You're all off, boys,"" I insisted.",0.0,0.0,0.0,1.0,neutral,Herland
+"""If there is such a place--and there does seem some foundation for believing it--you'll find it's built on a sort of matriarchal principle, that's all.",0.0,0.0,0.0,1.0,neutral,Herland
+"The men have a separate cult of their own, less socially developed than the women, and make them an annual visit--a sort of wedding call.",0.0,0.0,0.0,1.0,neutral,Herland
+This is a condition known to have existed--here's just a survival.,0.0,0.0,0.0,1.0,neutral,Herland
+"They've got some peculiarly isolated valley or tableland up there, and their primeval customs have survived.",0.1531,0.165,0.185,0.65,positive,Herland
+"That's all there is to it.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""How about the boys?""",0.0,0.0,0.0,1.0,neutral,Herland
+Jeff asked.,0.0,0.0,0.0,1.0,neutral,Herland
+"""Oh, the men take them away as soon as they are five or six, you see.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""And how about this danger theory all our guides were so sure of?""",-0.252,0.166,0.222,0.611,negative,Herland
+"""Danger enough, Terry, and we'll have to be mighty careful.",-0.4215,0.123,0.262,0.615,negative,Herland
+"Women of that stage of culture are quite able to defend themselves and have no welcome for unseasonable visitors.""",0.2023,0.135,0.099,0.766,positive,Herland
+We talked and talked.,0.0,0.0,0.0,1.0,neutral,Herland
+And with all my airs of sociological superiority I was no nearer than any of them.,0.0516,0.136,0.125,0.739,positive,Herland
+"It was funny though, in the light of what we did find, those extremely clear ideas of ours as to what a country of women would be like.",0.807,0.257,0.0,0.743,positive,Herland
+It was no use to tell ourselves and one another that all this was idle speculation.,-0.296,0.0,0.128,0.872,negative,Herland
+"We were idle and we did speculate, on the ocean voyage and the river voyage, too.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Admitting the improbability,"" we'd begin solemnly, and then launch out again.",0.2023,0.153,0.0,0.847,positive,Herland
+"""They would fight among themselves,"" Terry insisted.",-0.3818,0.0,0.302,0.698,negative,Herland
+"""Women always do.",0.0,0.0,0.0,1.0,neutral,Herland
+"We mustn't look to find any sort of order and organization.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""You're dead wrong,"" Jeff told him.",-0.6486,0.0,0.462,0.538,negative,Herland
+"""It will be like a nunnery under an abbess--a peaceful, harmonious sisterhood.""",0.8271,0.521,0.0,0.479,positive,Herland
+I snorted derision at this idea.,-0.296,0.0,0.355,0.645,negative,Herland
+"""Nuns, indeed!",0.0,0.0,0.0,1.0,neutral,Herland
+"Your peaceful sisterhoods were all celibate, Jeff, and under vows of obedience.",0.4939,0.225,0.0,0.775,positive,Herland
+"These are just women, and mothers, and where there's motherhood you don't find sisterhood--not much.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""No, sir--they'll scrap,"" agreed Terry.",0.2732,0.344,0.0,0.656,positive,Herland
+"""Also we mustn't look for inventions and progress; it'll be awfully primitive.""",0.4215,0.203,0.0,0.797,positive,Herland
+"""How about that cloth mill?""",0.0,0.0,0.0,1.0,neutral,Herland
+Jeff suggested.,0.0,0.0,0.0,1.0,neutral,Herland
+"""Oh, cloth!",0.0,0.0,0.0,1.0,neutral,Herland
+Women have always been spinsters.,0.0,0.0,0.0,1.0,neutral,Herland
+"But there they stop--you'll see.""",0.0,0.0,0.0,1.0,neutral,Herland
+"We joked Terry about his modest impression that he would be warmly received, but he held his ground.",0.4497,0.248,0.0,0.752,positive,Herland
+"""You'll see,"" he insisted.",0.0,0.0,0.0,1.0,neutral,Herland
+"""I'll get solid with them all--and play one bunch against another.",0.4588,0.308,0.0,0.692,positive,Herland
+I'll get myself elected king in no time--whew!,-0.3595,0.0,0.263,0.737,negative,Herland
+"Solomon will have to take a back seat!""",0.0,0.0,0.0,1.0,neutral,Herland
+"""Where do we come in on that deal?""",0.0,0.0,0.0,1.0,neutral,Herland
+I demanded.,-0.2263,0.0,1.0,0.0,negative,Herland
+"""Aren't we Viziers or anything?""",0.0,0.0,0.0,1.0,neutral,Herland
+"""Couldn't risk it,"" he asserted solemnly.",0.3847,0.475,0.0,0.525,positive,Herland
+"""You might start a revolution--probably would.",0.0,0.0,0.0,1.0,neutral,Herland
+"No, you'll have to be beheaded, or bowstrung--or whatever the popular method of execution is.""",0.1531,0.156,0.122,0.722,positive,Herland
+"""You'd have to do it yourself, remember,"" grinned Jeff.",0.2732,0.208,0.0,0.792,positive,Herland
+"""No husky black slaves and mamelukes!",-0.3595,0.0,0.333,0.667,negative,Herland
+"And there'd be two of us and only one of you--eh, Van?""",0.0,0.0,0.0,1.0,neutral,Herland
+Jeff's ideas and Terry's were so far apart that sometimes it was all I could do to keep the peace between them.,0.5423,0.149,0.0,0.851,positive,Herland
+Jeff idealized women in the best Southern style.,0.7906,0.538,0.0,0.462,positive,Herland
+"He was full of chivalry and sentiment, and all that.",0.0,0.0,0.0,1.0,neutral,Herland
+And he was a good boy; he lived up to his ideals.,0.5719,0.343,0.0,0.657,positive,Herland
+"You might say Terry did, too, if you can call his views about women anything so polite as ideals.",0.2648,0.103,0.0,0.897,positive,Herland
+I always liked Terry.,0.4215,0.583,0.0,0.417,positive,Herland
+"He was a man's man, very much so, generous and brave and clever; but I don't think any of us in college days was quite pleased to have him with our sisters.",0.8862,0.305,0.0,0.695,positive,Herland
+"We weren't very stringent, heavens no!",-0.6393,0.0,0.566,0.434,negative,Herland
+"But Terry was ""the limit.""",0.0,0.0,0.0,1.0,neutral,Herland
+"Later on--why, of course a man's life is his own, we held, and asked no questions.",-0.296,0.0,0.136,0.864,negative,Herland
+"But barring a possible exception in favor of a not impossible wife, or of his mother, or, of course, the fair relatives of his friends, Terry's idea seemed to be that pretty women were just so much game and homely ones not worth considering.",0.9319,0.277,0.037,0.686,positive,Herland
+It was really unpleasant sometimes to see the notions he had.,-0.5256,0.0,0.253,0.747,negative,Herland
+"But I got out of patience with Jeff, too.",0.0,0.0,0.0,1.0,neutral,Herland
+He had such rose-colored halos on his womenfolks.,0.0,0.0,0.0,1.0,neutral,Herland
+"I held a middle ground, highly scientific, of course, and used to argue learnedly about the physiological limitations of the sex.",-0.34,0.0,0.118,0.882,negative,Herland
+"We were not in the least ""advanced"" on the woman question, any of us, then.",0.0,0.0,0.0,1.0,neutral,Herland
+"So we joked and disputed and speculated, and after an interminable journey, we got to our old camping place at last.",0.046,0.108,0.1,0.792,neutral,Herland
+"It was not hard to find the river, just poking along that side till we came to it, and it was navigable as far as the lake.",0.0762,0.047,0.0,0.953,positive,Herland
+"When we reached that and slid out on its broad glistening bosom, with that high gray promontory running out toward us, and the straight white fall clearly visible, it began to be really exciting.",0.8173,0.24,0.0,0.76,positive,Herland
+"There was some talk, even then, of skirting the rock wall and seeking a possible footway up, but the marshy jungle made that method look not only difficult but dangerous.",-0.358,0.079,0.123,0.798,negative,Herland
+Terry dismissed the plan sharply.,0.0,0.0,0.0,1.0,neutral,Herland
+"""Nonsense, fellows!",0.0,0.0,0.0,1.0,neutral,Herland
+We've decided that.,0.0,0.0,0.0,1.0,neutral,Herland
+It might take months--we haven't got the provisions.,0.0,0.0,0.0,1.0,neutral,Herland
+"No, sir--we've got to take our chances.",-0.1027,0.2,0.244,0.556,negative,Herland
+If we get back safe--all right.,0.0,0.0,0.0,1.0,neutral,Herland
+"If we don't, why, we're not the first explorers to get lost in the shuffle.",-0.3182,0.0,0.141,0.859,negative,Herland
+"There are plenty to come after us.""",0.0,0.0,0.0,1.0,neutral,Herland
+"So we got the big biplane together and loaded it with our scientifically compressed baggage: the camera, of course; the glasses; a supply of concentrated food.",0.0,0.0,0.0,1.0,neutral,Herland
+"Our pockets were magazines of small necessities, and we had our guns, of course--there was no knowing what might happen.",-0.296,0.0,0.104,0.896,negative,Herland
+"Up and up and up we sailed, way up at first, to get ""the lay of the land"" and make note of it.",0.0,0.0,0.0,1.0,neutral,Herland
+Out of that dark green sea of crowding forest this high-standing spur rose steeply.,0.0,0.0,0.0,1.0,neutral,Herland
+"It ran back on either side, apparently, to the far-off white-crowned peaks in the distance, themselves probably inaccessible.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Let's make the first trip geographical,"" I suggested.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Spy out the land, and drop back here for more gasoline.",-0.2732,0.0,0.174,0.826,negative,Herland
+With your tremendous speed we can reach that range and back all right.,0.0258,0.084,0.0,0.916,neutral,Herland
+"Then we can leave a sort of map on board--for that relief expedition.""",0.4404,0.217,0.084,0.699,positive,Herland
+"""There's sense in that,"" Terry agreed.",0.2732,0.296,0.0,0.704,positive,Herland
+"""I'll put off being king of Ladyland for one more day.""",0.0,0.0,0.0,1.0,neutral,Herland
+"So we made a long skirting voyage, turned the point of the cape which was close by, ran up one side of the triangle at our best speed, crossed over the base where it left the higher mountains, and so back to our lake by moonlight.",0.6369,0.087,0.0,0.913,positive,Herland
+"""That's not a bad little kingdom,"" we agreed when it was roughly drawn and measured.",0.5699,0.281,0.0,0.719,positive,Herland
+We could tell the size fairly by our speed.,0.0,0.0,0.0,1.0,neutral,Herland
+"And from what we could see of the sides--and that icy ridge at the back end--""It's a pretty enterprising savage who would manage to get into it,"" Jeff said.",0.5423,0.188,0.087,0.725,positive,Herland
+"Of course we had looked at the land itself--eagerly, but we were too high and going too fast to see much.",0.0,0.0,0.0,1.0,neutral,Herland
+"It appeared to be well forested about the edges, but in the interior there were wide plains, and everywhere parklike meadows and open places.",0.1406,0.063,0.0,0.937,positive,Herland
+"There were cities, too; that I insisted.",0.0,0.0,0.0,1.0,neutral,Herland
+"It looked--well, it looked like any other country--a civilized one, I mean.",0.3612,0.2,0.0,0.8,positive,Herland
+"We had to sleep after that long sweep through the air, but we turned out early enough next day, and again we rose softly up the height till we could top the crowning trees and see the broad fair land at our pleasure.",0.8807,0.203,0.0,0.797,positive,Herland
+"""Semitropical.",0.0,0.0,0.0,1.0,neutral,Herland
+Looks like a first-rate climate.,0.3612,0.455,0.0,0.545,positive,Herland
+"It's wonderful what a little height will do for temperature.""",0.5719,0.316,0.0,0.684,positive,Herland
+Terry was studying the forest growth.,0.3818,0.342,0.0,0.658,positive,Herland
+"""Little height!",0.0,0.0,0.0,1.0,neutral,Herland
+"Is that what you call little?""",0.0,0.0,0.0,1.0,neutral,Herland
+I asked.,0.0,0.0,0.0,1.0,neutral,Herland
+Our instruments measured it clearly.,0.4019,0.403,0.0,0.597,positive,Herland
+We had not realized the long gentle rise from the coast perhaps.,0.4404,0.209,0.0,0.791,positive,Herland
+"""Mighty lucky piece of land, I call it,"" Terry pursued.",0.4215,0.259,0.0,0.741,positive,Herland
+"""Now for the folks--I've had enough scenery.""",0.0,0.0,0.0,1.0,neutral,Herland
+"So we sailed low, crossing back and forth, quartering the country as we went, and studying it.",-0.3321,0.0,0.129,0.871,negative,Herland
+"We saw--I can't remember now how much of this we noted then and how much was supplemented by our later knowledge, but we could not help seeing this much, even on that excited day--a land in a state of perfect cultivation, where even the forests looked as if they were cared for; a land that looked like an enormous park, only it was even more evidently an enormous garden.",0.9219,0.189,0.036,0.775,positive,Herland
+"""I don't see any cattle,"" I suggested, but Terry was silent.",0.0,0.0,0.0,1.0,neutral,Herland
+We were approaching a village.,0.0,0.0,0.0,1.0,neutral,Herland
+"I confess that we paid small attention to the clean, well-built roads, to the attractive architecture, to the ordered beauty of the little town.",0.8555,0.32,0.0,0.68,positive,Herland
+"We had our glasses out; even Terry, setting his machine for a spiral glide, clapped the binoculars to his eyes.",0.0,0.0,0.0,1.0,neutral,Herland
+They heard our whirring screw.,-0.1027,0.0,0.259,0.741,negative,Herland
+"They ran out of the houses--they gathered in from the fields, swift-running light figures, crowds of them.",0.0,0.0,0.0,1.0,neutral,Herland
+"We stared and stared until it was almost too late to catch the levers, sweep off and rise again; and then we held our peace for a long run upward.",0.5423,0.111,0.0,0.889,positive,Herland
+"""Gosh!""",0.0,0.0,0.0,1.0,neutral,Herland
+"said Terry, after a while.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Only women there--and children,"" Jeff urged excitedly.",0.5106,0.355,0.0,0.645,positive,Herland
+"""But they look--why, this is a civilized country!""",0.0,0.0,0.0,1.0,neutral,Herland
+I protested.,-0.128,0.0,1.0,0.0,negative,Herland
+"""There must be men.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""Of course there are men,"" said Terry.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Come on, let's find 'em.""",0.0,0.0,0.0,1.0,neutral,Herland
+He refused to listen to Jeff's suggestion that we examine the country further before we risked leaving our machine.,-0.4767,0.0,0.194,0.806,negative,Herland
+"""There's a fine landing place right there where we came over,"" he insisted, and it was an excellent one--a wide, flat-topped rock, overlooking the lake, and quite out of sight from the interior.",0.6705,0.155,0.0,0.845,positive,Herland
+"""They won't find this in a hurry,"" he asserted, as we scrambled with the utmost difficulty down to safer footing.",0.1027,0.126,0.108,0.766,positive,Herland
+"""Come on, boys--there were some good lookers in that bunch.""",0.4404,0.244,0.0,0.756,positive,Herland
+Of course it was unwise of us.,0.0,0.0,0.0,1.0,neutral,Herland
+It was quite easy to see afterward that our best plan was to have studied the country more fully before we left our swooping airship and trusted ourselves to mere foot service.,0.8883,0.266,0.0,0.734,positive,Herland
+But we were three young men.,0.0,0.0,0.0,1.0,neutral,Herland
+"We had been talking about this country for over a year, hardly believing that there was such a place, and now--we were in it.",0.0,0.0,0.0,1.0,neutral,Herland
+"It looked safe and civilized enough, and among those upturned, crowding faces, though some were terrified enough, there was great beauty--on that we all agreed.",0.6249,0.267,0.117,0.616,positive,Herland
+"""Come on!""",0.0,0.0,0.0,1.0,neutral,Herland
+"cried Terry, pushing forward.",-0.3818,0.0,0.464,0.536,negative,Herland
+"""Oh, come on!",0.0,0.0,0.0,1.0,neutral,Herland
+"Here goes for Herland!""",0.0,0.0,0.0,1.0,neutral,Herland
+CHAPTER 2.,0.0,0.0,0.0,1.0,neutral,Herland
+Rash Advances Not more than ten or fifteen miles we judged it from our landing rock to that last village.,-0.4019,0.0,0.124,0.876,negative,Herland
+For all our eagerness we thought it wise to keep to the woods and go carefully.,0.743,0.36,0.0,0.64,positive,Herland
+"Even Terry's ardor was held in check by his firm conviction that there were men to be met, and we saw to it that each of us had a good stock of cartridges.",0.4404,0.086,0.0,0.914,positive,Herland
+"""They may be scarce, and they may be hidden away somewhere--some kind of a matriarchate, as Jeff tells us; for that matter, they may live up in the mountains yonder and keep the women in this part of the country--sort of a national harem!",0.1007,0.033,0.0,0.967,positive,Herland
+"But there are men somewhere--didn't you see the babies?""",0.0,0.0,0.0,1.0,neutral,Herland
+"We had all seen babies, children big and little, everywhere that we had come near enough to distinguish the people.",0.0,0.0,0.0,1.0,neutral,Herland
+"And though by dress we could not be sure of all the grown persons, still there had not been one man that we were certain of.",0.0356,0.075,0.07,0.855,neutral,Herland
+"""I always liked that Arab saying, 'First tie your camel and then trust in the Lord,'"" Jeff murmured; so we all had our weapons in hand, and stole cautiously through the forest.",0.7506,0.231,0.072,0.697,positive,Herland
+Terry studied it as we progressed.,0.0,0.0,0.0,1.0,neutral,Herland
+"""Talk of civilization,"" he cried softly in restrained enthusiasm.",0.0772,0.232,0.208,0.56,positive,Herland
+"""I never saw a forest so petted, even in Germany.",0.0,0.0,0.0,1.0,neutral,Herland
+"Look, there's not a dead bough--the vines are trained--actually!",0.5767,0.348,0.0,0.652,positive,Herland
+"And see here""--he stopped and looked about him, calling Jeff's attention to the kinds of trees.",-0.2263,0.0,0.112,0.888,negative,Herland
+They left me for a landmark and made a limited excursion on either side.,-0.1531,0.098,0.144,0.758,negative,Herland
+"""Food-bearing, practically all of them,"" they announced returning.",0.0,0.0,0.0,1.0,neutral,Herland
+"""The rest, splendid hardwood.",0.5859,0.559,0.0,0.441,positive,Herland
+Call this a forest?,0.0,0.0,0.0,1.0,neutral,Herland
+"It's a truck farm!""",0.0,0.0,0.0,1.0,neutral,Herland
+"""Good thing to have a botanist on hand,"" I agreed.",0.6124,0.455,0.0,0.545,positive,Herland
+"""Sure there are no medicinal ones?",0.0258,0.271,0.259,0.471,neutral,Herland
+"Or any for pure ornament?""",0.0,0.0,0.0,1.0,neutral,Herland
+As a matter of fact they were quite right.,0.0258,0.136,0.0,0.864,neutral,Herland
+These towering trees were under as careful cultivation as so many cabbages.,0.1531,0.127,0.0,0.873,positive,Herland
+"In other conditions we should have found those woods full of fair foresters and fruit gatherers; but an airship is a conspicuous object, and by no means quiet--and women are cautious.",-0.4118,0.05,0.133,0.817,negative,Herland
+"All we found moving in those woods, as we started through them, were birds, some gorgeous, some musical, all so tame that it seemed almost to contradict our theory of cultivation--at least until we came upon occasional little glades, where carved stone seats and tables stood in the shade beside clear fountains, with shallow bird baths always added.",0.6786,0.104,0.032,0.864,positive,Herland
+"""They don't kill birds, and apparently they do kill cats,"" Terry declared. """,0.8164,0.428,0.0,0.572,positive,Herland
+Must be men here.,0.0,0.0,0.0,1.0,neutral,Herland
+"Hark!""",0.0,0.0,0.0,1.0,neutral,Herland
+"We had heard something: something not in the least like a birdsong, and very much like a suppressed whisper of laughter--a little happy sound, instantly smothered.",-0.1811,0.115,0.207,0.677,negative,Herland
+"We stood like so many pointers, and then used our glasses, swiftly, carefully.",0.6369,0.383,0.0,0.617,positive,Herland
+"""It couldn't have been far off,"" said Terry excitedly.",0.5106,0.292,0.0,0.708,positive,Herland
+"""How about this big tree?""",0.0,0.0,0.0,1.0,neutral,Herland
+"There was a very large and beautiful tree in the glade we had just entered, with thick wide-spreading branches that sloped out in lapping fans like a beech or pine.",0.7693,0.204,0.0,0.796,positive,Herland
+"It was trimmed underneath some twenty feet up, and stood there like a huge umbrella, with circling seats beneath.",0.5859,0.231,0.0,0.769,positive,Herland
+"""Look,"" he pursued.",0.0,0.0,0.0,1.0,neutral,Herland
+"""There are short stumps of branches left to climb on.",0.0,0.0,0.0,1.0,neutral,Herland
+"There's someone up that tree, I believe.""",0.0,0.0,0.0,1.0,neutral,Herland
+"We stole near, cautiously.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Look out for a poisoned arrow in your eye,"" I suggested, but Terry pressed forward, sprang up on the seat-back, and grasped the trunk.",-0.2732,0.0,0.091,0.909,negative,Herland
+"""In my heart, more likely,"" he answered.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Gee!",0.0,0.0,0.0,1.0,neutral,Herland
+"Look, boys!""",0.0,0.0,0.0,1.0,neutral,Herland
+We rushed close in and looked up.,0.0,0.0,0.0,1.0,neutral,Herland
+"There among the boughs overhead was something--more than one something--that clung motionless, close to the great trunk at first, and then, as one and all we started up the tree, separated into three swift-moving figures and fled upward.",0.6249,0.1,0.0,0.9,positive,Herland
+As we climbed we could catch glimpses of them scattering above us.,0.0,0.0,0.0,1.0,neutral,Herland
+"By the time we had reached about as far as three men together dared push, they had left the main trunk and moved outward, each one balanced on a long branch that dipped and swayed beneath the weight.",0.1027,0.037,0.0,0.963,positive,Herland
+We paused uncertain.,-0.296,0.0,0.524,0.476,negative,Herland
+"If we pursued further, the boughs would break under the double burden.",-0.4404,0.0,0.209,0.791,negative,Herland
+"We might shake them off, perhaps, but none of us was so inclined.",-0.09,0.0,0.101,0.899,negative,Herland
+"In the soft dappled light of these high regions, breathless with our rapid climb, we rested awhile, eagerly studying our objects of pursuit; while they in turn, with no more terror than a set of frolicsome children in a game of tag, sat as lightly as so many big bright birds on their precarious perches and frankly, curiously, stared at us.",-0.0334,0.086,0.088,0.825,neutral,Herland
+"""Girls!""",0.0,0.0,0.0,1.0,neutral,Herland
+"whispered Jeff, under his breath, as if they might fly if he spoke aloud.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Peaches!""",0.0,0.0,0.0,1.0,neutral,Herland
+"added Terry, scarcely louder.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Peacherinos--apricot-nectarines!",0.0,0.0,0.0,1.0,neutral,Herland
+"Whew!""",0.0,0.0,0.0,1.0,neutral,Herland
+"They were girls, of course, no boys could ever have shown that sparkling beauty, and yet none of us was certain at first.",0.7096,0.276,0.075,0.648,positive,Herland
+"We saw short hair, hatless, loose, and shining; a suit of some light firm stuff, the closest of tunics and kneebreeches, met by trim gaiters.",-0.3182,0.0,0.091,0.909,negative,Herland
+"As bright and smooth as parrots and as unaware of danger, they swung there before us, wholly at ease, staring as we stared, till first one, and then all of them burst into peals of delighted laughter.",0.7717,0.247,0.108,0.644,positive,Herland
+"Then there was a torrent of soft talk tossed back and forth; no savage sing-song, but clear musical fluent speech.",0.2023,0.148,0.157,0.696,positive,Herland
+"We met their laughter cordially, and doffed our hats to them, at which they laughed again, delightedly.",0.8625,0.407,0.0,0.593,positive,Herland
+"Then Terry, wholly in his element, made a polite speech, with explanatory gestures, and proceeded to introduce us, with pointing finger.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Mr. Jeff Margrave,"" he said clearly; Jeff bowed as gracefully as a man could in the fork of a great limb.",0.8807,0.389,0.0,0.611,positive,Herland
+"""Mr. Vandyck Jennings""--I also tried to make an effective salute and nearly lost my balance.",0.2023,0.168,0.125,0.707,positive,Herland
+"Then Terry laid his hand upon his chest--a fine chest he had, too, and introduced himself; he was braced carefully for the occasion and achieved an excellent obeisance.",0.8481,0.298,0.0,0.702,positive,Herland
+"Again they laughed delightedly, and the one nearest me followed his tactics.",0.7506,0.39,0.0,0.61,positive,Herland
+"""Celis,"" she said distinctly, pointing to the one in blue; ""Alima""--the one in rose; then, with a vivid imitation of Terry's impressive manner, she laid a firm delicate hand on her gold-green jerkin--""Ellador.""",0.7717,0.216,0.0,0.784,positive,Herland
+"This was pleasant, but we got no nearer.",-0.1655,0.196,0.256,0.548,negative,Herland
+"""We can't sit here and learn the language,"" Terry protested.",-0.128,0.0,0.143,0.857,negative,Herland
+"He beckoned to them to come nearer, most winningly--but they gaily shook their heads.",-0.1027,0.0,0.097,0.903,negative,Herland
+"He suggested, by signs, that we all go down together; but again they shook their heads, still merrily.",0.6124,0.207,0.072,0.721,positive,Herland
+"Then Ellador clearly indicated that we should go down, pointing to each and all of us, with unmistakable firmness; and further seeming to imply by the sweep of a lithe arm that we not only go downward, but go away altogether--at which we shook our heads in turn.",0.0644,0.038,0.033,0.929,positive,Herland
+"""Have to use bait,"" grinned Terry.",0.2732,0.296,0.0,0.704,positive,Herland
+"""I don't know about you fellows, but I came prepared.""",0.0,0.0,0.0,1.0,neutral,Herland
+"He produced from an inner pocket a little box of purple velvet, that opened with a snap--and out of it he drew a long sparkling thing, a necklace of big varicolored stones that would have been worth a million if real ones.",0.4767,0.105,0.0,0.895,positive,Herland
+"He held it up, swung it, glittering in the sun, offered it first to one, then to another, holding it out as far as he could reach toward the girl nearest him.",0.0258,0.034,0.0,0.966,neutral,Herland
+"He stood braced in the fork, held firmly by one hand--the other, swinging his bright temptation, reached far out along the bough, but not quite to his full stretch.",0.2846,0.104,0.0,0.896,positive,Herland
+"She was visibly moved, I noted, hesitated, spoke to her companions.",-0.3182,0.0,0.204,0.796,negative,Herland
+"They chattered softly together, one evidently warning her, the other encouraging.",0.25,0.23,0.162,0.608,positive,Herland
+"Then, softly and slowly, she drew nearer.",0.0,0.0,0.0,1.0,neutral,Herland
+"This was Alima, a tall long-limbed lass, well-knit and evidently both strong and agile.",0.5106,0.216,0.0,0.784,positive,Herland
+"Her eyes were splendid, wide, fearless, as free from suspicion as a child's who has never been rebuked.",0.8126,0.391,0.102,0.508,positive,Herland
+Her interest was more that of an intent boy playing a fascinating game than of a girl lured by an ornament.,0.8074,0.342,0.0,0.658,positive,Herland
+"The others moved a bit farther out, holding firmly, watching.",0.0,0.0,0.0,1.0,neutral,Herland
+"Terry's smile was irreproachable, but I did not like the look in his eyes--it was like a creature about to spring.",-0.5544,0.076,0.231,0.693,negative,Herland
+"I could already see it happen--the dropped necklace, the sudden clutching hand, the girl's sharp cry as he seized her and drew her in.",0.0258,0.117,0.114,0.769,neutral,Herland
+But it didn't happen.,0.0,0.0,0.0,1.0,neutral,Herland
+"She made a timid reach with her right hand for the gay swinging thing--he held it a little nearer--then, swift as light, she seized it from him with her left, and dropped on the instant to the bough below.",0.4256,0.143,0.049,0.808,positive,Herland
+"He made his snatch, quite vainly, almost losing his position as his hand clutched only air; and then, with inconceivable rapidity, the three bright creatures were gone.",0.5468,0.187,0.079,0.735,positive,Herland
+"They dropped from the ends of the big boughs to those below, fairly pouring themselves off the tree, while we climbed downward as swiftly as we could.",0.296,0.078,0.0,0.922,positive,Herland
+"We heard their vanishing gay laughter, we saw them fleeting away in the wide open reaches of the forest, and gave chase, but we might as well have chased wild antelopes; so we stopped at length somewhat breathless.",0.2692,0.137,0.065,0.798,positive,Herland
+"""No use,"" gasped Terry.",-0.296,0.0,0.423,0.577,negative,Herland
+"""They got away with it.",0.0,0.0,0.0,1.0,neutral,Herland
+My word!,0.0,0.0,0.0,1.0,neutral,Herland
+"The men of this country must be good sprinters!""",0.4926,0.285,0.0,0.715,positive,Herland
+"""Inhabitants evidently arboreal,"" I grimly suggested.",-0.3182,0.0,0.365,0.635,negative,Herland
+"""Civilized and still arboreal--peculiar people.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""You shouldn't have tried that way,"" Jeff protested.",-0.128,0.0,0.176,0.824,negative,Herland
+"""They were perfectly friendly; now we've scared them.""",0.6705,0.484,0.19,0.327,positive,Herland
+"But it was no use grumbling, and Terry refused to admit any mistake.",-0.7579,0.111,0.437,0.452,negative,Herland
+"""Nonsense,"" he said.",0.0,0.0,0.0,1.0,neutral,Herland
+"""They expected it.",0.0,0.0,0.0,1.0,neutral,Herland
+Women like to be run after.,0.3612,0.333,0.0,0.667,positive,Herland
+"Come on, let's get to that town; maybe we'll find them there.",0.0,0.0,0.0,1.0,neutral,Herland
+"Let's see, it was in this direction and not far from the woods, as I remember.""",0.0,0.0,0.0,1.0,neutral,Herland
+When we reached the edge of the open country we reconnoitered with our field glasses.,0.1027,0.091,0.0,0.909,positive,Herland
+"There it was, about four miles off, the same town, we concluded, unless, as Jeff ventured, they all had pink houses.",0.0,0.0,0.0,1.0,neutral,Herland
+"The broad green fields and closely cultivated gardens sloped away at our feet, a long easy slant, with good roads winding pleasantly here and there, and narrower paths besides.",0.836,0.263,0.0,0.737,positive,Herland
+"""Look at that!""",0.0,0.0,0.0,1.0,neutral,Herland
+cried Jeff suddenly.,-0.3818,0.0,0.565,0.435,negative,Herland
+"""There they go!""",0.0,0.0,0.0,1.0,neutral,Herland
+"Sure enough, close to the town, across a wide meadow, three bright-hued figures were running swiftly.",0.5423,0.257,0.0,0.743,positive,Herland
+"""How could they have got that far in this time?",0.0,0.0,0.0,1.0,neutral,Herland
+"It can't be the same ones,"" I urged.",0.0,0.0,0.0,1.0,neutral,Herland
+"But through the glasses we could identify our pretty tree-climbers quite plainly, at least by costume.",0.6486,0.223,0.0,0.777,positive,Herland
+"Terry watched them, we all did for that matter, till they disappeared among the houses.",-0.2023,0.069,0.119,0.812,negative,Herland
+"Then he put down his glass and turned to us, drawing a long breath.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Mother of Mike, boys--what Gorgeous Girls!",0.6476,0.462,0.0,0.538,positive,Herland
+To climb like that!,0.4199,0.482,0.0,0.518,positive,Herland
+to run like that!,0.4199,0.482,0.0,0.518,positive,Herland
+and afraid of nothing.,0.0,0.0,0.0,1.0,neutral,Herland
+This country suits me all right.,0.0,0.0,0.0,1.0,neutral,Herland
+"Let's get ahead.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""Nothing venture, nothing have,"" I suggested, but Terry preferred ""Faint heart ne'er won fair lady.""",0.8402,0.4,0.0,0.6,positive,Herland
+"We set forth in the open, walking briskly.",0.0,0.0,0.0,1.0,neutral,Herland
+"""If there are any men, we'd better keep an eye out,"" I suggested, but Jeff seemed lost in heavenly dreams, and Terry in highly practical plans.",0.8422,0.315,0.084,0.601,positive,Herland
+"""What a perfect road!",0.6114,0.666,0.0,0.334,positive,Herland
+What a heavenly country!,0.6476,0.682,0.0,0.318,positive,Herland
+"See the flowers, will you?""",0.0,0.0,0.0,1.0,neutral,Herland
+"This was Jeff, always an enthusiast; but we could agree with him fully.",0.6124,0.312,0.0,0.688,positive,Herland
+"The road was some sort of hard manufactured stuff, sloped slightly to shed rain, with every curve and grade and gutter as perfect as if it were Europe's best.",0.8024,0.222,0.048,0.73,positive,Herland
+"""No men, eh?""",-0.296,0.0,0.524,0.476,negative,Herland
+sneered Terry.,0.0,0.0,0.0,1.0,neutral,Herland
+"On either side a double row of trees shaded the footpaths; between the trees bushes or vines, all fruit-bearing, now and then seats and little wayside fountains; everywhere flowers.",0.0,0.0,0.0,1.0,neutral,Herland
+"""We'd better import some of these ladies and set 'em to parking the United States,"" I suggested.",0.6908,0.289,0.0,0.711,positive,Herland
+"""Mighty nice place they've got here.""",0.4215,0.359,0.0,0.641,positive,Herland
+"We rested a few moments by one of the fountains, tested the fruit that looked ripe, and went on, impressed, for all our gay bravado by the sense of quiet potency which lay about us.",0.4767,0.086,0.0,0.914,positive,Herland
+"Here was evidently a people highly skilled, efficient, caring for their country as a florist cares for his costliest orchids.",0.8605,0.389,0.0,0.611,positive,Herland
+"Under the soft brilliant blue of that clear sky, in the pleasant shade of those endless rows of trees, we walked unharmed, the placid silence broken only by the birds.",0.765,0.25,0.08,0.67,positive,Herland
+Presently there lay before us at the foot of a long hill the town or village we were aiming for.,0.0,0.0,0.0,1.0,neutral,Herland
+We stopped and studied it.,-0.2263,0.0,0.322,0.678,negative,Herland
+Jeff drew a long breath.,0.0,0.0,0.0,1.0,neutral,Herland
+"""I wouldn't have believed a collection of houses could look so lovely,"" he said.",0.0,0.0,0.0,1.0,neutral,Herland
+"""They've got architects and landscape gardeners in plenty, that's sure,"" agreed Terry.",0.2732,0.16,0.0,0.84,positive,Herland
+I was astonished myself.,0.3818,0.565,0.0,0.435,positive,Herland
+"You see, I come from California, and there's no country lovelier, but when it comes to towns--!",-0.2244,0.0,0.112,0.888,negative,Herland
+"I have often groaned at home to see the offensive mess man made in the face of nature, even though I'm no art sharp, like Jeff.",-0.6369,0.08,0.247,0.673,negative,Herland
+But this place!,0.0,0.0,0.0,1.0,neutral,Herland
+"It was built mostly of a sort of dull rose-colored stone, with here and there some clear white houses; and it lay abroad among the green groves and gardens like a broken rosary of pink coral.",-0.2484,0.124,0.148,0.728,negative,Herland
+"""Those big white ones are public buildings evidently,"" Terry declared.",0.0,0.0,0.0,1.0,neutral,Herland
+"""This is no savage country, my friend.",-0.25,0.258,0.419,0.323,negative,Herland
+But no men?,-0.4215,0.0,0.583,0.417,negative,Herland
+"Boys, it behooves us to go forward most politely.""",0.0,0.0,0.0,1.0,neutral,Herland
+"The place had an odd look, more impressive as we approached.",0.3167,0.241,0.154,0.604,positive,Herland
+"""It's like an exposition.""",0.3612,0.455,0.0,0.545,positive,Herland
+"""It's too pretty to be true.""",0.4939,0.39,0.0,0.61,positive,Herland
+"""Plenty of palaces, but where are the homes?""",0.0,0.0,0.0,1.0,neutral,Herland
+"""Oh there are little ones enough--but--.""",0.0,0.0,0.0,1.0,neutral,Herland
+It certainly was different from any towns we had ever seen.,0.34,0.194,0.0,0.806,positive,Herland
+"""There's no dirt,"" said Jeff suddenly.",-0.296,0.0,0.306,0.694,negative,Herland
+"""There's no smoke,"" he added after a little.",-0.296,0.0,0.268,0.732,negative,Herland
+"""There's no noise,"" I offered; but Terry snubbed me--""That's because they are laying low for us; we'd better be careful how we go in there.""",-0.3612,0.174,0.25,0.576,negative,Herland
+"Nothing could induce him to stay out, however, so we walked on.",0.0,0.0,0.0,1.0,neutral,Herland
+"Everything was beauty, order, perfect cleanness, and the pleasantest sense of home over it all.",0.9022,0.481,0.0,0.519,positive,Herland
+"As we neared the center of the town the houses stood thicker, ran together as it were, grew into rambling palaces grouped among parks and open squares, something as college buildings stand in their quiet greens.",0.0,0.0,0.0,1.0,neutral,Herland
+"And then, turning a corner, we came into a broad paved space and saw before us a band of women standing close together in even order, evidently waiting for us.",0.0,0.0,0.0,1.0,neutral,Herland
+We stopped a moment and looked back.,-0.2263,0.0,0.275,0.725,negative,Herland
+"The street behind was closed by another band, marching steadily, shoulder to shoulder.",0.0,0.0,0.0,1.0,neutral,Herland
+"We went on--there seemed no other way to go--and presently found ourselves quite surrounded by this close-massed multitude, women, all of them, but-- They were not young.",-0.296,0.0,0.078,0.922,negative,Herland
+They were not old.,0.0,0.0,0.0,1.0,neutral,Herland
+"They were not, in the girl sense, beautiful.",0.5994,0.358,0.0,0.642,positive,Herland
+They were not in the least ferocious.,0.0762,0.178,0.0,0.822,positive,Herland
+"And yet, as I looked from face to face, calm, grave, wise, wholly unafraid, evidently assured and determined, I had the funniest feeling--a very early feeling--a feeling that I traced back and back in memory until I caught up with it at last.",0.9014,0.312,0.052,0.637,positive,Herland
+It was that sense of being hopelessly in the wrong that I had so often felt in early youth when my short legs' utmost effort failed to overcome the fact that I was late to school.,-0.8625,0.0,0.236,0.764,negative,Herland
+Jeff felt it too; I could see he did.,0.0,0.0,0.0,1.0,neutral,Herland
+"We felt like small boys, very small boys, caught doing mischief in some gracious lady's house.",0.5574,0.282,0.116,0.602,positive,Herland
+But Terry showed no such consciousness.,-0.4215,0.0,0.359,0.641,negative,Herland
+"I saw his quick eyes darting here and there, estimating numbers, measuring distances, judging chances of escape.",0.3612,0.2,0.0,0.8,positive,Herland
+"He examined the close ranks about us, reaching back far on every side, and murmured softly to me, ""Every one of 'em over forty as I'm a sinner.""",0.2023,0.065,0.0,0.935,positive,Herland
+Yet they were not old women.,0.0,0.0,0.0,1.0,neutral,Herland
+"Each was in the full bloom of rosy health, erect, serene, standing sure-footed and light as any pugilist.",0.4588,0.15,0.0,0.85,positive,Herland
+"They had no weapons, and we had, but we had no wish to shoot.",-0.5994,0.161,0.43,0.409,negative,Herland
+"""I'd as soon shoot my aunts,"" muttered Terry again.",-0.34,0.0,0.231,0.769,negative,Herland
+"""What do they want with us anyhow?",0.0772,0.178,0.0,0.822,positive,Herland
+"They seem to mean business.""",0.0,0.0,0.0,1.0,neutral,Herland
+"But in spite of that businesslike aspect, he determined to try his favorite tactics.",0.3612,0.313,0.203,0.485,positive,Herland
+Terry had come armed with a theory.,0.0,0.0,0.0,1.0,neutral,Herland
+"He stepped forward, with his brilliant ingratiating smile, and made low obeisance to the women before him.",0.6369,0.281,0.094,0.625,positive,Herland
+"Then he produced another tribute, a broad soft scarf of filmy texture, rich in color and pattern, a lovely thing, even to my eye, and offered it with a deep bow to the tall unsmiling woman who seemed to head the ranks before him.",0.8126,0.159,0.0,0.841,positive,Herland
+"She took it with a gracious nod of acknowledgment, and passed it on to those behind her.",0.5574,0.194,0.0,0.806,positive,Herland
+"He tried again, this time bringing out a circlet of rhinestones, a glittering crown that should have pleased any woman on earth.",0.4404,0.132,0.0,0.868,positive,Herland
+"He made a brief address, including Jeff and me as partners in his enterprise, and with another bow presented this.",0.0,0.0,0.0,1.0,neutral,Herland
+"Again his gift was accepted and, as before, passed out of sight.",0.6124,0.333,0.0,0.667,positive,Herland
+"""If they were only younger,"" he muttered between his teeth.",0.0,0.0,0.0,1.0,neutral,Herland
+"""What on earth is a fellow to say to a regiment of old Colonels like this?""",0.3612,0.161,0.0,0.839,positive,Herland
+"In all our discussions and speculations we had always unconsciously assumed that the women, whatever else they might be, would be young.",0.0,0.0,0.0,1.0,neutral,Herland
+"Most men do think that way, I fancy.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Woman"" in the abstract is young, and, we assume, charming.",0.5859,0.297,0.0,0.703,positive,Herland
+"As they get older they pass off the stage, somehow, into private ownership mostly, or out of it altogether.",0.0,0.0,0.0,1.0,neutral,Herland
+"But these good ladies were very much on the stage, and yet any one of them might have been a grandmother.",0.5927,0.168,0.0,0.832,positive,Herland
+We looked for nervousness--there was none.,0.0,0.0,0.0,1.0,neutral,Herland
+"For terror, perhaps--there was none.",-0.5267,0.0,0.459,0.541,negative,Herland
+"For uneasiness, for curiosity, for excitement--and all we saw was what might have been a vigilance committee of women doctors, as cool as cucumbers, and evidently meaning to take us to task for being there.",-0.0772,0.062,0.07,0.867,negative,Herland
+"Six of them stepped forward now, one on either side of each of us, and indicated that we were to go with them.",0.0,0.0,0.0,1.0,neutral,Herland
+"We thought it best to accede, at first anyway, and marched along, one of these close at each elbow, and the others in close masses before, behind, on both sides.",0.6369,0.127,0.0,0.873,positive,Herland
+"A large building opened before us, a very heavy thick-walled impressive place, big, and old-looking; of gray stone, not like the rest of the town.",0.3514,0.134,0.079,0.787,positive,Herland
+"""This won't do!""",0.0,0.0,0.0,1.0,neutral,Herland
+"said Terry to us, quickly.",0.0,0.0,0.0,1.0,neutral,Herland
+"""We mustn't let them get us in this, boys.",0.0,0.0,0.0,1.0,neutral,Herland
+"All together, now--"" We stopped in our tracks.",-0.2263,0.0,0.213,0.787,negative,Herland
+"We began to explain, to make signs pointing away toward the big forest--indicating that we would go back to it--at once.",0.0,0.0,0.0,1.0,neutral,Herland
+"It makes me laugh, knowing all I do now, to think of us three boys--nothing else; three audacious impertinent boys--butting into an unknown country without any sort of a guard or defense.",0.7184,0.206,0.0,0.794,positive,Herland
+"We seemed to think that if there were men we could fight them, and if there were only women--why, they would be no obstacles at all.",-0.7506,0.0,0.243,0.757,negative,Herland
+"Jeff, with his gentle romantic old-fashioned notions of women as clinging vines.",0.6808,0.359,0.0,0.641,positive,Herland
+"Terry, with his clear decided practical theories that there were two kinds of women--those he wanted and those he didn't; Desirable and Undesirable was his demarcation.",0.4667,0.167,0.065,0.767,positive,Herland
+"The latter as a large class, but negligible--he had never thought about them at all.",0.0,0.0,0.0,1.0,neutral,Herland
+"And now here they were, in great numbers, evidently indifferent to what he might think, evidently determined on some purpose of their own regarding him, and apparently well able to enforce their purpose.",0.7783,0.218,0.046,0.736,positive,Herland
+We all thought hard just then.,-0.1027,0.0,0.219,0.781,negative,Herland
+"It had not seemed wise to object to going with them, even if we could have; our one chance was friendliness--a civilized attitude on both sides.",-0.1416,0.07,0.089,0.841,negative,Herland
+"But once inside that building, there was no knowing what these determined ladies might do to us.",0.0772,0.148,0.134,0.718,positive,Herland
+"Even a peaceful detention was not to our minds, and when we named it imprisonment it looked even worse.",-0.34,0.134,0.235,0.63,negative,Herland
+"So we made a stand, trying to make clear that we preferred the open country.",0.3818,0.167,0.0,0.833,positive,Herland
+"One of them came forward with a sketch of our flier, asking by signs if we were the aerial visitors they had seen.",0.0,0.0,0.0,1.0,neutral,Herland
+This we admitted.,0.1027,0.412,0.0,0.588,positive,Herland
+"They pointed to it again, and to the outlying country, in different directions--but we pretended we did not know where it was, and in truth we were not quite sure and gave a rather wild indication of its whereabouts.",0.0313,0.057,0.054,0.889,neutral,Herland
+"Again they motioned us to advance, standing so packed about the door that there remained but the one straight path open.",0.3291,0.105,0.0,0.895,positive,Herland
+All around us and behind they were massed solidly--there was simply nothing to do but go forward--or fight.,-0.5267,0.0,0.167,0.833,negative,Herland
+We held a consultation.,0.0,0.0,0.0,1.0,neutral,Herland
+"""I never fought with women in my life,"" said Terry, greatly perturbed, ""but I'm not going in there.",-0.094,0.077,0.096,0.828,negative,Herland
+"I'm not going to be--herded in--as if we were in a cattle chute.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""We can't fight them, of course,"" Jeff urged.",0.2924,0.238,0.0,0.762,positive,Herland
+"""They're all women, in spite of their nondescript clothes; nice women, too; good strong sensible faces.",0.6808,0.369,0.139,0.492,positive,Herland
+"I guess we'll have to go in.""",0.0,0.0,0.0,1.0,neutral,Herland
+"""We may never get out, if we do,"" I told them.",0.0,0.0,0.0,1.0,neutral,Herland
+"""Strong and sensible, yes; but I'm not so sure about the good.",0.5632,0.412,0.168,0.42,positive,Herland
+"Look at those faces!""",0.0,0.0,0.0,1.0,neutral,Herland
+"They had stood at ease, waiting while we conferred together, but never relaxing their close attention.",-0.4003,0.091,0.179,0.729,negative,Herland
+Their attitude was not the rigid discipline of soldiers; there was no sense of compulsion about them.,-0.2095,0.074,0.118,0.808,negative,Herland
+"Terry's term of a ""vigilance committee"" was highly descriptive.",0.0,0.0,0.0,1.0,neutral,Herland
+"They had just the aspect of sturdy burghers, gathered hastily to meet some common need or peril, all moved by precisely the same feelings, to the same end.",-0.4019,0.0,0.091,0.909,negative,Herland
+"Never, anywhere before, had I seen women of precisely this quality.",0.0,0.0,0.0,1.0,neutral,Herland
+"Fishwives and market women might show similar strength, but it was coarse and heavy.",0.2732,0.139,0.0,0.861,positive,Herland
+These were merely athletic--light and powerful.,0.4215,0.359,0.0,0.641,positive,Herland
+"College professors, teachers, writers--many women showed similar intelligence but often wore a strained nervous look, while these were as calm as cows, for all their evident intellect.",0.4215,0.249,0.171,0.58,positive,Herland
+"We observed pretty closely just then, for all of us felt that it was a crucial moment.",0.4939,0.176,0.0,0.824,positive,Herland
+"The leader gave some word of command and beckoned us on, and the surrounding mass moved a step nearer.",0.0,0.0,0.0,1.0,neutral,Herland
+"""We've got to decide quick,"" said Terry.",0.0,0.0,0.0,1.0,neutral,Herland
+"""I vote to go in,"" Jeff urged.",0.0,0.0,0.0,1.0,neutral,Herland
+But we were two to one against him and he loyally stood by us.,0.631,0.242,0.0,0.758,positive,Herland
+"We made one more effort to be let go, urgent, but not imploring.",0.1027,0.104,0.0,0.896,positive,Herland
+In vain.,-0.4215,0.0,0.737,0.263,negative,Herland
+"""Now for a rush, boys!""",0.0,0.0,0.0,1.0,neutral,Herland
+Terry said.,0.0,0.0,0.0,1.0,neutral,Herland
+"""And if we can't break 'em, I'll shoot in the air.""",-0.34,0.0,0.194,0.806,negative,Herland
+Then we found ourselves much in the position of the suffragette trying to get to the Parliament buildings through a triple cordon of London police.,0.0,0.0,0.0,1.0,neutral,Herland
+The solidity of those women was something amazing.,0.5859,0.352,0.0,0.648,positive,Herland
+"Terry soon found that it was useless, tore himself loose for a moment, pulled his revolver, and fired upward.",-0.8271,0.0,0.367,0.633,negative,Herland
+"As they caught at it, he fired again--we heard a cry--.",-0.5574,0.0,0.286,0.714,negative,Herland
+"Instantly each of us was seized by five women, each holding arm or leg or head; we were lifted like children, straddling helpless children, and borne onward, wriggling indeed, but most ineffectually.",-0.517,0.049,0.142,0.809,negative,Herland
+"We were borne inside, struggling manfully, but held secure most womanfully, in spite of our best endeavors.",0.4596,0.309,0.239,0.451,positive,Herland
+"So carried and so held, we came into a high inner hall, gray and bare, and were brought before a majestic gray-haired woman who seemed to hold a judicial position.",0.0,0.0,0.0,1.0,neutral,Herland
+"There was some talk, not much, among them, and then suddenly there fell upon each of us at once a firm hand holding a wetted cloth before mouth and nose--an order of swimming sweetness--anesthesia.",0.4939,0.094,0.0,0.906,positive,Herland
+CHAPTER 3.,0.0,0.0,0.0,1.0,neutral,Herland
+"A Peculiar Imprisonment From a slumber as deep as death, as refreshing as that of a healthy child, I slowly awakened.",-0.1531,0.194,0.176,0.631,negative,Herland
+"It was like rising up, up, up through a deep warm ocean, nearer and nearer to full light and stirring air.",0.5267,0.196,0.0,0.804,positive,Herland
+Or like the return to consciousness after concussion of the brain.,0.3612,0.2,0.0,0.8,positive,Herland
+"I was once thrown from a horse while on a visit to a wild mountainous country quite new to me, and I can clearly remember the mental experience of coming back to life, through lifting veils of dream.",0.5719,0.132,0.0,0.868,positive,Herland
+"When I first dimly heard the voices of those about me, and saw the shining snowpeaks of that mighty range, I assumed that this too would pass, and I should presently find myself in my own home.",0.0,0.0,0.0,1.0,neutral,Herland
+"That was precisely the experience of this awakening: receding waves of half-caught swirling vision, memories of home, the steamer, the boat, the airship, the forest--at last all sinking away one after another, till my eyes were wide open, my brain clear, and I realized what had happened.",0.5574,0.095,0.0,0.905,positive,Herland
+The most prominent sensation was of absolute physical comfort.,0.624,0.421,0.0,0.579,positive,Herland
+"I was lying in a perfect bed: long, broad, smooth; firmly soft and level; with the finest linen, some warm light quilt of blanket, and a counterpane that was a joy to the eye.",0.7184,0.242,0.088,0.67,positive,Herland
+"The sheet turned down some fifteen inches, yet I could stretch my feet at the foot of the bed free but warmly covered.",0.6908,0.222,0.0,0.778,positive,Herland
+I felt as light and clean as a white feather.,0.4019,0.278,0.0,0.722,positive,Herland
+"It took me some time to conscientiously locate my arms and legs, to feel the vivid sense of life radiate from the wakening center to the extremities.",0.0,0.0,0.0,1.0,neutral,Herland
+"A big room, high and wide, with many lofty windows whose closed blinds let through soft green-lit air; a beautiful room, in proportion, in color, in smooth simplicity; a scent of blossoming gardens outside.",0.5994,0.115,0.0,0.885,positive,Herland
+"I lay perfectly still, quite happy, quite conscious, and yet not actively realizing what had happened till I heard Terry.",0.8037,0.326,0.078,0.596,positive,Herland
+"""Gosh!""",0.0,0.0,0.0,1.0,neutral,Herland
+was what he said.,0.0,0.0,0.0,1.0,neutral,Herland
+I turned my head.,0.0,0.0,0.0,1.0,neutral,Herland
+"There were three beds in this chamber, and plenty of room for them.",0.0,0.0,0.0,1.0,neutral,Herland
+"Terry was sitting up, looking about him, alert as ever.",0.296,0.196,0.0,0.804,positive,Herland
+"His remark, though not loud, roused Jeff also.",0.0,0.0,0.0,1.0,neutral,Herland
+We all sat up.,0.0,0.0,0.0,1.0,neutral,Herland
+"Terry swung his legs out of bed, stood up, stretched himself mightily.",0.0,0.0,0.0,1.0,neutral,Herland
+"He was in a long nightrobe, a sort of seamless garment, undoubtedly comfortable--we all found ourselves so covered.",0.0,0.0,0.0,1.0,neutral,Herland
+"Shoes were beside each bed, also quite comfortable and goodlooking though by no means like our own.",0.5984,0.273,0.099,0.628,positive,Herland
+"We looked for our clothes--they were not there, nor anything of all the varied contents of our pockets.",0.0,0.0,0.0,1.0,neutral,Herland
+"A door stood somewhat ajar; it opened into a most attractive bathroom, copiously provided with towels, soap, mirrors, and all such convenient comforts, with indeed our toothbrushes and combs, our notebooks, and thank goodness, our watches--but no clothes.",0.8622,0.262,0.049,0.689,positive,Herland
+"Then we made a search of the big room again and found a large airy closet, holding plenty of clothing, but not ours.",0.0,0.0,0.0,1.0,neutral,Herland
+"""A council of war!""",0.0,0.0,0.0,1.0,neutral,Herland
+dem,0.0,0.0,0.0,1.0,neutral,Herland

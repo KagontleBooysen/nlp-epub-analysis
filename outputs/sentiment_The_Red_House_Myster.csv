@@ -1,0 +1,779 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Red House Mystery This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.066,0.104,0.829,negative,The Red House Mystery
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Red House Mystery
+Title : The Red House Mystery Author : A.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"A. Milne Release date : August 1, 1999 [eBook #1872] Most recently updated: June 27, 2020 Language : English Other information and formats : www.gutenberg.org/ebooks/1872 Credits : Produced by An Anonymous Project Gutenberg Volunteer, and David Widger *** START OF THE PROJECT GUTENBERG EBOOK THE RED HOUSE MYSTERY *** The Red House Mystery by A.",0.3612,0.048,0.0,0.952,positive,The Red House Mystery
+"A. Milne TO JOHN VINE MILNE My dear Father, Like all really nice people, you have a weakness for detective stories, and feel that there are not enough of them.",0.659,0.228,0.078,0.695,positive,The Red House Mystery
+"So, after all that you have done for me, the least that I can do for you is to write you one.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Here it is: with more gratitude and affection than I can well put down here.,0.854,0.46,0.0,0.54,positive,The Red House Mystery
+A.A.M.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Contents CHAPTER I. Mrs. Stevens is Frightened CHAPTER II.,-0.4404,0.0,0.266,0.734,negative,The Red House Mystery
+Mr. Gillingham Gets Out at the Wrong Station CHAPTER III.,-0.4767,0.0,0.256,0.744,negative,The Red House Mystery
+Two Men and a Body CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+The Brother from Australia CHAPTER V. Mr. Gillingham Chooses a New Profession CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Outside Or Inside?,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+CHAPTER VII.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Portrait of a Gentleman CHAPTER VIII.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Do You Follow Me, Watson?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Possibilities of a Croquet Set CHAPTER X. Mr. Gillingham Talks Nonsense CHAPTER XI.,-0.4019,0.0,0.197,0.803,negative,The Red House Mystery
+The Reverend Theodore Ussher CHAPTER XII.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+A Shadow on the Wall CHAPTER XIII.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+The Open Window CHAPTER XIV.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Mr. Beverley Qualifies for the Stage CHAPTER XV.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Mrs. Norbury Confides in Dear Mr. Gillingham CHAPTER XVI.,0.3818,0.245,0.0,0.755,positive,The Red House Mystery
+Getting Ready for the Night CHAPTER XVII.,0.3612,0.294,0.0,0.706,positive,The Red House Mystery
+Mr. Beverley Takes the Water CHAPTER XVIII.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Guess-work CHAPTER XIX.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+The Inquest CHAPTER XX.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Mr. Beverley is Tactful CHAPTER XXI.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Cayley's Apology CHAPTER XXII.,0.0516,0.286,0.0,0.714,positive,The Red House Mystery
+Mr. Beverley Moves On CHAPTER I. Mrs. Stevens is Frightened In the drowsy heat of the summer afternoon the Red House was taking its siesta.,-0.4404,0.0,0.108,0.892,negative,The Red House Mystery
+"There was a lazy murmur of bees in the flower-borders, a gentle cooing of pigeons in the tops of the elms.",0.5719,0.251,0.101,0.648,positive,The Red House Mystery
+"From distant lawns came the whir of a mowing-machine, that most restful of all country sounds; making ease the sweeter in that it is taken while others are working.",0.6478,0.169,0.0,0.831,positive,The Red House Mystery
+It was the hour when even those whose business it is to attend to the wants of others have a moment or two for themselves.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"In the housekeeper's room Audrey Stevens, the pretty parlour-maid, re-trimmed her best hat, and talked idly to her aunt, the cook-housekeeper of Mr. Mark Ablett's bachelor home.",0.8126,0.228,0.0,0.772,positive,The Red House Mystery
+"""For Joe?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"said Mrs. Stevens placidly, her eye on the hat.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Audrey nodded.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"She took a pin from her mouth, found a place in the hat for it, and said, ""He likes a bit of pink.""",0.4215,0.128,0.0,0.872,positive,The Red House Mystery
+"""I don't say I mind a bit of pink myself,"" said her aunt.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Joe Turner isn't the only one.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""It isn't everybody's colour,"" said Audrey, holding the hat out at arm's length, and regarding it thoughtfully.",0.4019,0.144,0.0,0.856,positive,The Red House Mystery
+"""Stylish, isn't it?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Oh, it'll suit you all right, and it would have suited me at your age.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"A bit too dressy for me now, though wearing better than some other people, I daresay.",0.4404,0.182,0.0,0.818,positive,The Red House Mystery
+I was never the one to pretend to be what I wasn't.,-0.1027,0.0,0.135,0.865,negative,The Red House Mystery
+"If I'm fifty-five, I'm fifty-five--that's what I say.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Fifty-eight, isn't it, auntie?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I was just giving that as an example,"" said Mrs. Stevens with great dignity.",0.8481,0.455,0.0,0.545,positive,The Red House Mystery
+"Audrey threaded a needle, held her hand out and looked at her nails critically for a moment, and then began to sew.",0.4939,0.144,0.0,0.856,positive,The Red House Mystery
+"""Funny thing that about Mr. Mark's brother.",0.4404,0.326,0.0,0.674,positive,The Red House Mystery
+"Fancy not seeing your brother for fifteen years.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"She gave a self-conscious laugh and went on, ""Wonder what I should do if I didn't see Joe for fifteen years.""",0.5574,0.175,0.0,0.825,positive,The Red House Mystery
+"""As I told you all this morning,"" said her aunt, ""I've been here five years, and never heard of a brother.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+I could say that before everybody if I was going to die to-morrow.,-0.5994,0.0,0.281,0.719,negative,The Red House Mystery
+"There's been no brother here while I've been here.""",-0.296,0.0,0.216,0.784,negative,The Red House Mystery
+"""You could have knocked me down with a feather when he spoke about him at breakfast this morning.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I didn't hear what went before, naturally, but they was all talking about the brother when I went in--now what was it I went in for--hot milk, was it, or toast?--well, they was all talking, and Mr. Mark turns to me, and says--you know his way--'Stevens,' he says, 'my brother is coming to see me this afternoon; I'm expecting him about three,' he says.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"'Show him into the office,' he says, just like that.",0.3612,0.217,0.0,0.783,positive,The Red House Mystery
+"'Yes, sir,' I says quite quietly, but I was never so surprised in my life, not knowing he had a brother.",0.6548,0.204,0.0,0.796,positive,The Red House Mystery
+"'My brother from Australia,' he says--there, I'd forgotten that.",-0.2263,0.0,0.192,0.808,negative,The Red House Mystery
+"From Australia.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, he may have been in Australia,"" said Mrs. Stevens, judicially; ""I can't say for that, not knowing the country; but what I do say is he's never been here.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Not while I've been here, and that's five years.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, but, auntie, he hasn't been here for fifteen years.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+I heard Mr. Mark telling Mr. Cayley.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"'Fifteen years,' he says.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Mr. Cayley having arst him when his brother was last in England.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Mr. Cayley knew of him, I heard him telling Mr. Beverley, but didn't know when he was last in England--see?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+So that's why he arst Mr.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Mark.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I'm not saying anything about fifteen years, Audrey.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I can only speak for what I know, and that's five years Whitsuntide.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+I can take my oath he's not set foot in the house since five years Whitsuntide.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"And if he's been in Australia, as you say, well, I daresay he's had his reasons.""",0.2732,0.13,0.0,0.87,positive,The Red House Mystery
+"""What reasons?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+said Audrey lightly.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Never mind what reasons.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Being in the place of a mother to you, since your poor mother died, I say this, Audrey--when a gentleman goes to Australia, he has his reasons.",-0.7717,0.0,0.233,0.767,negative,The Red House Mystery
+"And when he stays in Australia fifteen years, as Mr. Mark says, and as I know for myself for five years, he has his reasons.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"And a respectably brought-up girl doesn't ask what reasons.""",0.4019,0.278,0.0,0.722,positive,The Red House Mystery
+"""Got into trouble, I suppose,"" said Audrey carelessly.",-0.5719,0.0,0.485,0.515,negative,The Red House Mystery
+"""They were saying at breakfast he'd been a wild one.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Debts.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+I'm glad Joe isn't like that.,0.224,0.329,0.232,0.439,positive,The Red House Mystery
+He's got fifteen pounds in the post-office savings' bank.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Did I tell you?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+But there was not to be any more talk of Joe Turner that afternoon.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The ringing of a bell brought Audrey to her feet--no longer Audrey, but now Stevens.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+She arranged her cap in front of the glass.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""There, that's the front door,"" she said.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""That's him.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"'Show him into the office,' said Mr. Mark.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+I suppose he doesn't want the other ladies and gentlemen to see him.,-0.0572,0.0,0.1,0.9,negative,The Red House Mystery
+"Well, they're all out at their golf, anyhow--Wonder if he's going to stay--P'raps he's brought back a lot of gold from Australia--I might hear something about Australia, because if anybody can get gold there, then I don't say but what Joe and I--"" ""Now, now, get on, Audrey.""",0.1406,0.033,0.0,0.967,positive,The Red House Mystery
+"""Just going, darling.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+She went out.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"To anyone who had just walked down the drive in the August sun, the open door of the Red House revealed a delightfully inviting hall, of which even the mere sight was cooling.",0.7184,0.167,0.0,0.833,positive,The Red House Mystery
+"It was a big low-roofed, oak-beamed place, with cream-washed walls and diamond-paned windows, blue-curtained.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"On the right and left were doors leading into other living-rooms, but on the side which faced you as you came in were windows again, looking on to a small grass court, and from open windows to open windows such air as there was played gently.",0.7964,0.142,0.0,0.858,positive,The Red House Mystery
+"The staircase went up in broad, low steps along the right-hand wall, and, turning to the left, led you along a gallery, which ran across the width of the hall, to your bedroom.",-0.2732,0.0,0.063,0.937,negative,The Red House Mystery
+"That is, if you were going to stay the night.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Mr. Robert Ablett's intentions in this matter were as yet unknown.,0.0323,0.101,0.0,0.899,neutral,The Red House Mystery
+"As Audrey came across the hall she gave a little start as she saw Mr. Cayley suddenly, sitting unobtrusively in a seat beneath one of the front windows, reading.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"No reason why he shouldn't be there; certainly a much cooler place than the golf-links on such a day; but somehow there was a deserted air about the house that afternoon, as if all the guests were outside, or--perhaps the wisest place of all--up in their bedrooms, sleeping.",0.4646,0.084,0.063,0.852,positive,The Red House Mystery
+"Mr. Cayley, the master's cousin, was a surprise; and, having given a little exclamation as she came suddenly upon him, she blushed, and said, ""Oh, I beg your pardon, sir, I didn't see you at first,"" and he looked up from his book and smiled at her.",0.7845,0.165,0.0,0.835,positive,The Red House Mystery
+An attractive smile it was on that big ugly face.,0.2732,0.344,0.21,0.446,positive,The Red House Mystery
+"""Such a gentleman, Mr. Cayley,"" she thought to herself as she went on, and wondered what the master would do without him.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"If this brother, for instance, had to be bundled back to Australia, it was Mr. Cayley who would do most of the bundling.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""So this is Mr. Robert,"" said Audrey to herself, as she came in sight of the visitor.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"She told her aunt afterwards that she would have known him anywhere for Mr. Mark's brother, but she would have said that in any event.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Actually she was surprised.,0.2263,0.388,0.0,0.612,positive,The Red House Mystery
+"Dapper little Mark, with his neat pointed beard and his carefully curled moustache; with his quick-darting eyes, always moving from one to the other of any company he was in, to register one more smile to his credit when he had said a good thing, one more expectant look when he was only waiting his turn to say it; he was a very different man from this rough-looking, ill-dressed colonial, staring at her so loweringly.",0.8955,0.158,0.0,0.842,positive,The Red House Mystery
+"""I want to see Mr. Mark Ablett,"" he growled.",0.0772,0.14,0.0,0.86,positive,The Red House Mystery
+It sounded almost like a threat.,-0.2298,0.265,0.375,0.36,negative,The Red House Mystery
+Audrey recovered herself and smiled reassuringly at him.,0.743,0.512,0.0,0.488,positive,The Red House Mystery
+She had a smile for everybody.,0.3612,0.385,0.0,0.615,positive,The Red House Mystery
+"""Yes, sir.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He is expecting you, if you will come this way.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Oh!",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"So you know who I am, eh?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Mr. Robert Ablett?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Ay, that's right.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"So he's expecting me, eh?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He'll be glad to see me, eh?""",0.4588,0.333,0.0,0.667,positive,The Red House Mystery
+"""If you will come this way, sir,"" said Audrey primly.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"She went to the second door on the left, and opened it.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Mr. Robert Ab--"" she began, and then broke off.",-0.4215,0.0,0.259,0.741,negative,The Red House Mystery
+The room was empty.,-0.2023,0.0,0.375,0.625,negative,The Red House Mystery
+She turned to the man behind her.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""If you will sit down, sir, I will find the master.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I know he's in, because he told me that you were coming this afternoon.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Oh!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He looked round the room.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""What d'you call this place, eh?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""The office, sir.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""The office?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""The room where the master works, sir.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Works, eh?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+That's new.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Didn't know he'd ever done a stroke of work in his life.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Where he writes , sir,"" said Audrey, with dignity.",0.4019,0.278,0.0,0.722,positive,The Red House Mystery
+"The fact that Mr. Mark ""wrote,"" though nobody knew what, was a matter of pride in the housekeeper's room.",0.3612,0.179,0.0,0.821,positive,The Red House Mystery
+"""Not well-dressed enough for the drawing-room, eh?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I will tell the master you are here, sir,"" said Audrey decisively.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+She closed the door and left him there.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Well!,0.3382,1.0,0.0,0.0,positive,The Red House Mystery
+Here was something to tell auntie!,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Her mind was busy at once, going over all the things which he had said to her and she had said to him--quiet-like.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Directly I saw him I said to myself--"" Why, you could have knocked her over with a feather.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Feathers, indeed, were a perpetual menace to Audrey.",-0.4939,0.0,0.348,0.652,negative,The Red House Mystery
+"However, the immediate business was to find the master.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"She walked across the hall to the library, glanced in, came back a little uncertainly, and stood in front of Cayley.",-0.2748,0.0,0.1,0.9,negative,The Red House Mystery
+"""If you please, sir,"" she said in a low, respectful voice, ""can you tell me where the master is?",0.4939,0.237,0.094,0.67,positive,The Red House Mystery
+"It's Mr. Robert called.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""What?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"said Cayley, looking up from his book.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Who?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Audrey repeated her question.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I don't know.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Isn't he in the office?,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He went up to the Temple after lunch.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I don't think I've seen him since.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Thank you, sir.",0.3612,0.556,0.0,0.444,positive,The Red House Mystery
+"I will go up to the Temple.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Cayley returned to his book.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The ""Temple"" was a brick summer-house, in the gardens at the back of the house, about three hundred yards away.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Here Mark meditated sometimes before retiring to the ""office"" to put his thoughts upon paper.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The thoughts were not of any great value; moreover, they were given off at the dinner-table more often than they got on to paper, and got on to paper more often than they got into print.",-0.2249,0.06,0.083,0.857,negative,The Red House Mystery
+"But that did not prevent the master of The Red House from being a little pained when a visitor treated the Temple carelessly, as if it had been erected for the ordinary purposes of flirtation and cigarette-smoking.",-0.3229,0.086,0.166,0.748,negative,The Red House Mystery
+There had been an occasion when two of his guests had been found playing fives in it.,0.2023,0.101,0.0,0.899,positive,The Red House Mystery
+"Mark had said nothing at the time, save to ask with a little less than his usual point--whether they couldn't find anywhere else for their game, but the offenders were never asked to The Red House again.",-0.2846,0.053,0.083,0.864,negative,The Red House Mystery
+"Audrey walked slowly up to the Temple, looked in and walked slowly back.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+All that walk for nothing.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Perhaps the master was upstairs in his room.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Not well-dressed enough for the drawing-room.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Well, now, Auntie, would you like anyone in your drawing-room with a red handkerchief round his neck and great big dusty boots, and--listen!",0.8398,0.321,0.0,0.679,positive,The Red House Mystery
+One of the men shooting rabbits.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Auntie was partial to a nice rabbit, and onion sauce.",0.4215,0.259,0.0,0.741,positive,The Red House Mystery
+How hot it was; she wouldn't say no to a cup of tea.,0.2235,0.146,0.0,0.854,positive,The Red House Mystery
+"Well, one thing, Mr. Robert wasn't staying the night; he hadn't any luggage.",0.2732,0.149,0.0,0.851,positive,The Red House Mystery
+Of course Mr. Mark could lend him things; he had clothes enough for six.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+She would have known him anywhere for Mr. Mark's brother.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+She came into the house.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"As she passed the housekeeper's room on her way to the hall, the door opened suddenly, and a rather frightened face looked out.",-0.4404,0.0,0.121,0.879,negative,The Red House Mystery
+"""Hallo, Aud,"" said Elsie.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""It's Audrey,"" she said, turning into the room.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Come in, Audrey,"" called Mrs. Stevens.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""What's up?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"said Audrey, looking in at the door.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Oh, my dear, you gave me such a turn.",0.3818,0.271,0.0,0.729,positive,The Red House Mystery
+"Where have you been?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Up to the Temple.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Did you hear anything?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Hear what?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Bangs and explosions and terrible things.""",-0.4767,0.0,0.383,0.617,negative,The Red House Mystery
+"""Oh!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"said Audrey, rather relieved.",0.3818,0.464,0.0,0.536,positive,The Red House Mystery
+"""One of the men shooting rabbits.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Why, I said to myself as I came along, 'Auntie's partial to a nice rabbit,' I said, and I shouldn't be surprised if--"" ""Rabbits!""",0.3455,0.142,0.077,0.781,positive,The Red House Mystery
+said her aunt scornfully.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""It was inside the house, my girl.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Straight it was,"" said Elsie.",0.2263,0.322,0.0,0.678,positive,The Red House Mystery
+She was one of the housemaids.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I said to Mrs. Stevens--didn't I, Mrs.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Stevens?--'That was in the house,' I said.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Audrey looked at her aunt and then at Elsie.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Do you think he had a revolver with him?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+she said in a hushed voice.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Who?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+said Elsie excitedly.,0.5106,0.623,0.0,0.377,positive,The Red House Mystery
+"""That brother of his.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+From Australia.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I said as soon as I set eyes on him, 'You're a bad lot, my man!'",-0.5848,0.0,0.24,0.76,negative,The Red House Mystery
+"That's what I said, Elsie.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Even before he spoke to me.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Rude!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+She turned to her aunt.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, I give you my word.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""If you remember, Audrey, I always said there was no saying with anyone from Australia.""",-0.296,0.0,0.145,0.855,negative,The Red House Mystery
+"Mrs. Stevens lay back in her chair, breathing rather rapidly.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I wouldn't go out of this room now, not if you paid me a hundred thousand pounds.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Oh, Mrs.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Stevens!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"said Elsie, who badly wanted five shillings for a new pair of shoes, ""I wouldn't go as far as that, not myself, but--"" ""There!""",-0.5255,0.0,0.134,0.866,negative,The Red House Mystery
+"cried Mrs. Stevens, sitting up with a start.",-0.3818,0.0,0.302,0.698,negative,The Red House Mystery
+"They listened anxiously, the two girls instinctively coming closer to the older woman's chair.",-0.2263,0.0,0.128,0.872,negative,The Red House Mystery
+"A door was being shaken, kicked, rattled.",-0.0772,0.0,0.206,0.794,negative,The Red House Mystery
+"""Listen!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Audrey and Elsie looked at each other with frightened eyes.,-0.4404,0.0,0.244,0.756,negative,The Red House Mystery
+"They heard a man's voice, loud, angry.",-0.5106,0.0,0.398,0.602,negative,The Red House Mystery
+"""Open the door!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+it was shouting.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Open the door!",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I say, open the door!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Don't open the door!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"cried Mrs. Stevens in a panic, as if it was her door which was threatened.",-0.836,0.0,0.447,0.553,negative,The Red House Mystery
+"""Audrey!",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Elsie!,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Don't let him in!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Damn it, open the door!""",-0.4574,0.0,0.428,0.572,negative,The Red House Mystery
+came the voice again.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""We're all going to be murdered in our beds,"" she quavered.",-0.6597,0.0,0.306,0.694,negative,The Red House Mystery
+"Terrified, the two girls huddled closer, and with an arm round each, Mrs. Stevens sat there, waiting.",-0.6124,0.0,0.2,0.8,negative,The Red House Mystery
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Mr. Gillingham Gets Out at the Wrong Station Whether Mark Ablett was a bore or not depended on the point of view, but it may be said at once that he never bored his company on the subject of his early life.",-0.0846,0.051,0.081,0.868,negative,The Red House Mystery
+"However, stories get about.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+There is always somebody who knows.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"It was understood--and this, anyhow, on Mark's own authority--that his father had been a country clergyman.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"It was said that, as a boy, Mark had attracted the notice, and patronage, of some rich old spinster of the neighbourhood, who had paid for his education, both at school and university.",0.7506,0.176,0.0,0.824,positive,The Red House Mystery
+"At about the time when he was coming down from Cambridge, his father had died; leaving behind him a few debts, as a warning to his family, and a reputation for short sermons, as an example to his successor.",-0.6249,0.046,0.147,0.807,negative,The Red House Mystery
+Neither warning nor example seems to have been effective.,0.6293,0.423,0.0,0.577,positive,The Red House Mystery
+"Mark went to London, with an allowance from his patron, and (it is generally agreed) made acquaintance with the money-lenders.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He was supposed, by his patron and any others who inquired, to be ""writing""; but what he wrote, other than letters asking for more time to pay, has never been discovered.",-0.249,0.0,0.062,0.938,negative,The Red House Mystery
+"However, he attended the theatres and music halls very regularly--no doubt with a view to some serious articles in the ""Spectator"" on the decadence of the English stage.",-0.4728,0.0,0.14,0.86,negative,The Red House Mystery
+"Fortunately (from Mark's point of view) his patron died during his third year in London, and left him all the money he wanted.",-0.5574,0.0,0.141,0.859,negative,The Red House Mystery
+"From that moment his life loses its legendary character, and becomes more a matter of history.",-0.228,0.083,0.138,0.779,negative,The Red House Mystery
+"He settled accounts with the money-lenders, abandoned his crop of wild oats to the harvesting of others, and became in his turn a patron.",-0.4588,0.0,0.12,0.88,negative,The Red House Mystery
+He patronized the Arts.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"It was not only usurers who discovered that Mark Ablett no longer wrote for money; editors were now offered free contributions as well as free lunches; publishers were given agreements for an occasional slender volume, in which the author paid all expenses and waived all royalties; promising young painters and poets dined with him; and he even took a theatrical company on tour, playing host and ""lead"" with equal lavishness.",0.9022,0.192,0.028,0.78,positive,The Red House Mystery
+He was not what most people call a snob.,-0.5046,0.0,0.318,0.682,negative,The Red House Mystery
+"A snob has been defined carelessly as a man who loves a lord; and, more carefully, as a mean lover of mean things--which would be a little unkind to the peerage if the first definition were true.",0.699,0.272,0.165,0.563,positive,The Red House Mystery
+"Mark had his vanities undoubtedly, but he would sooner have met an actor-manager than an earl; he would have spoken of his friendship with Dante--had that been possible--more glibly than of his friendship with the Duke.",0.8271,0.185,0.0,0.815,positive,The Red House Mystery
+"Call him a snob if you like, but not the worst kind of snob; a hanger-on, but to the skirts of Art, not Society; a climber, but in the neighbourhood of Parnassus, not Hay Hill.",0.0493,0.154,0.149,0.697,neutral,The Red House Mystery
+His patronage did not stop at the Arts.,0.2235,0.212,0.0,0.788,positive,The Red House Mystery
+"It also included Matthew Cayley, a small cousin of thirteen, whose circumstances were as limited as had been Mark's own before his patron had rescued him.",0.2263,0.101,0.069,0.83,positive,The Red House Mystery
+He sent the Cayley cousin to school and Cambridge.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"His motives, no doubt, were unworldly enough at first; a mere repaying to his account in the Recording Angel's book of the generosity which had been lavished on himself; a laying-up of treasure in heaven.",0.6249,0.212,0.113,0.675,positive,The Red House Mystery
+"But it is probable that, as the boy grew up, Mark's designs for his future were based on his own interests as much as those of his cousin, and that a suitably educated Matthew Cayley of twenty-three was felt by him to be a useful property for a man in his position; a man, that is to say, whose vanities left him so little time for his affairs.",0.7469,0.093,0.0,0.907,positive,The Red House Mystery
+"Cayley, then, at twenty-three, looked after his cousin's affairs.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+By this time Mark had bought the Red House and the considerable amount of land which went with it.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Cayley superintended the necessary staff.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"His duties, indeed, were many.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He was not quite secretary, not quite land-agent, not quite business-adviser, not quite companion, but something of all four.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Mark leant upon him and called him ""Cay,"" objecting quite rightly in the circumstances to the name of Matthew.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Cay, he felt was, above all, dependable; a big, heavy-jawed, solid fellow, who didn't bother you with unnecessary talk--a boon to a man who liked to do most of the talking himself.",0.6636,0.192,0.0,0.808,positive,The Red House Mystery
+"Cayley was now twenty-eight, but had all the appearance of forty, which was his patron's age.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Spasmodically they entertained a good deal at the Red House, and Mark's preference--call it kindliness or vanity, as you please--was for guests who were not in a position to repay his hospitality.",0.5719,0.162,0.055,0.783,positive,The Red House Mystery
+"Let us have a look at them as they came down to that breakfast, of which Stevens, the parlour-maid, has already given us a glimpse.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The first to appear was Major Rumbold, a tall, grey-haired, grey-moustached, silent man, wearing a Norfolk coat and grey flannel trousers, who lived on his retired pay and wrote natural history articles for the papers.",0.3182,0.105,0.04,0.855,positive,The Red House Mystery
+"He inspected the dishes on the side-table, decided carefully on kedgeree, and got to work on it.",0.128,0.086,0.0,0.914,positive,The Red House Mystery
+He had passed on to a sausage by the time of the next arrival.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"This was Bill Beverly, a cheerful young man in white flannel trousers and a blazer.",0.5423,0.226,0.0,0.774,positive,The Red House Mystery
+"""Hallo, Major,"" he said as he came in, ""how's the gout?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""It isn't gout,"" said the Major gruffly.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, whatever it is.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+The Major grunted.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I make a point of being polite at breakfast,"" said Bill, helping himself largely to porridge.",0.296,0.136,0.0,0.864,positive,The Red House Mystery
+"""Most people are so rude.",-0.5949,0.0,0.491,0.509,negative,The Red House Mystery
+That's why I asked you.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+But don't tell me if it's a secret.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Coffee?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"he added, as he poured himself out a cup.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""No, thanks.",0.4404,0.744,0.0,0.256,positive,The Red House Mystery
+"I never drink till I've finished eating.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Quite right, Major; it's only manners.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He sat down opposite to the other.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, we've got a good day for our game.",0.4404,0.293,0.0,0.707,positive,The Red House Mystery
+"It's going to be dashed hot, but that's where Betty and I score.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"On the fifth green, your old wound, the one you got in that frontier skirmish in '43, will begin to trouble you; on the eighth, your liver, undermined by years of curry, will drop to pieces; on the twelfth--"" ""Oh, shut up, you ass!""",-0.7644,0.0,0.156,0.844,negative,The Red House Mystery
+"""Well, I'm only warning you.",-0.34,0.0,0.375,0.625,negative,The Red House Mystery
+"Hallo; good morning, Miss Norris.",0.3182,0.387,0.213,0.4,positive,The Red House Mystery
+I was just telling the Major what was going to happen to you and him this morning.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Do you want any assistance, or do you prefer choosing your own breakfast?""",0.0772,0.098,0.0,0.902,positive,The Red House Mystery
+"""Please don't get up,"" said Miss Norris.",0.1779,0.258,0.18,0.562,positive,The Red House Mystery
+"""I'll help myself.",0.4019,0.574,0.0,0.426,positive,The Red House Mystery
+"Good morning, Major.""",0.4404,0.592,0.0,0.408,positive,The Red House Mystery
+She smiled pleasantly at him.,0.765,0.688,0.0,0.312,positive,The Red House Mystery
+The Major nodded.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Good morning.",0.4404,0.744,0.0,0.256,positive,The Red House Mystery
+"Going to be hot.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""As I was telling him,"" began Bill, ""that's where--Hallo, here's Betty.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Morning, Cayley.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Betty Calladine and Cayley had come in together.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Betty was the eighteen-year-old daughter of Mrs. John Calladine, widow of the painter, who was acting hostess on this occasion for Mark.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Ruth Norris took herself seriously as an actress and, on her holidays, seriously as a golfer.",0.0516,0.144,0.189,0.667,positive,The Red House Mystery
+She was quite competent as either.,0.3804,0.341,0.0,0.659,positive,The Red House Mystery
+Neither the Stage Society nor Sandwich had any terrors for her.,-0.5574,0.0,0.265,0.735,negative,The Red House Mystery
+"""By the way, the car will be round at 10.30,"" said Cayley, looking up from his letters.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""You're lunching there, and driving back directly afterwards.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Isn't that right?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I don't see why we shouldn't have--two rounds,"" said Bill hopefully.",0.4019,0.213,0.0,0.787,positive,The Red House Mystery
+"""Much too hot in the afternoon,"" said the Major.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Get back comfortably for tea.""",0.4215,0.412,0.0,0.588,positive,The Red House Mystery
+Mark came in.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He was generally the last.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He greeted them and sat down to toast and tea.,0.2732,0.189,0.0,0.811,positive,The Red House Mystery
+Breakfast was not his meal.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+The others chattered gently while he read his letters.,0.4588,0.273,0.0,0.727,positive,The Red House Mystery
+"""Good God!""",0.4926,0.761,0.0,0.239,positive,The Red House Mystery
+said Mark suddenly.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+There was an instinctive turning of heads towards him.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I beg your pardon, Miss Norris.",0.1779,0.291,0.203,0.506,positive,The Red House Mystery
+"Sorry, Betty.""",-0.0772,0.0,0.565,0.435,negative,The Red House Mystery
+Miss Norris smiled her forgiveness.,0.6124,0.609,0.174,0.217,positive,The Red House Mystery
+"She often wanted to say it herself, particularly at rehearsals.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I say, Cay!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He was frowning to himself--annoyed, puzzled.",-0.4767,0.0,0.506,0.494,negative,The Red House Mystery
+He held up a letter and shook it.,-0.1027,0.0,0.189,0.811,negative,The Red House Mystery
+"""Who do you think this is from?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Cayley, at the other end of the table, shrugged his shoulders.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+How could he possibly guess?,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Robert,"" said Mark.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Robert?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+It was difficult to surprise Cayley.,-0.1027,0.244,0.291,0.465,negative,The Red House Mystery
+"""Well?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""It's all very well to say 'well?'",0.3384,0.285,0.0,0.715,positive,The Red House Mystery
+"like that,"" said Mark peevishly.",0.3612,0.385,0.0,0.615,positive,The Red House Mystery
+"""He's coming here this afternoon.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I thought he was in Australia, or somewhere.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Of course.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"So did I.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He looked across at Rumbold.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Got any brothers, Major?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""No.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, take my advice, and don't have any.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Not likely to now,"" said the Major.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Bill laughed.,0.4588,0.75,0.0,0.25,positive,The Red House Mystery
+"Miss Norris said politely: ""But you haven't any brothers, Mr.",-0.0772,0.0,0.126,0.874,negative,The Red House Mystery
+"Ablett?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""One,"" said Mark grimly.",-0.3182,0.0,0.434,0.566,negative,The Red House Mystery
+"""If you're back in time you'll see him this afternoon.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He'll probably ask you to lend him five pounds.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Don't.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Everybody felt a little uncomfortable.,-0.3197,0.0,0.435,0.565,negative,The Red House Mystery
+"""I've got a brother,"" said Bill helpfully, ""but I always borrow from him .""",0.2846,0.163,0.0,0.837,positive,The Red House Mystery
+"""Like Robert,"" said Mark.",0.3612,0.455,0.0,0.545,positive,The Red House Mystery
+"""When was he in England last?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+asked Cayley.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""About fifteen years ago, wasn't it?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"You'd have been a boy, of course.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Yes, I remember seeing him once about then, but I didn't know if he had been back since.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""No.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Not to my knowledge.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Mark, still obviously upset, returned to his letter.",-0.3818,0.0,0.271,0.729,negative,The Red House Mystery
+"""Personally,"" said Bill, ""I think relations are a great mistake.""",0.6249,0.339,0.0,0.661,positive,The Red House Mystery
+"""All the same,"" said Betty a little daringly, ""it must be rather fun having a skeleton in the cupboard.""",0.7275,0.289,0.0,0.711,positive,The Red House Mystery
+"Mark looked up, frowning.",-0.34,0.0,0.444,0.556,negative,The Red House Mystery
+"""If you think it's fun, I'll hand him over to you, Betty.",0.7579,0.394,0.0,0.606,positive,The Red House Mystery
+"If he's anything like he used to be, and like his few letters have been--well, Cay knows.""",0.6124,0.25,0.0,0.75,positive,The Red House Mystery
+Cayley grunted.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""All I knew was that one didn't ask questions about him.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"It may have been meant as a hint to any too curious guest not to ask more questions, or a reminder to his host not to talk too freely in front of strangers, although he gave it the sound of a mere statement of fact.",0.6369,0.115,0.0,0.885,positive,The Red House Mystery
+"But the subject dropped, to be succeeded by the more fascinating one of the coming foursome.",0.8717,0.388,0.0,0.612,positive,The Red House Mystery
+"Mrs. Calladine was driving over with the players in order to lunch with an old friend who lived near the links, and Mark and Cayley were remaining at home--on affairs.",0.4939,0.099,0.0,0.901,positive,The Red House Mystery
+"Apparently ""affairs"" were now to include a prodigal brother.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+But that need not make the foursome less enjoyable.,0.5284,0.299,0.0,0.701,positive,The Red House Mystery
+"At about the time when the Major (for whatever reasons) was fluffing his tee-shot at the sixteenth, and Mark and his cousin were at their business at the Red House, an attractive gentleman of the name of Antony Gillingham was handing up his ticket at Woodham station and asking the way to the village.",0.4404,0.052,0.0,0.948,positive,The Red House Mystery
+"Having received directions, he left his bag with the station-master and walked off leisurely.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He is an important person to this story, so that it is as well we should know something about him before letting him loose in it.",0.1531,0.134,0.079,0.788,positive,The Red House Mystery
+"Let us stop him at the top of the hill on some excuse, and have a good look at him.",0.4215,0.259,0.095,0.647,positive,The Red House Mystery
+The first thing we realize is that he is doing more of the looking than we are.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Above a clean-cut, clean-shaven face, of the type usually associated with the Navy, he carries a pair of grey eyes which seem to be absorbing every detail of our person.",0.0516,0.043,0.0,0.957,positive,The Red House Mystery
+"To strangers this look is almost alarming at first, until they discover that his mind is very often elsewhere; that he has, so to speak, left his eyes on guard, while he himself follows a train of thought in another direction.",-0.0534,0.0,0.03,0.97,negative,The Red House Mystery
+"Many people do this, of course; when, for instance, they are talking to one person and trying to listen to another; but their eyes betray them.",-0.7783,0.0,0.188,0.812,negative,The Red House Mystery
+Antony's never did.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He had seen a good deal of the world with those eyes, though never as a sailor.",0.4404,0.172,0.0,0.828,positive,The Red House Mystery
+"When at the age of twenty-one he came into his mother's money, £400 a year, old Gillingham looked up from the ""Stockbreeders' Gazette"" to ask what he was going to do.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""See the world,"" said Antony.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, send me a line from America, or wherever you get to.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Right,"" said Antony.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Old Gillingham returned to his paper.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Antony was a younger son, and, on the whole, not so interesting to his father as the cadets of certain other families; Champion Birket's, for instance.",0.4865,0.195,0.092,0.713,positive,The Red House Mystery
+"But, then, Champion Birket was the best Hereford bull he had ever bred.",0.9209,0.503,0.0,0.497,positive,The Red House Mystery
+"Antony, however, had no intention of going further away than London.",-0.296,0.0,0.18,0.82,negative,The Red House Mystery
+"His idea of seeing the world was to see, not countries, but people; and to see them from as many angles as possible.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+There are all sorts in London if you know how to look at them.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"So Antony looked at them--from various strange corners; from the view-point of the valet, the newspaper-reporter, the waiter, the shop-assistant.",-0.2023,0.0,0.087,0.913,negative,The Red House Mystery
+"With the independence of £400 a year behind him, he enjoyed it immensely.",0.5106,0.231,0.0,0.769,positive,The Red House Mystery
+"He never stayed long in one job, and generally closed his connection with it by telling his employer (contrary to all etiquette as understood between master and servant) exactly what he thought of him.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He had no difficulty in finding a new profession.,-0.5574,0.0,0.434,0.566,negative,The Red House Mystery
+Instead of experience and testimonials he offered his personality and a sporting bet.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He would take no wages the first month, and--if he satisfied his employer--double wages the second.",0.1531,0.147,0.116,0.737,positive,The Red House Mystery
+He always got his double wages.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He was now thirty.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He had come to Woodham for a holiday, because he liked the look of the station.",0.6705,0.297,0.0,0.703,positive,The Red House Mystery
+"His ticket entitled him to travel further, but he had always intended to please himself in the matter.",0.5647,0.274,0.0,0.726,positive,The Red House Mystery
+"Woodham attracted him, and he had a suit-case in the carriage with him and money in his pocket.",0.4215,0.149,0.0,0.851,positive,The Red House Mystery
+Why not get out?,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The landlady of 'The George' was only too glad to put him up, and promised that her husband would drive over that afternoon for his luggage.",0.6705,0.186,0.0,0.814,positive,The Red House Mystery
+"""And you would like some lunch, I expect, sir.""",0.3612,0.263,0.0,0.737,positive,The Red House Mystery
+"""Yes, but don't give yourself any trouble about it.",-0.5499,0.0,0.307,0.693,negative,The Red House Mystery
+"Cold anything-you've-got.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""What about beef, sir?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"she asked, as if she had a hundred varieties of meat to select from, and was offering him her best.",0.6369,0.189,0.0,0.811,positive,The Red House Mystery
+"""That will do splendidly.",0.4767,0.508,0.0,0.492,positive,The Red House Mystery
+"And a pint of beer.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"While he was finishing his lunch, the landlord came in to ask about the luggage.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Antony ordered another pint, and soon had him talking.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""It must be rather fun to keep a country inn,"" he said, thinking that it was about time he started another profession.",0.5106,0.142,0.0,0.858,positive,The Red House Mystery
+"""I don't know about fun, sir.",-0.4023,0.0,0.351,0.649,negative,The Red House Mystery
+"It gives us a living, and a bit over.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""You ought to take a holiday,"" said Antony, looking at him thoughtfully.",0.4019,0.213,0.0,0.787,positive,The Red House Mystery
+"""Funny thing your saying that,"" said the landlord, with a smile.",0.6597,0.403,0.0,0.597,positive,The Red House Mystery
+"""Another gentleman, over from the Red House, was saying that only yesterday.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Offered to take my place an all.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He laughed rumblingly.,0.4588,0.6,0.0,0.4,positive,The Red House Mystery
+"""The Red House?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Not the Red House, Stanton?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""That's right, sir.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Stanton's the next station to Woodham.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+The Red House is about a mile from here--Mr.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Ablett's.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Antony took a letter from his pocket.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"It was addressed from ""The Red House, Stanton,"" and signed ""Bill.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Good old Bill,"" he murmured to himself.",0.4404,0.326,0.0,0.674,positive,The Red House Mystery
+"""He's getting on.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Antony had met Bill Beverley two years before in a tobacconist's shop.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Gillingham was on one side of the counter and Mr. Beverley on the other.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Something about Bill, his youth and freshness, perhaps, attracted Antony; and when cigarettes had been ordered, and an address given to which they were to be sent, he remembered that he had come across an aunt of Beverley's once at a country-house.",0.4215,0.065,0.0,0.935,positive,The Red House Mystery
+Beverley and he met again a little later at a restaurant.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Both of them were in evening-dress, but they did different things with their napkins, and Antony was the more polite of the two.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"However, he still liked Bill.",0.4215,0.412,0.0,0.588,positive,The Red House Mystery
+"So on one of his holidays, when he was unemployed, he arranged an introduction through a mutual friend.",0.7003,0.279,0.0,0.721,positive,The Red House Mystery
+"Beverley was a little inclined to be shocked when he was reminded of their previous meetings, but his uncomfortable feeling soon wore off, and he and Antony quickly became intimate.",-0.5106,0.053,0.154,0.793,negative,The Red House Mystery
+"But Bill generally addressed him as ""Dear Madman"" when he happened to write.",0.5267,0.221,0.0,0.779,positive,The Red House Mystery
+Antony decided to stroll over to the Red House after lunch and call upon his friend.,0.4939,0.176,0.0,0.824,positive,The Red House Mystery
+"Having inspected his bedroom which was not quite the lavender-smelling country-inn bedroom of fiction, but sufficiently clean and comfortable, he set out over the fields.",0.8402,0.258,0.0,0.742,positive,The Red House Mystery
+"As he came down the drive and approached the old red-brick front of the house, there was a lazy murmur of bees in the flower-borders, a gentle cooing of pigeons in the tops of the elms, and from distant lawns the whir of a mowing-machine, that most restful of all country sounds.... And in the hall a man was banging at a locked door, and shouting, ""Open the door , I say; open the door! """,0.7773,0.123,0.033,0.844,positive,The Red House Mystery
+"""Hallo!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+said Antony in amazement.,0.5423,0.538,0.0,0.462,positive,The Red House Mystery
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Two Men and a Body Cayley looked round suddenly at the voice.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Can I help?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+said Antony politely.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Something's happened,"" said Cayley.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He was breathing quickly.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I heard a shot--it sounded like a shot--I was in the library.",0.3612,0.217,0.0,0.783,positive,The Red House Mystery
+A loud bang--I didn't know what it was.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"And the door's locked.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He rattled the handle again, and shook it.",-0.1027,0.0,0.167,0.833,negative,The Red House Mystery
+"""Open the door! """,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+he cried.,-0.3818,0.0,0.722,0.278,negative,The Red House Mystery
+"""I say, Mark, what is it?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Open the door!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""But he must have locked the door on purpose,"" said Antony.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""So why should he open it just because you ask him to?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Cayley looked at him in a bewildered way.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Then he turned to the door again.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""We must break it in,"" he said, putting his shoulder to it.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Help me.""",0.4019,0.73,0.0,0.27,positive,The Red House Mystery
+"""Isn't there a window?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Cayley turned to him stupidly.,-0.4588,0.0,0.429,0.571,negative,The Red House Mystery
+"""Window?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Window?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""So much easier to break in a window,"" said Antony with a smile.",0.6786,0.383,0.0,0.617,positive,The Red House Mystery
+"He looked very cool and collected, as he stood just inside the hall, leaning on his stick, and thinking, no doubt, that a great deal of fuss was being made about nothing.",0.4576,0.174,0.122,0.703,positive,The Red House Mystery
+"But then, he had not heard the shot.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Window--of course!",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"What an idiot I am.""",-0.5106,0.0,0.524,0.476,negative,The Red House Mystery
+"He pushed past Antony, and began running out into the drive.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Antony followed him.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"They ran along the front of the house, down a path to the left, and then to the left again over the grass, Cayley in front, the other close behind him.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Suddenly Cayley looked over his shoulder and pulled up short.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Here,"" he said.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"They had come to the windows of the locked room, French windows which opened on to the lawns at the back of the house.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+But now they were closed.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Antony couldn't help feeling a thrill of excitement as he followed Cayley's example, and put his face close up to the glass.",-0.1376,0.123,0.221,0.655,negative,The Red House Mystery
+For the first time he wondered if there really had been a revolver shot in this mysterious room.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+It had all seemed so absurd and melodramatic from the other side of the door.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"But if there had been one shot, why should there not be two more?--at the careless fools who were pressing their noses against the panes, and asking for it.",-0.8201,0.0,0.219,0.781,negative,The Red House Mystery
+"""My God, can you see it?""",0.2732,0.296,0.0,0.704,positive,The Red House Mystery
+said Cayley in a shaking voice.,-0.1779,0.0,0.298,0.702,negative,The Red House Mystery
+"""Down there.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Look!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+The next moment Antony saw it.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"A man was lying on the floor at the far end of the room, his back towards them.",-0.5267,0.0,0.175,0.825,negative,The Red House Mystery
+A man?,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Or the body of a man?,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Who is it?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+said Antony.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I don't know,"" the other whispered.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, we'd better go and see.""",0.4404,0.367,0.0,0.633,positive,The Red House Mystery
+He considered the windows for a moment.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I should think, if you put your weight into it, just where they join, they'll give all right.",0.296,0.115,0.0,0.885,positive,The Red House Mystery
+"Otherwise, we can kick the glass in.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Without saying anything, Cayley put his weight into it.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The window gave, and they went into the room.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Cayley walked quickly to the body, and dropped on his knees by it.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+For the moment he seemed to hesitate; then with an effort he put a hand on to its shoulder and pulled it over.,0.2732,0.126,0.083,0.791,positive,The Red House Mystery
+"""Thank God!""",0.4199,0.736,0.0,0.264,positive,The Red House Mystery
+"he murmured, and let the body go again.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Who is it?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+said Antony.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Robert Ablett.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Oh!""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+said Antony.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I thought his name was Mark,"" he added, more to himself than to the other.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Yes, Mark Ablett lives here.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Robert is his brother.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He shuddered, and said, ""I was afraid it was Mark.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Was Mark in the room too?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Yes,"" said Cayley absently.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Then, as if resenting suddenly these questions from a stranger, ""Who are you?""",-0.296,0.0,0.167,0.833,negative,The Red House Mystery
+"But Antony had gone to the locked door, and was turning the handle.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I suppose he put the key in his pocket,"" he said, as he came back to the body again.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Who?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Antony shrugged his shoulders.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Whoever did this,"" he said, pointing to the man on the floor.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Is he dead?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Help me,"" said Cayley simply.",0.4019,0.403,0.0,0.597,positive,The Red House Mystery
+"They turned the body on to its back, nerving themselves to look at it.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Robert Ablett had been shot between the eyes.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"It was not a pleasant sight, and with his horror Antony felt a sudden pity for the man beside him, and a sudden remorse for the careless, easy way in which he had treated the affair.",-0.852,0.067,0.306,0.626,negative,The Red House Mystery
+But then one always went about imagining that these things didn't happen--except to other people.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"It was difficult to believe in them just at first, when they happened to yourself.",-0.3612,0.0,0.152,0.848,negative,The Red House Mystery
+"""Did you know him well?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+said Antony quietly.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He meant, ""Were you fond of him?""",0.4404,0.326,0.0,0.674,positive,The Red House Mystery
+"""Hardly at all.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Mark is my cousin.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I mean, Mark is the brother I know best.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Your cousin?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Yes.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He hesitated, and then said, ""Is he dead?",-0.765,0.0,0.524,0.476,negative,The Red House Mystery
+I suppose he is.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Will you--do you know anything about--about that sort of thing?,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Perhaps I'd better get some water.""",0.4404,0.367,0.0,0.633,positive,The Red House Mystery
+"There was another door opposite to the locked one, which led, as Antony was to discover for himself directly, into a passage from which opened two more rooms.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Cayley stepped into the passage, and opened the door on the right.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The door from the office, through which he had gone, remained open.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The door, at the end of the short passage was shut.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Antony, kneeling by the body, followed Cayley with his eyes, and, after he had disappeared, kept his eyes on the blank wall of the passage, but he was not conscious of that at which he was looking, for his mind was with the other man, sympathizing with him.",-0.1154,0.0,0.03,0.97,negative,The Red House Mystery
+"""Not that water is any use to a dead body,"" he said to himself, ""but the feeling that you're doing something, when there's obviously nothing to be done, is a great comfort.""",0.6956,0.2,0.072,0.729,positive,The Red House Mystery
+Cayley came into the room again.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He had a sponge in one hand, a handkerchief in the other.",0.4939,0.262,0.0,0.738,positive,The Red House Mystery
+He looked at Antony.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Antony nodded.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Cayley murmured something, and knelt down to bathe the dead man's face.",-0.6486,0.0,0.281,0.719,negative,The Red House Mystery
+Then he placed the handkerchief over it.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"A little sigh escaped Antony, a sigh of relief.",0.4047,0.327,0.252,0.422,positive,The Red House Mystery
+They stood up and looked at each other.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""If I can be of any help to you,"" said Antony, ""please let me.""",0.6124,0.312,0.0,0.688,positive,The Red House Mystery
+"""That's very kind of you.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+There will be things to do.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Police, doctors--I don't know.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+But you mustn't let me trespass on your kindness.,0.6124,0.333,0.0,0.667,positive,The Red House Mystery
+"Indeed, I should apologise for having trespassed so much already.""",0.3818,0.245,0.0,0.755,positive,The Red House Mystery
+"""I came to see Beverley.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He is an old friend of mine.""",0.4939,0.348,0.0,0.652,positive,The Red House Mystery
+"""He's out playing golf.",0.2023,0.375,0.0,0.625,positive,The Red House Mystery
+"He will be back directly.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Then, as if he had only just realized it, ""They will all be back directly.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I will stay if I can be of any help.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Please do.",0.3182,0.697,0.0,0.303,positive,The Red House Mystery
+"You see, there are women.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+It will be rather painful.,-0.4404,0.0,0.42,0.58,negative,The Red House Mystery
+"If you would--"" He hesitated, and gave Antony a timid little smile, pathetic in so big and self-reliant a man.",-0.672,0.092,0.323,0.585,negative,The Red House Mystery
+"""Just your moral support, you know.",0.4019,0.351,0.0,0.649,positive,The Red House Mystery
+"It would be something.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Of course.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Antony smiled back at him, and said cheerfully, ""Well, then, I'll begin by suggesting that you should ring up the police.""",0.765,0.258,0.0,0.742,positive,The Red House Mystery
+"""The police?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Y-yes.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He looked doubtfully at the other.,-0.296,0.0,0.306,0.694,negative,The Red House Mystery
+"""I suppose--"" Antony spoke frankly.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Now, look here, Mr.--er--"" ""Cayley.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+I'm Mark Ablett's cousin.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I live with him.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""My name's Gillingham.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I'm sorry, I ought to have told you before.",-0.0772,0.0,0.157,0.843,negative,The Red House Mystery
+"Well now, Mr. Cayley, we shan't do any good by pretending.",0.0243,0.252,0.173,0.575,neutral,The Red House Mystery
+"Here's a man been shot--well, somebody shot him.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""He might have shot himself,"" mumbled Cayley.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Yes, he might have, but he didn't.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Or if he did, somebody was in the room at the time, and that somebody isn't here now.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+And that somebody took a revolver away with him.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Well, the police will want to say a word about that, won't they?""",0.34,0.254,0.0,0.746,positive,The Red House Mystery
+"Cayley was silent, looking on the ground.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Oh, I know what you're thinking, and believe me I do sympathize with you, but we can't be children about it.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"If your cousin Mark Ablett was in the room with this""--he indicated the body--""this man, then--"" ""Who said he was?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"said Cayley, jerking his head up suddenly at Antony.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""You did.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I was in the library.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Mark went in--he may have come out again--I know nothing.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Somebody else may have gone in--"" ""Yes, yes,"" said Antony patiently, as if to a little child.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""You know your cousin; I don't.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Let's agree that he had nothing to do with it.,0.3612,0.217,0.0,0.783,positive,The Red House Mystery
+"But somebody was in the room when this man was shot, and--well, the police will have to know.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Don't you think--"" He looked at the telephone.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Or would you rather I did it?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Cayley shrugged his shoulders and went to the telephone.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""May I--er--look round a bit?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Antony nodded towards the open door.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Oh, do.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Yes.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He sat down and drew the telephone towards him.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""You must make allowances for me, Mr. Gillingham.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"You see, I've known Mark for a very long time.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"But, of course, you're quite right, and I'm merely being stupid.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He took off the receiver.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Let us suppose that, for the purpose of making a first acquaintance with this ""office,"" we are coming into it from the hall, through the door which is now locked, but which, for our special convenience, has been magically unlocked for us.",0.5499,0.082,0.0,0.918,positive,The Red House Mystery
+"As we stand just inside the door, the length of the room runs right and left; or, more accurately, to the right only, for the left-hand wall is almost within our reach.",-0.0422,0.0,0.036,0.964,neutral,The Red House Mystery
+"Immediately opposite to us, across the breadth of the room (some fifteen feet), is that other door, by which Cayley went out and returned a few minutes ago.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"In the right-hand wall, thirty feet away from us, are the French windows.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Crossing the room and going out by the opposite door, we come into a passage, from which two rooms lead.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The one on the right, into which Cayley went, is less than half the length of the office, a small, square room, which has evidently been used some time or other as a bedroom.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The bed is no longer there, but there is a basin, with hot and cold taps, in a corner; chairs; a cupboard or two, and a chest of drawers.",-0.1531,0.0,0.062,0.938,negative,The Red House Mystery
+"The window faces the same way as the French windows in the next room; but anybody looking out of the bedroom window has his view on the immediate right shut off by the outer wall of the office, which projects, by reason of its greater length, fifteen feet further into the lawn.",0.5023,0.06,0.0,0.94,positive,The Red House Mystery
+The room on the other side of the bedroom is a bathroom.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The three rooms together, in fact, form a sort of private suite; used, perhaps, during the occupation of the previous owner, by some invalid, who could not manage the stairs, but allowed by Mark to fall into disuse, save for the living-room.",0.6486,0.097,0.0,0.903,positive,The Red House Mystery
+"At any rate, he never slept downstairs.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Antony glanced at the bathroom, and then wandered into the bedroom, the room into which Cayley had been.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The window was open, and he looked out at the well-kept grass beneath him, and the peaceful stretch of park beyond; and he felt very sorry for the owner of it all, who was now mixed up in so grim a business.",-0.4826,0.067,0.133,0.799,negative,The Red House Mystery
+"""Cayley thinks he did it,"" said Antony to himself.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""That's obvious.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+It explains why he wasted so much time banging on the door.,-0.4939,0.0,0.225,0.775,negative,The Red House Mystery
+Why should he try to break a lock when it's so much easier to break a window?,0.4728,0.18,0.0,0.82,positive,The Red House Mystery
+"Of course he might just have lost his head; on the other hand, he might--well, he might have wanted to give his cousin a chance of getting away.",0.4404,0.165,0.073,0.762,positive,The Red House Mystery
+"The same about the police, and--oh, lots of things.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Why, for instance, did we run all the way round the house in order to get to the windows?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Surely there's a back way out through the hall.,0.4404,0.293,0.0,0.707,positive,The Red House Mystery
+"I must have a look later on.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Antony, it will be observed, had by no means lost his head.",-0.5423,0.0,0.31,0.69,negative,The Red House Mystery
+"There was a step in the passage outside, and he turned round, to see Cayley in the doorway.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He remained looking at him for a moment, asking himself a question.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+It was rather a curious question.,0.3182,0.365,0.0,0.635,positive,The Red House Mystery
+He was asking himself why the door was open.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Well, not exactly why the door was open; that could be explained easily enough.",0.5423,0.273,0.0,0.727,positive,The Red House Mystery
+But why had he expected the door to be shut?,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He did not remember shutting it, but somehow he was surprised to see it open now, to see Cayley through the doorway, just coming into the room.",0.3291,0.083,0.0,0.917,positive,The Red House Mystery
+Something working sub-consciously in his brain had told him that it was surprising.,0.2732,0.149,0.0,0.851,positive,The Red House Mystery
+Why?,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He tucked the matter away in a corner of his mind for the moment; the answer would come to him later on.,0.0258,0.052,0.0,0.948,neutral,The Red House Mystery
+He had a wonderfully retentive mind.,0.5994,0.494,0.0,0.506,positive,The Red House Mystery
+Everything which he saw or heard seemed to make its corresponding impression somewhere in his brain; often without his being conscious of it; and these photographic impressions were always there ready for him when he wished to develop them.,0.6486,0.149,0.0,0.851,positive,The Red House Mystery
+Cayley joined him at the window.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I've telephoned,"" he said.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""They're sending an inspector or some one from Middleston, and the local police and doctor from Stanton.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He shrugged his shoulders.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""We're in for it now.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""How far away is Middleston?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+It was the town for which Antony had taken a ticket that morning--only six hours ago.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+How absurd it seemed.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""About twenty miles.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"These people will be coming back soon.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Beverley, and the others?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Yes.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I expect they'll want to go away at once.""",0.0772,0.157,0.0,0.843,positive,The Red House Mystery
+"""Much better that they should.""",0.4404,0.42,0.0,0.58,positive,The Red House Mystery
+"""Yes.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Cayley was silent for a little.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Then he said, ""You're staying near here?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I'm at 'The George,' at Woodham.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""If you're by yourself, I wish you'd put up here.",0.4019,0.252,0.0,0.748,positive,The Red House Mystery
+"You see,"" he went on awkwardly, ""you'll have to be here--for the--the inquest and--and so on.",-0.3182,0.0,0.133,0.867,negative,The Red House Mystery
+"If I may offer you my cousin's hospitality in his--I mean if he doesn't--if he really has--"" Antony broke in hastily with his thanks and acceptance.",0.4284,0.191,0.099,0.711,positive,The Red House Mystery
+"""That's good.",0.4404,0.744,0.0,0.256,positive,The Red House Mystery
+"Perhaps Beverley will stay on, if he's a friend of yours.",0.4939,0.262,0.0,0.738,positive,The Red House Mystery
+"He's a good fellow.""",0.4404,0.592,0.0,0.408,positive,The Red House Mystery
+"Antony felt quite sure, from what Cayley had said and had hesitated to say, that Mark had been the last to see his brother alive.",0.4391,0.176,0.078,0.746,positive,The Red House Mystery
+It didn't follow that Mark Ablett was a murderer.,-0.6808,0.0,0.397,0.603,negative,The Red House Mystery
+"Revolvers go off accidentally; and when they have gone off, people lose their heads and run away, fearing that their story will not be believed.",-0.8316,0.0,0.286,0.714,negative,The Red House Mystery
+"Nevertheless, when people run away, whether innocently or guiltily, one can't help wondering which way they went.",-0.2401,0.116,0.21,0.674,negative,The Red House Mystery
+"""I suppose this way,"" said Antony aloud, looking out of the window.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Who?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+said Cayley stubbornly.,-0.34,0.0,0.545,0.455,negative,The Red House Mystery
+"""Well, whoever it was,"" said Antony, smiling to himself.",0.4588,0.273,0.0,0.727,positive,The Red House Mystery
+"""The murderer.",-0.6808,0.0,0.821,0.179,negative,The Red House Mystery
+"Or, let us say, the man who locked the door after Robert Ablett was killed.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I wonder.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, how else could he have got away?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He didn't go by the windows in the next room, because they were shut.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Isn't that rather odd?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Well, I thought so at first, but--"" He pointed to the wall jutting out on the right.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""You see, you're protected from the rest of the house if you get out here, and you're quite close to the shrubbery.",0.4404,0.121,0.0,0.879,positive,The Red House Mystery
+"If you go out at the French windows, I imagine you're much more visible.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"All that part of the house--"" he waved his right hand--""the west, well, north-west almost, where the kitchen parts are--you see, you're hidden from them here.",0.2732,0.077,0.0,0.923,positive,The Red House Mystery
+"Oh, yes!",0.4574,0.749,0.0,0.251,positive,The Red House Mystery
+"he knew the house, whoever it was, and he was quite right to come out of this window.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He'd be into the shrubbery at once.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Cayley looked at him thoughtfully.,0.4019,0.403,0.0,0.597,positive,The Red House Mystery
+"""It seems to me, Mr. Gillingham, that you know the house pretty well, considering that this is the first time you've been to it.""",0.6486,0.194,0.0,0.806,positive,The Red House Mystery
+Antony laughed.,0.4588,0.75,0.0,0.25,positive,The Red House Mystery
+"""Oh, well, I notice things, you know.",0.2732,0.296,0.0,0.704,positive,The Red House Mystery
+I was born noticing.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"But I'm right, aren't I, about why he went out this way?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Yes, I think you are.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Cayley looked away--towards the shrubbery.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Do you want to go noticing in there now?""",0.0772,0.14,0.0,0.86,positive,The Red House Mystery
+He nodded at it.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""I think we might leave that to the police,"" said Antony gently.",0.4215,0.211,0.085,0.704,positive,The Red House Mystery
+"""It's--well, there's no hurry.""",-0.296,0.0,0.423,0.577,negative,The Red House Mystery
+"Cayley gave a little sigh, as if he had been holding his breath for the answer, and could now breathe again.",-0.0498,0.0,0.059,0.941,neutral,The Red House Mystery
+"""Thank you, Mr. Gillingham,"" he said.",0.3612,0.333,0.0,0.667,positive,The Red House Mystery
+CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+The Brother from Australia Guests at the Red House were allowed to do what they liked within reason--the reasonableness or otherwise of it being decided by Mark.,0.4215,0.097,0.0,0.903,positive,The Red House Mystery
+"But when once they (or Mark) had made up their minds as to what they wanted to do, the plan had to be kept.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Mrs. Calladine, who knew this little weakness of their host's, resisted, therefore, the suggestion of Bill that they should have a second round in the afternoon, and drive home comfortably after tea.",0.0754,0.082,0.073,0.845,positive,The Red House Mystery
+"The other golfers were willing enough, but Mrs. Calladine, without actually saying that Mr. Ablett wouldn't like it, was firm on the point that, having arranged to be back by four, they should be back by four.",-0.395,0.0,0.069,0.931,negative,The Red House Mystery
+"""I really don't think Mark wants us, you know,"" said the Major.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Having played badly in the morning, he wanted to prove to himself in the afternoon that he was really better than that.",0.3597,0.202,0.112,0.686,positive,The Red House Mystery
+"""With this brother of his coming, he'll be only too glad to have us out of the way.""",0.4588,0.15,0.0,0.85,positive,The Red House Mystery
+"""Of course he will, Major.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+This from Bill.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""You'd like to play, wouldn't you, Miss Norris?""",0.6535,0.559,0.0,0.441,positive,The Red House Mystery
+Miss Norris looked doubtfully at the hostess.,-0.4215,0.0,0.432,0.568,negative,The Red House Mystery
+"""Of course, if you want to get back, dear, we mustn't keep you here.",0.4404,0.245,0.0,0.755,positive,The Red House Mystery
+"Besides, it's so dull for you, not playing.""",-0.541,0.0,0.333,0.667,negative,The Red House Mystery
+"""Just nine holes, mother,"" pleaded Betty.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""The car could take you back, and you could tell them that we were having another round, and then it could come back for us,"" said Bill brilliantly.",0.6124,0.129,0.0,0.871,positive,The Red House Mystery
+"""It's certainly much cooler here than I expected,"" put in the Major.",0.34,0.194,0.0,0.806,positive,The Red House Mystery
+Mrs. Calladine fell.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"It was very pleasantly cool outside the golf-house, and of course Mark would be rather glad to have them out of the way.",0.839,0.31,0.0,0.69,positive,The Red House Mystery
+"So she consented to nine holes; and the match having ended all-square, and everybody having played much better than in the morning, they drove back to the Red House, very well pleased with themselves.",0.8712,0.266,0.0,0.734,positive,The Red House Mystery
+"""Hallo,"" said Bill to himself, as they approached the house, ""isn't that old Tony?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Antony was standing in front of the house, waiting for them.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Bill waved, and he waved back.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Then as the car drew up, Bill, who was in front with the chauffeur, jumped down and greeted him eagerly.",0.5719,0.207,0.0,0.793,positive,The Red House Mystery
+"""Hallo, you madman, have you come to stay, or what?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He had a sudden idea. """,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"Don't say you're Mark Ablett's long-lost brother from Australia, though I could quite believe it of you.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He laughed boyishly.,0.4588,0.6,0.0,0.4,positive,The Red House Mystery
+"""Hallo, Bill,"" said Antony quietly.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Will you introduce me?",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I'm afraid I've got some bad news.""",-0.5423,0.0,0.368,0.632,negative,The Red House Mystery
+"Bill, rather sobered by this, introduced him.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"The Major and Mrs. Calladine were on the near side of the car, and Antony spoke to them in a low voice.",-0.2732,0.0,0.095,0.905,negative,The Red House Mystery
+"""I'm afraid I'm going to give you rather a shock,"" he said.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Robert Ablett, Mr. Mark Ablett's brother, has been killed.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+He jerked a thumb over his shoulder.,-0.2023,0.0,0.265,0.735,negative,The Red House Mystery
+"""In the house.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Good God!""",0.4926,0.761,0.0,0.239,positive,The Red House Mystery
+said the Major.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Do you mean that he has killed himself?""",-0.6705,0.0,0.391,0.609,negative,The Red House Mystery
+asked Mrs. Calladine.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""Just now?""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"""It was about two hours ago.",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"I happened to come here,""--he half-turned to Beverley and explained--""I was coming to see you , Bill, and I arrived just after the--the death.",-0.5994,0.0,0.163,0.837,negative,The Red House Mystery
+Mr. Cayley and I found the body.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Mr. Cayley being busy just now--there are police and doctors and so on in the house--he asked me to tell you.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He says that no doubt you would prefer, the house-party having been broken up in this tragic way, to leave as soon as possible.""",-0.8885,0.0,0.397,0.603,negative,The Red House Mystery
+"He gave a pleasant apologetic little smile and went on, ""I am putting it badly, but what he means, of course, is that you must consult your own feelings in the matter entirely, and please make your own arrangements about ordering the car for whatever train you wish to catch.",0.8303,0.208,0.036,0.756,positive,The Red House Mystery
+"There is one this evening, I understand, which you could go by if you wished it.""",0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+Bill gazed with open mouth at Antony.,0.0,0.0,0.0,1.0,neutral,The Red House Mystery
+"He had no words in his vocabulary to express what he wanted to say, other than those the Major had already used.",-0.296,0.0,0.095,0.905,negative,The Red House Mystery
+"Betty was leaning across to Miss Norris and saying, "" Who's killed?""",-0.1531,0.0,0.138,0.862,negative,The Red House Mystery
+"in an awe-struck voice, and Miss Norris, who was instinctively looking as tragic as she looked on the",-0.5574,0.0,0.223,0.777,negative,The Red House Mystery

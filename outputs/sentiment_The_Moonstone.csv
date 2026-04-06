@@ -1,0 +1,440 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Moonstone This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.07,0.109,0.821,negative,The Moonstone
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Moonstone
+"Title : The Moonstone Author : Wilkie Collins Release date : January 12, 2006 [eBook #155] Most recently updated: January 10, 2026 Language : English Other information and formats : www.gutenberg.org/ebooks/155 Credits : John Hamm and David Widger *** START OF THE PROJECT GUTENBERG EBOOK THE MOONSTONE *** THE MOONSTONE A Romance by Wilkie Collins Contents PROLOGUE THE STORY FIRST PERIOD CHAPTER I CHAPTER II CHAPTER III CHAPTER IV CHAPTER V CHAPTER VI CHAPTER VII CHAPTER VIII CHAPTER IX CHAPTER X CHAPTER XI CHAPTER XII CHAPTER XIII CHAPTER XIV CHAPTER XV CHAPTER XVI CHAPTER XVII CHAPTER XVIII CHAPTER XIX CHAPTER XX CHAPTER XXI CHAPTER XXII CHAPTER XXIII SECOND PERIOD FIRST NARRATIVE CHAPTER I CHAPTER II CHAPTER III CHAPTER IV CHAPTER V CHAPTER VI CHAPTER VII CHAPTER VIII SECOND NARRATIVE CHAPTER I CHAPTER II CHAPTER III THIRD NARRATIVE CHAPTER I CHAPTER II CHAPTER III CHAPTER IV CHAPTER V CHAPTER VI CHAPTER VII CHAPTER VIII CHAPTER IX CHAPTER X FOURTH NARRATIVE FIFTH NARRATIVE SIXTH NARRATIVE I II III IV V SEVENTH NARRATIVE EIGHTH NARRATIVE EPILOGUE I II III PROLOGUE THE STORMING OF SERINGAPATAM (1799): (Extracted from a Family Paper.)",0.7269,0.036,0.0,0.964,positive,The Moonstone
+I I address these lines--written in India--to my relatives in England.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"My object is to explain the motive which has induced me to refuse the right hand of friendship to my cousin, John Herncastle.",0.5994,0.216,0.078,0.707,positive,The Moonstone
+The reserve which I have hitherto maintained in this matter has been misinterpreted by members of my family whose good opinion I cannot consent to forfeit.,0.0152,0.144,0.142,0.715,neutral,The Moonstone
+I request them to suspend their decision until they have read my narrative.,-0.3182,0.0,0.173,0.827,negative,The Moonstone
+"And I declare, on my word of honour, that what I am now about to write is, strictly and literally, the truth.",0.7184,0.25,0.0,0.75,positive,The Moonstone
+"The private difference between my cousin and me took its rise in a great public event in which we were both concerned--the storming of Seringapatam, under General Baird, on the 4th of May, 1799.",0.6249,0.114,0.0,0.886,positive,The Moonstone
+"In order that the circumstances may be clearly understood, I must revert for a moment to the period before the assault, and to the stories current in our camp of the treasure in jewels and gold stored up in the Palace of Seringapatam.",0.4767,0.162,0.078,0.76,positive,The Moonstone
+II One of the wildest of these stories related to a Yellow Diamond--a famous gem in the native annals of India.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+The earliest known traditions describe the stone as having been set in the forehead of the four-handed Indian god who typifies the Moon.,0.2732,0.087,0.0,0.913,positive,The Moonstone
+"Partly from its peculiar colour, partly from a superstition which represented it as feeling the influence of the deity whom it adorned, and growing and lessening in lustre with the waxing and waning of the moon, it first gained the name by which it continues to be known in India to this day--the name of THE MOONSTONE.",0.7128,0.149,0.0,0.851,positive,The Moonstone
+"A similar superstition was once prevalent, as I have heard, in ancient Greece and Rome; not applying, however (as in India), to a diamond devoted to the service of a god, but to a semi-transparent stone of the inferior order of gems, supposed to be affected by the lunar influences--the moon, in this latter case also, giving the name by which the stone is still known to collectors in our own time.",0.1901,0.11,0.073,0.817,positive,The Moonstone
+The adventures of the Yellow Diamond begin with the eleventh century of the Christian era.,0.5859,0.27,0.0,0.73,positive,The Moonstone
+"At that date, the Mohammedan conqueror, Mahmoud of Ghizni, crossed India; seized on the holy city of Somnauth; and stripped of its treasures the famous temple, which had stood for centuries--the shrine of Hindoo pilgrimage, and the wonder of the Eastern world.",0.4215,0.064,0.0,0.936,positive,The Moonstone
+"Of all the deities worshipped in the temple, the moon-god alone escaped the rapacity of the conquering Mohammedans.",0.4019,0.171,0.092,0.737,positive,The Moonstone
+"Preserved by three Brahmins, the inviolate deity, bearing the Yellow Diamond in its forehead, was removed by night, and was transported to the second of the sacred cities of India--the city of Benares.",0.34,0.07,0.0,0.93,positive,The Moonstone
+"Here, in a new shrine--in a hall inlaid with precious stones, under a roof supported by pillars of gold--the moon-god was set up and worshipped.",0.8658,0.338,0.0,0.662,positive,The Moonstone
+"Here, on the night when the shrine was completed, Vishnu the Preserver appeared to the three Brahmins in a dream.",0.25,0.1,0.0,0.9,positive,The Moonstone
+The deity breathed the breath of his divinity on the Diamond in the forehead of the god.,0.802,0.369,0.0,0.631,positive,The Moonstone
+And the Brahmins knelt and hid their faces in their robes.,-0.1027,0.0,0.123,0.877,negative,The Moonstone
+"The deity commanded that the Moonstone should be watched, from that time forth, by three priests in turn, night and day, to the end of the generations of men.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"And the Brahmins heard, and bowed before his will.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The deity predicted certain disaster to the presumptuous mortal who laid hands on the sacred gem, and to all of his house and name who received it after him.",-0.4588,0.063,0.123,0.813,negative,The Moonstone
+And the Brahmins caused the prophecy to be written over the gates of the shrine in letters of gold.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"One age followed another--and still, generation after generation, the successors of the three Brahmins watched their priceless Moonstone, night and day.",0.2732,0.095,0.0,0.905,positive,The Moonstone
+"One age followed another until the first years of the eighteenth Christian century saw the reign of Aurungzebe, Emperor of the Moguls.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+At his command havoc and rapine were let loose once more among the temples of the worship of Brahmah.,-0.6124,0.09,0.254,0.656,negative,The Moonstone
+The shrine of the four-handed god was polluted by the slaughter of sacred animals; the images of the deities were broken in pieces; and the Moonstone was seized by an officer of rank in the army of Aurungzebe.,-0.6124,0.049,0.141,0.81,negative,The Moonstone
+"Powerless to recover their lost treasure by open force, the three guardian priests followed and watched it in disguise.",-0.6486,0.089,0.304,0.607,negative,The Moonstone
+"The generations succeeded each other; the warrior who had committed the sacrilege perished miserably; the Moonstone passed (carrying its curse with it) from one lawless Mohammedan hand to another; and still, through all chances and changes, the successors of the three guardian priests kept their watch, waiting the day when the will of Vishnu the Preserver should restore to them their sacred gem.",0.6808,0.187,0.087,0.726,positive,The Moonstone
+Time rolled on from the first to the last years of the eighteenth Christian century.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The Diamond fell into the possession of Tippoo, Sultan of Seringapatam, who caused it to be placed as an ornament in the handle of a dagger, and who commanded it to be kept among the choicest treasures of his armoury.",0.6369,0.123,0.0,0.877,positive,The Moonstone
+Even then--in the palace of the Sultan himself--the three guardian priests still kept their watch in secret.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"There were three officers of Tippoo's household, strangers to the rest, who had won their master's confidence by conforming, or appearing to conform, to the Mussulman faith; and to those three men report pointed as the three priests in disguise.",0.8316,0.205,0.042,0.753,positive,The Moonstone
+"III So, as told in our camp, ran the fanciful story of the Moonstone.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+It made no serious impression on any of us except my cousin--whose love of the marvellous induced him to believe it.,0.5574,0.229,0.132,0.639,positive,The Moonstone
+"On the night before the assault on Seringapatam, he was absurdly angry with me, and with others, for treating the whole thing as a fable.",-0.7964,0.0,0.244,0.756,negative,The Moonstone
+A foolish wrangle followed; and Herncastle's unlucky temper got the better of him.,-0.25,0.173,0.292,0.536,negative,The Moonstone
+"He declared, in his boastful way, that we should see the Diamond on his finger, if the English army took Seringapatam.",0.34,0.107,0.0,0.893,positive,The Moonstone
+"The sally was saluted by a roar of laughter, and there, as we all thought that night, the thing ended.",0.4939,0.151,0.0,0.849,positive,The Moonstone
+Let me now take you on to the day of the assault.,-0.5859,0.0,0.257,0.743,negative,The Moonstone
+My cousin and I were separated at the outset.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I never saw him when we forded the river; when we planted the English flag in the first breach; when we crossed the ditch beyond; and, fighting every inch of our way, entered the town.",-0.3612,0.0,0.07,0.93,negative,The Moonstone
+"It was only at dusk, when the place was ours, and after General Baird himself had found the dead body of Tippoo under a heap of the slain, that Herncastle and I met.",-0.6486,0.0,0.125,0.875,negative,The Moonstone
+We were each attached to a party sent out by the general's orders to prevent the plunder and confusion which followed our conquest.,0.1531,0.152,0.088,0.76,positive,The Moonstone
+"The camp-followers committed deplorable excesses; and, worse still, the soldiers found their way, by an unguarded door, into the treasury of the Palace, and loaded themselves with gold and jewels.",0.4215,0.192,0.086,0.722,positive,The Moonstone
+"It was in the court outside the treasury that my cousin and I met, to enforce the laws of discipline on our own soldiers.",0.2023,0.076,0.0,0.924,positive,The Moonstone
+"Herncastle's fiery temper had been, as I could plainly see, exasperated to a kind of frenzy by the terrible slaughter through which we had passed.",-0.9134,0.0,0.432,0.568,negative,The Moonstone
+"He was very unfit, in my opinion, to perform the duty that had been entrusted to him.",0.2023,0.101,0.0,0.899,positive,The Moonstone
+"There was riot and confusion enough in the treasury, but no violence that I saw.",-0.899,0.062,0.543,0.396,negative,The Moonstone
+The men (if I may use such an expression) disgraced themselves good-humouredly.,-0.4588,0.0,0.231,0.769,negative,The Moonstone
+"All sorts of rough jests and catchwords were bandied about among them; and the story of the Diamond turned up again unexpectedly, in the form of a mischievous joke.",0.5574,0.15,0.0,0.85,positive,The Moonstone
+"""Who's got the Moonstone?""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"was the rallying cry which perpetually caused the plundering, as soon as it was stopped in one place, to break out in another.",-0.6124,0.0,0.192,0.808,negative,The Moonstone
+"While I was still vainly trying to establish order, I heard a frightful yelling on the other side of the courtyard, and at once ran towards the cries, in dread of finding some new outbreak of the pillage in that direction.",-0.8402,0.0,0.205,0.795,negative,The Moonstone
+"I got to an open door, and saw the bodies of two Indians (by their dress, as I guessed, officers of the palace) lying across the entrance, dead.",-0.8271,0.0,0.243,0.757,negative,The Moonstone
+"A cry inside hurried me into a room, which appeared to serve as an armoury.",-0.4767,0.0,0.205,0.795,negative,The Moonstone
+"A third Indian, mortally wounded, was sinking at the feet of a man whose back was towards me.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The man turned at the instant when I came in, and I saw John Herncastle, with a torch in one hand, and a dagger dripping with blood in the other.",0.4939,0.113,0.0,0.887,positive,The Moonstone
+"A stone, set like a pommel, in the end of the dagger's handle, flashed in the torchlight, as he turned on me, like a gleam of fire.",0.3818,0.176,0.085,0.739,positive,The Moonstone
+"The dying Indian sank to his knees, pointed to the dagger in Herncastle's hand, and said, in his native language--""The Moonstone will have its vengeance yet on you and yours!""",0.5411,0.107,0.0,0.893,positive,The Moonstone
+"He spoke those words, and fell dead on the floor.",-0.6486,0.0,0.323,0.677,negative,The Moonstone
+"Before I could stir in the matter, the men who had followed me across the courtyard crowded in.",0.0258,0.064,0.0,0.936,neutral,The Moonstone
+"My cousin rushed to meet them, like a madman.",0.3612,0.263,0.0,0.737,positive,The Moonstone
+"""Clear the room!""",0.4389,0.591,0.0,0.409,positive,The Moonstone
+"he shouted to me, ""and set a guard on the door!""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+The men fell back as he threw himself on them with his torch and his dagger.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I put two sentinels of my own company, on whom I could rely, to keep the door.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Through the remainder of the night, I saw no more of my cousin.",-0.296,0.0,0.167,0.833,negative,The Moonstone
+"Early in the morning, the plunder still going on, General Baird announced publicly by beat of drum, that any thief detected in the fact, be he whom he might, should be hung.",-0.5267,0.0,0.099,0.901,negative,The Moonstone
+"The provost-marshal was in attendance, to prove that the General was in earnest; and in the throng that followed the proclamation, Herncastle and I met again.",0.5106,0.121,0.0,0.879,positive,The Moonstone
+"He held out his hand, as usual, and said, ""Good morning.""",0.7269,0.404,0.0,0.596,positive,The Moonstone
+I waited before I gave him my hand in return.,0.4939,0.314,0.0,0.686,positive,The Moonstone
+"""Tell me first,"" I said, ""how the Indian in the armoury met his death, and what those last words meant, when he pointed to the dagger in your hand.""",-0.5994,0.0,0.126,0.874,negative,The Moonstone
+"""The Indian met his death, as I suppose, by a mortal wound,"" said Herncastle.",-0.5994,0.0,0.262,0.738,negative,The Moonstone
+"""What his last words meant I know no more than you do.""",-0.296,0.0,0.18,0.82,negative,The Moonstone
+I looked at him narrowly.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+His frenzy of the previous day had all calmed down.,0.0772,0.202,0.178,0.62,positive,The Moonstone
+I determined to give him another chance.,0.5267,0.524,0.0,0.476,positive,The Moonstone
+"""Is that all you have to tell me?""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+I asked.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"He answered, ""That is all.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+I turned my back on him; and we have not spoken since.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+IV I beg it to be understood that what I write here about my cousin (unless some necessity should arise for making it public) is for the information of the family only.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+Herncastle has said nothing that can justify me in speaking to our commanding officer.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"He has been taunted more than once about the Diamond, by those who recollect his angry outbreak before the assault; but, as may easily be imagined, his own remembrance of the circumstances under which I surprised him in the armoury has been enough to keep him silent.",0.3818,0.136,0.086,0.778,positive,The Moonstone
+"It is reported that he means to exchange into another regiment, avowedly for the purpose of separating himself from me .",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Whether this be true or not, I cannot prevail upon myself to become his accuser--and I think with good reason.",0.6908,0.263,0.0,0.737,positive,The Moonstone
+"If I made the matter public, I have no evidence but moral evidence to bring forward.",-0.1406,0.072,0.109,0.819,negative,The Moonstone
+I have not only no proof that he killed the two men at the door; I cannot even declare that he killed the third man inside--for I cannot say that my own eyes saw the deed committed.,-0.7913,0.093,0.209,0.698,negative,The Moonstone
+"It is true that I heard the dying Indian's words; but if those words were pronounced to be the ravings of delirium, how could I contradict the assertion from my own knowledge?",-0.2617,0.058,0.09,0.852,negative,The Moonstone
+"Let our relatives, on either side, form their own opinion on what I have written, and decide for themselves whether the aversion I now feel towards this man is well or ill founded.",-0.5574,0.059,0.159,0.782,negative,The Moonstone
+"Although I attach no sort of credit to the fantastic Indian legend of the gem, I must acknowledge, before I conclude, that I am influenced by a certain superstition of my own in this matter.",0.7371,0.257,0.06,0.683,positive,The Moonstone
+"It is my conviction, or my delusion, no matter which, that crime brings its own fatality with it.",-0.8779,0.043,0.403,0.553,negative,The Moonstone
+"I am not only persuaded of Herncastle's guilt; I am even fanciful enough to believe that he will live to regret it, if he keeps the Diamond; and that others will live to regret taking it from him, if he gives the Diamond away.",-0.4404,0.097,0.156,0.747,negative,The Moonstone
+"THE STORY FIRST PERIOD THE LOSS OF THE DIAMOND (1848) The Events related by Gabriel Betteredge, house-steward in the service of Julia, Lady Verinder.",0.0258,0.111,0.108,0.781,neutral,The Moonstone
+"CHAPTER I In the first part of Robinson Crusoe , at page one hundred and twenty-nine, you will find it thus written: ""Now I saw, though too late, the Folly of beginning a Work before we count the Cost, and before we judge rightly of our own Strength to go through with it.""",0.4939,0.062,0.0,0.938,positive,The Moonstone
+"Only yesterday, I opened my Robinson Crusoe at that place.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Only this morning (May twenty-first, eighteen hundred and fifty), came my lady's nephew, Mr. Franklin Blake, and held a short conversation with me, as follows:-- ""Betteredge,"" says Mr. Franklin, ""I have been to the lawyer's about some family matters; and, among other things, we have been talking of the loss of the Indian Diamond, in my aunt's house in Yorkshire, two years since.",0.0516,0.054,0.035,0.91,positive,The Moonstone
+"Mr. Bruff thinks as I think, that the whole story ought, in the interests of truth, to be placed on record in writing--and the sooner the better.""",0.5106,0.152,0.0,0.848,positive,The Moonstone
+"Not perceiving his drift yet, and thinking it always desirable for the sake of peace and quietness to be on the lawyer's side, I said I thought so too.",0.7003,0.188,0.0,0.812,positive,The Moonstone
+Mr. Franklin went on.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""In this matter of the Diamond,"" he said, ""the characters of innocent people have suffered under suspicion already--as you know.",-0.5106,0.138,0.229,0.632,negative,The Moonstone
+"The memories of innocent people may suffer, hereafter, for want of a record of the facts to which those who come after us can appeal.",-0.2023,0.131,0.124,0.745,negative,The Moonstone
+There can be no doubt that this strange family story of ours ought to be told.,-0.6705,0.0,0.333,0.667,negative,The Moonstone
+"And I think, Betteredge, Mr. Bruff and I together have hit on the right way of telling it.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Very satisfactory to both of them, no doubt.",-0.228,0.224,0.376,0.4,negative,The Moonstone
+"But I failed to see what I myself had to do with it, so far.",-0.6652,0.0,0.271,0.729,negative,The Moonstone
+"""We have certain events to relate,"" Mr. Franklin proceeded; ""and we have certain persons concerned in those events who are capable of relating them.",0.7003,0.245,0.0,0.755,positive,The Moonstone
+"Starting from these plain facts, the idea is that we should all write the story of the Moonstone in turn--as far as our own personal experience extends, and no farther.",-0.1779,0.047,0.069,0.883,negative,The Moonstone
+"We must begin by showing how the Diamond first fell into the hands of my uncle Herncastle, when he was serving in India fifty years since.",0.34,0.088,0.0,0.912,positive,The Moonstone
+"This prefatory narrative I have already got by me in the form of an old family paper, which relates the necessary particulars on the authority of an eye-witness.",0.0772,0.048,0.0,0.952,positive,The Moonstone
+"The next thing to do is to tell how the Diamond found its way into my aunt's house in Yorkshire, two years ago, and how it came to be lost in little more than twelve hours afterwards.",0.0258,0.06,0.058,0.882,neutral,The Moonstone
+"Nobody knows as much as you do, Betteredge, about what went on in the house at that time.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"So you must take the pen in hand, and start the story.""",0.4939,0.225,0.0,0.775,positive,The Moonstone
+In those terms I was informed of what my personal concern was with the matter of the Diamond.,0.3612,0.189,0.0,0.811,positive,The Moonstone
+"If you are curious to know what course I took under the circumstances, I beg to inform you that I did what you would probably have done in my place.",0.3182,0.081,0.0,0.919,positive,The Moonstone
+"I modestly declared myself to be quite unequal to the task imposed upon me--and I privately felt, all the time, that I was quite clever enough to perform it, if I only gave my own abilities a fair chance.",0.6808,0.231,0.096,0.673,positive,The Moonstone
+"Mr. Franklin, I imagine, must have seen my private sentiments in my face.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+He declined to believe in my modesty; and he insisted on giving my abilities a fair chance.,0.7717,0.42,0.0,0.58,positive,The Moonstone
+Two hours have passed since Mr. Franklin left me.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"As soon as his back was turned, I went to my writing-desk to start the story.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"There I have sat helpless (in spite of my abilities) ever since; seeing what Robinson Crusoe saw, as quoted above--namely, the folly of beginning a work before we count the cost, and before we judge rightly of our own strength to go through with it.",-0.4939,0.065,0.129,0.806,negative,The Moonstone
+"Please to remember, I opened the book by accident, at that bit, only the day before I rashly undertook the business now in hand; and, allow me to ask--if that isn't prophecy, what is?",0.5106,0.192,0.081,0.727,positive,The Moonstone
+I am not superstitious; I have read a heap of books in my time; I am a scholar in my own way.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Though turned seventy, I possess an active memory, and legs to correspond.",0.4019,0.213,0.0,0.787,positive,The Moonstone
+"You are not to take it, if you please, as the saying of an ignorant man, when I express my opinion that such a book as Robinson Crusoe never was written, and never will be written again.",0.0516,0.061,0.056,0.882,positive,The Moonstone
+I have tried that book for years--generally in combination with a pipe of tobacco--and I have found it my friend in need in all the necessities of this mortal life.,0.4939,0.11,0.0,0.89,positive,The Moonstone
+When my spirits are bad-- Robinson Crusoe .,0.0,0.0,0.0,1.0,neutral,The Moonstone
+When I want advice-- Robinson Crusoe .,0.0772,0.245,0.0,0.755,positive,The Moonstone
+In past times when my wife plagued me; in present times when I have had a drop too much-- Robinson Crusoe .,-0.2732,0.0,0.104,0.896,negative,The Moonstone
+I have worn out six stout Robinson Crusoes with hard work in my service.,-0.2263,0.111,0.235,0.654,negative,The Moonstone
+On my lady's last birthday she gave me a seventh.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+I took a drop too much on the strength of it; and Robinson Crusoe put me right again.,0.2732,0.166,0.109,0.725,positive,The Moonstone
+"Price four shillings and sixpence, bound in blue, with a picture into the bargain.",0.2023,0.13,0.0,0.87,positive,The Moonstone
+"Still, this don't look much like starting the story of the Diamond--does it?",-0.2755,0.0,0.15,0.85,negative,The Moonstone
+"I seem to be wandering off in search of Lord knows what, Lord knows where.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"We will take a new sheet of paper, if you please, and begin over again, with my best respects to you.",0.8316,0.341,0.0,0.659,positive,The Moonstone
+CHAPTER II I spoke of my lady a line or two back.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Now the Diamond could never have been in our house, where it was lost, if it had not been made a present of to my lady's daughter; and my lady's daughter would never have been in existence to have the present, if it had not been for my lady who (with pain and travail) produced her into the world.",-0.4939,0.038,0.089,0.873,negative,The Moonstone
+"Consequently, if we begin with my lady, we are pretty sure of beginning far enough back.",0.6705,0.282,0.0,0.718,positive,The Moonstone
+"And that, let me tell you, when you have got such a job as mine in hand, is a real comfort at starting.",0.6908,0.231,0.0,0.769,positive,The Moonstone
+"If you know anything of the fashionable world, you have heard tell of the three beautiful Miss Herncastles.",0.5106,0.181,0.074,0.744,positive,The Moonstone
+"Miss Adelaide; Miss Caroline; and Miss Julia--this last being the youngest and the best of the three sisters, in my opinion; and I had opportunities of judging, as you shall presently see.",0.6124,0.181,0.128,0.691,positive,The Moonstone
+"I went into the service of the old lord, their father (thank God, we have got nothing to do with him, in this business of the Diamond; he had the longest tongue and the shortest temper of any man, high or low, I ever met with)--I say, I went into the service of the old lord, as page-boy in waiting on the three honourable young ladies, at the age of fifteen years.",0.4019,0.099,0.064,0.837,positive,The Moonstone
+There I lived till Miss Julia married the late Sir John Verinder.,-0.1531,0.0,0.138,0.862,negative,The Moonstone
+"An excellent man, who only wanted somebody to manage him; and, between ourselves, he found somebody to do it; and what is more, he throve on it and grew fat on it, and lived happy and died easy on it, dating from the day when my lady took him to church to be married, to the day when she relieved him of his last breath, and closed his eyes for ever.",0.8519,0.156,0.044,0.8,positive,The Moonstone
+I have omitted to state that I went with the bride to the bride's husband's house and lands down here.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""Sir John,"" she says, ""I can't do without Gabriel Betteredge.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""My lady,"" says Sir John, ""I can't do without him, either.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+That was his way with her--and that was how I went into his service.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"It was all one to me where I went, so long as my mistress and I were together.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Seeing that my lady took an interest in the out-of-door work, and the farms, and such like, I took an interest in them too--with all the more reason that I was a small farmer's seventh son myself.",0.8176,0.215,0.0,0.785,positive,The Moonstone
+"My lady got me put under the bailiff, and I did my best, and gave satisfaction, and got promotion accordingly.",0.7964,0.295,0.0,0.705,positive,The Moonstone
+"Some years later, on the Monday as it might be, my lady says, ""Sir John, your bailiff is a stupid old man.",-0.5267,0.0,0.145,0.855,negative,The Moonstone
+"Pension him liberally, and let Gabriel Betteredge have his place.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"On the Tuesday as it might be, Sir John says, ""My lady, the bailiff is pensioned liberally; and Gabriel Betteredge has got his place.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+You hear more than enough of married people living together miserably.,-0.4767,0.0,0.237,0.763,negative,The Moonstone
+Here is an example to the contrary.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Let it be a warning to some of you, and an encouragement to others.",0.1027,0.173,0.148,0.679,positive,The Moonstone
+"In the meantime, I will go on with my story.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Well, there I was in clover, you will say.",0.2732,0.231,0.0,0.769,positive,The Moonstone
+"Placed in a position of trust and honour, with a little cottage of my own to live in, with my rounds on the estate to occupy me in the morning, and my accounts in the afternoon, and my pipe and my Robinson Crusoe in the evening--what more could I possibly want to make me happy?",0.9055,0.204,0.0,0.796,positive,The Moonstone
+"Remember what Adam wanted when he was alone in the Garden of Eden; and if you don't blame it in Adam, don't blame it in me.",0.2668,0.14,0.069,0.791,positive,The Moonstone
+"The woman I fixed my eye on, was the woman who kept house for me at my cottage.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+Her name was Selina Goby.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+I agree with the late William Cobbett about picking a wife.,0.3612,0.238,0.0,0.762,positive,The Moonstone
+"See that she chews her food well and sets her foot down firmly on the ground when she walks, and you're all right.",0.2732,0.087,0.0,0.913,positive,The Moonstone
+"Selina Goby was all right in both these respects, which was one reason for marrying her.",0.3182,0.133,0.0,0.867,positive,The Moonstone
+"I had another reason, likewise, entirely of my own discovering.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Selina, being a single woman, made me pay so much a week for her board and services.",-0.1027,0.0,0.091,0.909,negative,The Moonstone
+"Selina, being my wife, couldn't charge for her board, and would have to give me her services for nothing.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+That was the point of view I looked at it from.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+Economy--with a dash of love.,0.6369,0.583,0.0,0.417,positive,The Moonstone
+"I put it to my mistress, as in duty bound, just as I had put it to myself.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""I have been turning Selina Goby over in my mind,"" I said, ""and I think, my lady, it will be cheaper to marry her than to keep her.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"My lady burst out laughing, and said she didn't know which to be most shocked at--my language or my principles.",0.1548,0.134,0.109,0.757,positive,The Moonstone
+"Some joke tickled her, I suppose, of the sort that you can't take unless you are a person of quality.",0.296,0.115,0.0,0.885,positive,The Moonstone
+"Understanding nothing myself but that I was free to put it next to Selina, I went and put it accordingly.",0.6652,0.207,0.0,0.793,positive,The Moonstone
+And what did Selina say?,0.0,0.0,0.0,1.0,neutral,The Moonstone
+Lord!,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"how little you must know of women, if you ask that.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Of course she said, Yes.",0.4019,0.403,0.0,0.597,positive,The Moonstone
+"As my time drew nearer, and there got to be talk of my having a new coat for the ceremony, my mind began to misgive me.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I have compared notes with other men as to what they felt while they were in my interesting situation; and they have all acknowledged that, about a week before it happened, they privately wished themselves out of it.",0.4019,0.072,0.0,0.928,positive,The Moonstone
+"I went a trifle further than that myself; I actually rose up, as it were, and tried to get out of it.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+Not for nothing!,0.0,0.0,0.0,1.0,neutral,The Moonstone
+I was too just a man to expect she would let me off for nothing.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Compensation to the woman when the man gets out of it, is one of the laws of England.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"In obedience to the laws, and after turning it over carefully in my mind, I offered Selina Goby a feather-bed and fifty shillings to be off the bargain.",0.3182,0.121,0.0,0.879,positive,The Moonstone
+"You will hardly believe it, but it is nevertheless true--she was fool enough to refuse.",-0.7684,0.0,0.338,0.662,negative,The Moonstone
+"After that it was all over with me, of course.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I got the new coat as cheap as I could, and I went through all the rest of it as cheap as I could.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"We were not a happy couple, and not a miserable couple.",-0.0951,0.208,0.237,0.554,negative,The Moonstone
+We were six of one and half-a-dozen of the other.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"How it was I don't understand, but we always seemed to be getting, with the best of motives, in one another's way.",0.7783,0.225,0.0,0.775,positive,The Moonstone
+"When I wanted to go upstairs, there was my wife coming down; or when my wife wanted to go down, there was I coming up.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"That is married life, according to my experience of it.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"After five years of misunderstandings on the stairs, it pleased an all-wise Providence to relieve us of each other by taking my wife.",0.6597,0.205,0.0,0.795,positive,The Moonstone
+"I was left with my little girl Penelope, and with no other child.",-0.296,0.0,0.167,0.833,negative,The Moonstone
+"Shortly afterwards Sir John died, and my lady was left with her little girl, Miss Rachel, and no other child.",-0.7287,0.0,0.295,0.705,negative,The Moonstone
+"I have written to very poor purpose of my lady, if you require to be told that my little Penelope was taken care of, under my good mistress's own eye, and was sent to school and taught, and made a sharp girl, and promoted, when old enough, to be Miss Rachel's own maid.",0.6003,0.149,0.083,0.768,positive,The Moonstone
+"As for me, I went on with my business as bailiff year after year up to Christmas 1847, when there came a change in my life.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"On that day, my lady invited herself to a cup of tea alone with me in my cottage.",-0.25,0.0,0.111,0.889,negative,The Moonstone
+"She remarked that, reckoning from the year when I started as page-boy in the time of the old lord, I had been more than fifty years in her service, and she put into my hands a beautiful waistcoat of wool that she had worked herself, to keep me warm in the bitter winter weather.",0.4588,0.102,0.049,0.848,positive,The Moonstone
+I received this magnificent present quite at a loss to find words to thank my mistress with for the honour she had done me.,0.8187,0.329,0.084,0.587,positive,The Moonstone
+"To my great astonishment, it turned out, however, that the waistcoat was not an honour, but a bribe.",-0.1653,0.123,0.202,0.675,negative,The Moonstone
+"My lady had discovered that I was getting old before I had discovered it myself, and she had come to my cottage to wheedle me (if I may use such an expression) into giving up my hard out-of-door work as bailiff, and taking my ease for the rest of my days as steward in the house.",0.5423,0.087,0.025,0.888,positive,The Moonstone
+I made as good a fight of it against the indignity of taking my ease as I could.,0.4215,0.27,0.13,0.6,positive,The Moonstone
+But my mistress knew the weak side of me; she put it as a favour to herself.,0.0,0.177,0.177,0.645,neutral,The Moonstone
+"The dispute between us ended, after that, in my wiping my eyes, like an old fool, with my new woollen waistcoat, and saying I would think about it.",-0.4767,0.078,0.174,0.748,negative,The Moonstone
+"The perturbation in my mind, in regard to thinking about it, being truly dreadful after my lady had gone away, I applied the remedy which I have never yet found to fail me in cases of doubt and emergency.",-0.8225,0.062,0.248,0.69,negative,The Moonstone
+I smoked a pipe and took a turn at Robinson Crusoe .,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Before I had occupied myself with that extraordinary book five minutes, I came on a comforting bit (page one hundred and fifty-eight), as follows: ""Today we love, what tomorrow we hate.""",0.7845,0.21,0.0,0.79,positive,The Moonstone
+I saw my way clear directly.,0.3818,0.394,0.0,0.606,positive,The Moonstone
+"Today I was all for continuing to be farm-bailiff; tomorrow, on the authority of Robinson Crusoe , I should be all the other way.",0.0772,0.061,0.0,0.939,positive,The Moonstone
+"Take myself tomorrow while in tomorrow's humour, and the thing was done.",0.4767,0.22,0.0,0.78,positive,The Moonstone
+"My mind being relieved in this manner, I went to sleep that night in the character of Lady Verinder's farm-bailiff, and I woke up the next morning in the character of Lady Verinder's house-steward.",0.3818,0.077,0.0,0.923,positive,The Moonstone
+"All quite comfortable, and all through Robinson Crusoe !",0.5974,0.357,0.0,0.643,positive,The Moonstone
+My daughter Penelope has just looked over my shoulder to see what I have done so far.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"She remarks that it is beautifully written, and every word of it true.",0.7579,0.371,0.0,0.629,positive,The Moonstone
+But she points out one objection.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+She says what I have done so far isn't in the least what I was wanted to do.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I am asked to tell the story of the Diamond and, instead of that, I have been telling the story of my own self.",0.34,0.103,0.0,0.897,positive,The Moonstone
+"Curious, and quite beyond me to account for.",0.3182,0.247,0.0,0.753,positive,The Moonstone
+"I wonder whether the gentlemen who make a business and a living out of writing books, ever find their own selves getting in the way of their subjects, like me?",0.3612,0.088,0.0,0.912,positive,The Moonstone
+"If they do, I can feel for them.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"In the meantime, here is another false start, and more waste of good writing-paper.",0.0183,0.173,0.169,0.657,neutral,The Moonstone
+What's to be done now?,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Nothing that I know of, except for you to keep your temper, and for me to begin it all over again for the third time.",-0.4215,0.0,0.109,0.891,negative,The Moonstone
+CHAPTER III The question of how I am to start the story properly I have tried to settle in two ways.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"First, by scratching my head, which led to nothing.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Second, by consulting my daughter Penelope, which has resulted in an entirely new idea.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Penelope's notion is that I should set down what happened, regularly day by day, beginning with the day when we got the news that Mr. Franklin Blake was expected on a visit to the house.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"When you come to fix your memory with a date in this way, it is wonderful what your memory will pick up for you upon that compulsion.",0.5719,0.129,0.0,0.871,positive,The Moonstone
+"The only difficulty is to fetch out the dates, in the first place.",-0.34,0.0,0.167,0.833,negative,The Moonstone
+"This Penelope offers to do for me by looking into her own diary, which she was taught to keep when she was at school, and which she has gone on keeping ever since.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"In answer to an improvement on this notion, devised by myself, namely, that she should tell the story instead of me, out of her own diary, Penelope observes, with a fierce look and a red face, that her journal is for her own private eye, and that no living creature shall ever know what is in it but herself.",0.1027,0.034,0.027,0.939,positive,The Moonstone
+"When I inquire what this means, Penelope says, ""Fiddlesticks!""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I say, Sweethearts.",0.5859,0.792,0.0,0.208,positive,The Moonstone
+"Beginning, then, on Penelope's plan, I beg to mention that I was specially called one Wednesday morning into my lady's own sitting-room, the date being the twenty-fourth of May, eighteen hundred and forty-eight.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""Gabriel,"" says my lady, ""here is news that will surprise you.",0.2732,0.174,0.0,0.826,positive,The Moonstone
+Franklin Blake has come back from abroad.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"He has been staying with his father in London, and he is coming to us tomorrow to stop till next month, and keep Rachel's birthday.""",-0.296,0.0,0.084,0.916,negative,The Moonstone
+"If I had had a hat in my hand, nothing but respect would have prevented me from throwing that hat up to the ceiling.",-0.2688,0.127,0.13,0.743,negative,The Moonstone
+"I had not seen Mr. Franklin since he was a boy, living along with us in this house.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"He was, out of all sight (as I remember him), the nicest boy that ever spun a top or broke a window.",0.296,0.21,0.118,0.672,positive,The Moonstone
+"Miss Rachel, who was present, and to whom I made that remark, observed, in return, that she remembered him as the most atrocious tyrant that ever tortured a doll, and the hardest driver of an exhausted little girl in string harness that England could produce.",-0.7717,0.0,0.161,0.839,negative,The Moonstone
+"""I burn with indignation, and I ache with fatigue,"" was the way Miss Rachel summed it up, ""when I think of Franklin Blake.""",-0.765,0.0,0.297,0.703,negative,The Moonstone
+"Hearing what I now tell you, you will naturally ask how it was that Mr. Franklin should have passed all the years, from the time when he was a boy to the time when he was a man, out of his own country.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I answer, because his father had the misfortune to be next heir to a Dukedom, and not to be able to prove it.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"In two words, this was how the thing happened: My lady's eldest sister married the celebrated Mr. Blake--equally famous for his great riches, and his great suit at law.",0.946,0.38,0.0,0.62,positive,The Moonstone
+"How many years he went on worrying the tribunals of his country to turn out the Duke in possession, and to put himself in the Duke's place--how many lawyer's purses he filled to bursting, and how many otherwise harmless people he set by the ears together disputing whether he was right or wrong--is more by a great deal than I can reckon up.",0.3134,0.093,0.074,0.832,positive,The Moonstone
+"His wife died, and two of his three children died, before the tribunals could make up their minds to show him the door and take no more of his money.",-0.8555,0.0,0.258,0.742,negative,The Moonstone
+"When it was all over, and the Duke in possession was left in possession, Mr. Blake discovered that the only way of being even with his country for the manner in which it had treated him, was not to let his country have the honour of educating his son.",0.5719,0.072,0.0,0.928,positive,The Moonstone
+"""How can I trust my native institutions,"" was the form in which he put it, ""after the way in which my native institutions have behaved to me? """,0.5106,0.117,0.0,0.883,positive,The Moonstone
+"Add to this, that Mr. Blake disliked all boys, his own included, and you will admit that it could only end in one way.",-0.2263,0.068,0.102,0.83,negative,The Moonstone
+"Master Franklin was taken from us in England, and was sent to institutions which his father could trust, in that superior country, Germany; Mr. Blake himself, you will observe, remaining snug in England, to improve his fellow-countrymen in the Parliament House, and to publish a statement on the subject of the Duke in possession, which has remained an unfinished statement from that day to this.",0.8658,0.137,0.0,0.863,positive,The Moonstone
+There!,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"thank God, that's told!",0.5983,0.71,0.0,0.29,positive,The Moonstone
+"Neither you nor I need trouble our heads any more about Mr. Blake, senior.",0.3089,0.158,0.0,0.842,positive,The Moonstone
+Leave him to the Dukedom; and let you and I stick to the Diamond.,0.296,0.164,0.082,0.753,positive,The Moonstone
+"The Diamond takes us back to Mr. Franklin, who was the innocent means of bringing that unlucky jewel into the house.",0.743,0.289,0.0,0.711,positive,The Moonstone
+Our nice boy didn't forget us after he went abroad.,0.5371,0.358,0.0,0.642,positive,The Moonstone
+"He wrote every now and then; sometimes to my lady, sometimes to Miss Rachel, and sometimes to me.",-0.1531,0.0,0.086,0.914,negative,The Moonstone
+"We had had a transaction together, before he left, which consisted in his borrowing of me a ball of string, a four-bladed knife, and seven-and-sixpence in money--the colour of which last I have not seen, and never expect to see again.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+His letters to me chiefly related to borrowing more.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I heard, however, from my lady, how he got on abroad, as he grew in years and stature.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"After he had learnt what the institutions of Germany could teach him, he gave the French a turn next, and the Italians a turn after that.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"They made him among them a sort of universal genius, as well as I could understand it.",0.2732,0.13,0.0,0.87,positive,The Moonstone
+"He wrote a little; he painted a little; he sang and played and composed a little--borrowing, as I suspect, in all these cases, just as he had borrowed from me.",0.0516,0.084,0.077,0.839,positive,The Moonstone
+"His mother's fortune (seven hundred a year) fell to him when he came of age, and ran through him, as it might be through a sieve.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The more money he had, the more he wanted; there was a hole in Mr. Franklin's pocket that nothing would sew up.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Wherever he went, the lively, easy way of him made him welcome.",0.8316,0.494,0.0,0.506,positive,The Moonstone
+"He lived here, there, and everywhere; his address (as he used to put it himself) being ""Post Office, Europe--to be left till called for.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Twice over, he made up his mind to come back to England and see us; and twice over (saving your presence), some unmentionable woman stood in the way and stopped him.",-0.2263,0.0,0.06,0.94,negative,The Moonstone
+"His third attempt succeeded, as you know already from what my lady told me.",0.4215,0.177,0.0,0.823,positive,The Moonstone
+"On Thursday the twenty-fifth of May, we were to see for the first time what our nice boy had grown to be as a man.",0.4215,0.109,0.0,0.891,positive,The Moonstone
+"He came of good blood; he had a high courage; and he was five-and-twenty years of age, by our reckoning.",0.7269,0.264,0.0,0.736,positive,The Moonstone
+Now you know as much of Mr. Franklin Blake as I did--before Mr. Franklin Blake came down to our house.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+The Thursday was as fine a summer's day as ever you saw: and my lady and Miss Rachel (not expecting Mr. Franklin till dinner-time) drove out to lunch with some friends in the neighbourhood.,0.5106,0.134,0.044,0.822,positive,The Moonstone
+"When they were gone, I went and had a look at the bedroom which had been got ready for our guest, and saw that all was straight.",0.5267,0.161,0.0,0.839,positive,The Moonstone
+"Then, being butler in my lady's establishment, as well as steward (at my own particular request, mind, and because it vexed me to see anybody but myself in possession of the key of the late Sir John's cellar)--then, I say, I fetched up some of our famous Latour claret, and set it in the warm summer air to take off the chill before dinner.",0.4404,0.061,0.0,0.939,positive,The Moonstone
+"Concluding to set myself in the warm summer air next--seeing that what is good for old claret is equally good for old age--I took up my beehive chair to go out into the back court, when I was stopped by hearing a sound like the soft beating of a drum, on the terrace in front of my lady's residence.",0.6486,0.157,0.075,0.768,positive,The Moonstone
+"Going round to the terrace, I found three mahogany-coloured Indians, in white linen frocks and trousers, looking up at the house.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The Indians, as I saw on looking closer, had small hand-drums slung in front of them.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+Behind them stood a little delicate-looking light-haired English boy carrying a bag.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I judged the fellows to be strolling conjurors, and the boy with the bag to be carrying the tools of their trade.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"One of the three, who spoke English and who exhibited, I must own, the most elegant manners, presently informed me that my judgment was right.",0.5256,0.129,0.0,0.871,positive,The Moonstone
+He requested permission to show his tricks in the presence of the lady of the house.,-0.128,0.0,0.091,0.909,negative,The Moonstone
+Now I am not a sour old man.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I am generally all for amusement, and the last person in the world to distrust another person because he happens to be a few shades darker than myself.",-0.0772,0.085,0.096,0.819,negative,The Moonstone
+"But the best of us have our weaknesses--and my weakness, when I know a family plate-basket to be out on a pantry-table, is to be instantly reminded of that basket by the sight of a strolling stranger whose manners are superior to my own.",0.8338,0.206,0.072,0.722,positive,The Moonstone
+I accordingly informed the Indian that the lady of the house was out; and I warned him and his party off the premises.,0.1531,0.113,0.088,0.798,positive,The Moonstone
+He made me a beautiful bow in return; and he and his party went off the premises.,0.765,0.32,0.0,0.68,positive,The Moonstone
+"On my side, I returned to my beehive chair, and set myself down on the sunny side of the court, and fell (if the truth must be owned), not exactly into a sleep, but into the next best thing to it.",0.8537,0.206,0.0,0.794,positive,The Moonstone
+I was roused up by my daughter Penelope running out at me as if the house was on fire.,-0.34,0.0,0.124,0.876,negative,The Moonstone
+What do you think she wanted?,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"She wanted to have the three Indian jugglers instantly taken up; for this reason, namely, that they knew who was coming from London to visit us, and that they meant some mischief to Mr. Franklin Blake.",-0.3612,0.0,0.067,0.933,negative,The Moonstone
+Mr. Franklin's name roused me.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I opened my eyes, and made my girl explain herself.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"It appeared that Penelope had just come from our lodge, where she had been having a gossip with the lodge-keeper's daughter.",-0.1779,0.0,0.082,0.918,negative,The Moonstone
+"The two girls had seen the Indians pass out, after I had warned them off, followed by their little boy.",-0.2732,0.0,0.104,0.896,negative,The Moonstone
+"Taking it into their heads that the boy was ill-used by the foreigners--for no reason that I could discover, except that he was pretty and delicate-looking--the two girls had stolen along the inner side of the hedge between us and the road, and had watched the proceedings of the foreigners on the outer side.",-0.296,0.055,0.092,0.853,negative,The Moonstone
+Those proceedings resulted in the performance of the following extraordinary tricks.,-0.128,0.0,0.13,0.87,negative,The Moonstone
+"They first looked up the road, and down the road, and made sure that they were alone.",0.0772,0.119,0.104,0.777,positive,The Moonstone
+"Then they all three faced about, and stared hard in the direction of our house.",-0.1027,0.0,0.091,0.909,negative,The Moonstone
+"Then they jabbered and disputed in their own language, and looked at each other like men in doubt.",-0.34,0.112,0.219,0.67,negative,The Moonstone
+"Then they all turned to their little English boy, as if they expected him to help them.",0.4019,0.144,0.0,0.856,positive,The Moonstone
+"And then the chief Indian, who spoke English, said to the boy, ""Hold out your hand.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"On hearing those dreadful words, my daughter Penelope said she didn't know what prevented her heart from flying straight out of her.",-0.2672,0.076,0.16,0.764,negative,The Moonstone
+I thought privately that it might have been her stays.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"All I said, however, was, ""You make my flesh creep.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+( Nota bene: Women like these little compliments.),0.3612,0.294,0.0,0.706,positive,The Moonstone
+"Well, when the Indian said, ""Hold out your hand,"" the boy shrunk back, and shook his head, and said he didn't like it.",-0.1053,0.082,0.137,0.781,negative,The Moonstone
+"The Indian, thereupon, asked him (not at all unkindly), whether he would like to be sent back to London, and left where they had found him, sleeping in an empty basket in a market--a hungry, ragged, and forsaken little boy.",0.1779,0.061,0.044,0.896,positive,The Moonstone
+"This, it seems, ended the difficulty.",-0.34,0.0,0.324,0.676,negative,The Moonstone
+The little chap unwillingly held out his hand.,0.4939,0.314,0.0,0.686,positive,The Moonstone
+"Upon that, the Indian took a bottle from his bosom, and poured out of it some black stuff, like ink, into the palm of the boy's hand.",0.6908,0.192,0.0,0.808,positive,The Moonstone
+"The Indian--first touching the boy's head, and making signs over it in the air--then said, ""Look.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The boy became quite stiff, and stood like a statue, looking into the ink in the hollow of his hand.",0.6908,0.251,0.0,0.749,positive,The Moonstone
+"(So far, it seemed to me to be juggling, accompanied by a foolish waste of ink.",-0.5994,0.0,0.274,0.726,negative,The Moonstone
+"I was beginning to feel sleepy again, when Penelope's next words stirred me up.)",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The Indians looked up the road and down the road once more--and then the chief Indian said these words to the boy; ""See the English gentleman from foreign parts.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The boy said, ""I see him.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The Indian said, ""Is it on the road to this house, and on no other, that the English gentleman will travel today?""",-0.296,0.0,0.095,0.905,negative,The Moonstone
+"The boy said, ""It is on the road to this house, and on no other, that the English gentleman will travel today.""",-0.296,0.0,0.095,0.905,negative,The Moonstone
+The Indian put a second question--after waiting a little first.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"He said: ""Has the English gentleman got It about him?""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The boy answered--also, after waiting a little first--""Yes.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The Indian put a third and last question: ""Will the English gentleman come here, as he has promised to come, at the close of day?""",0.3612,0.098,0.0,0.902,positive,The Moonstone
+"The boy said, ""I can't tell.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+The Indian asked why.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The boy said, ""I am tired.",-0.4404,0.0,0.367,0.633,negative,The Moonstone
+"The mist rises in my head, and puzzles me.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I can see no more today.""",-0.296,0.0,0.355,0.645,negative,The Moonstone
+With that the catechism ended.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The chief Indian said something in his own language to the other two, pointing to the boy, and pointing towards the town, in which (as we afterwards discovered) they were lodged.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"He then, after making more signs on the boy's head, blew on his forehead, and so woke him up with a start.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"After that, they all went on their way towards the town, and the girls saw them no more.",-0.296,0.0,0.115,0.885,negative,The Moonstone
+"Most things they say have a moral, if you only look for it.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+What was the moral of this?,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"The moral was, as I thought: First, that the chief juggler had heard Mr. Franklin's arrival talked of among the servants out-of-doors, and saw his way to making a little money by it.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Second, that he and his men and boy (with a view to making the said money) meant to hang about till they saw my lady drive home, and then to come back, and foretell Mr. Franklin's arrival by magic.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Third, that Penelope had heard them rehearsing their hocus-pocus, like actors rehearsing a play.",0.5994,0.308,0.0,0.692,positive,The Moonstone
+"Fourth, that I should do well to have an eye, that evening, on the plate-basket.",0.2732,0.139,0.0,0.861,positive,The Moonstone
+"Fifth, that Penelope would do well to cool down, and leave me, her father, to doze off again in the sun.",0.4939,0.186,0.051,0.763,positive,The Moonstone
+That appeared to me to be the sensible view.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"If you know anything of the ways of young women, you won't be surprised to hear that Penelope wouldn't take it.",-0.1695,0.0,0.077,0.923,negative,The Moonstone
+"The moral of the thing was serious, according to my daughter.",-0.0772,0.0,0.115,0.885,negative,The Moonstone
+"She particularly reminded me of the Indian's third question, Has the English gentleman got It about him?",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""Oh, father!""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"says Penelope, clasping her hands, ""don't joke about this.",-0.2235,0.0,0.191,0.809,negative,The Moonstone
+"What does 'It' mean?""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""We'll ask Mr. Franklin, my dear,"" I said, ""if you can wait till Mr. Franklin comes.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+I winked to show I meant that in joke.,0.296,0.268,0.0,0.732,positive,The Moonstone
+Penelope took it quite seriously.,-0.2484,0.0,0.333,0.667,negative,The Moonstone
+My girl's earnestness tickled me.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""What on earth should Mr. Franklin know about it?""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+I inquired.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""Ask him,"" says Penelope.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""And see whether he thinks it a laughing matter, too.""",0.5106,0.381,0.0,0.619,positive,The Moonstone
+"With that parting shot, my daughter left me.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I settled it with myself, when she was gone, that I really would ask Mr. Franklin--mainly to set Penelope's mind at rest.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"What was said between us, when I did ask him, later on that same day, you will find set out fully in its proper place.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"But as I don't wish to raise your expectations and then disappoint them, I will take leave to warn you here--before we go any further--that you won't find the ghost of a joke in our conversation on the subject of the jugglers.",-0.4756,0.11,0.196,0.694,negative,The Moonstone
+"To my great surprise, Mr. Franklin, like Penelope, took the thing seriously.",0.7906,0.473,0.092,0.435,positive,The Moonstone
+"How seriously, you will understand, when I tell you that, in his opinion, ""It"" meant the Moonstone.",-0.1779,0.0,0.102,0.898,negative,The Moonstone
+CHAPTER IV I am truly sorry to detain you over me and my beehive chair.,-0.0516,0.161,0.228,0.611,negative,The Moonstone
+"A sleepy old man, in a sunny back yard, is not an interesting object, I am well aware.",0.3903,0.256,0.118,0.626,positive,The Moonstone
+"But things must be put down in their places, as things actually happened--and you must please to jog on a little while longer with me, in expectation of Mr. Franklin Blake's arrival later in the day.",0.4497,0.08,0.0,0.92,positive,The Moonstone
+"Before I had time to doze off again, after my daughter Penelope had left me, I was disturbed by a rattling of plates and dishes in the servants' hall, which meant that dinner was ready.",-0.0258,0.071,0.074,0.855,neutral,The Moonstone
+"Taking my own meals in my own sitting-room, I had nothing to do with the servants' dinner, except to wish them a good stomach to it all round, previous to composing myself once more in my chair.",0.6808,0.145,0.0,0.855,positive,The Moonstone
+"I was just stretching my legs, when out bounced another woman on me.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Not my daughter again; only Nancy, the kitchen-maid, this time.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I was straight in her way out; and I observed, as she asked me to let her by, that she had a sulky face--a thing which, as head of the servants, I never allow, on principle, to pass me without inquiry.",-0.1446,0.048,0.088,0.864,negative,The Moonstone
+"""What are you turning your back on your dinner for?""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+I asked.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""What's wrong now, Nancy?""",-0.4767,0.0,0.508,0.492,negative,The Moonstone
+"Nancy tried to push by, without answering; upon which I rose up, and took her by the ear.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"She is a nice plump young lass, and it is customary with me to adopt that manner of showing that I personally approve of a girl.",0.5423,0.176,0.0,0.824,positive,The Moonstone
+"""What's wrong now?""",-0.4767,0.0,0.608,0.392,negative,The Moonstone
+I said once more.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""Rosanna's late again for dinner,"" says Nancy.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""And I'm sent to fetch her in.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+All the hard work falls on my shoulders in this house.,-0.1027,0.0,0.123,0.877,negative,The Moonstone
+"Let me alone, Mr.",-0.25,0.0,0.4,0.6,negative,The Moonstone
+"Betteredge!""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+The person here mentioned as Rosanna was our second housemaid.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Having a kind of pity for our second housemaid (why, you shall presently know), and seeing in Nancy's face, that she would fetch her fellow-servant in with more hard words than might be needful under the circumstances, it struck me that I had nothing particular to do, and that I might as well fetch Rosanna myself; giving her a hint to be punctual in future, which I knew she would take kindly from me .",0.3641,0.1,0.08,0.819,positive,The Moonstone
+"""Where is Rosanna?""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+I inquired.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""At the sands, of course!""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"says Nancy, with a toss of her head.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""She had another of her fainting fits this morning, and she asked to go out and get a breath of fresh air.",0.3182,0.103,0.0,0.897,positive,The Moonstone
+"I have no patience with her!""",-0.3595,0.0,0.384,0.616,negative,The Moonstone
+"""Go back to your dinner, my girl,"" I said.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"""I have patience with her, and I'll fetch her in.""",0.0,0.0,0.0,1.0,neutral,The Moonstone
+Nancy (who has a fine appetite) looked pleased.,0.5719,0.485,0.0,0.515,positive,The Moonstone
+"When she looks pleased, she looks nice.",0.6908,0.533,0.0,0.467,positive,The Moonstone
+"When she looks nice, I chuck her under the chin.",0.4215,0.259,0.0,0.741,positive,The Moonstone
+It isn't immorality--it's only habit.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Well, I took my stick, and set off for the sands.",0.2732,0.189,0.0,0.811,positive,The Moonstone
+No!,-0.3595,0.0,1.0,0.0,negative,The Moonstone
+it won't do to set off yet.,0.0,0.0,0.0,1.0,neutral,The Moonstone
+"I am sorry again to detain you; but you really must hear the story of the sands, and the story of Rosanna--for this reason, that the matter of the Diamond touches them both nearly.",0.296,0.117,0.084,0.799,positive,The Moonstone
+"How hard I try to get on with my statement without stopping by the way, and how badly I succeed!",0.1119,0.211,0.192,0.597,positive,The Moonstone
+"But, there!--Persons and Things do turn up so vexatiously in this life, and will in a manner insist on being noticed.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Let us take it easy, and let us take it short; we shall be in the thick of the mystery soon, I promise you!",0.6696,0.207,0.0,0.793,positive,The Moonstone
+"Rosanna (to put the Person before the Thing, which is but common politeness) was the only new servant in our house.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"About four months before the time I am writing of, my lady had been in London, and had gone over a Reformatory, intended to save forlorn women from drifting back into bad ways, after they had got released from prison.",-0.5574,0.071,0.151,0.778,negative,The Moonstone
+"The matron, seeing my lady took an interest in the place, pointed out a girl to her, named Rosanna Spearman, and told her a most miserable story, which I haven't the heart to repeat here; for I don't like to be made wretched without any use, and no more do you.",-0.5863,0.056,0.145,0.799,negative,The Moonstone
+"The upshot of it was, that Rosanna Spearman had been a thief, and not being of the sort that get up Companies in the City, and rob from thousands, instead of only robbing from one, the law laid hold of her, and the prison and the reformatory followed the lead of the law.",-0.8834,0.0,0.174,0.826,negative,The Moonstone
+"The matron's opinion of Rosanna was (in spite of what she had done) that the girl was one in a thousand, and that she only wanted a chance to prove herself worthy of any Christian woman's interest in her.",0.5423,0.178,0.077,0.745,positive,The Moonstone
+"My lady (being a Christian woman, if ever there was one yet) said to the matron, upon that, ""Rosanna Spearman shall have her chance, in my service.""",0.25,0.074,0.0,0.926,positive,The Moonstone
+"In a week afterwards, Rosanna Spearman entered this establishment as our second housemaid.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"Not a soul was told the girl's story, excepting Miss Rachel and me.",-0.1531,0.0,0.127,0.873,negative,The Moonstone
+"My lady, doing me the honour to consult me about most things, consulted me about Rosanna.",0.5719,0.198,0.0,0.802,positive,The Moonstone
+"Having fallen a good deal latterly into the late Sir John's way of always agreeing with my lady, I agreed with her heartily about Rosanna Spearman.",0.5994,0.247,0.084,0.669,positive,The Moonstone
+A fairer chance no girl could have had than was given to this poor girl of ours.,-0.5893,0.096,0.28,0.624,negative,The Moonstone
+"None of the servants could cast her past life in her teeth, for none of the servants knew what it had been.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"She had her wages and her privileges, like the rest of them; and every now and then a friendly word from my lady, in private, to encourage her.",0.891,0.335,0.0,0.665,positive,The Moonstone
+"In return, she showed herself, I am bound to say, well worthy of the kind treatment bestowed upon her.",0.8126,0.359,0.0,0.641,positive,The Moonstone
+"Though far from strong, and troubled occasionally with those fainting-fits already mentioned, she went about her work modestly and uncomplainingly, doing it carefully, and doing it well.",0.4404,0.21,0.091,0.699,positive,The Moonstone
+"But, somehow, she failed to make friends among the other women servants, excepting my daughter Penelope, who was always kind to Rosanna, though never intimate with her.",0.6486,0.235,0.12,0.645,positive,The Moonstone
+I hardly know what the girl did to offend them.,-0.296,0.0,0.216,0.784,negative,The Moonstone
+"There was certainly no beauty about her to make the others envious; she was the plainest woman in the house, with the additional misfortune of having one shoulder bigger than the other.",0.4404,0.161,0.112,0.727,positive,The Moonstone
+"What the servants chiefly resented, I think, was her silent tongue and her solitary ways.",-0.3818,0.0,0.167,0.833,negative,The Moonstone
+She read or worked in leisure hours when the rest gossiped.,-0.2732,0.0,0.174,0.826,negative,The Moonstone
+"And when it came to her turn to go out, nine times out of ten she quietly put on her bonnet, and had her turn by herself.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"She never quarrelled, she never took offence; she only kept a certain distance, obstinately and civilly, between the rest of them and herself.",0.4567,0.166,0.0,0.834,positive,The Moonstone
+"Add to this that, plain as she was, there was just a dash of something that wasn't like a housemaid, and that was like a lady, about her.",-0.4973,0.0,0.155,0.845,negative,The Moonstone
+"It might have been in her voice, or it might have been in her face.",0.0,0.0,0.0,1.0,neutral,The Moonstone
+"All I can say is, that the other women pounced on it like lightning the first day she came into the house, and said (which was most unjust) that Rosanna Spearman gave herself airs.",0.3612,0.072,0.0,0.928,positive,The Moonstone
+"Having now told the story of Rosanna, I have only to notice one of the many queer ways of this strange girl to get on next to the story of the sands.",-0.25,0.0,0.062,0.938,negative,The Moonstone
+Our house is high up on th,0.0,0.0,0.0,1.0,neutral,The Moonstone

@@ -1,0 +1,625 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Tales of Men and Ghosts This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.065,0.102,0.833,negative,Tales of Men and Ghosts
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Tales of Men and Ghosts
+"Title : Tales of Men and Ghosts Author : Edith Wharton Release date : October 1, 2003 [eBook #4514] Most recently updated: January 27, 2021 Language : English Other information and formats : www.gutenberg.org/ebooks/4514 Credits : Produced by Charles Aldarondo HTML file produced by David Widger *** START OF THE PROJECT GUTENBERG EBOOK TALES OF MEN AND GHOSTS *** TALES OF MEN AND GHOSTS By Edith Wharton London 1910 CONTENTS THE BOLTED DOOR HIS FATHER'S SON THE DAUNT DIANA THE DEBT FULL CIRCLE THE LEGEND THE EYES THE BLOND BEAST AFTERWARD THE LETTERS THE BOLTED DOOR I HUBERT GRANICE, pacing the length of his pleasant lamp-lit library, paused to compare his watch with the clock on the chimney-piece.",0.3751,0.05,0.028,0.923,positive,Tales of Men and Ghosts
+Three minutes to eight.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"In exactly three minutes Mr. Peter Ascham, of the eminent legal firm of Ascham and Pettilow, would have his punctual hand on the door-bell of the flat.",0.5719,0.158,0.0,0.842,positive,Tales of Men and Ghosts
+It was a comfort to reflect that Ascham was so punctual--the suspense was beginning to make his host nervous.,0.1027,0.121,0.102,0.777,positive,Tales of Men and Ghosts
+"And the sound of the door-bell would be the beginning of the end--after that there'd be no going back, by God--no going back!",-0.3595,0.0,0.102,0.898,negative,Tales of Men and Ghosts
+Granice resumed his pacing.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Each time he reached the end of the room opposite the door he caught his reflection in the Florentine mirror above the fine old walnut credence he had picked up at Dijon--saw himself spare, quick-moving, carefully brushed and dressed, but furrowed, gray about the temples, with a stoop which he corrected by a spasmodic straightening of the shoulders whenever a glass confronted him: a tired middle-aged man, baffled, beaten, worn out.",-0.8934,0.05,0.164,0.785,negative,Tales of Men and Ghosts
+As he summed himself up thus for the third or fourth time the door opened and he turned with a thrill of relief to greet his guest.,0.7845,0.256,0.0,0.744,positive,Tales of Men and Ghosts
+"But it was only the man-servant who entered, advancing silently over the mossy surface of the old Turkey rug.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Mr. Ascham telephones, sir, to say he's unexpectedly detained and can't be here till eight-thirty.""",-0.4019,0.0,0.162,0.838,negative,Tales of Men and Ghosts
+Granice made a curt gesture of annoyance.,-0.3182,0.0,0.315,0.685,negative,Tales of Men and Ghosts
+It was becoming harder and harder for him to control these reflexes.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He turned on his heel, tossing to the servant over his shoulder: ""Very good.",0.4927,0.197,0.0,0.803,positive,Tales of Men and Ghosts
+"Put off dinner.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Down his spine he felt the man's injured stare.,-0.4019,0.0,0.252,0.748,negative,Tales of Men and Ghosts
+Mr. Granice had always been so mild-spoken to his people--no doubt the odd change in his manner had already been noticed and discussed below stairs.,-0.5859,0.0,0.173,0.827,negative,Tales of Men and Ghosts
+And very likely they suspected the cause.,-0.2878,0.0,0.265,0.735,negative,Tales of Men and Ghosts
+"He stood drumming on the writing-table till he heard the servant go out; then he threw himself into a chair, propping his elbows on the table and resting his chin on his locked hands.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Another half hour alone with it!,-0.3164,0.0,0.314,0.686,negative,Tales of Men and Ghosts
+He wondered irritably what could have detained his guest.,-0.6705,0.0,0.44,0.56,negative,Tales of Men and Ghosts
+"Some professional matter, no doubt--the punctilious lawyer would have allowed nothing less to interfere with a dinner engagement, more especially since Granice, in his note, had said: ""I shall want a little business chat afterward.""",0.296,0.148,0.06,0.792,positive,Tales of Men and Ghosts
+But what professional matter could have come up at that unprofessional hour?,-0.6486,0.074,0.285,0.641,negative,Tales of Men and Ghosts
+"Perhaps some other soul in misery had called on the lawyer; and, after all, Granice's note had given no hint of his own need!",-0.7345,0.0,0.22,0.78,negative,Tales of Men and Ghosts
+No doubt Ascham thought he merely wanted to make another change in his will.,-0.5719,0.0,0.281,0.719,negative,Tales of Men and Ghosts
+"Since he had come into his little property, ten years earlier, Granice had been perpetually tinkering with his will.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Suddenly another thought pulled him up, sending a flush to his sallow temples.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He remembered a word he had tossed to the lawyer some six weeks earlier, at the Century Club.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Yes--my play's as good as taken.",0.4404,0.367,0.0,0.633,positive,Tales of Men and Ghosts
+I shall be calling on you soon to go over the contract.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Those theatrical chaps are so slippery--I won't trust anybody but you to tie the knot for me!""",-0.3127,0.0,0.124,0.876,negative,Tales of Men and Ghosts
+"That, of course, was what Ascham would think he was wanted for.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Granice, at the idea, broke into an audible laugh--a queer stage-laugh, like the cackle of a baffled villain in a melodrama.",-0.5994,0.1,0.257,0.643,negative,Tales of Men and Ghosts
+"The absurdity, the unnaturalness of the sound abashed him, and he compressed his lips angrily.",-0.4215,0.0,0.167,0.833,negative,Tales of Men and Ghosts
+Would he take to soliloquy next?,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He lowered his arms and pulled open the upper drawer of the writing-table.,-0.128,0.0,0.111,0.889,negative,Tales of Men and Ghosts
+"In the right-hand corner lay a thick manuscript, bound in paper folders, and tied with a string beneath which a letter had been slipped.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Next to the manuscript was a small revolver.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice stared a moment at these oddly associated objects; then he took the letter from under the string and slowly began to open it.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He had known he should do so from the moment his hand touched the drawer.,0.4939,0.186,0.0,0.814,positive,Tales of Men and Ghosts
+Whenever his eye fell on that letter some relentless force compelled him to re-read it.,0.1027,0.156,0.0,0.844,positive,Tales of Men and Ghosts
+"It was dated about four weeks back, under the letter-head of ""The Diversity Theatre.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""MY DEAR MR. GRANICE: ""I have given the matter my best consideration for the last month, and it's no use--the play won't do.",0.8331,0.353,0.07,0.576,positive,Tales of Men and Ghosts
+I have talked it over with Miss Melrose--and you know there isn't a gamer artist on our stage--and I regret to tell you she feels just as I do about it.,-0.5267,0.0,0.15,0.85,negative,Tales of Men and Ghosts
+It isn't the poetry that scares her--or me either.,-0.34,0.0,0.231,0.769,negative,Tales of Men and Ghosts
+"We both want to do all we can to help along the poetic drama--we believe the public's ready for it, and we're willing to take a big financial risk in order to be the first to give them what they want.",0.5719,0.174,0.047,0.78,positive,Tales of Men and Ghosts
+But we don't believe they could be made to want this.,0.1154,0.127,0.0,0.873,positive,Tales of Men and Ghosts
+"The fact is, there isn't enough drama in your play to the allowance of poetry--the thing drags all through.",0.1779,0.114,0.081,0.806,positive,Tales of Men and Ghosts
+"You've got a big idea, but it's not out of swaddling clothes.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""If this was your first play I'd say: Try again .",0.34,0.211,0.0,0.789,positive,Tales of Men and Ghosts
+But it has been just the same with all the others you've shown me.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"And you remember the result of 'The Lee Shore,' where you carried all the expenses of production yourself, and we couldn't fill the theatre for a week.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Yet 'The Lee Shore' was a modern problem play--much easier to swing than blank verse.,0.0258,0.16,0.154,0.686,neutral,Tales of Men and Ghosts
+"It isn't as if you hadn't tried all kinds--"" Granice folded the letter and put it carefully back into the envelope.",0.128,0.07,0.0,0.93,positive,Tales of Men and Ghosts
+"Why on earth was he re-reading it, when he knew every phrase in it by heart, when for a month past he had seen it, night after night, stand out in letters of flame against the darkness of his sleepless lids? """,-0.25,0.0,0.049,0.951,negative,Tales of Men and Ghosts
+"It has been just the same with all the others you've shown me. """,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"That was the way they dismissed ten years of passionate unremitting work! """,0.5707,0.251,0.0,0.749,positive,Tales of Men and Ghosts
+You remember the result of 'The Lee Shore.',0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+""" Good God--as if he were likely to forget it!",0.3164,0.264,0.157,0.579,positive,Tales of Men and Ghosts
+"He re-lived it all now in a drowning flash: the persistent rejection of the play, his sudden resolve to put it on at his own cost, to spend ten thousand dollars of his inheritance on testing his chance of success--the fever of preparation, the dry-mouthed agony of the ""first night,"" the flat fall, the stupid press, his secret rush to Europe to escape the condolence of his friends! """,0.1007,0.15,0.12,0.73,positive,Tales of Men and Ghosts
+"It isn't as if you hadn't tried all kinds. """,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"No--he had tried all kinds: comedy, tragedy, prose and verse, the light curtain-raiser, the short sharp drama, the bourgeois-realistic and the lyrical-romantic--finally deciding that he would no longer ""prostitute his talent"" to win popularity, but would impose on the public his own theory of art in the form of five acts of blank verse.",0.0,0.13,0.114,0.756,neutral,Tales of Men and Ghosts
+"Yes, he had offered them everything--and always with the same result.",0.4019,0.213,0.0,0.787,positive,Tales of Men and Ghosts
+Ten years of it--ten years of dogged work and unrelieved failure.,-0.5106,0.0,0.248,0.752,negative,Tales of Men and Ghosts
+The ten years from forty to fifty--the best ten years of his life!,0.6696,0.272,0.0,0.728,positive,Tales of Men and Ghosts
+"And if one counted the years before, the silent years of dreams, assimilation, preparation--then call it half a man's life-time: half a man's life-time thrown away!",0.4574,0.115,0.0,0.885,positive,Tales of Men and Ghosts
+And what was he to do with the remaining half?,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Well, he had settled that, thank God!",0.7177,0.636,0.0,0.364,positive,Tales of Men and Ghosts
+He turned and glanced anxiously at the clock.,-0.2263,0.0,0.213,0.787,negative,Tales of Men and Ghosts
+Ten minutes past eight--only ten minutes had been consumed in that stormy rush through his whole past!,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+And he must wait another twenty minutes for Ascham.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"It was one of the worst symptoms of his case that, in proportion as he had grown to shrink from human company, he dreaded more and more to be alone.",-0.8768,0.0,0.272,0.728,negative,Tales of Men and Ghosts
+...,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+But why the devil was he waiting for Ascham?,-0.7964,0.0,0.433,0.567,negative,Tales of Men and Ghosts
+Why didn't he cut the knot himself?,0.2057,0.232,0.0,0.768,positive,Tales of Men and Ghosts
+"Since he was so unutterably sick of the whole business, why did he have to call in an outsider to rid him of this nightmare of living?",-0.5542,0.0,0.121,0.879,negative,Tales of Men and Ghosts
+He opened the drawer again and laid his hand on the revolver.,0.4939,0.225,0.0,0.775,positive,Tales of Men and Ghosts
+"It was a small slim ivory toy--just the instrument for a tired sufferer to give himself a ""hypodermic"" with.",-0.7096,0.0,0.296,0.704,negative,Tales of Men and Ghosts
+"Granice raised it slowly in one hand, while with the other he felt under the thin hair at the back of his head, between the ear and the nape.",0.4939,0.103,0.0,0.897,positive,Tales of Men and Ghosts
+He knew just where to place the muzzle: he had once got a young surgeon to show him.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"And as he found the spot, and lifted the revolver to it, the inevitable phenomenon occurred.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The hand that held the weapon began to shake, the tremor communicated itself to his arm, his heart gave a wild leap which sent up a wave of deadly nausea to his throat, he smelt the powder, he sickened at the crash of the bullet through his skull, and a sweat of fear broke out over his forehead and ran down his quivering face...",-0.8979,0.044,0.22,0.737,negative,Tales of Men and Ghosts
+"He laid away the revolver with an oath and, pulling out a cologne-scented handkerchief, passed it tremulously over his brow and temples.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+It was no use--he knew he could never do it in that way.,-0.296,0.0,0.155,0.845,negative,Tales of Men and Ghosts
+His attempts at self-destruction were as futile as his snatches at fame!,0.0,0.184,0.184,0.633,neutral,Tales of Men and Ghosts
+"He couldn't make himself a real life, and he couldn't get rid of the life he had.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+And that was why he had sent for Ascham to help him...,0.4019,0.197,0.0,0.803,positive,Tales of Men and Ghosts
+"The lawyer, over the Camembert and Burgundy, began to excuse himself for his delay.",-0.25,0.083,0.147,0.769,negative,Tales of Men and Ghosts
+"""I didn't like to say anything while your man was about--but the fact is, I was sent for on a rather unusual matter--"" ""Oh, it's all right,"" said Granice cheerfully.",0.2477,0.099,0.068,0.833,positive,Tales of Men and Ghosts
+He was beginning to feel the usual reaction that food and company produced.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"It was not any recovered pleasure in life that he felt, but only a deeper withdrawal into himself.",-0.2141,0.063,0.11,0.826,negative,Tales of Men and Ghosts
+It was easier to go on automatically with the social gestures than to uncover to any human eye the abyss within him.,0.4215,0.118,0.0,0.882,positive,Tales of Men and Ghosts
+"""My dear fellow, it's sacrilege to keep a dinner waiting--especially the production of an artist like yours.""",0.6249,0.267,0.0,0.733,positive,Tales of Men and Ghosts
+Mr. Ascham sipped his Burgundy luxuriously.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""But the fact is, Mrs. Ashgrove sent for me.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice raised his head with a quick movement of surprise.,0.2732,0.208,0.0,0.792,positive,Tales of Men and Ghosts
+"For a moment he was shaken out of his self-absorption. """,-0.0772,0.0,0.14,0.86,negative,Tales of Men and Ghosts
+"Mrs. Ashgrove? """,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Ascham smiled.,0.5423,0.778,0.0,0.222,positive,Tales of Men and Ghosts
+"""I thought you'd be interested; I know your passion for causes celebres .",0.6908,0.388,0.0,0.612,positive,Tales of Men and Ghosts
+And this promises to be one.,0.3818,0.342,0.0,0.658,positive,Tales of Men and Ghosts
+Of course it's out of our line entirely--we never touch criminal cases.,0.4168,0.202,0.0,0.798,positive,Tales of Men and Ghosts
+But she wanted to consult me as a friend.,0.6486,0.381,0.0,0.619,positive,Tales of Men and Ghosts
+Ashgrove was a distant connection of my wife's.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"And, by Jove, it is a queer case!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The servant re-entered, and Ascham snapped his lips shut.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Would the gentlemen have their coffee in the dining-room?,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""No--serve it in the library,"" said Granice, rising.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He led the way back to the curtained confidential room.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He was really curious to hear what Ascham had to tell him.,0.3804,0.191,0.0,0.809,positive,Tales of Men and Ghosts
+"While the coffee and cigars were being served he fidgeted about the library, glancing at his letters--the usual meaningless notes and bills--and picking up the evening paper.",-0.4404,0.0,0.1,0.9,negative,Tales of Men and Ghosts
+As he unfolded it a headline caught his eye.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""ROSE MELROSE WANTS TO PLAY POETRY.",0.34,0.324,0.0,0.676,positive,Tales of Men and Ghosts
+"""THINKS SHE HAS FOUND HER POET.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He read on with a thumping heart--found the name of a young author he had barely heard of, saw the title of a play, a ""poetic drama,"" dance before his eyes, and dropped the paper, sick, disgusted.",-0.6486,0.061,0.171,0.767,negative,Tales of Men and Ghosts
+"It was true, then--she was ""game""--it was not the manner but the matter she mistrusted!",0.3274,0.205,0.0,0.795,positive,Tales of Men and Ghosts
+"Granice turned to the servant, who seemed to be purposely lingering.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I shan't need you this evening, Flint.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I'll lock up myself.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He fancied the man's acquiescence implied surprise.,0.2732,0.259,0.0,0.741,positive,Tales of Men and Ghosts
+"What was going on, Flint seemed to wonder, that Mr. Granice should want him out of the way?",0.0772,0.071,0.0,0.929,positive,Tales of Men and Ghosts
+Probably he would find a pretext for coming back to see.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice suddenly felt himself enveloped in a network of espionage.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+As the door closed he threw himself into an armchair and leaned forward to take a light from Ascham's cigar.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Tell me about Mrs. Ashgrove,"" he said, seeming to himself to speak stiffly, as if his lips were cracked.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Mrs. Ashgrove?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Well, there's not much to tell .""",0.2732,0.259,0.0,0.741,positive,Tales of Men and Ghosts
+"""And you couldn't if there were?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice smiled.,0.5423,0.778,0.0,0.222,positive,Tales of Men and Ghosts
+"""Probably not.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"As a matter of fact, she wanted my advice about her choice of counsel.",0.0258,0.084,0.0,0.916,neutral,Tales of Men and Ghosts
+"There was nothing especially confidential in our talk.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""And what's your impression, now you've seen her?""",0.2263,0.213,0.0,0.787,positive,Tales of Men and Ghosts
+"""My impression is, very distinctly, that nothing will ever be known. """,0.2263,0.16,0.0,0.84,positive,Tales of Men and Ghosts
+"""Ah--?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Granice murmured, puffing at his cigar.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I'm more and more convinced that whoever poisoned Ashgrove knew his business, and will consequently never be found out.",0.0146,0.139,0.136,0.725,neutral,Tales of Men and Ghosts
+"That's a capital cigar you've given me.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""You like it?",0.3612,0.556,0.0,0.444,positive,Tales of Men and Ghosts
+"I get them over from Cuba.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice examined his own reflectively.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Then you believe in the theory that the clever criminals never are caught?""",-0.1779,0.169,0.209,0.621,negative,Tales of Men and Ghosts
+"""Of course I do.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Look about you--look back for the last dozen years--none of the big murder problems are ever solved.""",-0.8126,0.0,0.33,0.67,negative,Tales of Men and Ghosts
+The lawyer ruminated behind his blue cloud.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Why, take the instance in your own family: I'd forgotten I had an illustration at hand!",0.3802,0.19,0.103,0.707,positive,Tales of Men and Ghosts
+"Take old Joseph Lenman's murder--do you suppose that will ever be explained?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"As the words dropped from Ascham's lips his host looked slowly about the library, and every object in it stared back at him with a stale unescapable familiarity.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+How sick he was of looking at that room!,-0.5562,0.0,0.31,0.69,negative,Tales of Men and Ghosts
+It was as dull as the face of a wife one has wearied of.,-0.4019,0.0,0.184,0.816,negative,Tales of Men and Ghosts
+"He cleared his throat slowly; then he turned his head to the lawyer and said: ""I could explain the Lenman murder myself.""",-0.6486,0.054,0.18,0.766,negative,Tales of Men and Ghosts
+Ascham's eye kindled: he shared Granice's interest in criminal cases.,0.25,0.342,0.215,0.443,positive,Tales of Men and Ghosts
+"""By Jove!",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+You've had a theory all this time?,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+It's odd you never mentioned it.,-0.3182,0.0,0.315,0.685,negative,Tales of Men and Ghosts
+Go ahead and tell me.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"There are certain features in the Lenman case not unlike this Ashgrove affair, and your idea may be a help.""",0.2732,0.104,0.0,0.896,positive,Tales of Men and Ghosts
+Granice paused and his eye reverted instinctively to the table drawer in which the revolver and the manuscript lay side by side.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+What if he were to try another appeal to Rose Melrose?,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Then he looked at the notes and bills on the table, and the horror of taking up again the lifeless routine of life--of performing the same automatic gestures another day--displaced his fleeting vision.",-0.4019,0.054,0.101,0.845,negative,Tales of Men and Ghosts
+"""I haven't a theory.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I know who murdered Joseph Lenman.""",-0.6597,0.0,0.524,0.476,negative,Tales of Men and Ghosts
+"Ascham settled himself comfortably in his chair, prepared for enjoyment.",0.8074,0.542,0.0,0.458,positive,Tales of Men and Ghosts
+"""You know?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Well, who did?""",0.2732,0.512,0.0,0.488,positive,Tales of Men and Ghosts
+he laughed.,0.4588,0.75,0.0,0.25,positive,Tales of Men and Ghosts
+"""I did,"" said Granice, rising.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He stood before Ascham, and the lawyer lay back staring up at him.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Then he broke into another laugh.,0.2023,0.346,0.269,0.385,positive,Tales of Men and Ghosts
+"""Why, this is glorious!",0.6696,0.6,0.0,0.4,positive,Tales of Men and Ghosts
+"You murdered him, did you?",-0.6597,0.0,0.524,0.476,negative,Tales of Men and Ghosts
+"To inherit his money, I suppose?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Better and better!,0.7263,0.859,0.0,0.141,positive,Tales of Men and Ghosts
+"Go on, my boy!",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Unbosom yourself!,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Tell me all about it!,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Confession is good for the soul.""",0.4404,0.367,0.0,0.633,positive,Tales of Men and Ghosts
+"Granice waited till the lawyer had shaken the last peal of laughter from his throat; then he repeated doggedly: ""I murdered him.""",-0.3612,0.115,0.204,0.681,negative,Tales of Men and Ghosts
+"The two men looked at each other for a long moment, and this time Ascham did not laugh.",-0.4449,0.0,0.155,0.845,negative,Tales of Men and Ghosts
+"""Granice!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I murdered him--to get his money, as you say.""",-0.6597,0.0,0.355,0.645,negative,Tales of Men and Ghosts
+"There was another pause, and Granice, with a vague underlying sense of amusement, saw his guest's look change from pleasantry to apprehension.",0.25,0.204,0.167,0.63,positive,Tales of Men and Ghosts
+"""What's the joke, my dear fellow?",0.5859,0.545,0.0,0.455,positive,Tales of Men and Ghosts
+"I fail to see.""",-0.5423,0.0,0.636,0.364,negative,Tales of Men and Ghosts
+"""It's not a joke.",-0.2235,0.0,0.486,0.514,negative,Tales of Men and Ghosts
+It's the truth.,0.3182,0.535,0.0,0.465,positive,Tales of Men and Ghosts
+"I murdered him.""",-0.6597,0.0,0.815,0.185,negative,Tales of Men and Ghosts
+"He had spoken painfully at first, as if there were a knot in his throat; but each time he repeated the words he found they were easier to say.",0.3612,0.116,0.069,0.815,positive,Tales of Men and Ghosts
+Ascham laid down his extinct cigar.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""What's the matter?",0.0258,0.355,0.0,0.645,neutral,Tales of Men and Ghosts
+Aren't you well?,-0.2057,0.0,0.476,0.524,negative,Tales of Men and Ghosts
+"What on earth are you driving at?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I'm perfectly well.",0.743,0.863,0.0,0.137,positive,Tales of Men and Ghosts
+"But I murdered my cousin, Joseph Lenman, and I want it known that I murdered him.""",-0.9294,0.061,0.516,0.423,negative,Tales of Men and Ghosts
+""" You want it known? """,0.0772,0.302,0.0,0.698,positive,Tales of Men and Ghosts
+"""Yes.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+That's why I sent for you.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I'm sick of living, and when I try to kill myself I funk it.""",-0.8402,0.0,0.444,0.556,negative,Tales of Men and Ghosts
+"He spoke quite naturally now, as if the knot in his throat had been untied.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Good Lord--good Lord,"" the lawyer gasped.",0.4404,0.367,0.0,0.633,positive,Tales of Men and Ghosts
+"""But I suppose,"" Granice continued, ""there's no doubt this would be murder in the first degree?",-0.9274,0.0,0.512,0.488,negative,Tales of Men and Ghosts
+"I'm sure of the chair if I own up?""",0.3182,0.247,0.0,0.753,positive,Tales of Men and Ghosts
+"Ascham drew a long breath; then he said slowly: ""Sit down, Granice.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Let's talk.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"II GRANICE told his story simply, connectedly.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He began by a quick survey of his early years--the years of drudgery and privation.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"His father, a charming man who could never say ""no,"" had so signally failed to say it on certain essential occasions that when he died he left an illegitimate family and a mortgaged estate.",-0.3134,0.144,0.175,0.682,negative,Tales of Men and Ghosts
+"His lawful kin found themselves hanging over a gulf of debt, and young Granice, to support his mother and sister, had to leave Harvard and bury himself at eighteen in a broker's office.",-0.0,0.078,0.108,0.814,neutral,Tales of Men and Ghosts
+"He loathed his work, and he was always poor, always worried and in ill-health.",-0.8126,0.0,0.433,0.567,negative,Tales of Men and Ghosts
+"A few years later his mother died, but his sister, an ineffectual neurasthenic, remained on his hands.",-0.6249,0.0,0.267,0.733,negative,Tales of Men and Ghosts
+"His own health gave out, and he had to go away for six months, and work harder than ever when he came back.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He had no knack for business, no head for figures, no dimmest insight into the mysteries of commerce.",-0.6808,0.0,0.306,0.694,negative,Tales of Men and Ghosts
+He wanted to travel and write--those were his inmost longings.,0.1027,0.135,0.0,0.865,positive,Tales of Men and Ghosts
+"And as the years dragged on, and he neared middle-age without making any more money, or acquiring any firmer health, a sick despair possessed him.",-0.7003,0.0,0.245,0.755,negative,Tales of Men and Ghosts
+"He tried writing, but he always came home from the office so tired that his brain could not work.",-0.7279,0.0,0.221,0.779,negative,Tales of Men and Ghosts
+"For half the year he did not reach his dim up-town flat till after dark, and could only ""brush up"" for dinner, and afterward lie on the lounge with his pipe, while his sister droned through the evening paper.",-0.0191,0.0,0.027,0.973,neutral,Tales of Men and Ghosts
+"Sometimes he spent an evening at the theatre; or he dined out, or, more rarely, strayed off with an acquaintance or two in quest of what is known as ""pleasure.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"And in summer, when he and Kate went to the sea-side for a month, he dozed through the days in utter weariness.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Once he fell in love with a charming girl--but what had he to offer her, in God's name?",0.8402,0.348,0.0,0.652,positive,Tales of Men and Ghosts
+"She seemed to like him, and in common decency he had to drop out of the running.",0.1027,0.128,0.107,0.765,positive,Tales of Men and Ghosts
+"Apparently no one replaced him, for she never married, but grew stoutish, grayish, philanthropic--yet how sweet she had been when he had first kissed her!",0.7959,0.246,0.051,0.703,positive,Tales of Men and Ghosts
+"One more wasted life, he reflected...",-0.5413,0.0,0.411,0.589,negative,Tales of Men and Ghosts
+But the stage had always been his master-passion.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He would have sold his soul for the time and freedom to write plays!,0.7574,0.351,0.0,0.649,positive,Tales of Men and Ghosts
+It was in him --he could not remember when it had not been his deepest-seated instinct.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"As the years passed it became a morbid, a relentless obsession--yet with every year the material conditions were more and more against it.",0.0516,0.057,0.0,0.943,positive,Tales of Men and Ghosts
+"He felt himself growing middle-aged, and he watched the reflection of the process in his sister's wasted face.",-0.3612,0.081,0.153,0.766,negative,Tales of Men and Ghosts
+"At eighteen she had been pretty, and as full of enthusiasm as he.",0.7269,0.357,0.0,0.643,positive,Tales of Men and Ghosts
+"Now she was sour, trivial, insignificant--she had missed her chance of life.",-0.0772,0.14,0.231,0.629,negative,Tales of Men and Ghosts
+"And she had no resources, poor creature, was fashioned simply for the primitive functions she had been denied the chance to fulfil!",-0.7574,0.07,0.298,0.632,negative,Tales of Men and Ghosts
+"It exasperated him to think of it--and to reflect that even now a little travel, a little health, a little money, might transform her, make her young and desirable...",-0.4215,0.0,0.101,0.899,negative,Tales of Men and Ghosts
+"The chief fruit of his experience was that there is no such fixed state as age or youth--there is only health as against sickness, wealth as against poverty; and age or youth as the outcome of the lot one draws.",-0.3182,0.07,0.12,0.81,negative,Tales of Men and Ghosts
+"At this point in his narrative Granice stood up, and went to lean against the mantel-piece, looking down at Ascham, who had not moved from his seat, or changed his attitude of rigid fascinated attention.",0.3818,0.082,0.04,0.878,positive,Tales of Men and Ghosts
+"""Then came the summer when we went to Wrenfield to be near old Lenman--my mother's cousin, as you know.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Some of the family always mounted guard over him--generally a niece or so.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"But that year they were all scattered, and one of the nieces offered to lend us her cottage if we'd relieve her of duty for two months.",0.5023,0.111,0.0,0.889,positive,Tales of Men and Ghosts
+"It was a nuisance for me, of course, for Wrenfield is two hours from town; but my mother, who was a slave to family observances, had always been good to the old man, so it was natural we should be called on--and there was the saving of rent and the good air for Kate.",0.9071,0.188,0.0,0.812,positive,Tales of Men and Ghosts
+So we went.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""You never knew Joseph Lenman?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Well, picture to yourself an amoeba or some primitive organism of that sort, under a Titan's microscope.",0.2732,0.123,0.0,0.877,positive,Tales of Men and Ghosts
+"He was large, undifferentiated, inert--since I could remember him he had done nothing but take his temperature and read the Churchman .",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Oh, and cultivate melons--that was his hobby.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Not vulgar, out-of-door melons--his were grown under glass.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He had miles of it at Wrenfield--his big kitchen-garden was surrounded by blinking battalions of green-houses.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"And in nearly all of them melons were grown--early melons and late, French, English, domestic--dwarf melons and monsters: every shape, colour and variety.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+They were petted and nursed like children--a staff of trained attendants waited on them.,0.3612,0.161,0.0,0.839,positive,Tales of Men and Ghosts
+I'm not sure they didn't have a doctor to take their temperature--at any rate the place was full of thermometers.,-0.2411,0.0,0.098,0.902,negative,Tales of Men and Ghosts
+"And they didn't sprawl on the ground like ordinary melons; they were trained against the glass like nectarines, and each melon hung in a net which sustained its weight and left it free on all sides to the sun and air... ""It used to strike me sometimes that old Lenman was just like one of his own melons--the pale-fleshed English kind.",0.9136,0.204,0.022,0.775,positive,Tales of Men and Ghosts
+"His life, apathetic and motionless, hung in a net of gold, in an equable warm ventilated atmosphere, high above sordid earthly worries.",-0.4767,0.076,0.201,0.723,negative,Tales of Men and Ghosts
+The cardinal rule of his existence was not to let himself be 'worried.',0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+.,0.0,0.0,0.0,0.0,neutral,Tales of Men and Ghosts
+.,0.0,0.0,0.0,0.0,neutral,Tales of Men and Ghosts
+"I remember his advising me to try it myself, one day when I spoke to him about Kate's bad health, and her need of a change.",-0.5423,0.0,0.137,0.863,negative,Tales of Men and Ghosts
+"'I never let myself worry,' he said complacently.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+'It's the worst thing for the liver--and you look to me as if you had a liver.,-0.6249,0.0,0.215,0.785,negative,Tales of Men and Ghosts
+Take my advice and be cheerful.,0.5423,0.412,0.0,0.588,positive,Tales of Men and Ghosts
+You'll make yourself happier and others too.',0.5267,0.362,0.0,0.638,positive,Tales of Men and Ghosts
+"And all he had to do was to write a cheque, and send the poor girl off for a holiday!",-0.1759,0.122,0.154,0.724,negative,Tales of Men and Ghosts
+"""The hardest part of it was that the money half-belonged to us already.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The old skin-flint only had it for life, in trust for us and the others.",0.5106,0.191,0.0,0.809,positive,Tales of Men and Ghosts
+But his life was a good deal sounder than mine or Kate's--and one could picture him taking extra care of it for the joke of keeping us waiting.,0.899,0.313,0.0,0.687,positive,Tales of Men and Ghosts
+I always felt that the sight of our hungry eyes was a tonic to him.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Well, I tried to see if I couldn't reach him through his vanity.",-0.2439,0.0,0.248,0.752,negative,Tales of Men and Ghosts
+"I flattered him, feigned a passionate interest in his melons.",0.8402,0.643,0.0,0.357,positive,Tales of Men and Ghosts
+"And he was taken in, and used to discourse on them by the hour.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"On fine days he was driven to the green-houses in his pony-chair, and waddled through them, prodding and leering at the fruit, like a fat Turk in his seraglio.",0.5106,0.142,0.0,0.858,positive,Tales of Men and Ghosts
+When he bragged to me of the expense of growing them I was reminded of a hideous old Lothario bragging of what his pleasures cost.,0.5574,0.18,0.0,0.82,positive,Tales of Men and Ghosts
+And the resemblance was completed by the fact that he couldn't eat as much as a mouthful of his melons--had lived for years on buttermilk and toast.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"'But, after all, it's my only hobby--why shouldn't I indulge it?'",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+he said sentimentally.,0.4404,0.592,0.0,0.408,positive,Tales of Men and Ghosts
+As if I'd ever been able to indulge any of mine!,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"On the keep of those melons Kate and I could have lived like gods... ""One day toward the end of the summer, when Kate was too unwell to drag herself up to the big house, she asked me to go and spend the afternoon with cousin Joseph.",0.1531,0.052,0.039,0.909,positive,Tales of Men and Ghosts
+"It was a lovely soft September afternoon--a day to lie under a Roman stone-pine, with one's eyes on the sky, and let the cosmic harmonies rush through one.",0.7269,0.203,0.0,0.797,positive,Tales of Men and Ghosts
+"Perhaps the vision was suggested by the fact that, as I entered cousin Joseph's hideous black walnut library, I passed one of the under-gardeners, a handsome full-throated Italian, who dashed out in such a hurry that he nearly knocked me down.",0.6369,0.129,0.0,0.871,positive,Tales of Men and Ghosts
+"I remember thinking it queer that the fellow, whom I had often seen about the melon-houses, did not bow to me, or even seem to see me.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Cousin Joseph sat in his usual seat, behind the darkened windows, his fat hands folded on his protuberant waistcoat, the last number of the Churchman at his elbow, and near it, on a huge dish, a fat melon--the fattest melon I'd ever seen.",0.3818,0.085,0.0,0.915,positive,Tales of Men and Ghosts
+"As I looked at it I pictured the ecstasy of contemplation from which I must have roused him, and congratulated myself on finding him in such a mood, since I had made up my mind to ask him a favour.",0.7783,0.175,0.0,0.825,positive,Tales of Men and Ghosts
+"Then I noticed that his face, instead of looking as calm as an egg-shell, was distorted and whimpering--and without stopping to greet me he pointed passionately to the melon.",0.3574,0.205,0.134,0.661,positive,Tales of Men and Ghosts
+"""'Look at it, look at it--did you ever see such a beauty?",0.5859,0.275,0.0,0.725,positive,Tales of Men and Ghosts
+Such firmness--roundness--such delicious smoothness to the touch?',0.5719,0.381,0.0,0.619,positive,Tales of Men and Ghosts
+"It was as if he had said 'she' instead of 'it,' and when he put out his senile hand and touched the melon I positively had to look the other way.",0.765,0.191,0.0,0.809,positive,Tales of Men and Ghosts
+"""Then he told me what had happened.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The Italian under-gardener, who had been specially recommended for the melon-houses--though it was against my cousin's principles to employ a Papist--had been assigned to the care of the monster: for it had revealed itself, early in its existence, as destined to become a monster, to surpass its plumpest, pulpiest sisters, carry off prizes at agricultural shows, and be photographed and celebrated in every gardening paper in the land.",0.8934,0.159,0.0,0.841,positive,Tales of Men and Ghosts
+The Italian had done well--seemed to have a sense of responsibility.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"And that very morning he had been ordered to pick the melon, which was to be shown next day at the county fair, and to bring it in for Mr. Lenman to gaze on its blonde virginity.",0.3182,0.06,0.0,0.94,positive,Tales of Men and Ghosts
+"But in picking it, what had the damned scoundrelly Jesuit done but drop it--drop it crash on the sharp spout of a watering-pot, so that it received a deep gash in its firm pale rotundity, and was henceforth but a bruised, ruined, fallen melon?",-0.9517,0.0,0.321,0.679,negative,Tales of Men and Ghosts
+"""The old man's rage was fearful in its impotence--he shook, spluttered and strangled with it.",-0.8934,0.0,0.515,0.485,negative,Tales of Men and Ghosts
+"He had just had the Italian up and had sacked him on the spot, without wages or character--had threatened to have him arrested if he was ever caught prowling about Wrenfield.",-0.7269,0.0,0.174,0.826,negative,Tales of Men and Ghosts
+"'By God, and I'll do it--I'll write to Washington--I'll have the pauper scoundrel deported!",0.3382,0.155,0.0,0.845,positive,Tales of Men and Ghosts
+I'll show him what money can do!',0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+As likely as not there was some murderous Black-hand business under it--it would be found that the fellow was a member of a 'gang.',-0.6369,0.0,0.167,0.833,negative,Tales of Men and Ghosts
+Those Italians would murder you for a quarter.,-0.6908,0.0,0.439,0.561,negative,Tales of Men and Ghosts
+He meant to have the police look into it... And then he grew frightened at his own excitement.,0.0772,0.145,0.131,0.724,positive,Tales of Men and Ghosts
+"'But I must calm myself,' he said.",0.4497,0.371,0.0,0.629,positive,Tales of Men and Ghosts
+"He took his temperature, rang for his drops, and turned to the Churchman .",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He had been reading an article on Nestorianism when the melon was brought in.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He asked me to go on with it, and I read to him for an hour, in the dim close room, with a fat fly buzzing stealthily about the fallen melon.",-0.34,0.036,0.082,0.882,negative,Tales of Men and Ghosts
+"""All the while one phrase of the old man's buzzed in my brain like the fly about the melon. '",0.3612,0.122,0.0,0.878,positive,Tales of Men and Ghosts
+I'll show him what money can do! ',0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Good heaven!,0.7574,1.0,0.0,0.0,positive,Tales of Men and Ghosts
+If I could but show the old man!,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+If I could make him see his power of giving happiness as a new outlet for his monstrous egotism!,0.5983,0.277,0.106,0.617,positive,Tales of Men and Ghosts
+"I tried to tell him something about my situation and Kate's--spoke of my ill-health, my unsuccessful drudgery, my longing to write, to make myself a name--I stammered out an entreaty for a loan.",-0.5423,0.0,0.169,0.831,negative,Tales of Men and Ghosts
+"'I can guarantee to repay you, sir--I've a half-written play as security...' ""I shall never forget his glassy stare.",0.6207,0.288,0.0,0.712,positive,Tales of Men and Ghosts
+His face had grown as smooth as an egg-shell again--his eyes peered over his fat cheeks like sentinels over a slippery rampart.,0.3612,0.111,0.0,0.889,positive,Tales of Men and Ghosts
+"""'A half-written play--a play of yours as security?'",0.34,0.255,0.0,0.745,positive,Tales of Men and Ghosts
+"He looked at me almost fearfully, as if detecting the first symptoms of insanity.",-0.7655,0.0,0.355,0.645,negative,Tales of Men and Ghosts
+'Do you understand anything of business?',0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+he enquired mildly.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I laughed and answered: 'No, not much.'",0.4588,0.375,0.0,0.625,positive,Tales of Men and Ghosts
+"""He leaned back with closed lids.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"'All this excitement has been too much for me,' he said.",0.4939,0.242,0.0,0.758,positive,Tales of Men and Ghosts
+"'If you'll excuse me, I'll prepare for my nap.'",0.0772,0.14,0.0,0.86,positive,Tales of Men and Ghosts
+"And I stumbled out of the room, blindly, like the Italian.""",0.3612,0.217,0.0,0.783,positive,Tales of Men and Ghosts
+"Granice moved away from the mantel-piece, and walked across to the tray set out with decanters and soda-water.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He poured himself a tall glass of soda-water, emptied it, and glanced at Ascham's dead cigar.",-0.7184,0.0,0.316,0.684,negative,Tales of Men and Ghosts
+"""Better light another,"" he suggested.",0.4404,0.42,0.0,0.58,positive,Tales of Men and Ghosts
+"The lawyer shook his head, and Granice went on with his tale.",-0.1027,0.0,0.113,0.887,negative,Tales of Men and Ghosts
+"He told of his mounting obsession--how the murderous impulse had waked in him on the instant of his cousin's refusal, and he had muttered to himself: ""By God, if you won't, I'll make you.""",-0.4767,0.055,0.11,0.836,negative,Tales of Men and Ghosts
+"He spoke more tranquilly as the narrative proceeded, as though his rage had died down once the resolve to act on it was taken.",-0.4779,0.158,0.223,0.619,negative,Tales of Men and Ghosts
+"He applied his whole mind to the question of how the old man was to be ""disposed of.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Suddenly he remembered the outcry: ""Those Italians will murder you for a quarter!""",-0.8516,0.0,0.453,0.547,negative,Tales of Men and Ghosts
+But no definite project presented itself: he simply waited for an inspiration.,0.6652,0.381,0.147,0.472,positive,Tales of Men and Ghosts
+Granice and his sister moved to town a day or two after the incident of the melon.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"But the cousins, who had returned, kept them informed of the old man's condition.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"One day, about three weeks later, Granice, on getting home, found Kate excited over a report from Wrenfield.",0.34,0.13,0.0,0.87,positive,Tales of Men and Ghosts
+"The Italian had been there again--had somehow slipped into the house, made his way up to the library, and ""used threatening language.""",-0.5267,0.0,0.139,0.861,negative,Tales of Men and Ghosts
+"The house-keeper found cousin Joseph gasping, the whites of his eyes showing ""something awful.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The doctor was sent for, and the attack warded off; and the police had ordered the Italian from the neighbourhood.",-0.4767,0.0,0.14,0.86,negative,Tales of Men and Ghosts
+"But cousin Joseph, thereafter, languished, had ""nerves,"" and lost his taste for toast and butter-milk.",-0.4497,0.0,0.174,0.826,negative,Tales of Men and Ghosts
+"The doctor called in a colleague, and the consultation amused and excited the old man--he became once more an important figure.",0.7414,0.3,0.0,0.7,positive,Tales of Men and Ghosts
+"The medical men reassured the family--too completely!--and to the patient they recommended a more varied diet: advised him to take whatever ""tempted him.""",0.5848,0.193,0.0,0.807,positive,Tales of Men and Ghosts
+"And so one day, tremulously, prayerfully, he decided on a tiny bit of melon.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"It was brought up with ceremony, and consumed in the presence of the house-keeper and a hovering cousin; and twenty minutes later he was dead... ""But you remember the circumstances,"" Granice went on; ""how suspicion turned at once on the Italian?",-0.5267,0.0,0.08,0.92,negative,Tales of Men and Ghosts
+In spite of the hint the police had given him he had been seen hanging about the house since 'the scene.',-0.5267,0.0,0.145,0.855,negative,Tales of Men and Ghosts
+"It was said that he had tender relations with the kitchen-maid, and the rest seemed easy to explain.",0.4404,0.146,0.0,0.854,positive,Tales of Men and Ghosts
+But when they looked round to ask him for the explanation he was gone--gone clean out of sight.,0.5499,0.173,0.0,0.827,positive,Tales of Men and Ghosts
+"He had been 'warned' to leave Wrenfield, and he had taken the warning so to heart that no one ever laid eyes on him again.""",-0.5859,0.0,0.209,0.791,negative,Tales of Men and Ghosts
+Granice paused.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He had dropped into a chair opposite the lawyer's, and he sat for a moment, his head thrown back, looking about the familiar room.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Everything in it had grown grimacing and alien, and each strange insistent object seemed craning forward from its place to hear him.",-0.4939,0.0,0.174,0.826,negative,Tales of Men and Ghosts
+"""It was I who put the stuff in the melon,"" he said.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""And I don't want you to think I'm sorry for it.",-0.1336,0.0,0.24,0.76,negative,Tales of Men and Ghosts
+"This isn't 'remorse,' understand.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+I'm glad the old skin-flint is dead--I'm glad the others have their money.,0.7184,0.353,0.0,0.647,positive,Tales of Men and Ghosts
+But mine's no use to me any more.,-0.4215,0.0,0.286,0.714,negative,Tales of Men and Ghosts
+"My sister married miserably, and died.",-0.7717,0.0,0.626,0.374,negative,Tales of Men and Ghosts
+"And I've never had what I wanted.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Ascham continued to stare; then he said: ""What on earth was your object, then?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Why, to get what I wanted--what I fancied was in reach!",0.1007,0.148,0.0,0.852,positive,Tales of Men and Ghosts
+"I wanted change, rest, life , for both of us--wanted, above all, for myself, the chance to write!",0.3164,0.133,0.0,0.867,positive,Tales of Men and Ghosts
+"I travelled, got back my health, and came home to tie myself up to my work.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+And I've slaved at it steadily for ten years without reward--without the most distant hope of success!,0.8004,0.323,0.0,0.677,positive,Tales of Men and Ghosts
+Nobody will look at my stuff.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"And now I'm fifty, and I'm beaten, and I know it.""",-0.4215,0.0,0.237,0.763,negative,Tales of Men and Ghosts
+His chin dropped forward on his breast.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I want to chuck the whole business,"" he ended.",0.0772,0.14,0.0,0.86,positive,Tales of Men and Ghosts
+III IT was after midnight when Ascham left.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"His hand on Granice's shoulder, as he turned to go--""District Attorney be hanged; see a doctor, see a doctor!""",0.5411,0.179,0.0,0.821,positive,Tales of Men and Ghosts
+"he had cried; and so, with an exaggerated laugh, had pulled on his coat and departed.",0.0865,0.173,0.204,0.623,positive,Tales of Men and Ghosts
+Granice turned back into the library.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+It had never occurred to him that Ascham would not believe his story.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"For three hours he had explained, elucidated, patiently and painfully gone over every detail--but without once breaking down the iron incredulity of the lawyer's eye.",-0.5267,0.0,0.124,0.876,negative,Tales of Men and Ghosts
+"At first Ascham had feigned to be convinced--but that, as Granice now perceived, was simply to get him to expose himself, to entrap him into contradictions.",-0.4404,0.0,0.14,0.86,negative,Tales of Men and Ghosts
+"And when the attempt failed, when Granice triumphantly met and refuted each disconcerting question, the lawyer dropped the mask suddenly, and said with a good-humoured laugh: ""By Jove, Granice you'll write a successful play yet.",0.8689,0.295,0.074,0.631,positive,Tales of Men and Ghosts
+"The way you've worked this all out is a marvel.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice swung about furiously--that last sneer about the play inflamed him.,0.0,0.174,0.174,0.652,neutral,Tales of Men and Ghosts
+Was all the world in a conspiracy to deride his failure?,-0.8316,0.0,0.557,0.443,negative,Tales of Men and Ghosts
+"""I did it, I did it,"" he muttered sullenly, his rage spending itself against the impenetrable surface of the other's mockery; and Ascham answered with a smile: ""Ever read any of those books on hallucination?",-0.5267,0.065,0.154,0.781,negative,Tales of Men and Ghosts
+I've got a fairly good medico-legal library.,0.4404,0.367,0.0,0.633,positive,Tales of Men and Ghosts
+"I could send you one or two if you like..."" Left alone, Granice cowered down in the chair before his writing-table.",-0.25,0.0,0.095,0.905,negative,Tales of Men and Ghosts
+He understood that Ascham thought him off his head.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Good God--what if they all think me crazy?""",0.4404,0.293,0.0,0.707,positive,Tales of Men and Ghosts
+"The horror of it broke out over him in a cold sweat--he sat there and shook, his eyes hidden in his icy hands.",-0.7845,0.0,0.294,0.706,negative,Tales of Men and Ghosts
+"But gradually, as he began to rehearse his story for the thousandth time, he saw again how incontrovertible it was, and felt sure that any criminal lawyer would believe him.",-0.3919,0.083,0.129,0.788,negative,Tales of Men and Ghosts
+"""That's the trouble--Ascham's not a criminal lawyer.",0.4168,0.357,0.0,0.643,positive,Tales of Men and Ghosts
+And then he's a friend.,0.4939,0.516,0.0,0.484,positive,Tales of Men and Ghosts
+What a fool I was to talk to a friend!,0.1511,0.307,0.255,0.439,positive,Tales of Men and Ghosts
+"Even if he did believe me, he'd never let me see it--his instinct would be to cover the whole thing up...",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"But in that case--if he did believe me--he might think it a kindness to get me shut up in an asylum..."" Granice began to tremble again.",0.3291,0.135,0.089,0.776,positive,Tales of Men and Ghosts
+"""Good heaven!",0.7574,1.0,0.0,0.0,positive,Tales of Men and Ghosts
+If he should bring in an expert--one of those damned alienists!,-0.4389,0.0,0.224,0.776,negative,Tales of Men and Ghosts
+Ascham and Pettilow can do anything--their word always goes.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"If Ascham drops a hint that I'd better be shut up, I'll be in a strait-jacket by to-morrow!",0.4926,0.175,0.0,0.825,positive,Tales of Men and Ghosts
+"And he'd do it from the kindest motives--be quite right to do it if he thinks I'm a murderer!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+The vision froze him to his chair.,0.25,0.25,0.0,0.75,positive,Tales of Men and Ghosts
+He pressed his fists to his bursting temples and tried to think.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+For the first time he hoped that Ascham had not believed his story.,0.3818,0.178,0.0,0.822,positive,Tales of Men and Ghosts
+"""But he did--he did!",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+I can see it now--I noticed what a queer eye he cocked at me.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Good God, what shall I do--what shall I do?""",0.6124,0.5,0.0,0.5,positive,Tales of Men and Ghosts
+He started up and looked at the clock.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Half-past one.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"What if Ascham should think the case urgent, rout out an alienist, and come back with him?",0.2023,0.101,0.0,0.899,positive,Tales of Men and Ghosts
+"Granice jumped to his feet, and his sudden gesture brushed the morning paper from the table.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Mechanically he stooped to pick it up, and the movement started a new train of association.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He sat down again, and reached for the telephone book in the rack by his chair.",0.1027,0.085,0.0,0.915,positive,Tales of Men and Ghosts
+"""Give me three-o-ten ...",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"yes.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+The new idea in his mind had revived his flagging energy.,0.2732,0.174,0.0,0.826,positive,Tales of Men and Ghosts
+He would act--act at once.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"It was only by thus planning ahead, committing himself to some unavoidable line of conduct, that he could pull himself through the meaningless days.",-0.3818,0.05,0.111,0.84,negative,Tales of Men and Ghosts
+Each time he reached a fresh decision it was like coming out of a foggy weltering sea into a calm harbour with lights.,0.7579,0.347,0.0,0.653,positive,Tales of Men and Ghosts
+One of the queerest phases of his long agony was the intense relief produced by these momentary lulls.,0.1531,0.198,0.126,0.676,positive,Tales of Men and Ghosts
+"""That the office of the Investigator?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Yes?,0.4019,1.0,0.0,0.0,positive,Tales of Men and Ghosts
+"Give me Mr. Denver, please... Hallo, Denver...",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Yes, Hubert Granice.",0.4019,0.574,0.0,0.426,positive,Tales of Men and Ghosts
+... Just caught you?,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Going straight home?,0.2263,0.487,0.0,0.513,positive,Tales of Men and Ghosts
+"Can I come and see you ... yes, now ... have a talk?",0.4019,0.213,0.0,0.787,positive,Tales of Men and Ghosts
+"It's rather urgent ... yes, might give you some first-rate 'copy.'",0.5423,0.333,0.0,0.667,positive,Tales of Men and Ghosts
+"... All right!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He hung up the receiver with a laugh.,0.5574,0.375,0.0,0.625,positive,Tales of Men and Ghosts
+"It had been a happy thought to call up the editor of the Investigator --Robert Denver was the very man he needed... Granice put out the lights in the library--it was odd how the automatic gestures persisted!--went into the hall, put on his hat and overcoat, and let himself out of the flat.",0.4003,0.071,0.041,0.888,positive,Tales of Men and Ghosts
+"In the hall, a sleepy elevator boy blinked at him and then dropped his head on his folded arms.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice passed out into the street.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"At the corner of Fifth Avenue he hailed a crawling cab, and called out an up-town address.",0.2263,0.112,0.0,0.888,positive,Tales of Men and Ghosts
+"The long thoroughfare stretched before him, dim and deserted, like an ancient avenue of tombs.",0.3612,0.152,0.0,0.848,positive,Tales of Men and Ghosts
+But from Denver's house a friendly beam fell on the pavement; and as Granice sprang from his cab the editor's electric turned the corner.,0.6486,0.163,0.0,0.837,positive,Tales of Men and Ghosts
+"The two men grasped hands, and Denver, feeling for his latch-key, ushered Granice into the brightly-lit hall.",0.128,0.086,0.0,0.914,positive,Tales of Men and Ghosts
+"""Disturb me?",-0.4019,0.0,0.73,0.27,negative,Tales of Men and Ghosts
+Not a bit.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"You might have, at ten to-morrow morning ... but this is my liveliest hour ... you know my habits of old.""",0.631,0.172,0.0,0.828,positive,Tales of Men and Ghosts
+Granice had known Robert Denver for fifteen years--watched his rise through all the stages of journalism to the Olympian pinnacle of the Investigator's editorial office.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"In the thick-set man with grizzling hair there were few traces left of the hungry-eyed young reporter who, on his way home in the small hours, used to ""bob in"" on Granice, while the latter sat grinding at his plays.",0.25,0.049,0.0,0.951,positive,Tales of Men and Ghosts
+"Denver had to pass Granice's flat on the way to his own, and it became a habit, if he saw a light in the window, and Granice's shadow against the blind, to go in, smoke a pipe, and discuss the universe.",-0.4019,0.0,0.068,0.932,negative,Tales of Men and Ghosts
+"""Well--this is like old times--a good old habit reversed.""",0.6597,0.435,0.0,0.565,positive,Tales of Men and Ghosts
+The editor smote his visitor genially on the shoulder.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Reminds me of the nights when I used to rout you out... How's the play, by the way?",0.34,0.13,0.0,0.87,positive,Tales of Men and Ghosts
+"There is a play, I suppose?",0.34,0.444,0.0,0.556,positive,Tales of Men and Ghosts
+"It's as safe to ask you that as to say to some men: 'How's the baby?'""",0.4404,0.162,0.0,0.838,positive,Tales of Men and Ghosts
+"Denver laughed good-naturedly, and Granice thought how thick and heavy he had grown.",0.4588,0.2,0.0,0.8,positive,Tales of Men and Ghosts
+"It was evident, even to Granice's tortured nerves, that the words had not been uttered in malice--and the fact gave him a new measure of his insignificance.",-0.6124,0.0,0.172,0.828,negative,Tales of Men and Ghosts
+Denver did not even know that he had been a failure!,-0.5562,0.0,0.285,0.715,negative,Tales of Men and Ghosts
+The fact hurt more than Ascham's irony.,-0.5945,0.0,0.493,0.507,negative,Tales of Men and Ghosts
+"""Come in--come in.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The editor led the way into a small cheerful room, where there were cigars and decanters.",0.5423,0.2,0.0,0.8,positive,Tales of Men and Ghosts
+"He pushed an arm-chair toward his visitor, and dropped into another with a comfortable groan.",0.5106,0.202,0.0,0.798,positive,Tales of Men and Ghosts
+"""Now, then--help yourself.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"And let's hear all about it.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"He beamed at Granice over his pipe-bowl, and the latter, lighting his cigar, said to himself: ""Success makes men comfortable, but it makes them stupid.""",0.5423,0.164,0.0,0.836,positive,Tales of Men and Ghosts
+"Then he turned, and began: ""Denver, I want to tell you--"" The clock ticked rhythmically on the mantel-piece.",-0.3612,0.068,0.147,0.785,negative,Tales of Men and Ghosts
+"The room was gradually filled with drifting blue layers of smoke, and through them the editor's face came and went like the moon through a moving sky.",0.3612,0.091,0.0,0.909,positive,Tales of Men and Ghosts
+Once the hour struck--then the rhythmical ticking began again.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The atmosphere grew denser and heavier, and beads of perspiration began to roll from Granice's forehead.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Do you mind if I open the window?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""No.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+It is stuffy in here.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Wait--I'll do it myself.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Denver pushed down the upper sash, and returned to his chair.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Well--go on,"" he said, filling another pipe.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+His composure exasperated Granice.,-0.4215,0.0,0.483,0.517,negative,Tales of Men and Ghosts
+"""There's no use in my going on if you don't believe me.""",-0.296,0.0,0.167,0.833,negative,Tales of Men and Ghosts
+The editor remained unmoved.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Who says I don't believe you?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"And how can I tell till you've finished?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Granice went on, ashamed of his outburst.",-0.4767,0.0,0.341,0.659,negative,Tales of Men and Ghosts
+"""It was simple enough, as you'll see.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"From the day the old man said to me, 'Those Italians would murder you for a quarter,' I dropped everything and just worked at my scheme.",-0.6908,0.0,0.17,0.83,negative,Tales of Men and Ghosts
+It struck me at once that I must find a way of getting to Wrenfield and back in a night--and that led to the idea of a motor.,-0.25,0.0,0.08,0.92,negative,Tales of Men and Ghosts
+A motor--that never occurred to you?,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"You wonder where I got the money, I suppose.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Well, I had a thousand or so put by, and I nosed around till I found what I wanted--a second-hand racer.",0.2732,0.123,0.0,0.877,positive,Tales of Men and Ghosts
+"I knew how to drive a car, and I tried the thing and found it was all right.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Times were bad, and I bought it for my price, and stored it away.",-0.5423,0.0,0.226,0.774,negative,Tales of Men and Ghosts
+Where?,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Why, in one of those no-questions-asked garages where they keep motors that are not for family use.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I had a lively cousin who had put me up to that dodge, and I looked about till I found a queer hole where they took in my car like a baby in a foundling asylum... Then I practiced running to Wrenfield and back in a night.",0.6597,0.13,0.0,0.87,positive,Tales of Men and Ghosts
+"I knew the way pretty well, for I'd done it often with the same lively cousin--and in the small hours, too.",0.802,0.325,0.0,0.675,positive,Tales of Men and Ghosts
+"The distance is over ninety miles, and on the third trial I did it under two hours.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"But my arms were so lame that I could hardly get dressed the next morning... ""Well, then came the report about the Italian's threats, and I saw I must act at once...",-0.8633,0.0,0.242,0.758,negative,Tales of Men and Ghosts
+"I meant to break into the old man's room, shoot him, and get away again.",-0.34,0.0,0.156,0.844,negative,Tales of Men and Ghosts
+"It was a big risk, but I thought I could manage it.",-0.1406,0.0,0.162,0.838,negative,Tales of Men and Ghosts
+Then we heard that he was ill--that there'd been a consultation.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Perhaps the fates were going to do it for me!,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Good Lord, if that could only be!...""",0.4926,0.347,0.0,0.653,positive,Tales of Men and Ghosts
+Granice stopped and wiped his forehead: the open window did not seem to have cooled the room.,-0.2263,0.0,0.106,0.894,negative,Tales of Men and Ghosts
+"""Then came word that he was better; and the day after, when I came up from my office, I found Kate laughing over the news that he was to try a bit of melon.",0.7269,0.174,0.0,0.826,positive,Tales of Men and Ghosts
+The house-keeper had just telephoned her--all Wrenfield was in a flutter.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The doctor himself had picked out the melon, one of the little French ones that are hardly bigger than a large tomato--and the patient was to eat it at his breakfast the next morning.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""In a flash I saw my chance.",0.25,0.333,0.0,0.667,positive,Tales of Men and Ghosts
+"It was a bare chance, no more.",-0.0516,0.244,0.268,0.488,negative,Tales of Men and Ghosts
+But I knew the ways of the house--I was sure the melon would be brought in over night and put in the pantry ice-box.,0.4497,0.118,0.0,0.882,positive,Tales of Men and Ghosts
+If there were only one melon in the ice-box I could be fairly sure it was the one I wanted.,0.3182,0.119,0.0,0.881,positive,Tales of Men and Ghosts
+"Melons didn't lie around loose in that house--every one was known, numbered, catalogued.",0.2411,0.141,0.0,0.859,positive,Tales of Men and Ghosts
+"The old man was beset by the dread that the servants would eat them, and he took a hundred mean precautions to prevent it.",-0.4404,0.044,0.12,0.837,negative,Tales of Men and Ghosts
+"Yes, I felt pretty sure of my melon ... and poisoning was much safer than shooting.",0.7351,0.444,0.153,0.403,positive,Tales of Men and Ghosts
+It would have been the devil and all to get into the old man's bedroom without his rousing the house; but I ought to be able to break into the pantry without much trouble.,0.0482,0.079,0.074,0.847,neutral,Tales of Men and Ghosts
+"""It was a cloudy night, too--everything served me.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I dined quietly, and sat down at my desk.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Kate had one of her usual headaches, and went to bed early.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+As soon as she was gone I slipped out.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+I had got together a sort of disguise--red beard and queer-looking ulster.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I shoved them into a bag, and went round to the garage.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+There was no one there but a half-drunken machinist whom I'd never seen before.,-0.1531,0.0,0.118,0.882,negative,Tales of Men and Ghosts
+"That served me, too.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"They were always changing machinists, and this new fellow didn't even bother to ask if the car belonged to me.",0.2584,0.097,0.0,0.903,positive,Tales of Men and Ghosts
+"It was a very easy-going place... ""Well, I jumped in, ran up Broadway, and let the car go as soon as I was out of Harlem.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Dark as it was, I could trust myself to strike a sharp pace.",0.4215,0.239,0.109,0.652,positive,Tales of Men and Ghosts
+In the shadow of a wood I stopped a second and got into the beard and ulster.,-0.2263,0.0,0.128,0.872,negative,Tales of Men and Ghosts
+Then away again--it was just eleven-thirty when I got to Wrenfield.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I left the car in a dark lane behind the Lenman place, and slipped through the kitchen-garden.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+The melon-houses winked at me through the dark--I remember thinking that they knew what I wanted to know.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"... By the stable a dog came out growling--but he nosed me out, jumped on me, and went back...",0.296,0.115,0.0,0.885,positive,Tales of Men and Ghosts
+The house was as dark as the grave.,-0.3818,0.0,0.271,0.729,negative,Tales of Men and Ghosts
+I knew everybody went to bed by ten.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+But there might be a prowling servant--the kitchen-maid might have come down to let in her Italian.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I had to risk that, of course.",-0.2732,0.0,0.296,0.704,negative,Tales of Men and Ghosts
+I crept around by the back door and hid in the shrubbery.,-0.1027,0.0,0.123,0.877,negative,Tales of Men and Ghosts
+Then I listened.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+It was all as silent as death.,-0.5994,0.0,0.394,0.606,negative,Tales of Men and Ghosts
+"I crossed over to the house, pried open the pantry window and climbed in.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I had a little electric lamp in my pocket, and shielding it with my cap I groped my way to the ice-box, opened it--and there was the little French melon... only one.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I stopped to listen--I was quite cool.",0.1761,0.273,0.2,0.527,positive,Tales of Men and Ghosts
+"Then I pulled out my bottle of stuff and my syringe, and gave each section of the melon a hypodermic.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+It was all done inside of three minutes--at ten minutes to twelve I was back in the car.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I got out of the lane as quietly as I could, struck a back road that skirted the village, and let the car out as soon as I was beyond the last houses.",-0.25,0.0,0.067,0.933,negative,Tales of Men and Ghosts
+"I only stopped once on the way in, to drop the beard and ulster into a pond.",-0.4588,0.0,0.235,0.765,negative,Tales of Men and Ghosts
+"I had a big stone ready to weight them with and they went down plump, like a dead body--and at two o'clock I was back at my desk.""",-0.0772,0.165,0.142,0.693,negative,Tales of Men and Ghosts
+Granice stopped speaking and looked across the smoke-fumes at his listener; but Denver's face remained inscrutable.,-0.1154,0.0,0.088,0.912,negative,Tales of Men and Ghosts
+"At length he said: ""Why did you want to tell me this?""",0.0772,0.106,0.0,0.894,positive,Tales of Men and Ghosts
+The question startled Granice.,-0.1779,0.0,0.362,0.638,negative,Tales of Men and Ghosts
+"He was about to explain, as he had explained to Ascham; but suddenly it occurred to him that if his motive had not seemed convincing to the lawyer it would carry much less weight with Denver.",-0.438,0.0,0.076,0.924,negative,Tales of Men and Ghosts
+"Both were successful men, and success does not understand the subtle agony of failure.",0.34,0.318,0.258,0.424,positive,Tales of Men and Ghosts
+Granice cast about for another reason.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Why, I--the thing haunts me ... remorse, I suppose you'd call it..."" Denver struck the ashes from his empty pipe.",-0.7096,0.0,0.345,0.655,negative,Tales of Men and Ghosts
+"""Remorse?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Bosh!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+he said energetically.,0.4215,0.583,0.0,0.417,positive,Tales of Men and Ghosts
+Granice's heart sank.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""You don't believe in-- remorse? """,0.2057,0.312,0.0,0.688,positive,Tales of Men and Ghosts
+"""Not an atom: in the man of action.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The mere fact of your talking of remorse proves to me that you're not the man to have planned and put through such a job.""",-0.2732,0.0,0.084,0.916,negative,Tales of Men and Ghosts
+Granice groaned.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Well--I lied to you about remorse.",-0.5719,0.0,0.54,0.46,negative,Tales of Men and Ghosts
+"I've never felt any.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Denver's lips tightened sceptically about his freshly-filled pipe.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""What was your motive, then?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"You must have had one.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I'll tell you--"" And Granice began again to rehearse the story of his failure, of his loathing for life.",-0.7906,0.0,0.292,0.708,negative,Tales of Men and Ghosts
+"""Don't say you don't believe me this time ... that this isn't a real reason!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+he stammered out piteously as he ended.,-0.2263,0.0,0.241,0.759,negative,Tales of Men and Ghosts
+Denver meditated.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""No, I won't say that.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+I've seen too many queer things.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"There's always a reason for wanting to get out of life--the wonder is that we find so many for staying in!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice's heart grew light.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Then you do believe me?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+he faltered.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Believe that you're sick of the job?",-0.5106,0.0,0.355,0.645,negative,Tales of Men and Ghosts
+Yes.,0.4019,1.0,0.0,0.0,positive,Tales of Men and Ghosts
+And that you haven't the nerve to pull the trigger?,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Oh, yes--that's easy enough, too.",0.4404,0.42,0.0,0.58,positive,Tales of Men and Ghosts
+"But all that doesn't make you a murderer--though I don't say it proves you could never have been one.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I have been one, Denver--I swear to you.""",-0.0516,0.0,0.146,0.854,negative,Tales of Men and Ghosts
+"""Perhaps.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+He meditated.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Just tell me one or two things.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Oh, go ahead.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"You won't stump me!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice heard himself say with a laugh.,0.5574,0.419,0.0,0.581,positive,Tales of Men and Ghosts
+"""Well--how did you make all those trial trips without exciting your sister's curiosity?",-0.3875,0.0,0.18,0.82,negative,Tales of Men and Ghosts
+"I knew your night habits pretty well at that time, remember.",0.6486,0.398,0.0,0.602,positive,Tales of Men and Ghosts
+You were very seldom out late.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Didn't the change in your ways surprise her?""",0.2732,0.231,0.0,0.769,positive,Tales of Men and Ghosts
+"""No; because she was away at the time.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"She went to pay several visits in the country soon after we came back from Wrenfield, and was only in town for a night or two before--before I did the job.""",-0.1027,0.0,0.048,0.952,negative,Tales of Men and Ghosts
+"""And that night she went to bed early with a headache?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Yes--blinding.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+She didn't know anything when she had that kind.,0.5267,0.298,0.0,0.702,positive,Tales of Men and Ghosts
+"And her room was at the back of the flat.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Denver again meditated.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""And when you got back--she didn't hear you?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"You got in without her knowing it?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Yes.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I went straight to my work--took it up at the word where I'd left off-- why, Denver, don't you remember? """,0.2263,0.095,0.0,0.905,positive,Tales of Men and Ghosts
+"Granice suddenly, passionately interjected.",0.5267,0.531,0.0,0.469,positive,Tales of Men and Ghosts
+"""Remember--?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Yes; how you found me--when you looked in that morning, between two and three ... your usual hour ...?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Yes,"" the editor nodded.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice gave a short laugh.,0.5574,0.545,0.0,0.455,positive,Tales of Men and Ghosts
+"""In my old coat--with my pipe: looked as if I'd been working all night, didn't I?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Well, I hadn't been in my chair ten minutes!""",0.3382,0.255,0.0,0.745,positive,Tales of Men and Ghosts
+Denver uncrossed his legs and then crossed them again.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""I didn't know whether you remembered that.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""What?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""My coming in that particular night--or morning.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice swung round in his chair.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Why, man alive!",0.4389,0.591,0.0,0.409,positive,Tales of Men and Ghosts
+That's why I'm here now.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Because it was you who spoke for me at the inquest, when they looked round to see what all the old man's heirs had been doing that night--you who testified to having dropped in and found me at my desk as usual.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+...,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I thought that would appeal to your journalistic sense if nothing else would!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Denver smiled.,0.5423,0.778,0.0,0.222,positive,Tales of Men and Ghosts
+"""Oh, my journalistic sense is still susceptible enough--and the idea's picturesque, I grant you: asking the man who proved your alibi to establish your guilt.""",0.6249,0.188,0.0,0.812,positive,Tales of Men and Ghosts
+"""That's it--that's it!""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice's laugh had a ring of triumph.,0.7717,0.626,0.0,0.374,positive,Tales of Men and Ghosts
+"""Well, but how about the other chap's testimony--I mean that young doctor: what was his name?",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Ned Ranney.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Don't you remember my testifying that I'd met him at the elevated station, and told him I was on my way to smoke a pipe with you, and his saying: 'All right; you'll find him in.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I passed the house two hours ago, and saw his shadow against the blind, as usual.'",-0.4019,0.0,0.162,0.838,negative,Tales of Men and Ghosts
+"And the lady with the toothache in the flat across the way: she corroborated his statement, you remember.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Yes; I remember.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Well, then?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Simple enough.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Before starting I rigged up a kind of mannikin with old coats and a cushion--something to cast a shadow on the blind.,-0.6369,0.0,0.245,0.755,negative,Tales of Men and Ghosts
+"All you fellows were used to seeing my shadow there in the small hours--I counted on that, and knew you'd take any vague outline as mine.""",-0.1027,0.0,0.053,0.947,negative,Tales of Men and Ghosts
+"""Simple enough, as you say.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"But the woman with the toothache saw the shadow move--you remember she said she saw you sink forward, as if you'd fallen asleep.""",-0.5023,0.0,0.129,0.871,negative,Tales of Men and Ghosts
+"""Yes; and she was right.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+It did move.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"I suppose some extra-heavy dray must have jolted by the flimsy building--at any rate, something gave my mannikin a jar, and when I came back he had sunk forward, half over the table.""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+There was a long silence between the two men.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"Granice, with a throbbing heart, watched Denver refill his pipe.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"The editor, at any rate, did not sneer and flout him.",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"After all, journalism gave a deeper insight than the law into the fantastic possibilities of life, prepared one better to allow for the incalculableness of human impulses.",0.8519,0.319,0.0,0.681,positive,Tales of Men and Ghosts
+"""Well?""",0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Granice faltered out.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+Denver stood up with a shrug.,0.0,0.0,0.0,1.0,neutral,Tales of Men and Ghosts
+"""Look here, man--what's wrong with you?",-0.4767,0.0,0.383,0.617,negative,Tales of Men and Ghosts
+Make a clean breast of,0.4019,0.474,0.0,0.526,positive,Tales of Men and Ghosts

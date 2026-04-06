@@ -1,0 +1,368 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of A Shropshire Lad This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.07,0.109,0.821,negative,A Shropshire Lad
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,A Shropshire Lad
+"Title : A Shropshire Lad Author : A. E. Housman Release date : May 1, 2004 [eBook #5720] Most recently updated: February 5, 2013 Language : English Other information and formats : www.gutenberg.org/ebooks/5720 Credits : Produced by Albert Imrie, and David Widger *** START OF THE PROJECT GUTENBERG EBOOK A SHROPSHIRE LAD *** A SHROPSHIRE LAD By A. E. Housman Introduction by William Stanley Braithwaite 1919 INTRODUCTION A SHROPSHIRE LAD INTRODUCTION The method of the poems in A Shropshire Lad illustrates better than any theory how poetry may assume the attire of reality, and yet in speech of the simplest, become in spirit the sheer quality of loveliness.",0.7269,0.07,0.0,0.93,positive,A Shropshire Lad
+"For, in these unobtrusive pages, there is nothing shunned which makes the spectacle of life parade its dark and painful, its ironic and cynical burdens, as well as those images with happy and exquisite aspects.",-0.4019,0.131,0.214,0.655,negative,A Shropshire Lad
+"With a broader and deeper background of experience and environment, which by some divine special privilege belongs to the poetic imagination, it is easier to set apart and contrast these opposing words and sympathies in a poet; but here we find them evoked in a restricted locale- an English county-where the rich, cool tranquil landscape gives a solid texture to the human show.",0.9091,0.261,0.047,0.692,positive,A Shropshire Lad
+"What, I think, impresses one, thrills, like ecstatic, half-smothered strains of music, floating from unperceived instruments, in Mr. Housman's poems, is the encounter his spirit constantly endures with life.",0.872,0.351,0.059,0.59,positive,A Shropshire Lad
+"It is, this encounter, what you feel in the Greeks, and as in the Greeks, it is a spiritual waging of miraculous forces.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"There is, too, in Mr. Housman's poems, the singularly Grecian Quality of a clean and fragrant mental and emotional temper, vibrating equally whether the theme dealt with is ruin or defeat, or some great tragic crisis of spirit, or with moods and ardours of pure enjoyment and simplicities of feeling.",-0.5423,0.217,0.239,0.544,negative,A Shropshire Lad
+"Scarcely has any modern book of poems shown so sure a touch of genius in this respect: the magic, in a continuous glow saturating the substance of every picture and motive with its own peculiar essence.",0.8029,0.21,0.0,0.79,positive,A Shropshire Lad
+"What has been called the ""cynical bitterness"" of Mr. Housman's poems, is really nothing more than his ability to etch in sharp tones the actualities of experience.",-0.4091,0.08,0.166,0.753,negative,A Shropshire Lad
+The poet himself is never cynical; his joyousness is all too apparent in the very manner and intensity of expression.,-0.2235,0.094,0.132,0.774,negative,A Shropshire Lad
+"The ""lads"" of Ludlow are so human to him, the hawthorn and broom on the Severn shores are so fragrant with associations, he cannot help but compose under a kind of imaginative wizardry of exultation, even when the immediate subject is grim or grotesque.",-0.7703,0.0,0.14,0.86,negative,A Shropshire Lad
+"In many of these brief, tense poems the reader confronts a mask, as it were, with appalling and distorted lineaments; but behind it the poet smiles, perhaps sardonically, but smiles nevertheless.",0.6757,0.213,0.173,0.615,positive,A Shropshire Lad
+"In the real countenance there are no tears or grievances, but a quizzical, humorous expression which shows, when one has torn the subterfuge away, that here is a spirit whom life may menace with its contradictions and fatalities, but never dupe with its circumstance and mystery.",-0.8953,0.131,0.321,0.548,negative,A Shropshire Lad
+"All this quite points to, and partly explains, the charm of the poems in A Shropshire Lad .",0.3477,0.14,0.0,0.86,positive,A Shropshire Lad
+"The fastidious care with which each poem is built out of the simplest of technical elements, the precise tone and color of language employed to articulate impulse and mood, and the reproduction of objective substances for a clear visualization of character and scene, all tend by a sure and unfaltering composition, to present a lyric art unique in English poetry of the last twenty-five years.",0.7964,0.121,0.0,0.879,positive,A Shropshire Lad
+I dare say I have scarcely touched upon the secret of Mr. Housman's book.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"For some it may radiate from the Shropshire life he so finely etches; for others, in the vivid artistic simplicity and unity of values, through which Shropshire lads and landscapes are presented.",0.4019,0.08,0.0,0.92,positive,A Shropshire Lad
+"It must be, however, in the miraculous fusing of the two.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Whatever that secret is, the charm of it never fails after all these years to keep the poems preserved with a freshness and vitality, which are the qualities of enduring genius.",0.7455,0.214,0.0,0.786,positive,A Shropshire Lad
+"WILLIAM STANLEY BRAITHWAITE A SHROPSHIRE LAD I 1887 From Clee to heaven the beacon burns, The shires have seen it plain, From north and south the sign returns And beacons burn again.",0.5106,0.102,0.0,0.898,positive,A Shropshire Lad
+"Look left, look right, the hills are bright, The dales are light between, Because 'tis fifty years to-night That God has saved the Queen.",0.7783,0.271,0.0,0.729,positive,A Shropshire Lad
+"Now, when the flame they watch not towers About the soil they trod, Lads, we'll remember friends of ours Who shared the work with God.",0.765,0.257,0.0,0.743,positive,A Shropshire Lad
+"To skies that knit their heartstrings right, To fields that bred them brave, The saviours come not home to-night: Themselves they could not save.",0.1955,0.121,0.094,0.785,positive,A Shropshire Lad
+"It dawns in Asia, tombstones show And Shropshire names are read; And the Nile spills his overflow Beside the Severn's dead.",-0.6486,0.0,0.177,0.823,negative,A Shropshire Lad
+"We pledge in peace by farm and town The Queen they served in war, And fire the beacons up and down The land they perished for.",-0.4215,0.107,0.192,0.701,negative,A Shropshire Lad
+"""God Save the Queen"" we living sing, From height to height 'tis heard; And with the rest your voices ring, Lads of the Fifty-third.",0.6486,0.194,0.0,0.806,positive,A Shropshire Lad
+"Oh, God will save her, fear you not: Be you the men you've been, Get you the sons your fathers got, And God will Save the Queen.",0.7506,0.296,0.089,0.615,positive,A Shropshire Lad
+"II Loveliest of trees, the cherry now Is hung with bloom along the bough, And stands about the woodland ride Wearing white for Eastertide.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Now, of my threescore years and ten, Twenty will not come again, And take from seventy springs a score, It only leaves me fifty more.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"And since to look at things in bloom Fifty springs are little room, About the woodlands I will go To see the cherry hung with snow.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"III THE RECRUIT Leave your home behind, lad, And reach your friends your hand, And go, and luck go with you While Ludlow tower shall stand.",0.8481,0.319,0.037,0.644,positive,A Shropshire Lad
+"Oh, come you home of Sunday When Ludlow streets are still And Ludlow bells are calling To farm and lane and mill, Or come you home of Monday When Ludlow market hums And Ludlow chimes are playing ""The conquering hero comes,"" Come you home a hero, Or come not home at all, The lads you leave will mind you Till Ludlow tower shall fall.",0.8316,0.13,0.017,0.853,positive,A Shropshire Lad
+"And you will list the bugle That blows in lands of morn, And make the foes of England Be sorry you were born.",-0.5106,0.0,0.17,0.83,negative,A Shropshire Lad
+"And you till trump of doomsday On lands of morn may lie, And make the hearts of comrades Be heavy where you die.",-0.8271,0.0,0.268,0.732,negative,A Shropshire Lad
+"Leave your home behind you, Your friends by field and town Oh, town and field will mind you Till Ludlow tower is down.",0.4404,0.123,0.047,0.83,positive,A Shropshire Lad
+"IV REVEILLE Wake: the silver dusk returning Up the beach of darkness brims, And the ship of sunrise burning Strands upon the eastern rims.",-0.25,0.0,0.08,0.92,negative,A Shropshire Lad
+"Wake: the vaulted shadow shatters, Trampled to the floor it spanned, And the tent of night in tatters Straws the sky-pavilioned land.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Up, lad, up, 'tis late for lying: Hear the drums of morning play; Hark, the empty highways crying ""Who'll beyond the hills away?""",-0.7096,0.081,0.279,0.64,negative,A Shropshire Lad
+"Towns and countries woo together, Forelands beacon, belfries call; Never lad that trod on leather Lived to feast his heart with all.",0.4767,0.129,0.0,0.871,positive,A Shropshire Lad
+"Up, lad: thews that lie and cumber Sunlit pallets never thrive; Morns abed and daylight slumber Were not meant for man alive.",0.3818,0.11,0.0,0.89,positive,A Shropshire Lad
+"Clay lies still, but blood's a rover; Breath's a ware that will not keep Up, lad: when the journey's over There'll be time enough to sleep.",-0.2263,0.0,0.076,0.924,negative,A Shropshire Lad
+"V Oh see how thick the goldcup flowers Are lying in field and lane, With dandelions to tell the hours That never are told again.",-0.5267,0.0,0.129,0.871,negative,A Shropshire Lad
+Oh may I squire you round the meads And pick you posies gay?,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+-'Twill do no harm to take my arm.,-0.6908,0.0,0.487,0.513,negative,A Shropshire Lad
+"""You may, young man, you may.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Ah, spring was sent for lass and lad, 'Tis now the blood runs gold, And man and maid had best be glad Before the world is old.",0.802,0.224,0.0,0.776,positive,A Shropshire Lad
+"What flowers to-day may flower to-morrow, But never as good as new.",-0.4782,0.0,0.22,0.78,negative,A Shropshire Lad
+"-Suppose I wound my arm right round- "" 'Tis true, young man, 'tis true.""",0.4215,0.203,0.0,0.797,positive,A Shropshire Lad
+"Some lads there are, 'tis shame to say, That only court to thieve, And once they bear the bloom away 'Tis little enough they leave.",-0.738,0.036,0.215,0.749,negative,A Shropshire Lad
+Then keep your heart for men like me And safe from trustless chaps.,0.2732,0.289,0.176,0.535,positive,A Shropshire Lad
+My love is true and all for you.,0.7906,0.538,0.0,0.462,positive,A Shropshire Lad
+"""Perhaps, young man, perhaps.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Oh, look in my eyes, then, can you doubt?",-0.3612,0.0,0.238,0.762,negative,A Shropshire Lad
+"-Why, 'tis a mile from town.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+How green the grass is all about!,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+We might as well sit down.,0.2732,0.296,0.0,0.704,positive,A Shropshire Lad
+"-Ah, life, what is it but a flower?",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+Why must true lovers sigh?,0.743,0.785,0.0,0.215,positive,A Shropshire Lad
+"Be kind, have pity, my own, my pretty,- ""Good-bye, young man, good-bye.""",0.296,0.218,0.141,0.641,positive,A Shropshire Lad
+"VI When the lad for longing sighs, Mute and dull of cheer and pale, If at death's own door he lies, Maiden, you can heal his ail.",-0.3182,0.1,0.201,0.699,negative,A Shropshire Lad
+"Lovers' ills are all to buy: The wan look, the hollow tone, The hung head, the sunken eye, You can have them for your own.",0.5267,0.124,0.0,0.876,positive,A Shropshire Lad
+"Buy them, buy them: eve and morn Lovers' ills are all to sell.",0.5267,0.221,0.0,0.779,positive,A Shropshire Lad
+Then you can lie down forlorn; But the lover will be well.,0.8338,0.44,0.0,0.56,positive,A Shropshire Lad
+"VII When smoke stood up from Ludlow, And mist blew off from Teme, And blithe afield to ploughing Against the morning beam I strode beside my team, The blackbird in the coppice Looked out to see me stride, And hearkened as I whistled The tramping team beside, And fluted and replied: ""Lie down, lie down, young yeoman; What use to rise and rise?",0.296,0.035,0.0,0.965,positive,A Shropshire Lad
+"Rise man a thousand mornings Yet down at last he lies, And then the man is wise.""",-0.4215,0.0,0.157,0.843,negative,A Shropshire Lad
+"I heard the tune he sang me, And spied his yellow bill; I picked a stone and aimed it And threw it with a will: Then the bird was still.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Then my soul within me Took up the blackbird's strain, And still beside the horses Along the dewy lane It Sang the song again: ""Lie down, lie down, young yeoman; The sun moves always west; The road one treads to labour Will lead one home to rest, And that will be the best.""",-0.0516,0.0,0.023,0.977,negative,A Shropshire Lad
+"VIII ""Farewell to barn and stack and tree, Farewell to Severn shore.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Terence, look your last at me, For I come home no more.",-0.296,0.0,0.18,0.82,negative,A Shropshire Lad
+"""The sun burns on the half-mown hill, By now the blood is dried; And Maurice amongst the hay lies still And my knife is in his side.""",-0.4215,0.0,0.097,0.903,negative,A Shropshire Lad
+"""My mother thinks us long away; 'Tis time the field were mown.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"She had two sons at rising day, To-night she'll be alone.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"""And here's a bloody hand to shake, And oh, man, here's good-bye; We'll sweat no more on scythe and rake, My bloody hands and I.""",-0.6705,0.1,0.304,0.596,negative,A Shropshire Lad
+"""I wish you strength to bring you pride, And a love to keep you clean, And I wish you luck, come Lammastide, At racing on the green.""",0.9633,0.537,0.0,0.463,positive,A Shropshire Lad
+"""Long for me the rick will wait, And long will wait the fold, And long will stand the empty plate, And dinner will be cold.""",-0.2023,0.0,0.07,0.93,negative,A Shropshire Lad
+IX On moonlit heath and lonesome bank The sheep beside me graze; And yon the gallows used to clank Fast by the four cross ways.,-0.3612,0.0,0.094,0.906,negative,A Shropshire Lad
+"A careless shepherd once would keep The flocks by moonlight there, (1) And high amongst the glimmering sheep The dead man stood on air.",-0.7783,0.0,0.245,0.755,negative,A Shropshire Lad
+"They hang us now in Shrewsbury jail: The whistles blow forlorn, And trains all night groan on the rail To men that die at morn.",-0.5994,0.0,0.14,0.86,negative,A Shropshire Lad
+"There sleeps in Shrewsbury jail to-night, Or wakes, as may betide, A better lad, if things went right, Than most that sleep outside.",0.4404,0.121,0.0,0.879,positive,A Shropshire Lad
+And naked to the hangman's noose The morning clocks will ring A neck God made for other use Than strangling in a string.,0.2732,0.095,0.0,0.905,positive,A Shropshire Lad
+"And sharp the link of life will snap, And dead on air will stand Heels that held up as straight a chap As treads upon the land.",-0.5267,0.063,0.142,0.795,negative,A Shropshire Lad
+"So here I'll watch the night and wait To see the morning shine, When he will hear the stroke of eight And not the stroke of nine; And wish my friend as sound a sleep As lads' I did not know, That shepherded the moonlit sheep A hundred years ago.",0.7096,0.116,0.0,0.884,positive,A Shropshire Lad
+(1) Hanging in chains was called keeping sheep by moonlight.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"X MARCH The sun at noon to higher air, Unharnessing the silver Pair That late before his chariot swam, Rides on the gold wool of the Ram.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"So braver notes the storm-cock sings To start the rusted wheel of things, And brutes in field and brutes in pen Leap that the world goes round again.",0.5709,0.12,0.0,0.88,positive,A Shropshire Lad
+"The boys are up the woods with day To fetch the daffodils away, And home at noonday from the hills They bring no dearth of daffodils.",-0.6705,0.0,0.186,0.814,negative,A Shropshire Lad
+"Afield for palms the girls repair, And sure enough the palms are there, And each will find by hedge or pond Her waving silver-tufted wand.",0.3182,0.087,0.0,0.913,positive,A Shropshire Lad
+"In farm and field through all the shire The eye beholds the heart's desire; Ah, let not only mine be vain, For lovers should be loved again.",0.802,0.279,0.078,0.642,positive,A Shropshire Lad
+"XI On your midnight pallet lying Listen, and undo the door: Lads that waste the light in sighing In the dark should sigh no more; Night should ease a lover's sorrow; Therefore, since I go to-morrow; Pity me before.",-0.8789,0.081,0.292,0.627,negative,A Shropshire Lad
+"In the land to which I travel, The far dwelling, let me say- Once, if here the couch is gravel, In a kinder bed I lay, And the breast the darnel smothers Rested once upon another's When it was not clay.",-0.0258,0.101,0.103,0.796,neutral,A Shropshire Lad
+"XII When I watch the living meet, And the moving pageant file Warm and breathing through the street Where I lodge a little while, If the heats of hate and lust In the house of flesh are strong, Let me mind the house of dust Where my sojourn shall be long.",0.128,0.096,0.069,0.835,positive,A Shropshire Lad
+"In the nation that is not Nothing stands that stood before; There revenges are forgot, And the hater hates no more; Lovers lying two and two Ask not whom they sleep beside, And the bridegroom all night through Never turns him to the bride.",-0.8685,0.066,0.258,0.677,negative,A Shropshire Lad
+"XIII When I was one-and-twenty I heard a wise man say, ""Give crowns and pounds and guineas But not your heart away; Give pearls away and rubies But keep your fancy free.""",0.2617,0.068,0.0,0.932,positive,A Shropshire Lad
+"But I was one-and-twenty, No use to talk to me.",-0.4215,0.0,0.259,0.741,negative,A Shropshire Lad
+"When I was one-and-twenty I heard him say again, ""The heart out of the bosom Was never given in vain; 'Tis paid with sighs a plenty And sold for endless rue.""",0.3252,0.08,0.0,0.92,positive,A Shropshire Lad
+"And I am two-and-twenty, And oh, 'tis true, 'tis true.",0.6808,0.444,0.0,0.556,positive,A Shropshire Lad
+"XIV There pass the careless people That call their souls their own: Here by the road I loiter, How idle and alone.",-0.5423,0.0,0.191,0.809,negative,A Shropshire Lad
+"Ah, past the plunge of plummet, In seas I cannot sound, My heart and soul and senses, World without end, are drowned.",0.4847,0.136,0.0,0.864,positive,A Shropshire Lad
+His folly has not fellow Beneath the blue of day That gives to man or woman His heart and soul away.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+There flowers no balm to sain him From east of earth to west That's lost for everlasting The heart out of his breast.,-0.5423,0.0,0.176,0.824,negative,A Shropshire Lad
+"Here by the labouring highway With empty hands I stroll: Sea-deep, till doomsday morning, Lie lost my heart and soul.",-0.7845,0.0,0.331,0.669,negative,A Shropshire Lad
+"XV Look not in my eyes, for fear They mirror true the sight I see, And there you find your face too clear And love it and be lost like me.",0.765,0.291,0.132,0.577,positive,A Shropshire Lad
+"One the long nights through must lie Spent in star-defeated sighs, But why should you as well as I Perish?",0.3919,0.128,0.0,0.872,positive,A Shropshire Lad
+gaze not in my eyes.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"A Grecian lad, as I hear tell, One that many loved in vain, Looked into a forest well And never looked away again.",0.4939,0.233,0.109,0.659,positive,A Shropshire Lad
+"There, when the turf in springtime flowers, With downward eye and gazes sad, Stands amid the glancing showers A jonquil, not a Grecian lad.",-0.4767,0.0,0.129,0.871,negative,A Shropshire Lad
+"XVI It nods and curtseys and recovers When the wind blows above, The nettle on the graves of lovers That hanged themselves for love.",0.7506,0.247,0.071,0.682,positive,A Shropshire Lad
+"The nettle nods, the wind blows over, The man, he does not move, The lover of the grave, the lover That hanged himself for love.",-0.549,0.124,0.258,0.619,negative,A Shropshire Lad
+XVII Twice a week the winter thorough Here stood I to keep the goal: Football then was fighting sorrow For the young man's soul.,-0.7096,0.0,0.228,0.772,negative,A Shropshire Lad
+Now in May time to the wicket Out I march with bat and pad: See the son of grief at cricket Trying to be glad.,-0.0516,0.106,0.113,0.78,negative,A Shropshire Lad
+Try I will; no harm in trying: Wonder 'tis how little mirth Keeps the bones of man from lying On the bed of earth.,-0.6997,0.105,0.29,0.605,negative,A Shropshire Lad
+"XVIII Oh, when I was in love with you, Then I was clean and brave, And miles around the wonder grew How well did I behave.",0.9081,0.395,0.0,0.605,positive,A Shropshire Lad
+"And now the fancy passes by, And nothing will remain, And miles around they'll say that I Am quite myself again.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"XIX TO AN ATHLETE DYING YOUNG The time you won your town the race We chaired you through the market-place; Man and boy stood cheering by, And home we brought you shoulder-high.",0.7906,0.189,0.0,0.811,positive,A Shropshire Lad
+"To-day, the road all runners come, Shoulder-high we bring you home, And set you at your threshold down, Townsman of a stiller town.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Smart lad, to slip betimes away From fields where glory does not stay And early though the laurel grows It withers quicker than the rose.",0.7351,0.212,0.0,0.788,positive,A Shropshire Lad
+"Eyes the shady night has shut Cannot see the record cut, And silence sounds no worse than cheers After earth has stopped the ears: Now you will not swell the rout Of lads that wore their honours out, Runners whom renown outran And the name died before the man.",-0.6808,0.103,0.211,0.686,negative,A Shropshire Lad
+"So set, before its echoes fade, The fleet foot on the sill of shade, And hold to the low lintel up The still-defended challenge-cup.",-0.2732,0.0,0.084,0.916,negative,A Shropshire Lad
+"And round that early-laurelled head Will flock to gaze the strengthless dead, And find unwithered on its curls The garland briefer than a girl's.",-0.6486,0.0,0.163,0.837,negative,A Shropshire Lad
+"XX Oh fair enough are sky and plain, But I know fairer far: Those are as beautiful again That in the water are; The pools and rivers wash so clean The trees and clouds and air, The like on earth was never seen, And oh that I were there.",0.9431,0.258,0.0,0.742,positive,A Shropshire Lad
+"These are the thoughts I often think As I stand gazing down In act upon the cressy brink To strip and dive and drown; But in the golden-sanded brooks And azure meres I spy A silly lad that longs and looks And wishes he were I. XXI BREDON HILL (1) In summertime on Bredon The bells they sound so clear; Round both the shires they ring them In steeples far and near, A happy noise to hear.",0.8834,0.154,0.029,0.817,positive,A Shropshire Lad
+"Here of a Sunday morning My love and I would lie And see the coloured counties, And hear the larks so high About us in the sky.",0.6369,0.149,0.0,0.851,positive,A Shropshire Lad
+"The bells would ring to call her In valleys miles away: ""Come all to church, good people; Good people, come and pray.""",0.7003,0.225,0.0,0.775,positive,A Shropshire Lad
+But here my love would stay.,0.7783,0.537,0.0,0.463,positive,A Shropshire Lad
+"And I would turn and answer Among the springing thyme, ""Oh, peal upon our wedding, And we will hear the chime, And come to church in time.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"But when the snows at Christmas On Bredon top were strown, My love rose up so early And stole out unbeknown And went to church alone.",0.7579,0.239,0.075,0.687,positive,A Shropshire Lad
+"They tolled the one bell only, Groom there was none to see, The mourners followed after, And so to church went she, And would not wait for me.",-0.4215,0.0,0.094,0.906,negative,A Shropshire Lad
+"The bells they sound on Bredon, And still the steeples hum.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"""Come all to church, good people,""- Oh, noisy bells, be dumb; I hear you, I will come.",-0.2732,0.146,0.251,0.603,negative,A Shropshire Lad
+(1) Pronounced Breedon.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"XXII The street sounds to the soldiers' tread, And out we troop to see: A single redcoat turns his head, He turns and looks at me.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"My man, from sky to sky's so far, We never crossed before; Such leagues apart the world's ends are, We're like to meet no more; What thoughts at heart have you and I We cannot stop to tell; But dead or living, drunk or dry, Soldier, I wish you well.",-0.5033,0.154,0.174,0.672,negative,A Shropshire Lad
+"XXIII The lads in their hundreds to Ludlow come in for the fair, There's men from the barn and the forge and the mill and the fold, The lads for the girls and the lads for the liquor are there, And there with the rest are the lads that will never be old.",0.3182,0.042,0.0,0.958,positive,A Shropshire Lad
+"There's chaps from the town and the field and the till and the cart, And many to count are the stalwart, and many the brave, And many the handsome of face and the handsome of heart, And few that will carry their looks or their truth to the grave.",0.8591,0.206,0.044,0.75,positive,A Shropshire Lad
+"I wish one could know them, I wish there were tokens to tell The fortunate fellows that now you can never discern; And then one could talk with them friendly and wish them farewell And watch them depart on the way that they will not return.",0.9217,0.267,0.0,0.733,positive,A Shropshire Lad
+"But now you may stare as you like and there's nothing to scan; And brushing your elbow unguessed-at and not to be told They carry back bright to the coiner the mintage of man, The lads that will die in their glory and never be old.",0.7579,0.2,0.09,0.709,positive,A Shropshire Lad
+"XXIV Say, lad, have you things to do?",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Quick then, while your day's at prime.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Quick, and if 'tis work for two, Here am I, man: now's your time.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Send me now, and I shall go; Call me, I shall hear you call; Use me ere they lay me low Where a man's no use at all; Ere the wholesome flesh decay, And the willing nerve be numb, And the lips lack breath to say, ""No, my lad, I cannot come.""",-0.8658,0.0,0.214,0.786,negative,A Shropshire Lad
+"XXV This time of year a twelvemonth past, When Fred and I would meet, We needs must jangle, till at last We fought and I was beat.",-0.3182,0.0,0.091,0.909,negative,A Shropshire Lad
+"So then the summer fields about, Till rainy days began, Rose Harland on her Sundays out Walked with the better man.",0.3818,0.125,0.056,0.819,positive,A Shropshire Lad
+"The better man she walks with still, Though now 'tis not with Fred: A lad that lives and has his will Is worth a dozen dead.",-0.128,0.159,0.143,0.698,negative,A Shropshire Lad
+"Fred keeps the house all kinds of weather, And clay's the house he keeps; When Rose and I walk out together Stock-still lies Fred and sleeps.",-0.4215,0.0,0.104,0.896,negative,A Shropshire Lad
+"XXVI Along the fields as we came by A year ago, my love and I, The aspen over stile and stone Was talking to itself alone.",0.4939,0.144,0.068,0.788,positive,A Shropshire Lad
+"""Oh who are these that kiss and pass?",0.4215,0.286,0.0,0.714,positive,A Shropshire Lad
+"A country lover and his lass; Two lovers looking to be wed; And time shall put them both to bed, But she shall lie with earth above, And he beside another love.""",0.5574,0.137,0.0,0.863,positive,A Shropshire Lad
+"And sure enough beneath the tree There walks another love with me, And overhead the aspen heaves Its rainy-sounding silver leaves; And I spell nothing in their stir, But now perhaps they speak to her, And plain for her to understand They talk about a time at hand When I shall sleep with clover clad, And she beside another lad.",0.8201,0.137,0.0,0.863,positive,A Shropshire Lad
+"XXVII ""Is my team ploughing, That I was used to drive And hear the harness jingle When I was man alive?""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Ay, the horses trample, The harness jingles now; No change though you lie under The land you used to plough.",-0.296,0.0,0.104,0.896,negative,A Shropshire Lad
+"""Is football playing Along the river shore, With lads to chase the leather, Now I stand up no more?""",-0.1027,0.09,0.11,0.8,negative,A Shropshire Lad
+"Ay, the ball is flying, The lads play heart and soul; The goal stands up, the keeper Stands up to keep the goal.",0.34,0.098,0.0,0.902,positive,A Shropshire Lad
+"""Is my girl happy, That I thought hard to leave, And has she tired of weeping As she lies down at eve?""",-0.6705,0.124,0.375,0.502,negative,A Shropshire Lad
+"Ay, she lies down lightly, She lies not down to weep: Your girl is well contented.",0.2259,0.311,0.232,0.456,positive,A Shropshire Lad
+"Be still, my lad, and sleep.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"""Is my friend hearty, Now I am thin and pine, And has he found to sleep in A better bed than mine?""",0.7269,0.253,0.0,0.747,positive,A Shropshire Lad
+"Yes, lad, I lie easy, I lie as lads would choose; I cheer a dead man's sweetheart, Never ask me whose.",0.836,0.447,0.146,0.407,positive,A Shropshire Lad
+XXVIII THE WELSH MARCHES High the vanes of Shrewsbury gleam Islanded in Severn stream; The bridges from the steepled crest Cross the water east and west.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"The flag of morn in conqueror's state Enters at the English gate: The vanquished eve, as night prevails, Bleeds upon the road to Wales.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Ages since the vanquished bled Round my mother's marriage-bed; There the ravens feasted far About the open house of war: When Severn down to Buildwas ran Coloured with the death of man, Couched upon her brother's grave The Saxon got me on the slave.",-0.886,0.0,0.202,0.798,negative,A Shropshire Lad
+The sound of fight is silent long That began the ancient wrong; Long the voice of tears is still That wept of old the endless ill.,-0.9081,0.0,0.39,0.61,negative,A Shropshire Lad
+"In my heart it has not died, The war that sleeps on Severn side; They cease not fighting, east and west, On the marches of my breast.",0.8009,0.254,0.0,0.746,positive,A Shropshire Lad
+"Here the truceless armies yet Trample, rolled in blood and sweat; They kill and kill and never die; And I think that each is I.",-0.8049,0.094,0.28,0.626,negative,A Shropshire Lad
+"None will part us, none undo The knot that makes one flesh of two, Sick with hatred, sick with pain, Strangling-When shall we be slain?",-0.9337,0.0,0.402,0.598,negative,A Shropshire Lad
+When shall I be dead and rid Of the wrong my father did?,-0.8126,0.0,0.425,0.575,negative,A Shropshire Lad
+"How long, how long, till spade and hearse Put to sleep my mother's curse?",-0.5423,0.0,0.212,0.788,negative,A Shropshire Lad
+"XXIX THE LENT LILY 'Tis spring; come out to ramble The hilly brakes around, For under thorn and bramble About the hollow ground The primroses are found.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"And there's the windflower chilly With all the winds at play, And there's the Lenten lily That has not long to stay And dies on Easter day.",0.34,0.085,0.0,0.915,positive,A Shropshire Lad
+"And since till girls go maying You find the primrose still, And find the windflower playing With every wind at will, But not the daffodil, Bring baskets now, and sally Upon the spring's array, And bear from hill and valley The daffodil away That dies on Easter day.",0.1027,0.029,0.0,0.971,positive,A Shropshire Lad
+"XXX Others, I am not the first, Have willed more mischief than they durst: If in the breathless night I too Shiver now, 'tis nothing new.",-0.4201,0.0,0.108,0.892,negative,A Shropshire Lad
+"More than I, if truth were told, Have stood and sweated hot and cold, And through their reins in ice and fire Fear contended with desire.",-0.1531,0.153,0.172,0.675,negative,A Shropshire Lad
+"Agued once like me were they, But I like them shall win my way Lastly to the bed of mould Where there's neither heat nor cold.",0.8807,0.317,0.0,0.683,positive,A Shropshire Lad
+"But from my grave across my brow Plays no wind of healing now, And fire and ice within me fight Beneath the suffocating night.",-0.8807,0.073,0.371,0.556,negative,A Shropshire Lad
+"XXXI On Wenlock Edge the wood's in trouble; His forest fleece the Wrekin heaves; The gale, it plies the saplings double, And thick on Severn snow the leaves.",-0.4019,0.0,0.091,0.909,negative,A Shropshire Lad
+"'Twould blow like this through holt and hanger When Uricon the city stood: 'Tis the old wind in the old anger, But then it threshed another wood.",-0.1531,0.06,0.081,0.859,negative,A Shropshire Lad
+"Then, 'twas before my time, the Roman At yonder heaving hill would stare: The blood that warms an English yeoman, The thoughts that hurt him, they were there.",-0.3182,0.067,0.108,0.825,negative,A Shropshire Lad
+"There, like the wind through woods in riot, Through him the gale of life blew high; The tree of man was never quiet: Then 'twas the Roman, now 'tis I.",-0.2732,0.073,0.106,0.821,negative,A Shropshire Lad
+"The gale, it plies the saplings double, It blows so hard, 'twill soon be gone: To-day the Roman and his trouble Are ashes under Uricon.",-0.5524,0.0,0.166,0.834,negative,A Shropshire Lad
+"XXXII From far, from eve and morning And yon twelve-winded sky, The stuff of life to knit me Blew hither: here am I. Now- for a breath I tarry Nor yet disperse apart- Take my hand quick and tell me, What have you in your heart.",0.4939,0.069,0.0,0.931,positive,A Shropshire Lad
+"Speak now, and I will answer; How shall I help you, say; Ere to the wind's twelve quarters I take my endless way.",0.4019,0.124,0.0,0.876,positive,A Shropshire Lad
+"XXXIII If truth in hearts that perish Could move the powers on high, I think the love I bear you Should make you not to die.",0.864,0.315,0.0,0.685,positive,A Shropshire Lad
+"Sure, sure, if stedfast meaning, If single thought could save, The world might end to-morrow, You should not see the grave.",0.8395,0.37,0.0,0.63,positive,A Shropshire Lad
+"This long and sure-set liking, This boundless will to please, -Oh, you should live for ever If there were help in these.",0.7717,0.288,0.0,0.712,positive,A Shropshire Lad
+"But now, since all is idle, To this lost heart be kind, Ere to a town you journey Where friends are ill to find.",0.3844,0.251,0.205,0.545,positive,A Shropshire Lad
+"XXXIV THE NEW MISTRESS ""Oh, sick I am to see you, will you never let me be?",-0.5106,0.0,0.18,0.82,negative,A Shropshire Lad
+"You may be good for something, but you are not good for me.",0.7003,0.345,0.0,0.655,positive,A Shropshire Lad
+"Oh, go where you are wanted, for you are not wanted here.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+And that was all the farewell when I parted from my dear.,0.3818,0.206,0.0,0.794,positive,A Shropshire Lad
+"""I will go where I am wanted, to a lady born and bred Who will dress me free for nothing in a uniform of red; She will not be sick to see me if I only keep it clean: I will go where I am wanted for a soldier of the Queen.""",0.8272,0.172,0.0,0.828,positive,A Shropshire Lad
+"""I will go where I am wanted, for the sergeant does not mind; He may be sick to see me but he treats me very kind: He gives me beer and breakfast and a ribbon for my cap, And I never knew a sweetheart spend her money on a chap.""",-0.1958,0.094,0.127,0.78,negative,A Shropshire Lad
+"""I will go where I am wanted, where there's room for one or two, And the men are none too many for the work there is to do; Where the standing line wears thinner and the dropping dead lie thick; And the enemies of England they shall see me and be sick.""",-0.8176,0.0,0.133,0.867,negative,A Shropshire Lad
+"XXXV On the idle hill of summer, Sleepy with the flow of streams, Far I hear the steady drummer Drumming like a noise in dreams.",0.6369,0.198,0.0,0.802,positive,A Shropshire Lad
+"Far and near and low and louder On the roads of earth go by, Dear to friends and food for powder, Soldiers marching, all to die.",-0.0772,0.169,0.178,0.653,negative,A Shropshire Lad
+"East and west on fields forgotten Bleach the bones of comrades slain, Lovely lads and dead and rotten; None that go return again.",-0.6908,0.118,0.294,0.588,negative,A Shropshire Lad
+"Far the calling bugles hollo, High the screaming fife replies, Gay the files of scarlet follow: Woman bore me, I will rise.",-0.5574,0.0,0.195,0.805,negative,A Shropshire Lad
+"XXXVI White in the moon the long road lies, The moon stands blank above; White in the moon the long road lies That leads me from my love.",-0.1027,0.121,0.161,0.718,negative,A Shropshire Lad
+"Still hangs the hedge without a gust, Still, still the shadows stay: My feet upon the moonlit dust Pursue the ceaseless way.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"The world is round, so travellers tell, And straight though reach the track, Trudge on, trudge on, 'twill all be well, The way will guide one back.",0.4767,0.175,0.0,0.825,positive,A Shropshire Lad
+"But ere the circle homeward hies Far, far must it remove: White in the moon the long road lies That leads me from my love.",0.4767,0.178,0.114,0.708,positive,A Shropshire Lad
+"XXXVII As through the wild green hills of Wyre The train ran, changing sky and shire, And far behind, a fading crest, Low in the forsaken west Sank the high-reared head of Clee, My hand lay empty on my knee.",0.0772,0.074,0.09,0.835,positive,A Shropshire Lad
+Aching on my knee it lay: That morning half a shire away So many an honest fellow's fist Had well-nigh wrung it from the wrist.,0.0935,0.124,0.111,0.765,positive,A Shropshire Lad
+"Hand, said I, since now we part From fields and men we know by heart, From strangers' faces, strangers' lands,- Hand, you have held true fellows' hands.",0.8481,0.277,0.0,0.723,positive,A Shropshire Lad
+Be clean then; rot before you do A thing they'd not believe of you.,0.4019,0.184,0.0,0.816,positive,A Shropshire Lad
+You and I must keep from shame In London streets the Shropshire name; On banks of Thames they must not say Severn breeds worse men than they; And friends abroad must bear in mind Friends at home they leave behind.,-0.0516,0.13,0.155,0.714,negative,A Shropshire Lad
+"Oh, I shall be stiff and cold When I forget you, hearts of gold; The land where I shall mind you not Is the land where all's forgot.",-0.2263,0.0,0.073,0.927,negative,A Shropshire Lad
+"And if my foot returns no more To Teme nor Corve nor Severn shore, Luck, my lads, be with you still By falling stream and standing hill, By chiming tower and whispering tree, Men that made a man of me.",-0.6463,0.0,0.149,0.851,negative,A Shropshire Lad
+"About your work in town and farm Still you'll keep my head from harm, Still you'll help me, hands that gave A grasp to friend me to the grave.",-0.0516,0.164,0.169,0.667,negative,A Shropshire Lad
+"XXXVIII The winds out of the west land blow, My friends have breathed them there; Warm with the blood of lads I know Comes east the sighing air.",0.6124,0.167,0.0,0.833,positive,A Shropshire Lad
+"It fanned their temples, filled their lungs, Scattered their forelocks free; My friends made words of it with tongues That talk no more to me.",0.6369,0.209,0.072,0.719,positive,A Shropshire Lad
+"Their voices, dying as they fly, Thick on the wind are sown; The names of men blow soundless by, My fellows' and my own.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Oh lads, at home I heard you plain, But here your speech is still, And down the sighing wind in vain You hollo from the hill.",-0.5719,0.0,0.134,0.866,negative,A Shropshire Lad
+"The wind and I, we both were there, But neither long abode; Now through the friendless world we fare And sigh upon the road.",-0.4767,0.044,0.123,0.833,negative,A Shropshire Lad
+"XXXIX 'Tis time, I think by Wenlock town The golden broom should blow; The hawthorn sprinkled up and down Should charge the land with snow.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+Spring will not wait the loiterer's time Who keeps so long away; So others wear the broom and climb The hedgerows heaped with may.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Oh tarnish late on Wenlock Edge, Gold that I never see; Lie long, high snowdrifts in the hedge That will not shower on me.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"XL Into my heart an air that kills From yon far country blows: What are those blue remembered hills, What spires, what farms are those?",-0.5423,0.0,0.127,0.873,negative,A Shropshire Lad
+"That is the land of lost content, I see it shining plain, The happy highways where I went And cannot come again.",0.34,0.154,0.096,0.75,positive,A Shropshire Lad
+"XLI In my own shire, if I was sad Homely comforters I had: The earth, because my heart was sore, Sorrowed for the son she bore; And standing hills, long to remain, Shared their short-lived comrade's pain.",-0.8658,0.098,0.305,0.597,negative,A Shropshire Lad
+"And bound for the same bourn as I, On every road I wandered by, Trod beside me, close and dear, The beautiful and death-struck year: Whether in the woodland brown I heard the beechnut rustle down, And saw the purple crocus pale Flower about the autumn dale; Or littering far the fields of May Lady-smocks a-bleaching lay, And like a skylit water stood The bluebells in the azured wood.",0.8402,0.125,0.0,0.875,positive,A Shropshire Lad
+"Yonder, lightening other loads, The seasons range the country roads, But here in London streets I ken No such helpmates, only men; And these are not in plight to bear, If they would, another's care.",0.3612,0.11,0.072,0.818,positive,A Shropshire Lad
+They have enough as 'tis: I see In many an eye that measures me The mortal sickness of a mind Too unhappy to be kind.,0.1531,0.125,0.103,0.772,positive,A Shropshire Lad
+"Undone with misery, all they can Is to hate their fellow man; And till they drop they needs must still Look at you and wish you ill. XLII THE MERRY GUIDE Once in the wind of morning I ranged the thymy wold; The world-wide air was azure And all the brooks ran gold.",-0.6561,0.106,0.189,0.705,negative,A Shropshire Lad
+"There through the dews beside me Behold a youth that trod, With feathered cap on forehead, And poised a golden rod.",0.25,0.1,0.0,0.9,positive,A Shropshire Lad
+With mien to match the morning And gay delightful guise And friendly brows and laughter He looked me in the eyes.,0.8807,0.362,0.0,0.638,positive,A Shropshire Lad
+"Oh whence, I asked, and whither?",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"He smiled and would not say, And looked at me and beckoned And laughed and led the way.",0.7579,0.289,0.0,0.711,positive,A Shropshire Lad
+"And with kind looks and laughter And nought to say beside We two went on together, I and my happy guide.",0.8834,0.377,0.0,0.623,positive,A Shropshire Lad
+"Across the glittering pastures And empty upland still And solitude of shepherds High in the folded hill, By hanging woods and hamlets That gaze through orchards down On many a windmill turning And far-discovered town, With gay regards of promise And sure unslackened stride And smiles and nothing spoken Led on my merry guide.",0.8555,0.184,0.03,0.787,positive,A Shropshire Lad
+"By blowing realms of woodland With sunstruck vanes afield And cloud-led shadows sailing About the windy weald, By valley-guarded granges And silver waters wide, Content at heart I followed With my delightful guide.",0.5859,0.109,0.0,0.891,positive,A Shropshire Lad
+"And like the cloudy shadows Across the country blown We two face on for ever, But not we two alone.",0.4329,0.177,0.0,0.823,positive,A Shropshire Lad
+"With the great gale we journey That breathes from gardens thinned, Borne in the drift of blossoms Whose petals throng the wind; Buoyed on the heaven-heard whisper Of dancing leaflets whirled From all the woods that autumn Bereaves in all the world.",0.296,0.087,0.062,0.851,positive,A Shropshire Lad
+"And midst the fluttering legion Of all that ever died I follow, and before us Goes the delightful guide, With lips that brim with laughter But never once respond, And feet that fly on feathers, And serpent-circled wand.",0.296,0.11,0.056,0.833,positive,A Shropshire Lad
+"XLIII THE IMMORTAL PART When I meet the morning beam, Or lay me down at night to dream, I hear my bones within me say, ""Another night, another day.""",0.5766,0.159,0.0,0.841,positive,A Shropshire Lad
+"""When shall this slough of sense be cast, This dust of thoughts be laid at last, The man of flesh and soul be slain And the man of bone remain?""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"""This tongue that talks, these lungs that shout, These thews that hustle us about, This brain that fills the skull with schemes, And its humming hive of dreams,-"" ""These to-day are proud in power And lord it in their little hour: The immortal bones obey control Of dying flesh and dying soul.""",0.5908,0.088,0.0,0.912,positive,A Shropshire Lad
+""" 'Tis long till eve and morn are gone: Slow the endless night comes on, And late to fulness grows the birth That shall last as long as earth.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"""Wanderers eastward, wanderers west, Know you why you cannot rest?",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"'Tis that every mother's son Travails with a skeleton.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"""Lie down in the bed of dust; Bear the fruit that bear you must; Bring the eternal seed to light, And morn is all the same as night.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"""Rest you so from trouble sore, Fear the heat o' the sun no more, Nor the snowing winter wild, Now you labour not with child.""",-0.8791,0.0,0.347,0.653,negative,A Shropshire Lad
+"""Empty vessel, garment cast, We that wore you long shall last.",-0.2023,0.0,0.153,0.847,negative,A Shropshire Lad
+"-Another night, another day.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+So my bones within me say.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Therefore they shall do my will To-day while I am master still, And flesh and soul, now both are strong, Shall hale the sullen slaves along, Before this fire of sense decay, This smoke of thought blow clean away, And leave with ancient night alone The stedfast and enduring bone.",-0.5187,0.101,0.191,0.708,negative,A Shropshire Lad
+XLIV Shot?,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"so quick, so clean an ending?",0.5887,0.433,0.0,0.567,positive,A Shropshire Lad
+"Oh that was right, lad, that was brave: Yours was not an ill for mending, 'Twas best to take it to the grave.",0.8091,0.315,0.082,0.603,positive,A Shropshire Lad
+"Oh you had forethought, you could reason, And saw your road and where it led, And early wise and brave in season Put the pistol to your head.",0.7579,0.2,0.0,0.8,positive,A Shropshire Lad
+"Oh soon, and better so than later After long disgrace and scorn, You shot dead the household traitor, The soul that should not have been born.",-0.8074,0.083,0.291,0.627,negative,A Shropshire Lad
+"Right you guessed the rising morrow And scorned to tread the mire you must: Dust's your wages, son of sorrow, But men may come to worse than dust.",-0.7469,0.0,0.196,0.804,negative,A Shropshire Lad
+"Souls undone, undoing others,- Long time since the tale began.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"You would not live to wrong your brothers: Oh lad, you died as fits a man.",-0.2607,0.133,0.188,0.679,negative,A Shropshire Lad
+"Now to your grave shall friend and stranger With ruth and some with envy come: Undishonoured, clear of danger, Clean of guilt, pass hence and home.",-0.1779,0.225,0.271,0.504,negative,A Shropshire Lad
+"Turn safe to rest, no dreams, no waking; And here, man, here's the wreath I've made: 'Tis not a gift that's worth the taking, But wear it and it will not fade.",-0.1119,0.108,0.178,0.714,negative,A Shropshire Lad
+"XLV If it chance your eye offend you, Pluck it out, lad, and be sound: 'Twill hurt, but here are salves to friend you, And many a balsam grows on ground.",0.4588,0.163,0.107,0.73,positive,A Shropshire Lad
+"And if your hand or foot offend you, Cut it off, lad, and be whole; But play the man, stand up and end you, When your sickness is your soul.",0.4678,0.151,0.092,0.757,positive,A Shropshire Lad
+"XLVI Bring, in this timeless grave to throw, No cypress, sombre on the snow; Snap not from the bitter yew His leaves that live December through; Break no rosemary, bright with rime And sparkling to the cruel clime; Nor plod the winter land to look For willows in the icy brook To cast them leafless round him: bring No spray that ever buds in spring.",-0.6776,0.096,0.168,0.736,negative,A Shropshire Lad
+"But if the Christmas field has kept Awns the last gleaner overstept, Or shrivelled flax, whose flower is blue A single season, never two; Or if one haulm whose year is o'er Shivers on the upland frore, -Oh, bring from hill and stream and plain Whatever will not flower again, To give him comfort: he and those Shall bide eternal bedfellows Where low upon the couch he lies Whence he never shall arise.",-0.4767,0.041,0.081,0.878,negative,A Shropshire Lad
+"XLVII THE CARPENTER'S SON ""Here the hangman stops his cart: Now the best of friends must part.",0.7717,0.319,0.07,0.611,positive,A Shropshire Lad
+"Fare you well, for ill fare I: Live, lads, and I will die.""",-0.1779,0.141,0.188,0.671,negative,A Shropshire Lad
+"""Oh, at home had I but stayed 'Prenticed to my father's trade, Had I stuck to plane and adze, I had not been lost, my lads.""",-0.0147,0.094,0.096,0.809,neutral,A Shropshire Lad
+"""Then I might have built perhaps Gallows-trees for other chaps, Never dangled on my own, Had I but left ill alone.""",-0.5719,0.0,0.171,0.829,negative,A Shropshire Lad
+"""Now, you see, they hang me high, And the people passing by Stop to shake their fists and curse; So 'tis come from ill to worse.""",-0.8481,0.0,0.317,0.683,negative,A Shropshire Lad
+"""Here hang I, and right and left Two poor fellows hang for theft: All the same's the luck we prove, Though the midmost hangs for love.""",-0.0258,0.1,0.103,0.797,neutral,A Shropshire Lad
+"""Comrades all, that stand and gaze, Walk henceforth in other ways; See my neck and save your own: Comrades all, leave ill alone.""",0.0516,0.118,0.147,0.735,positive,A Shropshire Lad
+"""Make some day a decent end, Shrewder fellows than your friend.",0.4939,0.262,0.0,0.738,positive,A Shropshire Lad
+"Fare you well, for ill fare I: Live, lads, and I will die.""",-0.1779,0.141,0.188,0.671,negative,A Shropshire Lad
+"XLVIII Be still, my soul, be still; the arms you bear are brittle, Earth and high heaven are fixt of old and founded strong.",0.765,0.231,0.0,0.769,positive,A Shropshire Lad
+"Think rather,-call to thought, if now you grieve a little, The days when we had rest, O soul, for they were long.",-0.3818,0.0,0.12,0.88,negative,A Shropshire Lad
+"Men loved unkindness then, but lightless in the quarry I slept and saw not; tears fell down, I did not mourn; Sweat ran and blood sprang out and I was never sorry: Then it was well with me, in days ere I was born.",0.8566,0.246,0.0,0.754,positive,A Shropshire Lad
+"Now, and I muse for why and never find the reason, I pace the earth, and drink the air, and feel the sun.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Be still, be still, my soul; it is but for a season: Let us endure an hour and see injustice done.",-0.7227,0.0,0.21,0.79,negative,A Shropshire Lad
+"Ay, look: high heaven and earth ail from the prime foundation; All thoughts to rive the heart are here, and all are vain: Horror and scorn and hate and fear and indignation- Oh why did I awake?",-0.9451,0.064,0.376,0.56,negative,A Shropshire Lad
+when shall I sleep again?,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"XLIX Think no more, lad; laugh, be jolly: Why should men make haste to die?",0.2682,0.296,0.251,0.453,positive,A Shropshire Lad
+"Empty heads and tongues a-talking Make the rough road easy walking, And the feather pate of folly Bears the falling sky.",0.128,0.119,0.14,0.741,positive,A Shropshire Lad
+"Oh, 'tis jesting, dancing, drinking Spins the heavy world around.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"If young hearts were not so clever, Oh, they would be young for ever: Think no more; 'tis only thinking Lays lads underground.",-0.6509,0.0,0.202,0.798,negative,A Shropshire Lad
+"L Clunton and Clunbury, Clungunford and Clun, Are the quietest places Under the sun.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"In valleys of springs of rivers, By Ony and Teme and Clun, The country for easy livers, The quietest under the sun, We still had sorrows to lighten, One could not be always glad, And lads knew trouble at Knighton When I was a Knighton lad.",-0.5967,0.057,0.154,0.789,negative,A Shropshire Lad
+"By bridges that Thames runs under, In London, the town built ill, 'Tis sure small matter for wonder If sorrow is with one still.",-0.5859,0.115,0.209,0.676,negative,A Shropshire Lad
+"And if as a lad grows older The troubles he bears are more, He carries his griefs on a shoulder That handselled them long before.",-0.4588,0.0,0.12,0.88,negative,A Shropshire Lad
+Where shall one halt to deliver This luggage I'd lief set down?,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Not Thames, not Teme is the river, Nor London nor Knighton the town: 'Tis a long way further than Knighton, A quieter place than Clun, Where doomsday may thunder and lighten And little 'twill matter to one.",-0.6096,0.0,0.131,0.869,negative,A Shropshire Lad
+"LI Loitering with a vacant eye Along the Grecian gallery, And brooding on my heavy ill, I met a statue standing still.",-0.4019,0.053,0.134,0.813,negative,A Shropshire Lad
+"Still in marble stone stood he, And stedfastly he looked at me.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"""Well met,"" I thought the look would say, ""We both were fashioned far away; We neither knew, when we were young, These Londoners we live among.""",0.2732,0.08,0.0,0.92,positive,A Shropshire Lad
+"Still he stood and eyed me hard, An earnest and a grave regard: ""What, lad, drooping with your lot?",0.0772,0.148,0.179,0.673,positive,A Shropshire Lad
+I too would be where I am not.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+I too survey that endless line Of men whose thoughts are not as mine.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Years, ere you stood up from rest, On my neck the collar prest; Years, when you lay down your ill, I shall stand and bear it still.",-0.4215,0.0,0.101,0.899,negative,A Shropshire Lad
+"Courage, lad, 'tis not for long: Stand, quit you like stone, be strong.""",0.6908,0.341,0.0,0.659,positive,A Shropshire Lad
+"So I thought his look would say; And light on me my trouble lay, And I slept out in flesh and bone Manful like the man of stone.",-0.0516,0.086,0.092,0.822,negative,A Shropshire Lad
+LII Far in a western brookland That bred me long ago The poplars stand and tremble By pools I used to know.,-0.2732,0.0,0.1,0.9,negative,A Shropshire Lad
+"There, in the windless night-time, The wanderer, marvelling why, Halts on the bridge to hearken How soft the poplars sigh.",0.0258,0.055,0.0,0.945,neutral,A Shropshire Lad
+"He hears: long since forgotten In fields where I was known, Here I lie down in London And turn to rest alone.",-0.4404,0.0,0.178,0.822,negative,A Shropshire Lad
+"There, by the starlit fences, The wanderer halts and hears My soul that lingers sighing About the glimmering weirs.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"LIII THE TRUE LOVER The lad came to the door at night, When lovers crown their vows, And whistled soft and out of sight In shadow of the boughs.",0.9094,0.306,0.0,0.694,positive,A Shropshire Lad
+"""I shall not vex you with my face Henceforth, my love, for aye; So take me in your arms a space Before the east is grey.""",0.6369,0.149,0.0,0.851,positive,A Shropshire Lad
+"""When I from hence away am past I shall not find a bride, And you shall be the first and last I ever lay beside.""",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+She heard and went and knew not why; Her heart to his she laid; Light was the air beneath the sky But dark under the shade.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"""Oh do you breathe, lad, that your breast Seems not to rise and fall, And here upon my bosom prest There beats no heart at all?""",-0.296,0.0,0.081,0.919,negative,A Shropshire Lad
+"""Oh loud, my girl, it once would knock, You should have felt it then; But since for you I stopped the clock It never goes again.""",-0.3291,0.0,0.089,0.911,negative,A Shropshire Lad
+"""Oh lad, what is it, lad, that drips Wet from your neck on mine?",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"What is it falling on my lips, My lad, that tastes of brine?""",-0.1531,0.0,0.118,0.882,negative,A Shropshire Lad
+"""Oh like enough 'tis blood, my dear, For when the knife has slit The throat across from ear to ear 'Twill bleed because of it.""",0.6249,0.181,0.0,0.819,positive,A Shropshire Lad
+"Under the stars the air was light But dark below the boughs, The still air of the speechless night, When lovers crown their vows.",0.6808,0.167,0.0,0.833,positive,A Shropshire Lad
+"LIV With rue my heart is laden For golden friends I had, For many a rose-lipt maiden And many a lightfoot lad.",0.4767,0.147,0.0,0.853,positive,A Shropshire Lad
+By brooks too broad for leaping The lightfoot boys are laid; The rose-lipt girls are sleeping In fields where roses fade.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"LV Westward on the high-hilled plains Where for me the world began, Still, I think, in newer veins Frets the changeless blood of man.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Now that other lads than I Strip to bathe on Severn shore, They, no help, for all they try, Tread the mill I trod before.",0.128,0.104,0.085,0.811,positive,A Shropshire Lad
+"There, when hueless is the west And the darkness hushes wide, Where the lad lies down to rest Stands the troubled dream beside.",-0.7003,0.069,0.271,0.66,negative,A Shropshire Lad
+"There, on thoughts that once were mine, Day looks down the eastern steep, And the youth at morning shine Makes the vow he will not keep.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"LVI THE DAY OF BATTLE ""Far I hear the bugle blow To call me where I would not go, And the guns begin the song, 'Soldier, fly or stay for long.'""",-0.516,0.0,0.106,0.894,negative,A Shropshire Lad
+"""Comrade, if to turn and fly Made a soldier never die, Fly I would, for who would not?",0.4847,0.173,0.0,0.827,positive,A Shropshire Lad
+"'Tis sure no pleasure to be shot.""",0.5859,0.492,0.18,0.328,positive,A Shropshire Lad
+"""But since the man that runs away Lives to die another day, And cowards' funerals, when they come Are not wept so well at home.""",-0.4438,0.187,0.239,0.574,negative,A Shropshire Lad
+"""Therefore, though the best is bad, Stand and do the best my lad; Stand and fight and see your slain, And take the bullet in your brain.""",0.5106,0.224,0.163,0.613,positive,A Shropshire Lad
+"LVII You smile upon your friend to-day, To-day his ills are over; You hearken to the lover's say, And happy is the lover.",0.9217,0.41,0.0,0.59,positive,A Shropshire Lad
+"'Tis late to hearken, late to smile, But better late than never: I shall have lived a little while Before I die for ever.",-0.0911,0.196,0.174,0.63,negative,A Shropshire Lad
+"LVIII When I came last to Ludlow Amidst the moonlight pale, Two friends kept step beside me, Two honest lads and hale.",0.7506,0.252,0.0,0.748,positive,A Shropshire Lad
+"Now Dick lies long in the churchyard, And Ned lies long in jail, And I come home to Ludlow Amidst the moonlight pale.",-0.836,0.0,0.319,0.681,negative,A Shropshire Lad
+LIX THE ISLE OF PORTLAND The star-filled seas are smooth to-night From France to England strown; Black towers above the Portland light The felon-quarried stone.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"On yonder island, not to rise, Never to stir forth free, Far from his folk a dead lad lies That once was friends with me.",-0.1779,0.191,0.212,0.597,negative,A Shropshire Lad
+"Lie you easy, dream you light, And sleep you fast for aye; And luckier may you find the night Than ever you found the day.",0.7783,0.262,0.0,0.738,positive,A Shropshire Lad
+"LX Now hollow fires burn out to black, And lights are guttering low: Square your shoulders, lift your pack, And leave your friends and go.",0.2023,0.109,0.116,0.775,positive,A Shropshire Lad
+"Oh never fear, man, nought's to dread, Look not left nor right: In all the endless road you tread There's nothing but the night.",-0.048,0.07,0.077,0.852,neutral,A Shropshire Lad
+"LXI HUGHLEY STEEPLE The vane on Hughley steeple Veers bright, a far-known sign, And there lie Hughley people, And there lie friends of mine.",0.7184,0.222,0.0,0.778,positive,A Shropshire Lad
+"Tall in their midst the tower Divides the shade and sun, And the clock strikes the hour And tells the time to none.",-0.3612,0.0,0.102,0.898,negative,A Shropshire Lad
+"To south the headstones cluster, The sunny mounds lie thick; The dead are more in muster At Hughley than the quick.",-0.3612,0.107,0.165,0.728,negative,A Shropshire Lad
+"North, for a soon-told number, Chill graves the sexton delves, And steeple-shadowed slumber The slayers of themselves.",-0.2263,0.074,0.126,0.8,negative,A Shropshire Lad
+"To north, to south, lie parted, With Hughley tower above, The kind, the single-hearted, The lads I used to love.",0.8225,0.309,0.0,0.691,positive,A Shropshire Lad
+"And, south or north, 'tis only A choice of friends one knows, And I shall ne'er be lonely Asleep with these or those.",0.1531,0.126,0.102,0.772,positive,A Shropshire Lad
+"LXII ""Terence, this is stupid stuff: You eat your victuals fast enough; There can't be much amiss, 'tis clear, To see the rate you drink your beer.",-0.2023,0.084,0.11,0.806,negative,A Shropshire Lad
+"But oh, good Lord, the verse you make, It gives a chap the belly-ache.",0.5927,0.243,0.0,0.757,positive,A Shropshire Lad
+"The cow, the old cow, she is dead; It sleeps well, the horned head: We poor lads, 'tis our turn now To hear such tunes as killed the cow.",-0.8957,0.054,0.305,0.641,negative,A Shropshire Lad
+"Pretty friendship 'tis to rhyme Your friends to death before their time Moping melancholy mad: Come, pipe a tune to dance to, lad.""",-0.4215,0.254,0.331,0.414,negative,A Shropshire Lad
+"Why, if 'tis dancing you would be, There's brisker pipes than poetry.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Say, for what were hop-yards meant, Or why was Burton built on Trent?",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Oh many a peer of England brews Livelier liquor than the Muse, And malt does more than Milton can To justify God's ways to man.",0.4019,0.105,0.0,0.895,positive,A Shropshire Lad
+"Ale, man, ale's the stuff to drink For fellows whom it hurts to think: Look into the pewter pot To see the world as the world's not.",-0.4767,0.0,0.107,0.893,negative,A Shropshire Lad
+"And faith, 'tis pleasant till 'tis past: The mischief is that 'twill not last.",0.5574,0.311,0.128,0.561,positive,A Shropshire Lad
+"Oh I have been to Ludlow fair And left my necktie God knows where, And carried half-way home, or near, Pints and quarts of Ludlow beer: Then the world seemed none so bad, And I myself a sterling lad; And down in lovely muck I've lain, Happy till I woke again.",0.938,0.269,0.0,0.731,positive,A Shropshire Lad
+"Then I saw the morning sky: Heigho, the tale was all a lie; The world, it was the old world yet, I was I, my things were wet, And nothing now remained to do But begin the game anew.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Therefore, since the world has still Much good, but much less good than ill, And while the sun and moon endure Luck's a chance, but trouble's sure, I'd face it as a wise man would, And train for ill and not for good.",0.9125,0.327,0.112,0.561,positive,A Shropshire Lad
+'Tis true the stuff I bring for sale Is not so brisk a brew as ale: Out of a stem that scored the hand I wrung it in a weary land.,0.4721,0.188,0.123,0.689,positive,A Shropshire Lad
+"But take it: if the smack is sour, The better for the embittered hour; It should do good to heart and head When your soul is in my soul's stead; And I will friend you, if I may, In the dark and cloudy day.",0.9081,0.233,0.031,0.736,positive,A Shropshire Lad
+"There was a king reigned in the East: There, when kings will sit to feast, They get their fill before they think With poisoned meat and poisoned drink.",-0.7506,0.0,0.204,0.796,negative,A Shropshire Lad
+"He gathered all that springs to birth From the many-venomed earth; First a little, thence to more, He sampled all her killing store; And easy, smiling, seasoned sound, Sate the king when healths went round.",0.128,0.143,0.107,0.751,positive,A Shropshire Lad
+"They put arsenic in his meat And stared aghast to watch him eat; They poured strychnine in his cup And shook to see him drink it up: They shook, they stared as white's their shirt: Them it was their poison hurt.",-0.891,0.0,0.259,0.741,negative,A Shropshire Lad
+-I tell the tale that I heard told.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Mithridates, he died old.",-0.5574,0.0,0.545,0.455,negative,A Shropshire Lad
+"LXIII I Hoed and trenched and weeded, And took the flowers to fair: I brought them home unheeded; The hue was not the wear.",0.3182,0.099,0.0,0.901,positive,A Shropshire Lad
+"So up and down I sow them For lads like me to find, When I shall lie below them, A dead man out of mind.",-0.4215,0.093,0.16,0.746,negative,A Shropshire Lad
+"Some seed the birds devour, And some the season mars, But here and there will flower The solitary stars, And fields will yearly bear them As light-leaved spring comes on, And luckless lads will wear them When I am dead and gone.",-0.872,0.0,0.186,0.814,negative,A Shropshire Lad
+*** END OF THE PROJECT GUTENBERG EBOOK A SHROPSHIRE LAD *** Updated editions will replace the previous one--the old editions will be renamed.,0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!)",0.1744,0.156,0.136,0.708,positive,A Shropshire Lad
+can copy and distribute it in the United States without permission and without paying copyright royalties.,0.4215,0.157,0.0,0.843,positive,A Shropshire Lad
+"Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark.",0.6486,0.155,0.0,0.845,positive,A Shropshire Lad
+"Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+"If you do not charge anything for copies of this eBook, complying with the trademark license is very easy.",0.4927,0.151,0.0,0.849,positive,A Shropshire Lad
+"You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research.",0.2732,0.104,0.0,0.896,positive,A Shropshire Lad
+Project Gutenberg eBooks may be modified and printed and given away--you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law.,0.1012,0.093,0.08,0.828,positive,A Shropshire Lad
+"Redistribution is subject to the trademark license, especially commercial redistribution.",0.0,0.0,0.0,1.0,neutral,A Shropshire Lad
+START: FULL LICENSE THE FULL PROJECT GUTENBERG™ LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK To protect the,0.6841,0.229,0.0,0.771,positive,A Shropshire Lad

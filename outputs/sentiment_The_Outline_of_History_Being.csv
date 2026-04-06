@@ -1,0 +1,484 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Outline of History: Being a Plain History of Life and Mankind This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.057,0.089,0.854,negative,The Outline of History: Being a Plain History of Life and Mankind
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Title : The Outline of History: Being a Plain History of Life and Mankind Author : H. G. Wells Editor : Sir Ernest Barker Harry Johnston Sir E. Ray Lankester Gilbert Murray Illustrator : J. F. Horrabin Release date : April 12, 2014 [eBook #45368] Most recently updated: October 24, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/45368 Credits : Produced by Chuck Greif, Adam Buchbinder and the Online Distributed Proofreading Team at http://www.pgdp.net (This book was produced from scanned images of public domain material from the Google Print project.)",0.5423,0.053,0.0,0.947,positive,The Outline of History: Being a Plain History of Life and Mankind
+*** START OF THE PROJECT GUTENBERG EBOOK THE OUTLINE OF HISTORY: BEING A PLAIN HISTORY OF LIFE AND MANKIND *** THE OUTLINE OF HISTORY Every attempt has been made to replicate the original as printed.,0.3182,0.065,0.0,0.935,positive,The Outline of History: Being a Plain History of Life and Mankind
+No attempt has been made to correct or normalize the spelling of non-English words.,-0.296,0.0,0.145,0.855,negative,The Outline of History: Being a Plain History of Life and Mankind
+Some typographical errors have been corrected; a list follows the text .,-0.34,0.0,0.211,0.789,negative,The Outline of History: Being a Plain History of Life and Mankind
+The illustrations have been moved from mid-paragraph for ease of reading.,0.3612,0.2,0.0,0.8,positive,The Outline of History: Being a Plain History of Life and Mankind
+"In certain versions of this etext, in certain browsers, clicking on this symbol will bring up a larger version of the image.",0.4939,0.181,0.0,0.819,positive,The Outline of History: Being a Plain History of Life and Mankind
+Introduction VOLUME I.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Scheme of Contents, Volume I.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+List of Maps and Illustrations VOLUME II.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Scheme of Contents, Volume II.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"List of Illustrations Time Charts Chronological Table Index : A , B , C , D , E , F , G , H , I , J , K , L , M , N , O , P , Q , R , S , T , U , V , W , X , Y , Z (etext transcriber's note) ¶ Mr. WELLS has also written the following novels: LOVE AND MR. LEWISHAM KIPPS MR. POLLY THE WHEELS OF CHANCE THE NEW MACHIAVELLI ANN VERONICA TONO BUNGAY MARRIAGE BEALBY THE PASSIONATE FRIENDS THE WIFE OF SIR ISAAC HARMAN THE RESEARCH MAGNIFICENT MR. BRITLING SEES IT THROUGH THE SOUL OF A BISHOP JOAN AND PETER THE UNDYING FIRE ¶ The following fantastic and imaginative romances: THE WAR OF THE WORLDS THE TIME MACHINE THE WONDERFUL VISIT THE ISLAND OF DR. MOREAU THE SEA LADY THE SLEEPER AWAKES THE FOOD OF THE GODS THE WAR IN THE AIR THE FIRST MEN IN THE MOON IN THE DAYS OF THE COMET THE WORLD SET FREE And numerous Short Stories now collected in One Volume under the title of THE COUNTRY OF THE BLIND ¶ A Series of books on Social, Religious, and Political questions: ANTICIPATIONS (1900) MANKIND IN THE MAKING FIRST AND LAST THINGS NEW WORLDS FOR OLD A MODERN UTOPIA THE FUTURE IN AMERICA AN ENGLISHMAN LOOKS AT THE WORLD WHAT IS COMING?",0.9703,0.174,0.074,0.753,positive,The Outline of History: Being a Plain History of Life and Mankind
+"WAR AND THE FUTURE IN THE FOURTH YEAR GOD THE INVISIBLE KING ¶ And two little books about children's play, called FLOOR GAMES and LITTLE WARS THE OUTLINE OF HISTORY Being a Plain History of Life and Mankind BY H. G. WELLS WRITTEN WITH THE ADVICE AND EDITORIAL HELP OF MR. ERNEST BARKER, SIR H. H. JOHNSTON, SIR E. RAY LANKESTER AND PROFESSOR GILBERT MURRAY AND ILLUSTRATED BY J. F. HORRABIN V OLUME I New York THE MACMILLAN COMPANY 1920 All rights reserved Copyright , 1920, By THE MACMILLAN COMPANY.",-0.0018,0.114,0.094,0.792,neutral,The Outline of History: Being a Plain History of Life and Mankind
+By H. G. WELLS.,0.4084,0.477,0.0,0.523,positive,The Outline of History: Being a Plain History of Life and Mankind
+Set up and electrotyped.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Published November, 1920.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"NORWOOD PRESS J. S. Cushing Co.--Berwick & Smith Co. Norwood, Mass., U.S.A. INTRODUCTION "" A philosophy of the history of the human race, worthy of its name, must begin with the heavens and descend to the earth, must be charged with the conviction that all existence is one--a single conception sustained from beginning to end upon one identical law. """,0.5859,0.093,0.03,0.877,positive,The Outline of History: Being a Plain History of Life and Mankind
+-- Friedrich Ratzel.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"T HIS Outline of History is an attempt to tell, truly and clearly, in one continuous narrative, the whole story of life and mankind so far as it is known to-day.",0.6808,0.167,0.0,0.833,positive,The Outline of History: Being a Plain History of Life and Mankind
+"It is written plainly for the general reader, but its aim goes beyond its use as merely interesting reading matter.",0.5719,0.207,0.0,0.793,positive,The Outline of History: Being a Plain History of Life and Mankind
+"There is a feeling abroad that the teaching of history considered as a part of general education is in an unsatisfactory condition, and particularly that the ordinary treatment of this ""subject"" by the class and teacher and examiner is too partial and narrow.",0.128,0.036,0.0,0.964,positive,The Outline of History: Being a Plain History of Life and Mankind
+"But the desire to extend the general range of historical ideas is confronted by the argument that the available time for instruction is already consumed by that partial and narrow treatment, and that therefore, however desirable this extension of range may be, it is in practice impossible.",0.4767,0.153,0.097,0.75,positive,The Outline of History: Being a Plain History of Life and Mankind
+"If an Englishman, for example, has found the history of England quite enough for his powers of assimilation, then it seems hopeless to expect his sons and daughters to master universal history, if that is to consist of the history of England, plus the history of France, plus the history of Germany, plus the history of Russia, and so on.",-0.4588,0.0,0.048,0.952,negative,The Outline of History: Being a Plain History of Life and Mankind
+"To which the only possible answer is that universal history is at once something more and something less than the aggregate of the national histories to which we are accustomed, that it must be approached in a different spirit and dealt with in a different manner.",0.1779,0.038,0.0,0.962,positive,The Outline of History: Being a Plain History of Life and Mankind
+This book seeks to justify that answer.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"It has been written primarily to show that history as one whole is amenable to a more broad and comprehensive handling than is the history of special nations and periods, a broader handling that will bring it within the normal limitations of time and energy set to the reading and education of an ordinary citizen.",0.7239,0.124,0.0,0.876,positive,The Outline of History: Being a Plain History of Life and Mankind
+"This outline deals with ages and races and nations, where the ordinary history deals with reigns and pedigrees and campaigns; but it will not be found to be more crowded with names and dates, nor more difficult to follow and understand.",0.4571,0.07,0.0,0.93,positive,The Outline of History: Being a Plain History of Life and Mankind
+"History is no exception amongst the sciences; as the gaps fill in, the outline simplifies; as the outlook broadens, the clustering multitude of details dissolves into general laws.",-0.296,0.0,0.075,0.925,negative,The Outline of History: Being a Plain History of Life and Mankind
+"And many topics of quite primary interest to mankind, the first appearance and the growth of scientific knowledge for example, and its effects upon human life, the elaboration of the ideas of money and credit, or the story of the origins and spread and influence of Christianity, which must be treated fragmentarily or by elaborate digressions in any partial history, arise and flow completely and naturally in one general record of the world in which we live.",0.8166,0.103,0.0,0.897,positive,The Outline of History: Being a Plain History of Life and Mankind
+The need for a common knowledge of the general facts of human history throughout the world has become very evident during the tragic happenings of the last few years.,-0.4588,0.0,0.1,0.9,negative,The Outline of History: Being a Plain History of Life and Mankind
+Swifter means of communication have brought all men closer to one another for good or for evil.,-0.3612,0.13,0.197,0.673,negative,The Outline of History: Being a Plain History of Life and Mankind
+"War becomes a universal disaster, blind and monstrously destructive; it bombs the baby in its cradle and sinks the food-ships that cater for the non-combatant and the neutral.",-0.9403,0.0,0.39,0.61,negative,The Outline of History: Being a Plain History of Life and Mankind
+"There can be no peace now, we realize, but a common peace in all the world; no prosperity but a general prosperity.",0.5574,0.255,0.161,0.584,positive,The Outline of History: Being a Plain History of Life and Mankind
+But there can be no common peace and prosperity without common historical ideas .,0.4497,0.256,0.151,0.593,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Without such ideas to hold them together in harmonious co-operation, with nothing but narrow, selfish, and conflicting nationalist traditions, races and peoples are bound to drift towards conflict and destruction.",-0.803,0.127,0.276,0.597,negative,The Outline of History: Being a Plain History of Life and Mankind
+"This truth, which was apparent to that great philosopher Kant a century or more ago--it is the gist of his tract upon universal peace--is now plain to the man in the street.",0.7506,0.181,0.0,0.819,positive,The Outline of History: Being a Plain History of Life and Mankind
+Our internal policies and our economic and social ideas are profoundly vitiated at present by wrong and fantastic ideas of the origin and historical relationship of social classes.,0.128,0.11,0.095,0.795,positive,The Outline of History: Being a Plain History of Life and Mankind
+A sense of history as the common adventure of all mankind is as necessary for peace within as it is for peace between the nations.,0.8519,0.307,0.0,0.693,positive,The Outline of History: Being a Plain History of Life and Mankind
+Such are the views of history that this Outline seeks to realize.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"It is an attempt to tell how our present state of affairs, this distressed and multifarious human life about us, arose in the course of vast ages and out of the inanimate clash of matter, and to estimate the quality and amount and range of the hopes with which it now faces its destiny.",-0.09,0.067,0.056,0.877,negative,The Outline of History: Being a Plain History of Life and Mankind
+"It is one experimental contribution to a great and urgently necessary educational reformation, which must ultimately restore universal history, revised, corrected, and brought up to date, to its proper place and use as the backbone of a general education.",0.743,0.153,0.0,0.847,positive,The Outline of History: Being a Plain History of Life and Mankind
+"We say ""restore,"" because all the great cultures of the world hitherto, Judaism and Christianity in the Bible, Islam in the Koran, have used some sort of cosmogony and world history as a basis.",0.6249,0.114,0.0,0.886,positive,The Outline of History: Being a Plain History of Life and Mankind
+It may indeed be argued that without such a basis any really binding culture of men is inconceivable.,-0.3612,0.0,0.135,0.865,negative,The Outline of History: Being a Plain History of Life and Mankind
+Without it we are a chaos.,-0.5719,0.0,0.481,0.519,negative,The Outline of History: Being a Plain History of Life and Mankind
+Remarkably few sketches of universal history by one single author have been written.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+One book that has influenced the writer very strongly is Winwood Reade's Martyrdom of Man .,0.3384,0.146,0.0,0.854,positive,The Outline of History: Being a Plain History of Life and Mankind
+"This dates , as people say, nowadays, and it has a fine gloom of its own, but it is still an extraordinarily inspiring presentation of human history as one consistent process.",0.4215,0.153,0.069,0.778,positive,The Outline of History: Being a Plain History of Life and Mankind
+Mr. F. S. Marvin's Living Past is also an admirable summary of human progress.,0.7506,0.348,0.0,0.652,positive,The Outline of History: Being a Plain History of Life and Mankind
+There is a good General History of the World in one volume by Mr. Oscar Browning.,0.4404,0.172,0.0,0.828,positive,The Outline of History: Being a Plain History of Life and Mankind
+"America has recently produced two well-illustrated and up-to-date class books, Breasted's Ancient Times and Robinson's Medieval and Modern Times , which together give a very good idea of the story of mankind since the beginning of human societies.",0.4927,0.084,0.0,0.916,positive,The Outline of History: Being a Plain History of Life and Mankind
+"There are, moreover, quite a number of nominally Universal Histories in existence, but they are really not histories at all, they are encyclopædias of history; they lack the unity of presentation attainable only when the whole subject has been passed through one single mind.",-0.3926,0.029,0.065,0.906,negative,The Outline of History: Being a Plain History of Life and Mankind
+"These universal histories are compilations, assemblies of separate national or regional histories by different hands, the parts being necessarily unequal in merit and authority and disproportionate one to another.",0.1779,0.126,0.074,0.8,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Several such universal histories in thirty or forty volumes or so, adorned with allegorical title pages and illustrated by folding maps and plans of Noah's Ark, Solomon's Temple, and the Tower of Babel, were produced for the libraries of gentlemen in the eighteenth century.",0.3327,0.052,0.0,0.948,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Helmolt's World History , in eight massive volumes, is a modern compilation of the same sort, very useful for reference and richly illustrated, but far better in its parts than as a whole.",0.7843,0.226,0.0,0.774,positive,The Outline of History: Being a Plain History of Life and Mankind
+Another such collection is the Historians' History of the World in 25 volumes.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The Encyclopædia Britannica contains, of course, a complete encyclopædia of history within itself, and is the most modern of all such collections.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"[1] F. Ratzel's History of Mankind , in spite of the promise of its title, is mainly a natural history of man, though it is rich with suggestions upon the nature and development of civilization.",0.6124,0.206,0.083,0.711,positive,The Outline of History: Being a Plain History of Life and Mankind
+"That publication and Miss Ellen Churchill Semple's Influence of Geographical Environment , based on Ratzel's work, are quoted in this Outline , and have had considerable influence upon its plan.",-0.1531,0.0,0.056,0.944,negative,The Outline of History: Being a Plain History of Life and Mankind
+F. Ratzel would indeed have been the ideal author for such a book as our present one.,0.5267,0.185,0.0,0.815,positive,The Outline of History: Being a Plain History of Life and Mankind
+Unfortunately neither he nor any other ideal author was available.,-0.6341,0.0,0.393,0.607,negative,The Outline of History: Being a Plain History of Life and Mankind
+[2] The writer will offer no apology for making this experiment.,-0.25,0.097,0.177,0.726,negative,The Outline of History: Being a Plain History of Life and Mankind
+His disqualifications are manifest.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"But such work needs to be done by as many people as possible, he was free to make his contribution, and he was greatly attracted by the task.",0.8621,0.248,0.0,0.752,positive,The Outline of History: Being a Plain History of Life and Mankind
+He has read sedulously and made the utmost use of all the help he could obtain.,0.4019,0.153,0.0,0.847,positive,The Outline of History: Being a Plain History of Life and Mankind
+There is not a chapter that has not been examined by some more competent person than himself and very carefully revised.,0.5245,0.196,0.0,0.804,positive,The Outline of History: Being a Plain History of Life and Mankind
+"He has particularly to thank his friends Sir E. Ray Lankester, Sir H. H. Johnston, Professor Gilbert Murray, and Mr. Ernest Barker for much counsel and direction and editorial help.",0.8214,0.241,0.0,0.759,positive,The Outline of History: Being a Plain History of Life and Mankind
+Mr. Philip Guedalla has toiled most efficiently and kindly through all the proofs.,0.7548,0.37,0.0,0.63,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Mr. A. Allison, Professor T. W. Arnold, Mr. Arnold Bennett, the Rev.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"A. H. Trevor Benson, Mr. Aodh de Blacam, Mr. Laurence Binyon, the Rev.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"G. W. Broomfield, Sir William Bull, Mr. L. Cranmer Byng, Mr. A. J. D. Campbell, Mr. A. Y. Campbell, Mr. L. Y. Chen, Mr. A. R. Cowan, Mr. O. G. S. Crawford, Dr. W. S. Culbertson, Mr. R. Langton Cole, Mr. B. G. Collins, Mr. J. J. L. Duyvendak, Mr. O. W. Ellis, Mr. G. S. Ferrier, Mr. David Freeman, Mr. S. N. Fu, Mr. G. B. Gloyne, Sir Richard Gregory, Mr. F. H. Hayward, Mr. Sydney Herbert, Dr. Fr.",-0.4588,0.032,0.055,0.913,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Krupicka, Mr. H. Lang Jones, Mr. C. H. B. Laughton, Mr. B. I. Macalpin, Mr. G. H. Mair, Mr. F. S. Marvin, Mr. J. S. Mayhew, Mr. B. Stafford Morse, Professor J. L. Myres, the Hon.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"W. Ormsby-Gore, Sir Sydney Olivier, Mr. R. I. Pocock, Mr. J. Pringle, Mr. W. H. R. Rivers, Sir Denison Ross, Dr. E. J. Russell, Dr. Charles Singer, Mr. A. St. George Sanford, Dr. C. O. Stallybrass, Mr. G. H. Walsh, Mr. G. P. Wells, Miss Rebecca West, and Mr. George Whale have all to be thanked for help, either by reading parts of the MS. or by pointing out errors in the published parts, making suggestions, answering questions, or giving advice.",0.7184,0.112,0.045,0.843,positive,The Outline of History: Being a Plain History of Life and Mankind
+"The amount of friendly and sympathetic assistance the writer has received, often from very busy people, has been a quite extraordinary experience.",0.7579,0.255,0.0,0.745,positive,The Outline of History: Being a Plain History of Life and Mankind
+He has met with scarcely a single instance of irritation or impatience on the part of specialists whose domains he has invaded and traversed in what must have seemed to many of them an exasperatingly impudent and superficial way.,-0.7269,0.0,0.145,0.855,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Numerous other helpful correspondents have pointed out printer's errors and minor slips in the serial publication which preceded this book edition, and they have added many useful items of information, and to those writers also the warmest thanks are due.",0.836,0.232,0.049,0.719,positive,The Outline of History: Being a Plain History of Life and Mankind
+"But of course none of these generous helpers are to be held responsible for the judgments, tone, arrangement, or writing of this Outline .",0.261,0.192,0.122,0.686,positive,The Outline of History: Being a Plain History of Life and Mankind
+"In the relative importance of the parts, in the moral and political implications of the story, the final decision has necessarily fallen to the writer.",0.0,0.089,0.089,0.821,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The problem of illustrations was a very difficult one for him, for he had had no previous experience in the production of an illustrated book.",-0.7713,0.0,0.268,0.732,negative,The Outline of History: Being a Plain History of Life and Mankind
+In Mr. J. F. Horrabin he has had the good fortune to find not only an illustrator but a collaborator.,0.2382,0.098,0.0,0.902,positive,The Outline of History: Being a Plain History of Life and Mankind
+Mr. Horrabin has spared no pains to make this work informative and exact.,-0.6124,0.0,0.312,0.688,negative,The Outline of History: Being a Plain History of Life and Mankind
+"His maps and drawings are a part of the text, the most vital and decorative part.",0.3597,0.151,0.0,0.849,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Some of them, the hypothetical maps, for example, of the western world at the end of the last glacial age, during the ""pluvial age"" and 12,000 years ago, and the migration map of the Barbarian invaders of the Roman Empire, represent the reading and inquiry of many laborious days.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The index to this edition is the work of Mr. Strickland Gibson of Oxford.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Several correspondents have asked for a pronouncing index and accordingly this has been provided.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The writer owes a word of thanks to that living index of printed books, Mr. J. F. Cox of the London Library.",0.4404,0.127,0.0,0.873,positive,The Outline of History: Being a Plain History of Life and Mankind
+He would also like to acknowledge here the help he has received from Mrs. Wells.,0.7351,0.375,0.0,0.625,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Without her labour in typing and re-typing the drafts of the various chapters as they have been revised and amended, in checking references, finding suitable quotations, hunting up illustrations, and keeping in order the whole mass of material for this history, and without her constant help and watchful criticism, its completion would have been impossible.",-0.6319,0.0,0.089,0.911,negative,The Outline of History: Being a Plain History of Life and Mankind
+SCHEME OF CONTENTS BOOK I THE MAKING OF OUR WORLD PAGE Chapter I.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Earth in Space and Time 3 Chapter II.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Record of the Rocks § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The first living things 7 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+How old is the world?,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+13 Chapter III.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Natural Selection and the Changes of Species 16 Chapter IV.,0.3612,0.217,0.0,0.783,positive,The Outline of History: Being a Plain History of Life and Mankind
+The Invasion of the Dry Land by Life § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Life and water 23 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The earliest animals 25 Chapter V. Changes in the World's Climate § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Why life must change continually 29 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The sun a steadfast star 34 § 3.,0.25,0.286,0.0,0.714,positive,The Outline of History: Being a Plain History of Life and Mankind
+Changes from within the earth 35 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Life may control change 36 Chapter VI.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Age of Reptiles § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The age of lowland life 38 § 2.,-0.0258,0.0,0.155,0.845,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Flying dragons 43 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The first birds 43 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+An age of hardship and death 44 § 5.,-0.7351,0.0,0.508,0.492,negative,The Outline of History: Being a Plain History of Life and Mankind
+The first appearance of fur and feathers 47 Chapter VII.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Age of Mammals § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+A new age of life 51 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Tradition comes into the world 52 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+An age of brain growth 56 § 4.,0.3818,0.302,0.0,0.698,positive,The Outline of History: Being a Plain History of Life and Mankind
+The world grows hard again 57 § 5.,-0.1027,0.0,0.189,0.811,negative,The Outline of History: Being a Plain History of Life and Mankind
+Chronology of the Ice Age 59 BOOK II THE MAKING OF MEN Chapter VIII.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Ancestry of Man § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Man descended from a walking ape 62 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+First traces of man-like creatures 68 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Heidelberg sub-man 69 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Piltdown sub-man 70 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The riddle of the Piltdown remains 72 Chapter IX.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The Neanderthal Men, an Extinct Race.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+( The Early Palæolithic Age ) § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The world 50,000 years ago 75 § 2.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The daily life of the first men 79 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The last Palæolithic men 84 Chapter X.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The Later Postglacial Palæolithic Men, the First True Men.",0.4215,0.259,0.0,0.741,positive,The Outline of History: Being a Plain History of Life and Mankind
+( Later Palæolithic Age ) § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The coming of men like ourselves 86 § 2.,-0.0258,0.225,0.234,0.541,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Subdivision of the Later Palæolithic 95 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The earliest true men were clever savages 98 § 4.,0.34,0.382,0.224,0.395,positive,The Outline of History: Being a Plain History of Life and Mankind
+Hunters give place to herdsmen 101 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+No sub-men in America 102 Chapter XI.,-0.296,0.0,0.268,0.732,negative,The Outline of History: Being a Plain History of Life and Mankind
+Neolithic Man in Europe § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The age of cultivation begins 104 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Where did the Neolithic culture arise?,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+108 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Everyday Neolithic life 109 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+How did sowing begin?,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+116 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Primitive trade 118 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The flooding of the Mediterranean Valley 118 Chapter XII.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Early Thought § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Primitive philosophy 122 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Old Man in religion 125 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Fear and hope in religion 126 § 4.,-0.0772,0.261,0.288,0.45,negative,The Outline of History: Being a Plain History of Life and Mankind
+Stars and seasons 127 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Story-telling and myth-making 129 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Complex origins of religion 130 Chapter XIII.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Races of Mankind § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Is mankind still differentiating?,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+136 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The main races of mankind 140 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Was there an Alpine race?,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+142 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Heliolithic culture of the Brunet peoples 146 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+How existing races may be related to each other 148 Chapter XIV.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Languages of Mankind § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+No one primitive language 150 § 2.,-0.296,0.0,0.306,0.694,negative,The Outline of History: Being a Plain History of Life and Mankind
+The Aryan languages 151 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Semitic languages 153 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Hamitic languages 154 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Ural-Altaic languages 156 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Chinese languages 157 § 7.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Other language groups 157 § 8.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Submerged and lost languages 161 § 9.,-0.3182,0.0,0.315,0.685,negative,The Outline of History: Being a Plain History of Life and Mankind
+How languages may be related 163 BOOK III THE DAWN OF HISTORY Chapter XV.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Aryan-speaking Peoples in Prehistoric Times § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The spreading of the Aryan-speakers 167 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Primitive Aryan life 169 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Early Aryan daily life 176 Chapter XVI.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The First Civilizations § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Early cities and early nomads 183 § 2 A .,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The riddle of the Sumerians 188 § 2 B .,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The empire of Sargon the First 191 § 2 C .,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The empire of Hammurabi 191 § 2 D .,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Assyrians and their empire 192 § 2 E .,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Chaldean empire 194 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The early history of Egypt 195 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The early civilization of India 201 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The early history of China 201 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+While the civilizations were growing 206 Chapter XVII.,0.1779,0.195,0.0,0.805,positive,The Outline of History: Being a Plain History of Life and Mankind
+Sea Peoples and Trading Peoples § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The earliest ships and sailors 209 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Ægean cities before history 213 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The first voyages of exploration 217 § 4.,0.2263,0.241,0.0,0.759,positive,The Outline of History: Being a Plain History of Life and Mankind
+Early traders 218 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Early travellers 220 Chapter XVIII.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Writing § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Picture writing 223 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Syllable writing 227 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Alphabet writing 228 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The place of writing in human life 229 Chapter XIX.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Gods and Stars, Priests and Kings § 1.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Nomadic and settled religion 232 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The priest comes into history 234 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Priests and the stars 238 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Priests and the dawn of learning 240 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+King against priests 241 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+How Bel-Marduk struggled against the kings 245 § 7.,-0.34,0.0,0.255,0.745,negative,The Outline of History: Being a Plain History of Life and Mankind
+The god-kings of Egypt 248 § 8.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Shi Hwang-ti destroys the books 252 Chapter XX.,-0.5574,0.0,0.34,0.66,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Serfs, Slaves, Social Classes, and Free Individuals § 1.",0.5106,0.32,0.0,0.68,positive,The Outline of History: Being a Plain History of Life and Mankind
+The common man in ancient times 254 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The earliest slaves 256 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The first ""independent"" persons 259 § 4.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Social classes three thousand years ago 262 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Classes hardening into castes 266 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Caste in India 268 § 7.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The system of the Mandarins 270 § 8.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"A summary of five thousand years 272 BOOK IV JUDEA, GREECE, AND INDIA Chapter XXI.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Hebrew Scriptures and the Prophets § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The place of the Israelites in history 277 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Saul, David, and Solomon 286 § 3.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Jews a people of mixed origin 292 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The importance of the Hebrew prophets 294 Chapter XXII.,0.3612,0.238,0.0,0.762,positive,The Outline of History: Being a Plain History of Life and Mankind
+The Greeks and the Persians § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Hellenic peoples 298 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Distinctive features of the Hellenic civilization 304 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Monarchy, aristocracy, and democracy in Greece 307 § 4.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The kingdom of Lydia 315 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The rise of the Persians in the East 316 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The story of Crœsus 320 § 7.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Darius invades Russia 326 § 8.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The battle of Marathon 332 § 9.,-0.3818,0.0,0.342,0.658,negative,The Outline of History: Being a Plain History of Life and Mankind
+Thermopylæ and Salamis 334 § 10.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Platæa and Mycale 340 Chapter XXIII.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Greek Thought and Literature § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Athens of Pericles 343 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Socrates 350 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+What was the quality of the common Athenians?,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+352 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Greek tragedy and comedy 354 § 5.,-0.4404,0.229,0.404,0.367,negative,The Outline of History: Being a Plain History of Life and Mankind
+Plato and the Academy 355 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Aristotle and the Lyceum 357 § 7.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Philosophy becomes unworldly 359 § 8.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The quality and limitations of Greek thought 360 Chapter XXIV.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Career of Alexander the Great § 1.,0.6249,0.406,0.0,0.594,positive,The Outline of History: Being a Plain History of Life and Mankind
+Philip of Macedonia 367 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The murder of King Philip 373 § 3.,-0.6908,0.0,0.439,0.561,negative,The Outline of History: Being a Plain History of Life and Mankind
+Alexander's first conquests 377 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The wanderings of Alexander 385 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Was Alexander indeed great?,0.6249,0.577,0.0,0.423,positive,The Outline of History: Being a Plain History of Life and Mankind
+389 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The successors of Alexander 395 § 7.,0.2732,0.296,0.0,0.704,positive,The Outline of History: Being a Plain History of Life and Mankind
+Pergamum a refuge of culture 396 § 8.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Alexander as a portent of world unity 397 Chapter XXV.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Science and Religion at Alexandria § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The science of Alexandria 401 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Philosophy of Alexandria 410 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Alexandria as a factory of religions 410 Chapter XXVI.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Rise and Spread of Buddhism § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The story of Gautama 415 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Teaching and legend in conflict 421 § 3.,-0.3182,0.0,0.277,0.723,negative,The Outline of History: Being a Plain History of Life and Mankind
+The gospel of Gautama Buddha 422 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Buddhism and Asoka 426 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Two great Chinese teachers 433 § 6.,0.6249,0.451,0.0,0.549,positive,The Outline of History: Being a Plain History of Life and Mankind
+The corruptions of Buddhism 438 § 7.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The present range of Buddhism 440 BOOK V THE RISE AND COLLAPSE OF THE ROMAN EMPIRE Chapter XXVII.,-0.6037,0.0,0.197,0.803,negative,The Outline of History: Being a Plain History of Life and Mankind
+The Two Western Republics § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The beginnings of the Latins 445 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+A new sort of state 454 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Carthaginian republic of rich men 466 § 4.,0.5574,0.34,0.0,0.66,positive,The Outline of History: Being a Plain History of Life and Mankind
+The First Punic War 467 § 5.,-0.5994,0.0,0.438,0.562,negative,The Outline of History: Being a Plain History of Life and Mankind
+Cato the Elder and the spirit of Cato 471 § 6.,0.1779,0.159,0.0,0.841,positive,The Outline of History: Being a Plain History of Life and Mankind
+The Second Punic War 475 § 7.,-0.5994,0.0,0.438,0.562,negative,The Outline of History: Being a Plain History of Life and Mankind
+The Third Punic War 480 § 8.,-0.5994,0.0,0.438,0.562,negative,The Outline of History: Being a Plain History of Life and Mankind
+How the Punic War undermined Roman liberty 485 § 9.,-0.4588,0.215,0.405,0.38,negative,The Outline of History: Being a Plain History of Life and Mankind
+Comparison of the Roman republic with a modern state 486 Chapter XXVIII.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+From Tiberius Gracchus To the God Emperor in Rome § 1.,0.2732,0.189,0.0,0.811,positive,The Outline of History: Being a Plain History of Life and Mankind
+The science of thwarting the common man 493 § 2.,-0.1779,0.0,0.175,0.825,negative,The Outline of History: Being a Plain History of Life and Mankind
+Finance in the Roman state 496 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The last years of republican politics 499 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The era of the adventurer generals 505 § 5.,0.296,0.239,0.0,0.761,positive,The Outline of History: Being a Plain History of Life and Mankind
+Caius Julius Cæsar and his death 509 § 6.,-0.5994,0.0,0.358,0.642,negative,The Outline of History: Being a Plain History of Life and Mankind
+The end of the republic 513 § 7.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Why the Roman republic failed 516 Chapter XXIX.,-0.5106,0.0,0.32,0.68,negative,The Outline of History: Being a Plain History of Life and Mankind
+The Cæsars between the Sea and the Great Plains of the Old World § 1.,0.6249,0.24,0.0,0.76,positive,The Outline of History: Being a Plain History of Life and Mankind
+A short catalogue of emperors 52 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Roman civilization at its zenith 529 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Limitations of the Roman mind 539 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The stir of the great plains 541 § 5.,0.6249,0.369,0.0,0.631,positive,The Outline of History: Being a Plain History of Life and Mankind
+The Western (true Roman) Empire crumples up 552 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The Eastern (revived Hellenic) Empire 560 BOOK VI CHRISTIANITY AND ISLAM Chapter XXX.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The Beginnings, the Rise, and the Divisions of Christianity § 1.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Judea at the Christian era 569 § 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The teachings of Jesus of Nazareth 573 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The universal religions 582 § 4.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The crucifixion of Jesus of Nazareth 584 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Doctrines added to the teachings of Jesus 586 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The struggles and persecutions of Christianity 594 § 7.,-0.3612,0.0,0.263,0.737,negative,The Outline of History: Being a Plain History of Life and Mankind
+Constantine the Great 598 § 8.,0.6249,0.506,0.0,0.494,positive,The Outline of History: Being a Plain History of Life and Mankind
+The establishment of official Christianity 601 § 9.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The map of Europe, A.D. 500 605 § 10.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The salvation of learning by Christianity 609 Chapter XXXI.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Seven Centuries in Asia ( CIRCA 50 B.C.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+TO A.D. 650 ) § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Justinian the Great 614 § 2.,0.6249,0.506,0.0,0.494,positive,The Outline of History: Being a Plain History of Life and Mankind
+The Sassanid Empire in Persia 616 § 3.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The decay of Syria under the Sassanids 619 § 4.,-0.4019,0.0,0.252,0.748,negative,The Outline of History: Being a Plain History of Life and Mankind
+The first message from Islam 623 § 5.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Zoroaster and Mani 624 § 6.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Hunnish peoples in Central Asia and India 627 § 7.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The great age of China 630 § 8.,0.6249,0.406,0.0,0.594,positive,The Outline of History: Being a Plain History of Life and Mankind
+Intellectual fetters of China 635 § 9.,0.5106,0.398,0.0,0.602,positive,The Outline of History: Being a Plain History of Life and Mankind
+"The travels of Yuan Chwang 642 LIST OF MAPS AND ILLUSTRATIONS PAGE Life in the Early Palæozoic 11 Time-chart from Earliest Life to 40,000,000 Years Ago 14 Life in the Later Palæozoic Age 19 Australian Lung Fish 26 Some Reptiles of the Late Palæozoic Age 27 Astronomical Variations Affecting Climate 33 Some Mesozoic Reptiles 40 Later Mesozoic Reptiles 42 Pterodactyls and Archæopteryx 45 Hesperornis 48 Some Oligocene Mammals 53 Miocene Mammals 58 Time-diagram of the Glacial Ages 60 Early Pleistocene Animals, Contemporary with Earliest Man 64 The Sub-Man Pithecanthropus 65 The Riddle of the Piltdown Sub-Man 71 Map of Europe 50,000 Years Ago 77 Neanderthal Man 78 Early Stone Implements 81 Australia and the Western Pacific in the Glacial Age 82 Cro-magnon Man 87 Europe and Western Asia in the Later Palæolithic Age 89 Reindeer Age Articles 90 A Reindeer Age Masterpiece 93 Reindeer Age Engravings and Carvings 94 Diagram of the Estimated Duration of the True Human Periods 97 Neolithic Implements 107 Restoration of a Lake Dwelling 111 Pottery from Lake Dwellings 112 Hut Urns 115 A Menhir of the Neolithic Period 128 Bronze Age Implements 132 Diagram Showing the Duration of the Neolithic Period 133 Heads of Australoid Types 139 Bushwoman 141 Negro Types 142 Mongolian Types 143 Caucasian Types 144 Map of Europe, Asia, Africa 15,000 Years Ago 145 The Swastika 147 Relationship of Human Races (Diagrammatic Summary) 149 Possible Development of Languages 155 Racial Types (after Champollion) 163 Combat between Menelaus and Hector 176 Archaic Horses and Chariots 178 The Cradle of Western Civilization 185 Sumerian Warriors in Phalanx 189 Assyrian Warrior ( temp.",0.8689,0.045,0.009,0.947,positive,The Outline of History: Being a Plain History of Life and Mankind
+Sargon II) 193 Time-chart 6000 B.C.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+to A.D. 196 The Cradle of Chinese Civilization (Map) 202 Boats on Nile about 2500 B.C.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"211 Egyptian Ship on Red Sea, 1250 B.C.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"212 Ægean Civilization (Map) 214 A Votary of the Snake Goddess 215 American Indian Picture-Writing 225 Egyptian Gods--Set, Anubis, Typhon, Bes 236 Egyptian Gods--Thoth-lunus, Hathor, Chnemu 239 An Assyrian King and His Chief Minister 243 Pharaoh Chephren 248 Pharaoh Rameses III as Osiris (Sarcophagus relief) 249 Pharaoh Akhnaton 251 Egyptian Peasants (Pyramid Age) 257 Brawl among Egyptian Boatmen (Pyramid Age) 260 Egyptian Social Types (From Tombs) 261 The Land of the Hebrews 280 Aryan-speaking Peoples 1000-500 B.C.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+(Map) 301 Hellenic Races 1000-800 B.C.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"(Map) 302 Greek Sea Fight, 550 B.C.",-0.3818,0.0,0.302,0.698,negative,The Outline of History: Being a Plain History of Life and Mankind
+"303 Rowers in an Athenian Warship, 400 B.C.",-0.1779,0.0,0.195,0.805,negative,The Outline of History: Being a Plain History of Life and Mankind
+"306 Scythian Types 319 Median and Second Babylonian Empires (in Nebuchadnezzar's Reign) 321 The Empire of Darius 329 Wars of the Greeks and Persians (Map) 333 Athenian Foot-soldier 334 Persian Body-guard (from Frieze at Susa) 338 The World According to Herodotus 341 Athene of the Parthenon 348 Philip of Macedon 368 Growth of Macedonia under Philip 371 Macedonian Warrior (bas-relief from Pella) 373 Campaigns of Alexander the Great 381 Alexander the Great 389 Break-up of Alexander's Empire 393 Seleucus I 395 Later State of Alexander's Empire 398 The World According to Eratosthenes, 200 B.C.",0.802,0.104,0.035,0.861,positive,The Outline of History: Being a Plain History of Life and Mankind
+"405 The Known World, about 250 B.C.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"406 Isis and Horus 413 Serapis 414 The Rise of Buddhism 419 Hariti 428 Chinese Image of Kuan-yin 429 The Spread of Buddhism 432 Indian Gods--Vishnu, Brahma, Siva 437 Indian Gods--Krishna, Kali, Ganesa 439 The Western Mediterranean, 800-600 B.C.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+446 Early Latium 447 Burning the Dead: Etruscan Ceremony 449 Statuette of a Gaul 450 Roman Power after the Samnite Wars 451 Samnite Warriors 452 Italy after 275 B.C.,-0.836,0.0,0.233,0.767,negative,The Outline of History: Being a Plain History of Life and Mankind
+"453 Roman Coin Celebrating the Victory over Pyrrhus 455 Mercury 457 Carthaginian Coins 468 Roman As 471 Rome and its Alliances, 150 B.C.",0.5719,0.144,0.0,0.856,positive,The Outline of History: Being a Plain History of Life and Mankind
+"481 Gladiators 489 Roman Power, 50 B.C.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"506 Julius Cæsar 512 Roman Empire at Death of Augustus 518 Roman Empire in Time of Trajan 524 Asia and Europe: Life of the Period (Map) 544 Central Asia, 200-100 B.C.",-0.5994,0.0,0.115,0.885,negative,The Outline of History: Being a Plain History of Life and Mankind
+"547 Tracks of Migrating and Raiding Peoples, 1-700 A.D. 555 Eastern Roman Empire 561 Constantinople (Maps to show value of its position) 563 Galilee 571 Map of Europe, 500 A.D. 608 The Eastern Empire and the Sassanids 620 Asia Minor, Syria, and Mesopotamia 622 Ephthalite Coin 629 Chinese Empire, Tang Dynasty 633 Yuan Chwang's Route from China to India 643 BOOK I THE MAKING OF OUR WORLD THE OUTLINE OF HISTORY I THE EARTH IN SPACE AND TIME T HE earth on which we live is a spinning globe.",0.34,0.028,0.0,0.972,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Vast though it seems to us, it is a mere speck of matter in the greater vastness of space.",0.3818,0.184,0.0,0.816,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Space is, for the most part, emptiness.",-0.4902,0.0,0.346,0.654,negative,The Outline of History: Being a Plain History of Life and Mankind
+"At great intervals there are in this emptiness flaring centres of heat and light, the ""fixed stars.""",0.184,0.182,0.15,0.667,positive,The Outline of History: Being a Plain History of Life and Mankind
+"They are all moving about in space, notwithstanding that they are called fixed stars, but for a long time men did not realize their motion.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+They are so vast and at such tremendous distances that their motion is not perceived.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Only in the course of many thousands of years is it appreciable.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"These fixed stars are so far off that, for all their immensity, they seem to be, even when we look at them through the most powerful telescopes, mere points of light, brighter or less bright.",0.8074,0.206,0.0,0.794,positive,The Outline of History: Being a Plain History of Life and Mankind
+"A few, however, when we turn a telescope upon them, are seen to be whirls and clouds of shining vapour which we call nebulæ.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+They are so far off that a movement of millions of miles would be imperceptible.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"One star, however, is so near to us that it is like a great ball of flame.",0.765,0.32,0.0,0.68,positive,The Outline of History: Being a Plain History of Life and Mankind
+This one is the sun.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The sun is itself in its nature like a fixed star, but it differs from the other fixed stars in appearance because it is beyond comparison nearer than they are; and because it is nearer men have been able to learn something of its nature.",0.1901,0.039,0.0,0.961,positive,The Outline of History: Being a Plain History of Life and Mankind
+Its mean distance from the earth is ninety-three million miles.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"It is a mass of flaming matter, having a diameter of 866,000 miles.",0.0258,0.099,0.0,0.901,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Its bulk is a million and a quarter times the bulk of our earth.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+These are difficult figures for the imagination.,-0.3612,0.0,0.294,0.706,negative,The Outline of History: Being a Plain History of Life and Mankind
+"If a bullet fired from a Maxim gun at the sun kept its muzzle velocity unimpaired, it would take seven years to reach the sun.",-0.7096,0.041,0.221,0.738,negative,The Outline of History: Being a Plain History of Life and Mankind
+"And yet we say the sun is near, measured by the scale of the stars.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"If the earth were a small ball, one inch in diameter, the sun would be a globe of nine feet diameter; it would fill a small bedroom.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"It is spinning round on its axis, but since it is an incandescent fluid, its polar regions do not travel with the same velocity as its equator, the surface of which rotates in about twenty-five days.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The surface visible to us consists of clouds of incandescent metallic vapour.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+At what lies below we can only guess.,-0.4215,0.0,0.286,0.714,negative,The Outline of History: Being a Plain History of Life and Mankind
+"So hot is the sun's atmosphere that iron, nickel, copper, and tin are present in it in a gaseous state.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"About it at great distances circle not only our earth, but certain kindred bodies called the planets.",0.6369,0.257,0.0,0.743,positive,The Outline of History: Being a Plain History of Life and Mankind
+These shine in the sky because they reflect the light of the sun; they are near enough for us to note their movements quite easily.,0.4005,0.101,0.0,0.899,positive,The Outline of History: Being a Plain History of Life and Mankind
+Night by night their positions change with regard to the fixed stars.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+It is well to understand how empty space is.,0.0772,0.193,0.165,0.642,positive,The Outline of History: Being a Plain History of Life and Mankind
+"If, as we have said, the sun were a ball nine feet across, our earth would, in proportion, be the size of a one-inch ball, and at a distance of 323 yards from the sun.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The moon would be a speck the size of a small pea, thirty inches from the earth.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Nearer to the sun than the earth would be two other very similar specks, the planets Mercury and Venus, at a distance of 125 and 250 yards respectively.",0.34,0.085,0.0,0.915,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Beyond the earth would come the planets Mars, Jupiter, Saturn, Uranus, and Neptune, at distances of 500, 1806, 3000, 6000, and 9500 yards respectively.",0.34,0.094,0.0,0.906,positive,The Outline of History: Being a Plain History of Life and Mankind
+"There would also be a certain number of very much smaller specks, flying about amongst these planets, more particularly a number called the asteroids circling between Mars and Jupiter, and occasionally a little puff of more or less luminous vapour and dust would drift into the system from the almost limitless emptiness beyond.",0.0202,0.088,0.049,0.863,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Such a puff is what we call a comet.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"All the rest of the space about us and around us and for unfathomable distances beyond is cold, lifeless, and void.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The nearest fixed star to us, on this minute scale , be it remembered,--the earth as a one-inch ball, and the moon a little pea--would be over 40,000 miles away.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The science that tells of these things and how men have come to know about them is Astronomy, and to books of astronomy the reader must go to learn more about the sun and stars.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The science and description of the world on which we live are called respectively Geology and Geography.,0.34,0.13,0.0,0.87,positive,The Outline of History: Being a Plain History of Life and Mankind
+The diameter of our world is a little under 8000 miles.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Its surface is rough; the more projecting parts of the roughness are mountains, and in the hollows of its surface there is a film of water, the oceans and seas.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"This film of water is about five miles thick at its deepest part--that is to say, the deepest oceans have a depth of five miles.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+This is very little in comparison with the bulk of the world.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"About this sphere is a thin covering of air, the atmosphere.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"As we ascend in a balloon or go up a mountain from the level of the sea-shore the air is continually less dense, until at last it becomes so thin that it cannot support life.",-0.3089,0.0,0.066,0.934,negative,The Outline of History: Being a Plain History of Life and Mankind
+At a height of twenty miles there is scarcely any air at all--not one hundredth part of the density of air at the surface of the sea.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The highest point to which a bird can fly is about four miles up--the condor, it is said, can struggle up to that; but most small birds and insects which are carried up by aeroplanes or balloons drop off insensible at a much lower level, and the greatest height to which any mountaineer has ever climbed is under five miles.",0.1779,0.087,0.106,0.807,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Men have flown in aeroplanes to a height of over four miles, and balloons with men in them have reached very nearly seven miles, but at the cost of considerable physical suffering.",-0.6059,0.035,0.121,0.844,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Small experimental balloons, containing not men, but recording instruments, have gone as high as twenty-two miles.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"It is in the upper few hundred feet of the crust of the earth, in the sea, and in the lower levels of the air below four miles that life is found.",-0.296,0.0,0.066,0.934,negative,The Outline of History: Being a Plain History of Life and Mankind
+We do not know of any life at all except in these films of air and water upon our planet.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"So far as we know, all the rest of space is as yet without life.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Scientific men have discussed the possibility of life, or of some process of a similar kind, occurring upon such kindred bodies as the planets Venus and Mars.",0.5267,0.12,0.0,0.88,positive,The Outline of History: Being a Plain History of Life and Mankind
+But they point merely to questionable possibilities.,-0.4215,0.0,0.318,0.682,negative,The Outline of History: Being a Plain History of Life and Mankind
+Astronomers and geologists and those who study physics have been able to tell us something of the origin and history of the earth.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"They consider that, vast ages ago, the sun was a spinning, flaring mass of matter, not yet concentrated into a compact centre of heat and light, considerably larger than it is now, and spinning very much faster, and that as it whirled, a series of fragments detached themselves from it, which became the planets.",-0.1027,0.021,0.029,0.95,negative,The Outline of History: Being a Plain History of Life and Mankind
+Our earth is one of these planets.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The flaring mass that was the material of the earth broke as it spun into two masses, a larger, the earth itself, and a smaller, which is now the dead, still moon.",-0.7964,0.0,0.202,0.798,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Astronomers give us convincing reasons for supposing that sun and earth and moon and all that system were then whirling about at a speed much greater than the speed at which they are moving to-day, and that at first our earth was a flaming thing upon which no life could live.",0.4588,0.097,0.041,0.861,positive,The Outline of History: Being a Plain History of Life and Mankind
+"The way in which they have reached these conclusions is by a very beautiful and interesting series of observations and reasoning, too long and elaborate for us to deal with here.",0.8204,0.241,0.0,0.759,positive,The Outline of History: Being a Plain History of Life and Mankind
+"But they oblige us to believe that the sun, incandescent though it is, is now much cooler than it was, and that it spins more slowly now than it did, and that it continues to cool and slow down.",0.4497,0.072,0.0,0.928,positive,The Outline of History: Being a Plain History of Life and Mankind
+"And they also show that the rate at which the earth spins is diminishing and continues to diminish--that is to say, that our day is growing longer and longer, and that the heat at the centre of the earth wastes slowly.",0.1779,0.041,0.0,0.959,positive,The Outline of History: Being a Plain History of Life and Mankind
+"There was a time when the day was not a half and not a third of what it is to-day; when a blazing hot sun, much greater than it is now, must have moved visibly--had there been an eye to mark it--from its rise to its setting across the skies.",0.3612,0.053,0.0,0.947,positive,The Outline of History: Being a Plain History of Life and Mankind
+"There will be a time when the day will be as long as a year is now, and the cooling sun, shorn of its beams, will hang motionless in the heavens.",0.4019,0.088,0.0,0.912,positive,The Outline of History: Being a Plain History of Life and Mankind
+"It must have been in days of a much hotter sun, a far swifter day and night, high tides, great heat, tremendous storms and earthquakes, that life, of which we are a part, began upon the world.",0.6249,0.111,0.0,0.889,positive,The Outline of History: Being a Plain History of Life and Mankind
+The moon also was nearer and brighter in those days and had a changing face.,0.3818,0.167,0.0,0.833,positive,The Outline of History: Being a Plain History of Life and Mankind
+[3] II THE RECORD OF THE ROCKS § 1.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The First Living Things.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+§ 2.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+How Old Is the World?,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+§ 1 W E do not know how life began upon the earth.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"[4] Biologists, that is to say, students of life, have made guesses about these beginnings, but we will not discuss them here.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Let us only note that they all agree that life began where the tides of those swift days spread and receded over the steaming beaches of mud and sand.,0.5106,0.137,0.0,0.863,positive,The Outline of History: Being a Plain History of Life and Mankind
+"The atmosphere was much denser then, usually great cloud masses obscured the sun, frequent storms darkened the heavens.",0.7783,0.298,0.0,0.702,positive,The Outline of History: Being a Plain History of Life and Mankind
+"The land of those days, upheaved by violent volcanic forces, was a barren land, without vegetation, without soil.",-0.5994,0.0,0.196,0.804,negative,The Outline of History: Being a Plain History of Life and Mankind
+"The almost incessant rain-storms swept down upon it, and rivers and torrents carried great loads of sediment out to sea, to become muds that hardened later into slates and shales, and sands that became sandstones.",0.6249,0.108,0.0,0.892,positive,The Outline of History: Being a Plain History of Life and Mankind
+"The geologists have studied the whole accumulation of these sediments as it remains to-day, from those of the earliest ages to the most recent.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Of course the oldest deposits are the most distorted and changed and worn, and in them there is now no certain trace to be found of life at all.",-0.6478,0.061,0.214,0.725,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Probably the earliest forms of life were small and soft, leaving no evidence of their existence behind them.",-0.296,0.0,0.115,0.885,negative,The Outline of History: Being a Plain History of Life and Mankind
+"It was only when some of these living things developed skeletons and shells of lime and such-like hard material that they left fossil vestiges after they died, and so put themselves on record for examination.",-0.6124,0.0,0.132,0.868,negative,The Outline of History: Being a Plain History of Life and Mankind
+"The literature of geology is very largely an account of the fossils that are found in the rocks, and of the order in which layers after layers of rocks lie one on another.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"The very oldest rocks must have been formed before there was any sea at all, when the earth was too hot for a sea to exist, and when the water that is now sea was an atmosphere of steam mixed with the air.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Its higher levels were dense with clouds, from which a hot rain fell towards the rocks below, to be converted again into steam long before it reached their incandescence.",0.1027,0.049,0.0,0.951,positive,The Outline of History: Being a Plain History of Life and Mankind
+Below this steam atmosphere the molten world-stuff solidified as the first rocks.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"These first rocks must have solidified as a cake over glowing liquid material beneath, much as cooling lava does.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+They must have appeared first as crusts and clinkers.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+They must have been constantly remelted and recrystallized before any thickness of them became permanently solid.,0.1531,0.096,0.0,0.904,positive,The Outline of History: Being a Plain History of Life and Mankind
+The name of Fundamental Gneiss is given to a great underlying system of crystalline rocks which probably formed age by age as this hot youth of the world drew to its close.,0.6249,0.12,0.0,0.88,positive,The Outline of History: Being a Plain History of Life and Mankind
+The scenery of the world in the days when the Fundamental Gneiss was formed must have been more like the interior of a furnace than anything else to be found upon earth at the present time.,0.4201,0.076,0.0,0.924,positive,The Outline of History: Being a Plain History of Life and Mankind
+"After long ages the steam in the atmosphere began also to condense and fall right down to earth, pouring at last over these warm primordial rocks in rivulets of hot water and gathering in depressions as pools and lakes and the first seas.",-0.3182,0.041,0.069,0.889,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Into those seas the streams that poured over the rocks brought with them dust and particles to form a sediment, and this sediment accumulated in layers, or as geologists call them, strata , and formed the first Sedimentary Rocks.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Those earliest sedimentary rocks sank into depressions and were covered by others; they were bent, tilted up, and torn by great volcanic disturbances and by tidal strains that swept through the rocky crust of the earth.",-0.5719,0.091,0.218,0.69,negative,The Outline of History: Being a Plain History of Life and Mankind
+"We find these first sedimentary rocks still coming to the surface of the land here and there, either not covered by later strata or exposed after vast ages of concealment by the wearing off of the rock that covered them later--there are great surfaces of them in Canada especially; they are cleft and bent, partially remelted, recrystallized, hardened and compressed, but recognizable for what they are.",0.34,0.038,0.017,0.945,positive,The Outline of History: Being a Plain History of Life and Mankind
+And they contain no single certain trace of life at all.,-0.0258,0.158,0.165,0.677,neutral,The Outline of History: Being a Plain History of Life and Mankind
+They are frequently called Azoic (lifeless) Rocks.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"But since in some of these earliest sedimentary rocks a substance called graphite (black lead) occurs, and also red and black oxide of iron, and since it is asserted that these substances need the activity of living things for their production, which may or may not be the case, some geologists prefer to call these earliest sedimentary rocks Archæozoic (primordial life).",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"They suppose that the first life was soft living matter that had no shells or skeletons or any such structure that could remain as a recognizable fossil after its death, and that its chemical influence caused the deposition of graphite and iron oxide.",-0.7184,0.024,0.132,0.844,negative,The Outline of History: Being a Plain History of Life and Mankind
+"This is pure guessing, of course, and there is at least an equal probability that in the time of formation of the Azoic Rocks, life had not yet begun.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Long ago there were found in certain of these ancient first-formed rocks in Canada, curious striped masses, and thin layers of white and green mineral substance which Sir William Dawson considered were fossil vestiges, the walls or coverings of some very simple sort of living thing which has now vanished from the earth.",0.5267,0.079,0.0,0.921,positive,The Outline of History: Being a Plain History of Life and Mankind
+He called these markings Eozoon Canadense (the Canadian dawn-animal).,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"There has been much discussion and controversy over this Eozoon, but to-day it is agreed that Eozoon is nothing more than a crystalline marking.",0.3919,0.108,0.0,0.892,positive,The Outline of History: Being a Plain History of Life and Mankind
+Mixed minerals will often intercrystallize in blobs or branching shapes that are very suggestive of simple plant or animal forms.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Any one who has made a lead tree in his schooldays, or lit those queer indoor fireworks known as serpents' eggs, which unfold like a long snake, or who has seen the curious markings often found in quartz crystals, or noted the tree-like pattern on old stone-ware beer mugs, will realize how closely non-living matter can sometimes mock the shapes of living things.",0.2732,0.09,0.043,0.868,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Overlying or overlapping these Azoic or Archæozoic rocks come others, manifestly also very ancient and worn, which do contain traces of life.",-0.3535,0.0,0.105,0.895,negative,The Outline of History: Being a Plain History of Life and Mankind
+"These first remains are of the simplest description; they are the vestiges of simple plants, called algæ, or marks like the tracks made by worms in the sea mud.",0.3612,0.082,0.0,0.918,positive,The Outline of History: Being a Plain History of Life and Mankind
+There are also the skeletons of the microscopic creatures called Radiolaria.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"This second series of rocks is called the Proterozoic (beginning of life) series, and marks a long age in the world's history.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Lying over and above the Proterozoic rocks is a third series, which is found to contain a considerable number and variety of traces of living things.",-0.4767,0.049,0.127,0.824,negative,The Outline of History: Being a Plain History of Life and Mankind
+"First comes the evidence of a diversity of shellfish, crabs, and such-like crawling things, worms, seaweeds, and the like; then of a multitude of fishes and of the beginnings of land plants and land creatures.",0.3612,0.072,0.0,0.928,positive,The Outline of History: Being a Plain History of Life and Mankind
+These rocks are called the Palæozoic (ancient life) rocks.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"They mark a vast era, during which life was slowly spreading, increasing, and developing in the seas of our world.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Through long ages, through the earliest Palæozoic time, it was no more than a proliferation of such swimming and creeping things in the water.",-0.296,0.0,0.091,0.909,negative,The Outline of History: Being a Plain History of Life and Mankind
+There were creatures called trilobites; they were crawling things like big sea woodlice that were probably related to the American king-crab of to-day.,0.3612,0.102,0.0,0.898,positive,The Outline of History: Being a Plain History of Life and Mankind
+"There were also sea-scorpions, the prefects of that early world.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The individuals of certain species of these were nine feet long.,0.2732,0.174,0.0,0.826,positive,The Outline of History: Being a Plain History of Life and Mankind
+These were the very highest sorts of life.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+There were abundant different sorts of an order of shellfish called brachiopods.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"There were plant animals, rooted and joined together like plants, and loose weeds that waved in the waters.",0.0516,0.12,0.111,0.769,positive,The Outline of History: Being a Plain History of Life and Mankind
+It was not a display of life to excite our imaginations.,0.4767,0.256,0.0,0.744,positive,The Outline of History: Being a Plain History of Life and Mankind
+There was nothing that ran or flew or even swam swiftly or skilfully.,0.296,0.155,0.0,0.845,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Except for the size of some of the creatures, it was not very different from, and rather less various than, the kind of life a student would gather from any summer-time ditch nowadays for microscopic examination.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Such was the life of the shallow seas through a hundred million years or more in the early Palæozoic period.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The land during that time was apparently absolutely barren.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+We find no trace nor hint of land life.,-0.296,0.0,0.216,0.784,negative,The Outline of History: Being a Plain History of Life and Mankind
+Everything that lived in those days lived under water for most or all of its life.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Life in the Early Palæozoic Note its general resemblance, except for size, to the microscopic summer ditch-water life of to-day.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Between the formation of these Lower Palæozoic rocks in which the sea scorpion and trilobite ruled, and our own time, there have intervened almost immeasurable ages, represented by layers and masses of sedimentary rocks.",-0.296,0.0,0.062,0.937,negative,The Outline of History: Being a Plain History of Life and Mankind
+"There are first the Upper Palæozoic Rocks, and above these the geologists distinguish two great divisions.",0.6249,0.215,0.0,0.785,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Next above the Palæozoic come the Mesozoic (middle life) rocks, a second vast system of fossil-bearing rocks, representing perhaps a hundred millions of swift years, and containing a wonderful array of fossil remains, bones of giant reptiles and the like, which we will presently describe; and above these again are the Cainozoic (recent life) rocks, a third great volume in the history of life, an unfinished volume of which the sand and mud that was carried out to sea yesterday by the rivers of the world, to bury the bones and scales and bodies and tracks that will become at last fossils of the things of to-day, constitute the last written leaf.",0.9022,0.104,0.0,0.896,positive,The Outline of History: Being a Plain History of Life and Mankind
+"(It is, we may note, the practice of many geologists to make a break between the rest of the Cainozoic system of rocks and those which contain traces of humanity, which latter are cut off as a separate system under the name of Quaternary.",-0.2732,0.0,0.049,0.951,negative,The Outline of History: Being a Plain History of Life and Mankind
+"But that, as we shall see, is rather like taking the last page of a book, which is really the conclusion of the last chapter, and making a separate chapter of it and calling it the last chapter.)",0.5023,0.085,0.0,0.915,positive,The Outline of History: Being a Plain History of Life and Mankind
+These markings and fossils in the rocks and the rocks themselves are our first historical documents.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The history of life that men have puzzled out and are still puzzling out from them is called the Record of the Rocks.,-0.1779,0.0,0.072,0.928,negative,The Outline of History: Being a Plain History of Life and Mankind
+"By studying this record men are slowly piecing together a story of life's beginnings, and of the beginnings of our kind, of which our ancestors a century or so ago had no suspicion.",-0.6204,0.0,0.149,0.851,negative,The Outline of History: Being a Plain History of Life and Mankind
+"But when we call these rocks and the fossils a record and a history, it must not be supposed that there is any sign of an orderly keeping of a record.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"It is merely that whatever happens leaves some trace, if only we are intelligent enough to detect the meaning of that trace.",0.4588,0.125,0.0,0.875,positive,The Outline of History: Being a Plain History of Life and Mankind
+"Nor are the rocks of the world in orderly layers one above the other, convenient for men to read.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+They are not like the books and pages of a library.,-0.2755,0.0,0.19,0.81,negative,The Outline of History: Being a Plain History of Life and Mankind
+"They are torn, disrupted, interrupted, flung about, defaced, like a carelessly arranged office after it has experienced in succession a bombardment, a hostile military occupation, looting, an earthquake, riots, and a fire.",-0.8481,0.111,0.374,0.515,negative,The Outline of History: Being a Plain History of Life and Mankind
+And so it is that for countless generations this Record of the Rocks lay unsuspected beneath the feet of men.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+Fossils were known to the Ionian Greeks in the sixth century B.C.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+", [5] they were discussed at Alexandria by Eratosthenes and others in the third century B.C.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+", a discussion which is summarized in Strabo's Geography (?20-10 B.C.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+).,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"They were known to the Latin poet Ovid, but he did not understand their nature.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+He thought they were the first rude efforts of creative power.,-0.0258,0.195,0.201,0.604,neutral,The Outline of History: Being a Plain History of Life and Mankind
+They were noted by Arabic writers in the tenth century.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"Leonardo da Vinci, who lived so recently as the opening of the sixteenth century (1452-1519), was one of the first Europeans to grasp the real significance of fossils, [6] and it has been only within the last century and a half that man has begun the serious and sustained deciphering of these long-neglected early pages of his world's history.",0.2023,0.035,0.022,0.943,positive,The Outline of History: Being a Plain History of Life and Mankind
+§ 2 Speculations about geological time vary enormously.,0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"[7] Estimates of the age of the oldest rocks by geologists and astronomers starting from different standpoints have varied between 1,600,000,000, and 25,000,000.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+The lowest estimate was made by Lord Kelvin in 1867.,-0.3818,0.0,0.224,0.776,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Professor Huxley guessed at 400,000,000 years.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+"There is a summary of views and the grounds upon which the estimates have been made in Osborn's Origin and Evolution of Life ; he inclines to the moderate total of 100,000,000.",0.0,0.0,0.0,1.0,neutral,The Outline of History: Being a Plain History of Life and Mankind
+It must be clearly understood by the reader how sketchy and provisional all these time estimates are.,0.4019,0.144,0.0,0.856,positive,The Outline of History: Being a Plain History of Life and Mankind
+They rest nearly always upon theoretical assumptions of the slenderest kind.,0.5267,0.254,0.0,0.746,positive,The Outline of History: Being a Plain History of Life and Mankind
+"That the period of time has been vast, that it is to be counted by scores and possibly by hundreds of millions of years, is the utmost that can be said with certainty in the matter.",0.2732,0.084,0.0,0.916,positive,The Outline of History: Being a Plain History of Life and Mankind
+It is quite open to the reader to divide every number in the appended time diagram by ten or multiply it by two; no one can gainsay him.,-0.2263,0.044,0.075,0.881,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Of the relative amount of time as between one age and another we have, however, stronger evidence; if the reader cuts down the 800,000,000 we have given here to 400,000,000, then he must reduce the 40,000,000 of the Cainozoic to 20,000,000.",0.1027,0.059,0.05,0.89,positive,The Outline of History: Being a Plain History of Life and Mankind
+"And be it noted that whatever the total sum may be, most geologists are in agreement that half or more than half of the whole of geological time had passed before life had developed to the Later Palæozoic level .",0.4939,0.078,0.0,0.922,positive,The Outline of History: Being a Plain History of Life and Mankind
+"The reader reading quickly through these opening chapters may be apt to think of them as a mere swift prelude of preparation to the apparently much longer history that follows, but in reality that subsequent history is longer only because it is more detailed and more interesting to us.",0.6586,0.105,0.0,0.895,positive,The Outline of History: Being a Plain History of Life and Mankind
+It looms larger in perspective.,-0.1531,0.0,0.286,0.714,negative,The Outline of History: Being a Plain History of Life and Mankind
+"For ages that stagger the imagination this earth spun hot and lifeless, and again for ages of equal vastness it held no life above the level of the animalculæ in a drop of ditch-water.",-0.5106,0.0,0.122,0.878,negative,The Outline of History: Being a Plain History of Life and Mankind
+"Not only is Space from the point of view of life and humanity empty, but Time is empty also.",-0.3818,0.0,0.175,0.825,negative,The Outline of History: Being a Plain History of Life and Mankind
+Life is like a li,0.3612,0.455,0.0,0.545,positive,The Outline of History: Being a Plain History of Life and Mankind

@@ -1,0 +1,425 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Story of Mankind This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.066,0.104,0.829,negative,The Story of Mankind
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Story of Mankind
+"Title : The Story of Mankind Author : Hendrik Willem Van Loon Release date : December 1, 1996 [eBook #754] Most recently updated: January 29, 2013 Language : English Other information and formats : www.gutenberg.org/ebooks/754 Credits : Produced by Charles Keller, and David Widger *** START OF THE PROJECT GUTENBERG EBOOK THE STORY OF MANKIND *** THE STORY OF MANKIND By Hendrik Van Loon, Ph.D.",0.3612,0.041,0.0,0.959,positive,The Story of Mankind
+Professor of the Social Sciences in Antioch College.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Author of The Fall of the Dutch Republic, The Rise of the Dutch Kingdom, The Golden Book of the Dutch Navigators, A Short Story of Discovery, Ancient Man.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"To JIMMIE ""What is the use of a book without pictures?""",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+said Alice.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"FOREWORD For Hansje and Willem: WHEN I was twelve or thirteen years old, an uncle of mine who gave me my love for books and pictures promised to take me upon a memorable expedition.",0.7717,0.183,0.0,0.817,positive,The Story of Mankind
+I was to go with him to the top of the tower of Old Saint Lawrence in Rotterdam.,0.2023,0.101,0.0,0.899,positive,The Story of Mankind
+"And so, one fine day, a sexton with a key as large as that of Saint Peter opened a mysterious door.",0.2682,0.109,0.0,0.891,positive,The Story of Mankind
+"""Ring the bell,"" he said, ""when you come back and want to get out,"" and with a great grinding of rusty old hinges he separated us from the noise of the busy street and locked us into a world of new and strange experiences.",0.5574,0.117,0.039,0.844,positive,The Story of Mankind
+For the first time in my life I was confronted by the phenomenon of audible silence.,-0.2023,0.0,0.114,0.886,negative,The Story of Mankind
+"When we had climbed the first flight of stairs, I added another discovery to my limited knowledge of natural phenomena--that of tangible darkness.",-0.1027,0.098,0.154,0.748,negative,The Story of Mankind
+A match showed us where the upward road continued.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"We went to the next floor and then to the next and the next until I had lost count and then there came still another floor, and suddenly we had plenty of light.",-0.3182,0.0,0.069,0.931,negative,The Story of Mankind
+"This floor was on an even height with the roof of the church, and it was used as a storeroom.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Covered with many inches of dust, there lay the abandoned symbols of a venerable faith which had been discarded by the good people of the city many years ago.",0.0772,0.162,0.154,0.684,positive,The Story of Mankind
+That which had meant life and death to our ancestors was here reduced to junk and rubbish.,-0.5994,0.0,0.196,0.804,negative,The Story of Mankind
+The industrious rat had built his nest among the carved images and the ever watchful spider had opened up shop between the outspread arms of a kindly saint.,0.4939,0.11,0.0,0.89,positive,The Story of Mankind
+The next floor showed us from where we had derived our light.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Enormous open windows with heavy iron bars made the high and barren room the roosting place of hundreds of pigeons.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The wind blew through the iron bars and the air was filled with a weird and pleasing music.,0.4019,0.169,0.085,0.746,positive,The Story of Mankind
+"It was the noise of the town below us, but a noise which had been purified and cleansed by the distance.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"The rumbling of heavy carts and the clinking of horses' hoofs, the winding of cranes and pulleys, the hissing sound of the patient steam which had been set to do the work of man in a thousand different ways--they had all been blended into a softly rustling whisper which provided a beautiful background for the trembling cooing of the pigeons.",0.34,0.064,0.041,0.896,positive,The Story of Mankind
+Here the stairs came to an end and the ladders began.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"And after the first ladder (a slippery old thing which made one feel his way with a cautious foot) there was a new and even greater wonder, the town-clock.",0.2732,0.087,0.048,0.865,positive,The Story of Mankind
+I saw the heart of time.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+I could hear the heavy pulsebeats of the rapid seconds--one--two--three--up to sixty.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Then a sudden quivering noise when all the wheels seemed to stop and another minute had been chopped off eternity.,-0.296,0.0,0.109,0.891,negative,The Story of Mankind
+"Without pause it began again--one--two--three--until at last after a warning rumble and the scraping of many wheels a thunderous voice, high above us, told the world that it was the hour of noon.",-0.34,0.0,0.074,0.926,negative,The Story of Mankind
+On the next floor were the bells.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The nice little bells and their terrible sisters.,-0.0772,0.235,0.261,0.504,negative,The Story of Mankind
+"In the centre the big bell, which made me turn stiff with fright when I heard it in the middle of the night telling a story of fire or flood.",-0.6124,0.0,0.161,0.839,negative,The Story of Mankind
+In solitary grandeur it seemed to reflect upon those six hundred years during which it had shared the joys and the sorrows of the good people of Rotterdam.,0.8519,0.317,0.069,0.613,positive,The Story of Mankind
+"Around it, neatly arranged like the blue jars in an old-fashioned apothecary shop, hung the little fellows, who twice each week played a merry tune for the benefit of the country-folk who had come to market to buy and sell and hear what the big world had been doing.",0.9153,0.243,0.0,0.757,positive,The Story of Mankind
+"But in a corner--all alone and shunned by the others--a big black bell, silent and stern, the bell of death.",-0.8338,0.0,0.316,0.684,negative,The Story of Mankind
+"Then darkness once more and other ladders, steeper and even more dangerous than those we had climbed before, and suddenly the fresh air of the wide heavens.",-0.101,0.15,0.162,0.689,negative,The Story of Mankind
+We had reached the highest gallery.,0.1027,0.219,0.0,0.781,positive,The Story of Mankind
+Above us the sky.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Below us the city--a little toy-town, where busy ants were hastily crawling hither and thither, each one intent upon his or her particular business, and beyond the jumble of stones, the wide greenness of the open country.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+It was my first glimpse of the big world.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Since then, whenever I have had the opportunity, I have gone to the top of the tower and enjoyed myself.",0.7845,0.345,0.0,0.655,positive,The Story of Mankind
+"It was hard work, but it repaid in full the mere physical exertion of climbing a few stairs.",-0.0516,0.0,0.07,0.93,negative,The Story of Mankind
+"Besides, I knew what my reward would be.",0.5719,0.381,0.0,0.619,positive,The Story of Mankind
+"I would see the land and the sky, and I would listen to the stories of my kind friend the watchman, who lived in a small shack, built in a sheltered corner of the gallery.",0.765,0.185,0.0,0.815,positive,The Story of Mankind
+"He looked after the clock and was a father to the bells, and he warned of fires, but he enjoyed many free hours and then he smoked a pipe and thought his own peaceful thoughts.",0.928,0.302,0.035,0.663,positive,The Story of Mankind
+"He had gone to school almost fifty years before and he had rarely read a book, but he had lived on the top of his tower for so many years that he had absorbed the wisdom of that wide world which surrounded him on all sides.",0.7783,0.137,0.0,0.863,positive,The Story of Mankind
+"History he knew well, for it was a living thing with him.",0.2732,0.174,0.0,0.826,positive,The Story of Mankind
+"""There,"" he would say, pointing to a bend of the river, ""there, my boy, do you see those trees?",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"That is where the Prince of Orange cut the dikes to drown the land and save Leyden.""",-0.3818,0.139,0.252,0.609,negative,The Story of Mankind
+"Or he would tell me the tale of the old Meuse, until the broad river ceased to be a convenient harbour and became a wonderful highroad, carrying the ships of De Ruyter and Tromp upon that famous last voyage, when they gave their lives that the sea might be free to all.",0.7906,0.127,0.0,0.873,positive,The Story of Mankind
+"Then there were the little villages, clustering around the protecting church which once, many years ago, had been the home of their Patron Saints.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+In the distance we could see the leaning tower of Delft.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Within sight of its high arches, William the Silent had been murdered and there Grotius had learned to construe his first Latin sentences.",-0.6369,0.045,0.165,0.789,negative,The Story of Mankind
+"And still further away, the long low body of the church of Gouda, the early home of the man whose wit had proved mightier than the armies of many an emperor, the charity-boy whom the world came to know as Erasmus.",-0.2732,0.0,0.05,0.95,negative,The Story of Mankind
+"Finally the silver line of the endless sea and as a contrast, immediately below us, the patchwork of roofs and chimneys and houses and gardens and hospitals and schools and railways, which we called our home.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+But the tower showed us the old home in a new light.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"The confused commotion of the streets and the market-place, of the factories and the workshop, became the well-ordered expression of human energy and purpose.",-0.0516,0.08,0.087,0.833,negative,The Story of Mankind
+"Best of all, the wide view of the glorious past, which surrounded us on all sides, gave us new courage to face the problems of the future when we had gone back to our daily tasks.",0.872,0.251,0.058,0.691,positive,The Story of Mankind
+"History is the mighty Tower of Experience, which Time has built amidst the endless fields of bygone ages.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+It is no easy task to reach the top of this ancient structure and get the benefit of the full view.,0.6808,0.326,0.081,0.593,positive,The Story of Mankind
+"There is no elevator, but young feet are strong and it can be done.",0.5927,0.247,0.089,0.665,positive,The Story of Mankind
+Here I give you the key that will open the door.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"When you return, you too will understand the reason for my enthusiasm.",0.4404,0.209,0.0,0.791,positive,The Story of Mankind
+HENDRIK WILLEM VAN LOON.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"CONTENTS FOREWORD THE STORY OF MANKIND THE SETTING OF THE STAGE OUR EARLIEST ANCESTORS PREHISTORIC MAN HIEROGLYPHICS THE NILE VALLEY THE STORY OF EGYPT MESOPOTAMIA THE SUMERIANS MOSES THE PHOENICIANS THE INDO-EUROPEANS THE AEGEAN SEA THE GREEKS THE GREEK CITIES GREEK SELF-GOVERNMENT GREEK LIFE THE GREEK THEATRE THE PERSIAN WARS ATHENS vs. SPARTA ALEXANDER THE GREAT ROME AND CARTHAGE THE RISE OF ROME THE ROMAN EMPIRE JOSHUA OF NAZARETH THE FALL OF ROME RISE OF THE CHURCH MOHAMMED CHARLEMAGNE THE NORSEMEN FEUDALISM CHIVALRY POPE vs. EMPEROR THE CRUSADES THE MEDIAEVAL CITY MEDIAEVAL SELF-GOVERNMENT THE MEDIAEVAL WORLD MEDIAEVAL TRADE THE RENAISSANCE THE AGE OF EXPRESSION THE GREAT DISCOVERIES BUDDHA AND CONFUCIUS THE REFORMATION RELIGIOUS WARFARE THE ENGLISH REVOLUTION THE BALANCE OF POWER THE RISE OF RUSSIA RUSSIA vs. SWEDEN THE RISE OF PRUSSIA THE MERCANTILE SYSTEM THE AMERICAN REVOLUTION THE FRENCH REVOLUTION NAPOLEON THE HOLY ALLIANCE THE GREAT REACTION NATIONAL INDEPENDENCE THE AGE OF THE ENGINE THE SOCIAL REVOLUTION EMANCIPATION THE AGE OF SCIENCE ART COLONIAL EXPANSION AND WAR A NEW WORLD AS IT EVER SHALL BE CONCERNING THE PICTURES AN HISTORICAL READING LIST FOR CHILDREN THE STORY OF MANKIND HIGH Up in the North in the land called Svithjod, there stands a rock.",0.2422,0.065,0.065,0.87,positive,The Story of Mankind
+It is a hundred miles high and a hundred miles wide.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Once every thousand years a little bird comes to this rock to sharpen its beak.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"When the rock has thus been worn away, then a single day of eternity will have gone by.",-0.296,0.0,0.121,0.879,negative,The Story of Mankind
+THE SETTING OF THE STAGE WE live under the shadow of a gigantic question mark.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Who are we?,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Where do we come from?,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Whither are we bound?,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Slowly, but with persistent courage, we have been pushing this question mark further and further towards that distant line, beyond the horizon, where we hope to find our answer.",0.8462,0.232,0.0,0.768,positive,The Story of Mankind
+We have not gone very far.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+We still know very little but we have reached the point where (with a fair degree of accuracy) we can guess at many things.,0.5499,0.178,0.0,0.822,positive,The Story of Mankind
+In this chapter I shall tell you how (according to our best belief) the stage was set for the first appearance of man.,0.6369,0.167,0.0,0.833,positive,The Story of Mankind
+"If we represent the time during which it has been possible for animal life to exist upon our planet by a line of this length, then the tiny line just below indicates the age during which man (or a creature more or less resembling man) has lived upon this earth.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Man was the last to come but the first to use his brain for the purpose of conquering the forces of nature.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"That is the reason why we are going to study him, rather than cats or dogs or horses or any of the other animals, who, all in their own way, have a very interesting historical development behind them.",0.4576,0.077,0.0,0.923,positive,The Story of Mankind
+"In the beginning, the planet upon which we live was (as far as we now know) a large ball of flaming matter, a tiny cloud of smoke in the endless ocean of space.",0.0258,0.035,0.0,0.965,neutral,The Story of Mankind
+"Gradually, in the course of millions of years, the surface burned itself out, and was covered with a thin layer of rocks.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Upon these lifeless rocks the rain descended in endless torrents, wearing out the hard granite and carrying the dust to the valleys that lay hidden between the high cliffs of the steaming earth.",-0.1027,0.0,0.042,0.958,negative,The Story of Mankind
+Finally the hour came when the sun broke through the clouds and saw how this little planet was covered with a few small puddles which were to develop into the mighty oceans of the eastern and western hemispheres.,-0.4215,0.0,0.072,0.928,negative,The Story of Mankind
+Then one day the great wonder happened.,0.6249,0.406,0.0,0.594,positive,The Story of Mankind
+"What had been dead, gave birth to life.",-0.6486,0.0,0.381,0.619,negative,The Story of Mankind
+The first living cell floated upon the waters of the sea.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+For millions of years it drifted aimlessly with the currents.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+But during all that time it was developing certain habits that it might survive more easily upon the inhospitable earth.,0.7343,0.256,0.0,0.744,positive,The Story of Mankind
+Some of these cells were happiest in the dark depths of the lakes and the pools.,0.6369,0.219,0.0,0.781,positive,The Story of Mankind
+They took root in the slimy sediments which had been carried down from the tops of the hills and they became plants.,0.5106,0.136,0.0,0.864,positive,The Story of Mankind
+"Others preferred to move about and they grew strange jointed legs, like scorpions and began to crawl along the bottom of the sea amidst the plants and the pale green things that looked like jelly-fishes.",0.4939,0.129,0.046,0.825,positive,The Story of Mankind
+"Still others (covered with scales) depended upon a swimming motion to go from place to place in their search for food, and gradually they populated the ocean with myriads of fishes.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Meanwhile the plants had increased in number and they had to search for new dwelling places.,0.3612,0.257,0.0,0.743,positive,The Story of Mankind
+There was no more room for them at the bottom of the sea.,-0.296,0.0,0.155,0.845,negative,The Story of Mankind
+Reluctantly they left the water and made a new home in the marshes and on the mud-banks that lay at the foot of the mountains.,-0.1027,0.0,0.057,0.943,negative,The Story of Mankind
+Twice a day the tides of the ocean covered them with their brine.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"For the rest of the time, the plants made the best of their uncomfortable situation and tried to survive in the thin air which surrounded the surface of the planet.",0.3818,0.121,0.075,0.805,positive,The Story of Mankind
+"After centuries of training, they learned how to live as comfortably in the air as they had done in the water.",0.4215,0.123,0.0,0.877,positive,The Story of Mankind
+"They increased in size and became shrubs and trees and at last they learned how to grow lovely flowers which attracted the attention of the busy big bumble-bees and the birds who carried the seeds far and wide until the whole earth had become covered with green pastures, or lay dark under the shadow of the big trees.",0.8271,0.137,0.0,0.863,positive,The Story of Mankind
+"But some of the fishes too had begun to leave the sea, and they had learned how to breathe with lungs as well as with gills.",0.3291,0.095,0.047,0.859,positive,The Story of Mankind
+"We call such creatures amphibious, which means that they are able to live with equal ease on the land and in the water.",0.3612,0.102,0.0,0.898,positive,The Story of Mankind
+The first frog who crosses your path can tell you all about the pleasures of the double existence of the amphibian.,0.4404,0.127,0.0,0.873,positive,The Story of Mankind
+"Once outside of the water, these animals gradually adapted themselves more and more to life on land.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Some became reptiles (creatures who crawl like lizards) and they shared the silence of the forests with the insects.,0.5994,0.224,0.0,0.776,positive,The Story of Mankind
+"That they might move faster through the soft soil, they improved upon their legs and their size increased until the world was populated with gigantic forms (which the hand-books of biology list under the names of Ichthyosaurus and Megalosaurus and Brontosaurus) who grew to be thirty to forty feet long and who could have played with elephants as a full grown cat plays with her kittens.",0.8225,0.136,0.0,0.864,positive,The Story of Mankind
+"Some of the members of this reptilian family began to live in the tops of the trees, which were then often more than a hundred feet high.",0.5106,0.117,0.0,0.883,positive,The Story of Mankind
+"They no longer needed their legs for the purpose of walking, but it was necessary for them to move quickly from branch to branch.",-0.1531,0.0,0.065,0.935,negative,The Story of Mankind
+"And so they changed a part of their skin into a sort of parachute, which stretched between the sides of their bodies and the small toes of their fore-feet, and gradually they covered this skinny parachute with feathers and made their tails into a steering gear and flew from tree to tree and developed into true birds.",0.4215,0.05,0.0,0.95,positive,The Story of Mankind
+Then a strange thing happened.,-0.2023,0.0,0.375,0.625,negative,The Story of Mankind
+All the gigantic reptiles died within a short time.,-0.5574,0.0,0.34,0.66,negative,The Story of Mankind
+We do not know the reason.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Perhaps it was due to a sudden change in climate.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Perhaps they had grown so large that they could neither swim nor walk nor crawl, and they starved to death within sight but not within reach of the big ferns and trees.",-0.5942,0.0,0.168,0.832,negative,The Story of Mankind
+"Whatever the cause, the million year old world-empire of the big reptiles was over.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The world now began to be occupied by very different creatures.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"They were the descendants of the reptiles but they were quite unlike these because they fed their young from the ""mammae"" or the breasts of the mother.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Wherefore modern science calls these animals ""mammals.""",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+They had shed the scales of the fish.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"They did not adopt the feathers of the bird, but they covered their bodies with hair.",-0.0667,0.0,0.077,0.923,negative,The Story of Mankind
+The mammals however developed other habits which gave their race a great advantage over the other animals.,0.7269,0.303,0.0,0.697,positive,The Story of Mankind
+"The female of the species carried the eggs of the young inside her body until they were hatched and while all other living beings, up to that time, had left their children exposed to the dangers of cold and heat, and the attacks of wild beasts, the mammals kept their young with them for a long time and sheltered them while they were still too weak to fight their enemies.",-0.9337,0.0,0.204,0.796,negative,The Story of Mankind
+"In this way the young mammals were given a much better chance to survive, because they learned many things from their mothers, as you will know if you have ever watched a cat teaching her kittens to take care of themselves and how to wash their faces and how to catch mice.",0.7964,0.147,0.0,0.853,positive,The Story of Mankind
+But of these mammals I need not tell you much for you know them well.,0.3919,0.169,0.0,0.831,positive,The Story of Mankind
+They surround you on all sides.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"They are your daily companions in the streets and in your home, and you can see your less familiar cousins behind the bars of the zoological garden.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+And now we come to the parting of the ways when man suddenly leaves the endless procession of dumbly living and dying creatures and begins to use his reason to shape the destiny of his race.,-0.3182,0.0,0.062,0.938,negative,The Story of Mankind
+One mammal in particular seemed to surpass all others in its ability to find food and shelter.,0.3182,0.126,0.0,0.874,positive,The Story of Mankind
+"It had learned to use its fore-feet for the purpose of holding its prey, and by dint of practice it had developed a hand-like claw.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+After innumerable attempts it had learned how to balance the whole of the body upon the hind legs.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"(This is a difficult act, which every child has to learn anew although the human race has been doing it for over a million years.)",-0.3612,0.0,0.102,0.898,negative,The Story of Mankind
+"This creature, half ape and half monkey but superior to both, became the most successful hunter and could make a living in every clime.",0.9079,0.331,0.0,0.669,positive,The Story of Mankind
+"For greater safety, it usually moved about in groups.",0.6486,0.431,0.0,0.569,positive,The Story of Mankind
+It learned how to make strange grunts to warn its young of approaching danger and after many hundreds of thousands of years it began to use these throaty noises for the purpose of talking.,-0.6808,0.0,0.176,0.824,negative,The Story of Mankind
+"This creature, though you may hardly believe it, was your first ""man-like"" ancestor.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"OUR EARLIEST ANCESTORS WE know very little about the first ""true"" men.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+We have never seen their pictures.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+In the deepest layer of clay of an ancient soil we have sometimes found pieces of their bones.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+These lay buried amidst the broken skeletons of other animals that have long since disappeared from the face of the earth.,-0.6124,0.0,0.208,0.792,negative,The Story of Mankind
+Anthropologists (learned scientists who devote their lives to the study of man as a member of the animal kingdom) have taken these bones and they have been able to reconstruct our earliest ancestors with a fair degree of accuracy.,0.5719,0.118,0.0,0.882,positive,The Story of Mankind
+The great-great-grandfather of the human race was a very ugly and unattractive mammal.,-0.7755,0.0,0.403,0.597,negative,The Story of Mankind
+"He was quite small, much smaller than the people of today.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The heat of the sun and the biting wind of the cold winter had coloured his skin a dark brown.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"His head and most of his body, his arms and legs too, were covered with long, coarse hair.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+He had very thin but strong fingers which made his hands look like those of a monkey.,0.844,0.366,0.0,0.634,positive,The Story of Mankind
+His forehead was low and his jaw was like the jaw of a wild animal which uses its teeth both as fork and knife.,0.1027,0.098,0.082,0.82,positive,The Story of Mankind
+He wore no clothes.,-0.296,0.0,0.423,0.577,negative,The Story of Mankind
+He had seen no fire except the flames of the rumbling volcanoes which filled the earth with their smoke and their lava.,-0.5574,0.0,0.187,0.813,negative,The Story of Mankind
+"He lived in the damp blackness of vast forests, as the pygmies of Africa do to this very day.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+When he felt the pangs of hunger he ate raw leaves and the roots of plants or he took the eggs away from an angry bird and fed them to his own young.,-0.6486,0.0,0.146,0.854,negative,The Story of Mankind
+"Once in a while, after a long and patient chase, he would catch a sparrow or a small wild dog or perhaps a rabbit.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+These he would eat raw for he had never discovered that food tasted better when it was cooked.,0.4404,0.146,0.0,0.854,positive,The Story of Mankind
+"During the hours of day, this primitive human being prowled about looking for things to eat.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"When night descended upon the earth, he hid his wife and his children in a hollow tree or behind some heavy boulders, for he was surrounded on all sides by ferocious animals and when it was dark these animals began to prowl about, looking for something to eat for their mates and their own young, and they liked the taste of human beings.",0.25,0.043,0.043,0.913,positive,The Story of Mankind
+"It was a world where you must either eat or be eaten, and life was very unhappy because it was full of fear and misery.",-0.8748,0.0,0.322,0.678,negative,The Story of Mankind
+"In summer, man was exposed to the scorching rays of the sun, and during the winter his children would freeze to death in his arms.",-0.6124,0.042,0.183,0.775,negative,The Story of Mankind
+"When such a creature hurt itself, (and hunting animals are forever breaking their bones or spraining their ankles) he had no one to take care of him and he must die a horrible death.",-0.9287,0.069,0.367,0.564,negative,The Story of Mankind
+"Like many of the animals who fill the Zoo with their strange noises, early man liked to jabber.",0.5423,0.24,0.081,0.679,positive,The Story of Mankind
+"That is to say, he endlessly repeated the same unintelligible gibberish because it pleased him to hear the sound of his voice.",0.4404,0.121,0.0,0.879,positive,The Story of Mankind
+"In due time he learned that he could use this guttural noise to warn his fellow beings whenever danger threatened and he gave certain little shrieks which came to mean ""there is a tiger!""",-0.7177,0.054,0.206,0.74,negative,The Story of Mankind
+"or ""here come five elephants.""",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Then the others grunted something back at him and their growl meant, ""I see them,"" or ""let us run away and hide.""",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+And this was probably the origin of all language.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"But, as I have said before, of these beginnings we know so very little.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Early man had no tools and he built himself no houses.,-0.5267,0.0,0.328,0.672,negative,The Story of Mankind
+He lived and died and left no trace of his existence except a few collar-bones and a few pieces of his skull.,-0.7003,0.0,0.244,0.756,negative,The Story of Mankind
+These tell us that many thousands of years ago the world was inhabited by certain mammals who were quite different from all the other animals--who had probably developed from another unknown ape-like animal which had learned to walk on its hind-legs and use its fore-paws as hands--and who were most probably connected with the creatures who happen to be our own immediate ancestors.,0.2732,0.033,0.0,0.967,positive,The Story of Mankind
+It is little enough we know and the rest is darkness.,-0.25,0.0,0.167,0.833,negative,The Story of Mankind
+PREHISTORIC MAN PREHISTORIC MAN BEGINS TO MAKE THINGS FOR HIMSELF.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+EARLY man did not know what time meant.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+He kept no records of birthdays or wedding anniversaries or the hour of death.,-0.7269,0.0,0.337,0.663,negative,The Story of Mankind
+He had no idea of days or weeks or even years.,-0.296,0.0,0.18,0.82,negative,The Story of Mankind
+But in a general way he kept track of the seasons for he had noticed that the cold winter was invariably followed by the mild spring--that spring grew into the hot summer when fruits ripened and the wild ears of corn were ready to be eaten and that summer ended when sudden gusts of wind swept the leaves from the trees and a number of animals were getting ready for the long hibernal sleep.,0.7876,0.103,0.0,0.897,positive,The Story of Mankind
+"But now, something unusual and rather frightening had happened.",-0.6486,0.0,0.35,0.65,negative,The Story of Mankind
+Something was the matter with the weather.,0.0258,0.155,0.0,0.845,neutral,The Story of Mankind
+The warm days of summer had come very late.,0.2263,0.192,0.0,0.808,positive,The Story of Mankind
+The fruits had not ripened.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The tops of the mountains which used to be covered with grass now lay deeply hidden underneath a heavy burden of snow.,0.1027,0.131,0.115,0.754,positive,The Story of Mankind
+"Then, one morning, a number of wild people, different from the other creatures who lived in that neighbourhood, came wandering down from the region of the high peaks.",0.0772,0.048,0.0,0.952,positive,The Story of Mankind
+They looked lean and appeared to be starving.,-0.4215,0.0,0.286,0.714,negative,The Story of Mankind
+They uttered sounds which no one could understand.,-0.296,0.0,0.239,0.761,negative,The Story of Mankind
+They seemed to say that they were hungry.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+There was not food enough for both the old inhabitants and the newcomers.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+When they tried to stay more than a few days there was a terrible battle with claw-like hands and feet and whole families were killed.,-0.8807,0.0,0.338,0.662,negative,The Story of Mankind
+The others fled back to their mountain slopes and died in the next blizzard.,-0.5574,0.0,0.217,0.783,negative,The Story of Mankind
+But the people in the forest were greatly frightened.,-0.6474,0.0,0.349,0.651,negative,The Story of Mankind
+All the time the days grew shorter and the nights grew colder than they ought to have been.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Finally, in a gap between two high hills, there appeared a tiny speck of greenish ice.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Rapidly it increased in size.,0.2732,0.344,0.0,0.656,positive,The Story of Mankind
+A gigantic glacier came sliding downhill.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Huge stones were being pushed into the valley.,0.3182,0.247,0.0,0.753,positive,The Story of Mankind
+With the noise of a dozen thunderstorms torrents of ice and mud and blocks of granite suddenly tumbled among the people of the forest and killed them while they slept.,-0.7506,0.0,0.192,0.808,negative,The Story of Mankind
+Century old trees were crushed into kindling wood.,-0.4215,0.0,0.286,0.714,negative,The Story of Mankind
+And then it began to snow.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+It snowed for months and months.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+All the plants died and the animals fled in search of the southern sun.,-0.5574,0.0,0.217,0.783,negative,The Story of Mankind
+Man hoisted his young upon his back and followed them.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+But he could not travel as fast as the wilder creatures and he was forced to choose between quick thinking or quick dying.,-0.6124,0.0,0.154,0.846,negative,The Story of Mankind
+He seems to have preferred the former for he has managed to survive the terrible glacial periods which upon four different occasions threatened to kill every human being on the face of the earth.,-0.8957,0.0,0.258,0.742,negative,The Story of Mankind
+In the first place it was necessary that man clothe himself lest he freeze to death.,-0.5719,0.063,0.204,0.733,negative,The Story of Mankind
+"He learned how to dig holes and cover them with branches and leaves and in these traps he caught bears and hyenas, which he then killed with heavy stones and whose skins he used as coats for himself and his family.",-0.6705,0.0,0.101,0.899,negative,The Story of Mankind
+Next came the housing problem.,-0.4019,0.0,0.403,0.597,negative,The Story of Mankind
+This was simple.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Many animals were in the habit of sleeping in dark caves.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Man now followed their example, drove the animals out of their warm homes and claimed them for his own.",0.2263,0.095,0.0,0.905,positive,The Story of Mankind
+"Even so, the climate was too severe for most people and the old and the young died at a terrible rate.",-0.8519,0.0,0.354,0.646,negative,The Story of Mankind
+Then a genius bethought himself of the use of fire.,-0.34,0.0,0.231,0.769,negative,The Story of Mankind
+"Once, while out hunting, he had been caught in a forest-fire.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+He remembered that he had been almost roasted to death by the flames.,-0.5627,0.0,0.233,0.767,negative,The Story of Mankind
+Thus far fire had been an enemy.,-0.7096,0.0,0.541,0.459,negative,The Story of Mankind
+Now it became a friend.,0.4939,0.516,0.0,0.484,positive,The Story of Mankind
+A dead tree was dragged into the cave and lighted by means of smouldering branches from a burning wood.,-0.6705,0.0,0.268,0.732,negative,The Story of Mankind
+This turned the cave into a cozy little room.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+And then one evening a dead chicken fell into the fire.,-0.7717,0.0,0.456,0.544,negative,The Story of Mankind
+It was not rescued until it had been well roasted.,-0.0598,0.169,0.188,0.644,negative,The Story of Mankind
+Man discovered that meat tasted better when cooked and he then and there discarded one of the old habits which he had shared with the other animals and began to prepare his food.,0.4404,0.141,0.064,0.796,positive,The Story of Mankind
+In this way thousands of years passed.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Only the people with the cleverest brains survived.,0.7845,0.535,0.0,0.465,positive,The Story of Mankind
+They had to struggle day and night against cold and hunger.,-0.5106,0.0,0.323,0.677,negative,The Story of Mankind
+They were forced to invent tools.,-0.4588,0.0,0.375,0.625,negative,The Story of Mankind
+They learned how to sharpen stones into axes and how to make hammers.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+They were obliged to put up large stores of food for the endless days of the winter and they found that clay could be made into bowls and jars and hardened in the rays of the sun.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"And so the glacial period, which had threatened to destroy the human race, became its greatest teacher because it forced man to use his brain.",-0.6486,0.121,0.274,0.605,negative,The Story of Mankind
+HIEROGLYPHICS THE EGYPTIANS INVENT THE ART OF WRITING AND THE RECORD OF HISTORY BEGINS THESE earliest ancestors of ours who lived in the great European wilderness were rapidly learning many new things.,0.6249,0.117,0.0,0.883,positive,The Story of Mankind
+It is safe to say that in due course of time they would have given up the ways of savages and would have developed a civilisation of their own.,-0.128,0.09,0.105,0.805,negative,The Story of Mankind
+But suddenly there came an end to their isolation.,-0.5499,0.0,0.307,0.693,negative,The Story of Mankind
+They were discovered.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+A traveller from an unknown southland who had dared to cross the sea and the high mountain passes had found his way to the wild people of the European continent.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+He came from Africa.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+His home was in Egypt.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The valley of the Nile had developed a high stage of civilisation thousands of years before the people of the west had dreamed of the possibilities of a fork or a wheel or a house.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"And we shall therefore leave our great-great-grandfathers in their caves, while we visit the southern and eastern shores of the Mediterranean, where stood the earliest school of the human race.",-0.0516,0.0,0.04,0.96,negative,The Story of Mankind
+The Egyptians have taught us many things.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+They were excellent farmers.,0.5719,0.552,0.0,0.448,positive,The Story of Mankind
+They knew all about irrigation.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+They built temples which were afterwards copied by the Greeks and which served as the earliest models for the churches in which we worship nowadays.,0.296,0.084,0.0,0.916,positive,The Story of Mankind
+They had invented a calendar which proved such a useful instrument for the purpose of measuring time that it has survived with a few changes until today.,0.7351,0.22,0.0,0.78,positive,The Story of Mankind
+"But most important of all, the Egyptians had learned how to preserve speech for the benefit of future generations.",0.7677,0.281,0.0,0.719,positive,The Story of Mankind
+They had invented the art of writing.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+We are so accustomed to newspapers and books and magazines that we take it for granted that the world has always been able to read and write.,0.25,0.071,0.0,0.929,positive,The Story of Mankind
+"As a matter of fact, writing, the most important of all inventions, is quite new.",0.2944,0.21,0.0,0.79,positive,The Story of Mankind
+"Without written documents we would be like cats and dogs, who can only teach their kittens and their puppies a few simple things and who, because they cannot write, possess no way in which they can make use of the experience of those generations of cats and dogs that have gone before.",0.5248,0.082,0.0,0.918,positive,The Story of Mankind
+"In the first century before our era, when the Romans came to Egypt, they found the valley full of strange little pictures which seemed to have something to do with the history of the country.",-0.2023,0.0,0.05,0.95,negative,The Story of Mankind
+"But the Romans were not interested in ""anything foreign"" and did not inquire into the origin of these queer figures which covered the walls of the temples and the walls of the palaces and endless reams of flat sheets made out of the papyrus reed.",-0.438,0.0,0.062,0.938,negative,The Story of Mankind
+The last of the Egyptian priests who had understood the holy art of making such pictures had died several years before.,-0.5574,0.0,0.153,0.847,negative,The Story of Mankind
+Egypt deprived of its independence had become a store-house filled with important historical documents which no one could decipher and which were of no earthly use to either man or beast.,-0.6908,0.051,0.212,0.737,negative,The Story of Mankind
+Seventeen centuries went by and Egypt remained a land of mystery.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+But in the year 1798 a French general by the name of Bonaparte happened to visit eastern Africa to prepare for an attack upon the British Indian Colonies.,-0.631,0.0,0.138,0.862,negative,The Story of Mankind
+"He did not get beyond the Nile, and his campaign was a failure.",-0.5106,0.0,0.231,0.769,negative,The Story of Mankind
+"But, quite accidentally, the famous French expedition solved the problem of the ancient Egyptian picture-language.",-0.664,0.122,0.326,0.552,negative,The Story of Mankind
+"One day a young French officer, much bored by the dreary life of his little fortress on the Rosetta river (a mouth of the Nile) decided to spend a few idle hours rummaging among the ruins of the Nile Delta.",-0.7506,0.0,0.175,0.825,negative,The Story of Mankind
+And behold!,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+he found a stone which greatly puzzled him.,-0.2484,0.0,0.249,0.751,negative,The Story of Mankind
+Like everything else in Egypt it was covered with little figures.,0.3612,0.2,0.0,0.8,positive,The Story of Mankind
+But this particular slab of black basalt was different from anything that had ever been discovered.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+It carried three inscriptions.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+One of these was in Greek.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The Greek language was known.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"""All that is necessary,"" so he reasoned, ""is to compare the Greek text with the Egyptian figures, and they will at once tell their secrets.""",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The plan sounded simple enough but it took more than twenty years to solve the riddle.,0.296,0.128,0.0,0.872,positive,The Story of Mankind
+In the year 1802 a French professor by the name of Champollion began to compare the Greek and the Egyptian texts of the famous Rosetta stone.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+In the year 1823 he announced that he had discovered the meaning of fourteen little figures.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"A short time later he died from overwork, but the main principles of Egyptian writing had become known.",-0.3182,0.0,0.126,0.874,negative,The Story of Mankind
+Today the story of the valley of the Nile is better known to us than the story of the Mississippi River.,0.4404,0.127,0.0,0.873,positive,The Story of Mankind
+We possess a written record which covers four thousand years of chronicled history.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"As the ancient Egyptian hieroglyphics (the word means ""sacred writing"") have played such a very great role in history, (a few of them in modified form have even found their way into our own alphabet,) you ought to know something about the ingenious system which was used fifty centuries ago to preserve the spoken word for the benefit of the coming generations.",0.8687,0.144,0.0,0.856,positive,The Story of Mankind
+"Of course, you know what a sign language is.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Every Indian story of our western plains has a chapter devoted to strange messages writter{sic} in the form of little pictures which tell how many buffaloes were killed and how many hunters there were in a certain party.,0.0516,0.167,0.141,0.692,positive,The Story of Mankind
+As a rule it is not difficult to understand the meaning of such messages.,0.2755,0.15,0.0,0.85,positive,The Story of Mankind
+"Ancient Egyptian, however, was not a sign language.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The clever people of the Nile had passed beyond that stage long before.,0.4588,0.2,0.0,0.8,positive,The Story of Mankind
+"Their pictures meant a great deal more than the object which they represented, as I shall try to explain to you now.",0.6249,0.177,0.0,0.823,positive,The Story of Mankind
+"Suppose that you were Champollion, and that you were examining a stack of papyrus sheets, all covered with hieroglyphics.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Suddenly you came across a picture of a man with a saw.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"""Very well,"" you would say, ""that means of course that a farmer went out to cut down a tree.""",-0.2732,0.0,0.116,0.884,negative,The Story of Mankind
+Then you take another papyrus.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+It tells the story of a queen who had died at the age of eighty-two.,-0.5574,0.0,0.217,0.783,negative,The Story of Mankind
+In the midst of a sentence appears the picture of the man with the saw.,0.0772,0.091,0.0,0.909,positive,The Story of Mankind
+Queens of eighty-two do not handle saws.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The picture therefore must mean something else.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+But what?,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+That is the riddle which the Frenchman finally solved.,0.2732,0.208,0.0,0.792,positive,The Story of Mankind
+"He discovered that the Egyptians were the first to use what we now call ""phonetic writing""--a system of characters which reproduce the ""sound"" (or phone) of the spoken word and which make it possible for us to translate all our spoken words into a written form, with the help of only a few dots and dashes and pothooks.",0.4019,0.047,0.0,0.953,positive,The Story of Mankind
+Let us return for a moment to the little fellow with the saw.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"The word ""saw"" either means a certain tool which you will find in a carpenter's shop, or it means the past tense of the verb ""to see.""",-0.0772,0.076,0.087,0.836,negative,The Story of Mankind
+This is what had happened to the word during the course of centuries.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+First of all it had meant only the particular tool which it represented.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Then that meaning had been lost and it had become the past participle of a verb.,-0.3182,0.0,0.141,0.859,negative,The Story of Mankind
+"After several hundred years, the Egyptians lost sight of both these meanings and the picture {illust.}",-0.3182,0.0,0.133,0.867,negative,The Story of Mankind
+"came to stand for a single letter, the letter S. A short sentence will show you what I mean.",0.0772,0.08,0.0,0.92,positive,The Story of Mankind
+Here is a modern English sentence as it would have been written in hieroglyphics.,0.0772,0.098,0.0,0.902,positive,The Story of Mankind
+{illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The {illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"either means one of these two round objects in your head, which allow you to see or it means ""I,"" the person who is talking.",0.2263,0.073,0.0,0.927,positive,The Story of Mankind
+A {illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"is either an insect which gathers honey, or it represents the verb ""to be"" which means to exist.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Again, it may be the first part of a verb like ""be-come"" or ""be-have.""",0.3612,0.172,0.0,0.828,positive,The Story of Mankind
+In this particular instance it is followed by {illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"which means a ""leaf"" or ""leave"" or ""lieve"" (the sound of all three words is the same).",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"The ""eye"" you know all about.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Finally you get the picture of a {illust.}.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+It is a giraffe It is part of the old sign-language out of which the hieroglyphics developed.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+You can now read that sentence without much difficulty.,0.3261,0.323,0.0,0.677,positive,The Story of Mankind
+"""I believe I saw a giraffe.""",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Having invented this system the Egyptians developed it during thousands of years until they could write anything they wanted, and they used these ""canned words"" to send messages to friends, to keep business accounts and to keep a record of the history of their country, that future generations might benefit by the mistakes of the past.",0.5574,0.101,0.041,0.858,positive,The Story of Mankind
+THE NILE VALLEY THE BEGINNING OF CIVILISATION IN THE VALLEY OF THE NILE THE history of man is the record of a hungry creature in search of food.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Wherever food was plentiful, thither man has travelled to make his home.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The fame of the Valley of the Nile must have spread at an early date.,0.4404,0.172,0.0,0.828,positive,The Story of Mankind
+From the interior of Africa and from the desert of Arabia and from the western part of Asia people had flocked to Egypt to claim their share of the rich farms.,0.7003,0.167,0.0,0.833,positive,The Story of Mankind
+"Together these invaders had formed a new race which called itself ""Remi"" or ""the Men"" just as we sometimes call America ""God's own country.""",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+They had good reason to be grateful to a Fate which had carried them to this narrow strip of land.,0.7096,0.258,0.0,0.742,positive,The Story of Mankind
+In the summer of each year the Nile turned the valley into a shallow lake and when the waters receded all the grainfields and the pastures were covered with several inches of the most fertile clay.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+In Egypt a kindly river did the work of a million men and made it possible to feed the teeming population of the first large cities of which we have any record.,0.4939,0.099,0.0,0.901,positive,The Story of Mankind
+It is true that all the arable land was not in the valley.,0.4215,0.189,0.0,0.811,positive,The Story of Mankind
+But a complicated system of small canals and well-sweeps carried water from the river-level to the top of the highest banks and an even more intricate system of irrigation trenches spread it throughout the land.,0.5483,0.124,0.0,0.876,positive,The Story of Mankind
+"While man of the prehistoric age had been obliged to spend sixteen hours out of every twenty-four gathering food for himself and the members of his tribe, the Egyptian peasant or the inhabitant of the Egyptian city found himself possessed of a certain leisure.",0.2732,0.048,0.0,0.952,positive,The Story of Mankind
+He used this spare time to make himself many things that were merely ornamental and not in the least bit useful.,0.4404,0.127,0.0,0.873,positive,The Story of Mankind
+More than that.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+One day he discovered that his brain was capable of thinking all kinds of thoughts which had nothing to do with the problems of eating and sleeping and finding a home for the children.,-0.0258,0.072,0.074,0.854,neutral,The Story of Mankind
+The Egyptian began to speculate upon many strange problems that confronted him.,-0.6486,0.0,0.412,0.588,negative,The Story of Mankind
+Where did the stars come from?,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Who made the noise of the thunder which frightened him so terribly?,-0.7778,0.0,0.405,0.595,negative,The Story of Mankind
+Who made the River Nile rise with such regularity that it was possible to base the calendar upon the appearance and the disappearance of the annual floods?,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Who was he, himself, a strange little creature surrounded on all sides by death and sickness and yet happy and full of laughter?",0.296,0.225,0.186,0.588,positive,The Story of Mankind
+He asked these many questions and certain people obligingly stepped forward to answer these inquiries to the best of their ability.,0.8225,0.323,0.0,0.677,positive,The Story of Mankind
+"The Egyptians called them ""priests"" and they became the guardians of his thoughts and gained great respect in the community.",0.8689,0.366,0.0,0.634,positive,The Story of Mankind
+They were highly learned men who were entrusted with the sacred task of keeping the written records.,0.2023,0.101,0.0,0.899,positive,The Story of Mankind
+"They understood that it is not good for man to think only of his immediate advantage in this world and they drew his attention to the days of the future when his soul would dwell beyond the mountains of the west and must give an account of his deeds to Osiris, the mighty God who was the Ruler of the Living and the Dead and who judged the acts of men according to their merits.",-0.1043,0.099,0.08,0.821,negative,The Story of Mankind
+"Indeed, the priests made so much of that future day in the realm of Isis and Osiris that the Egyptians began to regard life merely as a short preparation for the Hereafter and turned the teeming valley of the Nile into a land devoted to the Dead.",-0.3818,0.054,0.086,0.86,negative,The Story of Mankind
+"In a strange way, the Egyptians had come to believe that no soul could enter the realm of Osiris without the possession of the body which had been its place of residence in this world.",-0.4588,0.0,0.111,0.889,negative,The Story of Mankind
+Therefore as soon as a man was dead his relatives took his corpse and had it embalmed.,-0.8402,0.0,0.364,0.636,negative,The Story of Mankind
+For weeks it was soaked in a solution of natron and then it was filled with pitch.,0.3182,0.133,0.0,0.867,positive,The Story of Mankind
+"The Persian word for pitch was ""Mumiai"" and the embalmed body was called a ""Mummy.""",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+It was wrapped in yards and yards of specially prepared linen and it was placed in a specially prepared coffin ready to be removed to its final home.,0.6486,0.208,0.0,0.792,positive,The Story of Mankind
+But an Egyptian grave was a real home where the body was surrounded by pieces of furniture and musical instruments (to while away the dreary hours of waiting) and by little statues of cooks and bakers and barbers (that the occupant of this dark home might be decently provided with food and need not go about unshaven).,-0.7579,0.0,0.107,0.893,negative,The Story of Mankind
+Originally these graves had been dug into the rocks of the western mountains but as the Egyptians moved northward they were obliged to build their cemeteries in the desert.,-0.1531,0.0,0.054,0.946,negative,The Story of Mankind
+The desert however is full of wild animals and equally wild robbers and they broke into the graves and disturbed the mummy or stole the jewelry that had been buried with the body.,-0.765,0.0,0.202,0.798,negative,The Story of Mankind
+To prevent such unholy desecration the Egyptians used to build small mounds of stones on top of the graves.,-0.0772,0.137,0.104,0.758,negative,The Story of Mankind
+"These little mounds gradually grew in size, because the rich people built higher mounds than the poor and there was a good deal of competition to see who could make the highest hill of stones.",0.5267,0.16,0.076,0.764,positive,The Story of Mankind
+"The record was made by King Khufu, whom the Greeks called Cheops and who lived thirty centuries before our era.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"His mound, which the Greeks called a pyramid (because the Egyptian word for high was pir-em-us) was over five hundred feet high.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"It covered more than thirteen acres of desert which is three times as much space as that occupied by the church of St. Peter, the largest edifice of the Christian world.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"During twenty years, over a hundred thousand men were busy carrying the necessary stones from the other side of the river--ferrying them across the Nile (how they ever managed to do this, we do not understand), dragging them in many instances a long distance across the desert and finally hoisting them into their correct position.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+But so well did the King's architects and engineers perform their task that the narrow passage-way which leads to the royal tomb in the heart of the stone monster has never yet been pushed out of shape by the weight of those thousands of tons of stone which press upon it from all sides.,0.4748,0.055,0.0,0.945,positive,The Story of Mankind
+THE STORY OF EGYPT THE RISE AND FALL OF EGYPT THE river Nile was a kind friend but occasionally it was a hard taskmaster.,0.4759,0.175,0.049,0.775,positive,The Story of Mankind
+"It taught the people who lived along its banks the noble art of ""team-work.""",0.4588,0.188,0.0,0.812,positive,The Story of Mankind
+They depended upon each other to build their irrigation trenches and keep their dikes in repair.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+In this way they learned how to get along with their neighbours and their mutual-benefit-association quite easily developed into an organised state.,0.4005,0.114,0.0,0.886,positive,The Story of Mankind
+Then one man grew more powerful than most of his neighbours and he became the leader of the community and their commander-in-chief when the envious neighbours of western Asia invaded the prosperous valley.,0.624,0.162,0.055,0.783,positive,The Story of Mankind
+In due course of time he became their King and ruled all the land from the Mediterranean to the mountains of the west.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"But these political adventures of the old Pharaohs (the word meant ""the Man who lived in the Big House"") rarely interested the patient and toiling peasant of the grain fields.",0.0549,0.091,0.085,0.824,positive,The Story of Mankind
+"Provided he was not obliged to pay more taxes to his King than he thought just, he accepted the rule of Pharaoh as he accepted the rule of Mighty Osiris.",0.5417,0.169,0.0,0.831,positive,The Story of Mankind
+It was different however when a foreign invader came and robbed him of his possessions.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"After twenty centuries of independent life, a savage Arab tribe of shepherds, called the Hyksos, attacked Egypt and for five hundred years they were the masters of the valley of the Nile.",-0.7184,0.0,0.171,0.829,negative,The Story of Mankind
+They were highly un-popular and great hate was also felt for the Hebrews who came to the land of Goshen to find a shelter after their long wandering through the desert and who helped the foreign usurper by acting as his tax-gatherers and his civil servants.,0.1689,0.085,0.072,0.842,positive,The Story of Mankind
+But shortly after the year 1700 B.C.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+the people of Thebes began a revolution and after a long struggle the Hyksos were driven out of the country and Egypt was free once more.,0.25,0.12,0.083,0.797,positive,The Story of Mankind
+"A thousand years later, when Assyria conquered all of western Asia, Egypt became part of the empire of Sardanapalus.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+In the seventh century B.C.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+it became once more an independent state which obeyed the rule of a king who lived in the city of Sais in the Delta of the Nile.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"But in the year 525 B.C., Cambyses, the king of the Persians, took possession of Egypt and in the fourth century B.C., when Persia was conquered by Alexander the Great, Egypt too became a Macedonian province.",0.7684,0.142,0.0,0.858,positive,The Story of Mankind
+"It regained a semblance of independence when one of Alexander's generals set himself up as king of a new Egyptian state and founded the dynasty of the Ptolemies, who resided in the newly built city of Alexandria.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Finally, in the year 89 B.C., the Romans came.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"The last Egyptian queen, Cleopatra, tried her best to save the country.",0.8126,0.425,0.0,0.575,positive,The Story of Mankind
+Her beauty and charm were more dangerous to the Roman generals than half a dozen Egyptian army corps.,0.4779,0.272,0.142,0.586,positive,The Story of Mankind
+Twice she was successful in her attacks upon the hearts of her Roman conquerors.,0.2263,0.203,0.155,0.642,positive,The Story of Mankind
+"But in the year 30 B.C., Augustus, the nephew and heir of Caesar, landed in Alexandria.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+He did not share his late uncle's admiration for the lovely princess.,0.7515,0.401,0.104,0.495,positive,The Story of Mankind
+"He destroyed her armies, but spared her life that he might make her march in his triumph as part of the spoils of war.",-0.5106,0.127,0.229,0.644,negative,The Story of Mankind
+"When Cleopatra heard of this plan, she killed herself by taking poison.",-0.8402,0.0,0.444,0.556,negative,The Story of Mankind
+And Egypt became a Roman province.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+MESOPOTAMIA MESOPOTAMIA--THE SECOND CENTRE OF EASTERN CIVILISATION I AM going to take you to the top of the highest pyramid and I am going to ask that you imagine yourself possessed of the eyes of a hawk.,0.2023,0.052,0.0,0.948,positive,The Story of Mankind
+"Way, way off, in the distance, far beyond the yellow sands of the desert, you will see something green and shimmering.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+It is a valley situated between two rivers.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+It is the Paradise of the Old Testament.,0.6369,0.375,0.0,0.625,positive,The Story of Mankind
+"It is the land of mystery and wonder which the Greeks called Mesopotamia--the ""country between the rivers.""",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The names of the two rivers are the Euphrates (which the Babylonians called the Purattu) and the Tigris (which was known as the Diklat).,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+They begin their course amidst the snows of the mountains of Armenia where Noah's Ark found a resting place and slowly they flow through the southern plain until they reach the muddy banks of the Persian gulf.,0.0258,0.03,0.0,0.97,neutral,The Story of Mankind
+They perform a very useful service.,0.4927,0.444,0.0,0.556,positive,The Story of Mankind
+They turn the arid regions of western Asia into a fertile garden.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The valley of the Nile had attracted people because it had offered them food upon fairly easy terms.,0.6908,0.263,0.0,0.737,positive,The Story of Mankind
+"The ""land between the rivers"" was popular for the same reason.",0.4215,0.219,0.0,0.781,positive,The Story of Mankind
+It was a country full of promise and both the inhabitants of the northern mountains and the tribes which roamed through the southern deserts tried to claim this territory as their own and most exclusive possession.,0.4754,0.11,0.0,0.89,positive,The Story of Mankind
+The constant rivalry between the mountaineers and the desert-nomads led to endless warfare.,-0.296,0.0,0.155,0.845,negative,The Story of Mankind
+Only the strongest and the bravest could hope to survive and that will explain why Mesopotamia became the home of a very strong race of men who were capable of creating a civilisation which was in every respect as important as that of Egypt.,0.9657,0.397,0.0,0.603,positive,The Story of Mankind
+"THE SUMERIANS THE SUMERIAN NAIL WRITERS, WHOSE CLAY TABLETS TELL US THE STORY OF ASSYRIA AND BABYLONIA, THE GREAT SEMITIC MELTING-POT THE fifteenth century was an age of great discoveries.",0.873,0.242,0.0,0.758,positive,The Story of Mankind
+Columbus tried to find a way to the island of Kathay and stumbled upon a new and unsuspected continent.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"An Austrian bishop equipped an expedition which was to travel eastward and find the home of the Grand Duke of Muscovy, a voyage which led to complete failure, for Moscow was not visited by western men until a generation later.",-0.0772,0.071,0.078,0.851,negative,The Story of Mankind
+Meanwhile a certain Venetian by the name of Barbero had explored the ruins of western Asia and had brought back reports of a most curious language which he had found carved in the rocks of the temples of Shiraz and engraved upon endless pieces of baked clay.,0.2006,0.095,0.058,0.847,positive,The Story of Mankind
+"But Europe was busy with many other things and it was not until the end of the eighteenth century that the first ""cuneiform inscriptions"" (so-called because the letters were wedge-shaped and wedge is called ""Cuneus"" in Latin) were brought to Europe by a Danish surveyor, named Niebuhr.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Then it took thirty years before a patient German school-master by the name of Grotefend had deciphered the first four letters, the D, the A, the R and the SH, the name of the Persian King Darius.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"And another twenty years had to go by until a British officer, Henry Rawlinson, who found the famous inscription of Behistun, gave us a workable key to the nail-writing of western Asia.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Compared to the problem of deciphering these nail-writings, the job of Champollion had been an easy one.",0.0516,0.141,0.131,0.728,positive,The Story of Mankind
+The Egyptians used pictures.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"But the Sumerians, the earliest inhabitants of Mesopotamia, who had hit upon the idea of scratching their words in tablets of clay, had discarded pictures entirely and had evolved a system of V-shaped figures which showed little connection with the pictures out of which they had been developed.",-0.4767,0.0,0.063,0.937,negative,The Story of Mankind
+A few examples will show you what I mean.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"In the beginning a star, when drawn with a nail into a brick looked as follows: {illust.}",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"This sign however was too cumbersome and after a short while when the meaning of ""heaven"" was added to that of star the picture was simplified in this way {illust.}",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+which made it even more of a puzzle.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+In the same way an ox changed from {illust} into {illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+and a fish changed from {illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+into {illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The sun was originally a plain circle {illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+and became {illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+If we were using the Sumerian script today we would make an {illust.},0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+look like {illust.}.,0.3612,0.556,0.0,0.444,positive,The Story of Mankind
+This system of writing down our ideas looks rather complicated but for more than thirty centuries it was used by the Sumerians and the Babylonians and the Assyrians and the Persians and all the different races which forced their way into the fertile valley.,-0.6124,0.0,0.085,0.915,negative,The Story of Mankind
+The story of Mesopotamia is one of endless warfare and conquest.,-0.296,0.0,0.18,0.82,negative,The Story of Mankind
+First the Sumerians came from the North.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+They were a white People who had lived in the mountains.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+They had been accustomed to worship their Gods on the tops of hills.,0.6705,0.333,0.0,0.667,positive,The Story of Mankind
+After they had entered the plain they constructed artificial little hills on top of which they built their altars.,0.1372,0.079,0.0,0.921,positive,The Story of Mankind
+They did not know how to build stairs and they therefore surrounded their towers with sloping galleries.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"Our engineers have borrowed this idea, as you may see in our big railroad stations where ascending galleries lead from one floor to another.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+We may have borrowed other ideas from the Sumerians but we do not know it.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+The Sumerians were entirely ab-sorbed by those races that entered the fertile valley at a later date.,0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+Their towers however still stand amidst the ruins of Mesopotamia.,-0.4404,0.0,0.244,0.756,negative,The Story of Mankind
+"The Jews saw them when they went into exile in the land of Babylon and they called them towers of Babillli, or towers of Babel.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"In the fortieth century before our era, the Sumerians had entered Mesopotamia.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"They were soon afterwards over-powered by the Akkadians, one of the many tribes from the desert of Arabia who speak a common dialect and who are known as the ""Semites,"" because in the olden days people believed them to be the direct descendants of Shem, one of the three sons of Noah.",0.0,0.0,0.0,1.0,neutral,The Story of Mankind
+"A thousand years later, the Akkadians were forced to submit to the rule of the Amorites, another Semitic desert tribe whose great King Hammurabi built himself a magnificent palace in the holy city of Babylon and who gave his people a set of laws which made the Babylonian state the best administered empire of the ancient world.",0.8807,0.187,0.046,0.767,positive,The Story of Mankind
+"Next the Hittites, whom you will also meet in the Old Testament, over-ran the Fertile Valley and destroyed whatever they could not carry away.",-0.4939,0.0,0.122,0.878,negative,The Story of Mankind
+"They in turn were vanquished by the followers of the great desert God, Ashur, who called themselves Assyrians and who made the city of Nineveh the center of a vast and terrible empire which conquered all of western Asia and Egypt and gathered taxes from countless subject races until the end of the seventh century before the birth of Christ when the Chaldeans, also a Semitic tribe, re-established Ba",0.4767,0.085,0.042,0.873,positive,The Story of Mankind

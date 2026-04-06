@@ -1,0 +1,314 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Minna This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Minna
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Minna
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Minna
+"Title : Minna Author : Karl Gjellerup Release date : August 28, 2010 [eBook #33562] Language : Danish Other information and formats : www.gutenberg.org/ebooks/33562 Credits : Produced by Tor Martin Kristiansen and the Online Distributed Proofreading Team at http://www.pgdp.net *** START OF THE PROJECT GUTENBERG EBOOK MINNA *** Afskriverens bemærkninger Åbenlyse trykfejl er rettet i denne e-bog, men forfatterens (inkonsistente) stavning er i øvrigt bevaret.",0.3612,0.043,0.0,0.957,positive,Minna
+En ordliste med rettelser er placeret sidst i bogen.,0.0,0.0,0.0,1.0,neutral,Minna
+For at lette adgangen til de enkelte kapitler gives her en oversigt.,0.0,0.0,0.0,1.0,neutral,Minna
+Første Bog: I II III IV V VI VII VIII IX X Anden Bog: I II III IV V VI VII VIII IX X Tredie Bog: I II III IV V Fjerde Bog: I II III IV V VI VII VIII IX Femte Bog: I II III IV V VI VII VIII Karl Gjellerup Minna Gyldendalske Boghandel -- Nordisk Forlag -- Kjøbenhavn og Kristiania MDCCCCXVIII Krohns Bogtrykkeri.,0.0,0.0,0.0,1.0,neutral,Minna
+Helliget Erindringen om min uforglemmelige Ven Kammerjunker F. V. Berregaard kgl.,0.0,0.0,0.0,1.0,neutral,Minna
+"Skovrider i Hanenau paa Falster Første Bog I Semestret ved Polytechnicum havde været temmelig anstrengende, og det begyndte at blive utaalelig hedt i Dresden, hvor jeg desuden boede i en af Altstadts mindre Gader, der vel var renlig og net, men ikke just synderlig luftig.",0.0,0.0,0.0,1.0,neutral,Minna
+Jeg følte ofte en hjemlig Længsel efter det danske Sund.,0.0,0.0,0.0,1.0,neutral,Minna
+"Hvor smukke end Aftenerne ved Elben vare, saa bragte de dog kun ringe Afkjøling, og naar man endnu mellem ni og ti slæbte sig op paa den Brühlske Terrasse og gispede efter en Luftning, viste Thermometret endnu sine fem-sexogtyve Grader Reaumur.",0.0,0.0,0.0,1.0,neutral,Minna
+"Dette var for saa vidt trøstende, som det godtgjorde, at man havde en utvivlsom Menneskeret til at svede, og at det var en undskyldelig Extravagance, hvis man nød en Portion Is udenfor Cafféen, hvor der var behageligt at sidde mellem Søilerne og høre Brudstykker af Concerten i » Wienergarten « hinsides Floden.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det var paa en saadan Aften, at jeg fattede den dristige Beslutning at ligge paa Landet i den nærforestaaende Sommerferie.",0.0,0.0,0.0,1.0,neutral,Minna
+"Mig selv forekom denne Beslutning i alt Fald temmelig dristig, da jeg baade var nødsaget og vant til at leve meget økonomisk.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg var strax paa det Rene med, at jeg maatte ud i Sachsisk Schweiz, og den sidste Bid Is var endnu ikke smeltet i Munden paa mig, da jeg havde bestemt mig for det lille Rathen, som havde efterladt et lokkende idyllisk Indtryk hos mig, skjøndt jeg, i Lighed med de fleste Reisende, kun havde seet det i Forbigaaende og tilmed ved Skumringstid, paa Nedveien fra Bastei.",0.0,0.0,0.0,1.0,neutral,Minna
+"Et Par Dage senere steg jeg, henimod Middag, ud ved den lille Station og gik mellem Frugttræshaverne ned til Færgen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Elben bugter sig her om et frodigt Agerland, der efterhaanden hæver sig i jævne Bakker, mørke af Granskov, hvorover enkelte Klippeblokke rage op, medens det løber fladt ud mod Floden.",-0.5574,0.0,0.114,0.886,negative,Minna
+"Her breder Øvre-Rathen sig med velhavende spredte Bøndergaarde, og et løst Væv af Frugttræskroner spænder sig over Kornmarkerne og de grønne Enge.",0.0,0.0,0.0,1.0,neutral,Minna
+"Den hinsidige Bred er een stor Bjergbue, med en eneste Gjennembrydning midtveis, den lille Dal, hvor det uanselige Nedre-Rathen er klemt inde, og næsten kun præsenterer sig med de to Gjæstgivergaarde, den nøgne ny og den overgroede gamle, hver paa sin Side af Bækken, som blinkende munder ud i den store forbiglidende Flod.",-0.5574,0.0,0.066,0.934,negative,Minna
+"Tilvenstre for denne Dal hæver sig Basteis blaagraa, lodrette Klipper, som nedad skjules af Naaleskov og Bøgeløv, og derefter lyser Rækken af de store Sandstensbrud, de smukkeste i hele Landet; de danne dèr enkeltstaaende gulige Væggeflader, af hvilke nogle ere flere hundrede Fod høie.",0.0,0.0,0.0,1.0,neutral,Minna
+"Til den anden Side af Rathen derimod strække de sig som en vedvarende Gjennemskjæring af Bakkedraget, og oppe over dets Skovbølger seiler Lilienstein som et uhyre Pantserskib.",0.0,0.0,0.0,1.0,neutral,Minna
+"-- Færgeprammen gik paa skraa, ligesom en Hund, over Strømmen, der selv drev den frem; thi den var tøiret til en Tønde, der vippede et halvthundred Fod længer fremme, og Færgemanden havde ikke Andet at gjøre, end et Par Gange at stramme Kjæden , der løb gjennem en Tridse oppe i den lille Mast.",0.0,0.0,0.0,1.0,neutral,Minna
+"Ikke desto mindre tørrede han bestandig med sit Skjorteærme Svedperlerne af Ansigtet, der var saa solbrændt, at han kom vor Forestilling om en Rødhud betydelig nærmere, end de Sioux-Indianere gjorde, som jeg den foregaaende Aften havde set producere sig i den zoologiske Have.",0.0,0.0,0.0,1.0,neutral,Minna
+"Men her, midt i hans Rige, kunde man ikke undre sig derover; det blinkende Vand rundt om syntes mindre at sprede Kjølighed end Solvarme, og hele Flodbreddens Bue med sine mange nøgne Klippeflader aabnede sig mod Syd som et Hulspeil, hvis Brændpunkt laa foran Rathen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg blev enig med mig selv og Færgemanden om, at det ikke var noget kjøligt Opholdssted, jeg havde udset mig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Men der var jo ikke langt ind til de svale »Grunde«; -- og desuden, naar jeg en Gang har sat mig Noget i Hovedet, kommer jeg ikke saa let derfra igjen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Kan hænde, at ogsaa Skjæbnen havde sin Finger med i Spillet denne Gang.",-0.5574,0.0,0.247,0.753,negative,Minna
+"Sagen viste sig at være vigtig nok til, at den kunde have gjort sig den Uleilighed.",0.0,0.0,0.0,1.0,neutral,Minna
+"Forresten var det da ikke Hedens Skyld, hvis jeg siden fortrød, at jeg ikke lod mig afskrække.",0.0,0.0,0.0,1.0,neutral,Minna
+Og har jeg da nogensinde fortrudt det?,0.0,0.0,0.0,1.0,neutral,Minna
+endnu den Dag idag -- det er nu fem Aar siden -- er jeg ikke i Stand til at besvare dette Spørgsmaal.,0.0,0.0,0.0,1.0,neutral,Minna
+"En eller anden Digter -- det er vist forresten nok en meget berømt en, -- skal have sagt, at der er Intet saa sørgeligt som i tunge Tider at mindes lykkelige Dage.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg tør naturligvis ikke sætte mine Ord mod hans, især da de ere gjentagne saa tidt, at de næsten ere Alverdens; men ellers vilde jeg mene, at det i saadanne Tider var endnu sørgeligere, naar man slet ingen lykkelige Øieblikke havde at se tilbage paa.",0.0,0.0,0.0,1.0,neutral,Minna
+"Og saa vil jeg da, i denne Anskuelse, saa godt jeg kan, søge at hensætte mig til hine Rathener-Dage og til dem, der fulgte efter.",0.0,0.0,0.0,1.0,neutral,Minna
+Det viste sig strax forbundet med nogen Vanskelighed at finde et Logis.,0.0,0.0,0.0,1.0,neutral,Minna
+De to Gjæstgivergaarde havde kun de allerringeste Værelser tilbage til temmelig dyre Priser.,0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg blev vist fra Herodes til Pilatus og maatte mangfoldige Gange gaa over den lille klare Bæk og opad de smaa Trappe-Stier -- fra en Skomager paa den ene Side til Bageren paa den anden, over igjen til Vægteren og tilbage til Kjøbmanden; men enten var Værelset udleiet, eller der var to forbundne, som blev mig for kostbare.",0.0,0.0,0.0,1.0,neutral,Minna
+"Tilsidst var Skolen levnet mig som det eneste Haab; den laa bagest, hvor Fyrreskoven begyndte.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det var ikke Skoletid, og jeg bankede derfor trøstig paa Døren til Lærerens Privatbolig.",0.0,0.0,0.0,1.0,neutral,Minna
+En lille Dreng lukkede op.,0.0,0.0,0.0,1.0,neutral,Minna
+"Han vidste ikke, om Læreren var hjemme, forsvandt et Øieblik og foer mig derpaa forbi og op ad Trappen for at vende tilbage med et Par Støvler i Haanden; derefter brød han endnu en Gang ud og holdt Indtog med en Frakke.",0.0,0.0,0.0,1.0,neutral,Minna
+"Snart viste Skolelæreren sig, prydet med disse Eiendele, og med et halvt søvnigt, halvt polidsk Smil i det aabne, godmodige Ansigt.",0.0,0.0,0.0,1.0,neutral,Minna
+"Han havde ganske rigtig to Værelser ledig, men de leiedes kun ud under et og kostede halvhundrede Mark om Maaneden.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg beklagede skuffet, at jeg til ingen Nytte havde gjort ham Uleilighed, og han trøstede mig med, og jeg sikkert kunde faa et enkelt Værelse i den nye Pensions-Villa ved Siden af.",0.0,0.0,0.0,1.0,neutral,Minna
+"Den Villa, som jeg nu nærmede mig til, saae meget elegant ud: den havde grønne Skodder slaaet tilbage fra Vinduerne, Espalier op ad Muren og en løvrig Loggia.",0.4767,0.103,0.0,0.897,positive,Minna
+"Den laa lidt tilveirs, og Haven, som jeg allerede var kommen ind i, gik i Terrasser op ad Bjerget med grusbelagte Gange mellem blomstrende Buske.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hvor tiltrækkende nu end alt dette var, saa virkede det dog tillige i samme Grad afskrækkende paa en fattig Polytechniker; men jeg besluttede at tage imod det mindste Kvistkammer, selv til en overdreven Pris, hvis dette Pragthus overhovedet vilde modtage mig; for jeg var hjertelig kjed af saaledes at løbe om og banke paa alle Husdøre.",0.0,0.0,0.0,1.0,neutral,Minna
+"Et Selskab af Herrer og Damer viste sig imidlertid i Loggiaen, -- det saae mig mindre og mindre pensionsagtigt ud, og jeg følte mig lettet, da en Tjenestepige, som ved en Omdreining af Gangen nær var løbet paa mig, kunde bringe mig ud af min Forlegenhed, ganske vist paa en noget overlegen og spottende Maade: -- nei, her leiede de rigtignok ingen Værelser ud; det Hus, jeg mente, kunde jeg se dèr øverst oppe paa Bakken.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det havde hidtil været skjult af den smukke Villa og tog sig ikke synderlig indbydende ud, da det nu dukkede op over den og præsenterede sig mod den blaa Himmel, med en vis ublufærdig Nøgenhed, uden saa meget som en Busk i Nærheden af sig, og saa skinnende nyt, som om det aldrig kunde beboes.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg maatte ned igjen i Dalen, to Gange over Bækken, og kravle en halvandethundred Fod tilveirs ad et System af Stier og Stentrapper til Randen af Bakken.",0.0,0.0,0.0,1.0,neutral,Minna
+"Nærved saae Huset ikke synderlig beboeligere ud; der laa Grusdynger, Stenaffald og Brædder rundt om; de fleste Vinduer manglede.",0.0,0.0,0.0,1.0,neutral,Minna
+Indenfor var der en afskyelig Træk.,0.0,0.0,0.0,1.0,neutral,Minna
+"Døre smeldede i, og fra Kjelderen hørtes en grov Kjællingerøst, der ødslede med herlig lange Eder og Forbandelser, som vulgært Tysk besidder.",0.0,0.0,0.0,1.0,neutral,Minna
+"En Mand laa og pudsede Sten-Trappen med Pibelér -- aabenbart for første Gang; en ung Pige, der skurede Gulv i en Corridor, vendte Hovedet ved mit Komme og viste mig et kjønt, blegt Ansigt med en rød Plet paa den ene Kind, som om hun nylig havde faaet en vældig Ørefigen.",0.5267,0.065,0.0,0.935,positive,Minna
+"Da jeg spurgte efter Vært eller Værtinde, løb hun hurtig bort paa sine bare Fødder, der satte vaade Spor paa Gulvets Savspaaner, og forsvandt ned i Kjelderen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Strax efter vendte hun tilbage, fulgt af en firskaaren Kjælling, hvis brede Mund aabenbart havde været Udgangsport for de omtalte Eder, og hvis store Labber, som hun tørrede i sit Forklæde, jeg strax mistænkte for at have været i nær Berørelse med Pigens Kind.",0.5267,0.077,0.0,0.923,positive,Minna
+"Under det opkiltrede Skjørt havde hun bare Ben, der var ganske krumme, med flade og ligesom udtraadte Fødder.",0.0,0.0,0.0,1.0,neutral,Minna
+"-- Naa, Herren vil have et Værelse her, sagde hun -- ja, saa er det saamænd paa Tide, for der er kun et tilbage, -- naar det skal være enkelt .... Naa, se til, du kan faa fat i Gulvskruppen, tossede Tøs!",0.0,0.0,0.0,1.0,neutral,Minna
+"er det maaske dig, der skal vise Herren om?",0.0,0.0,0.0,1.0,neutral,Minna
+".... Det er oppe paa anden Sal, -- vær saa god.",0.2732,0.174,0.0,0.826,positive,Minna
+Vi traadte ind i et temmelig rummeligt Værelse.,0.0,0.0,0.0,1.0,neutral,Minna
+"Lyst og navnlig luftigt kunde det sagtens være, for der var ingen Vinduer sat i; Rammerne var ikke engang malede.",0.0,0.0,0.0,1.0,neutral,Minna
+"Derimod var der graat Tapetpapir paa Væggene, med nogle Fugtighedspletter paa; trods Luftigheden syntes jeg ogsaa, at der lugtede en Smule muggent.",0.0,0.0,0.0,1.0,neutral,Minna
+"Inden jeg imidlertid kunde gjøre en Bemærkning herom, begyndte hun at rose Værelsets Fortræffelighed og tale om, hvor tilfredse de tidligere Logerende havde været, -- uanseet at vi begge meget vel vidste, at Huset ikke før havde været beboet.",0.0,0.0,0.0,1.0,neutral,Minna
+"-- Jeg spurgte om Prisen; den var en halv Snes Mark høiere, end jeg mente at kunne gaa.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hun forsvor sig paa, at det var Spotpris, ikke dyrere end andre Steder, trods det at her var langt bedre; der var ikke Flodtaage som nede ved Elben, eller lummert som i Dalen, man nød den rene Schweizerluft og havde en Udsigt som ingen andre Steder; og endelig var der de herlige, skyggefulde Promenader, som hørte til Huset, og hvor de Logerende kunde spadsere, naar de ikke vilde gaa længer bort.",0.0,0.0,0.0,1.0,neutral,Minna
+"Til disse »Promenader« kom hun bestandig tilbage, idet hun roede om i Luften med sine snavsede Labber, for at antyde deres overordentlige Udbredelse, og idelig gjentog Ordene: » da'rim und dort'nim «.",0.0,0.0,0.0,1.0,neutral,Minna
+"Enden paa det blev, at vi mødtes paa Halvveien.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hun lovede, at Alt skulde være fix og færdig, naar jeg kom otte Dage senere, ved Feriens Begyndelse.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg gav hende en Thaler i Haandpenge, og gik, meget glad over at være kommen til et Resultat.",0.4588,0.158,0.0,0.842,positive,Minna
+"Da jeg traadte ud, maatte jeg sande Kjællingens Ord om den smukke Udsigt.",0.0,0.0,0.0,1.0,neutral,Minna
+"Tilhøire saae man ind over et klippebegrændset, skovrigt Dalstrøg; ligefor førte en Sidevei af Byen ind til en hyggelig Savmølle i Begyndelsen af Amselgrund, der snart lukkede sig om det klare Vand med sine grønne Graner og graa Stenmasser; tilvenstre aabnede Elbdalen sin Krumning under de solede Stenbrud, der kastede deres Speilstøtter ned over Floden, hvor Tømmerflaader og et Par sorte Baade med store Seil langsomt gled bort med Strømmen.",-0.5574,0.0,0.05,0.95,negative,Minna
+"Nedenunder En laa alle de tegltækte Træhuse og Bindingsværksbygninger, der for største Delen var næsten overgroede af Vin; af Villaer fandtes der, foruden de to omtalte, heldigvis kun en, som tilmed var beskedent skjult; fra alle Skorstene krusede blaa Røg sig op og flød ud i Luften, hvor der dannedes et tyndt Slør tvers over Dalen, og langs igjennem den blinkede Bækkevandet mellem glindsende Pileblade og dunkelt Elleløv.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hvor det var idyllisk, og hvor det var tydsk!",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg følte mig usigelig lykkelig over at skulle bo en hel Maaned ude i denne Herlighed og begyndte uvilkaarlig at synge: » Guten Morgen, schöne Müllerin !« Saa tav jeg igjen for i fulde Drag at fylde Brystet med den friske, krydrede Luft, -- Schweizerluften, som Kjællingen havde kaldet den.",-0.2942,0.0,0.045,0.955,negative,Minna
+"Men jeg maatte le ved Tanken om hendes »herlige, skyggefulde Promenader«, da man heroppe kun saa spredte Frugttræer paa den høie Mark og lige ved Skrænten et Par Birke, hvis lange Vidier legende rystede deres smaa blinkende Blade i Sollyset.",0.0,0.0,0.0,1.0,neutral,Minna
+"Da jeg havde spist paa Elbterrassen og saa mig om efter Opvarteren, traf jeg ham i Samtale med min Bekjendt, Skolelæreren.",0.0,0.0,0.0,1.0,neutral,Minna
+"Denne røg af en Pibe med store Kvaster og et Par Hjortetakskroner, som ingen Student behøvede at skamme sig over, og som aabenbart var hans Stolthed.",0.0,0.0,0.0,1.0,neutral,Minna
+"Kanasteren lugtede behagelig -- det var, som han siden betroede mig, af den ægte gamle Altstädter -- og han drak Münchenerøl: -- altsammen ubedragelige Tegn paa en Mand af finere Smag og Levemaade.",0.0,0.0,0.0,1.0,neutral,Minna
+Han hilste strax paa mig og lykønskede mig til at have fundet Logis.,0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg kunde ikke have valgt noget bedre Sted i hele Sachsisk Schweiz end Rathen; der var Udflugter i Mængde herfra, som var lidet kendte; jeg skulde blot se ind til ham, saa vilde han give mig Anvisning.",0.0,0.0,0.0,1.0,neutral,Minna
+"Derpaa spurgte han mig om, hvad for Landsmand jeg var, og da han hørte, at jeg var Dansk, bemærkede han strax ganske fornøiet, at han ogsaa havde været i Danmark -- i fireogtreds; og hermed var det aabenbart slet ikke hans Mening at sige mig noget Ubehageligt, men blot at bringe et Berøringspunkt tilveie, hvilket ogsaa for saa vidt fandtes, som jeg var godt kjendt i Koldingegnen, hvor han i længere Tid havde ligget i Kvarter.",0.0,0.0,0.0,1.0,neutral,Minna
+"Nu blev han helt ivrig i at spørge, om jeg kunde huske den Gaard og det Hus, den Skov og de Bakker -- han angav med Pibespidsen den gjensidige Beliggenhed paa den brogede Dug -- og det var ham magtpaaliggende at faa at vide, om den tykke Ole Larsen endnu havde Gaarden med Kampestenslængerne og det grønne Stakit, eller om den var gaaet over til Sønnen Hans, der havde ligget paa Lazaret sammen med ham i Flensborg.",0.0,0.0,0.0,1.0,neutral,Minna
+"Saa begyndte han at tale om den Træfning, som han var bleven saaret i. Jeg kan ikke sige, at denne Samtale var mig enten ganske behagelig eller egentlig pinlig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Der var noget Tiltalende i den Ligefremhed, hvormed Tydskeren talte om den Tid paa, og i at mærke, hvor liden personlig fjendtlig Stemning saadanne Krige efterlade -- og alligevel var der en Følelse af, at Alt ikke var, som det skulde være.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg benyttede derfor et Øiebliks Pause til at spørge om, hvad det var for en fin Villa, jeg havde forvildet mig op til.",0.0,0.0,0.0,1.0,neutral,Minna
+"-- Det er Kammerherre v. Zedlitz's, sagde han; de boer her hver Sommer, naar han ikke maa være hos Kongen i Pillnitz.",0.0,0.0,0.0,1.0,neutral,Minna
+"En fornem Familie, som man ikke ser videre til; men de bidrager godt til Skolekassen -- Gud bevares .... Og de har en lille Lærerinde, -- naa, ja det vil De nok selv opdage, -- en nydelig Pige!",0.0,0.0,0.0,1.0,neutral,Minna
+"Hun er lidt i Familie med mig, -- ikke fordi jeg ellers kjender synderlig til hende.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det er saamænd Synd at sige, at hun er paatrængende, hun kunde være det en hel Del mer, uden at jeg just skulde tage hende det ilde op.",0.0,0.0,0.0,1.0,neutral,Minna
+I det samme lød Dampskibspiben nede fra Floden.,0.0,0.0,0.0,1.0,neutral,Minna
+Jeg bød Skolelæreren Farvel og skyndte mig ned paa Broen.,0.0,0.0,0.0,1.0,neutral,Minna
+II En Uge derefter tog jeg afsted Klokken otte om Morgenen.,0.0,0.0,0.0,1.0,neutral,Minna
+Som sædvanlig kom jeg ombord i det sidste Øieblik.,0.0,0.0,0.0,1.0,neutral,Minna
+"Da jeg havde faaet mine Pakkenelliker anbragte og begyndte at se mig om, vare vi allerede ved Albertsbroen; Byen havde faaet sin Profil med de smukke Taarne over den Brühlske Terrasse.",-0.5574,0.0,0.107,0.893,negative,Minna
+"De ragede op mod klar Himmel, men over os var der disigt, og fremefter endogsaa temmelig mørkt.",0.0,0.0,0.0,1.0,neutral,Minna
+Det trak kjøligt; jeg spændte min Plaid ud af Remmen.,0.0,0.0,0.0,1.0,neutral,Minna
+"Da vi dampede hen under de tre Slotte, var det knap, at man kunde se Byen mer, og da vi naaede Loschwitz, begyndte det at regne.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det vil sige, regne gjorde det egentlig ikke -- men -- -- -- » Nu, -- es nieselt ä Bissel «, -- sagde en tyk » Dräsener « til sin Ægtehalvdel, der spørgende stak Hovedet ud af Kahytsdøren.",-0.5574,0.0,0.098,0.902,negative,Minna
+"Da vi lagde til skraas over for Blasewitz, gik de Nyankomne strax ned i Kahytten, og Damerne forsvandt fra det vaade Dæk.",0.0,0.0,0.0,1.0,neutral,Minna
+"Snart fortrak ogsaa Herrerne, en efter en.",0.0,0.0,0.0,1.0,neutral,Minna
+Den sørgelige Sandhed lod sig ikke længer skjule: det øsede ned.,0.0,0.0,0.0,1.0,neutral,Minna
+Jeg tændte en Cigar og gik ned i Røgkahytten.,0.0,0.0,0.0,1.0,neutral,Minna
+Den var fuld baade af Mennesker og af Røg.,0.0,0.0,0.0,1.0,neutral,Minna
+Overalt dreiede Samtalen sig om Veiret.,0.0,0.0,0.0,1.0,neutral,Minna
+"En langhaaret Professor, der fik sig sin » Frühschoppen «, udviklede for en Kreds Andægtige, at naar det efter en saadan Varme paa denne Tid begyndte at regne, saa blev det aldrig ordentlig Veir før til September.",-0.5574,0.0,0.093,0.907,negative,Minna
+"Imidlertid trommede Regnen paa Taget, indtil den holdt op med at tromme og begyndte at plaske.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det blev saa dunkelt om En, at man følte sig ligesom blændet af det unaturlige Mørke.",0.0,0.0,0.0,1.0,neutral,Minna
+Gjennem de drivende Kahytsvinduer kunde man neppe skjælne Vin-Terrasserne og Haverne paa Bredden.,0.0,0.0,0.0,1.0,neutral,Minna
+"Da jeg havde røget ud, gik jeg ind i Salonen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Derinde fandtes der ikke en ledig Plads, og desuden var der saa beklumret, at jeg ikke følte mig fristet til at hente en Tabouret ind.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg traadte ud i For-Rummet, hvorfra Trappen gik op til Dækket.",0.0,0.0,0.0,1.0,neutral,Minna
+En ung Dame med et Par Smaapiger havde taget Plads herude.,0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg tog en Tabouret ned fra Stablen, hyllede mig ind i Plaiden og satte mig ligeoverfor Trappen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det friske, fugtige Lufttræk var mig behageligt, skjøndt det ofte førte et lille Bad med sig, hvis Draaber blev hængende i Plaidens Uld.",-0.5423,0.0,0.143,0.857,negative,Minna
+"De øverste Trin vare pjask-vaade; i Hjørnet af en sort Persenning, som paa Dækket var bredt over noget Reisegods, maatte der have dannet sig en Pyt; for der sprøitede bestandig et lille Springvand op derfra.",0.0,0.0,0.0,1.0,neutral,Minna
+"Den unge Dame, der sad paa den anden Side af Salondøren, trak et lille Bind op af sin Taske og fordybede sig i Læsning.",-0.7717,0.0,0.242,0.758,negative,Minna
+"Men hun fik ikke megen Ro; for den mindste af Smaapigerne, et meget pyntet lille Væsen med hørgule Lokker, gav sig til at tude, og skjøndt det paa en Maade virkelig var det mest passende, man kunde gjøre under disse Omstændigheder, maatte Gouvernanten jo tale hende til Rette.",0.0,0.0,0.0,1.0,neutral,Minna
+"»Lisbeth vil høre mer,« sagde den ældre Pige, og den Lille bekræftede denne Formodning ved at klynke: »Videre om Peter!",0.0,0.0,0.0,1.0,neutral,Minna
+"Videre om Peter!« -- »Skam dig dog for den fremmede Herre, Lisbeth!« hviskede den unge Pige; »troer du, han har Lyst til at høre om Peter?« Den Lille suttede snøftende paa sin Pegefinger og betragtede mig med store misfornøiede Øine.",-0.6351,0.0,0.097,0.903,negative,Minna
+"Dette Barneblik, som saa tydelig sagde: »Hvorfor kan du ikke skrubbe af?« generede mig i høi Grad.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg følte mig som En, der havde trængt mig ind og frygtede for, at jeg maaske kunde gjøre Situationen vanskelig for den nette, unge Gouvernante; sandsynligvis havde hun været glad ved at være ene herude med sine forkjælede Myndlinge.",0.4588,0.073,0.0,0.927,positive,Minna
+"Jeg gjorde derfor Mine til at befri dem for min Nærværelse, men den unge Pige tilkastede mig i det samme et skjælmsk Blik -- hvor skjælmsk, vidste hun vel neppe selv -- der tydelig nok sagde, at mit Selskab var hende behageligt, skjøndt just ikke paa en for mig synderlig smigrende Maade: hun længtes ikke efter at berette »videre om Peter«.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg besvarede altsaa hendes forklarende Smil med et forstaaende, satte mig fastere tilrette og udholdt med stoisk Ro et langt Vredesblik fra den skuffede Lille.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det var mig meget behagelig, paa saa billig en Maade at kunne gjøre min smukke Naboerske en lille Tjeneste.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hun var nemlig smuk, ja paa sin eiendommelige Vis endogsaa en lille Skjønhed, det havde jeg ved denne Leilighed tilstrækkelig opdaget.",-0.5574,0.0,0.153,0.847,negative,Minna
+"Hendes Ansigt hørte til den firkantede Type; det var meget regelmæssigt, og da hun var brunet, havde det, overfladisk seet, noget sydlandsk ved sig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Men Næsen var ægte tydsk: kort, lige og saare beskeden.",0.0,0.0,0.0,1.0,neutral,Minna
+"Ved Læberne var der det Særlige, at Modellering og Farve faldt fuldkommen sammen og vare lige væsentlige, medens man ellers saa ofte ser, at Læberne enten kun ere modellerede eller kun malede, eller ogsaa at Farven træder ud over Formen eller ikke slaar til, saa at de snarere forvirre end understøtte hinanden.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hvis man kunde tvivle om, at der var tilstrækkelig Ben i Næsen, saa modsagde dette Læbepar bestemt al Sigtelse for Karakterløshed.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hagen og Kindrundingen var noget af det Fineste, som jeg har seet.",0.0,0.0,0.0,1.0,neutral,Minna
+-- Hun syntes at være af Middelhøide og snarere lidt mager end fyldig.,0.0,0.0,0.0,1.0,neutral,Minna
+"Hendes Paaklædning var ikke synderlig moderne, hvilket jeg godt kunde lide; men hvad der især tiltalte mig, var hendes Hovedbedækning.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det Aar var nemlig nogle skrækkelig høie og spidse Hatte paa Moden, besatte med kunstige Blomster, og jeg havde netop inde i Salonen haft Leilighed til at forbavses over den Grad af Smagløshed, som de kunde udvikle sig til.",0.0,0.0,0.0,1.0,neutral,Minna
+Men hun bar en lille baret-agtig Straahat med blaat Fløil paa Skyggen og et sølvgraat Slør.,0.0,0.0,0.0,1.0,neutral,Minna
+"At gaa med et smukt Slør paa en Tid, da det ikke netop er Mode, viser altid en Dames gode Smag -- og en Smule elskværdig Behagelyst.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg kan heller ikke tænke mig hos den Tilbedte nogensinde at savne Sløret, denne Livsseiladsens Festvimpel, der fra det Fjerne og i Trængsel viser, hvor man skal styre hen, som altid faar vort Hjerte til at banke, undertiden skuffer os .... Saa, nu taler jeg allerede om Forelskelse, hvad jeg dog den Gang slet ikke tænkte paa.",0.0,0.0,0.0,1.0,neutral,Minna
+Skjøndt -- naar tænker man ikke paa det?,0.0,0.0,0.0,1.0,neutral,Minna
+"Kvindeverdenen deler sig dog for os i to Dele: -- dem, som det er mer eller mindre muligt for En at forelske sig i, -- og alle de Andre, blandt hvilke man egentlig føler sig som i Mandfolkeselskab.",0.0,0.0,0.0,1.0,neutral,Minna
+-- Og denne Gang var jeg tydelig nok i Kvindeselskab.,0.0,0.0,0.0,1.0,neutral,Minna
+"Vi vare seilet et godt Stykke, inden jeg havde samlet dette første Indtryk; for jeg turde naturligvis kun i Ny og Næ kaste stjaalne Blikke derhen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Alligevel gjorde jeg det dog maaske hyppigere, end der strengt taget kunde findes Paaskud til.",0.0,0.0,0.0,1.0,neutral,Minna
+"I alt Fald bemærkede jeg, at hun blev rød paa Halsen lige under Øret og bøiede sig dybere ned over Bogen, som ingenlunde var en Foliant, skikket til at skjule sig bag.",0.0,0.0,0.0,1.0,neutral,Minna
+"Denne lille Tyksak af et Bind begyndte at plage min Nysgjerrighed, en ægte Reise-Regnveirs-Nysgjerrighed, der kaster sig over enhver Gjenstand i Nærheden.",0.0,0.0,0.0,1.0,neutral,Minna
+"Gamle tydske Oversættelser af Cooper og Walter Scott have omtrent dette Format, og jeg havde allerede dømt hendes Lekture til at henhøre under denne agtværdige Kategori, da en pludselig Dreining af den røbede, at den tilhørte en endnu agtværdigere: -- det var et Lomme-Lexicon.",0.0,0.0,0.0,1.0,neutral,Minna
+"Denne Opdagelse gav mig endnu mere Interesse for den unge Pige, og jeg betragtede hende med en vis Rørelse.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg forestillede mig, hvorledes trykkende Omstændigheder havde tvunget hende til at tage imod en af disse ubarmhjertige Gouvernante-Pladser, hvor der fordres alt muligt og lidt til, saa at hun var nødsaget til at benytte ethvert ledigt Øieblik til at forøge sine Kundskaber ad den korteste og tørreste Vei, og maatte indtage en vis Dosis Gloser daglig in natura , som en bedsk men styrkende Medicin under denne Torne-Vandring.",0.0,0.0,0.0,1.0,neutral,Minna
+"Naar en saa skjøn Ungdommelighed faar de trange Kaars dunkle Baggrund, kan den derved kun vinde i Glands og Relief; hvis hun havde været en forkjælet Frøken, som slog Tiden ihjel med en Leiebibliotheks-Roman, saa vilde hun have interesseret mig langt mindre.",0.4767,0.072,0.0,0.928,positive,Minna
+"Skjøndt denne Interesse burde have været saa selvfornægtende, at den ikke vilde forstyrre hende, saa pønsede jeg, oprigtig talt, ikke paa Andet end paa at gjøre det og faa en Samtale i Stand.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det er ydmygende at maatte tilstaa det, men min Opfindsomhed drev det ikke til videre end til to Gange at gaa op ad Kahytstrappen, i den Forudsætning, at den unge Pige vilde spørge mig, om det klarede (hvad det forresten absolut ikke gjorde).",0.0,0.0,0.0,1.0,neutral,Minna
+"Da dette Spørgsmaal udeblev, var jeg lige vidt.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg havde prøvet og forkastet flere Indledninger, da den mindste Pige begyndte at klynke over, at hun frøs.",0.0,0.0,0.0,1.0,neutral,Minna
+"Den stakkels Lærerinde saae ingen anden Udvei, end at tage sit eget Shawl af og svøbe hende ind deri.",0.0,0.0,0.0,1.0,neutral,Minna
+"Da jeg selv er temmelig kuldskjær, kunde jeg levende føle, hvad det maatte være for hende at komme af med Shawlet, især da jeg havde lagt Mærke til, hvor velbehagelig hun trak det fastere om Armene og puttede den lille Hage ned mellem de bløde Folder.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg følte, at min Tid nu var kommen, og tilbød hende ridderlig min Plaid.",0.0,0.0,0.0,1.0,neutral,Minna
+"-- Som jeg havde ventet, afslog hun det meget venlig; -- jeg trængte jo selv til den og vilde sikkert forkjøle mig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Da jeg saa meget mindre kunde benægte dette, som jeg plagedes af en Snue, der allerede et Par Gange havde faaet mig til at nyse saa voldsomt, at den lille Pige var bleven bange og den større havde haft sin Nød med ikke at briste i Latter, saa vidste jeg ingen anden Udvei, for dog ikke at slippe altfor flovt fra det, end at sige, at jeg vilde ind i Røgkahytten, hvor jeg dog ingen Brug havde for Plaiden.",-0.5574,0.0,0.045,0.955,negative,Minna
+"Den unge Pige haabede, at det ikke var hende, der forhindrede mig i at ryge her, men jeg holdt fast ved, at jeg paa ingen Maade vilde plage hende med Tobaksrøg, hvorved jeg smykkede mig med en hensynsfuld Finfølelse, som slet ikke tilkom mig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg havde desuden nu trukket frisk Luft, og det blev mig i Længden dog en Smule for kjøligt, føiede jeg til; det lykkedes mig saaledes at tiltræde mit Tilbagetog, efterladende min Plaid som -- sans comparaison -- Joseph sin Kjortel.",-0.5574,0.0,0.087,0.913,negative,Minna
+"Da jeg atter sad paa den voxdugsbetrukne Bænk i det lille kvalmende Rum, havde tændt mig en Cigar og faaet et Glas Øl sat foran mig, kunde jeg ikke skjule for mig selv, at mit første Forsøg paa en Tilnærmelse egentlig ikke havde været synderlig snedigt, da en saa grundig Fjernelse var bleven dets umiddelbare Følge.",-0.4767,0.0,0.054,0.946,negative,Minna
+"En lidt dristigere Cavaler havde maaske faaet maget det saaledes, at man var enedes om Brugen af det meget lange Shawl, eller hvis det var utænkeligt, saa kunde den lille Pige være bleven sat ved Siden af mig og dækket til.",0.0,0.0,0.0,1.0,neutral,Minna
+"Kort sagt, jeg havde baaret mig ad som en rigtig Dumrian, fandt jeg, og jeg ærgrede mig saa meget mere derover, som det forrige Opholdssted i og for sig var behageligere, og jeg mente allerede at spore Anlæg til Hovedpine.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det gav et Stød, og vi laa stille.",0.0,0.0,0.0,1.0,neutral,Minna
+Ovenover slæbtes der med Kofferter og Kasser.,0.0,0.0,0.0,1.0,neutral,Minna
+Det var Pirna.,0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg saae ligegyldig ud paa Kjøbstadens Smaahuse med de mange grønne Træer og paa Kirkens høie, teltagtige Tegltag -- og mindre følelsesløst paa dens Akropolis, Sonnenstein, tidligere en Fæstning og nu en stor Sindssygeanstalt.",0.0,0.0,0.0,1.0,neutral,Minna
+"Canalettos Pensel har mangfoldige Gange forherliget dette Billed, men altid i bedre Belysning end det nu havde.",0.0,0.0,0.0,1.0,neutral,Minna
+"Men som om Naturen vilde bøde paa denne Mangel, gled der netop nu et Solglimt over Slotsgavlen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Nu, da jeg gjenkalder mig denne Scene, synes jeg, det var ligesom om en himmelsk Finger pegede paa denne Bygning for at henlede min Opmærksomhed paa den og røre mit Hjerte med en Anelse om de Følelser, med hvilke jeg senere skulde betragte den -- med hvilke jeg nu, da jeg skriver dette, ser den for min Sjæls Øie, indtil mit legemlige blændes af Taarer, og jeg er nødt til at lægge Pennen fra mig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Men den Gang betød denne pegende Straale intet andet for mig end et glædeligt Tegn paa, at Veiret klarede.",0.0,0.0,0.0,1.0,neutral,Minna
+"Dette Lys blev gradvis stærkere og bredte sig, da Mure og Gavle begyndte at bevæge sig og langsomt glide tilhøire.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg skimtede endogsaa en Smule blaa Luft over dem, og idet Kirketaget forsvandt, havde det en mat Blyglands.",0.0,0.0,0.0,1.0,neutral,Minna
+Men saa vaskede Regnen igjen ned ad Ruden.,0.0,0.0,0.0,1.0,neutral,Minna
+"Efterhaanden som vi kom ind i Sandstenslandet, lød Regnen mindre heftig.",0.0,0.0,0.0,1.0,neutral,Minna
+Af Røgkahyttens dampende Beboere forsvandt den Ene efter den Anden og hørtes trampe ovenpaa.,0.0,0.0,0.0,1.0,neutral,Minna
+Ogsaa jeg gik op.,0.0,0.0,0.0,1.0,neutral,Minna
+"Det regnede temmelig tæt, men Draaberne blinkede i et mælkehvidt Lys, der sivede igjennem, uden at man ret vidste hvorfra.",0.0,0.0,0.0,1.0,neutral,Minna
+"Stenfladerne i de gamle lave Brud, der her ere ganske brunrøde, syntes at have faaet Fernis, og af den bakkede Bred tilhøire lyste en bleggrøn Skovtop gjennem Regntaagen -- vistnok et godt Stykke borte.",0.0,0.0,0.0,1.0,neutral,Minna
+"Regnen, der næsten var holdt op et Øieblik, blev tættere igjen, men samtidig tog ogsaa Lysningen til.",0.0,0.0,0.0,1.0,neutral,Minna
+Jeg gik ned ad Kahytstrappen og traf ganske rigtig mit Selskab i Forrummet.,0.0,0.0,0.0,1.0,neutral,Minna
+"Gouvernanten læste ikke længer, men fortalte heller ikke Historier, da hendes lille Plageaand var falden i sød Slummer.",0.0,0.0,0.0,1.0,neutral,Minna
+"Denne Gang afventede jeg ikke Spørgsmaalet, om det klarede?",0.0,0.0,0.0,1.0,neutral,Minna
+"men fortalte strax, at det saae ud til at blive godt Veir.",0.0,0.0,0.0,1.0,neutral,Minna
+"Den unge Pige smilede ganske fornøiet, og takkede mig for Laan af Plaiden, som hun gav sig til at lægge omhyggelig sammen; da den var saa stor som en lille Selskabsdug, maatte jeg hjelpe hende dermed, og vakte hendes Munterhed ved at tage keitet fat; der var netop saa megen Plads, at vi kunde stramme den ud i hele dens Længde, og saa manøvrerede vi henimod hinanden paa den bekjendte Maade, til vore Hænder mødtes.",0.0,0.0,0.0,1.0,neutral,Minna
+"Men før jeg kunde faa sagt Noget, var hun med et hurtigt »Tak« allerede sprunget op ad Trappen, overladende det til den større Pige at purre den Lille op.",0.0,0.0,0.0,1.0,neutral,Minna
+"Der var snart overfyldt af Passagerer paa det fugtig glindsende Dæk, hvor man endnu ikke kunde sidde paa Bænkene.",0.0,0.0,0.0,1.0,neutral,Minna
+"Kun enkelte Draaber glimtede gjennem Luften, som var ganske fugtig varm; oventil blaanede Himlen, Floddalen stod endnu fuld af en lys Em, og Skovene paa Klippeterrasserne dampede saa stærkt, som om enhver Grantop var en lille Skorsten, hvorfra en fin blaa Røg krusede sig tilveirs og opløste sig i Solglandsen.",0.0,0.0,0.0,1.0,neutral,Minna
+Forude glitrede Flodvandet skarpt og blændende.,0.0,0.0,0.0,1.0,neutral,Minna
+"Man saae allerede et Par Smaahuse af Rathen ved Foden af Basteis lodrette Fjeldmure og bagved dem en underlig vild og sønderrevet Klippemasse, Gamrigsstenen, som jeg havde bemærket fra mit Vindue.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg gav mig til at lede efter min Smule Reisegods, som endelig fandtes i god Behold under Persenningen.",0.2732,0.116,0.0,0.884,positive,Minna
+"Saaledes havde jeg ikke faaet Tid til at se mig mere om efter den smukke Reisefælle, da Raabet lød: » Rathen, am Steuer absteigen ,« og jeg fik travlt med at trænge mig agterud med mine Sager.",0.0,0.0,0.0,1.0,neutral,Minna
+"Da jeg naaede derhen, saae jeg til min Glæde det graa Slør vimple forrest i Rækken, og strax efter gik hun over Landgangsbroen med sine Smaafolk.",0.0,0.0,0.0,1.0,neutral,Minna
+"Inden jeg havde faaet fat i en Drager, vare de komne mig af Syne.",0.0,0.0,0.0,1.0,neutral,Minna
+"III Hvis jeg maatte raade, saa skulde der paa et af de mest fremragende Punkter i denne Egn opstilles en Skamstøtte for den Mand, som har opfundet det skrækkelige Navn: »Sachsisk Schweiz«.",0.0,0.0,0.0,1.0,neutral,Minna
+"Sikkert er det, at Ingen har skadet den smukke lille Klippe-Egn mer, end ikke »Bjergforeningerne«.",0.0,0.0,0.0,1.0,neutral,Minna
+"Nu kommer enhver Besøgende hertil enten med en Erindring eller et Phantasibillede af Schweiz som Maalestok, sammenligner og vrager, og gjør sig vigtig med, at han har seet eller tænkt sig noget ganske anderledes Storartet, hvad det stakkels Land jo slet ikke har bedt ham om.",0.0,0.0,0.0,1.0,neutral,Minna
+"Men naar man kommer herhen uden nogen Fordring og tager Landet som det er -- fremfor Alt, naar man ikke tager det i Turiststormskridt, men lægger sig smukt hen for at leve og nyde, -- hvilken Rigdom af Naturskjønhed byder det En da ikke, fuld af Modsætninger, som ere forsonede i en ganske eiendommelig idyllisk Landlighed: Goldhed og frodig Fylde, vild og steil Sønderrevethed og dyrkede Fladstrækninger findes Side om Side eller over hinanden, og fra lys dirrende Hede træder man umiddelbart ind i fugtig-sval Skygge.",0.0,0.0,0.0,1.0,neutral,Minna
+"Og hvor udvider Lungerne sig i en friskere og mere sund krydret Luft end den, der stryger hen over disse Høider og fylder disse Skove og Klippedale?",0.0,0.0,0.0,1.0,neutral,Minna
+"Men for rigtig at finde sig til Rette, maa man sætte sig ind i denne Egns eiendommelige Natur, og forstaa, at det ikke er et Bjergland, man færdes i, men en Høislette, som ved Vandflod er bleven kløvet, gjennemgravet og udskyllet, hvorved Stenen er kommet frem snart som Furernes Vægge, snart som Ruiner midt i dem, saa at Klipperne mindre danne den ophøiede Del af Landskabet end dets Fordybninger.",-0.4588,0.0,0.043,0.957,negative,Minna
+"Derfor undres man i Begyndelsen over at se en frodig grøn Mark runde sig oppe over en brat Klippevægs ru Stenhud, som en Fløielssadel paa en Elefant, og man forbavses ved, efter at have gaaet gjennem bølgende Rugmarker, under sine Fødder at se et af disse vilde og forrevne Klippepartier med en Uendelighed af Tinder og Taarne og hundred Fod høie Sandstenskegler.",0.0,0.0,0.0,1.0,neutral,Minna
+"I Begyndelsen ærgrer man sig næsten lidt over denne Modsætning, men man ender med at holde af den.",0.0,0.0,0.0,1.0,neutral,Minna
+"Og ovenpaa denne Høislette med et Klippeland under sig, er saa igjen disse enkelte Bjerge skudt op, der paa Afstand væsentlig give Landet dets Physiognomi, et vortet Physiognomi, hvis jeg tør bruge et uædelt Billede; thi sete i nogle Mils Afstand ligne de mest af Alt Kjæmpevorter, disse »Stene«, enten de nu kaldes Kongestenen, Pavestenen, Liliestenen og hvad de alle hedde; ja selv det totusind Fod høie, uendelig langstrakte Snebjerg er kun en mere storartet Variation.",0.5859,0.049,0.0,0.951,positive,Minna
+"-- Enkelte, som de forbundne Vinterbjerge, emancipere sig ganske vist fra Typen men de ere ogsaa lige paa Grændsen, og efterhaanden som man kommer ind i »det Böhmiske«, bliver en almindeligere Bjergnatur fremherskende.",0.0,0.0,0.0,1.0,neutral,Minna
+"Rigtignok ligger allerede » Schneeberg « inde i Böhmen, og overhovedet er Grændsen mellem Bjergformerne ikke trukken saa skarpt som den mellem Kaffe-Kvaliteterne: for denne er i den første bøhmiske Flække saa fortrinlig, som om man allerede var i Karlsbad, medens man i den sidste sachsiske drikker den berømte » Bliemchen-Kaffee «, et Dekogt, der skylder sit Navn den Egenskab, at man igjennem det kan se en lille Blomst, som er malet i Bunden at Koppen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg havde netop efter Middagen nydt det sædvanlige Maal af denne Drik, der paa ingen Maade truer med Hjertebanken.",0.3612,0.122,0.0,0.878,positive,Minna
+"Den foregaaende Dag havde jeg smagt paa den bøhmiske i Prebischthor og to Dage før -- -- kort sagt, jeg havde rørt mig ganske godt og var ikke oplagt til nogen længere Udflugt.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg sad og døsede ved mit Vindue og overveiede, om jeg gad være over at gaa ned i Amselgrunden.",-0.4767,0.0,0.154,0.846,negative,Minna
+Det var meget varmt og blikstille.,0.0,0.0,0.0,1.0,neutral,Minna
+"De lette Skyer, der vare ligesom tværede ud i den graablaa Himmel, havde et rødligt Skjær.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det solbeskinnede Græs og Løv straalede ikke, men havde en mere intensiv grøn Farve end ellers; Skyggen mellem Klipperne var uigjennemsigtig, og Slagskyggerne, som de kastede paa hinanden, havde ingen skarpe Rande.",0.0,0.0,0.0,1.0,neutral,Minna
+"Ovre i Grunden kukkede en Gjøg uafbrudt, hvad den allerede havde gjort i timevis, og denne regelmæssige Lyd bidrog til hele Naturens søvndyssende Virkning .... Jeg havde afgjort ikke Lyst til at gaa mange hundrede Skridt bort; -- men sove kunde jeg ikke, læse gad jeg ikke, og om at skrive Breve kunde der ikke være Tale.",0.0,0.0,0.0,1.0,neutral,Minna
+I denne Raadvildhed faldt de »skyggefulde Promenader« mig ind.,0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg havde hidtil ikke savnet dem, men nu vilde det nok have været mig kjært, om de havde haft en nyttigere Existens end den i Værtindens Praleri.",0.0,0.0,0.0,1.0,neutral,Minna
+"I det samme faldt mit Blik paa en lille Allé af unge Birke; den begyndte ganske pludselig en halvhundrede Skridt fra mit Vindue, som den stilede imod; men snart bøiede den om og forsvandt bag den kratbevoxede Rand af Bakken, der temmelig brat sænkede sig ned mod en lille Kjedeldal.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg havde ment, at denne Birke-Allé hørte til den fine Nabovilla; men det var mig nu paafaldende, at den ikke ved nogen Art Gjærde var adskilt fra denne Jordlod, der hørte til vort Hus, og som var optaget af et Stykke med Kartofler, et Par Salatbede, nogle Rækker Ærteris og en Græsmark; denne var det, som pludselig stoppede for Alléen, og længer henne stødte den op til Krattet paa Bakkeranden, hvor man heller ikke saae noget Hegn eller Rækværk.",0.2023,0.023,0.0,0.977,positive,Minna
+"Det var altsaa muligt, at ogsaa det øverste af Afhanget tilhørte min Værtinde, og at den saa pludselig afbrudte Allé kun ventede paa en Fuldendelse af det paabegyndte Anlæg for at forene sig med en Gang fra Huset; dernede kunde følgelig de skyggefulde Promenader befinde sig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg gjorde i Tanken den brave Kone Afbigt, fordi jeg saa vantro havde spottet dem, og besluttede strax at benytte mig af min saa høit lovpriste Rettighed som Logerende til at gaa » da'rim und dort'nim «.",0.5267,0.091,0.0,0.909,positive,Minna
+"Jeg gik ikke hen til Birke-Alléen, men skraaede over til Krattet, der viste sig at bestaa af Hassel og Tjørn.",0.0,0.0,0.0,1.0,neutral,Minna
+"Markgræsset, der var fuldt af Bellis og traadfligede Nelliker, trængte ind ad Aabningerne mellem de temmelig spredte Buske, men standsedes snart af en grusbelagt Gang.",0.0,0.0,0.0,1.0,neutral,Minna
+"Paa den anden Side af denne Gang sænkede Græsskraaningen sig temmelig brat ned mod en lille Sidedal, der var fuld af ung Naale- og Birkeskov.",0.0,0.0,0.0,1.0,neutral,Minna
+"Tilhøire afløstes Grusgangen snart af en beskeden Fodsti, der tabte sig inde mellem Granstammerne; jeg fulgte den tilvenstre for at gjøre mig bekjendt med Anlægget.",0.0,0.0,0.0,1.0,neutral,Minna
+"Neppe var jeg gaaet en Snes Skridt, før jeg stod foran en net lille Grotte eller snarere Klippenische.",0.0,0.0,0.0,1.0,neutral,Minna
+"Ellers saae man paa denne Bakke kun Græstørv og Sand, men her var Stenen brudt igjennem, og idet den ludede noget fremover, som om den havde løbet Panden gjennem Jordlaget, og trængte lidt frem ved Siderne, ligesom med fremskudte Skuldre, havde den af sig selv dannet denne Siddeplads, hvor der næsten hele Dagen var Skygge.",0.0,0.0,0.0,1.0,neutral,Minna
+"Der var anbragt et Bord og et Par Havebænke, og midt paa Stenvæggen stod malet » Sophien-Ruhe «.",0.0,0.0,0.0,1.0,neutral,Minna
+Et Øieblik blev jeg staaende ganske imponeret; jeg havde ikke tiltroet Madam Richter at have saadan en Trumf i Baghaanden.,0.0,0.0,0.0,1.0,neutral,Minna
+"Saa tog jeg Plads paa den magelige Bænk; men jeg følte mig dog ikke helt vel tilmode, og det blev mig mer og mer tvivlsomt, hvorvidt jeg nu ogsaa havde Ret til at være her.",0.0,0.0,0.0,1.0,neutral,Minna
+"Medens jeg plagede mig med disse Tanker, fik jeg Øie paa en lille Bog, der laa paa Bænken.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg tog den op og bladede i den og opdagede til min Forbavselse, at det var et tydsk-dansk Lexikon.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg vidste ikke af, at jeg havde nogen Landsmand i »Pensionen« -- hvad denne Caserne-Villa kaldtes tiltrods for, at den kun havde og kun kunde have Logerende.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hvem kunde det vel være, der havde den i Tydskland yderst sjældne Passion at studere Dansk?",0.4588,0.176,0.0,0.824,positive,Minna
+.... Ved det slidte Bind var der mig for Resten noget Bekjendt.,0.0,0.0,0.0,1.0,neutral,Minna
+"Gruset knirkede under lette, hurtige Skridt.",0.0,0.0,0.0,1.0,neutral,Minna
+"Idet jeg hævede Hovedet, traadte en ung Pige frem paa Gangen.",0.0,0.0,0.0,1.0,neutral,Minna
+Det var den smukke Lærerinde fra Skibet.,0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg havde, siden jeg kom, haft saa travlt med Ture og Udflugter, at der ikke var blevet Tid til at længes efter at forny dette flygtige Bekjendtskab, og navnlig i de sidste Dage havde jeg slet ikke tænkt paa hende.",0.0,0.0,0.0,1.0,neutral,Minna
+"I dette Øieblik faldt det mig ind, at Skolelæreren havde talt om en smuk lille Gouvernante hos Kammerherrens i den fine Villa.",0.2023,0.087,0.0,0.913,positive,Minna
+"Hun havde aabenbart været sikker paa ikke at træffe Nogen, for hun udstødte uvilkaarligt et lille Skrig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg var naturligvis sprunget op og krammede en hel Mængde Beklagelser og Undskyldninger ud: Yttringer af min Værtinde om vore skyggefulde Promenader havde givet mig Anledning til at tro .... men jeg mærkede nu, at jeg, meget mod min Villie havde trængt mig ind paa fremmed Grund .... jeg beklagede dette saa meget mer, som det syntes, at jeg havde voldt hende nogen Forskrækkelse.",0.0,0.0,0.0,1.0,neutral,Minna
+"Den unge Pige smilede forlegen: -- Deres Feiltagelse er meget forstaaelig, saa De har egentlig ikke Noget at gjøre Undskyldning for -- og heller ikke at beklage -- for min Skyld.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hendes Blik faldt nu paa den lille Bog, som jeg i min Forvirring stod og dreiede mellem Fingrene.",0.0,0.0,0.0,1.0,neutral,Minna
+I det samme blev hun ganske rød i Hovedet.,0.0,0.0,0.0,1.0,neutral,Minna
+-- Maaske er det Deres Bog?,0.0,0.0,0.0,1.0,neutral,Minna
+-- Jeg kom netop for at hente den.,0.0,0.0,0.0,1.0,neutral,Minna
+"-- Saa maa jeg gjøre Dem nok en Undskyldning, fordi jeg var saa næsvis at blade i den .... Det var en underlig Overraskelse, -- jeg er nemlig Dansk, skal jeg sige Dem.",0.0,0.0,0.0,1.0,neutral,Minna
+"-- Det veed jeg nok, svarede hun, jeg kunde høre det paa de første Ord, som De henvendte til mig ombord paa Dampbaaden.",0.0,0.0,0.0,1.0,neutral,Minna
+"Denne Erklæring var ikke just smigrende for mig, thi jeg nærede det lønlige Haab, at mit Tydsk var saa godt, at en Inden-Tydsker kunde holde mig for en fjern Landsmand.",0.0,0.0,0.0,1.0,neutral,Minna
+-- Saa har De vel omgaaedes Danske meget?,0.0,0.0,0.0,1.0,neutral,Minna
+spurgte jeg.,0.0,0.0,0.0,1.0,neutral,Minna
+"-- Jeg har kjendt enkelte Landsmænd af Dem, svarede hun, og saae pludselig helt alvorlig ud.",0.0,0.0,0.0,1.0,neutral,Minna
+"-- Og dette Bekjendtskab har ført til, at Frøkenen gjorde sig bekjendt med et saa lidet læst Sprog?",0.0,0.0,0.0,1.0,neutral,Minna
+"-- Ja, svarede hun lidt langtrukkent og som om hun overveiede, hvorledes hun hurtigst kunde afslutte denne Samtale.",0.0,0.0,0.0,1.0,neutral,Minna
+"-- Dersom jeg maaske paa nogen Maade kunde være Frøkenen behjelpelig .... -- Nei, -- desværre!",0.0,0.0,0.0,1.0,neutral,Minna
+"Det vil sige, der har nemlig været Tale om, at jeg skulde som Gouvernante til en Familie i Danmark, men det er nu opgivet.",0.0,0.0,0.0,1.0,neutral,Minna
+"Denne nøiagtige Meddelelse om Noget, der jo slet ikke vedkom mig, var mig overraskende, og jeg ventede allerede, at hun skulde føre Samtalen videre, da hun i en reserveret Tone sagde: -- Det vilde gjøre mig meget ondt at være den, der forjog Dem fra denne behagelige Siddeplads.",0.0,0.0,0.0,1.0,neutral,Minna
+"Men De behøver virkelig slet ikke at gaa, for jeg kjender Husets Skik: der kommer aldrig Nogen i Haven eller Anlægget paa denne Tid.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det var ogsaa derfor, at jeg blev lidt forskrækket, da jeg saae Nogen sidde her, jeg er temmelig nerveus.",0.0,0.0,0.0,1.0,neutral,Minna
+Farvel!,0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg var ved at vove et Forsøg paa at faa hende til at blive, da jeg altsaa vidste, at vi kunde være uforstyrrede; men i hendes Blik, der søgte bort, bemærkede jeg en altfor fugtig Glands, som i Forbindelse med en rød Plet paa Næsen og en Trækning ved Mundvigen overbeviste mig om, at hun var lige paa Nippet til at briste i Graad, en Opdagelse, der gjorde mig fuldstændig confus.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg fremmumlede Noget om hendes store Venlighed og om, at jeg dog ikke vilde misbruge den ved at blive, i alt Fald -- vovede jeg at tilføie -- naar hendes Selskab ikke længer .... Men borte var hun allerede.",0.0,0.0,0.0,1.0,neutral,Minna
+"Forresten blev jeg dog siddende i nogen Tid, ligesom fortumlet af det uventede Møde, og forsøgte at fastholde Billedet af den unge Pige, som denne anden Gang havde gjort et endnu stærkere Indtryk paa mig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg var nu ganske paa det Rene med, at hun var den nydeligste Pige, som jeg havde seet.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hun havde haft en Havehat paa, der foran aabnede sig om Hovedet med en gammeldags kalecheagtig Form, og jeg havde derved faaet at se, at hendes Pande var ualmindelig høi og velformet.",0.0,0.0,0.0,1.0,neutral,Minna
+"Men især havde de Øine været mig paafaldende, som husedes temmelig dybt inde under denne Hvælving.",0.0,0.0,0.0,1.0,neutral,Minna
+"Naar hun lukkede dem helt op, var der næsten ingen Afstand mer mellem Vipper og Bryn -- af hvilke ingen var fremtrædende -- saa skarpt og sikkert var Øienhulen skaaren ind.",0.0,0.0,0.0,1.0,neutral,Minna
+"Øinene selv vare mere paafaldende ved deres Glands end ved deres Størrelse og havde en eiendommelig hurtig Bevægelse, som om de smuttede et andet Sted hen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Deres Iris, hvor gule og grønlige Straaler spillede over den brune Grundfarve, gjorde et Indtryk, som naar man i en skyggefuld Skovkløft ser ned i en Bæk, hvor dæmpede Solglimt lege nede paa Bunden, og Blikket vexlede ligesaa hurtig Udtryk, som et saadant Vand gjør det under Løvets og Skyernes Bevægelser.",0.0,0.0,0.0,1.0,neutral,Minna
+Jeg kunde slet ikke glemme dem.,0.0,0.0,0.0,1.0,neutral,Minna
+Og saa var dette Træf med det danske Lexikon mig høist paafaldende.,0.0,0.0,0.0,1.0,neutral,Minna
+"Det forekom mig som et Fingerpeg, en Styrelse, eller kort sagt, Noget, der havde sin Betydning og ikke kunde blive staaende saaledes isoleret.",-0.5574,0.0,0.141,0.859,negative,Minna
+"Jeg troede ikke rigtig paa hendes Forklaring, at hun skulde have været som Lærerinde til Danmark; skjøndt, hvorfor skulde hun da have sagt det?",0.0,0.0,0.0,1.0,neutral,Minna
+"Men fremfor Alt, hvorfor havde hun været lige ved at græde, uden optænkelig Grund!",0.0,0.0,0.0,1.0,neutral,Minna
+"Alt dette tænkte jeg frem og tilbage over, medens jeg fordybede mig ind i Kløften, og gjennem den store Naaleskov gik helt over til Polenzgrunden, hvor jeg spiste til Aften i Walthersdorfer-Møllen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det Trykkende i Heden havde fortaget sig, og det var blevet det skjønneste Eftermiddags-Veir.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg nød ogsaa Naturen, men paa en anden Maade end de foregaaende Dage, ikke med denne ligefrem modtagende Ro, men med en aandelig Prikken og Vibreren, der svarer til en lignende mere legemlig Fornemmelse, naar man har drukket en Del god Vin.",0.2732,0.049,0.0,0.951,positive,Minna
+"Den er paa ingen Maade ubehagelig, men samtidig med, at den gjør Opfattelsesevnen lettere paavirkelig, gjør den den ogsaa mindre distinkt.",0.0,0.0,0.0,1.0,neutral,Minna
+Derved bliver det da lettere for den »kjære stadige Tanke« at forbinde sig med alle Indtryk.,0.0,0.0,0.0,1.0,neutral,Minna
+"Saae jeg ned i den hurtig og stille rindende Polenz, saa erindrede mig dens grønlig brune Skjær med gyldne Blink af Eftermiddagssolen om hendes underlige Øine.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg opdagede nogle smukke Blomster, og strax tænkte jeg: naar jeg nu allerede stod paa en saadan Fod med hende, at hun gjerne modtog en Buket af mig.",0.0,0.0,0.0,1.0,neutral,Minna
+"Eller jeg laa paa en steil Skrænt og hørte Granerne suse over mig, og det faldt mig ind: hvis jeg nu var Digter, saa vilde jeg vist i dette Øieblik blive inspireret til et Digt, som kunde vække hendes Beundring, og hvori jeg ogsaa kunde lade mine Følelser komme til Orde.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg fandt endogsaa paa et Indhold: hun var en Gaade, som jeg bestandig maatte gruble over; og »det bares mig for« -- dette Udtryk fandt jeg særdeles poetisk -- at hvis jeg kunde finde Løsnings-Ordet, saa vilde det ogsaa være det, der »hævede livets Skat«.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg kunde imidlertid ikke faa Ordene til at rime, end sige da, at de skulde danne nogen Art rhytmisk Forbindelse.",0.0,0.0,0.0,1.0,neutral,Minna
+"Da jeg kom tilbage til Rathen, var der temmelig mørkt.",0.0,0.0,0.0,1.0,neutral,Minna
+"En smal Maanestrimmel skimtedes kun dunkelt lige over Bakken, paa hvilken Villaen laa.",0.0,0.0,0.0,1.0,neutral,Minna
+Mellem Havebuskene og i Krattet ved Bækken sværmede Ildfluerne.,0.0,0.0,0.0,1.0,neutral,Minna
+"Stilfærdig svævede de smaa Gnister hid og did, steg og dalede, som om det var bitte Lamper, der blev baarne af usynlige Alfer; undertiden lyste enkelte Blade af en Busk op omkring en, der var helt skjult; af og til fløi en saa høit, at man saae den op imod Himlen som en Stjerne, der bevægede sig.",-0.1027,0.0,0.024,0.976,negative,Minna
+Andre Stjerner viste sig heller ikke; det var atter blevet lummert og stille.,0.0,0.0,0.0,1.0,neutral,Minna
+"-- Ogsaa de foregaaende Aftener havde jeg nydt dette forunderlige ætheriske Fænomen af Natur-Erotikken, og det var vel ikke blot, fordi det var rigest denne Gang, at det nu betog mig paa en ganske anden Maade og satte mig i en ubeskrivelig Stemning.",0.0,0.0,0.0,1.0,neutral,Minna
+"Og ærlig talt, hvad har det at betyde med disse evige Analyser af Stemninger, som moderne Forfattere føle sig forpligtede til at diske op med?",0.0,0.0,0.0,1.0,neutral,Minna
+Som om Nogen f. Ex.,0.0,0.0,0.0,1.0,neutral,Minna
+"kunde gjøre sig en Forestilling om Vand, fordi han fik at vide, at det bestod af Ilt og Brint i et Forhold af en til to, om han saa nok saa godt kjendte baade Ilt og Brint!",0.0,0.0,0.0,1.0,neutral,Minna
+"det maatte da være Vor-Herre selv, og saa havde han vel eo ipso skabt Vandet, saa det takker Pokker ham for.",0.0,0.0,0.0,1.0,neutral,Minna
+"Kun saa meget kan jeg sige, at jeg havde Hjertebanken, mens jeg steg op ad Bakken og hyppig standsede for at se ned over Dalen, hvor de smaa Lyspunkter bevægede sig imellem hverandre; enkelte Steder lyste ogsaa Løvrammen om en lille blank Rude, og rundt om mere fornam end saae Blikket de steile Klippemasser, der alle syntes at være lige nær.",-0.4588,0.0,0.048,0.952,negative,Minna
+Paa Stentrinene op til Døren saae jeg endnu en lille ensom Glød sprede sit Fosfor-Lys.,0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg strøg en Svovlstik af og opdagede en lille graa og lodden Klump, der atter gav Plads for en Gnist, da Svovlstikken slukkedes.",0.0,0.0,0.0,1.0,neutral,Minna
+"Iøvrig var jeg bange for at forstyrre den, thi jeg havde en mystisk Følelse overfor denne Sct.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hansorm, som jeg nu tre Aftener i Træk havde seet sidde nøiagtig paa den samme Plet, i det indre Hjørne af Trinet lige ved et Kjeldervindue; og jeg havde udtrykkelig forvisset mig om, at den ikke var der om Dagen.",0.0,0.0,0.0,1.0,neutral,Minna
+"Hvad foregik der vel i et saadant lille Væsen, naar det Aften efter Aften fandt den bestemte Vei til sit Stevnemøde?",0.0,0.0,0.0,1.0,neutral,Minna
+"eller maaske var den hver Gang bleven skuffet og kom dog trøstig med sin erotiske Diogenes Lygte, der ikke søgte, hvad den nu havde fundet: et Menneske, men en Hun, og sad dèr i Tillid til, at dens brændende Kjærlighed her paa sit ophøiede Stade nok skulde trylle sin Gjenstand til sig .... Havde maaske ogsaa hos os en saadan stille, haardnakket Lidenskab en uimodstaaelig Magt, selv om man her kun figurlig talt kan »se Hjertet brænde gjennem Vesten«?",-0.8834,0.0,0.121,0.879,negative,Minna
+"Man skulde tro, at jeg havde haft en særlig Brug for en saadan overordentlig Kraft, for medens jeg kastede mig om paa mit Leie (der altid var en Smule klamt), tænkte jeg bestandig paa den lille forelskede Lysgiver, og saavidt jeg husker spillede den ogsaa en Rolle i mine temmelig forvildede Drømme.",0.0,0.0,0.0,1.0,neutral,Minna
+"IV Da jeg den næste Morgen gik ud, saae jeg nøie efter, ikke blot paa Stentrinene, men ogsaa i den lille Vindues-Fordybning; men Sct.",0.0,0.0,0.0,1.0,neutral,Minna
+Hansormen var forsvunden.,0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg aftalte med mig selv, at hvis den fandtes der igjen om Aftenen, skulde det være et Varsel om, at der vilde udvikle sig et nærmere Forhold mellem mig og min smukke Naboerske.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg gik lige hen til Skolelæreren, som jo havde bedet mig om at besøge ham for at faa Anvisning paa lønnende Udflugter, -- og som var en fjern Slægtning af hende.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det var Ferie, og jeg traf ham i Kjøkkenhaven foran Huset, hvor han arbeidede, med et Uhyre af en forreven Sivhat paa Hovedet.",0.0,0.0,0.0,1.0,neutral,Minna
+Han blev øiensynlig glad ved Besøget.,0.4588,0.375,0.0,0.625,positive,Minna
+"Da vi havde vexlet de behørige Bemærkninger om det gode Veir, der saae ud til at ville holde sig, udspurgte han mig om, hvor jeg havde været, og fandt snart en Tour, som var mig ubekjendt, og som jeg ikke let vilde kunne gjøre alene.",0.0,0.0,0.0,1.0,neutral,Minna
+"Jeg tog naturligvis gjerne mod hans Forslag, at vi skulde gaa sammen strax efter Middag.",0.0,0.0,0.0,1.0,neutral,Minna
+"Underveis var han -- ja, der er ikke andet Ord derfor end det tydske » kreuzfidel «.",0.0,0.0,0.0,1.0,neutral,Minna
+"Det viste sig, at han en lang Tid havde studeret, formodentlig mer paa Kneiperne end paa Universitetet, og Minderne fra den Tid var hans Livs Stolthed.",0.0,0.0,0.0,1.0,neutral,Minna
+"Han sang den ene Studentervise efter den anden fra »Kommers-Bogen«, der oftest udmærkede sig ved deres fuldstændige Meningsløshed, saasom: Auf der Mauer auf der Lauer sitz 'ne alte Wanze.",0.0,0.0,0.0,1.0,neutral,Minna
+"Sieh' mir doch die Wanze an, wie die Wanze tanzen kann.",-0.8316,0.0,0.464,0.536,negative,Minna
+-- Senere gav Veien Anledning til at komme frem med Viser fra Krigsaarene.,0.0,0.0,0.0,1.0,neutral,Minna
+"Naar jeg, der var lettere tilbens, under Opstigningen t",0.0,0.0,0.0,1.0,neutral,Minna

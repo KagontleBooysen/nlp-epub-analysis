@@ -1,0 +1,1395 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Cyrano de Bergerac This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.068,0.107,0.825,negative,Cyrano de Bergerac
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Cyrano de Bergerac
+"Title : Cyrano de Bergerac Author : Edmond Rostand Translator : Mary F. Guillemard Gladys Thomas Release date : March 1, 1998 [eBook #1254] Most recently updated: August 18, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/1254 Credits : Sue Asscher *** START OF THE PROJECT GUTENBERG EBOOK CYRANO DE BERGERAC *** Cyrano de Bergerac A Play in Five Acts By Edmond Rostand Translated from the French by Gladys Thomas and Mary F. Guillemard CONTENTS Dramatis personae Act I.",0.5994,0.065,0.0,0.935,positive,Cyrano de Bergerac
+Scene 1.I.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.II.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.III.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.IV.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.V.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.VI.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.VII.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Act II.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.I.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.II.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.III.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.IV.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.V.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.VI.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.VII.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.VIII.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.IX.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.X.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 2.XI.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Act III.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.I.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.II.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.III.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.IV.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.V.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.VI.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.VII.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.VIII.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.IX.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.X.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.XI.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 3.XII.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+ACT IV.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.I.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.II.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.III.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.IV.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.V.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.VI.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.VII.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.VIII.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.IX.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 4.X.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Act V. Scene 5.I.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 5.II.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 5.III.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 5.IV.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 5.V.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 5.VI.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Dramatis personae CYRANO DE BERGERAC CHRISTIAN DE NEUVILLETTE COUNT DE GUICHE RAGUENEAU LE BRET CARBON DE CASTEL-JALOUX THE CADETS LIGNIÈRE DE VALVERT A MARQUIS SECOND MARQUIS THIRD MARQUIS MONTFLEURY BELLEROSE JODELET CUIGY BRISSAILLE THE DOORKEEPER A LACKEY A SECOND LACKEY A BORE A MUSKETEER ANOTHER A SPANISH OFFICER A PORTER A BURGHER HIS SON A PICKPOCKET A SPECTATOR A GUARDSMAN BERTRAND THE FIFER A MONK TWO MUSICIANS THE POETS THE PASTRY COOKS ROXANE SISTER MARTHA LISE THE BUFFET-GIRL MOTHER MARGUERITE THE DUENNA SISTER CLAIRE AN ACTRESS THE PAGES THE SHOP-GIRL The crowd, troopers, burghers (male and female), marquises, musketeers, pickpockets, pastry-cooks, poets, Gascons cadets, actors (male and female), violinists, pages, children, soldiers, Spaniards, spectators (male and female), precieuses, nuns, etc.",-0.4084,0.0,0.025,0.975,negative,Cyrano de Bergerac
+Act I.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A Representation at the Hotel de Bourgogne.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"The hall of the Hotel de Bourgogne, in 1640.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A sort of tennis-court arranged and decorated for a theatrical performance.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"The hall is oblong and seen obliquely, so that one of its sides forms the back of the right foreground, and meeting the left background makes an angle with the stage, which is partly visible.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+On both sides of the stage are benches.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The curtain is composed of two tapestries which can be drawn aside.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Above a harlequin's mantle are the royal arms.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+There are broad steps from the stage to the hall; on either side of these steps are the places for the violinists.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Footlights.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Two rows, one over the other, of side galleries: the highest divided into boxes.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"No seats in the pit of the hall, which is the real stage of the theater; at the back of the pit, i.e., on the right foreground, some benches forming steps, and underneath, a staircase which leads to the upper seats.",-0.296,0.0,0.053,0.947,negative,Cyrano de Bergerac
+"An improvised buffet ornamented with little lusters, vases, glasses, plates of tarts, cakes, bottles, etc.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"The entrance to the theater is in the center of the background, under the gallery of the boxes.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"A large door, half open to let in the spectators.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"On the panels of this door, in different corners, and over the buffet, red placards bearing the words, 'La Clorise.'",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"At the rising of the curtain the hall is in semi-darkness, and still empty.",-0.2023,0.0,0.122,0.878,negative,Cyrano de Bergerac
+The lusters are lowered in the middle of the pit ready to be lighted.,0.25,0.156,0.094,0.75,positive,Cyrano de Bergerac
+Scene 1.I.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"The public, arriving by degrees.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Troopers, burghers, lackeys, pages, a pickpocket, the doorkeeper, etc., followed by the marquises.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Cuigy, Brissaille, the buffet-girl, the violinists, etc.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(A confusion of loud voices is heard outside the door.,-0.296,0.0,0.196,0.804,negative,Cyrano de Bergerac
+A trooper enters hastily.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE DOORKEEPER (following him): Hollo!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+You there!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Your money!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE TROOPER: I enter gratis.,0.0516,0.286,0.0,0.714,positive,Cyrano de Bergerac
+THE DOORKEEPER: Why?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE TROOPER: Why?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"I am of the King's Household Cavalry, 'faith!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE DOORKEEPER (to another trooper who enters): And you?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+SECOND TROOPER: I pay nothing.,-0.1027,0.0,0.318,0.682,negative,Cyrano de Bergerac
+THE DOORKEEPER: How so?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+SECOND TROOPER: I am a musketeer.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+FIRST TROOPER (to the second): The play will not begin till two.,0.34,0.179,0.0,0.821,positive,Cyrano de Bergerac
+The pit is empty.,-0.2023,0.0,0.375,0.625,negative,Cyrano de Bergerac
+"Come, a bout with the foils to pass the time.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(They fence with the foils they have brought.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A LACKEY (entering): Pst.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Flanquin.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+!,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+ANOTHER (already there): Champagne?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"THE FIRST (showing him cards and dice which he takes from his doublet): See, here be cards and dice.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He seats himself on the floor): Let's play.,0.34,0.255,0.0,0.745,positive,Cyrano de Bergerac
+"THE SECOND (doing the same): Good; I am with you, villain!",-0.2481,0.196,0.263,0.541,negative,Cyrano de Bergerac
+"FIRST LACKEY (taking from his pocket a candle-end, which he lights, and sticks on the floor): I made free to provide myself with light at my master's expense!",0.5562,0.126,0.0,0.874,positive,Cyrano de Bergerac
+A GUARDSMAN (to a shop-girl who advances): 'Twas prettily done to come before the lights were lit!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He takes her round the waist.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+ONE OF THE FENCERS (receiving a thrust): A hit!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+ONE OF THE CARD-PLAYERS: Clubs!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE GUARDSMAN (following the girl): A kiss!,0.4753,0.382,0.0,0.618,positive,Cyrano de Bergerac
+THE SHOP-GIRL (struggling to free herself): They're looking!,0.5562,0.339,0.0,0.661,positive,Cyrano de Bergerac
+THE GUARDSMAN (drawing her to a dark corner): No fear!,-0.69,0.0,0.448,0.552,negative,Cyrano de Bergerac
+No one can see!,-0.3595,0.0,0.454,0.546,negative,Cyrano de Bergerac
+"A MAN (sitting on the ground with others, who have brought their provisions): By coming early, one can eat in comfort.",0.3612,0.116,0.0,0.884,positive,Cyrano de Bergerac
+"A BURGHER (conducting his son): Let us sit here, son.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A CARD-PLAYER: Triple ace!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"A MAN (taking a bottle from under his cloak, and also seating himself on the floor): A tippler may well quaff his Burgundy (he drinks): in the Burgundy Hotel!",0.3382,0.087,0.0,0.913,positive,Cyrano de Bergerac
+THE BURGHER (to his son): 'Faith!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A man might think he had fallen in a bad house here!,-0.7424,0.0,0.44,0.56,negative,Cyrano de Bergerac
+(He points with his cane to the drunkard): What with topers!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(One of the fencers in breaking off, jostles him): brawlers!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He stumbles into the midst of the card-players): gamblers!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE GUARDSMAN (behind him, still teasing the shop-girl): Come, one kiss!",0.4199,0.231,0.097,0.672,positive,Cyrano de Bergerac
+THE BURGHER (hurriedly pulling his son away): By all the holies!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"And this, my boy, is the theater where they played Rotrou erewhile.",0.34,0.179,0.0,0.821,positive,Cyrano de Bergerac
+"THE YOUNG MAN: Ay, and Corneille!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"A TROOP OF PAGES (hand-in-hand, enter dancing the farandole, and singing): Tra' a la, la, la, la, la, la, la, lere.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"THE DOORKEEPER (sternly, to the pages): You pages there, none of your tricks!.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"FIRST PAGE (with an air of wounded dignity): Oh, sir!--such a suspicion!.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"(Briskly, to the second page, the moment the doorkeeper's back is turned): Have you string?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE SECOND: Ay, and a fish-hook with it.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"FIRST PAGE: We can angle for wigs, then, up there i' th' gallery.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"A PICKPOCKET (gathering about him some evil-looking youths): Hark ye, young cut-purses, lend an ear, while I give you your first lesson in thieving.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+SECOND PAGE (calling up to others in the top galleries): You there!,0.2714,0.16,0.0,0.84,positive,Cyrano de Bergerac
+Have you peashooters?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THIRD PAGE (from above): Ay, have we, and peas withal!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(He blows, and peppers them with peas.)",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE YOUNG MAN (to his father): What piece do they give us?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BURGHER: 'Clorise.',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE YOUNG MAN: Who may the author be?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BURGHER: Master Balthazar Baro.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+It is a play!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(He goes arm-in-arm with his son.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE PICKPOCKET (to his pupils): Have a care, above all, of the lace knee-ruffles--cut them off!",0.5411,0.2,0.0,0.8,positive,Cyrano de Bergerac
+"A SPECTATOR (to another, showing him a corner in the gallery): I was up there, the first night of the 'Cid.'",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PICKPOCKET (making with his fingers the gesture of filching): Thus for watches-- THE BURGHER (coming down again with his son): Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+You shall presently see some renowned actors.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"THE PICKPOCKET (making the gestures of one who pulls something stealthily, with little jerks): Thus for handkerchiefs-- THE BURGHER: Montfleury.",0.0258,0.055,0.0,0.945,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"SOME ONE (shouting from the upper gallery): Light up, below there!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BURGHER: .,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".Bellerose, L'Epy, La Beaupre, Jodelet!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A PAGE (in the pit): Here comes the buffet-girl!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE BUFFET-GIRL (taking her place behind the buffet): Oranges, milk, raspberry-water, cedar bitters!",-0.1759,0.0,0.124,0.876,negative,Cyrano de Bergerac
+(A hubbub outside the door is heard.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"A FALSETTO VOICE: Make place, brutes!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A LACKEY (astonished): The Marquises!--in the pit?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+ANOTHER LACKEY: Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+only for a minute or two!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Enter a band of young marquises.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A MARQUIS (seeing that the hall is half empty): What now!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+So we make our entrance like a pack of woolen-drapers!,0.4199,0.259,0.0,0.741,positive,Cyrano de Bergerac
+"Peaceably, without disturbing the folk, or treading on their toes!--Oh, fie!",0.742,0.411,0.0,0.589,positive,Cyrano de Bergerac
+Fie!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Recognizing some other gentlemen who have entered a little before him): Cuigy!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Brissaille!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Greetings and embraces.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: True to our word!.,0.4753,0.436,0.0,0.564,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".Troth, we are here before the candles are lit.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE MARQUIS: Ay, indeed!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Enough!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+I am of an ill humor.,-0.1779,0.266,0.354,0.38,negative,Cyrano de Bergerac
+"ANOTHER: Nay, nay, Marquis!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"see, for your consolation, they are coming to light up!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+ALL THE AUDIENCE (welcoming the entrance of the lighter): Ah!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(They form in groups round the lusters as they are lit.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Some people have taken their seats in the galleries.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Lignière, a distinguished-looking roue, with disordered shirt-front arm-in-arm with christian de Neuvillette.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Christian, who is dressed elegantly, but rather behind the fashion, seems preoccupied, and keeps looking at the boxes.)",0.2382,0.103,0.0,0.897,positive,Cyrano de Bergerac
+Scene 1.II.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The same.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Christian, Lignière, then Ragueneau and Le Bret.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: Lignière!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+BRISSAILLE (laughing): Not drunk as yet?,0.2584,0.289,0.0,0.711,positive,Cyrano de Bergerac
+LIGNIÈRE (aside to Christian): I may introduce you?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Christian nods in assent): Baron de Neuvillette.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Bows.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE AUDIENCE (applauding as the first luster is lighted and drawn up): Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CUIGY (to Brissaille, looking at Christian): 'Tis a pretty fellow!",0.5411,0.304,0.0,0.696,positive,Cyrano de Bergerac
+FIRST MARQUIS (who has overheard): Pooh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE (introducing them to Christian): My lords De Cuigy.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+De Brissaille.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CHRISTIAN (bowing): Delighted!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"FIRST MARQUIS (to second): He is not ill to look at, but certes, he is not costumed in the latest mode.",0.1695,0.077,0.0,0.923,positive,Cyrano de Bergerac
+LIGNIÈRE (to Cuigy): This gentleman comes from Touraine.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CHRISTIAN: Yes, I have scarce been twenty days in Paris; tomorrow I join the Guards, in the Cadets.",0.5994,0.259,0.0,0.741,positive,Cyrano de Bergerac
+FIRST MARQUIS (watching the people who are coming into the boxes): There is the wife of the Chief-Justice.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE BUFFET-GIRL: Oranges, milk.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"THE VIOLINISTS (tuning up): La--la-- CUIGY (to Christian, pointing to the hall, which is filling fast): 'Tis crowded.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CHRISTIAN: Yes, indeed.",0.4019,0.574,0.0,0.426,positive,Cyrano de Bergerac
+FIRST MARQUIS: All the great world!,0.6588,0.468,0.0,0.532,positive,Cyrano de Bergerac
+"(They recognize and name the different elegantly dressed ladies who enter the boxes, bowing low to them.",0.2023,0.145,0.105,0.75,positive,Cyrano de Bergerac
+The ladies send smiles in answer.),0.4767,0.383,0.0,0.617,positive,Cyrano de Bergerac
+SECOND MARQUIS: Madame de Guemenee.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: Madame de Bois-Dauphin.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+FIRST MARQUIS: Adored by us all!,0.4753,0.382,0.0,0.618,positive,Cyrano de Bergerac
+BRISSAILLE: Madame de Chavigny.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+SECOND MARQUIS: Who sports with our poor hearts!.,-0.5255,0.0,0.326,0.674,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: Ha!,0.4003,0.729,0.0,0.271,positive,Cyrano de Bergerac
+so Monsieur de Corneille has come back from Rouen!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE YOUNG MAN (to his father): Is the Academy here?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE BURGHER: Oh, ay, I see several of them.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"There is Boudu, Boissat, and Cureau de la Chambre, Porcheres, Colomby, Bourzeys, Bourdon, Arbaud.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.all names that will live!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+'Tis fine!,0.2714,0.677,0.0,0.323,positive,Cyrano de Bergerac
+FIRST MARQUIS: Attention!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Here come our precieuses; Barthenoide, Urimedonte, Cassandace, Felixerie.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+SECOND MARQUIS: Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+How exquisite their fancy names are!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Do you know them all, Marquis?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"FIRST MARQUIS: Ay, Marquis, I do, every one!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LIGNIÈRE (drawing Christian aside): Friend, I but came here to give you pleasure.",0.7992,0.417,0.0,0.583,positive,Cyrano de Bergerac
+The lady comes not.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+I will betake me again to my pet vice.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CHRISTIAN (persuasively): No, no!",-0.5707,0.0,0.701,0.299,negative,Cyrano de Bergerac
+"You, who are ballad-maker to Court and City alike, can tell me better than any who the lady is for whom I die of love.",0.4939,0.222,0.122,0.656,positive,Cyrano de Bergerac
+Stay yet awhile.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE FIRST VIOLIN (striking his bow on the desk): Gentlemen violinists!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He raises his bow.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE BUFFET-GIRL: Macaroons, lemon-drink.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(The violins begin to play.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CHRISTIAN: Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"I fear me she is coquettish, and over nice and fastidious!",-0.1759,0.196,0.244,0.56,negative,Cyrano de Bergerac
+"I, who am so poor of wit, how dare I speak to her--how address her?",-0.6113,0.0,0.235,0.765,negative,Cyrano de Bergerac
+"This language that they speak to-day--ay, and write--confounds me; I am but an honest soldier, and timid withal.",0.4497,0.203,0.114,0.683,positive,Cyrano de Bergerac
+"She has ever her place, there, on the right--the empty box, see you!",-0.2714,0.0,0.148,0.852,negative,Cyrano de Bergerac
+LIGNIÈRE (making as if to go): I must go.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CHRISTIAN (detaining him): Nay, stay.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: I cannot.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"D'Assoucy waits me at the tavern, and here one dies of thirst.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BUFFET-GIRL (passing before him with a tray): Orange drink?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: Ugh!,-0.4753,0.0,0.756,0.244,negative,Cyrano de Bergerac
+THE BUFFET-GIRL: Milk?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: Pah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BUFFET-GIRL: Rivesalte?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: Stay.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(To Christian): I will remain awhile.--Let me taste this rivesalte.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He sits by the buffet; the girl pours some out for him.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CRIES (from all the audience, at the entrance of a plump little man, joyously excited): Ah!",0.1232,0.192,0.169,0.639,positive,Cyrano de Bergerac
+Ragueneau!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE (to Christian): 'Tis the famous tavern-keeper Ragueneau.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"RAGUENEAU (dressed in the Sunday clothes of a pastry-cook, going up quickly to Lignière): Sir, have you seen Monsieur de Cyrano?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE (introducing him to Christian): The pastry-cook of the actors and the poets!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+RAGUENEAU (overcome): You do me too great honor.,0.8074,0.549,0.0,0.451,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"LIGNIÈRE: Nay, hold your peace, Maecenas that you are!",0.5848,0.322,0.0,0.678,positive,Cyrano de Bergerac
+"RAGUENEAU: True, these gentlemen employ me.",0.4215,0.359,0.0,0.641,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: On credit!,0.4389,0.591,0.0,0.409,positive,Cyrano de Bergerac
+He is himself a poet of a pretty talent.,0.7184,0.545,0.0,0.455,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+RAGUENEAU: So they tell me.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: --Mad after poetry!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"RAGUENEAU: 'Tis true that, for a little ode.",0.4215,0.318,0.0,0.682,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: You give a tart.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+RAGUENEAU: Oh!--a tartlet!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: Brave fellow!,0.5707,0.649,0.0,0.351,positive,Cyrano de Bergerac
+He would fain fain excuse himself!,0.1511,0.242,0.0,0.758,positive,Cyrano de Bergerac
+"--And for a triolet, now, did you not give in exchange.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+RAGUENEAU: Some little rolls!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE (severely): They were milk-rolls!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"And as for the theater, which you love?",0.6369,0.375,0.0,0.625,positive,Cyrano de Bergerac
+RAGUENEAU: Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+to distraction!,-0.4389,0.0,0.743,0.257,negative,Cyrano de Bergerac
+"LIGNIÈRE: How pay you your tickets, ha?--with cakes.",-0.1027,0.0,0.167,0.833,negative,Cyrano de Bergerac
+"Your place, to-night, come tell me in my ear, what did it cost you?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"RAGUENEAU: Four custards, and fifteen cream-puffs.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He looks around on all sides): Monsieur de Cyrano is not here?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+'Tis strange.,-0.2023,0.0,0.643,0.357,negative,Cyrano de Bergerac
+LIGNIÈRE: Why so?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+RAGUENEAU: Montfleury plays!,0.3164,0.534,0.0,0.466,positive,Cyrano de Bergerac
+"LIGNIÈRE: Ay, 'tis true that that old wine-barrel is to take Phedon's part to-night; but what matter is that to Cyrano?",0.2617,0.138,0.0,0.862,positive,Cyrano de Bergerac
+RAGUENEAU: How?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Know you not?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"He has got a hot hate for Montfleury, and so!--has forbid him strictly to show his face on the stage for one whole month.",-0.7424,0.0,0.231,0.769,negative,Cyrano de Bergerac
+LIGNIÈRE (drinking his fourth glass): Well?,0.2732,0.296,0.0,0.704,positive,Cyrano de Bergerac
+RAGUENEAU: Montfleury will play!,0.4003,0.473,0.0,0.527,positive,Cyrano de Bergerac
+CUIGY: He can not hinder that.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+RAGUENEAU: Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+that I have come to see!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+FIRST MARQUIS: Who is this Cyrano?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: A fellow well skilled in all tricks of fence.,0.1531,0.198,0.142,0.66,positive,Cyrano de Bergerac
+SECOND MARQUIS: Is he of noble birth?,0.4588,0.333,0.0,0.667,positive,Cyrano de Bergerac
+"CUIGY: Ay, noble enough.",0.4588,0.5,0.0,0.5,positive,Cyrano de Bergerac
+He is a cadet in the Guards.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(Pointing to a gentleman who is going up and down the hall as if searching for some one): But 'tis his friend Le Bret, yonder, who can best tell you.",0.9022,0.272,0.0,0.728,positive,Cyrano de Bergerac
+(He calls him): Le Bret!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Le Bret comes towards them): Seek you for De Bergerac?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: Ay, I am uneasy.",-0.3818,0.0,0.394,0.606,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CUIGY: Is it not true that he is the strangest of men?,-0.3252,0.0,0.175,0.825,negative,Cyrano de Bergerac
+"LE BRET (tenderly): True, that he is the choicest of earthly beings!",0.4753,0.219,0.0,0.781,positive,Cyrano de Bergerac
+RAGUENEAU: Poet!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: Soldier!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+BRISSAILLE: Philosopher!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: Musician!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: And of how fantastic a presence!,0.5983,0.438,0.0,0.562,positive,Cyrano de Bergerac
+"RAGENEAU: Marry, 'twould puzzle even our grim painter Philippe de Champaigne to portray him!",-0.6114,0.0,0.235,0.765,negative,Cyrano de Bergerac
+"Methinks, whimsical, wild, comical as he is, only Jacques Callot, now dead and gone, had succeeded better, and had made of him the maddest fighter of all his visored crew--with his triple-plumed beaver and six-pointed doublet--the sword-point sticking up 'neath his mantle like an insolent cocktail!",0.126,0.215,0.138,0.647,positive,Cyrano de Bergerac
+He's prouder than all the fierce Artabans of whom Gascony has ever been and will ever be the prolific Alma Mater!,0.5411,0.149,0.0,0.851,positive,Cyrano de Bergerac
+"Above his Toby ruff he carries a nose!--ah, good my lords, what a nose is his!",0.5399,0.211,0.0,0.789,positive,Cyrano de Bergerac
+"When one sees it one is fain to cry aloud, 'Nay!",-0.5255,0.0,0.253,0.747,negative,Cyrano de Bergerac
+'tis too much!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+He plays a joke on us!',0.5411,0.6,0.0,0.4,positive,Cyrano de Bergerac
+"Then one laughs, says 'He will anon take it off.'",0.4939,0.262,0.0,0.738,positive,Cyrano de Bergerac
+But no!--Monsieur de Bergerac always keeps it on.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET (throwing back his head): He keeps it on--and cleaves in two any man who dares remark on it!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+RAGUENEAU (proudly): His sword--'tis one half of the Fates' shears!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+FIRST MARQUIS (shrugging his shoulders): He will not come!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+RAGUENEAU: I say he will!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+and I wager a fowl--a la Ragueneau.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE MARQUIS (laughing): Good!,0.4926,0.516,0.0,0.484,positive,Cyrano de Bergerac
+(Murmurs of admiration in hall.,0.5423,0.467,0.0,0.533,positive,Cyrano de Bergerac
+Roxane has just appeared in her box.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"She seats herself in front, the duenna at the back.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Christian, who is paying the buffet-girl, does not see her entrance.)",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"SECOND MARQUIS (with little cries of joy): Ah, gentlemen!",-0.4017,0.0,0.252,0.748,negative,Cyrano de Bergerac
+she is fearfully--terribly--ravishing!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+FIRST MARQUIS: When one looks at her one thinks of a peach smiling at a strawberry!,0.5093,0.202,0.0,0.798,positive,Cyrano de Bergerac
+SECOND MARQUIS: And what freshness!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A man approaching her too near might chance to get a bad chill at the heart!,-0.4199,0.112,0.213,0.674,negative,Cyrano de Bergerac
+"CHRISTIAN (raising his head, sees Roxane, and catches Lignière by the arm): 'Tis she!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+is it she?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CHRISTIAN: Ay, tell me quick--I am afraid.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LIGNIÈRE (tasting his rivesalte in sips): Magdaleine Robin--Roxane, so called!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A subtle wit--a precieuse.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CHRISTIAN: Woe is me!,-0.4753,0.0,0.508,0.492,negative,Cyrano de Bergerac
+LIGNIÈRE: Free.,0.5106,0.767,0.0,0.233,positive,Cyrano de Bergerac
+An orphan.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"The cousin of Cyrano, of whom we were now speaking.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(At this moment an elegant nobleman, with blue ribbon across his breast, enters the box, and talks with Roxane, standing.)",0.4767,0.14,0.0,0.86,positive,Cyrano de Bergerac
+CHRISTIAN (starting): Who is yonder man?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LIGNIÈRE (who is becoming tipsy, winking at him): Ha!",0.4003,0.252,0.0,0.748,positive,Cyrano de Bergerac
+ha!,0.4003,1.0,0.0,0.0,positive,Cyrano de Bergerac
+Count de Guiche.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Enamored of her.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+But wedded to the niece of Armand de Richelieu.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Would fain marry Roxane to a certain sorry fellow, one Monsieur de Valvert, a viscount--and--accommodating!",0.2714,0.163,0.088,0.749,positive,Cyrano de Bergerac
+"She will none of that bargain; but De Guiche is powerful, and can persecute the daughter of a plain untitled gentleman.",-0.1891,0.142,0.208,0.65,negative,Cyrano de Bergerac
+"More by token, I myself have exposed this cunning plan of his to the world, in a song which.",-0.0772,0.0,0.075,0.925,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Ho!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+he must rage at me!,-0.5983,0.0,0.493,0.507,negative,Cyrano de Bergerac
+The end hit home.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Listen!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(He gets up staggering, and raises his glass, ready to sing.)",0.3612,0.2,0.0,0.8,positive,Cyrano de Bergerac
+CHRISTIAN: No.,-0.296,0.0,0.688,0.312,negative,Cyrano de Bergerac
+Good-night.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: Where go you?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CHRISTIAN: To Monsieur de Valvert!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: Have a care!,0.5411,0.636,0.0,0.364,positive,Cyrano de Bergerac
+It is he who will kill you (showing him Roxane by a look): Stay where you are--she is looking at you.,-0.6908,0.0,0.198,0.802,negative,Cyrano de Bergerac
+CHRISTIAN: It is true!,0.4753,0.508,0.0,0.492,positive,Cyrano de Bergerac
+(He stands looking at her.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"The group of pickpockets seeing him thus, head in air and open-mouthed, draw near to him.)",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LIGNIÈRE: 'Tis I who am going.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+I am athirst!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+And they expect me--in the taverns!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(He goes out, reeling.)",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET (who has been all round the hall, coming back to Ragueneau reassured): No sign of Cyrano.",-0.296,0.0,0.115,0.885,negative,Cyrano de Bergerac
+RAGUENEAU (incredulously): All the same.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+LE BRET: A hope is left to me--that he has not seen the playbill!,0.4926,0.21,0.0,0.79,positive,Cyrano de Bergerac
+"THE AUDIENCE: Begin, begin!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.III.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"The same, all but Lignière.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"De Guiche, Valvert, then Montfleury.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"A marquis (watching De Guiche, who comes down from Roxane's box, and crosses the pit surrounded by obsequious noblemen, among them the Viscount de Valvert): He pays a fine court, your De Guiche!",0.2714,0.065,0.0,0.935,positive,Cyrano de Bergerac
+ANOTHER: Faugh!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Another Gascon!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE FIRST: Ay, but the cold, supple Gascon--that is the stuff success is made of!",0.7463,0.276,0.0,0.724,positive,Cyrano de Bergerac
+"Believe me, we had best make our bow to him.",0.6369,0.318,0.0,0.682,positive,Cyrano de Bergerac
+(They go toward De Guiche.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+SECOND MARQUIS: What fine ribbons!,0.2714,0.343,0.0,0.657,positive,Cyrano de Bergerac
+"How call you the color, Count de Guiche?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"'Kiss me, my darling,' or 'Timid Fawn?'",0.2023,0.286,0.204,0.51,positive,Cyrano de Bergerac
+DE GUICHE: 'Tis the color called 'Sick Spaniard.',-0.5106,0.0,0.32,0.68,negative,Cyrano de Bergerac
+FIRST MARQUIS: 'Faith!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"The color speaks truth, for, thanks to your valor, things will soon go ill for Spain in Flanders.",0.34,0.226,0.122,0.652,positive,Cyrano de Bergerac
+DE GUICHE: I go on the stage!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Will you come?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(He goes toward the stage, followed by the marquises and gentlemen.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Turning, he calls): Come you Valvert!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CHRISTIAN (who is watching and listening, starts on hearing this name): The Viscount!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+I will throw full in his face my.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"(He puts his hand in his pocket, and finds there the hand of a pickpocket who is about to rob him.",0.4215,0.237,0.133,0.63,positive,Cyrano de Bergerac
+He turns round): Hey?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PICKPOCKET: Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CHRISTIAN (holding him tightly): I was looking for a glove.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PICKPOCKET (smiling piteously): And you find a hand.,0.4939,0.314,0.0,0.686,positive,Cyrano de Bergerac
+"(Changing his tone, quickly and in a whisper): Let me but go, and I will deliver you a secret.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CHRISTIAN (still holding him): What is it?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PICKPOCKET: Lignière.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.he who has just left you.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CHRISTIAN (same play): Well?,0.2732,0.412,0.0,0.588,positive,Cyrano de Bergerac
+THE PICKPOCKET: His life is in peril.,-0.4019,0.0,0.31,0.69,negative,Cyrano de Bergerac
+A song writ by him has given offense in high places-- and a hundred men--I am of them--are posted to-night.,-0.25,0.0,0.105,0.895,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CHRISTIAN: A hundred men!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+By whom posted?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PICKPOCKET: I may not say--a secret.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CHRISTIAN (shrugging his shoulders): Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PICKPOCKET (with great dignity): .,0.6249,0.506,0.0,0.494,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Of the profession.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CHRISTIAN: Where are they posted?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PICKPOCKET: At the Porte de Nesle.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+On his way homeward.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Warn him.,-0.1027,0.0,0.583,0.417,negative,Cyrano de Bergerac
+CHRISTIAN (letting go of his wrists): But where can I find him?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE PICKPOCKET: Run round to all the taverns--The Golden Wine Press, the Pine Cone, The Belt that Bursts, The Two Torches, The Three Funnels, and at each leave a word that shall put him on his guard.",0.0516,0.038,0.033,0.929,positive,Cyrano de Bergerac
+CHRISTIAN: Good--I fly!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Ah, the scoundrels!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A hundred men 'gainst one!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(Looking lovingly at Roxane): Ah, to leave her!.",0.6476,0.384,0.103,0.513,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(looking with rage at Valvert): and him!.,-0.5983,0.0,0.393,0.607,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.But save Lignière I must!,0.68,0.605,0.0,0.395,positive,Cyrano de Bergerac
+(He hurries out.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"De Guiche, the viscount, the marquises, have all disappeared behind the curtain to take their places on the benches placed on the stage.",-0.2263,0.0,0.079,0.921,negative,Cyrano de Bergerac
+The pit is quite full; the galleries and boxes are also crowded.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE AUDIENCE: Begin!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A BURGHER (whose wig is drawn up on the end of a string by a page in the upper gallery): My wig!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CRIES OF DELIGHT: He is bald!,0.3595,0.399,0.278,0.324,positive,Cyrano de Bergerac
+"Bravo, pages--ha!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+ha!,0.4003,1.0,0.0,0.0,positive,Cyrano de Bergerac
+ha!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"THE BURGHER (furious, shaking his fist): Young villain!",-0.68,0.0,0.482,0.518,negative,Cyrano de Bergerac
+"LAUGHTER AND CRIES (beginning very loud, and dying gradually away): Ha!",0.4926,0.367,0.19,0.443,positive,Cyrano de Bergerac
+ha!,0.4003,1.0,0.0,0.0,positive,Cyrano de Bergerac
+ha!,0.4003,1.0,0.0,0.0,positive,Cyrano de Bergerac
+ha!,0.4003,1.0,0.0,0.0,positive,Cyrano de Bergerac
+ha!,0.4003,1.0,0.0,0.0,positive,Cyrano de Bergerac
+ha!,0.4003,1.0,0.0,0.0,positive,Cyrano de Bergerac
+(Total silence.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET (astonished): What means this sudden silence?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(A spectator says something to him in a low voice): Is't true?,0.1779,0.201,0.151,0.647,positive,Cyrano de Bergerac
+THE SPECTATOR: I have just heard it on good authority.,0.4939,0.375,0.0,0.625,positive,Cyrano de Bergerac
+MURMURS (spreading through the hall): Hush!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Is it he?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+No!,-0.3595,0.0,1.0,0.0,negative,Cyrano de Bergerac
+"Ay, I say!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+In the box with the bars in front!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The Cardinal!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The Cardinal!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The Cardinal!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A PAGE: The devil!,-0.69,0.0,0.701,0.299,negative,Cyrano de Bergerac
+We shall have to behave ourselves.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(A knock is heard upon the stage.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Every one is motionless.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A pause.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE VOICE OF A MARQUIS (in the silence, behind the curtain): Snuff that candle!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+ANOTHER MARQUIS (putting his head through the opening in the curtain): A chair!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(A chair is passed from hand to hand, over the heads of the spectators.",0.7506,0.348,0.0,0.652,positive,Cyrano de Bergerac
+"The marquis takes it and disappears, after blowing some kisses to the boxes.)",0.2263,0.198,0.144,0.659,positive,Cyrano de Bergerac
+A SPECTATOR: Silence!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Three knocks are heard on the stage.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The curtain opens in the centre Tableau.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The marquises in insolent attitudes seated on each side of the stage.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The scene represents a pastoral landscape.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Four little lusters light the stage; the violins play softly.),0.34,0.211,0.0,0.789,positive,Cyrano de Bergerac
+LE BRET (in a low voice to Ragueneau): Montfleury comes on the scene?,-0.2732,0.0,0.16,0.84,negative,Cyrano de Bergerac
+"RAGUENEAU (also in a low voice): Ay, 'tis he who begins.",-0.2732,0.0,0.189,0.811,negative,Cyrano de Bergerac
+LE BRET: Cyrano is not here.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+RAGUENEAU: I have lost my wager.,-0.3182,0.0,0.365,0.635,negative,Cyrano de Bergerac
+LE BRET: 'Tis all the better!,0.4926,0.39,0.0,0.61,positive,Cyrano de Bergerac
+"(An air on the drone-pipes is heard, and Montfleury enters, enormously stout, in an Arcadian shepherd's dress, a hat wreathed with roses drooping over one ear, blowing into a ribboned drone pipe.)",0.2484,0.064,0.0,0.936,positive,Cyrano de Bergerac
+"THE PIT (applauding): Bravo, Montfleury!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Montfleury!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"MONTFLEURY (after bowing low, begins the part of Phedon): 'Heureux qui loin des cours, dans un lieu solitaire, Se prescrit a soi-meme un exil volontaire, Et qui, lorsque Zephire a souffle sur les bois.",-0.2732,0.0,0.063,0.937,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A VOICE (from the middle of the pit): Villain!,-0.5983,0.0,0.357,0.643,negative,Cyrano de Bergerac
+Did I not forbid you to show your face here for month?,0.2411,0.164,0.0,0.836,positive,Cyrano de Bergerac
+(General stupor.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Every one turns round.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Murmurs.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+DIFFERENT VOICES: Hey?--What?--What is't?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(The people stand up in the boxes to look.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: 'Tis he!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET (terrified): Cyrano!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE VOICE: King of clowns!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Leave the stage this instant!,-0.126,0.0,0.272,0.728,negative,Cyrano de Bergerac
+ALL THE AUDIENCE (indignantly): Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+MONTFLEURY: But.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE VOICE: Do you dare defy me?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+DIFFERENT VOICES (from the pit and the boxes): Peace!,0.5848,0.322,0.0,0.678,positive,Cyrano de Bergerac
+"Enough!--Play on, Montfleury--fear nothing!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"MONTFLEURY (in a trembling voice): 'Heureux qui loin des cours, dans un lieu sol--' THE VOICE (more fiercely): Well!",-0.1759,0.101,0.134,0.766,negative,Cyrano de Bergerac
+"Chief of all the blackguards, must I come and give you a taste of my cane?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(A hand holding a cane starts up over the heads of the spectators.),0.4939,0.225,0.0,0.775,positive,Cyrano de Bergerac
+MONTFLEURY (in a voice that trembles more and more): 'Heureux qui.,-0.0258,0.0,0.109,0.891,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(The cane is shaken.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE VOICE: Off the stage!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PIT: Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+MONTFLEURY (choking): 'Heureux qui loin des cours.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO (appearing suddenly in the pit, standing on a chair, his arms crossed, his beaver cocked fiercely, his mustache bristling, his nose terrible to see): Ah!",-0.5255,0.0,0.124,0.876,negative,Cyrano de Bergerac
+I shall be angry in a minute!.,-0.5562,0.0,0.473,0.527,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(Sensation.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.IV.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The same.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Cyrano, then Bellerose, Jodelet.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"MONTFLEURY (to the marquises): Come to my help, my lords!",0.4574,0.249,0.0,0.751,positive,Cyrano de Bergerac
+A MARQUIS (carelessly): Go on!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Go on!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO: Fat man, take warning!",-0.4003,0.0,0.402,0.598,negative,Cyrano de Bergerac
+"If you go on, I Shall feel myself constrained to cuff your face!",-0.1759,0.0,0.133,0.867,negative,Cyrano de Bergerac
+THE MARQUIS: Have done!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: And if these lords hold not their tongue Shall feel constrained to make them taste my cane!,-0.1759,0.0,0.091,0.909,negative,Cyrano de Bergerac
+ALL THE MARQUISES (rising): Enough!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Montfleury.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: If he goes not quick I will cut off his ears and slit him up!,0.2746,0.131,0.0,0.869,positive,Cyrano de Bergerac
+A VOICE: But.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Out he goes!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+ANOTHER VOICE: Yet.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Is he not gone yet?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He makes the gesture of turning up his cuffs): Good!,0.4926,0.262,0.0,0.738,positive,Cyrano de Bergerac
+"I shall mount the stage now, buffet-wise, To carve this fine Italian sausage--thus!",0.3164,0.172,0.0,0.828,positive,Cyrano de Bergerac
+MONTFLEURY (trying to be dignified): You outrage Thalia in insulting me!,-0.7777,0.0,0.43,0.57,negative,Cyrano de Bergerac
+"CYRANO (very politely): If that Muse, Sir, who knows you not at all, Could claim acquaintance with you--oh, believe (Seeing how urn-like, fat, and slow you are) That she would make you taste her buskin's sole!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PIT: Montfleury!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Montfleury!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Come--Baro's play!,0.4003,0.729,0.0,0.271,positive,Cyrano de Bergerac
+CYRANO (to those who are calling out): I pray you have a care!,0.6996,0.392,0.0,0.608,positive,Cyrano de Bergerac
+If you go on My scabbard soon will render up its blade!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(The circle round him widens.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE CROWD (drawing back): Take care!,0.5411,0.411,0.0,0.589,positive,Cyrano de Bergerac
+CYRANO (to Montfleury): Leave the stage!,-0.126,0.0,0.23,0.77,negative,Cyrano de Bergerac
+THE CROWD (coming near and grumbling): Oh!-- CYRANO: Did some one speak?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(They draw back again.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A VOICE (singing at the back): Monsieur de Cyrano Displays his tyrannies: A fig for tyrants!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"What, ho!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Come!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Play us 'La Clorise!',0.4003,0.473,0.0,0.527,positive,Cyrano de Bergerac
+ALL THE PIT (singing): 'La Clorise!',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+'La Clorise!'.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: Let me but hear once more that foolish rhyme, I slaughter every man of you.",-0.4709,0.0,0.18,0.82,negative,Cyrano de Bergerac
+A BURGHER: Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Samson?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Yes Samson!,0.4574,0.599,0.0,0.401,positive,Cyrano de Bergerac
+"Will you lend your jawbone, Sir?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A LADY (in the boxes): Outrageous!,-0.5093,0.0,0.451,0.549,negative,Cyrano de Bergerac
+A LORD: Scandalous!,-0.5707,0.0,0.787,0.213,negative,Cyrano de Bergerac
+A BURGHER: 'Tis most annoying!,-0.5081,0.0,0.523,0.477,negative,Cyrano de Bergerac
+A PAGE: Fair good sport!,0.6696,0.733,0.0,0.267,positive,Cyrano de Bergerac
+THE PIT: Kss!--Montfleury.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Cyrano!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Silence!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PIT (wildly excited): Ho-o-o-o-h!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Quack!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Cock-a-doodle-doo!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: I order-- A PAGE: Miow!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO: I order silence, all!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"And challenge the whole pit collectively!-- I write your names!--Approach, young heroes, here!",0.6679,0.354,0.0,0.646,positive,Cyrano de Bergerac
+Each in his turn!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+I cry the numbers out!-- Now which of you will come to ope the lists?,-0.5255,0.0,0.207,0.793,negative,Cyrano de Bergerac
+"You, Sir?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+No!,-0.3595,0.0,1.0,0.0,negative,Cyrano de Bergerac
+You?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+No!,-0.3595,0.0,1.0,0.0,negative,Cyrano de Bergerac
+The first duellist Shall be dispatched by me with honors due!,0.5562,0.264,0.0,0.736,positive,Cyrano de Bergerac
+Let all who long for death hold up their hands!,-0.636,0.0,0.318,0.682,negative,Cyrano de Bergerac
+(A silence): Modest?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+You fear to see my naked blade?,-0.4939,0.0,0.348,0.652,negative,Cyrano de Bergerac
+"Not one name?--Not one hand?--Good, I proceed!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(Turning toward the stage, where Montfleury waits in an agony): The theater's too full, congested,--I Would clear it out.",0.3818,0.126,0.0,0.874,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.If not.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(Puts his hand on his sword): The knife must act!,0.5411,0.28,0.0,0.72,positive,Cyrano de Bergerac
+MONTFLEURY: I. .,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO (leaves his chair, and settles himself in the middle of the circle which has formed): I will clap my hands thrice, thus--full moon!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"At the third clap, eclipse yourself!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PIT (amused): Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (clapping his hands): One!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+MONTFLEURY: I. .,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+A VOICE (in the boxes): Stay!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PIT: He stays.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.he goes.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.he stays.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+MONTFLEURY: I think.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".Gentlemen,.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Two!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+MONTFLEURY: I think 'twere wisest.,0.4767,0.508,0.0,0.492,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Three!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Montfleury disappears as through a trap.,-0.5719,0.0,0.61,0.39,negative,Cyrano de Bergerac
+"Tempest of laughs, whistling cries, etc.)",0.128,0.323,0.273,0.404,positive,Cyrano de Bergerac
+THE WHOLE HOUSE: Coward.,-0.4588,0.0,0.5,0.5,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.come back!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO (delighted, sits back in his chair, arms crossed): Come back an if you dare!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A BURGHER: Call for the orator!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Bellerose comes forward and bows.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BOXES: Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+here's Bellerose!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+BELLEROSE (elegantly): My noble lords.,0.4588,0.429,0.0,0.571,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE PIT: No!,-0.3595,0.0,0.555,0.445,negative,Cyrano de Bergerac
+no!,-0.3595,0.0,1.0,0.0,negative,Cyrano de Bergerac
+Jodelet!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"JODELET (advancing, speaking through his nose): Calves!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PIT: Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+bravo!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+good!,0.4926,1.0,0.0,0.0,positive,Cyrano de Bergerac
+go on!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"JODELET: No bravos, Sirs!",-0.3595,0.0,0.454,0.546,negative,Cyrano de Bergerac
+The fat tragedian whom you all love Felt.,0.5719,0.359,0.128,0.513,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE PIT: Coward!,-0.5093,0.0,0.622,0.378,negative,Cyrano de Bergerac
+JODELET: .,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.was obliged to go.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE PIT: Come back!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+SOME: No!,-0.3595,0.0,0.714,0.286,negative,Cyrano de Bergerac
+OTHERS: Yes!,0.4574,0.749,0.0,0.251,positive,Cyrano de Bergerac
+"A YOUNG MAN (to Cyrano): But pray, Sir, for what reason, say, Hate you Montfleury?",-0.4767,0.148,0.253,0.6,negative,Cyrano de Bergerac
+"CYRANO (graciously, still seated): Youthful gander, know I have two reasons--either will suffice.",0.3182,0.173,0.0,0.827,positive,Cyrano de Bergerac
+Primo.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+An actor villainous!,-0.5093,0.0,0.622,0.378,negative,Cyrano de Bergerac
+"who mouths, And heaves up like a bucket from a well The verses that should, bird-like, fly!",0.5983,0.273,0.0,0.727,positive,Cyrano de Bergerac
+Secundo-- That is my secret.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE OLD BURGHER (behind him): Shameful!,-0.5411,0.0,0.411,0.589,negative,Cyrano de Bergerac
+You deprive us Of the 'Clorise!',-0.5255,0.0,0.404,0.596,negative,Cyrano de Bergerac
+I must insist.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO (turning his chair toward the burgher, respectfully): Old mule!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The verses of old Baro are not worth A doit!,-0.2401,0.0,0.197,0.803,negative,Cyrano de Bergerac
+I'm glad to interrupt.,0.1531,0.405,0.324,0.27,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE PRECIEUSES (in the boxes): Our Baro!-- My dear!,0.4912,0.285,0.0,0.715,positive,Cyrano de Bergerac
+How dares he venture!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO (turning his chair toward the boxes gallantly): Fairest ones, Radiate, bloom, hold to our lips the cup Of dreams intoxicating, Hebe-like!",0.4574,0.125,0.0,0.875,positive,Cyrano de Bergerac
+"Or, when death strikes, charm death with your sweet smiles; Inspire our verse, but--criticise it not!",0.3595,0.399,0.321,0.28,positive,Cyrano de Bergerac
+BELLEROSE: We must give back the entrance fees!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO (turning his chair toward the stage): Bellerose, You make the first intelligent remark!",0.5093,0.202,0.0,0.798,positive,Cyrano de Bergerac
+Would I rend Thespis' sacred mantle?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Nay!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(He rises and throws a bag on the stage): Catch then the purse I throw, and hold your peace!",0.5848,0.192,0.0,0.808,positive,Cyrano de Bergerac
+THE HOUSE (dazzled): Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"JODELET (catching the purse dexterously and weighing it): At this price, you've authority To come each night, and stop 'Clorise,' Sir!",-0.2942,0.057,0.109,0.834,negative,Cyrano de Bergerac
+THE PIT: Ho!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Ho!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Ho!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+JODELET: E'en if you chase us in a pack!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+BELLEROSE: Clear out the hall!.,0.4389,0.42,0.0,0.58,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+JODELET: Get you all gone at once!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(The people begin to go out, while Cyrano looks on with satisfaction.",0.4404,0.209,0.0,0.791,positive,Cyrano de Bergerac
+"But the crowd soon stop on hearing the following scene, and remain where they are.",-0.4215,0.0,0.167,0.833,negative,Cyrano de Bergerac
+"The women, who, with their mantles on, are already standing up in the boxes, stop to listen, and finally reseat themselves.)",-0.296,0.0,0.099,0.901,negative,Cyrano de Bergerac
+LE BRET (to Cyrano): 'Tis mad!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+A BORE (coming up to Cyrano): The actor Montfleury!,-0.4633,0.0,0.302,0.698,negative,Cyrano de Bergerac
+'Tis shameful!,-0.5411,0.0,0.777,0.223,negative,Cyrano de Bergerac
+"Why, he's protected by the Duke of Candal!",0.4926,0.313,0.0,0.687,positive,Cyrano de Bergerac
+Have you a patron?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: No!,-0.3595,0.0,0.714,0.286,negative,Cyrano de Bergerac
+THE BORE: No patron?.,-0.6037,0.0,0.712,0.288,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: None!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: What!,-0.4633,0.0,0.602,0.398,negative,Cyrano de Bergerac
+no great lord to shield you with his name?,0.4404,0.308,0.165,0.526,positive,Cyrano de Bergerac
+"CYRANO (irritated): No, I have told you twice!",-0.3595,0.0,0.293,0.707,negative,Cyrano de Bergerac
+Must I repeat?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+No!,-0.3595,0.0,1.0,0.0,negative,Cyrano de Bergerac
+no protector.,-0.296,0.0,0.688,0.312,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(His hand on his sword): A protectress.,0.4939,0.39,0.0,0.61,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.here!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: But you must leave the town?,-0.2884,0.0,0.345,0.655,negative,Cyrano de Bergerac
+"CYRANO: Well, that depends!",0.3382,0.444,0.0,0.556,positive,Cyrano de Bergerac
+THE BORE: The Duke has a long arm!,-0.4633,0.0,0.335,0.665,negative,Cyrano de Bergerac
+"CYRANO: But not so long As mine, when it is lengthened out.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(Shows his sword): As thus!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: You think not to contend?,-0.4369,0.0,0.437,0.563,negative,Cyrano de Bergerac
+CYRANO: 'Tis my idea!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: But.,-0.2183,0.0,0.483,0.517,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Show your heels!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+now!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: But I. .,-0.2183,0.0,0.384,0.616,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Or tell me why you stare so at my nose!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE (staggered): I. .,-0.4084,0.0,0.477,0.523,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO (walking straight up to him): Well, what is there strange?",0.296,0.29,0.13,0.58,positive,Cyrano de Bergerac
+THE BORE (drawing back): Your Grace mistakes!,-0.4069,0.227,0.448,0.325,negative,Cyrano de Bergerac
+CYRANO: How now?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Is't soft and dangling, like a trunk?.",0.3612,0.333,0.0,0.667,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE BORE (same play): I never.,-0.4084,0.0,0.406,0.594,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: Is it crook'd, like an owl's beak?",0.3612,0.263,0.0,0.737,positive,Cyrano de Bergerac
+THE BORE: I. .,-0.25,0.0,0.5,0.5,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Do you see a wart upon the tip?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: Nay.,-0.4084,0.0,0.577,0.423,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: Or a fly, that takes the air there?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+What Is there to stare at?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: Oh.,-0.4084,0.0,0.577,0.423,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: What do you see?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: But I was careful not to look--knew better.,-0.4723,0.148,0.386,0.466,negative,Cyrano de Bergerac
+"CYRANO: And why not look at it, an if you please?",0.3182,0.187,0.0,0.813,positive,Cyrano de Bergerac
+THE BORE: I was.,-0.4084,0.0,0.577,0.423,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+it disgusts you!,-0.5255,0.0,0.629,0.371,negative,Cyrano de Bergerac
+THE BORE: Sir!,-0.4633,0.0,0.602,0.398,negative,Cyrano de Bergerac
+CYRANO: Its hue Unwholesome seems to you?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: Sir!,-0.4633,0.0,0.602,0.398,negative,Cyrano de Bergerac
+CYRANO: Or its shape?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE BORE: No, on the contrary!.",-0.6399,0.0,0.566,0.434,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Why then that air Disparaging?--perchance you think it large?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE BORE (stammering): No, small, quite small--minute!",-0.6399,0.0,0.511,0.489,negative,Cyrano de Bergerac
+CYRANO: Minute!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+What now?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Accuse me of a thing ridiculous!,-0.5562,0.0,0.605,0.395,negative,Cyrano de Bergerac
+Small--my nose?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: Heaven help me!,0.5513,0.571,0.248,0.181,positive,Cyrano de Bergerac
+CYRANO: 'Tis enormous!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Old Flathead, empty-headed meddler, know That I am proud possessing such appendice.",0.4767,0.237,0.0,0.763,positive,Cyrano de Bergerac
+"'Tis well known, a big nose is indicative Of a soul affable, and kind, and courteous, Liberal, brave, just like myself, and such As you can never dare to dream yourself, Rascal contemptible!",0.8922,0.346,0.1,0.554,positive,Cyrano de Bergerac
+For that witless face That my hand soon will come to cuff--is all As empty.,0.34,0.178,0.1,0.722,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(He cuffs him.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE: Aie!,-0.4633,0.0,0.602,0.398,negative,Cyrano de Bergerac
+"CYRANO: --of pride, of aspiration, Of feeling, poetry--of godlike spark Of all that appertains to my big nose, (He turns him by the shoulders, suiting the action to the word): As.",0.5859,0.172,0.0,0.828,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.what my boot will shortly come and kick!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE BORE (running away): Help!,-0.0836,0.309,0.347,0.344,negative,Cyrano de Bergerac
+Call the Guard!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO: Take notice, boobies all, Who find my visage's center ornament A thing to jest at--that it is my wont-- An if the jester's noble--ere we part To let him taste my steel, and not my boot!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"DE GUICHE (who, with the marquises, has come down from the stage): But he becomes a nuisance!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE VISCOUNT DE VALVERT (shrugging his shoulders): Swaggerer!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+DE GUICHE: Will no one put him down?.,-0.296,0.0,0.239,0.761,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE VISCOUNT: No one?,-0.296,0.0,0.423,0.577,negative,Cyrano de Bergerac
+But wait!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+I'll treat him to.,0.4019,0.474,0.0,0.526,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.one of my quips!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.See here!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"(He goes up to Cyrano, who is watching him, and with a conceited air): Sir, your nose is.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.hmm.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.it is.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.very big!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (gravely): Very!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE VISCOUNT (laughing): Ha!,0.4003,0.473,0.0,0.527,positive,Cyrano de Bergerac
+CYRANO (imperturbably): Is that all?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE VISCOUNT: What do you mean?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Ah no!,-0.3595,0.0,0.555,0.445,negative,Cyrano de Bergerac
+young blade!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+That was a trifle short!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+You might have said at least a hundred things By varying the tone.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".like this, suppose,.",0.3612,0.556,0.0,0.444,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"Aggressive: 'Sir, if I had such a nose I'd amputate it!'",-0.2244,0.0,0.191,0.809,negative,Cyrano de Bergerac
+"Friendly: 'When you sup It must annoy you, dipping in your cup; You need a drinking-bowl of special shape!'",0.5093,0.257,0.12,0.623,positive,Cyrano de Bergerac
+Descriptive: ''Tis a rock!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.a peak!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.a cape!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"--A cape, forsooth!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+'Tis a peninsular!',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Curious: 'How serves that oblong capsular?,0.3182,0.315,0.0,0.685,positive,Cyrano de Bergerac
+For scissor-sheath?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Or pot to hold your ink?',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Gracious: 'You love the little birds, I think?",0.8316,0.609,0.0,0.391,positive,Cyrano de Bergerac
+I see you've managed with a fond research To find their tiny claws a roomy perch!',0.4926,0.21,0.0,0.79,positive,Cyrano de Bergerac
+Truculent: 'When you smoke your pipe.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".suppose That the tobacco-smoke spouts from your nose-- Do not the neighbors, as the fumes rise higher, Cry terror-struck: ""The chimney is afire""?'",-0.4939,0.0,0.167,0.833,negative,Cyrano de Bergerac
+"Considerate: 'Take care,.",0.4404,0.592,0.0,0.408,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.your head bowed low By such a weight.,-0.2732,0.0,0.259,0.741,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.lest head o'er heels you go!',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Tender: 'Pray get a small umbrella made, Lest its bright color in the sun should fade!'",0.6696,0.297,0.0,0.703,positive,Cyrano de Bergerac
+"Pedantic: 'That beast Aristophanes Names Hippocamelelephantoles Must have possessed just such a solid lump Of flesh and bone, beneath his forehead's bump!'",0.2244,0.086,0.0,0.914,positive,Cyrano de Bergerac
+"Cavalier: 'The last fashion, friend, that hook?",0.4939,0.348,0.0,0.652,positive,Cyrano de Bergerac
+To hang your hat on?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+'Tis a useful crook!',0.4926,0.615,0.0,0.385,positive,Cyrano de Bergerac
+"Emphatic: 'No wind, O majestic nose, Can give THEE cold!--save when the mistral blows!'",-0.4184,0.0,0.188,0.812,negative,Cyrano de Bergerac
+"Dramatic: 'When it bleeds, what a Red Sea!'",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Admiring: 'Sign for a perfumery!',0.4389,0.491,0.0,0.509,positive,Cyrano de Bergerac
+Lyric: 'Is this a conch?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.a Triton you?',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Simple: 'When is the monument on view?',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Rustic: 'That thing a nose?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Marry-come-up!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"'Tis a dwarf pumpkin, or a prize turnip!'",0.5562,0.418,0.0,0.582,positive,Cyrano de Bergerac
+Military: 'Point against cavalry!',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Practical: 'Put it in a lottery!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Assuredly 'twould be the biggest prize!',0.4389,0.366,0.0,0.634,positive,Cyrano de Bergerac
+Or.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.parodying Pyramus' sighs.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+'Behold the nose that mars the harmony Of its master's phiz!,0.4574,0.23,0.0,0.77,positive,Cyrano de Bergerac
+blushing its treachery!',0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"--Such, my dear sir, is what you might have said, Had you of wit or letters the least jot: But, O most lamentable man!--of wit You never had an atom, and of letters You have three letters only!--they spell Ass!",-0.8596,0.038,0.198,0.764,negative,Cyrano de Bergerac
+"And--had you had the necessary wit, To serve me all the pleasantries I quote Before this noble audience.",0.7003,0.279,0.0,0.721,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".e'en so, You would not have been let to utter one-- Nay, not the half or quarter of such jest!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"I take them from myself all in good part, But not from any other man that breathes!",0.3054,0.13,0.0,0.87,positive,Cyrano de Bergerac
+"DE GUICHE (trying to draw away the dismayed viscount): Come away, Viscount!",-0.4926,0.0,0.225,0.775,negative,Cyrano de Bergerac
+THE VISCOUNT (choking with rage): Hear his arrogance!,-0.5707,0.0,0.345,0.655,negative,Cyrano de Bergerac
+A country lout who.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.who.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.has got no gloves!,-0.3595,0.0,0.454,0.546,negative,Cyrano de Bergerac
+"Who goes out without sleeve-knots, ribbons, lace!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: True; all my elegances are within.,0.6808,0.528,0.0,0.472,positive,Cyrano de Bergerac
+"I do not prank myself out, puppy-like; My toilet is more thorough, if less gay; I would not sally forth--a half-washed-out Affront upon my cheek--a conscience Yellow-eyed, bilious, from its sodden sleep, A ruffled honor,.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.scruples grimed and dull!,-0.636,0.0,0.722,0.278,negative,Cyrano de Bergerac
+I show no bravery of shining gems.,0.25,0.34,0.234,0.426,positive,Cyrano de Bergerac
+"Truth, Independence, are my fluttering plumes.",0.3182,0.315,0.0,0.685,positive,Cyrano de Bergerac
+"'Tis not my form I lace to make me slim, But brace my soul with efforts as with stays, Covered with exploits, not with ribbon-knots, My spirit bristling high like your mustaches, I, traversing the crowds and chattering groups Make Truth ring bravely out like clash of spurs!",0.9208,0.269,0.051,0.679,positive,Cyrano de Bergerac
+"THE VISCOUNT: But, Sir.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: I wear no gloves?,-0.296,0.0,0.423,0.577,negative,Cyrano de Bergerac
+And what of that?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"I had one,.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".remnant of an old worn pair, And, knowing not what else to do with it, I threw it in the face of.",-0.296,0.0,0.099,0.901,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.some young fool.,-0.4404,0.0,0.592,0.408,negative,Cyrano de Bergerac
+THE VISCOUNT: Base scoundrel!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Rascally flat-footed lout!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO (taking off his hat, and bowing as if the viscount had introduced himself): Ah?.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".and I, Cyrano Savinien Hercule de Bergerac (Laughter.)",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE VISCOUNT (angrily): Buffoon!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (calling out as if he had been seized with the cramp): Aie!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Aie!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE VISCOUNT (who was going away, turns back): What on earth is the fellow saying now?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO (with grimaces of pain): It must be moved--it's getting stiff, I vow, --This comes of leaving it in idleness!",-0.4753,0.0,0.147,0.853,negative,Cyrano de Bergerac
+Aie!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE VISCOUNT: What ails you?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: The cramp!,-0.2714,0.0,0.511,0.489,negative,Cyrano de Bergerac
+cramp in my sword!,-0.2714,0.0,0.411,0.589,negative,Cyrano de Bergerac
+THE VISCOUNT (drawing his sword): Good!,0.4926,0.39,0.0,0.61,positive,Cyrano de Bergerac
+CYRANO: You shall feel a charming little stroke!,0.6239,0.405,0.0,0.595,positive,Cyrano de Bergerac
+THE VISCOUNT (contemptuously): Poet!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: Ay, poet, Sir!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"In proof of which, While we fence, presto!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+all extempore I will compose a ballade.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE VISCOUNT: A ballade?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Belike you know not what a ballade is.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE VISCOUNT: But.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO (reciting, as if repeating a lesson): Know then that the ballade should contain Three eight-versed couplets.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE VISCOUNT (stamping): Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (still reciting): And an envoi Of four lines.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE VISCOUNT: You.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: I'll make one while we fight; And touch you at the final line.,-0.3818,0.0,0.167,0.833,negative,Cyrano de Bergerac
+THE VISCOUNT: No!,-0.3595,0.0,0.555,0.445,negative,Cyrano de Bergerac
+CYRANO: No?,-0.296,0.0,0.688,0.312,negative,Cyrano de Bergerac
+(declaiming): The duel in Hotel of Burgundy--fought By De Bergerac and a good-for-naught!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE VISCOUNT: What may that be, an if you please?",0.3182,0.204,0.0,0.796,positive,Cyrano de Bergerac
+CYRANO: The title.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE HOUSE (in great excitement): Give room!--Good sport!--Make place!--Fair play!--No noise!,0.7405,0.345,0.0,0.655,positive,Cyrano de Bergerac
+(Tableau.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A circle of curious spectators in the pit; the marquises and officers mingled with the common people; the pages climbing on each other's shoulders to see better.,0.6369,0.178,0.0,0.822,positive,Cyrano de Bergerac
+All the women standing up in the boxes.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"To the right, De Guiche and his retinue.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Left, Le Bret, Ragueneau, Cyrano, etc.)",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (shutting his eyes for a second): Wait while I choose my rhymes.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.I have them now!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(He suits the action to each word): I gayly doff my beaver low, And, freeing hand and heel, My heavy mantle off I throw, And I draw my polished steel; Graceful as Phoebus, round I wheel, Alert as Scaramouch, A word in your ear, Sir Spark, I steal-- At the envoi's end, I touch!",0.8908,0.241,0.037,0.722,positive,Cyrano de Bergerac
+(They engage): Better for you had you lain low; Where skewer my cock?,0.0516,0.175,0.223,0.602,positive,Cyrano de Bergerac
+"In the heel?-- In the heart, your ribbon blue below?-- In the hip, and make you kneel?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Ho for the music of clashing steel!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+--What now?--A hit?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Not much!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"'Twill be in the paunch the stroke I steal, When, at the envoi, I touch.",-0.4939,0.0,0.211,0.789,negative,Cyrano de Bergerac
+"Oh, for a rhyme, a rhyme in o?-- You wriggle, starch-white, my eel?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A rhyme!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+a rhyme!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The white feather you SHOW!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Tac!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"I parry the point of your steel; --The point you hoped to make me feel; I open the line, now clutch Your spit, Sir Scullion--slow your zeal!",0.4389,0.108,0.0,0.892,positive,Cyrano de Bergerac
+"At the envoi's end, I touch.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He declaims solemnly): Envoi.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Prince, pray Heaven for your soul's weal!",0.7088,0.541,0.0,0.459,positive,Cyrano de Bergerac
+"I move a pace--lo, such!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+and such!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Cut over--feint!,-0.3382,0.0,0.705,0.295,negative,Cyrano de Bergerac
+(Thrusting): What ho!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+You reel?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(The viscount staggers.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Cyrano salutes): At the envoi's end, I touch!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Acclamations.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Applause in the boxes.,0.4215,0.483,0.0,0.517,positive,Cyrano de Bergerac
+Flowers and handkerchiefs are thrown down.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"The officers surround Cyrano, congratulating him.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Ragueneau dances for joy.,0.5859,0.559,0.0,0.441,positive,Cyrano de Bergerac
+"Le Bret is happy, but anxious.",-0.0387,0.266,0.282,0.452,neutral,Cyrano de Bergerac
+The viscount's friends hold him up and bear him away.),0.4767,0.256,0.0,0.744,positive,Cyrano de Bergerac
+THE CROWD (with one long shout): Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A TROOPER: 'Tis superb!,0.6588,0.687,0.0,0.313,positive,Cyrano de Bergerac
+A WOMAN: A pretty stroke!,0.5411,0.636,0.0,0.364,positive,Cyrano de Bergerac
+RAGUENEAU: A marvel!,0.4753,0.756,0.0,0.244,positive,Cyrano de Bergerac
+A MARQUIS: A novelty!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: O madman!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE CROWD (presses round Cyrano.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Chorus of): Compliments!,0.4574,0.599,0.0,0.401,positive,Cyrano de Bergerac
+Bravo!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Let me congratulate!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Quite unsurpassed!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+A WOMAN'S VOICE: There is a hero for you!.,0.5983,0.393,0.0,0.607,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"A MUSKETEER (advancing to Cyrano with outstretched hand): Sir, permit; Naught could be finer--I'm a judge I think; I stamped, i' faith!--to show my admiration!",0.6229,0.17,0.0,0.83,positive,Cyrano de Bergerac
+(He goes away.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (to Cuigy): Who is that gentleman?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: Why--D'Artagnan!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET (to Cyrano, taking his arm): A word with you!.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Wait; let the rabble go!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(To Bellerose): May I stay?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+BELLEROSE (respectfully): Without doubt!,0.3404,0.445,0.0,0.555,positive,Cyrano de Bergerac
+(Cries are heard outside.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+JODELET (who has looked out): They hoot Montfleury!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+BELLEROSE (solemnly): Sic transit!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"(To the porters): Sweep--close all, but leave the lights.",-0.0772,0.0,0.14,0.86,negative,Cyrano de Bergerac
+"We sup, but later on we must return, For a rehearsal of to-morrow's farce.",-0.5499,0.0,0.228,0.772,negative,Cyrano de Bergerac
+"(Jodelet and Bellerose go out, bowing low to Cyrano.)",-0.2732,0.0,0.208,0.792,negative,Cyrano de Bergerac
+"THE PORTER (to Cyrano): You do not dine, Sir?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: No.,-0.296,0.0,0.688,0.312,negative,Cyrano de Bergerac
+(The porter goes out.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: Because?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (proudly): Because.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(Changing his tone as the porter goes away): I have no money!.,-0.3595,0.0,0.199,0.801,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+LE BRET (with the action of throwing a bag): How!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The bag of crowns?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: Paternal bounty, in a day, thou'rt sped!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: How live the next month?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: I have nothing left.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: Folly!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: But what a graceful action!,0.6476,0.518,0.0,0.482,positive,Cyrano de Bergerac
+Think!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE BUFFET-GIRL (coughing, behind her counter): Hum!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(Cyrano and Le Bret turn.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"She comes timidly forward): Sir, my heart mislikes to know you fast.",-0.1779,0.0,0.134,0.866,negative,Cyrano de Bergerac
+"(Showing the buffet): See, all you need.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Serve yourself!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO (taking off his hat): Gentle child, Although my Gascon pride would else forbid To take the least bestowal from your hands, My fear of wounding you outweighs that pride, And bids accept.",0.5859,0.241,0.129,0.631,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(He goes to the buffet): A trifle!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.These few grapes.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(She offers him the whole bunch.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"He takes a few): Nay, but this bunch!.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"(She tries to give him wine, but he stops her): A glass of water fair!.",-0.2942,0.0,0.144,0.856,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+And half a macaroon!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He gives back the other half.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: What foolery!,-0.4753,0.0,0.508,0.492,negative,Cyrano de Bergerac
+THE BUFFET-GIRL: Take something else!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: I take your hand to kiss.,0.7184,0.6,0.0,0.4,positive,Cyrano de Bergerac
+(He kisses her hand as though she were a princess.),0.7579,0.481,0.0,0.519,positive,Cyrano de Bergerac
+"THE BUFFET-GIRL: Thank you, kind Sir!",0.7345,0.608,0.0,0.392,positive,Cyrano de Bergerac
+(She courtesies): Good-night.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(She goes out.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.V.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Cyrano, Le Bret.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (to Le Bret): Now talk--I listen.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(He stands at the buffet, and placing before him first the macaroon): Dinner!.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(then the grapes): Dessert!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(then the glass of water): Wine!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(he seats himself): So!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+And now to table!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"I was hungry, friend, nay, ravenous!",0.5411,0.466,0.0,0.534,positive,Cyrano de Bergerac
+(eating): You said--?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: These fops, would-be belligerent, Will, if you heed them only, turn your head!.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+Ask people of good sense if you would know The effect of your fine insolence-- CYRANO (finishing his macaroon): Enormous!,0.6114,0.217,0.0,0.783,positive,Cyrano de Bergerac
+LE BRET: The Cardinal.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO (radiant): The Cardinal--was there?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: Must have thought it.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: Original, i' faith!",0.6588,0.729,0.0,0.271,positive,Cyrano de Bergerac
+LE BRET: But.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: He's an author.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+'Twill not fail to please him That I should mar a brother-author's play.,0.5086,0.345,0.129,0.526,positive,Cyrano de Bergerac
+LE BRET: You make too many enemies by far!,-0.5411,0.0,0.304,0.696,negative,Cyrano de Bergerac
+CYRANO (eating his grapes): How many think you I have made to-night?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: Forty, no less, not counting ladies.",-0.296,0.0,0.239,0.761,negative,Cyrano de Bergerac
+CYRANO: Count!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: Montfleury first, the bourgeois, then De Guiche, The Viscount, Baro, the Academy.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: Enough!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+I am o'erjoyed!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: But these strange ways, Where will they lead you, at the end?",-0.296,0.0,0.145,0.855,negative,Cyrano de Bergerac
+Explain Your system--come!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: I in a labyrinth Was lost--too many different paths to choose; I took.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+LE BRET: Which?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Oh!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+by far the simplest path.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+Decided to be admirable in all!,0.5983,0.438,0.0,0.562,positive,Cyrano de Bergerac
+LE BRET (shrugging his shoulders): So be it!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"But the motive of your hate To Montfleury--come, tell me!",-0.7463,0.0,0.372,0.628,negative,Cyrano de Bergerac
+"CYRANO (rising): This Silenus, Big-bellied, coarse, still deems himself a peril-- A danger to the love of lovely ladies, And, while he sputters out his actor's part, Makes sheep's eyes at their boxes--goggling frog!",0.7088,0.204,0.084,0.713,positive,Cyrano de Bergerac
+I hate him since the evening he presumed To raise his eyes to hers.,-0.5719,0.0,0.236,0.764,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Meseemed I saw A slug crawl slavering o'er a flower's petals!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET (stupefied): How now?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+What?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Can it be.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+?,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO (laughing bitterly): That I should love?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"(Changing his tone, gravely): I love.",0.6369,0.512,0.0,0.488,positive,Cyrano de Bergerac
+LE BRET: And may I know?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.You never said.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: Come now, bethink you!.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".The fond hope to be Beloved, e'en by some poor graceless lady, Is, by this nose of mine for aye bereft me; --This lengthy nose which, go where'er I will, Pokes yet a quarter-mile ahead of me; But I may love--and who?",0.4588,0.14,0.048,0.812,positive,Cyrano de Bergerac
+'Tis Fate's decree I love the fairest--how were't otherwise?,0.6369,0.375,0.0,0.625,positive,Cyrano de Bergerac
+LE BRET: The fairest?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: Ay, the fairest of the world, Most brilliant--most refined--most golden-haired!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: Who is this lady?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO: She's a danger mortal, All unsuspicious--full of charms unconscious, Like a sweet perfumed rose--a snare of nature, Within whose petals Cupid lurks in ambush!",0.5255,0.272,0.166,0.563,positive,Cyrano de Bergerac
+"He who has seen her smile has known perfection, --Instilling into trifles grace's essence, Divinity in every careless gesture; Not Venus' self can mount her conch blown sea-ward, As she can step into her chaise a porteurs, Nor Dian fleet across the woods spring-flowered, Light as my Lady o'er the stones of Paris!.",0.8268,0.168,0.041,0.791,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+LE BRET: Sapristi!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+all is clear!,0.4389,0.591,0.0,0.409,positive,Cyrano de Bergerac
+CYRANO: As spiderwebs!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: Your cousin, Madeleine Robin?",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Roxane!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: Well, but so much the better!",0.7259,0.504,0.0,0.496,positive,Cyrano de Bergerac
+Tell her so!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+She saw your triumph here this very night!,0.5255,0.326,0.0,0.674,positive,Cyrano de Bergerac
+"CYRANO: Look well at me--then tell me, with what hope This vile protuberance can inspire my heart!",0.5983,0.345,0.157,0.498,positive,Cyrano de Bergerac
+"I do not lull me with illusions--yet At times I'm weak: in evening hours dim I enter some fair pleasance, perfumed sweet; With my poor ugly devil of a nose I scent spring's essence--in the silver rays I see some knight--a lady on his arm, And think 'To saunter thus 'neath the moonshine, I were fain to have my lady, too, beside!'",-0.8588,0.094,0.201,0.705,negative,Cyrano de Bergerac
+Thought soars to ecstasy.,0.5994,0.565,0.0,0.435,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.O sudden fall!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+--The shadow of my profile on the wall!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET (tenderly): My friend!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: My friend, at times 'tis hard, 'tis bitter, To feel my loneliness--my own ill-favor.",0.0,0.165,0.216,0.619,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+LE BRET (taking his hand): You weep?,-0.5719,0.0,0.381,0.619,negative,Cyrano de Bergerac
+"CYRANO: No, never!",-0.3595,0.0,0.555,0.445,negative,Cyrano de Bergerac
+"Think, how vilely suited Adown this nose a tear its passage tracing!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"I never will, while of myself I'm master, let the divinity of tears--their beauty Be wedded to such common ugly grossness.",0.34,0.253,0.206,0.541,positive,Cyrano de Bergerac
+Nothing more solemn than a tear--sublimer; And I would not by weeping turn to laughter The grave emotion that a tear engenders!,0.5771,0.294,0.104,0.602,positive,Cyrano de Bergerac
+LE BRET: Never be sad!,0.4303,0.416,0.0,0.584,positive,Cyrano de Bergerac
+What's love?--a chance of Fortune!,0.3164,0.364,0.0,0.636,positive,Cyrano de Bergerac
+CYRANO (shaking his head): Look I a Caesar to woo Cleopatra?,0.4767,0.279,0.0,0.721,positive,Cyrano de Bergerac
+A Tito to aspire to Berenice?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: Your courage and your wit!--The little maid Who offered you refreshment even now, Her eyes did not abhor you--you saw well!",0.8108,0.295,0.0,0.705,positive,Cyrano de Bergerac
+CYRANO (impressed): True!,0.4753,0.607,0.0,0.393,positive,Cyrano de Bergerac
+"LE BRET: Well, how then?.",0.2732,0.344,0.0,0.656,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.I saw Roxane herself Was death-pale as she watched the duel.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Pale?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: Her heart, her fancy, are already caught!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Put it to th' touch!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: That she may mock my face?,-0.4215,0.0,0.318,0.682,negative,Cyrano de Bergerac
+That is the one thing on this earth I fear!,-0.5411,0.0,0.304,0.696,negative,Cyrano de Bergerac
+"THE PORTER (introducing some one to Cyrano): Sir, some one asks for you.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO (seeing the duenna): God!,0.3382,0.374,0.0,0.626,positive,Cyrano de Bergerac
+her duenna!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.VI.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Cyrano, Le Bret, the duenna.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE DUENNA (with a low bow): I was bid ask you where a certain lady Could see her valiant cousin--but in secret.,0.0,0.099,0.099,0.802,neutral,Cyrano de Bergerac
+CYRANO (overwhelmed): See me?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"THE DUENNA (courtesying): Ay, Sir!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+She has somewhat to tell.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Somewhat?.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"THE DUENNA (still courtesying): Ay, private matters!",0.1007,0.188,0.0,0.812,positive,Cyrano de Bergerac
+"CYRANO (staggering): Ah, my God!",0.3382,0.374,0.0,0.626,positive,Cyrano de Bergerac
+"THE DUENNA: To-morrow, at the early blush of dawn, We go to hear mass at St. Roch.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (leaning against Le Bret): My God!,0.3382,0.285,0.0,0.715,positive,Cyrano de Bergerac
+THE DUENNA: After--what place for a few minutes' speech?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (confused): Where?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Ah!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.but.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".Ah, my God!.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE DUENNA: Say!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: I reflect!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+THE DUENNA: Where?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: At--the pastry-house of Ragueneau.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE DUENNA: Where lodges he?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: The Rue--God!--St.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Honore!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+THE DUENNA (going): Good.,0.4404,0.492,0.0,0.508,positive,Cyrano de Bergerac
+Be you there.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+At seven.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Without fail.,0.431,0.588,0.0,0.412,positive,Cyrano de Bergerac
+(The duenna goes out.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Scene 1.VII.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Cyrano, Le Bret.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"Then actors, actresses, Cuigy, Brissaille, Lignière, the porter, the violinists.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (falling into Le Bret's arms): A rendezvous.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.from her!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+LE BRET: You're sad no more!,-0.68,0.0,0.583,0.417,negative,Cyrano de Bergerac
+CYRANO: Ah!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Let the world go burn!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+She knows I live!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LE BRET: Now you'll be calm, I hope?",0.6369,0.51,0.0,0.49,positive,Cyrano de Bergerac
+CYRANO (beside himself for joy): Calm?,0.3182,0.315,0.0,0.685,positive,Cyrano de Bergerac
+I now calm?,0.3182,0.697,0.0,0.303,positive,Cyrano de Bergerac
+"I'll be frenetic, frantic,--raving mad!",-0.5411,0.0,0.466,0.534,negative,Cyrano de Bergerac
+"Oh, for an army to attack!--a host!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+I've ten hearts in my breast; a score of arms; No dwarfs to cleave in twain!.,-0.3595,0.0,0.151,0.849,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+(Wildly): No!,-0.3595,0.0,0.714,0.286,negative,Cyrano de Bergerac
+Giants now!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"poetryoff (For a few moments the shadows of the actors have been moving on the stage, whispers are heard--the rehearsal is beginning.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+The violinists are in their places.),0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+A VOICE FROM THE STAGE: Hollo there!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+Silence!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+We rehearse!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (laughing): We go!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+(He moves away.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"By the big door enter Cuigy, Brissaille, and some officers, holding up Lignière, who is drunk.)",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: Cyrano!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"CYRANO: Well, what now?",0.2732,0.412,0.0,0.588,positive,Cyrano de Bergerac
+CUIGY: A lusty thrush They're bringing you!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO (recognizing him): Lignière!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.What has chanced?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: He seeks you!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+BRISSAILLE: He dare not go home!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Why not?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LIGNIÈRE (in a husky voice, showing him a crumpled letter): This letter warns me.",-0.1027,0.0,0.113,0.887,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.that a hundred men.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+Revenge that threatens me.,-0.7184,0.0,0.75,0.25,negative,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+".that song, you know-- At the Porte de Nesle.",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+To get to my own house I must pass there.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.I dare not!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.Give me leave To sleep to-night beneath your roof!,-0.126,0.0,0.157,0.843,negative,Cyrano de Bergerac
+Allow.,0.2263,1.0,0.0,0.0,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+CYRANO: A hundred men?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+You'll sleep in your own bed!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"LIGNIÈRE (frightened): But-- CYRANO (in a terrible voice, showing him the lighted lantern held by the porter, who is listening curiously): Take the lantern.",-0.4767,0.0,0.124,0.876,negative,Cyrano de Bergerac
+(Lignière seizes it): Let us start!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+I swear That I will make your bed to-night myself!,-0.126,0.0,0.176,0.824,negative,Cyrano de Bergerac
+"(To the officers): Follow; some stay behind, as witnesses!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CUIGY: A hundred!.,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"CYRANO: Less, to-night--would be too few!",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+"(The actors and actresses, in their costumes, have come down from the stage, and are listening.)",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: But why embroil yourself?,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+CYRANO: Le Bret who scolds!,0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac
+LE BRET: That worthless drunkard!-- CYRANO (slapping Lignière on the shoulder): Wherefore?,-0.4926,0.0,0.225,0.775,negative,Cyrano de Bergerac
+"For this cause;-- This wine-barrel, this cask of Burgundy, Did, on a day, an action full of grace; As he was leaving church, he saw his love Take holy water--he, who is affeared At water's taste, ran quickly to the stoup, And drank it all, to the last drop!.",0.807,0.137,0.0,0.863,positive,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+.,0.0,0.0,0.0,0.0,neutral,Cyrano de Bergerac
+"AN ACTRESS: Indeed, tha",0.0,0.0,0.0,1.0,neutral,Cyrano de Bergerac

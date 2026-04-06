@@ -1,0 +1,352 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Doña Perfecta This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,0.2023,0.125,0.106,0.769,positive,Doña Perfecta
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Doña Perfecta
+"Title : Doña Perfecta Author : Benito Pérez Galdós Annotator : Arthur Richmond Marsh Contributor : Steven T. Byington Release date : April 28, 2005 [eBook #15725] Most recently updated: October 22, 2023 Language : English, Spanish Other information and formats : www.gutenberg.org/ebooks/15725 Credits : Produced by Stan Goodman, Miranda van de Heijning, Renald Levesque and the Online Distributed Proofreading Team.",0.5994,0.088,0.0,0.912,positive,Doña Perfecta
+*** START OF THE PROJECT GUTENBERG EBOOK DOÑA PERFECTA *** DOÑA PERFECTA POR BENITO PÉREZ GALDÓS WITH AN INTRODUCTION AND NOTES BY A. R. MARSH VOCABULARY BY STEVEN T. BYINGTON The Athenaeum Press GINN AND COMPANY--PROPRIETORS--BOSTON--U.S.A.,0.7404,0.156,0.0,0.844,positive,Doña Perfecta
+"PREFACE This edition of one of the best known of modern Spanish novels has been prepared for the use of college classes in Spanish that have already mastered the elements of Spanish grammar, but have not yet had much practice in reading.",0.4678,0.092,0.0,0.908,positive,Doña Perfecta
+"The editor has found by actual experience that it is safe to undertake the story in three or four months from the time when the study of the language is begun, that is, in the second half of the first year's work in the subject.",0.4404,0.062,0.0,0.938,positive,Doña Perfecta
+"As the book is not a long one, it should be possible to read it entire before the close of the year.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Indeed, with an earnest class, even less time than this will be found to suffice.",0.5106,0.191,0.0,0.809,positive,Doña Perfecta
+"The novel is printed exactly (save correction of printer's errors) as it appears in the eighth Spanish edition (Madrid, 1896).",0.3182,0.108,0.0,0.892,positive,Doña Perfecta
+"At the same time, great pains have been taken to make the orthography and accentuation conform in all respects to the standard of the last edition of the Spanish Academy's Dictionary.",0.5574,0.172,0.075,0.753,positive,Doña Perfecta
+The Notes are considerably fuller than is customary in college editions of modern works in foreign languages.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"This has been made necessary in part by the dreadful insufficiency of the existing Spanish-English dictionaries, and in part by the editor's desire to afford the student some aid in dealing with grammatical peculiarities not fully discussed in the more available text-books.",-0.0258,0.083,0.063,0.853,neutral,Doña Perfecta
+"As a further help to grammatical study, numerous references have been inserted to Ramsey's Text-Book of Modern Spanish (New York, 1894) and to Knapp's Grammar of the Modern Spanish Language (Boston, 1891).",0.4019,0.083,0.0,0.917,positive,Doña Perfecta
+A.R.M.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"CAMBRIDGE, MASSACHUSETTS March, 1897 In the new impression of this book the accentuation has been conformed to the new (fourteenth) edition of the Academy's Dictionary, a small number of misprints have been corrected, and a vocabulary has been added.",0.296,0.084,0.0,0.916,positive,Doña Perfecta
+"As is stated in the above preface, a considerable part of the notes in the first impression were intended as a partial substitute for a vocabulary.",0.2263,0.079,0.0,0.921,positive,Doña Perfecta
+"Obviously, the insertion of the vocabulary made such notes mainly superfluous; hence in the present edition such notes as seemed to be mere duplication of the vocabulary are omitted.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"At the same time it was inevitable that in the work of compiling the vocabulary some additional occasions for making notes were found, and new light was obtained on some places where notes already stood.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"The result is that the notes in the present impression, though shorter than before, contain (apart from vocabulary matter) more information, and it is hoped that they will at least maintain the reputation which this edition of Doña Perfecta has gained.",0.8176,0.204,0.0,0.796,positive,Doña Perfecta
+"Besides the references to the grammars of Ramsey and Knapp, references to Coester's Spanish Grammar (Boston, 1912) are now given.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+INTRODUCTION The two literary genres in which Spaniards have most excelled are the drama and the novel.,0.6997,0.279,0.0,0.721,positive,Doña Perfecta
+"Indeed, outside of these two forms, it may be said that no Spaniard has won a literary success of the first order.",0.7351,0.268,0.08,0.652,positive,Doña Perfecta
+"Thus, in the past six centuries there have been many Spanish poets of real worth; and yet in the list of the world's supreme poets no Spanish name appears.",0.5106,0.163,0.065,0.772,positive,Doña Perfecta
+"Among the world's great philosophers Spain has no representative, though she has had thinkers of genuine power.",0.4404,0.192,0.103,0.704,positive,Doña Perfecta
+"She has had no moralist, or historian, or political writer, or scientist of the highest rank.",-0.296,0.0,0.128,0.872,negative,Doña Perfecta
+"Even religion, which at first sight would seem to be the predominant interest of Spain, has not there inspired any work of universal and permanent appeal to the race.",0.0956,0.092,0.081,0.828,positive,Doña Perfecta
+The other nations of the civilized world have at no time derived from Spain a powerful literary impulse in any of these directions.,0.1531,0.112,0.088,0.8,positive,Doña Perfecta
+Palestine and Greece and Rome and Italy and France and Germany and England have all had something lastingly valuable to say upon one or more of these matters; but no one would think of turning to Spanish books for the best that has been thought and said upon any of them.,0.7377,0.154,0.048,0.799,positive,Doña Perfecta
+"With the drama and the novel, however, the case is very different.",0.3182,0.173,0.0,0.827,positive,Doña Perfecta
+Here Spain has had writers universally placed among the great artists of the world.,0.6249,0.24,0.0,0.76,positive,Doña Perfecta
+"Calderón and Lope de Vega, with the crowd of lesser dramatists of the end of the sixteenth and beginning of the seventeenth century (the period Spaniards call their siglo de oro ), produced a body of dramatic literature, which for extent, variety, poetic force, and original national feeling and conception can be compared only with the Greek and the English drama.",0.4215,0.061,0.0,0.939,positive,Doña Perfecta
+Of their own motion these poets learned all the essential secrets of the dramatic art.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"They acquired the faculty of telling upon the stage any story they chose in such a way that it should seem a picture of life itself to their audience; and, at the same time, they managed to fuse with their tales all their accumulated reflection upon men and things, all the various play of fancy, all the fine gold of the imagination, and all the humor, gay or grotesque, which the plain prose of life itself does not contain.",0.6486,0.078,0.0,0.922,positive,Doña Perfecta
+"Working freely, unawed by classic models whose perfection they would attain, they were easy in their motions, frank of conception, and ready to follow their matter wherever it might lead them.",0.9022,0.335,0.0,0.665,positive,Doña Perfecta
+They had no dread of being dull or unpoetical or undignified; the best of them were constantly all these.,-0.4019,0.155,0.292,0.554,negative,Doña Perfecta
+"But for this very reason they were large and free and powerful, scornful of trivial difficulties and obstacles, and able to attain success where all the chances were against them.",0.7469,0.318,0.228,0.454,positive,Doña Perfecta
+"The thought and feeling, the hopes and aspirations, the delusions and absurdities of Spain in the period of her greatest power and splendor are all mirrored in their verse.",0.91,0.333,0.0,0.667,positive,Doña Perfecta
+"Like the Elizabethan dramatists, furthermore, they exacted tribute from all other literatures and spent it as they would.",0.3612,0.128,0.0,0.872,positive,Doña Perfecta
+"And though their work has seldom the rare distinction of ultimate perfection of form (indeed, in this respect falls below the best Elizabethan standard), no one can read it without perceiving that he is engaged with the rich and vital utterance of artists who are masters of their craft.",0.9573,0.312,0.034,0.654,positive,Doña Perfecta
+Hardly less remarkable than the Spanish drama is the Spanish novel.,0.6518,0.372,0.0,0.628,positive,Doña Perfecta
+"Obviously, much the same qualities are demanded for success in the one form as in the other; and from the earliest period Spanish story-tellers have known how to do their work well.",0.5994,0.158,0.052,0.79,positive,Doña Perfecta
+"There are tales in the fourteenth-century collection by Don Juan Manuel, known as El Conde Lucanor , that are as skillfully contrived as could possibly be.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"In spite of its prolixity, the once famous romance of Amadis of Gaul , which was given its Spanish form in the end of the fifteenth century, must still be regarded as a highly successful piece of narration.",0.6478,0.174,0.077,0.748,positive,Doña Perfecta
+"At the close of the same century, the often indecent, but never dull 'tragi-comedy' of Celestina (a novel in fact, though dramatic in form) proved its excellence as a piece of literary workmanship by attaining speedily a European reputation.",0.9097,0.253,0.0,0.747,positive,Doña Perfecta
+"The sixteenth century saw the evolution of so-called novela picaresca , or rogue novel, one of the most important and influential of modern literary forms.",0.762,0.265,0.0,0.735,positive,Doña Perfecta
+"And, finally, in 1605 Cervantes published the first part of one of the greatest of modern books, Don Quixote ,--a novel in which the art of story-telling is brought to almost unrivaled perfection.",0.8727,0.249,0.0,0.751,positive,Doña Perfecta
+"In more recent times, the Spanish novel has, of course, suffered from the general intellectual decline of Spain as a whole.",0.34,0.217,0.124,0.659,positive,Doña Perfecta
+Its originality has been impaired by the inevitable and generally baneful influence exercised by foreign models upon the taste of a people not confident in its own strength and superiority.,0.4537,0.164,0.077,0.76,positive,Doña Perfecta
+"The eighteenth century, in particular, produced little deserving even casual mention.",0.1372,0.133,0.0,0.867,positive,Doña Perfecta
+"Yet in no period have evidences of the old power been entirely lacking; and as soon as the intellectual, no less than political, agitations that attended the opening of the present century began, these evidences at once became more numerous and more significant.",-0.0112,0.108,0.129,0.763,neutral,Doña Perfecta
+"The task of acquiring modernity has, to be sure, proved longer and more difficult in Spain than in any other great European nation, and the earlier literary work of the century has about it too much of the general spiritual and artistic uncertainty of such a period of confusion and change to possess enduring excellence.",0.6258,0.159,0.112,0.728,positive,Doña Perfecta
+"But the trained observer can detect even in the unequal and hesitating essays of the first half of our century indications of a renewal of the old skill and of the gradual evolution of a new type of novel, which, while modern in its methods and materials, still allies itself with what is best in the older tradition.",0.5499,0.131,0.093,0.777,positive,Doña Perfecta
+"The fruition of this period of growth has been seen since the middle of the century, and to-day Spanish novelists easily hold their own with the best of the world.",0.8481,0.254,0.0,0.746,positive,Doña Perfecta
+"Indeed, in the opinion of many well qualified to judge, there is in no language at the present time a body of fiction more original, more various, more genuinely interesting than Spanish authors have produced.",0.6674,0.192,0.055,0.752,positive,Doña Perfecta
+"Juan Valera, Pedro Alarcón, José María Pereda, Armando Palacio Valdés, the Padre Luís Coloma, Doña Emilia Pardo Bazán, and, last, the author of the present volume, Benito Pérez Galdós, have succeeded along very different lines, and with striking independence of manner, in composing a mass of fiction which depicts the real Spain of to-day perhaps more adequately than the novelists of any other country have been able to render their native land.",0.4215,0.038,0.0,0.962,positive,Doña Perfecta
+"The reader of Valera is filled with perpetual admiration of his fine cosmopolitan scepticism, combined with rich traditional culture of the true Spanish type, rendered in a subtle, gay, delightful style that derives from the purest sources of sixteenth-century Spanish.",0.9287,0.308,0.036,0.656,positive,Doña Perfecta
+"In Alarcón Spanish irony and Spanish rhetoric ( l'emphase espagnole , as the French call it) combine in rarely personal admixture.",-0.0516,0.0,0.062,0.938,negative,Doña Perfecta
+"Pereda studies the crude and homely life of the region of Santander with the care for detail of the most scrupulous realist, but without the hard and brutal curiosity about the merely external that realism adopted as a literary creed seems to bring with it.",-0.7548,0.069,0.155,0.776,negative,Doña Perfecta
+"Valdés and Coloma and Señora Bazán, writing from very different points of view, all reproduce for us with sure touches the sentiments and ideals, the virtues and vices of Spanish society, high and low, urban or rural, of to-day.",0.5423,0.151,0.048,0.801,positive,Doña Perfecta
+"And Pérez Galdós, the most fruitful of them all, has embraced the entire century in his work, and affords us, on the whole, the clearest and fullest account of the recent spiritual and social life of his nation anywhere to be found.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Benito Pérez Galdós was born at Las Palmas in the Canary Islands, May 10, 1845.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"The details of his early life are entirely unknown except to himself, his invincible modesty denying them even to personal friends like the writer of the only biography of him (a meagre one) that has appeared, Leopoldo Alas.",0.6486,0.19,0.097,0.713,positive,Doña Perfecta
+"He studied in the local Instituto, and must have profited by his opportunities, for the literary attainments shown in his novels can have resulted only from persistent labor from youth up.",0.5994,0.145,0.0,0.855,positive,Doña Perfecta
+"In 1863 he went to Madrid to study law in the University, but with little eagerness for his future profession.",0.4785,0.141,0.0,0.859,positive,Doña Perfecta
+"He already dreamed of a literary career, and tried the hand of an apprentice at journalism and at pieces for the theatre, none of which, happily, as he has since said, was represented.",0.0711,0.089,0.081,0.83,positive,Doña Perfecta
+"In 1867, his mind being engaged at once by the revolutionary agitation of his own time, and by the similar interest of the still more violent upheaval in Spain in the first years of the century, he began a kind of historical novel, La Fontana de Oro , in which he undertook to study the inner motives and history of that period, so all-important for modern Spanish history, and to illustrate the detestable character of Ferdinand VII as it appeared in one of his most disgraceful moments.",0.204,0.085,0.066,0.849,positive,Doña Perfecta
+"It was four years, however, before the book was completed and published.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"During this time Galdós had visited France and had returned to Madrid by way of Barcelona, where he was when the Revolution of 1868, which deprived Queen Isabel of her throne, broke out.",-0.7096,0.0,0.16,0.84,negative,Doña Perfecta
+"This he greeted with delight, believing the realization of his conservatively radical political views to be at hand; but he speedily found himself sadly disillusioned.",-0.5346,0.181,0.224,0.594,negative,Doña Perfecta
+"In 1871 his novel appeared, making no sensation, but attracting the favorable attention of a few competent judges.",0.9062,0.487,0.06,0.453,positive,Doña Perfecta
+"The road was at last opened before him, and he pressed steadily on in it.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"His imagination had now become deeply stirred by both the political and the social aspects of the great period of the awakening of Spain, when, to begin with, she freed herself by heroic efforts from the Napoleonic tyranny, and then made her incipient advances towards modernity in the face of the opposition of the representatives of her traditional religion and of her outworn social order.",0.886,0.144,0.0,0.856,positive,Doña Perfecta
+"In 1872 he had completed a second novel, El Audaz , in which a phase of the struggle earlier than that studied in La Fontana de Oro , was his theme.",0.0,0.078,0.078,0.845,neutral,Doña Perfecta
+"Then, taking a suggestion perhaps from the success of the historical novels of Erckmann-Chatrian, he began a succession of consecutive tales, Episodios Nacionales , as he called them, which, in two series, cover the whole agitated time from the Battle of Trafalgar in 1805 down to the death of Ferdinand VII in 1833.",-0.6124,0.092,0.158,0.75,negative,Doña Perfecta
+"Each series has its hero, whose fortunes afford a slender thread binding the tales together, and whose participation in the successive events or crises of the War of Independence and of the reign of Ferdinand VII enables the author to give these events their proper setting in the political and social movements of the period.",0.2023,0.094,0.064,0.842,positive,Doña Perfecta
+"Naturally, there is great inequality in the execution of so long a list of tales (twenty in all), and the reader's attention at times flags.",0.6249,0.151,0.0,0.849,positive,Doña Perfecta
+"Yet the care with which Galdós studied his material, acquainting himself with the minutest details of the history of the time, and the skill as a narrator that rarely fails him, make the Episodios Nacionales incomparably the best documents in which to obtain a true understanding of one of the greatest movements in the life of a great and interesting nation.",0.9736,0.316,0.0,0.684,positive,Doña Perfecta
+"Before he had concluded the Episodios Nacionales , however, Galdós had begun to feel the attraction of an even deeper and more significant movement,--that of the modernization of the Spain of the present day.",0.624,0.141,0.0,0.859,positive,Doña Perfecta
+"Here, to be sure, the situations are less famous and picturesque, the part of action is diminished, and patriotic emotion is less evoked; but the struggle to be studied is none the less violent and profound.",0.5043,0.171,0.07,0.759,positive,Doña Perfecta
+"For readers of our time this struggle perhaps gains in interest from being rather inward than outward, and from demanding of him who paints it rather a study of souls than the delineation of stirring events.",0.2204,0.132,0.111,0.757,positive,Doña Perfecta
+"In few countries has the clash between the new and the old been so violent, or the adjustment to the new produced so many and so startling incongruities as in Spain.",-0.6428,0.049,0.14,0.812,negative,Doña Perfecta
+"The deadly antagonism of the traditional religious and social feeling of the race towards the whole modern manner of thinking, the ruinous effects of a first taste of modern luxury upon those who come ignorantly and blindly under its spell, the agitations of minds whose moral continuity has been broken by ill-understood freedom of speculation, the disasters produced by political or social ambitions aroused in those grotesquely unfit for their attainment,--in short, the illusions, the vain hopes, the failures, the despairs, the hates, the woe which every great movement of the Zeitgeist inevitably causes in every nation, these are the themes which Galdós has of late found irresistibly attractive, and to which he has devoted much the richest and strongest part of his work.",-0.836,0.151,0.206,0.642,negative,Doña Perfecta
+"The first novel in which the new interest was predominant was the present book, Doña Perfecta , finished in April, 1876.",0.7717,0.312,0.0,0.688,positive,Doña Perfecta
+"In it Galdós brought the new and the old face to face: the new in the form of a highly trained, clear-thinking, frank-speaking modern man; the old in the guise of a whole community so remote from the current of things that its religious intolerance, its social jealousy, its undisturbed confidence and pride in itself must of necessity declare instant war upon that which comes from without, unsympathetic and critical.",0.1184,0.1,0.081,0.82,positive,Doña Perfecta
+"The inevitable result is ruin for the party whose physical force is less, the single individual, yet hardly less complete ruin for those whom intolerance and hate have driven to the annihilation of their adversary.",-0.886,0.059,0.286,0.655,negative,Doña Perfecta
+"The sympathies of the author, as his closing sentence shows, are with the new, but his conscience as artist has none the less compelled him to give to the old its right of full and fair utterance.",0.4945,0.133,0.0,0.867,positive,Doña Perfecta
+"The same ignorant or stubborn religiosity, negative for good, working evil for all affected by it, has been studied by Galdós in two subsequent novels, La Familia de León Roch and Gloria , which are generally reputed to be, with Doña Perfecta , the greatest of his works.",-0.6124,0.153,0.234,0.613,negative,Doña Perfecta
+"Gloria , in particular, has received great and deserved laudation, in spite of some looseness and unevenness of the technique due to the rapidity with which it was written (the first part in hardly more than a fortnight, the author tells us).",0.1779,0.09,0.075,0.835,positive,Doña Perfecta
+"The theme is not unlike that of George Eliot's Daniel Deronda , one of the protagonists being an English Jew, with the profoundest attachment to the traditions of his race, the other a Spanish girl, in whom the faith of her fathers is an ineradicable instinct.",0.6124,0.106,0.0,0.894,positive,Doña Perfecta
+Few finer and more tragic situations have been imagined by moderns than this.,-0.5095,0.0,0.215,0.785,negative,Doña Perfecta
+"No less tragic, though less poetic, is the ruin of León Roch, weighed down by the burden of an insanely bigoted wife.",-0.8911,0.0,0.392,0.608,negative,Doña Perfecta
+Other groups of novels deal with the other aspects of the modern society of Spain of which mention has been made.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"In one group we have the disasters caused in lowly homes by the vanity of women who have caught a glimpse of the pleasures of the rich, and pitilessly demand them.",-0.5574,0.156,0.291,0.553,negative,Doña Perfecta
+"The poor official, out of a place, in Miau , is goaded to suicide by the exactions of his wife and daughter and sister-in-law.",-0.8225,0.0,0.275,0.725,negative,Doña Perfecta
+In La de Bringas we have the squalid intrigues of a family on the edge of 'high life' and striving to get within it.,0.2263,0.079,0.0,0.921,positive,Doña Perfecta
+"El Amigo Manso loves, and is exploited for her social advantage by the woman whom he loves.",0.7506,0.37,0.118,0.512,positive,Doña Perfecta
+"A second group of tales deals with the hard question how the woman, left to her own resources and without income, shall find her support.",0.3182,0.103,0.054,0.843,positive,Doña Perfecta
+"Here belong Fortunata y Jacinta, La Desheredada, Tristana , and Tormento .",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"It is the pathos of this problem, not its unseemly and revolting details, that impresses Galdós and that he strives to convey.",-0.0065,0.118,0.119,0.763,neutral,Doña Perfecta
+"And finally, there should be mentioned those stories in which Galdós shows us the beauty and uplifting power of natural sentiment, as Marianela ; or the positive and beneficent results that may come from a certain pure and unbigoted, though somewhat mystical, religious feeling, as Angel Guerra, Nazarín, and Halma .",0.9386,0.282,0.0,0.718,positive,Doña Perfecta
+"It is clear from the above hasty survey of Galdós' work that there runs through it all a profound moral sentiment, a sense of the tragedy of modern life, an impatience of the irremediable and hopeless contradictions in which ignorance and intolerance involve us.",-0.9081,0.049,0.28,0.672,negative,Doña Perfecta
+"At the same time, it should not be supposed that the general impression produced by his novels is gloomy and forbidding.",-0.3818,0.078,0.184,0.738,negative,Doña Perfecta
+"On the contrary, few modern writers show so constantly the play of a free and wholesome humor, or in more manly fashion take life as it comes, without tears or whining.",0.8554,0.313,0.0,0.687,positive,Doña Perfecta
+He does not strive nor cry; nor does he moralize.,-0.2846,0.0,0.193,0.807,negative,Doña Perfecta
+"He shows us life as it appears to him in a critical period of his nation's history, unfolding it before us in its incessant variety, and not debauching us by lessons of unmanly pessimism any more than by alluring optimism.",-0.0772,0.079,0.108,0.813,negative,Doña Perfecta
+"And to give to his work its final and irresistible claim upon us, he is the master of a singularly rich and virile style--a style not modeled upon a fad, but expressive of the whole nature of the man; capable of eloquence, of wit and humor, of anger and scorn; now simple and unadorned, now laden with a burden of reflection and of the great traditional memories, literary and other, of the race.",0.2304,0.174,0.152,0.674,positive,Doña Perfecta
+"The Spanish purists have indeed declared this style to be far from impeccable, and this is altogether probable.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"But none the less it has something much more important than impeccability; it has life and strength, and, when its master pleases, beauty.",0.9493,0.452,0.0,0.548,positive,Doña Perfecta
+DOÑA PERFECTA I Villahorrenda!...,0.5307,0.631,0.0,0.369,positive,Doña Perfecta
+cinco minutos!...,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Cuando el tren mixto descendente número 65 (no es preciso nombrar la línea), se detuvo en la pequeña estación situada entre los kilómetros 171 y 172, casi todos los viajeros de segunda y tercera clase se quedaron durmiendo o bostezando dentro de los coches, porque el frío penetrante de la 5 madrugada no convidadas a pasear por el desamparado andén.",-0.296,0.0,0.039,0.961,negative,Doña Perfecta
+"El único viajero de primera que en el tren venía bajó apresuradamente, y dirigiéndose a los empleados, preguntóles si aquél era el apeadero de Villahorrenda.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"(Este 10 nombre, como otros muchos que después se verán, es propiedad del autor.)",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--En Villahorrenda estamos--repuso el conductor, cuya voz se confundió con el cacarear de las gallinas que en aquel momento eran subidas al furgón.--Se me había olvidado 15 llamarle a usted, Sr. de Rey.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Creo que ahí le esperan a usted con las caballerías.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¡Pero hace aquí un frío de tres mil demonios!--dijo el viajero envolviéndose en su manta.--¿No hay en el apeadero algún sitio donde descansar y reponerse antes de emprender un viaje a caballo por este país de hielo?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"20 No había concluído de hablar, cuando el conductor, llamado por las apremiantes obligaciones de su oficio, marchóse, dejando a nuestro desconocido caballero con la palabra en la boca.",-0.296,0.0,0.075,0.925,negative,Doña Perfecta
+"Vió éste que se acercaba otro empleado con un farol pendiente de la derecha mano, el cual movíase al compás de la marcha, proyectando geométricas series de ondulaciones luminosas.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"La luz caía sobre el piso del 5 andén, formando un zig zag semejante al que describe la lluvia de una regadera.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¿Hay fonda o dormitorio en la estación de Villahorrenda?--preguntó el viajero al del farol.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"10 --Aquí no hay nada--respondió éste secamente, corriendo hacia los que cargaban y echándoles tal rociada de votos, juramentos, blasfemias y atroces invocaciones, que hasta las gallinas, escandalizadas de tan grosera brutalidad, murmuraron dentro de sus cestas.",-0.296,0.0,0.061,0.939,negative,Doña Perfecta
+--Lo mejor será salir de aquí a toda prisa--dijo el caballero para su capote.--El conductor me anunció que 15 ahí estaban las caballerías.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Esto pensaba, cuando sintió que una sutil y respetuosa mano le tiraba suavemente del abrigo.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Volvióse y vió una obscura masa de paño pardo sobre sí misma revuelta y por cuyo principal pliegue asomaba el avellanado rostro astuto 20 de un labriego castellano.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Fijóse en la desgarbada estatura que recordaba al chopo entre los vegetales; vió los sagaces ojos que bajo el ala de ancho sombrero de terciopelo viejo resplandecían; vió la mano morena y acerada que empuñaba una vara verde y el ancho pie que, al moverse, hacía sonajear 25 el hierro de la espuela.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--¿Es usted el Sr. D. José de Rey?--preguntó, echando mano al sombrero.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Sí; y usted--repuso el caballero con alegría--será el criado de doña Perfecta, que viene a buscarme a este 30 apeadero para conducirme a Orbajosa.",0.34,0.112,0.0,0.888,positive,Doña Perfecta
+--El mismo.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Cuando usted guste marchar... La jaca corre como el viento.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Me parece que el Sr. D. José ha de ser buen ginete.,0.34,0.179,0.0,0.821,positive,Doña Perfecta
+Verdad es que a quien de casta le viene... --¿Por dónde se sale?--dijo el viajero con impaciencia.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Vamos, vámonos de aquí, señor... ¿Cómo se llama usted?",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Me llamo Pedro Lucas--respondió el del paño pardo, 5 repitiendo la intención de quitarse el sombrero; pero me llaman el tío Licurgo.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+¿En dónde está el equipaje del señorito?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Allí bajo el reloj lo veo.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Son tres bultos.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Dos maletas y un mundo de libros para el Sr. D. Cayetano.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Tome 10 usted el talón.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Un momento después señor y escudero hallábanse a espaldas de la barraca llamada estación, frente a un caminejo que partiendo de allí se perdía en las vecinas lomas desnudas, donde confusamente se distinguía el miserable 15 caserío de Villahorrenda.",-0.4939,0.0,0.084,0.916,negative,Doña Perfecta
+"Tres caballerías debían transportar todo, hombres y mundos.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Una jaca de no mala estampa era destinada al caballero.,-0.296,0.0,0.196,0.804,negative,Doña Perfecta
+"El tío Licurgo oprimiría los lomos de un cuartago venerable, algo desvencijado, aunque seguro; y el macho, cuyo freno debía regir 20 un joven zagal de piernas listas y fogosa sangre, cargaría el equipaje.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Antes de que la caravana se pusiese en movimiento, partió el tren, que se iba escurriendo por la vía con la parsimoniosa cachaza de un tren mixto.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Sus pasos, retumbando 25 cada vez más lejanos, producían ecos profundos bajo tierra.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Al entrar en el túnel del kilómetro 172, lanzó el vapor por el silbato y un aullido estrepitoso resonó en los aires.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"El túnel, echando por su negra boca un hálito blanquecino, clamoreaba como una trompeta, y al oír su 30 enorme voz, despertaban aldeas, villas, ciudades, provincias.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Aquí cantaba un gallo, más allá otro.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Principiaba a amanecer.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"II Un viaje por el corazón de España Cuando empezada la caminata dejaron a un lado las casuchas de Villahorrenda, el caballero, que era joven y de muy buen ver, habló de este modo: --Dígame usted, Sr. Solón... 5 --Licurgo, para servir a usted... --Eso es, Sr. Licurgo.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Bien decía yo que era usted un sabio legislador de la antigüedad.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Perdone usted la equivocación.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Pero vamos al caso.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Dígame usted, ¿cómo está mi señora tía?",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"10 --Siempre tan guapa--repuso el labriego, adelantando algunos pasos su caballería.--Parece que no pasan años por la señora doña Perfecta.",0.0516,0.106,0.097,0.796,positive,Doña Perfecta
+Bien dicen que al bueno Dios le da larga vida.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Así viviera mil años ese ángel del Señor.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Si las bendiciones que le echan en la tierra fueran 15 plumas, la señora no necesitaría más alas para subir al cielo.",-0.5106,0.0,0.177,0.823,negative,Doña Perfecta
+--¿Y mi prima la señorita Rosario?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¡Bien haya quien a los suyos parece!--dijo el aldeano.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--¿Qué he de decirle de doña Rosarito, sino que es el vivo retrato de su madre?",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Buena prenda se lleva usted, caballero 20 D. José, si es verdad, como dicen, que ha venido para casarse con ella.",0.34,0.107,0.0,0.893,positive,Doña Perfecta
+"Tal para cual, y la niña no tiene tampoco por qué quejarse.",-0.296,0.0,0.18,0.82,negative,Doña Perfecta
+Poco va de Pedro a Pedro.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¿Y el Sr. D. Cayetano?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Siempre metidillo en la faena de sus libros.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Tiene 25 una biblioteca más grande que la catedral, y también escarba la tierra para buscar piedras llenas de unos demonches de garabatos que dicen escribieron los moros.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¿En cuánto tiempo llegaremos a Orbajosa?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--A las nueve, si Dios quiere.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Poco contenta se va a 30 poner la señora cuando vea a su sobrino.... Y la señorita Rosarito que estaba ayer disponiendo el cuarto en que usted ha de vivir.... Como no le han visto nunca, la madre y la hija están que no viven, pensando en cómo será o cómo no será este Sr. D. José.",-0.4939,0.042,0.116,0.842,negative,Doña Perfecta
+Ya llegó el tiempo de que callen 5 cartas y hablen barbas.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+La prima verá al primo y todo será fiesta y gloria.,0.4767,0.279,0.0,0.721,positive,Doña Perfecta
+"Amanecerá Dios y medraremos, como dijo el otro.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Como mi tía y mi prima no me conocen todavía--dijo sonriendo el caballero,--no es prudente hacer proyectos.",-0.296,0.0,0.128,0.872,negative,Doña Perfecta
+10 --Verdad es; por eso se dijo que uno piensa el bayo y otro el que lo ensilla--repuso el labriego.--Pero la cara no engaña... ¡qué alhaja se lleva usted!,-0.3595,0.0,0.084,0.916,negative,Doña Perfecta
+¡Y qué buen mozo ella!,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"El caballero no oyó las últimas palabras del tío Licurgo, 15 porque iba distraído y algo meditabundo.",-0.296,0.0,0.128,0.872,negative,Doña Perfecta
+"Llegaban a un recodo del camino, cuando el labriego, torciendo la dirección a las caballerías, dijo: --Ahora tenemos que echar por esta vereda.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+El puente está roto y no se puede vadear el río sino por el cerrillo de 20 los Lirios.,-0.296,0.0,0.115,0.885,negative,Doña Perfecta
+"--¿El cerrillo de los Lirios?--dijo el caballero, saliendo de su meditación.--¡Cómo abundan los nombres poéticos en estos sitios tan feos!",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Desde que viajo por estas tierras, me sorprende la horrible ironía de los nombres.",-0.5423,0.0,0.212,0.788,negative,Doña Perfecta
+"Tal sitio 25 que se distingue por su yermo aspecto y la desolada tristeza del negro paisaje, se llama Valleameno .",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Tal villorrio de adobes que miserablemente se extiende sobre un llano árido y que de diversos modos pregona su pobreza, tiene la insolencia de nombrarse Villarica ; y hay un barranco pedregoso 30 y polvoriento, donde ni los cardos encuentran jugo, y que sin embargo se llama Valdeflores .",-0.5574,0.0,0.079,0.921,negative,Doña Perfecta
+¿Eso que tenemos delante es el Cerrillo de los Lirios ?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"¿Pero dónde están esos lirios, hombre de Dios?",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Yo no veo más que piedras y yerba descolorida.,-0.296,0.0,0.239,0.761,negative,Doña Perfecta
+Llamen a eso el Cerrillo de la Desolación y hablarán a derechas.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Exceptuando Villahorrenda , que parece ha recibido al mismo tiempo el nombre y la hechura, todo aquí es ironía.",0.34,0.13,0.0,0.87,positive,Doña Perfecta
+"Palabras hermosas, realidad prosaica y miserable.",-0.4939,0.0,0.444,0.556,negative,Doña Perfecta
+"Los ciegos serían felices en este país, que 5 para la lengua es paraíso y para los ojos infierno.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+El Sr. Licurgo o no entendió las palabras del caballero Rey o no hizo caso de ellas.,-0.5267,0.0,0.253,0.747,negative,Doña Perfecta
+"Cuando vadearon el río, que turbio y revuelto corría con impaciente precipitación, como si huyera de sus propias orillas, el labriego extendió el brazo 10 hacia unas tierras que a la siniestra mano en grande y desnuda extensión se veían, y dijo: --Estos son los Alamillos de Bustamente .",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--¡Mis tierras!--exclamó con júbilo el caballero, tendiendo la vista por los tristes campos que alumbraban las primeras luces de la mañana.--Es la primera vez que veo 15 el patrimonio que heredé de mi madre.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"La pobre hacía tales ponderaciones de este país y me contaba tantas maravillas de él, que yo, siendo niño, creía que estar aquí era estar en la gloria.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Frutas, flores, caza mayor y menor, montes, lagos, ríos, poéticos arroyos, oteros pastoriles, todo 20 lo había en los Alamillos de Bustamente , en esta tierra bendita, la mejor y más hermosa de todas las tierras.... ¡Qué demonio!",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+La gente de este país vive con la imaginación.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Si en mi niñez, y cuando vivía con las ideas y con el entusiasmo de mi buena madre, me hubieran traído aquí, 25 también me habrían parecido encantadores estos desnudos cerros, estos llanos polvorientos o encharcados, estas vetustas casas de labor, estas norias desvencijadas, cuyos cangilones lagrimean lo bastante para regar media docena de coles, esta desolación miserable y perezosa que estoy mirando.",-0.4939,0.0,0.052,0.948,negative,Doña Perfecta
+30 --Es la mejor tierra del país--dijo el señor Licurgo--y para el garbanzo es de lo que no hay.,-0.296,0.0,0.109,0.891,negative,Doña Perfecta
+"--Pues lo celebro, porque desde que las heredé no me han producido un cuarto estas célebres tierras.",-0.296,0.0,0.121,0.879,negative,Doña Perfecta
+El sabio legislador espartano se rascó la oreja y dió un suspiro.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Pero me han dicho--continuó el caballero--que algunos propietarios colindantes han metido su arado en estos grandes estados míos, y poco a poco me los van cercenando.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"5 Aquí no hay mojones, ni linderos, ni verdadera propiedad, Sr. Licurgo.",-0.296,0.0,0.18,0.82,negative,Doña Perfecta
+"El labriego, después de una pausa, durante la cual parecía ocupar su sutil espíritu en profundas disquisiciones, se expresó de este modo: 10 --El tío Pasolargo, a quien llamamos el Filósofo por su mucha trastienda, metió el arado en los Alamillos por encima de la ermita, y roe que roe, se ha zampado seis fanegadas.",0.34,0.044,0.0,0.956,positive,Doña Perfecta
+--¡Qué incomparable escuela!--exclamó riendo el caballero.--Apostaré que no ha sido ese el único... filósofo.,0.126,0.159,0.13,0.71,positive,Doña Perfecta
+"15 --Bien dijo el otro, que quien las sabe las tañe, y si al palomar no le falta cebo no le faltarán palomas.... Pero usted, Sr. D. José, puede decir aquello de que el ojo del amo engorda la vaca, y ahora que está aquí ver de recobrar su finca.",-0.5267,0.0,0.087,0.913,negative,Doña Perfecta
+"20 --Quizás no sea tan fácil, Sr. Licurgo--repuso el caballero, a punto que entraban por una senda a cuyos lados se veían hermosos trigos que con su lozanía y temprana madurez recreaban la vista.--Este campo parece mejor cultivado.",-0.296,0.0,0.061,0.939,negative,Doña Perfecta
+Veo que no todo es tristeza y miseria en los Alamillos .,-0.296,0.0,0.196,0.804,negative,Doña Perfecta
+"25 El labriego puso cara de lástima, y afectando cierto desdén hacia los campos elogiados por el viajero, dijo en tono humildísimo: --Señor, esto es mío.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Perdone usted--replicó vivamente el caballero--ya 30 quería yo meter mi hoz en los estados de usted.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Por lo visto, la filosofía aquí es contagiosa.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Bajaron inmediatamente a una cañada, que era lecho de pobre y estancado arroyo, y pasado éste, entraron en un campo lleno de piedras, sin la más ligera muestra de vegetación.",-0.5574,0.0,0.122,0.878,negative,Doña Perfecta
+"--Esta tierra es muy mala--dijo el caballero, volviendo el rostro para mirar a su guía y compañero que se había quedado un poco atrás.--Difícilmente podrá usted sacar 5 partido de ella, porque todo es fango y arena.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Licurgo, lleno de mansedumbre, contestó: --Esto... es de usted.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Veo que aquí todo lo malo es mío--afirmó el caballero, riendo jovialmente.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"10 Cuando esto hablaban, tomaron de nuevo el camino real.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Ya la luz del día, entrando en alegre irrupción por todas las ventanas y claraboyas del hispano horizonte, inundó de esplendorosa claridad los campos.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+El inmenso cielo sin nubes parecía agrandarse más y alejarse de la tierra para 15 verla y en su contemplación recrearse desde más alto.,-0.5574,0.0,0.146,0.854,negative,Doña Perfecta
+"La desolada tierra sin árboles, pajiza a trechos, a trechos de color gredoso, dividida toda en triángulos y cuadriláteros amarillos o negruzcos, pardos o ligeramente verdegueados, semejaba en cierto modo a la capa del harapiento que se pone 20 al sol.",-0.5574,0.0,0.096,0.904,negative,Doña Perfecta
+Sobre aquella capa miserable el cristianismo y el islamismo habían trabado épicas batallas.,-0.4939,0.0,0.225,0.775,negative,Doña Perfecta
+"Gloriosos campos, sí, pero los combates de antaño les habían dejado horribles.",-0.4767,0.0,0.22,0.78,negative,Doña Perfecta
+"--Me parece que hoy picará el sol, Sr. Licurgo--dijo el caballero, desembarazándose un poco del abrigo en que se 25 envolvía.--¡Qué triste camino!",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+No se ve ni un solo árbol en todo lo que alcanza la vista.,-0.296,0.0,0.145,0.855,negative,Doña Perfecta
+Aquí todo es al revés.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+La ironía no cesa.,-0.296,0.0,0.423,0.577,negative,Doña Perfecta
+"¿Por qué, si no hay aquí álamos grandes ni chicos, se ha de llamar esto los Alamillos ?",0.0516,0.122,0.112,0.765,positive,Doña Perfecta
+"El tío Licurgo no contestó a la pregunta, porque con toda 30 su alma atendía a ciertos lejanos ruidos que de improviso se oyeron, y con ademán intranquilo detuvo su cabalgadura, mientras exploraba el camino y los cerros lejanos con sombría mirada.",-0.296,0.0,0.056,0.944,negative,Doña Perfecta
+"--¿Qué hay?--preguntó el viajero, deteniéndose también.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--¿Trae usted armas, D. José?",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Un revólver.... ¡Ah!,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+ya comprendo.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+¿Hay ladrones?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+5 --Puede...--repuso el labriego con mucho recelo.-- Me parece que sonó un tiro.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Allá lo veremos...,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+¡adelante!--dijo el caballero picando su jaca.--No serán tan temibles.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Calma, Sr. D. José--exclamó el aldeano deteniéndole.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+10 --Esa gente es más mala que Satanás.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+El otro día asesinaron a dos caballeros que iban a tomar el tren.... Dejémonos de fiestas.,0.3612,0.161,0.0,0.839,positive,Doña Perfecta
+"Gasparón el Fuerte, Pepito Chispillas, Merengue y Ahorca Suegras no me verán la cara en mis días.",-0.296,0.0,0.128,0.872,negative,Doña Perfecta
+Echemos por la vereda.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"15 --Adelante, Sr. Licurgo.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Atrás, Sr. D. José--replicó el labriego con afligido acento.--Usted no sabe bien qué gente es esa.",-0.296,0.0,0.128,0.872,negative,Doña Perfecta
+"Ellos fueron los que en el mes pasado robaron de la iglesia del Carmen el copón, la corona de la Virgen y dos candeleros; 20 ellos fueron los que hace dos años robaron el tren que iba para Madrid.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Don José, al oír tan lamentables antecedentes, sintió que aflojaba un poco su intrepidez.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¿Ve usted aquel cerro grande y empinado que hay allá 25 lejos?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Pues allí se esconden esos pícaros en unas cuevas que llaman la Estancia de los Caballeros .,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¡De los Caballeros!,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Sí señor.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Bajan al camino real, cuando la Guardia civil se descuida, y roban lo que pueden.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"¿No ve usted 30 más allá de la vuelta del camino una cruz, que se puso en memoria de la muerte que dieron al alcalde de Villahorrenda cuando las elecciones?",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Sí, veo la cruz.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Allí hay una casa vieja, en la cual se esconden para aguardar a los tragineros.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+A aquel sitio llamamos las Delicias .,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¡Las Delicias!...,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Si todos los que han sido muertos y robados al 5 pasar por ahí resucitaran, podría formarse con ellos un ejército.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Cuando esto decían, oyéronse más de cerca los tiros, lo que turbó un poco el esforzado corazón de los viajantes, pero no el del zagalillo que, retozando de alegría, pidió al 10 Sr. Licurgo licencia para adelantarse y ver la batalla que tan cerca se había trabado.",-0.296,0.0,0.047,0.953,negative,Doña Perfecta
+"Observando la decisión del muchacho, avergonzóse D. José de haber sentido miedo, o cuando menos un poco de respeto a los ladrones, y exclamó, espoleando la jaca: 15 --Pues allá iremos todos.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Quizás podamos prestar auxilio a los infelices viajeros que en tan gran aprieto se ven, y poner las peras a cuarto a los caballeros .",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Esforzábase el labriego en convencer al joven de la temeridad de sus propósitos, así como de lo inútil de su generosa 20 idea, porque los robados robados estaban y quizás muertos, y en situación de no necesitar auxilio de nadie.",-0.296,0.0,0.056,0.944,negative,Doña Perfecta
+"Insistía el señor a pesar de estas sesudas advertencias, contestaba el aldeano, poniendo la más viva resistencia, cuando la presencia de dos o tres carromateros que por el camino abajo tranquilamente 25 venían conduciendo una galera, puso fin a la cuestión.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"No debía de ser grande el peligro, cuando tan sin cuidado venían aquéllos, cantando alegres coplas; y así fué en efecto, porque los tiros, según dijeron, no eran disparados por los ladrones, sino por la Guardia civil, que de 30 este modo quería cortar el vuelo a media docena de cacos que ensartados conducía a la cárcel de la villa.",-0.7906,0.0,0.129,0.871,negative,Doña Perfecta
+"--Ya, ya sé lo que ha sido--dijo Licurgo, señalando leve humareda que a mano derecha del camino y a regular distancia se descubría.--Allí les han escabechado.",0.34,0.098,0.0,0.902,positive,Doña Perfecta
+Esto pasa un día sí y otro no.,-0.296,0.0,0.268,0.732,negative,Doña Perfecta
+El caballero no comprendía.,-0.296,0.0,0.423,0.577,negative,Doña Perfecta
+"--Yo le aseguro al Sr. D. José--añadió con energía el legislador lacedemonio,--que está muy retebién hecho; 5 porque de nada sirve formar causa a esos pillos.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+El juez les marea un poco y después les suelta.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Si al cabo de seis años de causa, alguno va a presidio, a lo mejor se escapa, o le indultan y vuelve a la Estancia de los Caballeros.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Lo mejor es esto: ¡fuego en ellos!,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Se les lleva a la cárcel, 10 y cuando se pasa por un lugar a propósito... ""¡ah!",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"perro, que te quieres escapar... pum, pum""....",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Ya está hecha la sumaria, requeridos los testigos, celebrada la vista, dada la sentencia.... Todo en un minuto.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Bien dicen, que si mucho sabe la zorra, más sabe el que la toma.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"15 --Pues adelante, y apretemos el paso, que este camino, a más de largo, no tiene nada de ameno--dijo Rey.",-0.296,0.0,0.115,0.885,negative,Doña Perfecta
+"Al pasar junto a las Delicias, vieron, a poca distancia del camino, a los guardias que minutos antes habían ejecutado la extraña sentencia que el lector sabe.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Mucha pena causó 20 al zagalillo que no le permitieran ir a contemplar de cerca los palpitantes cadáveres de los ladrones, que en horroroso grupo se distinguían a lo lejos, y siguieron todos adelante.",-0.296,0.0,0.068,0.932,negative,Doña Perfecta
+"Pero no habían andado veinte pasos, cuando sintieron el galopar de un caballo que tras ellos venía con tanta rapidez, 25 que por momentos les alcanzaba.",-0.296,0.0,0.081,0.919,negative,Doña Perfecta
+"Volvióse nuestro viajero y vió un hombre, mejor dicho, un Centauro, pues no podía concebirse más perfecta armonía entre caballo y ginete, el cual era de complexión recia y sanguínea, ojos grandes, ardientes, cabeza ruda, negros bigotes, mediana edad y el 30 aspecto en general brusco y provocativo, con indicios de fuerza en toda su persona.",0.0516,0.045,0.041,0.914,positive,Doña Perfecta
+"Montaba un soberbio caballo de pecho carnoso, semejante a los del Partenón, enjaezado según el modo pintoresco del país, y sobre la grupa llevaba una gran balija de cuero, en cuya tapa se veía en letras gordas la palabra Correo .",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Hola, buenos días, Sr. Caballuco--dijo Licurgo, saludando al ginete, cuando estuvo cerca.--¡Cómo le hemos tomado la delantera!",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+pero usted llegará antes si se pone 5 a ello.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Descansemos un poco--repuso el señor Caballuco, poniendo su cabalgadura al paso de la de nuestros viajeros, y observando atentamente al más principal de los tres.-- Puesto que hay tan buena compaña.... 10 --El señor--dijo Licurgo sonriendo,--es el sobrino de doña Perfecta.",0.34,0.058,0.0,0.942,positive,Doña Perfecta
+--¡Ah!...,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"por muchos años... muy señor mío y mi dueño.... Ambos personajes se saludaron, siendo de notar que 15 Caballuco hizo sus urbanidades con una expresión de altanería y superioridad que revelaba cuando menos la conciencia de un gran valer o de una alta posición en la comarca.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Cuando el orgulloso ginete se apartó y por breve momento se detuvo hablando con dos Guardias civiles que llegaron 20 al camino, el viajero preguntó a su guía: --¿Quién es este pájaro?",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¿Quién ha de ser?,0.34,0.444,0.0,0.556,positive,Doña Perfecta
+Caballuco.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¿Y quién es Caballuco?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¡Toma!...,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"¿pero no le ha oído usted nombrar?-- 25 dijo el labriego, asombrado de la ignorancia supina del sobrino de doña Perfecta.--Es un hombre muy valiente, gran ginete, y el primer caballista de todas estas tierras a la redonda.",0.0516,0.062,0.057,0.881,positive,Doña Perfecta
+"En Orbajosa le queremos mucho; pues él es... dicho sea en verdad... tan bueno como la bendición de 30 Dios... Ahí donde le ve, es un cacique tremendo, y el Gobernador de la provincia se le quita el sombrero.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Cuando hay elecciones... --Y el Gobierno de Madrid le escribe oficios con mucha vuecencia en el rétulo.... Tira a la barra como un San Cristóbal, y todas las armas las maneja como manejamos nosotros nuestros propios dedos.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Cuando había fielato no podían con él, y todas las noches sonaban tiros en las puertas de la ciudad... Tiene una gente que vale cualquier 5 dinero, porque lo mismo es para un fregado que para un barrido.... Favorece a los pobres, y el que venga de fuera y se atreva a tentar el pelo de la ropa a un hijo de Orbajosa, ya puede verse con él.... Aquí no vienen casi nunca soldados de los Madriles; cuando han estado, 10 todos los días corría la sangre, porque Caballuco les buscaba camorra por un no y por un sí.",-0.6808,0.0,0.07,0.93,negative,Doña Perfecta
+Ahora parece que vive en la pobreza y se ha quedado con la conducción del correo; pero está metiendo fuego en el Ayuntamiento para que haya otra vez fielato y rematarlo él.,0.34,0.076,0.0,0.924,positive,Doña Perfecta
+"No sé cómo no le ha oído 15 usted nombrar en Madrid, porque es hijo de un famoso Caballuco que estuvo en la facción, el cual Caballuco padre era hijo de otro Caballuco abuelo, que también estuvo en la facción de más allá.... Y como ahora andan diciendo que vuelve a haber facción, porque todo está torcido y revuelto, 20 tememos que Caballuco se nos vaya también a ella, poniendo fin de esta manera a las hazañas de su padre y abuelo, que por gloria nuestra nacieron en esta ciudad.",-0.25,0.027,0.05,0.923,negative,Doña Perfecta
+"Sorprendido quedó nuestro viajero al ver la especie de caballería andante que aún subsistía en los lugares que 25 visitaba, pero no tuvo ocasión de hacer nuevas preguntas, porque el mismo que era objeto de ellas se les incorporó, diciendo de mal talante: --La Guardia civil ha despachado a tres.",0.0516,0.047,0.043,0.911,positive,Doña Perfecta
+Ya le he dicho al cabo que se ande con cuidado.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Mañana hablaremos el 30 Gobernador de la provincia y yo.... --¿Va usted a X?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--No, que el Gobernador viene acá, señor Licurgo; sepa usted que nos van a meter en Orbajosa un par de regimientos.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Sí--dijo vivamente el viajero, sonriendo.--En Madrid oí decir que había temor de que se levantaran en este país algunas partidillas... Bueno es prevenirse.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--En Madrid no dicen más que desatinos...--exclamó violentamente el Centauro, acompañando su afirmación de 5 una retahíla de vocablos de esos que levantan ampolla.",-0.296,0.0,0.091,0.909,negative,Doña Perfecta
+En Madrid no hay más que pillería... ¿A qué nos mandan soldados?,-0.296,0.0,0.167,0.833,negative,Doña Perfecta
+¿Para sacarnos más contribuciones y un par de quintas seguidas?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+¡Por vida de!...,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+que si no hay facción debería haberla.,-0.296,0.0,0.268,0.732,negative,Doña Perfecta
+"Con que usted--añadió, mirando 10 socarronamente al joven caballero,--¿con que usted es el sobrino de doña Perfecta?",0.34,0.13,0.0,0.87,positive,Doña Perfecta
+Esta salida de tono y el insolente mirar del bravo enfadaron al joven.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Sí, señor.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+¿Se le ofrece a usted algo?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"15 --Soy amigo de la señora y la quiero como a las niñas de mis ojos--dijo Caballuco.--Puesto que usted va a Orbajosa, allá nos veremos.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Y sin decir más picó espuelas a su corcel, el cual, partiendo a escape, desapareció entre una nube de polvo.",-0.4404,0.084,0.177,0.739,negative,Doña Perfecta
+"20 Después de media hora de camino, durante la cual el Sr. D. José no se mostró muy comunicativo, ni el Sr. Licurgo tampoco, apareció a los ojos de entrambos apiñado y viejo caserío asentado en una loma, y del cual se destacaban algunas negras torres y la ruinosa fábrica de un 25 despedazado castillo en lo más alto.",-0.296,0.0,0.039,0.961,negative,Doña Perfecta
+"Un amasijo de paredes deformes de casuchas de tierra pardas y polvorosas como el suelo, formaba la base, con algunos fragmentos de almenadas murallas, a cuyo amparo mil chozas humildes alzaban sus miserables frontispicios de adobes, semejantes a caras 30 anémicas y hambrientas que pedían una limosna al pasajero.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Pobrísimo río ceñía, como un cinturón de hojalata, el pueblo, refrescando al pasar algunas huertas, única frondosidad que alegraba la vista.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Entraba y salía la gente en caballerías o a pie, y el movimiento humano, aunque pequeño, daba cierta apariencia vital a aquella gran morada, cuyo aspecto arquitectónico era más bien de ruina y muerte que de progreso y vida.",0.296,0.066,0.0,0.934,positive,Doña Perfecta
+"Los innumerables y repugnantes mendigos que se arrastraban a un lado y otro del camino, 5 pidiendo el óbolo del pasajero, ofrecían lastimoso espectáculo.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"No podían verse existencias que mejor cuadraran, ni que más apropiadas fueran a las grietas de aquel sepulcro, donde una ciudad estaba no sólo enterrada sino también podrida.",-0.5267,0.0,0.15,0.85,negative,Doña Perfecta
+"Cuando nuestros viajeros se acercaban, algunas 10 campanas tocando desacordemente indicaban con su expresivo son que aquella momia tenía todavía un alma.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Llamábase Orbajosa, ciudad que no en Geografía caldea o cophta, sino en la de España, figura con 7,324 habitantes, Ayuntamiento, sede episcopal, partido judicial, seminario, 15 depósito de caballos sementales, instituto de segunda enseñanza y otras prerogativas oficiales.",-0.296,0.0,0.059,0.941,negative,Doña Perfecta
+--Están tocando a misa mayor en la catedral--dijo el tío Licurgo.--Llegamos antes de lo que pensé.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--El aspecto de su patria de usted--dijo el caballero, 20 examinando el panorama que delante tenía,--no puede ser más desagradable.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"La histórica ciudad de Orbajosa, 1 cuyo nombre es, sin duda, corrupción de urbs augusta , parece un gran muladar.",-0.5574,0.0,0.175,0.825,negative,Doña Perfecta
+[Nota 1: Ya se ha dicho que todos los nombres locales son imaginarios.],0.34,0.167,0.0,0.833,positive,Doña Perfecta
+"--Es que de aquí no se ven más que los arrabales--afirmó 25 con disgusto el guía.--Cuando entre usted en la calle Real y en la del Condestable, verá fábricas tan hermosas como la de la catedral.",-0.296,0.0,0.061,0.939,negative,Doña Perfecta
+"--- No quiero hablar mal de Orbajosa antes de conocerla--dijo el caballero.--Lo que he dicho no es tampoco señal 30 de desprecio; que humilde y miserable, lo mismo que hermosa y soberbia, esa ciudad será siempre para mí muy querida, no sólo por ser patria de mi madre, sino porque en ella viven personas a quienes amo ya sin conocerlas.",-0.9081,0.0,0.205,0.795,negative,Doña Perfecta
+"Entremos, pues, en la ciudad augusta .",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Subían ya por una calzada próxima a las primeras calles, e iban tocando las tapias de las huertas.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--¿Ve usted aquella gran casa que está al fin de esta 5 gran huerta por cuyo bardal pasamos ahora?--dijo el tío Licurgo, señalando el enorme paredón revocado de la única vivienda que tenía aspecto de habitabilidad cómoda y alegre.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Ya... ¿aquella es la vivienda de mi tía?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Justo y cabal.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Lo que vemos es la parte trasera de la 10 casa.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"El frontis da a la calle del Condestable, y tiene cinco balcones de hierro que parecen cinco castillos.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Esta hermosa huerta que hay tras la tapia es la de la casa, y si usted se alza sobre los estribos, la verá toda desde aquí.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Pues estamos ya en casa--dijo el caballero.--¿No se 15 puede entrar por aquí?,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Hay una puertecilla; pero la señora la mandó tapiar.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"El caballero se alzó sobre los estribos, y alargando cuanto pudo la cabeza, miró por encima de las bardas.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Veo la huerta toda--indicó.--Allí, bajo aquellos árboles, 20 está una mujer, una chiquilla... una señorita.... --Es la señorita Rosario--repuso Licurgo.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+Y al instante se alzó también sobre los estribos para mirar.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--¡Eh!,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"señorita Rosario--gritó, haciendo con la derecha 25 mano gestos muy significativos.--Ya estamos aquí... aquí le traigo a su primo.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Nos ha visto--dijo el caballero, estirando el pescuezo hasta el último grado.--Pero si no me engaño, al lado de ella está un clérigo... un señor sacerdote.",0.0516,0.084,0.077,0.839,positive,Doña Perfecta
+30 --Es el señor Penitenciario--repuso con naturalidad el labriego.,0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"--Mi prima nos ve... deja solo al clérigo, y echa a correr hacia la casa... Es bonita.... --Como un sol.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+--Se ha puesto más encarnada que una cereza.,0.34,0.255,0.0,0.745,positive,Doña Perfecta
+"Vamos, vamos, Sr. Licurgo.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"III Pepe Rey Antes de pasar adelante, conviene decir quién era Pepe Rey y qué asuntos le llevaban a Orbajosa.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"5 Cuando el brigadier Rey murió en 1841, sus dos hijos, Juan y Perfecta, acababan de casarse, ésta con el más rico proprietario de Orbajosa, aquél con una joven de la misma ciudad.",0.34,0.074,0.0,0.926,positive,Doña Perfecta
+"Llamábase el esposo de Perfecta don Manuel María José de Polentinos, y la mujer de Juan, María Polentinos; 10 pero a pesar de la igualdad de apellido, su parentesco era un poco lejano y de aquellos que no coge un galgo.",0.0516,0.059,0.054,0.887,positive,Doña Perfecta
+"Juan Rey era insigne jurisconsulto graduado en Sevilla, y ejerció la abogacía en esta misma ciudad durante treinta años, con tanta gloria como provecho.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"En 1845 era ya viudo y tenía 15 un hijo que empezaba a hacer diabluras; solía tener por entretenimiento el construir con tierra en el patio de la casa viaductos, malecones, estanques, presas, acequias, soltando después el agua para que entre aquellas frágiles obras corriese.",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"El padre le dejaba hacer y decía: ""tú serás 20 ingeniero.""",0.0,0.0,0.0,1.0,neutral,Doña Perfecta
+"Perfecta y Juan dejaron de verse desde que uno y otro se casaron, porque ella se fué a vivir a Madrid con el opulentísimo Polentinos, que tenía tanta hacienda como buena mano para gastarla.",0.34,0.076,0.0,0.924,positive,Doña Perfecta
+"El juego y las mujeres cautivaban de 25 tal modo el corazón de Manuel María José, que habría dado en tierra con toda su fortuna, si más pron",0.0,0.0,0.0,1.0,neutral,Doña Perfecta

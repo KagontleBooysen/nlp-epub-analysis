@@ -1,0 +1,700 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Railway Children This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.068,0.107,0.825,negative,The Railway Children
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Railway Children
+"Title : The Railway Children Author : E. Nesbit Release date : August 1, 1999 [eBook #1874] Most recently updated: January 27, 2021 Language : English Other information and formats : www.gutenberg.org/ebooks/1874 Credits : Produced by Les Bowler, and David Widger *** START OF THE PROJECT GUTENBERG EBOOK THE RAILWAY CHILDREN *** THE RAILWAY CHILDREN By E. Nesbit To my dear son Paul Bland, behind whose knowledge of railways my ignorance confidently shelters.",0.6908,0.111,0.034,0.855,positive,The Railway Children
+Contents Chapter I.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The beginning of things.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter II.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Peter's coal-mine.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter III.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The old gentleman.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter IV.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The engine-burglar.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter V. Prisoners and captives.,-0.5106,0.0,0.452,0.548,negative,The Railway Children
+Chapter VI.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Saviours of the train.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter VII.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+For valour.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter VIII.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The amateur firemen.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter IX.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The pride of Perks.,0.34,0.444,0.0,0.556,positive,The Railway Children
+Chapter X.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The terrible secret.,-0.4767,0.0,0.608,0.392,negative,The Railway Children
+Chapter XI.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The hound in the red jersey.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter XII.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+What Bobbie brought home.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter XIII.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The hound's grandfather.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter XIV.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The End.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter I.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The beginning of things.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+They were not railway children to begin with.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"I don't suppose they had ever thought about railways except as a means of getting to Maskelyne and Cook's, the Pantomime, Zoological Gardens, and Madame Tussaud's.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"They were just ordinary suburban children, and they lived with their Father and Mother in an ordinary red-brick-fronted villa, with coloured glass in the front door, a tiled passage that was called a hall, a bath-room with hot and cold water, electric bells, French windows, and a good deal of white paint, and 'every modern convenience', as the house-agents say.",0.4404,0.05,0.0,0.95,positive,The Railway Children
+There were three of them.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Roberta was the eldest.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Of course, Mothers never have favourites, but if their Mother HAD had a favourite, it might have been Roberta.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Next came Peter, who wished to be an Engineer when he grew up; and the youngest was Phyllis, who meant extremely well.",0.3384,0.102,0.0,0.898,positive,The Railway Children
+"Mother did not spend all her time in paying dull calls to dull ladies, and sitting dully at home waiting for dull ladies to pay calls to her.",-0.8625,0.0,0.335,0.665,negative,The Railway Children
+"She was almost always there, ready to play with the children, and read to them, and help them to do their home-lessons.",0.7458,0.279,0.0,0.721,positive,The Railway Children
+"Besides this she used to write stories for them while they were at school, and read them aloud after tea, and she always made up funny pieces of poetry for their birthdays and for other great occasions, such as the christening of the new kittens, or the refurnishing of the doll's house, or the time when they were getting over the mumps.",0.7906,0.104,0.0,0.896,positive,The Railway Children
+"These three lucky children always had everything they needed: pretty clothes, good fires, a lovely nursery with heaps of toys, and a Mother Goose wall-paper.",0.9136,0.401,0.0,0.599,positive,The Railway Children
+"They had a kind and merry nursemaid, and a dog who was called James, and who was their very own.",0.7845,0.301,0.0,0.699,positive,The Railway Children
+"They also had a Father who was just perfect--never cross, never unjust, and always ready for a game--at least, if at any time he was NOT ready, he always had an excellent reason for it, and explained the reason to the children so interestingly and funnily that they felt sure he couldn't help himself.",0.9524,0.306,0.034,0.661,positive,The Railway Children
+You will think that they ought to have been very happy.,0.6115,0.285,0.0,0.715,positive,The Railway Children
+"And so they were, but they did not know HOW happy till the pretty life in the Red Villa was over and done with, and they had to live a very different life indeed.",0.078,0.109,0.102,0.789,positive,The Railway Children
+The dreadful change came quite suddenly.,-0.4404,0.0,0.367,0.633,negative,The Railway Children
+Peter had a birthday--his tenth.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Among his other presents was a model engine more perfect than you could ever have dreamed of.,0.6115,0.21,0.0,0.79,positive,The Railway Children
+"The other presents were full of charm, but the Engine was fuller of charm than any of the others were.",0.6597,0.231,0.0,0.769,positive,The Railway Children
+Its charm lasted in its full perfection for exactly three days.,0.7506,0.416,0.0,0.584,positive,The Railway Children
+"Then, owing either to Peter's inexperience or Phyllis's good intentions, which had been rather pressing, or to some other cause, the Engine suddenly went off with a bang.",0.4404,0.1,0.0,0.9,positive,The Railway Children
+James was so frightened that he went out and did not come back all day.,-0.5777,0.0,0.211,0.789,negative,The Railway Children
+"All the Noah's Ark people who were in the tender were broken to bits, but nothing else was hurt except the poor little engine and the feelings of Peter.",-0.3687,0.102,0.173,0.725,negative,The Railway Children
+"The others said he cried over it--but of course boys of ten do not cry, however terrible the tragedies may be which darken their lot.",-0.1007,0.162,0.174,0.664,negative,The Railway Children
+He said that his eyes were red because he had a cold.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"This turned out to be true, though Peter did not know it was when he said it, the next day he had to go to bed and stay there.",0.4215,0.091,0.0,0.909,positive,The Railway Children
+"Mother began to be afraid that he might be sickening for measles, when suddenly he sat up in bed and said: ""I hate gruel--I hate barley water--I hate bread and milk.",-0.9382,0.0,0.349,0.651,negative,The Railway Children
+"I want to get up and have something REAL to eat.""",0.0772,0.126,0.0,0.874,positive,The Railway Children
+"""What would you like?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Mother asked.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""A pigeon-pie,"" said Peter, eagerly, ""a large pigeon-pie.",0.3818,0.271,0.0,0.729,positive,The Railway Children
+"A very large one.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+So Mother asked the Cook to make a large pigeon-pie.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+The pie was made.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And when the pie was made, it was cooked.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And when it was cooked, Peter ate some of it.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+After that his cold was better.,0.4404,0.367,0.0,0.633,positive,The Railway Children
+Mother made a piece of poetry to amuse him while the pie was being made.,0.4019,0.172,0.0,0.828,positive,The Railway Children
+"It began by saying what an unfortunate but worthy boy Peter was, then it went on: He had an engine that he loved With all his heart and soul, And if he had a wish on earth It was to keep it whole.",0.9144,0.242,0.038,0.72,positive,The Railway Children
+"One day--my friends, prepare your minds; I'm coming to the worst-- Quite suddenly a screw went mad, And then the boiler burst!",-0.2664,0.118,0.197,0.685,negative,The Railway Children
+"With gloomy face he picked it up And took it to his Mother, Though even he could not suppose That she could make another; For those who perished on the line He did not seem to care, His engine being more to him Than all the people there.",-0.4986,0.0,0.084,0.916,negative,The Railway Children
+And now you see the reason why Our Peter has been ill: He soothes his soul with pigeon-pie His gnawing grief to kill.,-0.8934,0.0,0.349,0.651,negative,The Railway Children
+"He wraps himself in blankets warm And sleeps in bed till late, Determined thus to overcome His miserable fate.",0.0258,0.183,0.136,0.681,neutral,The Railway Children
+"And if his eyes are rather red, His cold must just excuse it: Offer him pie; you may be sure He never will refuse it.",0.5405,0.2,0.0,0.8,positive,The Railway Children
+Father had been away in the country for three or four days.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"All Peter's hopes for the curing of his afflicted Engine were now fixed on his Father, for Father was most wonderfully clever with his fingers.",0.8304,0.304,0.074,0.622,positive,The Railway Children
+He could mend all sorts of things.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"He had often acted as veterinary surgeon to the wooden rocking-horse; once he had saved its life when all human aid was despaired of, and the poor creature was given up for lost, and even the carpenter said he didn't see his way to do anything.",-0.743,0.052,0.169,0.779,negative,The Railway Children
+"And it was Father who mended the doll's cradle when no one else could; and with a little glue and some bits of wood and a pen-knife made all the Noah's Ark beasts as strong on their pins as ever they were, if not stronger.",-0.0217,0.069,0.092,0.839,neutral,The Railway Children
+"Peter, with heroic unselfishness, did not say anything about his Engine till after Father had had his dinner and his after-dinner cigar.",0.5574,0.146,0.0,0.854,positive,The Railway Children
+The unselfishness was Mother's idea--but it was Peter who carried it out.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And needed a good deal of patience, too.",0.4404,0.326,0.0,0.674,positive,The Railway Children
+"At last Mother said to Father, ""Now, dear, if you're quite rested, and quite comfy, we want to tell you about the great railway accident, and ask your advice.""",0.6326,0.227,0.085,0.687,positive,The Railway Children
+"""All right,"" said Father, ""fire away!""",-0.4003,0.0,0.35,0.65,negative,The Railway Children
+"So then Peter told the sad tale, and fetched what was left of the Engine.",-0.4767,0.0,0.181,0.819,negative,The Railway Children
+"""Hum,"" said Father, when he had looked the Engine over very carefully.",0.2006,0.14,0.0,0.86,positive,The Railway Children
+The children held their breaths.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Is there NO hope?""",-0.4466,0.0,0.494,0.506,negative,The Railway Children
+"said Peter, in a low, unsteady voice.",-0.2732,0.0,0.296,0.704,negative,The Railway Children
+"""Hope?",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Rather!,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Tons of it,"" said Father, cheerfully; ""but it'll want something besides hope--a bit of brazing say, or some solder, and a new valve.",0.3612,0.149,0.0,0.851,positive,The Railway Children
+I think we'd better keep it for a rainy day.,0.3818,0.284,0.127,0.588,positive,The Railway Children
+"In other words, I'll give up Saturday afternoon to it, and you shall all help me.""",0.4019,0.153,0.0,0.847,positive,The Railway Children
+"""CAN girls help to mend engines?""",0.4019,0.351,0.0,0.649,positive,The Railway Children
+Peter asked doubtfully.,-0.296,0.0,0.524,0.476,negative,The Railway Children
+"""Of course they can.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Girls are just as clever as boys, and don't you forget it!",0.607,0.331,0.0,0.669,positive,The Railway Children
+"How would you like to be an engine-driver, Phil?""",0.3612,0.238,0.0,0.762,positive,The Railway Children
+"""My face would be always dirty, wouldn't it?""",-0.4404,0.0,0.293,0.707,negative,The Railway Children
+"said Phyllis, in unenthusiastic tones, ""and I expect I should break something.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I should just love it,"" said Roberta--""do you think I could when I'm grown up, Daddy?",0.6369,0.231,0.0,0.769,positive,The Railway Children
+"Or even a stoker?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""You mean a fireman,"" said Daddy, pulling and twisting at the engine.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Well, if you still wish it, when you're grown up, we'll see about making you a fire-woman.",0.4019,0.153,0.0,0.847,positive,The Railway Children
+"I remember when I was a boy--"" Just then there was a knock at the front door.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Who on earth!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+said Father.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""An Englishman's house is his castle, of course, but I do wish they built semi-detached villas with moats and drawbridges.""",0.5499,0.165,0.0,0.835,positive,The Railway Children
+Ruth--she was the parlour-maid and had red hair--came in and said that two gentlemen wanted to see the master.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I've shown them into the Library, Sir,"" said she.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I expect it's the subscription to the Vicar's testimonial,"" said Mother, ""or else it's the choir holiday fund.",0.4019,0.137,0.0,0.863,positive,The Railway Children
+"Get rid of them quickly, dear.",0.3818,0.342,0.0,0.658,positive,The Railway Children
+"It does break up an evening so, and it's nearly the children's bedtime.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+But Father did not seem to be able to get rid of the gentlemen at all quickly.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I wish we HAD got a moat and drawbridge,"" said Roberta; ""then, when we didn't want people, we could just pull up the drawbridge and no one else could get in.",0.0716,0.082,0.103,0.815,positive,The Railway Children
+"I expect Father will have forgotten about when he was a boy if they stay much longer.""",-0.2263,0.0,0.119,0.881,negative,The Railway Children
+"Mother tried to make the time pass by telling them a new fairy story about a Princess with green eyes, but it was difficult because they could hear the voices of Father and the gentlemen in the Library, and Father's voice sounded louder and different to the voice he generally used to people who came about testimonials and holiday funds.",0.0772,0.057,0.052,0.892,positive,The Railway Children
+"Then the Library bell rang, and everyone heaved a breath of relief.",0.4767,0.237,0.0,0.763,positive,The Railway Children
+"""They're going now,"" said Phyllis; ""he's rung to have them shown out.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"But instead of showing anybody out, Ruth showed herself in, and she looked queer, the children thought.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Please'm,"" she said, ""the Master wants you to just step into the study.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"He looks like the dead, mum; I think he's had bad news.",-0.743,0.137,0.426,0.437,negative,The Railway Children
+"You'd best prepare yourself for the worst, 'm--p'raps it's a death in the family or a bank busted or--"" ""That'll do, Ruth,"" said Mother gently; ""you can go.""",-0.2023,0.194,0.215,0.591,negative,The Railway Children
+Then Mother went into the Library.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+There was more talking.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Then the bell rang again, and Ruth fetched a cab.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+The children heard boots go out and down the steps.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"The cab drove away, and the front door shut.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Then Mother came in.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Her dear face was as white as her lace collar, and her eyes looked very big and shining.",0.3818,0.133,0.0,0.867,positive,The Railway Children
+Her mouth looked like just a line of pale red--her lips were thin and not their proper shape at all.,0.3612,0.122,0.0,0.878,positive,The Railway Children
+"""It's bedtime,"" she said.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Ruth will put you to bed.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""But you promised we should sit up late tonight because Father's come home,"" said Phyllis.",0.5023,0.188,0.0,0.812,positive,The Railway Children
+"""Father's been called away--on business,"" said Mother.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Come, darlings, go at once.""",0.4939,0.444,0.0,0.556,positive,The Railway Children
+They kissed her and went.,0.3818,0.394,0.0,0.606,positive,The Railway Children
+"Roberta lingered to give Mother an extra hug and to whisper: ""It wasn't bad news, Mammy, was it?",0.714,0.271,0.0,0.729,positive,The Railway Children
+"Is anyone dead--or--"" ""Nobody's dead--no,"" said Mother, and she almost seemed to push Roberta away.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I can't tell you anything tonight, my pet.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Go, dear, go NOW.""",0.3818,0.464,0.0,0.536,positive,The Railway Children
+So Roberta went.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Ruth brushed the girls' hair and helped them to undress.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+(Mother almost always did this herself.),0.0,0.0,0.0,1.0,neutral,The Railway Children
+"When she had turned down the gas and left them she found Peter, still dressed, waiting on the stairs.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I say, Ruth, what's up?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+he asked.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Don't ask me no questions and I won't tell you no lies,"" the red-headed Ruth replied.",0.4168,0.225,0.0,0.775,positive,The Railway Children
+"""You'll know soon enough.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Late that night Mother came up and kissed all three children as they lay asleep.,0.3818,0.157,0.0,0.843,positive,The Railway Children
+"But Roberta was the only one whom the kiss woke, and she lay mousey-still, and said nothing.",0.5719,0.188,0.0,0.812,positive,The Railway Children
+"""If Mother doesn't want us to know she's been crying,"" she said to herself as she heard through the dark the catching of her Mother's breath, ""we WON'T know it.",-0.0572,0.0,0.04,0.96,negative,The Railway Children
+"That's all.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"When they came down to breakfast the next morning, Mother had already gone out.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""To London,"" Ruth said, and left them to their breakfast.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""There's something awful the matter,"" said Peter, breaking his egg.",-0.4588,0.0,0.25,0.75,negative,The Railway Children
+"""Ruth told me last night we should know soon enough.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Did you ASK her?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"said Roberta, with scorn.",-0.4019,0.0,0.474,0.526,negative,The Railway Children
+"""Yes, I did!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"said Peter, angrily.",-0.4215,0.0,0.583,0.417,negative,The Railway Children
+"""If you could go to bed without caring whether Mother was worried or not, I couldn't.",-0.5897,0.0,0.271,0.729,negative,The Railway Children
+"So there.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I don't think we ought to ask the servants things Mother doesn't tell us,"" said Roberta.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""That's right, Miss Goody-goody,"" said Peter, ""preach away.""",-0.1531,0.0,0.186,0.814,negative,The Railway Children
+"""I'M not goody,"" said Phyllis, ""but I think Bobbie's right this time.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Of course.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+She always is.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"In her own opinion,"" said Peter.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, DON'T!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"cried Roberta, putting down her egg-spoon; ""don't let's be horrid to each other.",0.0644,0.173,0.158,0.669,positive,The Railway Children
+I'm sure some dire calamity is happening.,-0.1779,0.223,0.291,0.485,negative,The Railway Children
+"Don't let's make it worse!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Who began, I should like to know?""",0.3612,0.333,0.0,0.667,positive,The Railway Children
+said Peter.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Roberta made an effort, and answered:-- ""I did, I suppose, but--"" ""Well, then,"" said Peter, triumphantly.",0.5106,0.191,0.0,0.809,positive,The Railway Children
+But before he went to school he thumped his sister between the shoulders and told her to cheer up.,0.6652,0.198,0.0,0.802,positive,The Railway Children
+"The children came home to one o'clock dinner, but Mother was not there.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+And she was not there at tea-time.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"It was nearly seven before she came in, looking so ill and tired that the children felt they could not ask her any questions.",-0.777,0.0,0.236,0.764,negative,The Railway Children
+She sank into an arm-chair.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Phyllis took the long pins out of her hat, while Roberta took off her gloves, and Peter unfastened her walking-shoes and fetched her soft velvety slippers for her.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"When she had had a cup of tea, and Roberta had put eau-de-Cologne on her poor head that ached, Mother said:-- ""Now, my darlings, I want to tell you something.",-0.296,0.132,0.167,0.702,negative,The Railway Children
+"Those men last night did bring very bad news, and Father will be away for some time.",-0.5849,0.0,0.192,0.808,negative,The Railway Children
+"I am very worried about it, and I want you all to help me, and not to make things harder for me.""",0.1298,0.17,0.106,0.724,positive,The Railway Children
+"""As if we would!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"said Roberta, holding Mother's hand against her face.",0.4939,0.314,0.0,0.686,positive,The Railway Children
+"""You can help me very much,"" said Mother, ""by being good and happy and not quarrelling when I'm away""--Roberta and Peter exchanged guilty glances--""for I shall have to be away a good deal.""",0.8555,0.298,0.068,0.634,positive,The Railway Children
+"""We won't quarrel.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Indeed we won't,"" said everybody.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And meant it, too.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Then,"" Mother went on, ""I want you not to ask me any questions about this trouble; and not to ask anybody else any questions.""",-0.4263,0.049,0.118,0.833,negative,The Railway Children
+Peter cringed and shuffled his boots on the carpet.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""You'll promise this, too, won't you?""",0.3182,0.315,0.0,0.685,positive,The Railway Children
+said Mother.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I did ask Ruth,"" said Peter, suddenly.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I'm very sorry, but I did.""",-0.0763,0.0,0.245,0.755,negative,The Railway Children
+"""And what did she say?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""She said I should know soon enough.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""It isn't necessary for you to know anything about it,"" said Mother; ""it's about business, and you never do understand business, do you?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""No,"" said Roberta; ""is it something to do with Government?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+For Father was in a Government Office.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Yes,"" said Mother.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Now it's bed-time, my darlings.",0.4939,0.444,0.0,0.556,positive,The Railway Children
+And don't YOU worry.,0.3412,0.445,0.0,0.555,positive,The Railway Children
+"It'll all come right in the end.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Then don't YOU worry either, Mother,"" said Phyllis, ""and we'll all be as good as gold.""",0.6492,0.275,0.0,0.725,positive,The Railway Children
+Mother sighed and kissed them.,0.3818,0.394,0.0,0.606,positive,The Railway Children
+"""We'll begin being good the first thing tomorrow morning,"" said Peter, as they went upstairs.",0.4404,0.172,0.0,0.828,positive,The Railway Children
+"""Why not NOW?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+said Roberta.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""There's nothing to be good ABOUT now, silly,"" said Peter.",-0.3412,0.0,0.211,0.789,negative,The Railway Children
+"""We might begin to try to FEEL good,"" said Phyllis, ""and not call names.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Who's calling names?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+said Peter.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Bobbie knows right enough that when I say 'silly', it's just the same as if I said Bobbie.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""WELL,"" said Roberta.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""No, I don't mean what you mean.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+I mean it's just a--what is it Father calls it?--a germ of endearment!,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Good night.""",0.4404,0.744,0.0,0.256,positive,The Railway Children
+The girls folded up their clothes with more than usual neatness--which was the only way of being good that they could think of.,0.4404,0.116,0.0,0.884,positive,The Railway Children
+"""I say,"" said Phyllis, smoothing out her pinafore, ""you used to say it was so dull--nothing happening, like in books.",0.4144,0.127,0.0,0.873,positive,The Railway Children
+"Now something HAS happened.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I never wanted things to happen to make Mother unhappy,"" said Roberta.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Everything's perfectly horrid.""",0.6369,0.677,0.0,0.323,positive,The Railway Children
+Everything continued to be perfectly horrid for some weeks.,0.1779,0.286,0.238,0.476,positive,The Railway Children
+Mother was nearly always out.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Meals were dull and dirty.,-0.6808,0.0,0.651,0.349,negative,The Railway Children
+"The between-maid was sent away, and Aunt Emma came on a visit.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Aunt Emma was much older than Mother.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+She was going abroad to be a governess.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"She was very busy getting her clothes ready, and they were very ugly, dingy clothes, and she had them always littering about, and the sewing-machine seemed to whir--on and on all day and most of the night.",-0.2716,0.061,0.087,0.852,negative,The Railway Children
+Aunt Emma believed in keeping children in their proper places.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+And they more than returned the compliment.,0.4767,0.341,0.0,0.659,positive,The Railway Children
+Their idea of Aunt Emma's proper place was anywhere where they were not.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+So they saw very little of her.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"They preferred the company of the servants, who were more amusing.",0.4391,0.224,0.0,0.776,positive,The Railway Children
+"Cook, if in a good temper, could sing comic songs, and the housemaid, if she happened not to be offended with you, could imitate a hen that has laid an egg, a bottle of champagne being opened, and could mew like two cats fighting.",0.466,0.188,0.107,0.705,positive,The Railway Children
+The servants never told the children what the bad news was that the gentlemen had brought to Father.,-0.5423,0.0,0.171,0.829,negative,The Railway Children
+But they kept hinting that they could tell a great deal if they chose--and this was not comfortable.,0.4761,0.233,0.147,0.62,positive,The Railway Children
+"One day when Peter had made a booby trap over the bath-room door, and it had acted beautifully as Ruth passed through, that red-haired parlour-maid caught him and boxed his ears.",0.34,0.109,0.068,0.824,positive,The Railway Children
+"""You'll come to a bad end,"" she said furiously, ""you nasty little limb, you!",-0.8832,0.0,0.507,0.493,negative,The Railway Children
+"If you don't mend your ways, you'll go where your precious Father's gone, so I tell you straight!""",0.6114,0.2,0.0,0.8,positive,The Railway Children
+"Roberta repeated this to her Mother, and next day Ruth was sent away.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Then came the time when Mother came home and went to bed and stayed there two days and the Doctor came, and the children crept wretchedly about the house and wondered if the world was coming to an end.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Mother came down one morning to breakfast, very pale and with lines on her face that used not to be there.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And she smiled, as well as she could, and said:-- ""Now, my pets, everything is settled.",0.6808,0.286,0.0,0.714,positive,The Railway Children
+"We're going to leave this house, and go and live in the country.",-0.0516,0.0,0.091,0.909,negative,The Railway Children
+Such a ducky dear little white house.,0.3818,0.342,0.0,0.658,positive,The Railway Children
+"I know you'll love it.""",0.6369,0.583,0.0,0.417,positive,The Railway Children
+"A whirling week of packing followed--not just packing clothes, like when you go to the seaside, but packing chairs and tables, covering their tops with sacking and their legs with straw.",0.7351,0.181,0.0,0.819,positive,The Railway Children
+All sorts of things were packed that you don't pack when you go to the seaside.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Crockery, blankets, candlesticks, carpets, bedsteads, saucepans, and even fenders and fire-irons.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+The house was like a furniture warehouse.,0.3612,0.333,0.0,0.667,positive,The Railway Children
+I think the children enjoyed it very much.,0.5106,0.355,0.0,0.645,positive,The Railway Children
+"Mother was very busy, but not too busy now to talk to them, and read to them, and even to make a bit of poetry for Phyllis to cheer her up when she fell down with a screwdriver and ran it into her hand.",0.8807,0.207,0.0,0.793,positive,The Railway Children
+"""Aren't you going to pack this, Mother?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Roberta asked, pointing to the beautiful cabinet inlaid with red turtleshell and brass.",0.5994,0.245,0.0,0.755,positive,The Railway Children
+"""We can't take everything,"" said Mother.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""But we seem to be taking all the ugly things,"" said Roberta.",-0.6652,0.0,0.288,0.712,negative,The Railway Children
+"""We're taking the useful ones,"" said Mother; ""we've got to play at being Poor for a bit, my chickabiddy.""",0.296,0.226,0.132,0.641,positive,The Railway Children
+"When all the ugly useful things had been packed up and taken away in a van by men in green-baize aprons, the two girls and Mother and Aunt Emma slept in the two spare rooms where the furniture was all pretty.",0.4215,0.131,0.071,0.797,positive,The Railway Children
+All their beds had gone.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+A bed was made up for Peter on the drawing-room sofa.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I say, this is larks,"" he said, wriggling joyously, as Mother tucked him up.",0.5994,0.231,0.0,0.769,positive,The Railway Children
+"""I do like moving!",0.4199,0.482,0.0,0.518,positive,The Railway Children
+"I wish we moved once a month.""",0.4019,0.403,0.0,0.597,positive,The Railway Children
+Mother laughed.,0.4588,0.75,0.0,0.25,positive,The Railway Children
+"""I don't!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+she said.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Good night, Peterkin.""",0.4404,0.592,0.0,0.408,positive,The Railway Children
+As she turned away Roberta saw her face.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+She never forgot it.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, Mother,"" she whispered all to herself as she got into bed, ""how brave you are!",0.5707,0.198,0.0,0.802,positive,The Railway Children
+How I love you!,0.6696,0.692,0.0,0.308,positive,The Railway Children
+"Fancy being brave enough to laugh when you're feeling like THAT!""",0.8832,0.617,0.0,0.383,positive,The Railway Children
+"Next day boxes were filled, and boxes and more boxes; and then late in the afternoon a cab came to take them to the station.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Aunt Emma saw them off.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"They felt that THEY were seeing HER off, and they were glad of it.",0.4588,0.188,0.0,0.812,positive,The Railway Children
+"""But, oh, those poor little foreign children that she's going to governess!""",-0.5255,0.0,0.236,0.764,negative,The Railway Children
+whispered Phyllis.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I wouldn't be them for anything!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"At first they enjoyed looking out of the window, but when it grew dusk they grew sleepier and sleepier, and no one knew how long they had been in the train when they were roused by Mother's shaking them gently and saying:-- ""Wake up, dears.",0.7311,0.182,0.088,0.729,positive,The Railway Children
+"We're there.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"They woke up, cold and melancholy, and stood shivering on the draughty platform while the baggage was taken out of the train.",-0.4404,0.0,0.121,0.879,negative,The Railway Children
+"Then the engine, puffing and blowing, set to work again, and dragged the train away.",-0.0516,0.0,0.079,0.921,negative,The Railway Children
+The children watched the tail-lights of the guard's van disappear into the darkness.,-0.4404,0.0,0.262,0.738,negative,The Railway Children
+This was the first train the children saw on that railway which was in time to become so very dear to them.,0.489,0.131,0.0,0.869,positive,The Railway Children
+"They did not guess then how they would grow to love the railway, and how soon it would become the centre of their new life, nor what wonders and changes it would bring to them.",0.6369,0.11,0.0,0.89,positive,The Railway Children
+They only shivered and sneezed and hoped the walk to the new house would not be long.,0.3818,0.14,0.0,0.86,positive,The Railway Children
+Peter's nose was colder than he ever remembered it to have been before.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Roberta's hat was crooked, and the elastic seemed tighter than usual.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Phyllis's shoe-laces had come undone.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Come,"" said Mother, ""we've got to walk.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"There aren't any cabs here.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+The walk was dark and muddy.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"The children stumbled a little on the rough road, and once Phyllis absently fell into a puddle, and was picked up damp and unhappy.",-0.4215,0.0,0.118,0.882,negative,The Railway Children
+"There were no gas-lamps on the road, and the road was uphill.",-0.296,0.0,0.167,0.833,negative,The Railway Children
+"The cart went at a foot's pace, and they followed the gritty crunch of its wheels.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"As their eyes got used to the darkness, they could see the mound of boxes swaying dimly in front of them.",-0.25,0.0,0.091,0.909,negative,The Railway Children
+"A long gate had to be opened for the cart to pass through, and after that the road seemed to go across fields--and now it went down hill.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Presently a great dark lumpish thing showed over to the right.,0.6249,0.313,0.0,0.687,positive,The Railway Children
+"""There's the house,"" said Mother.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I wonder why she's shut the shutters.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Who's SHE?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+asked Roberta.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""The woman I engaged to clean the place, and put the furniture straight and get supper.""",0.743,0.378,0.0,0.622,positive,The Railway Children
+"There was a low wall, and trees inside.",-0.2732,0.0,0.259,0.741,negative,The Railway Children
+"""That's the garden,"" said Mother.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""It looks more like a dripping-pan full of black cabbages,"" said Peter.",0.4201,0.218,0.0,0.782,positive,The Railway Children
+"The cart went on along by the garden wall, and round to the back of the house, and here it clattered into a cobble-stoned yard and stopped at the back door.",-0.2263,0.0,0.061,0.939,negative,The Railway Children
+There was no light in any of the windows.,-0.296,0.0,0.216,0.784,negative,The Railway Children
+"Everyone hammered at the door, but no one came.",-0.4215,0.0,0.259,0.741,negative,The Railway Children
+The man who drove the cart said he expected Mrs. Viney had gone home.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""You see your train was that late,"" said he.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""But she's got the key,"" said Mother.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""What are we to do?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, she'll have left that under the doorstep,"" said the cart man; ""folks do hereabouts.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+He took the lantern off his cart and stooped.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Ay, here it is, right enough,"" he said.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+He unlocked the door and went in and set his lantern on the table.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Got e'er a candle?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+said he.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I don't know where anything is.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Mother spoke rather less cheerfully than usual.,0.4228,0.319,0.0,0.681,positive,The Railway Children
+He struck a match.,-0.25,0.0,0.5,0.5,negative,The Railway Children
+"There was a candle on the table, and he lighted it.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+By its thin little glimmer the children saw a large bare kitchen with a stone floor.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"There were no curtains, no hearth-rug.",-0.5267,0.0,0.524,0.476,negative,The Railway Children
+The kitchen table from home stood in the middle of the room.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"The chairs were in one corner, and the pots, pans, brooms, and crockery in another.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"There was no fire, and the black grate showed cold, dead ashes.",-0.836,0.0,0.497,0.503,negative,The Railway Children
+"As the cart man turned to go out after he had brought in the boxes, there was a rustling, scampering sound that seemed to come from inside the walls of the house.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, what's that?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+cried the girls.,-0.3818,0.0,0.565,0.435,negative,The Railway Children
+"""It's only the rats,"" said the cart man.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And he went away and shut the door, and the sudden draught of it blew out the candle.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, dear,"" said Phyllis, ""I wish we hadn't come!""",0.4574,0.272,0.0,0.728,positive,The Railway Children
+and she knocked a chair over.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""ONLY the rats!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"said Peter, in the dark.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Chapter II.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Peter's coal-mine.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""What fun!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"said Mother, in the dark, feeling for the matches on the table.",0.128,0.12,0.0,0.88,positive,The Railway Children
+"""How frightened the poor mice were--I don't believe they were rats at all.""",-0.7184,0.0,0.353,0.647,negative,The Railway Children
+"She struck a match and relighted the candle and everyone looked at each other by its winky, blinky light.",-0.25,0.0,0.105,0.895,negative,The Railway Children
+"""Well,"" she said, ""you've often wanted something to happen and now it has.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"This is quite an adventure, isn't it?",0.3774,0.301,0.0,0.699,positive,The Railway Children
+"I told Mrs. Viney to get us some bread and butter, and meat and things, and to have supper ready.",0.3612,0.122,0.0,0.878,positive,The Railway Children
+I suppose she's laid it in the dining-room.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"So let's go and see.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+The dining-room opened out of the kitchen.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+It looked much darker than the kitchen when they went in with the one candle.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Because the kitchen was whitewashed, but the dining-room was dark wood from floor to ceiling, and across the ceiling there were heavy black beams.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+There was a muddled maze of dusty furniture--the breakfast-room furniture from the old home where they had lived all their lives.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"It seemed a very long time ago, and a very long way off.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"There was the table certainly, and there were chairs, but there was no supper.",-0.2732,0.103,0.17,0.727,negative,The Railway Children
+"""Let's look in the other rooms,"" said Mother; and they looked.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And in each room was the same kind of blundering half-arrangement of furniture, and fire-irons and crockery, and all sorts of odd things on the floor, but there was nothing to eat; even in the pantry there were only a rusty cake-tin and a broken plate with whitening mixed in it.",-0.7003,0.0,0.11,0.89,negative,The Railway Children
+"""What a horrid old woman!""",-0.5848,0.0,0.558,0.442,negative,The Railway Children
+"said Mother; ""she's just walked off with the money and not got us anything to eat at all.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Then shan't we have any supper at all?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"asked Phyllis, dismayed, stepping back on to a soap-dish that cracked responsively.",-0.4404,0.0,0.225,0.775,negative,The Railway Children
+"""Oh, yes,"" said Mother, ""only it'll mean unpacking one of those big cases that we put in the cellar.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Phil, do mind where you're walking to, there's a dear.",0.3818,0.245,0.0,0.755,positive,The Railway Children
+"Peter, hold the light.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+The cellar door opened out of the kitchen.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+There were five wooden steps leading down.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"It wasn't a proper cellar at all, the children thought, because its ceiling went up as high as the kitchen's.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+A bacon-rack hung under its ceiling.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"There was wood in it, and coal.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Also the big cases.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Peter held the candle, all on one side, while Mother tried to open the great packing-case.",0.6249,0.215,0.0,0.785,positive,The Railway Children
+It was very securely nailed down.,0.4005,0.35,0.0,0.65,positive,The Railway Children
+"""Where's the hammer?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+asked Peter.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""That's just it,"" said Mother.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I'm afraid it's inside the box.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"But there's a coal-shovel--and there's the kitchen poker.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+And with these she tried to get the case open.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Let me do it,"" said Peter, thinking he could do it better himself.",0.4404,0.195,0.0,0.805,positive,The Railway Children
+"Everyone thinks this when he sees another person stirring a fire, or opening a box, or untying a knot in a bit of string.",-0.34,0.0,0.112,0.888,negative,The Railway Children
+"""You'll hurt your hands, Mammy,"" said Roberta; ""let me.""",-0.5267,0.0,0.298,0.702,negative,The Railway Children
+"""I wish Father was here,"" said Phyllis; ""he'd get it open in two shakes.",0.4019,0.172,0.0,0.828,positive,The Railway Children
+"What are you kicking me for, Bobbie?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I wasn't,"" said Roberta.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Just then the first of the long nails in the packing-case began to come out with a scrunch.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Then a lath was raised and then another, till all four stood up with the long nails in them shining fiercely like iron teeth in the candle-light.",0.3612,0.091,0.0,0.909,positive,The Railway Children
+"""Hooray!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"said Mother; ""here are some candles--the very first thing!",0.0,0.0,0.0,1.0,neutral,The Railway Children
+You girls go and light them.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+You'll find some saucers and things.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Just drop a little candle-grease in the saucer and stick the candle upright in it.""",-0.2732,0.0,0.139,0.861,negative,The Railway Children
+"""How many shall we light?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""As many as ever you like,"" said Mother, gaily.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""The great thing is to be cheerful.",0.8225,0.603,0.0,0.397,positive,The Railway Children
+"Nobody can be cheerful in the dark except owls and dormice.""",0.5423,0.259,0.0,0.741,positive,The Railway Children
+So the girls lighted candles.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"The head of the first match flew off and stuck to Phyllis's finger; but, as Roberta said, it was only a little burn, and she might have had to be a Roman martyr and be burned whole if she had happened to live in the days when those things were fashionable.",-0.128,0.0,0.03,0.97,negative,The Railway Children
+"Then, when the dining-room was lighted by fourteen candles, Roberta fetched coal and wood and lighted a fire.",-0.34,0.0,0.13,0.87,negative,The Railway Children
+"""It's very cold for May,"" she said, feeling what a grown-up thing it was to say.",0.128,0.097,0.0,0.903,positive,The Railway Children
+"The fire-light and the candle-light made the dining-room look very different, for now you could see that the dark walls were of wood, carved here and there into little wreaths and loops.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"The girls hastily 'tidied' the room, which meant putting the chairs against the wall, and piling all the odds and ends into a corner and partly hiding them with the big leather arm-chair that Father used to sit in after dinner.",-0.228,0.0,0.047,0.953,negative,The Railway Children
+"""Bravo!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"cried Mother, coming in with a tray full of things.",-0.3818,0.0,0.245,0.755,negative,The Railway Children
+"""This is something like!",0.4199,0.482,0.0,0.518,positive,The Railway Children
+"I'll just get a tablecloth and then--"" The tablecloth was in a box with a proper lock that was opened with a key and not with a shovel, and when the cloth was spread on the table, a real feast was laid out on it.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Everyone was very, very tired, but everyone cheered up at the sight of the funny and delightful supper.",0.9226,0.454,0.075,0.471,positive,The Railway Children
+"There were biscuits, the Marie and the plain kind, sardines, preserved ginger, cooking raisins, and candied peel and marmalade.",0.5267,0.159,0.0,0.841,positive,The Railway Children
+"""What a good thing Aunt Emma packed up all the odds and ends out of the Store cupboard,"" said Mother.",0.4404,0.139,0.0,0.861,positive,The Railway Children
+"""Now, Phil, DON'T put the marmalade spoon in among the sardines.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""No, I won't, Mother,"" said Phyllis, and put it down among the Marie biscuits.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Let's drink Aunt Emma's health,"" said Roberta, suddenly; ""what should we have done if she hadn't packed up these things?",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Here's to Aunt Emma!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And the toast was drunk in ginger wine and water, out of willow-patterned tea-cups, because the glasses couldn't be found.",-0.34,0.0,0.112,0.888,negative,The Railway Children
+They all felt that they had been a little hard on Aunt Emma.,-0.0276,0.0,0.091,0.909,neutral,The Railway Children
+"She wasn't a nice cuddly person like Mother, but after all it was she who had thought of packing up the odds and ends of things to eat.",0.0217,0.062,0.059,0.88,neutral,The Railway Children
+"It was Aunt Emma, too, who had aired all the sheets ready; and the men who had moved the furniture had put the bedsteads together, so the beds were soon made.",0.3612,0.077,0.0,0.923,positive,The Railway Children
+"""Good night, chickies,"" said Mother.",0.4404,0.42,0.0,0.58,positive,The Railway Children
+"""I'm sure there aren't any rats.",0.3182,0.315,0.0,0.685,positive,The Railway Children
+"But I'll leave my door open, and then if a mouse comes, you need only scream, and I'll come and tell it exactly what I think of it.""",-0.5927,0.0,0.168,0.832,negative,The Railway Children
+Then she went to her own room.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Roberta woke to hear the little travelling clock chime two.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"It sounded like a church clock ever so far away, she always thought.",0.3612,0.185,0.0,0.815,positive,The Railway Children
+"And she heard, too, Mother still moving about in her room.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Next morning Roberta woke Phyllis by pulling her hair gently, but quite enough for her purpose.",0.25,0.118,0.0,0.882,positive,The Railway Children
+"""Wassermarrer?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"asked Phyllis, still almost wholly asleep.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Wake up!",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"wake up!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+said Roberta.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""We're in the new house--don't you remember?",0.0,0.0,0.0,1.0,neutral,The Railway Children
+No servants or anything.,-0.296,0.0,0.423,0.577,negative,The Railway Children
+Let's get up and begin to be useful.,0.4404,0.293,0.0,0.707,positive,The Railway Children
+"We'll just creep down mouse-quietly, and have everything beautiful before Mother gets up.",0.5994,0.245,0.0,0.755,positive,The Railway Children
+I've woke Peter.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"He'll be dressed as soon as we are.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+So they dressed quietly and quickly.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Of course, there was no water in their room, so when they got down they washed as much as they thought was necessary under the spout of the pump in the yard.",-0.296,0.0,0.066,0.934,negative,The Railway Children
+One pumped and the other washed.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+It was splashy but interesting.,0.5499,0.47,0.0,0.53,positive,The Railway Children
+"""It's much more fun than basin washing,"" said Roberta.",0.5563,0.31,0.0,0.69,positive,The Railway Children
+"""How sparkly the weeds are between the stones, and the moss on the roof--oh, and the flowers!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+The roof of the back kitchen sloped down quite low.,-0.3384,0.0,0.21,0.79,negative,The Railway Children
+"It was made of thatch and it had moss on it, and house-leeks and stonecrop and wallflowers, and even a clump of purple flag-flowers, at the far corner.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""This is far, far, far and away prettier than Edgecombe Villa,"" said Phyllis.",0.4767,0.205,0.0,0.795,positive,The Railway Children
+"""I wonder what the garden's like.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""We mustn't think of the garden yet,"" said Roberta, with earnest energy.",0.6597,0.351,0.0,0.649,positive,The Railway Children
+"""Let's go in and begin to work.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"They lighted the fire and put the kettle on, and they arranged the crockery for breakfast; they could not find all the right things, but a glass ash-tray made an excellent salt-cellar, and a newish baking-tin seemed as if it would do to put bread on, if they had any.",0.6542,0.096,0.032,0.872,positive,The Railway Children
+"When there seemed to be nothing more that they could do, they went out again into the fresh bright morning.",0.6369,0.224,0.0,0.776,positive,The Railway Children
+"""We'll go into the garden now,"" said Peter.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+But somehow they couldn't find the garden.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+They went round the house and round the house.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"The yard occupied the back, and across it were stables and outbuildings.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"On the other three sides the house stood simply in a field, without a yard of garden to divide it from the short smooth turf.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+And yet they had certainly seen the garden wall the night before.,0.34,0.179,0.0,0.821,positive,The Railway Children
+It was a hilly country.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Down below they could see the line of the railway, and the black yawning mouth of a tunnel.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+The station was out of sight.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+There was a great bridge with tall arches running across one end of the valley.,0.6249,0.24,0.0,0.76,positive,The Railway Children
+"""Never mind the garden,"" said Peter; ""let's go down and look at the railway.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"There might be trains passing.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""We can see them from here,"" said Roberta, slowly; ""let's sit down a bit.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"So they all sat down on a great flat grey stone that had pushed itself up out of the grass; it was one of many that lay about on the hillside, and when Mother came out to look for them at eight o'clock, she found them deeply asleep in a contented, sun-warmed bunch.",0.7884,0.142,0.0,0.858,positive,The Railway Children
+"They had made an excellent fire, and had set the kettle on it at about half-past five.",0.3182,0.175,0.114,0.711,positive,The Railway Children
+"So that by eight the fire had been out for some time, the water had all boiled away, and the bottom was burned out of the kettle.",-0.34,0.0,0.085,0.915,negative,The Railway Children
+Also they had not thought of washing the crockery before they set the table.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""But it doesn't matter--the cups and saucers, I mean,"" said Mother.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Because I've found another room--I'd quite forgotten there was one.",-0.2944,0.0,0.196,0.804,negative,The Railway Children
+And it's magic!,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And I've boiled the water for tea in a saucepan.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+The forgotten room opened out of the kitchen.,-0.2263,0.0,0.213,0.787,negative,The Railway Children
+In the agitation and half darkness the night before its door had been mistaken for a cupboard's.,-0.6705,0.0,0.333,0.667,negative,The Railway Children
+"It was a little square room, and on its table, all nicely set out, was a joint of cold roast beef, with bread, butter, cheese, and a pie.",0.4404,0.108,0.0,0.892,positive,The Railway Children
+"""Pie for breakfast!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"cried Peter; ""how perfectly ripping!""",0.4389,0.445,0.258,0.297,positive,The Railway Children
+"""It isn't pigeon-pie,"" said Mother; ""it's only apple.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Well, this is the supper we ought to have had last night.",0.2732,0.16,0.0,0.84,positive,The Railway Children
+And there was a note from Mrs. Viney.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Her son-in-law has broken his arm, and she had to get home early.",-0.4767,0.0,0.205,0.795,negative,The Railway Children
+"She's coming this morning at ten.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+That was a wonderful breakfast.,0.5719,0.552,0.0,0.448,positive,The Railway Children
+"It is unusual to begin the day with cold apple pie, but the children all said they would rather have it than meat.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""You see it's more like dinner than breakfast to us,"" said Peter, passing his plate for more, ""because we were up so early.""",0.4201,0.113,0.0,0.887,positive,The Railway Children
+The day passed in helping Mother to unpack and arrange things.,0.296,0.18,0.0,0.82,positive,The Railway Children
+Six small legs quite ached with running about while their owners carried clothes and crockery and all sorts of things to their proper places.,-0.4391,0.0,0.112,0.888,negative,The Railway Children
+"It was not till quite late in the afternoon that Mother said:-- ""There!",0.0,0.0,0.0,1.0,neutral,The Railway Children
+That'll do for to-day.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"I'll lie down for an hour, so as to be as fresh as a lark by supper-time.""",0.3182,0.133,0.0,0.867,positive,The Railway Children
+Then they all looked at each other.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Each of the three expressive countenances expressed the same thought.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"That thought was double, and consisted, like the bits of information in the Child's Guide to Knowledge, of a question and an answer.",0.3612,0.106,0.0,0.894,positive,The Railway Children
+Q.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Where shall we go?,0.0,0.0,0.0,1.0,neutral,The Railway Children
+A.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+To the railway.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"So to the railway they went, and as soon as they started for the railway they saw where the garden had hidden itself.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"It was right behind the stables, and it had a high wall all round.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, never mind about the garden now!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+cried Peter.,-0.3818,0.0,0.722,0.278,negative,The Railway Children
+"""Mother told me this morning where it was.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+It'll keep till to-morrow.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Let's get to the railway.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"The way to the railway was all down hill over smooth, short turf with here and there furze bushes and grey and yellow rocks sticking out like candied peel from the top of a cake.",0.5423,0.151,0.0,0.849,positive,The Railway Children
+The way ended in a steep run and a wooden fence--and there was the railway with the shining metals and the telegraph wires and posts and signals.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"They all climbed on to the top of the fence, and then suddenly there was a rumbling sound that made them look along the line to the right, where the dark mouth of a tunnel opened itself in the face of a rocky cliff; next moment a train had rushed out of the tunnel with a shriek and a snort, and had slid noisily past them.",0.2023,0.03,0.0,0.97,positive,The Railway Children
+"They felt the rush of its passing, and the pebbles on the line jumped and rattled under it as it went by.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"said Roberta, drawing a long breath; ""it was like a great dragon tearing by.",0.765,0.398,0.0,0.602,positive,The Railway Children
+"Did you feel it fan us with its hot wings?""",0.3182,0.204,0.0,0.796,positive,The Railway Children
+"""I suppose a dragon's lair might look very like that tunnel from the outside,"" said Phyllis.",0.4201,0.166,0.0,0.834,positive,The Railway Children
+"But Peter said:-- ""I never thought we should ever get as near to a train as this.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"It's the most ripping sport!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Better than toy-engines, isn't it?""",0.4404,0.42,0.0,0.58,positive,The Railway Children
+said Roberta.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+(I am tired of calling Roberta by her name.,-0.4404,0.0,0.266,0.734,negative,The Railway Children
+I don't see why I should.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+No one else did.,-0.296,0.0,0.423,0.577,negative,The Railway Children
+"Everyone else called her Bobbie, and I don't see why I shouldn't.)",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I don't know; it's different,"" said Peter.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""It seems so odd to see ALL of a train.",-0.4572,0.0,0.272,0.728,negative,The Railway Children
+"It's awfully tall, isn't it?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""We've always seen them cut in half by platforms,"" said Phyllis.",-0.2732,0.0,0.174,0.826,negative,The Railway Children
+"""I wonder if that train was going to London,"" Bobbie said.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""London's where Father is.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Let's go down to the station and find out,"" said Peter.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+So they went.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"They walked along the edge of the line, and heard the telegraph wires humming over their heads.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"When you are in the train, it seems such a little way between post and post, and one after another the posts seem to catch up the wires almost more quickly than you can count them.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"But when you have to walk, the posts seem few and far between.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+But the children got to the station at last.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Never before had any of them been at a station, except for the purpose of catching trains--or perhaps waiting for them--and always with grown-ups in attendance, grown-ups who were not themselves interested in stations, except as places from which they wished to get away.",-0.3089,0.0,0.051,0.949,negative,The Railway Children
+"Never before had they passed close enough to a signal-box to be able to notice the wires, and to hear the mysterious 'ping, ping,' followed by the strong, firm clicking of machinery.",0.5106,0.099,0.0,0.901,positive,The Railway Children
+The very sleepers on which the rails lay were a delightful path to travel by--just far enough apart to serve as the stepping-stones in a game of foaming torrents hastily organised by Bobbie.,0.5859,0.112,0.0,0.888,positive,The Railway Children
+"Then to arrive at the station, not through the booking office, but in a freebooting sort of way by the sloping end of the platform.",-0.296,0.0,0.087,0.913,negative,The Railway Children
+This in itself was joy.,0.5859,0.487,0.0,0.513,positive,The Railway Children
+"Joy, too, it was to peep into the porters' room, where the lamps are, and the Railway almanac on the wall, and one porter half asleep behind a paper.",0.5859,0.123,0.0,0.877,positive,The Railway Children
+"There were a great many crossing lines at the station; some of them just ran into a yard and stopped short, as though they were tired of business and meant to retire for good.",0.4939,0.176,0.121,0.704,positive,The Railway Children
+"Trucks stood on the rails here, and on one side was a great heap of coal--not a loose heap, such as you see in your coal cellar, but a sort of solid building of coals with large square blocks of coal outside used just as though they were bricks, and built up till the heap looked like the picture of the Cities of the Plain in 'Bible Stories for Infants.'",0.5041,0.099,0.055,0.846,positive,The Railway Children
+There was a line of whitewash near the top of the coaly wall.,0.2263,0.225,0.0,0.775,positive,The Railway Children
+"When presently the Porter lounged out of his room at the twice-repeated tingling thrill of a gong over the station door, Peter said, ""How do you do?""",0.3612,0.091,0.0,0.909,positive,The Railway Children
+"in his best manner, and hastened to ask what the white mark was on the coal for.",0.6369,0.208,0.0,0.792,positive,The Railway Children
+"""To mark how much coal there be,"" said the Porter, ""so as we'll know if anyone nicks it.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"So don't you go off with none in your pockets, young gentleman!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"This seemed, at the time but a merry jest, and Peter felt at once that the Porter was a friendly sort with no nonsense about him.",0.5719,0.256,0.179,0.565,positive,The Railway Children
+But later the words came back to Peter with a new meaning.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Have you ever gone into a farmhouse kitchen on a baking day, and seen the great crock of dough set by the fire to rise?",0.4019,0.149,0.087,0.764,positive,The Railway Children
+"If you have, and if you were at that time still young enough to be interested in everything you saw, you will remember that you found yourself quite unable to resist the temptation to poke your finger into the soft round of dough that curved inside the pan like a giant mushroom.",0.6369,0.096,0.0,0.904,positive,The Railway Children
+"And you will remember that your finger made a dent in the dough, and that slowly, but quite surely, the dent disappeared, and the dough looked quite the same as it did before you touched it.",0.4478,0.108,0.059,0.833,positive,The Railway Children
+"Unless, of course, your hand was extra dirty, in which case, naturally, there would be a little black mark.",0.0772,0.145,0.131,0.724,positive,The Railway Children
+"Well, it was just like that with the sorrow the children had felt at Father's going away, and at Mother's being so unhappy.",-0.5293,0.15,0.229,0.621,negative,The Railway Children
+"It made a deep impression, but the impression did not last long.",0.4215,0.297,0.0,0.703,positive,The Railway Children
+"They soon got used to being without Father, though they did not forget him; and they got used to not going to school, and to seeing very little of Mother, who was now almost all day shut up in her upstairs room writing, writing, writing.",0.1695,0.036,0.0,0.964,positive,The Railway Children
+She used to come down at tea-time and read aloud the stories she had written.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+They were lovely stories.,0.5859,0.559,0.0,0.441,positive,The Railway Children
+"The rocks and hills and valleys and trees, the canal, and above all, the railway, were so new and so perfectly pleasing that the remembrance of the old life in the villa grew to seem almost like a dream.",0.9181,0.276,0.0,0.724,positive,The Railway Children
+"Mother had told them more than once that they were 'quite poor now,' but this did not seem to be anything but a way of speaking.",-0.2952,0.0,0.084,0.916,negative,The Railway Children
+"Grown-up people, even Mothers, often make remarks that don't seem to mean anything in particular, just for the sake of saying something, seemingly.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"There was always enough to eat, and they wore the same kind of nice clothes they had always worn.",0.079,0.115,0.101,0.783,positive,The Railway Children
+"But in June came three wet days; the rain came down, straight as lances, and it was very, very cold.",0.3291,0.11,0.0,0.89,positive,The Railway Children
+"Nobody could go out, and everybody shivered.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+They all went up to the door of Mother's room and knocked.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Well, what is it?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+asked Mother from inside.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Mother,"" said Bobbie, ""mayn't I light a fire?",0.2584,0.289,0.0,0.711,positive,The Railway Children
+"I do know how.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And Mother said: ""No, my ducky-love.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+We mustn't have fires in June--coal is so dear.,0.5214,0.296,0.0,0.704,positive,The Railway Children
+"If you're cold, go and have a good romp in the attic.",0.4404,0.225,0.0,0.775,positive,The Railway Children
+"That'll warm you.""",0.2263,0.487,0.0,0.513,positive,The Railway Children
+"""But, Mother, it only takes such a very little coal to make a fire.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""It's more than we can afford, chickeny-love,"" said Mother, cheerfully.",0.4767,0.256,0.0,0.744,positive,The Railway Children
+"""Now run away, there's darlings--I'm madly busy!""",-0.4574,0.0,0.333,0.667,negative,The Railway Children
+"""Mother's always busy now,"" said Phyllis, in a whisper to Peter.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Peter did not answer.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+He shrugged his shoulders.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+He was thinking.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Thought, however, could not long keep itself from the suitable furnishing of a bandit's lair in the attic.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Peter was the bandit, of course.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Bobbie was his lieutenant, his band of trusty robbers, and, in due course, the parent of Phyllis, who was the captured maiden for whom a magnificent ransom--in horse-beans--was unhesitatingly paid.",0.7964,0.208,0.0,0.792,positive,The Railway Children
+They all went down to tea flushed and joyous as any mountain brigands.,0.6249,0.255,0.0,0.745,positive,The Railway Children
+"But when Phyllis was going to add jam to her bread and butter, Mother said:-- ""Jam OR butter, dear--not jam AND butter.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"We can't afford that sort of reckless luxury nowadays.""",-0.4576,0.0,0.272,0.728,negative,The Railway Children
+"Phyllis finished the slice of bread and butter in silence, and followed it up by bread and jam.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Peter mingled thought and weak tea.,-0.4404,0.0,0.367,0.633,negative,The Railway Children
+"After tea they went back to the attic and he said to his sisters:-- ""I have an idea.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""What's that?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+they asked politely.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I shan't tell you,"" was Peter's unexpected rejoinder.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, very well,"" said Bobbie; and Phil said, ""Don't, then.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Girls,"" said Peter, ""are always so hasty tempered.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I should like to know what boys are?""",0.3612,0.263,0.0,0.737,positive,The Railway Children
+"said Bobbie, with fine disdain.",-0.3182,0.228,0.392,0.38,negative,The Railway Children
+"""I don't want to know about your silly ideas.""",-0.0315,0.118,0.131,0.751,neutral,The Railway Children
+"""You'll know some day,"" said Peter, keeping his own temper by what looked exactly like a miracle; ""if you hadn't been so keen on a row, I might have told you about it being only noble-heartedness that made me not tell you my idea.",0.7745,0.193,0.057,0.75,positive,The Railway Children
+"But now I shan't tell you anything at all about it--so there!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And it was, indeed, some time before he could be induced to say anything, and when he did it wasn't much.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"He said:-- ""The only reason why I won't tell you my idea that I'm going to do is because it MAY be wrong, and I don't want to drag you into it.""",-0.3931,0.051,0.131,0.818,negative,The Railway Children
+"""Don't you do it if it's wrong, Peter,"" said Bobbie; ""let me do it.""",-0.4767,0.0,0.193,0.807,negative,The Railway Children
+"But Phyllis said:-- "" I should like to do wrong if YOU'RE going to!""",-0.2942,0.184,0.251,0.565,negative,The Railway Children
+"""No,"" said Peter, rather touched by this devotion; ""it's a forlorn hope, and I'm going to lead it.",0.7506,0.299,0.0,0.701,positive,The Railway Children
+"All I ask is that if Mother asks where I am, you won't blab.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""We haven't got anything TO blab,"" said Bobbie, indignantly.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, yes, you have!""",0.4574,0.499,0.0,0.501,positive,The Railway Children
+"said Peter, dropping horse-beans through his fingers.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I've trusted you to the death.",-0.2023,0.282,0.355,0.364,negative,The Railway Children
+You know I'm going to do a lone adventure--and some people might think it wrong--I don't.,-0.2732,0.0,0.13,0.87,negative,The Railway Children
+"And if Mother asks where I am, say I'm playing at mines.""",0.2023,0.153,0.0,0.847,positive,The Railway Children
+"""What sort of mines?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""You just say mines.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""You might tell US, Pete.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Well, then, COAL-mines.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"But don't you let the word pass your lips on pain of torture.""",-0.6652,0.0,0.271,0.729,negative,The Railway Children
+"""You needn't threaten,"" said Bobbie, ""and I do think you might let us help.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""If I find a coal-mine, you shall help cart the coal,"" Peter condescended to promise.",0.6124,0.312,0.0,0.688,positive,The Railway Children
+"""Keep your secret if you like,"" said Phyllis.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Keep it if you CAN,"" said Bobbie.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I'll keep it, right enough,"" said Peter.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Between tea and supper there is an interval even in the most greedily regulated families.,-0.4927,0.0,0.186,0.814,negative,The Railway Children
+"At this time Mother was usually writing, and Mrs. Viney had gone home.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+Two nights after the dawning of Peter's idea he beckoned the girls mysteriously at the twilight hour.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Come hither with me,"" he said, ""and bring the Roman Chariot.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+The Roman Chariot was a very old perambulator that had spent years of retirement in the loft over the coach-house.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"The children had oiled its works till it glided noiseless as a pneumatic bicycle, and answered to the helm as it had probably done in its best days.",0.6369,0.139,0.0,0.861,positive,The Railway Children
+"""Follow your dauntless leader,"" said Peter, and led the way down the hill towards the station.",0.5106,0.18,0.0,0.82,positive,The Railway Children
+"Just above the station many rocks have pushed their heads out through the turf as though they, like the children, were interested in the railway.",0.6369,0.184,0.0,0.816,positive,The Railway Children
+In a little hollow between three rocks lay a heap of dried brambles and heather.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Peter halted, turned over the brushwood with a well-scarred boot, and said:-- ""Here's the first coal from the St. Peter's Mine.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+We'll take it home in the chariot.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+Punctuality and despatch.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+All orders carefully attended to.,0.128,0.273,0.0,0.727,positive,The Railway Children
+"Any shaped lump cut to suit regular customers.""",-0.2732,0.0,0.231,0.769,negative,The Railway Children
+The chariot was packed full of coal.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"And when it was packed it had to be unpacked again because it was so heavy that it couldn't be got up the hill by the three children, not even when Peter harnessed himself to the handle with his braces, and firmly grasping his waistband in one hand pulled while the girls pushed behind.",0.4939,0.057,0.0,0.943,positive,The Railway Children
+Three journeys had to be made before the coal from Peter's mine was added to the heap of Mother's coal in the cellar.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Afterwards Peter went out alone, and came back very black and mysterious.",-0.25,0.0,0.154,0.846,negative,The Railway Children
+"""I've been to my coal-mine,"" he said; ""to-morrow evening we'll bring home the black diamonds in the chariot.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+It was a week later that Mrs. Viney remarked to Mother how well this last lot of coal was holding out.,0.2732,0.1,0.0,0.9,positive,The Railway Children
+The children hugged themselves and each other in complicated wriggles of silent laughter as they listened on the stairs.,0.7096,0.258,0.0,0.742,positive,The Railway Children
+They had all forgotten by now that there had ever been any doubt in Peter's mind as to whether coal-mining was wrong.,-0.7579,0.0,0.283,0.717,negative,The Railway Children
+"But there came a dreadful night when the Station Master put on a pair of old sand shoes that he had worn at the seaside in his summer holiday, and crept out very quietly to the yard where the Sodom and Gomorrah heap of coal was, with the whitewashed line round it.",-0.4767,0.062,0.116,0.822,negative,The Railway Children
+"He crept out there, and he waited like a cat by a mousehole.",0.3612,0.2,0.0,0.8,positive,The Railway Children
+On the top of the heap something small and dark was scrabbling and rattling furtively among the coal.,0.2023,0.096,0.0,0.904,positive,The Railway Children
+"The Station Master concealed himself in the shadow of a brake-van that had a little tin chimney and was labelled:-- G. N. and S. R. 34576 Return at once to White Heather Sidings and in this concealment he lurked till the small thing on the top of the heap ceased to scrabble and rattle, came to the edge of the heap, cautiously let itself down, and lifted something after it.",0.2023,0.026,0.0,0.974,positive,The Railway Children
+"Then the arm of the Station Master was raised, the hand of the Station Master fell on a collar, and there was Peter firmly held by the jacket, with an old carpenter's bag full of coal in his trembling clutch.",0.1779,0.075,0.059,0.867,positive,The Railway Children
+"""So I've caught you at last, have I, you young thief?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+said the Station Master.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I'm not a thief,"" said Peter, as firmly as he could.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I'm a coal-miner.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Tell that to the Marines,"" said the Station Master.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""It would be just as true whoever I told it to,"" said Peter.",0.4215,0.203,0.0,0.797,positive,The Railway Children
+"""You're right there,"" said the man, who held him.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Stow your jaw, you young rip, and come along to the station.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, no,"" cried in the darkness an agonised voice that was not Peter's.",-0.7845,0.0,0.441,0.559,negative,The Railway Children
+"""Not the POLICE station!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+said another voice from the darkness.,-0.25,0.0,0.286,0.714,negative,The Railway Children
+"""Not yet,"" said the Station Master.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""The Railway Station first.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Why, it's a regular gang.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Any more of you?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Only us,"" said Bobbie and Phyllis, coming out of the shadow of another truck labelled Staveley Colliery, and bearing on it the legend in white chalk: 'Wanted in No.",-0.296,0.0,0.073,0.927,negative,The Railway Children
+1 Road.',0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""What do you mean by spying on a fellow like this?""",0.3612,0.217,0.0,0.783,positive,The Railway Children
+"said Peter, angrily.",-0.4215,0.0,0.583,0.417,negative,The Railway Children
+"""Time someone did spy on you, I think,"" said the Station Master.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Come along to the station.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Oh, DON'T!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+said Bobbie.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Can't you decide NOW what you'll do to us?",0.0,0.0,0.0,1.0,neutral,The Railway Children
+It's our fault just as much as Peter's.,-0.4019,0.0,0.278,0.722,negative,The Railway Children
+"We helped to carry the coal away--and we knew where he got it.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""No, you didn't,"" said Peter.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Yes, we did,"" said Bobbie.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""We knew all the time.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"We only pretended we didn't just to humour you.""",-0.3724,0.0,0.242,0.758,negative,The Railway Children
+Peter's cup was full.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"He had mined for coal, he had struck coal, he had been caught, and now he learned that his sisters had 'humoured' him.",-0.25,0.0,0.083,0.917,negative,The Railway Children
+"""Don't hold me!""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+he said.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""I won't run away.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"The Station Master loosed Peter's collar, struck a match and looked at them by its flickering light.",-0.25,0.0,0.118,0.882,negative,The Railway Children
+"""Why,"" said he, ""you're the children from the Three Chimneys up yonder.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"So nicely dressed, too.",0.4927,0.516,0.0,0.484,positive,The Railway Children
+"Tell me now, what made you do such a thing?",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"Haven't you ever been to church or learned your catechism or anything, not to know it's wicked to steal?""",-0.5267,0.0,0.159,0.841,negative,The Railway Children
+"He spoke much more gently now, and Peter said:-- ""I didn't think it was stealing.",-0.1045,0.165,0.185,0.65,negative,The Railway Children
+I was almost sure it wasn't.,0.2516,0.334,0.0,0.666,positive,The Railway Children
+"I thought if I took it from the outside part of the heap, perhaps it would be.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+But in the middle I thought I could fairly count it only mining.,0.0,0.0,0.0,1.0,neutral,The Railway Children
+"It'll take thousands of years for you to burn up all that coal and get to the middle parts.""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Not quite.",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"But did you do it for a lark or what?""",0.0,0.0,0.0,1.0,neutral,The Railway Children
+"""Not much lark carting that beastly heavy",0.0,0.0,0.0,1.0,neutral,The Railway Children

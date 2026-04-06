@@ -1,0 +1,481 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Original Short Stories -- Volume 13 This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,0.1779,0.112,0.097,0.791,positive,Original Short Stories — Volume 13
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Original Short Stories — Volume 13
+"Title : Original Short Stories -- Volume 13 Author : Guy de Maupassant Translator : A. E. Henderson Albert Cohn McMaster Louise Charlotte Garstin Quesada Release date : October 4, 2004 [eBook #3089] Most recently updated: January 8, 2021 Language : English Other information and formats : www.gutenberg.org/ebooks/3089 Credits : Produced by David Widger *** START OF THE PROJECT GUTENBERG EBOOK ORIGINAL SHORT STORIES -- VOLUME 13 *** ORIGINAL SHORT STORIES VOLUME 13 (of 13) By Guy De Maupassant Translated by: ALBERT M. C. McMASTER, B.A.",0.871,0.127,0.0,0.873,positive,Original Short Stories — Volume 13
+"A. E. HENDERSON, B.A.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+MME.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"QUESADA and Others INDEX TO ALL VOLUMES CONTENTS OLD JUDAS THE LITTLE CASK BOITELLE A WIDOW THE ENGLISHMAN OF ETRETAT MAGNETISM A FATHER'S CONFESSION A MOTHER OF MONSTERS AN UNCOMFORTABLE BED A PORTRAIT THE DRUNKARD THE WARDROBE THE MOUNTAIN POOL A CREMATION MISTI MADAME HERMET THE MAGIC COUCH OLD JUDAS This entire stretch of country was amazing; it was characterized by a grandeur that was almost religious, and yet it had an air of sinister desolation.",-0.0085,0.09,0.09,0.821,neutral,Original Short Stories — Volume 13
+"A great, wild lake, filled with stagnant, black water, in which thousands of reeds were waving to and fro, lay in the midst of a vast circle of naked hills, where nothing grew but broom, or here and there an oak curiously twisted by the wind.",0.3716,0.056,0.0,0.944,positive,Original Short Stories — Volume 13
+"Just one house stood on the banks of that dark lake, a small, low house inhabited by Uncle Joseph, an old boatman, who lived on what he could make by his fishing.",-0.2732,0.0,0.065,0.935,negative,Original Short Stories — Volume 13
+"Once a week he carried the fish he caught into the surrounding villages, returning with the few provisions that he needed for his sustenance.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"I went to see this old hermit, who offered to take me with him to his nets, and I accepted.",0.2732,0.11,0.0,0.89,positive,Original Short Stories — Volume 13
+"His boat was old, worm-eaten and clumsy, and the skinny old man rowed with a gentle and monotonous stroke that was soothing to the soul, already oppressed by the sadness of the land round about.",-0.2023,0.126,0.146,0.728,negative,Original Short Stories — Volume 13
+"It seemed to me as if I were transported to olden times, in the midst of that ancient country, in that primitive boat, which was propelled by a man of another age.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He took up his nets and threw the fish into the bottom of the boat, as the fishermen of the Bible might have done.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Then he took me down to the end of the lake, where I suddenly perceived a ruin on the other side of the bank a dilapidated hut, with an enormous red cross on the wall that looked as if it might have been traced with blood, as it gleamed in the last rays of the setting sun.",-0.5859,0.0,0.067,0.933,negative,Original Short Stories — Volume 13
+"""What is that?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+I asked.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""That is where Judas died,"" the man replied, crossing himself.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"I was not surprised, being almost prepared for this strange answer.",-0.2165,0.133,0.287,0.58,negative,Original Short Stories — Volume 13
+"Still I asked: ""Judas?",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"What Judas?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""The Wandering Jew, monsieur,"" he added.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+I asked him to tell me this legend.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"But it was better than a legend, being a true story, and quite a recent one, since Uncle Joseph had known the man.",0.8201,0.295,0.0,0.705,positive,Original Short Stories — Volume 13
+"This hut had formerly been occupied by a large woman, a kind of beggar, who lived on public charity.",0.4215,0.149,0.0,0.851,positive,Original Short Stories — Volume 13
+Uncle Joseph did not remember from whom she had this hut.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"One evening an old man with a white beard, who seemed to be at least two hundred years old, and who could hardly drag himself along, asked alms of this forlorn woman, as he passed her dwelling.",-0.1298,0.03,0.044,0.926,negative,Original Short Stories — Volume 13
+"""Sit down, father,"" she replied; ""everything here belongs to all the world, since it comes from all the world.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+He sat down on a stone before the door.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He shared the woman's bread, her bed of leaves, and her house.",0.34,0.179,0.0,0.821,positive,Original Short Stories — Volume 13
+"He did not leave her again, for he had come to the end of his travels.",0.0382,0.071,0.0,0.929,neutral,Original Short Stories — Volume 13
+"""It was Our Lady the Virgin who permitted this, monsieur,"" Joseph added, ""it being a woman who had opened her door to a Judas, for this old vagabond was the Wandering Jew.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"It was not known at first in the country, but the people suspected it very soon, because he was always walking; it had become a sort of second nature to him.""",-0.3291,0.0,0.075,0.925,negative,Original Short Stories — Volume 13
+And suspicion had been aroused by still another thing.,-0.3818,0.0,0.245,0.755,negative,Original Short Stories — Volume 13
+"This woman, who kept that stranger with her, was thought to be a Jewess, for no one had ever seen her at church.",-0.296,0.0,0.095,0.905,negative,Original Short Stories — Volume 13
+For ten miles around no one ever called her anything else but the Jewess.,-0.1531,0.0,0.11,0.89,negative,Original Short Stories — Volume 13
+"When the little country children saw her come to beg they cried out: ""Mamma, mamma, here is the Jewess!""",-0.4389,0.0,0.138,0.862,negative,Original Short Stories — Volume 13
+"The old man and she began to go out together into the neighboring districts, holding out their hands at all the doors, stammering supplications into the ears of all the passers.",-0.25,0.0,0.062,0.938,negative,Original Short Stories — Volume 13
+"They could be seen at all hours of the day, on by-paths, in the villages, or again eating bread, sitting in the noon heat under the shadow of some solitary tree.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+And the country people began to call the beggar Old Judas.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"One day he brought home in his sack two little live pigs, which a farmer had given him after he had cured the farmer of some sickness.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Soon he stopped begging, and devoted himself entirely to his pigs.",0.2023,0.199,0.14,0.662,positive,Original Short Stories — Volume 13
+"He took them out to feed by the lake, or under isolated oaks, or in the near-by valleys.",-0.3182,0.0,0.119,0.881,negative,Original Short Stories — Volume 13
+"The woman, however, went about all day begging, but she always came back to him in the evening.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He also did not go to church, and no one ever had seen him cross himself before the wayside crucifixes.",-0.296,0.0,0.104,0.896,negative,Original Short Stories — Volume 13
+All this gave rise to much gossip: One night his companion was attacked by a fever and began to tremble like a leaf in the wind.,-0.5106,0.085,0.232,0.683,negative,Original Short Stories — Volume 13
+"He went to the nearest town to get some medicine, and then he shut himself up with her, and was not seen for six days.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"The priest, having heard that the ""Jewess"" was about to die, came to offer the consolation of his religion and administer the last sacrament.",-0.5994,0.0,0.145,0.855,negative,Original Short Stories — Volume 13
+Was she a Jewess?,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+He did not know.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"But in any case, he wished to try to save her soul.",0.6486,0.281,0.0,0.719,positive,Original Short Stories — Volume 13
+"Hardly had he knocked at the door when old Judas appeared on the threshold, breathing hard, his eyes aflame, his long beard agitated, like rippling water, and he hurled blasphemies in an unknown language, extending his skinny arms in order to prevent the priest from entering.",-0.2023,0.072,0.088,0.84,negative,Original Short Stories — Volume 13
+"The priest attempted to speak, offered his purse and his aid, but the old man kept on abusing him, making gestures with his hands as if throwing; stones at him.",-0.6124,0.0,0.121,0.879,negative,Original Short Stories — Volume 13
+"Then the priest retired, followed by the curses of the beggar.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+The companion of old Judas died the following day.,-0.5574,0.0,0.31,0.69,negative,Original Short Stories — Volume 13
+"He buried her himself, in front of her door.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+They were people of so little account that no one took any interest in them.,0.2648,0.167,0.108,0.725,positive,Original Short Stories — Volume 13
+Then they saw the man take his pigs out again to the lake and up the hillsides.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+And he also began begging again to get food.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"But the people gave him hardly anything, as there was so much gossip about him.",-0.3543,0.0,0.15,0.85,negative,Original Short Stories — Volume 13
+"Every one knew, moreover, how he had treated the priest.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+Then he disappeared.,-0.2263,0.0,0.487,0.513,negative,Original Short Stories — Volume 13
+"That was during Holy Week, but no one paid any attention to him.",-0.4215,0.0,0.189,0.811,negative,Original Short Stories — Volume 13
+But on Easter Sunday the boys and girls who had gone walking out to the lake heard a great noise in the hut.,0.7684,0.212,0.0,0.788,positive,Original Short Stories — Volume 13
+"The door was locked; but the boys broke it in, and the two pigs ran out, jumping like gnats.",-0.1154,0.136,0.154,0.71,negative,Original Short Stories — Volume 13
+No one ever saw them again.,-0.296,0.0,0.306,0.694,negative,Original Short Stories — Volume 13
+"The whole crowd went in; they saw some old rags on the floor, the beggar's hat, some bones, clots of dried blood and bits of flesh in the hollows of the skull.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+His pigs had devoured him.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""This happened on Good Friday, monsieur.""",0.4404,0.367,0.0,0.633,positive,Original Short Stories — Volume 13
+"Joseph concluded his story, ""three hours after noon.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""How do you know that?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+I asked him.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""There is no doubt about that,"" he replied.",-0.5719,0.0,0.439,0.561,negative,Original Short Stories — Volume 13
+"I did not attempt to make him understand that it could easily happen that the famished animals had eaten their master, after he had died suddenly in his hut.",-0.296,0.075,0.113,0.812,negative,Original Short Stories — Volume 13
+"As for the cross on the wall, it had appeared one morning, and no one knew what hand traced it in that strange color.",0.0516,0.113,0.142,0.745,positive,Original Short Stories — Volume 13
+Since then no one doubted any longer that the Wandering Jew had died on this spot.,-0.7845,0.0,0.378,0.622,negative,Original Short Stories — Volume 13
+I myself believed it for one hour.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"THE LITTLE CASK He was a tall man of forty or thereabout, this Jules Chicot, the innkeeper of Spreville, with a red face and a round stomach, and said by those who knew him to be a smart business man.",0.4019,0.072,0.0,0.928,positive,Original Short Stories — Volume 13
+"He stopped his buggy in front of Mother Magloire's farmhouse, and, hitching the horse to the gatepost, went in at the gate.",-0.2263,0.0,0.083,0.917,negative,Original Short Stories — Volume 13
+"Chicot owned some land adjoining that of the old woman, which he had been coveting for a long while, and had tried in vain to buy a score of times, but she had always obstinately refused to part with it.",-0.5719,0.0,0.115,0.885,negative,Original Short Stories — Volume 13
+"""I was born here, and here I mean to die,"" was all she said.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+He found her peeling potatoes outside the farmhouse door.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"She was a woman of about seventy-two, very thin, shriveled and wrinkled, almost dried up in fact and much bent but as active and untiring as a girl.",0.5499,0.124,0.0,0.876,positive,Original Short Stories — Volume 13
+Chicot patted her on the back in a friendly fashion and then sat down by her on a stool.,0.4939,0.167,0.0,0.833,positive,Original Short Stories — Volume 13
+"""Well mother, you are always pretty well and hearty, I am glad to see.""",0.8555,0.536,0.0,0.464,positive,Original Short Stories — Volume 13
+"""Nothing to complain of, considering, thank you.",0.5588,0.48,0.0,0.52,positive,Original Short Stories — Volume 13
+"And how are you, Monsieur Chicot?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Oh, pretty well, thank you, except a few rheumatic pains occasionally; otherwise I have nothing to complain of.""",0.7278,0.418,0.118,0.464,positive,Original Short Stories — Volume 13
+"""So much the better.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"And she said no more, while Chicot watched her going on with her work.",-0.296,0.0,0.145,0.855,negative,Original Short Stories — Volume 13
+"Her crooked, knotted fingers, hard as a lobster's claws, seized the tubers, which were lying in a pail, as if they had been a pair of pincers, and she peeled them rapidly, cutting off long strips of skin with an old knife which she held in the other hand, throwing the potatoes into the water as they were done.",-0.2732,0.052,0.102,0.846,negative,Original Short Stories — Volume 13
+"Three daring fowls jumped one after the other into her lap, seized a bit of peel and then ran away as fast as their legs would carry them with it in their beak.",0.3612,0.075,0.0,0.925,positive,Original Short Stories — Volume 13
+"Chicot seemed embarrassed, anxious, with something on the tip of his tongue which he could not say.",-0.5423,0.0,0.231,0.769,negative,Original Short Stories — Volume 13
+"At last he said hurriedly: ""Listen, Mother Magloire--"" ""Well, what is it?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""You are quite sure that you do not want to sell your land?""",0.3337,0.175,0.082,0.742,positive,Original Short Stories — Volume 13
+"""Certainly not; you may make up your mind to that.",0.34,0.211,0.0,0.789,positive,Original Short Stories — Volume 13
+"What I have said I have said, so don't refer to it again.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Very well; only I think I know of an arrangement that might suit us both very well.""",0.3384,0.146,0.0,0.854,positive,Original Short Stories — Volume 13
+"""What is it?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Just this.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+You shall sell it to me and keep it all the same.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+You don't understand?,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Very well, then follow me in what I am going to say.""",0.3384,0.193,0.0,0.807,positive,Original Short Stories — Volume 13
+"The old woman left off peeling potatoes and looked at the innkeeper attentively from under her heavy eyebrows, and he went on: ""Let me explain myself.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+Every month I will give you a hundred and fifty francs.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+You understand me!,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+suppose!,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Every month I will come and bring you thirty crowns, and it will not make the slightest difference in your life--not the very slightest.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"You will have your own home just as you have now, need not trouble yourself about me, and will owe me nothing; all you will have to do will be to take my money.",0.3089,0.064,0.0,0.936,positive,Original Short Stories — Volume 13
+"Will that arrangement suit you?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He looked at her good-humoredly, one might almost have said benevolently, and the old woman returned his looks distrustfully, as if she suspected a trap, and said: ""It seems all right as far as I am concerned, but it will not give you the farm.""",-0.3468,0.034,0.11,0.856,negative,Original Short Stories — Volume 13
+"""Never mind about that,"" he said; ""you may remain here as long as it pleases God Almighty to let you live; it will be your home.",0.5859,0.167,0.0,0.833,positive,Original Short Stories — Volume 13
+Only you will sign a deed before a lawyer making it over to me; after your death.,-0.5994,0.0,0.218,0.782,negative,Original Short Stories — Volume 13
+"You have no children, only nephews and nieces for whom you don't care a straw.",-0.5897,0.0,0.287,0.713,negative,Original Short Stories — Volume 13
+Will that suit you?,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"You will keep everything during your life, and I will give you the thirty crowns a month.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"It is pure gain as far as you are concerned.""",0.5267,0.274,0.0,0.726,positive,Original Short Stories — Volume 13
+"The old woman was surprised, rather uneasy, but, nevertheless, very much tempted to agree, and answered: ""I don't say that I will not agree to it, but I must think about it.",0.7311,0.222,0.05,0.727,positive,Original Short Stories — Volume 13
+"Come back in a week, and we will talk it over again, and I will then give you my definite answer.""",0.2732,0.104,0.0,0.896,positive,Original Short Stories — Volume 13
+And Chicot went off as happy as a king who had conquered an empire.,0.5719,0.236,0.0,0.764,positive,Original Short Stories — Volume 13
+"Mother Magloire was thoughtful, and did not sleep at all that night; in fact, for four days she was in a fever of hesitation.",0.128,0.101,0.082,0.817,positive,Original Short Stories — Volume 13
+"She suspected that there was something underneath the offer which was not to her advantage; but then the thought of thirty crowns a month, of all those coins clinking in her apron, falling to her, as it were, from the skies, without her doing anything for it, aroused her covetousness.",-0.4059,0.0,0.093,0.907,negative,Original Short Stories — Volume 13
+She went to the notary and told him about it.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He advised her to accept Chicot's offer, but said she ought to ask for an annuity of fifty instead of thirty, as her farm was worth sixty thousand francs at the lowest calculation.",-0.0644,0.111,0.091,0.799,negative,Original Short Stories — Volume 13
+"""If you live for fifteen years longer,"" he said, ""even then he will only have paid forty-five thousand francs for it.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"The old woman trembled with joy at this prospect of getting fifty crowns a month, but she was still suspicious, fearing some trick, and she remained a long time with the lawyer asking questions without being able to make up her mind to go.",-0.7992,0.078,0.218,0.704,negative,Original Short Stories — Volume 13
+"At last she gave him instructions to draw up the deed and returned home with her head in a whirl, just as if she had drunk four jugs of new cider.",-0.34,0.0,0.076,0.924,negative,Original Short Stories — Volume 13
+"When Chicot came again to receive her answer she declared, after a lot of persuading, that she could not make up her mind to agree to his proposal, though she was all the time trembling lest he should not consent to give the fifty crowns, but at last, when he grew urgent, she told him what she expected for her farm.",0.2185,0.063,0.049,0.888,positive,Original Short Stories — Volume 13
+He looked surprised and disappointed and refused.,-0.5267,0.17,0.473,0.357,negative,Original Short Stories — Volume 13
+"Then, in order to convince him, she began to talk about the probable duration of her life.",0.25,0.111,0.0,0.889,positive,Original Short Stories — Volume 13
+"""I am certainly not likely to live more than five or six years longer.",0.34,0.156,0.0,0.844,positive,Original Short Stories — Volume 13
+"I am nearly seventy-three, and far from strong, even considering my age.",0.5106,0.248,0.0,0.752,positive,Original Short Stories — Volume 13
+"The other evening I thought I was going to die, and could hardly manage to crawl into bed.""",-0.5994,0.0,0.206,0.794,negative,Original Short Stories — Volume 13
+But Chicot was not going to be taken in.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Come, come, old lady, you are as strong as the church tower, and will live till you are a hundred at least; you will no doubt see me put under ground first.""",-0.1027,0.092,0.131,0.778,negative,Original Short Stories — Volume 13
+"The whole day was spent in discussing the money, and as the old woman would not give in, the innkeeper consented to give the fifty crowns, and she insisted upon having ten crowns over and above to strike the bargain.",0.0772,0.044,0.036,0.92,positive,Original Short Stories — Volume 13
+Three years passed and the old dame did not seem to have grown a day older.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Chicot was in despair, and it seemed to him as if he had been paying that annuity for fifty years, that he had been taken in, done, ruined.",-0.6597,0.0,0.172,0.828,negative,Original Short Stories — Volume 13
+"From time to time he went to see the old lady, just as one goes in July to see when the harvest is likely to begin.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"She always met him with a cunning look, and one might have supposed that she was congratulating herself on the trick she had played him.",0.296,0.094,0.047,0.859,positive,Original Short Stories — Volume 13
+"Seeing how well and hearty she seemed he very soon got into his buggy again, growling to himself: ""Will you never die, you old hag?""",0.6423,0.186,0.0,0.814,positive,Original Short Stories — Volume 13
+"He did not know what to do, and he felt inclined to strangle her when he saw her.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He hated her with a ferocious, cunning hatred, the hatred of a peasant who has been robbed, and began to cast about for some means of getting rid of her.",-0.9325,0.0,0.368,0.632,negative,Original Short Stories — Volume 13
+"One day he came to see her again, rubbing his hands as he did the first time he proposed the bargain, and, after having chatted for a few minutes, he said: ""Why do you never come and have a bit of dinner at my place when you are in Spreville?",0.2023,0.037,0.0,0.963,positive,Original Short Stories — Volume 13
+"The people are talking about it, and saying we are not on friendly terms, and that pains me.",-0.6628,0.0,0.253,0.747,negative,Original Short Stories — Volume 13
+"You know it will cost you nothing if you come, for I don't look at the price of a dinner.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Come whenever you feel inclined; I shall be very glad to see you.""",0.5095,0.23,0.0,0.77,positive,Original Short Stories — Volume 13
+"Old Mother Magloire did not need to be asked twice, and the next day but one, as she had to go to the town in any case, it being market day, she let her man drive her to Chicot's place, where the buggy was put in the barn while she went into the house to get her dinner.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"The innkeeper was delighted and treated her like a lady, giving her roast fowl, black pudding, leg of mutton and bacon and cabbage.",0.802,0.301,0.0,0.699,positive,Original Short Stories — Volume 13
+But she ate next to nothing.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"She had always been a small eater, and had generally lived on a little soup and a crust of bread and butter.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Chicot was disappointed and pressed her to eat more, but she refused, and she would drink little, and declined coffee, so he asked her: ""But surely you will take a little drop of brandy or liqueur?""",-0.3831,0.091,0.176,0.733,negative,Original Short Stories — Volume 13
+"""Well, as to that, I don't know that I will refuse.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Whereupon he shouted out: ""Rosalie, bring the superfine brandy--the special--you know.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"The servant appeared, carrying a long bottle ornamented with a paper vine-leaf, and he filled two liqueur glasses.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Just try that; you will find it first rate.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"The good woman drank it slowly in sips, so as to make the pleasure last all the longer, and when she had finished her glass, she said: ""Yes, that is first rate!""",0.784,0.187,0.0,0.813,positive,Original Short Stories — Volume 13
+Almost before she had said it Chicot had poured her out another glassful.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"She wished to refuse, but it was too late, and she drank it very slowly, as she had done the first, and he asked her to have a third.",-0.1531,0.0,0.056,0.944,negative,Original Short Stories — Volume 13
+"She objected, but he persisted.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""It is as mild as milk, you know; I can drink ten or a dozen glasses without any ill effects; it goes down like sugar and does not go to the head; one would think that it evaporated on the tongue: It is the most wholesome thing you can drink.""",0.5903,0.095,0.0,0.905,positive,Original Short Stories — Volume 13
+"She took it, for she really enjoyed it, but she left half the glass.",0.3174,0.15,0.0,0.85,positive,Original Short Stories — Volume 13
+"Then Chicot, in an excess of generosity, said: ""Look here, as it is so much to your taste, I will give you a small keg of it, just to show that you and I are still excellent friends.""",0.7906,0.175,0.0,0.825,positive,Original Short Stories — Volume 13
+"So she took one away with her, feeling slightly overcome by the effects of what she had drunk.",-0.2263,0.075,0.121,0.804,negative,Original Short Stories — Volume 13
+The next day the innkeeper drove into her yard and took a little iron-hooped keg out of his gig.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He insisted on her tasting the contents, to make sure it was the same delicious article, and, when they had each of them drunk three more glasses, he said as he was going away: ""Well, you know when it is all gone there is more left; don't be modest, for I shall not mind.",0.5574,0.103,0.041,0.856,positive,Original Short Stories — Volume 13
+"The sooner it is finished the better pleased I shall be.""",0.7003,0.42,0.0,0.58,positive,Original Short Stories — Volume 13
+Four days later he came again.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+The old woman was outside her door cutting up the bread for her soup.,-0.128,0.0,0.103,0.897,negative,Original Short Stories — Volume 13
+"He went up to her and put his face close to hers, so that he might smell her breath; and when he smelt the alcohol he felt pleased.",0.4404,0.097,0.0,0.903,positive,Original Short Stories — Volume 13
+"""I suppose you will give me a glass of the Special?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+he said.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+And they had three glasses each.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Soon, however, it began to be whispered abroad that Mother Magloire was in the habit of getting drunk all by herself.",-0.34,0.0,0.107,0.893,negative,Original Short Stories — Volume 13
+"She was picked up in her kitchen, then in her yard, then in the roads in the neighborhood, and she was often brought home like a log.",0.3612,0.091,0.0,0.909,positive,Original Short Stories — Volume 13
+"The innkeeper did not go near her any more, and, when people spoke to him about her, he used to say, putting on a distressed look: ""It is a great pity that she should have taken to drink at her age, but when people get old there is no remedy.",-0.4118,0.048,0.119,0.833,negative,Original Short Stories — Volume 13
+"It will be the death of her in the long run.""",-0.5994,0.0,0.281,0.719,negative,Original Short Stories — Volume 13
+And it certainly was the death of her.,-0.3612,0.195,0.317,0.488,negative,Original Short Stories — Volume 13
+She died the next winter.,-0.5574,0.0,0.474,0.526,negative,Original Short Stories — Volume 13
+"About Christmas time she fell down, unconscious, in the snow, and was found dead the next morning.",-0.6486,0.0,0.212,0.788,negative,Original Short Stories — Volume 13
+"And when Chicot came in for the farm, he said: ""It was very stupid of her; if she had not taken to drink she would probably have lived ten years longer.""",-0.5709,0.0,0.11,0.89,negative,Original Short Stories — Volume 13
+BOITELLE Father Boitelle (Antoine) made a specialty of undertaking dirty jobs all through the countryside.,-0.4404,0.0,0.182,0.818,negative,Original Short Stories — Volume 13
+"Whenever there was a ditch or a cesspool to be cleaned out, a dunghill removed, a sewer cleansed, or any dirt hole whatever, he was always employed to do it.",-0.34,0.0,0.088,0.912,negative,Original Short Stories — Volume 13
+"He would come with the instruments of his trade, his sabots covered with dirt, and set to work, complaining incessantly about his occupation.",-0.4939,0.0,0.167,0.833,negative,Original Short Stories — Volume 13
+"When people asked him then why he did this loathsome work, he would reply resignedly: ""Faith, 'tis for my children, whom I must support.",0.25,0.106,0.067,0.827,positive,Original Short Stories — Volume 13
+"This brings me in more than anything else.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He had, indeed, fourteen children.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"If any one asked him what had become of them, he would say with an air of indifference: ""There are only eight of them left in the house.",-0.0516,0.0,0.043,0.957,negative,Original Short Stories — Volume 13
+"One is out at service and five are married.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"When the questioner wanted to know whether they were well married, he replied vivaciously: ""I did not oppose them.",0.2732,0.104,0.0,0.896,positive,Original Short Stories — Volume 13
+I opposed them in nothing.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+They married just as they pleased.,0.4404,0.367,0.0,0.633,positive,Original Short Stories — Volume 13
+"We shouldn't go against people's likings, it turns out badly.",-0.4767,0.0,0.256,0.744,negative,Original Short Stories — Volume 13
+I am a night scavenger because my parents went against my likings.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"But for that I would have become a workman like the others.""",0.5023,0.265,0.0,0.735,positive,Original Short Stories — Volume 13
+"Here is the way his parents had thwarted him in his likings: He was at the time a soldier stationed at Havre, not more stupid than another, or sharper either, a rather simple fellow, however.",0.4391,0.085,0.031,0.883,positive,Original Short Stories — Volume 13
+"When he was not on duty, his greatest pleasure was to walk along the quay, where the bird dealers congregate.",0.836,0.305,0.0,0.695,positive,Original Short Stories — Volume 13
+"Sometimes alone, sometimes with a soldier from his own part of the country, he would slowly saunter along by cages containing parrots with green backs and yellow heads from the banks of the Amazon, or parrots with gray backs and red heads from Senegal, or enormous macaws, which look like birds reared in hot-houses, with their flower-like feathers, their plumes and their tufts.",0.2023,0.064,0.067,0.869,positive,Original Short Stories — Volume 13
+"Parrots of every size, who seem painted with minute care by the miniaturist, God Almighty, and the little birds, all the smaller birds hopped about, yellow, blue and variegated, mingling their cries with the noise of the quay; and adding to the din caused by unloading the vessels, as well as by passengers and vehicles, a violent clamor, loud, shrill and deafening, as if from some distant forest of monsters.",-0.34,0.093,0.111,0.795,negative,Original Short Stories — Volume 13
+"Boitelle would pause, with wondering eyes, wide-open mouth, laughing and enraptured, showing his teeth to the captive cockatoos, who kept nodding their white or yellow topknots toward the glaring red of his breeches and the copper buckle of his belt.",0.4939,0.076,0.0,0.924,positive,Original Short Stories — Volume 13
+"When he found a bird that could talk he put questions to it, and if it happened at the time to be disposed to reply and to hold a conversation with him he would carry away enough amusement to last him till evening.",0.3612,0.059,0.0,0.941,positive,Original Short Stories — Volume 13
+"He also found heaps of amusement in looking at the monkeys, and could conceive no greater luxury for a rich man than to own these animals as one owns cats and dogs.",0.7506,0.228,0.058,0.714,positive,Original Short Stories — Volume 13
+"This kind of taste for the exotic he had in his blood, as people have a taste for the chase, or for medicine, or for the priesthood.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He could not help returning to the quay every time the gates of the barracks opened, drawn toward it by an irresistible longing.",0.0108,0.093,0.13,0.776,neutral,Original Short Stories — Volume 13
+"On one occasion, having stopped almost in ecstasy before an enormous macaw, which was swelling out its plumes, bending forward and bridling up again as if making the court curtseys of parrot-land, he saw the door of a little cafe adjoining the bird dealer's shop open, and a young negress appeared, wearing on her head a red silk handkerchief.",0.4062,0.061,0.032,0.907,positive,Original Short Stories — Volume 13
+She was sweeping into the street the corks and sand of the establishment.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Boitelle's attention was soon divided between the bird and the woman, and he really could not tell which of these two beings he contemplated with the greater astonishment and delight.",0.7506,0.186,0.0,0.814,positive,Original Short Stories — Volume 13
+"The negress, having swept the rubbish into the street, raised her eyes, and, in her turn, was dazzled by the soldier's uniform.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"There she stood facing him with her broom in her hands as if she were bringing him a rifle, while the macaw continued bowing.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"But at the end of a few seconds the soldier began to feel embarrassed at this attention, and he walked away quietly so as not to look as if he were beating a retreat.",-0.7227,0.057,0.189,0.754,negative,Original Short Stories — Volume 13
+But he came back.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Almost every day he passed before the Cafe des Colonies, and often he could distinguish through the window the figure of the little black-skinned maid serving ""bocks"" or glasses of brandy to the sailors of the port.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Frequently, too, she would come out to the door on seeing him; soon, without even having exchanged a word, they smiled at one another like acquaintances; and Boitelle felt his heart touched when he suddenly saw, glittering between the dark lips of the girl, a shining row of white teeth.",0.7184,0.115,0.0,0.885,positive,Original Short Stories — Volume 13
+"At length, one day he ventured to enter, and was quite surprised to find that she could speak French like every one else.",0.5709,0.183,0.0,0.817,positive,Original Short Stories — Volume 13
+"The bottle of lemonade, of which she was good enough to accept a glassful, remained in the soldier's recollection memorably delicious, and it became a custom with him to come and absorb in this little tavern on the quay all the agreeable drinks which he could afford.",0.9001,0.226,0.0,0.774,positive,Original Short Stories — Volume 13
+"For him it was a treat, a happiness, on which his thoughts dwelt constantly, to watch the black hand of the little maid pouring something into his glass while her teeth laughed more than her eyes.",0.91,0.294,0.0,0.706,positive,Original Short Stories — Volume 13
+"At the end of two months they became fast friends, and Boitelle, after his first astonishment at discovering that this negress had as good principles as honest French girls, that she exhibited a regard for economy, industry, religion and good conduct, loved her more on that account, and was so charmed with her that he wanted to marry her.",0.9636,0.277,0.0,0.723,positive,Original Short Stories — Volume 13
+"He told her his intentions, which made her dance with joy.",0.5859,0.275,0.0,0.725,positive,Original Short Stories — Volume 13
+"She had also a little money, left her by a female oyster dealer, who had picked her up when she had been left on the quay at Havre by an American captain.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"This captain had found her, when she was only about six years old, lying on bales of cotton in the hold of his ship, some hours after his departure from New York.",-0.5267,0.0,0.099,0.901,negative,Original Short Stories — Volume 13
+"On his arrival in Havre he abandoned to the care of this compassionate oyster dealer the little black creature, who had been hidden on board his vessel, he knew not why or by whom.",0.5267,0.158,0.074,0.767,positive,Original Short Stories — Volume 13
+"The oyster woman having died, the young negress became a servant at the Colonial Tavern.",-0.5574,0.0,0.217,0.783,negative,Original Short Stories — Volume 13
+"Antoine Boitelle added: ""This will be all right if my parents don't oppose it.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"I will never go against them, you understand, never!",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"I'm going to say a word or two to them the first time I go back to the country.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"On the following week, in fact, having obtained twenty-four hours' leave, he went to see his family, who cultivated a little farm at Tourteville, near Yvetot.",-0.0516,0.0,0.048,0.952,negative,Original Short Stories — Volume 13
+"He waited till the meal was finished, the hour when the coffee baptized with brandy makes people more open-hearted, before informing his parents that he had found a girl who satisfied his tastes, all his tastes, so completely that there could not exist any other in all the world so perfectly suited to him.",0.8468,0.138,0.0,0.862,positive,Original Short Stories — Volume 13
+"The old people, on hearing this, immediately assumed a cautious manner and wanted explanations.",-0.1027,0.0,0.104,0.896,negative,Original Short Stories — Volume 13
+He had concealed nothing from them except the color of her skin.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"She was a servant, without much means, but strong, thrifty, clean, well-conducted and sensible.",0.8402,0.421,0.0,0.579,positive,Original Short Stories — Volume 13
+All these things were better than money would be in the hands of a bad housewife.,-0.1531,0.149,0.18,0.67,negative,Original Short Stories — Volume 13
+"Moreover, she had a few sous, left her by a woman who had reared her, a good number of sous, almost a little dowry, fifteen hundred francs in the savings bank.",0.4939,0.144,0.0,0.856,positive,Original Short Stories — Volume 13
+"The old people, persuaded by his talk, and relying also on their own judgment, were gradually weakening, when he came to the delicate point.",-0.2732,0.047,0.09,0.863,negative,Original Short Stories — Volume 13
+"Laughing in rather a constrained fashion, he said: ""There's only one thing you may not like.",0.1754,0.171,0.188,0.641,positive,Original Short Stories — Volume 13
+"She is not a white slip.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"They did not understand, and he had to explain at some length and very cautiously, to avoid shocking them, that she belonged to the dusky race of which they had only seen samples in pictures at Epinal.",-0.6326,0.0,0.129,0.871,negative,Original Short Stories — Volume 13
+"Then they became restless, perplexed, alarmed, as if he had proposed a union with the devil.",-0.8807,0.0,0.505,0.495,negative,Original Short Stories — Volume 13
+"The mother said: ""Black?",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+How much of her is black?,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Is the whole of her?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He replied: ""Certainly.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Everywhere, just as you are white everywhere.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"The father interposed: ""Black?",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Is it as black as the pot?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"The son answered: ""Perhaps a little less than that.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"She is black, but not disgustingly black.",0.6392,0.413,0.0,0.587,positive,Original Short Stories — Volume 13
+"The cure's cassock is black, but it is not uglier than a surplice which is white.""",0.5334,0.197,0.0,0.803,positive,Original Short Stories — Volume 13
+"The father said: ""Are there more black people besides her in her country?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"And the son, with an air of conviction, exclaimed: ""Certainly!""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+But the old man shook his head.,-0.1531,0.0,0.211,0.789,negative,Original Short Stories — Volume 13
+"""That must be unpleasant.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"And the son: ""It isn't more disagreeable than anything else when you get accustomed to it.""",0.3559,0.142,0.0,0.858,positive,Original Short Stories — Volume 13
+"The mother asked: ""It doesn't soil the underwear more than other skins, this black skin?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Not more than your own, as it is her proper color.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Then, after many other questions, it was agreed that the parents should see this girl before coming; to any decision, and that the young fellow, whose term of military service would be over in a month, should bring her to the house in order that they might examine her and decide by talking the matter over whether or not she was too dark to enter the Boitelle family.",0.296,0.047,0.0,0.953,positive,Original Short Stories — Volume 13
+"Antoine accordingly announced that on Sunday, the 22d of May, the day of his discharge, he would start for Tourteville with his sweetheart.",0.6486,0.163,0.0,0.837,positive,Original Short Stories — Volume 13
+"She had put on, for this journey to the house of her lover's parents, her most beautiful and most gaudy clothes, in which yellow, red and blue were the prevailing colors, so that she looked as if she were adorned for a national festival.",0.8479,0.187,0.0,0.813,positive,Original Short Stories — Volume 13
+"At the terminus, as they were leaving Havre, people stared at her, and Boitelle was proud of giving his arm to a person who commanded so much attention.",0.6705,0.18,0.0,0.82,positive,Original Short Stories — Volume 13
+"Then, in the third-class carriage, in which she took a seat by his side, she aroused so much astonishment among the country folks that the people in the adjoining compartments stood up on their benches to look at her over the wooden partition which divides the compartments.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"A child, at sight of her, began to cry with terror, another concealed his face in his mother's apron.",-0.7579,0.0,0.289,0.711,negative,Original Short Stories — Volume 13
+"Everything went off well, however, up to their arrival at their destination.",0.2732,0.16,0.0,0.84,positive,Original Short Stories — Volume 13
+"But when the train slackened its rate of motion as they drew near Yvetot, Antoine felt ill at ease, as he would have done at a review when he did not know his drill practice.",-0.1154,0.083,0.095,0.822,negative,Original Short Stories — Volume 13
+"Then, as he; leaned his head out, he recognized in the distance: his father, holding the bridle of the horse harnessed to a carryall, and his mother, who had come forward to the grating, behind which stood those who were expecting friends.",0.4019,0.071,0.032,0.897,positive,Original Short Stories — Volume 13
+"He alighted first, gave his hand to his sweetheart, and holding himself erect, as if he were escorting a general, he went to meet his family.",0.8176,0.246,0.0,0.754,positive,Original Short Stories — Volume 13
+"The mother, on seeing this black lady in variegated costume in her son's company, remained so stupefied that she could not open her mouth; and the father found it hard to hold the horse, which the engine or the negress caused to rear continuously.",-0.1027,0.0,0.032,0.968,negative,Original Short Stories — Volume 13
+"But Antoine, suddenly filled with unmixed joy at seeing once more the old people, rushed forward with open arms, embraced his mother, embraced his father, in spite of the nag's fright, and then turning toward his companion, at whom the passengers on the platform stopped to stare with amazement, he proceeded to explain: ""Here she is!",0.2244,0.139,0.149,0.712,positive,Original Short Stories — Volume 13
+"I told you that, at first sight, she is not attractive; but as soon as you know her, I can assure you there's not a better sort in the whole world.",-0.1808,0.094,0.146,0.76,negative,Original Short Stories — Volume 13
+"Say good-morning to her so that she may not feel badly.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Thereupon Mere Boitelle, almost frightened out of her wits, made a sort of curtsy, while the father took off his cap, murmuring: ""I wish you good luck!""",0.5081,0.187,0.083,0.73,positive,Original Short Stories — Volume 13
+"Then, without further delay, they climbed into the carryall, the two women at the back, on seats which made them jump up and down as the vehicle went jolting along the road, and the two men in front on the front seat.",0.2411,0.046,0.0,0.954,positive,Original Short Stories — Volume 13
+Nobody spoke.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Antoine, ill at ease, whistled a barrack-room air; his father whipped the nag; and his mother, from where she sat in the corner, kept casting sly glances at the negress, whose forehead and cheekbones shone in the sunlight like well-polished shoes.",-0.0772,0.108,0.114,0.778,negative,Original Short Stories — Volume 13
+"Wishing to break the ice, Antoine turned round.",0.2263,0.213,0.0,0.787,positive,Original Short Stories — Volume 13
+"""Well,"" said he, ""we don't seem inclined to talk.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""We must have time,"" replied the old woman.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He went on: ""Come!",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Tell us the little story about that hen of yours that laid eight eggs.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+It was a funny anecdote of long standing in the family.,0.4404,0.244,0.0,0.756,positive,Original Short Stories — Volume 13
+"But, as his mother still remained silent, paralyzed by her emotion, he undertook himself to tell the story, laughing as he did so at the memorable incident.",0.6486,0.142,0.0,0.858,positive,Original Short Stories — Volume 13
+"The father, who knew it by heart brightened at the opening words of the narrative; his wife soon followed his example; and the negress herself, when he reached the drollest part of it, suddenly gave vent to a laugh, such a loud, rolling torrent of laughter that the horse, becoming excited, broke into a gallop for a while.",0.872,0.212,0.043,0.744,positive,Original Short Stories — Volume 13
+This served to cement their acquaintance.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+They all began to chat.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"They had scarcely reached the house and had all alighted, when Antoine conducted his sweetheart to a room, so that she might take off her dress, to avoid staining it, as she was going to prepare a nice dish, intended to win the old people's affections through their stomachs.",0.9063,0.251,0.038,0.71,positive,Original Short Stories — Volume 13
+"He drew his parents outside the house, and, with beating heart, asked: ""Well, what do you say now?""",-0.4588,0.0,0.15,0.85,negative,Original Short Stories — Volume 13
+The father said nothing.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"The mother, less timid, exclaimed: ""She is too black.",-0.1796,0.0,0.176,0.824,negative,Original Short Stories — Volume 13
+"No, indeed, this is too much for me.",-0.296,0.0,0.239,0.761,negative,Original Short Stories — Volume 13
+"It turns my blood.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""You will get used to it,"" said Antoine.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Perhaps so, but not at first.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"They went into the house, where the good woman was somewhat affected at the spectacle of the negress engaged in cooking.",0.6478,0.225,0.052,0.723,positive,Original Short Stories — Volume 13
+"She at once proceeded to assist her, with petticoats tucked up, active in spite of her age.",-0.1779,0.128,0.161,0.711,negative,Original Short Stories — Volume 13
+"The meal was an excellent one, very long, very enjoyable.",0.7996,0.472,0.0,0.528,positive,Original Short Stories — Volume 13
+"When they were taking a turn after dinner, Antoine took his father aside.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Well, dad, what do you say about it?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+The peasant took care never to compromise himself.,0.4939,0.314,0.0,0.686,positive,Original Short Stories — Volume 13
+"""I have no opinion about it.",-0.296,0.0,0.306,0.694,negative,Original Short Stories — Volume 13
+"Ask your mother.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"So Antoine went back to his mother, and, detaining her behind the rest, said: ""Well, mother, what do you think of her?""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""My poor lad, she is really too black.",-0.4767,0.0,0.307,0.693,negative,Original Short Stories — Volume 13
+"If she were only a little less black, I would not go against you, but this is too much.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"One would think it was Satan!""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He did not press her, knowing how obstinate the old woman had always been, but he felt a tempest of disappointment sweeping over his heart.",-0.7227,0.0,0.216,0.784,negative,Original Short Stories — Volume 13
+"He was turning over in his mind what he ought to do, what plan he could devise, surprised, moreover, that she had not conquered them already as she had captivated himself.",0.5423,0.134,0.0,0.866,positive,Original Short Stories — Volume 13
+"And they, all four, walked along through the wheat fields, having gradually relapsed into silence.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Whenever they passed a fence they saw a countryman sitting on the stile, and a group of brats climbed up to stare at them, and every one rushed out into the road to see the ""black"" whore young Boitelle had brought home with him.",-0.6486,0.0,0.097,0.903,negative,Original Short Stories — Volume 13
+At a distance they noticed people scampering across the fields just as when the drum beats to draw public attention to some living phenomenon.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Pere and Mere Boitelle, alarmed at this curiosity, which was exhibited everywhere through the country at their approach, quickened their pace, walking side by side, and leaving their son far behind.",-0.34,0.0,0.074,0.926,negative,Original Short Stories — Volume 13
+His dark companion asked what his parents thought of her.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+He hesitatingly replied that they had not yet made up their minds.,-0.3612,0.0,0.185,0.815,negative,Original Short Stories — Volume 13
+"But on the village green people rushed out of all the houses in a flutter of excitement; and, at the sight of the gathering crowd, old Boitelle took to his heels, and regained his abode, while Antoine; swelling with rage, his sweetheart on his arm, advanced majestically under the staring eyes, which opened wide in amazement.",0.9274,0.242,0.068,0.691,positive,Original Short Stories — Volume 13
+"He understood that it was at an end, and there was no hope for him, that he could not marry his negress.",0.1779,0.116,0.088,0.797,positive,Original Short Stories — Volume 13
+She also understood it; and as they drew near the farmhouse they both began to weep.,-0.5719,0.0,0.198,0.802,negative,Original Short Stories — Volume 13
+"As soon as they had got back to the house, she once more took off her dress to aid the mother in the household duties, and followed her everywhere, to the dairy, to the stable, to the hen house, taking on herself the hardest part of the work, repeating always: ""Let me do it, Madame Boitelle,"" so that, when night came on, the old woman, touched but inexorable, said to her son: ""She is a good girl, all the same.",0.6652,0.066,0.0,0.934,positive,Original Short Stories — Volume 13
+It's a pity she is so black; but indeed she is too black.,-0.1531,0.0,0.127,0.873,negative,Original Short Stories — Volume 13
+I could not get used to it.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+She must go back again.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"She is too, too black!""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"And young Boitelle said to his sweetheart: ""She will not consent.",0.5624,0.287,0.111,0.601,positive,Original Short Stories — Volume 13
+She thinks you are too black.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+You must go back again.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+I will go with you to the train.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+No matter--don't fret.,-0.296,0.0,0.524,0.476,negative,Original Short Stories — Volume 13
+"I am going to talk to them after you have started.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He then took her to the railway station, still cheering her with hope, and, when he had kissed her, he put her into the train, which he watched as it passed out of sight, his eyes swollen with tears.",0.7845,0.193,0.042,0.766,positive,Original Short Stories — Volume 13
+In vain did he appeal to the old people.,-0.4215,0.0,0.259,0.741,negative,Original Short Stories — Volume 13
+They would never give their consent.,-0.1695,0.0,0.25,0.75,negative,Original Short Stories — Volume 13
+"And when he had told this story, which was known all over the country, Antoine Boitelle would always add: ""From that time forward I have had no heart for anything--for anything at all.",-0.296,0.0,0.066,0.934,negative,Original Short Stories — Volume 13
+"No trade suited me any longer, and so I became what I am--a night scavenger.""",-0.296,0.0,0.155,0.845,negative,Original Short Stories — Volume 13
+"People would say to him: ""Yet you got married.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Yes, and I can't say that my wife didn't please me, seeing that I have fourteen children; but she is not the other one, oh, no--certainly not!",-0.1957,0.0,0.069,0.931,negative,Original Short Stories — Volume 13
+"The other one, mark you, my negress, she had only to give me one glance, and I felt as if I were in Heaven.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+A WIDOW This story was told during the hunting season at the Chateau Baneville.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+The autumn had been rainy and sad.,-0.5267,0.0,0.468,0.532,negative,Original Short Stories — Volume 13
+"The red leaves, instead of rustling under the feet, were rotting under the heavy downfalls.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+The forest was as damp as it could be.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"From it came an odor of must, of rain, of soaked grass and wet earth; and the sportsmen, their backs hunched under the downpour, mournful dogs, with tails between their legs and hairs sticking to their sides, and the young women, with their clothes drenched, returned every evening, tired in body and in mind.",-0.6908,0.0,0.116,0.884,negative,Original Short Stories — Volume 13
+"After dinner, in the large drawing-room, everybody played lotto, without enjoyment, while the wind whistled madly around the house.",-0.498,0.1,0.234,0.666,negative,Original Short Stories — Volume 13
+"Then they tried telling stories like those they read in books, but no one was able to invent anything amusing.",0.3291,0.206,0.112,0.681,positive,Original Short Stories — Volume 13
+The hunters told tales of wonderful shots and of the butchery of rabbits; and the women racked their brains for ideas without revealing the imagination of Scheherezade.,0.5719,0.125,0.0,0.875,positive,Original Short Stories — Volume 13
+"They were about to give up this diversion when a young woman, who was idly caressing the hand of an old maiden aunt, noticed a little ring made of blond hair, which she had often seen, without paying any attention to it.",0.4939,0.076,0.0,0.924,positive,Original Short Stories — Volume 13
+"She fingered it gently and asked, ""Auntie, what is this ring?",0.4588,0.231,0.0,0.769,positive,Original Short Stories — Volume 13
+"It looks as if it were made from the hair of a child.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"The old lady blushed, grew pale, then answered in a trembling voice: ""It is sad, so sad that I never wish to speak of it.",-0.8738,0.0,0.366,0.634,negative,Original Short Stories — Volume 13
+All the unhappiness of my life comes from that.,-0.5267,0.0,0.298,0.702,negative,Original Short Stories — Volume 13
+"I was very young then, and the memory has remained so painful that I weep every time I think of it.""",-0.8274,0.0,0.325,0.675,negative,Original Short Stories — Volume 13
+"Immediately everybody wished to know the story, but the old lady refused to tell it.",-0.4215,0.0,0.167,0.833,negative,Original Short Stories — Volume 13
+"Finally, after they had coaxed her for a long time, she yielded.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Here is the story: ""You have often heard me speak of the Santeze family, now extinct.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+I knew the last three male members of this family.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+They all died in the same manner; this hair belongs to the last one.,-0.5574,0.0,0.217,0.783,negative,Original Short Stories — Volume 13
+He was thirteen when he killed himself for me.,-0.6705,0.0,0.36,0.64,negative,Original Short Stories — Volume 13
+"That seems strange to you, doesn't it?",-0.2023,0.0,0.231,0.769,negative,Original Short Stories — Volume 13
+"""Oh!",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"it was a strange family--mad, if you will, but a charming madness, the madness of love.",0.5994,0.378,0.313,0.309,positive,Original Short Stories — Volume 13
+"From father to son, all had violent passions which filled their whole being, which impelled them to do wild things, drove them to frantic enthusiasm, even to crime.",-0.6369,0.155,0.261,0.584,negative,Original Short Stories — Volume 13
+"This was born in them, just as burning devotion is in certain souls.",0.6249,0.317,0.0,0.683,positive,Original Short Stories — Volume 13
+Trappers have not the same nature as minions of the drawing-room.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+There was a saying: 'As passionate as a Santeze.',0.5267,0.362,0.0,0.638,positive,Original Short Stories — Volume 13
+This could be noticed by looking at them.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"They all had wavy hair, falling over their brows, curly beards and large eyes whose glance pierced and moved one, though one could not say why.",-0.1531,0.0,0.06,0.94,negative,Original Short Stories — Volume 13
+"""The grandfather of the owner of this hair, of whom it is the last souvenir, after many adventures, duels and elopements, at about sixty-five fell madly in love with his farmer's daughter.",0.5994,0.172,0.07,0.757,positive,Original Short Stories — Volume 13
+I knew them both.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"She was blond, pale, distinguished-looking, with a slow manner of talking, a quiet voice and a look so gentle that one might have taken her for a Madonna.",0.5777,0.14,0.0,0.86,positive,Original Short Stories — Volume 13
+The old nobleman took her to his home and was soon so captivated with her that he could not live without her for a minute.,0.5214,0.128,0.0,0.872,positive,Original Short Stories — Volume 13
+"His daughter and daughter-in-law, who lived in the chateau, found this perfectly natural, love was such a tradition in the family.",0.9136,0.408,0.0,0.592,positive,Original Short Stories — Volume 13
+"Nothing in regard to a passion surprised them, and if one spoke before them of parted lovers, even of vengeance after treachery, both said in the same sad tone: 'Oh, how he must have suffered to come to that point!'",0.3164,0.176,0.129,0.695,positive,Original Short Stories — Volume 13
+That was all.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"They grew sad over tragedies of love, but never indignant, even when they were criminal.",-0.4592,0.231,0.355,0.413,negative,Original Short Stories — Volume 13
+"""Now, one day a young man named Monsieur de Gradelle, who had been invited for the shooting, eloped with the young girl.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""Monsieur de Santeze remained calm as if nothing had happened, but one morning he was found hanging in the kennels, among his dogs.",0.1655,0.07,0.0,0.93,positive,Original Short Stories — Volume 13
+"""His son died in the same manner in a hotel in Paris during a journey which he made there in 1841, after being deceived by a singer from the opera.",-0.7579,0.0,0.206,0.794,negative,Original Short Stories — Volume 13
+"""He left a twelve-year-old child and a widow, my mother's sister.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"She came to my father's house with the boy, while we were living at Bertillon.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+I was then seventeen.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""You have no idea how wonderful and precocious this Santeze child was.",0.3612,0.233,0.138,0.629,positive,Original Short Stories — Volume 13
+One might have thought that all the tenderness and exaltation of the whole race had been stored up in this last one.,0.4215,0.118,0.0,0.882,positive,Original Short Stories — Volume 13
+He was always dreaming and walking about alone in a great alley of elms leading from the chateau to the forest.,0.4767,0.17,0.083,0.747,positive,Original Short Stories — Volume 13
+"I watched from my window this sentimental boy, who walked with thoughtful steps, his hands behind his back, his head bent, and at times stopping to raise his eyes as if he could see and understand things that were not comprehensible at his age.",0.561,0.112,0.034,0.854,positive,Original Short Stories — Volume 13
+"""Often, after dinner on clear evenings, he would say to me: 'Let us go outside and dream, cousin.'",0.5574,0.223,0.0,0.777,positive,Original Short Stories — Volume 13
+And we would go outside together in the park.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He would stop quickly before a clearing where the white vapor of the moon lights the woods, and he would press my hand, saying: 'Look!",0.3164,0.126,0.079,0.794,positive,Original Short Stories — Volume 13
+look!,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+but you don't understand me; I feel it.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"If you understood me, we should be happy.",0.5719,0.346,0.0,0.654,positive,Original Short Stories — Volume 13
+One must love to know!,0.6696,0.529,0.0,0.471,positive,Original Short Stories — Volume 13
+"I would laugh and then kiss this child, who loved me madly.",0.8225,0.515,0.135,0.35,positive,Original Short Stories — Volume 13
+"""Often, after dinner, he would sit on my mother's knees.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"'Come, auntie,' he would say, 'tell me some love-stories.'",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"And my mother, as a joke, would tell him all the old legends of the family, all the passionate adventures of his forefathers, for thousands of them were current, some true and some false.",0.8689,0.271,0.0,0.729,positive,Original Short Stories — Volume 13
+It was their reputation for love and gallantry which was the ruin of every one of these men; they gloried in it and then thought that they had to live up to the renown of their house.,0.8126,0.233,0.079,0.688,positive,Original Short Stories — Volume 13
+"""The little fellow became exalted by these tender or terrible stories, and at times he would clap his hands, crying: 'I, too, I, too, know how to love, better than all of them!'",0.2942,0.174,0.146,0.681,positive,Original Short Stories — Volume 13
+"""Then, he began to court me in a timid and tender manner, at which every one laughed, it was, so amusing.",0.656,0.251,0.079,0.67,positive,Original Short Stories — Volume 13
+"Every morning I had some flowers picked by him, and every evening before going to his room he would kiss my hand and murmur: 'I love you!'",0.8883,0.313,0.0,0.687,positive,Original Short Stories — Volume 13
+"""I was guilty, very guilty, and I grieved continually about it, and I have been doing penance all my life; I have remained an old maid--or, rather, I have lived as a widowed fiancee, his widow.",-0.8993,0.0,0.307,0.693,negative,Original Short Stories — Volume 13
+"""I was amused at this childish tenderness, and I even encouraged him.",0.7096,0.468,0.127,0.405,positive,Original Short Stories — Volume 13
+"I was coquettish, as charming as with a man, alternately caressing and severe.",0.296,0.247,0.169,0.584,positive,Original Short Stories — Volume 13
+I maddened this child.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+It was a game for me and a joyous diversion for his mother and mine.,0.6249,0.255,0.0,0.745,positive,Original Short Stories — Volume 13
+He was twelve!,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+think of it!,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+Who would have taken this atom's passion seriously?,0.3182,0.28,0.159,0.561,positive,Original Short Stories — Volume 13
+"I kissed him as often as he wished; I even wrote him little notes, which were read by our respective mothers; and he answered me by passionate letters, which I have kept.",0.8316,0.253,0.0,0.747,positive,Original Short Stories — Volume 13
+"Judging himself as a man, he thought that our loving intimacy was secret.",0.5994,0.262,0.0,0.738,positive,Original Short Stories — Volume 13
+We had forgotten that he was a Santeze.,-0.2263,0.0,0.241,0.759,negative,Original Short Stories — Volume 13
+"""This lasted for about a year.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"One evening in the park he fell at my feet and, as he madly kissed the hem of my dress, he kept repeating: 'I love you!",0.6588,0.216,0.082,0.701,positive,Original Short Stories — Volume 13
+I love you!,0.6696,0.818,0.0,0.182,positive,Original Short Stories — Volume 13
+I love you!,0.6696,0.818,0.0,0.182,positive,Original Short Stories — Volume 13
+"If ever you deceive me, if ever you leave me for another, I'll do as my father did.'",-0.4404,0.0,0.196,0.804,negative,Original Short Stories — Volume 13
+"And he added in a hoarse voice, which gave me a shiver: 'You know what he did!'",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""I stood there astonished.",0.3818,0.464,0.0,0.536,positive,Original Short Stories — Volume 13
+"He arose, and standing on the tips of his toes in order to reach my ear, for I was taller than he, he pronounced my first name: 'Genevieve!'",0.1007,0.051,0.0,0.949,positive,Original Short Stories — Volume 13
+"in such a gentle, sweet, tender tone that I trembled all over.",0.5859,0.393,0.14,0.467,positive,Original Short Stories — Volume 13
+I stammered: 'Let us return!,-0.2942,0.0,0.422,0.578,negative,Original Short Stories — Volume 13
+let us return!',0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He said no more and followed me; but as we were going up the steps of the porch, he stopped me, saying: 'You know, if ever you leave me, I'll kill myself.'",-0.8957,0.0,0.296,0.704,negative,Original Short Stories — Volume 13
+"""This time I understood that I had gone too far, and I became quite reserved.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"One day, as he was reproaching me for this, I answered: 'You are now too old for jesting and too young for serious love.",0.5994,0.158,0.049,0.792,positive,Original Short Stories — Volume 13
+I'll wait.',0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""I thought that this would end the matter.",0.0258,0.136,0.0,0.864,neutral,Original Short Stories — Volume 13
+In the autumn he was sent to a boarding-school.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+When he returned the following summer I was engaged to be married.,0.4019,0.213,0.0,0.787,positive,Original Short Stories — Volume 13
+"He understood immediately, and for a week he became so pensive that I was quite anxious.",-0.141,0.109,0.143,0.748,negative,Original Short Stories — Volume 13
+"""On the morning of the ninth day I saw a little paper under my door as I got up.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"I seized it, opened it and read: 'You have deserted me and you know what I said.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+It is death to which you have condemned me.,-0.7783,0.0,0.493,0.507,negative,Original Short Stories — Volume 13
+"As I do not wish to be found by another than you, come to the park just where I told you last year that I loved you and look in the air.'",0.3903,0.118,0.068,0.814,positive,Original Short Stories — Volume 13
+"""I thought that I should go mad.",-0.4939,0.0,0.39,0.61,negative,Original Short Stories — Volume 13
+I dressed as quickly as I could and ran wildly to the place that he had mentioned.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+His little cap was on the ground in the mud.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+It had been raining all night.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"I raised my eyes and saw something swinging among the leaves, for the wind was blowing a gale.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""I don't know what I did after that.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"I must have screamed at first, then fainted and fallen, and finally have run to the chateau.",-0.5859,0.0,0.255,0.745,negative,Original Short Stories — Volume 13
+"The next thing that I remember I was in bed, with my mother sitting beside me.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"""I thought that I had dreamed all this in a frightful nightmare.",-0.5106,0.0,0.268,0.732,negative,Original Short Stories — Volume 13
+"I stammered: 'And what of him, what of him, Gontran?'",-0.2263,0.0,0.192,0.808,negative,Original Short Stories — Volume 13
+There was no answer.,-0.296,0.0,0.423,0.577,negative,Original Short Stories — Volume 13
+It was true!,0.4753,0.607,0.0,0.393,positive,Original Short Stories — Volume 13
+"""I did not dare see him again, but I asked for a lock of his blond hair.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"Here--here it is!""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+And the old maid stretched out her trembling hand in a despairing gesture.,-0.3818,0.178,0.322,0.5,negative,Original Short Stories — Volume 13
+"Then she blew her nose several times, wiped her eyes and continued: ""I broke off my marriage--without saying why.",-0.4215,0.0,0.135,0.865,negative,Original Short Stories — Volume 13
+"And I--I always have remained the--the widow of this thirteen-year-old boy.""",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+Then her head fell on her breast and she wept for a long time.,-0.4588,0.0,0.2,0.8,negative,Original Short Stories — Volume 13
+"As the guests were retiring for the night a large man, whose quiet she had disturbed, whispered in his neighbor's ear: ""Isn't it unfortunate to, be so sentimental?""",-0.031,0.082,0.086,0.831,neutral,Original Short Stories — Volume 13
+THE ENGLISHMAN OF ETRETAT A great English poet has just crossed over to France in order to greet Victor Hugo.,0.7506,0.274,0.0,0.726,positive,Original Short Stories — Volume 13
+All the newspapers are full of his name and he is the great topic of conversation in all drawing-rooms.,0.6249,0.186,0.0,0.814,positive,Original Short Stories — Volume 13
+Fifteen years ago I had occasion several times to meet Algernon Charles Swinburne.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"I will attempt to show him just as I saw him and to give an idea of the strange impression he made on me, which will remain with me throughout time.",0.0258,0.062,0.059,0.879,neutral,Original Short Stories — Volume 13
+I believe it was in 1867 or in 1868 that an unknown young Englishman came to Etretat and bought a little hut hidden under great trees.,0.6249,0.151,0.0,0.849,positive,Original Short Stories — Volume 13
+"It was said that he lived there, always alone, in a strange manner; and he aroused the inimical surprise of the natives, for the inhabitants were sullen and foolishly malicious, as they always are in little towns.",-0.7351,0.05,0.219,0.731,negative,Original Short Stories — Volume 13
+"They declared that this whimsical Englishman ate nothing but boiled, roasted or stewed monkey; that he would see no one; that he talked to himself hours at a time and many other surprising things that made people think that he was different from other men.",0.0097,0.081,0.059,0.861,neutral,Original Short Stories — Volume 13
+They were surprised that he should live alone with a monkey.,-0.0258,0.16,0.168,0.672,neutral,Original Short Stories — Volume 13
+Had it been a cat or a dog they would have said nothing.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+But a monkey!,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+Was that not frightful?,0.4023,0.474,0.0,0.526,positive,Original Short Stories — Volume 13
+What savage tastes the man must have!,-0.5093,0.0,0.354,0.646,negative,Original Short Stories — Volume 13
+I knew this young man only from seeing him in the streets.,0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+"He was short, plump, without being fat, mild-looking, and he wore a little blond mustache, which was almost invisible.",0.0,0.0,0.0,1.0,neutral,Original Short Stories — Volume 13
+Chance brought us together.,0.25,0.4,0.0,0.6,positive,Original Short Stories — Volume 13
+"This savage had amiable and pleasing manners, but he was one of those strange Englishmen that one meets here and there throughout the world.",-0.25,0.08,0.153,0.766,negative,Original Short Stories — Volume 13
+"Endowed with remarkable intelligence, he seemed to live in a fantastic dream, as Edgar Poe must have lived.",0.9062,0.486,0.0,0.514,positive,Original Short Stories — Volume 13
+"He had translated into English a volume of strange Icelandic legends, which I ardently desired to see translated into French.",0.0772,0.106,0.09,0.804,positive,Original Short Stories — Volume 13
+"He loved the supernatural, the dismal and grewsome, but he spoke of the most marvellous things with a calmness that was typically English, to which his gentle and quiet voice gave a semblance of reality that was maddening.",0.4678,0.207,0.143,0.651,positive,Original Short Stories — Volume 13
+"Full of a haughty disdain for the world, with its conventions, prejudices and code of morality, he had nailed to his house a name that was boldly impudent.",-0.5267,0.08,0.188,0.732,negative,Original Short Stories — Volume 13
+"The keeper of a lonely inn who should write on his door: ""Travellers murdered here!""",-0.8016,0.0,0.375,0.625,negative,Original Short Stories — Volume 13
+could not make a more sinister jest.,0.5208,0.402,0.0,0.598,positive,Original Short Stories — Volume 13
+"I never had entered his dwelling, when one day I received an invitation to luncheon, following an accident that had occurred to one of his friends, who had been almost drowned and whom I had attempted to rescue.",-0.0534,0.17,0.152,0.679,negative,Original Short Stories — Volume 13
+"Although I was unable to reach the man until he had already been rescued, I received the hearty thanks of the two Englishmen, and the following day I called upon them.",0.7003,0.214,0.0,0.786,positive,Original Short Stories — Volume 13
+The friend was a man about thirty years old.,0.4939,0.314,0.0,0.686,positive,Original Short Stories — Volume 13
+He bore an enormous head on a child's body--a body without chest or shoulders.,-0.25,0.0,0.143,0.857,negative,Original Short Stories — Volume 13
+"An immense forehead, which seemed to have engulfed the rest of the man, expanded like a dome above a thin face which ended in a little pointed beard.",0.3612,0.094,0.0,0.906,positive,Original Short Stories — Volume 13
+"Two sharp eyes and a peculiar mouth gave one the impression of the head of a reptile, while the magnificent brow suggested a genius.",0.7506,0.291,0.0,0.709,positive,Original Short Stories — Volume 13
+"A nervous twitching shook this peculiar being, who walked, moved, acted by jerks like a broken spring.",-0.5346,0.194,0.396,0.41,negative,Original Short Stories — Volume 13
+"This was Algernon Charles Swinburne, son of an English admiral and grandson, on the maternal side, of the Earl of Ashburnham.",0.3182,0.103,0.0,0.897,positive,Original Short Stories — Volume 13
+He strange countenance was transfigured when he spoke.,-0.2023,0.0,0.205,0.795,negative,Original Short Stories — Volume 13
+"I have seldom seen a man more impressive, more eloquent, incisive or charming in conversation.",0.8122,0.402,0.0,0.598,positive,Original Short Stories — Volume 13
+"His rapid, clear, piercing and fantastic imagination seemed to creep into his voice and to lend life to his words.",0.7351,0.256,0.0,0.744,positive,Original Short Stories — Volume 13

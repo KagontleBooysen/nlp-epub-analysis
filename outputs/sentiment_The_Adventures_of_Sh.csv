@@ -1,0 +1,708 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Adventures of Sherlock Holmes This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,0.2023,0.117,0.099,0.785,positive,The Adventures of Sherlock Holmes
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Adventures of Sherlock Holmes
+"Title : The Adventures of Sherlock Holmes Author : Arthur Conan Doyle Release date : March 1, 1999 [eBook #1661] Most recently updated: October 10, 2023 Language : English Other information and formats : www.gutenberg.org/ebooks/1661 Credits : an anonymous Project Gutenberg volunteer and Jose Menendez *** START OF THE PROJECT GUTENBERG EBOOK THE ADVENTURES OF SHERLOCK HOLMES *** THERE IS AN ILLUSTRATED EDITION OF THIS TITLE WHICH MAY VIEWED AT EBOOK [ #48320 ] The Adventures of Sherlock Holmes by Arthur Conan Doyle Contents I.",0.8567,0.125,0.0,0.875,positive,The Adventures of Sherlock Holmes
+A Scandal in Bohemia II.,-0.4404,0.0,0.492,0.508,negative,The Adventures of Sherlock Holmes
+The Red-Headed League III.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+A Case of Identity IV.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+The Boscombe Valley Mystery V. The Five Orange Pips VI.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+The Man with the Twisted Lip VII.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+The Adventure of the Blue Carbuncle VIII.,0.3182,0.277,0.0,0.723,positive,The Adventures of Sherlock Holmes
+The Adventure of the Speckled Band IX.,0.3182,0.277,0.0,0.723,positive,The Adventures of Sherlock Holmes
+The Adventure of the Engineer's Thumb X.,0.3182,0.277,0.0,0.723,positive,The Adventures of Sherlock Holmes
+The Adventure of the Noble Bachelor XI.,0.6486,0.515,0.0,0.485,positive,The Adventures of Sherlock Holmes
+The Adventure of the Beryl Coronet XII.,0.3182,0.277,0.0,0.723,positive,The Adventures of Sherlock Holmes
+The Adventure of the Copper Beeches I.,0.3182,0.277,0.0,0.723,positive,The Adventures of Sherlock Holmes
+A SCANDAL IN BOHEMIA I. T o Sherlock Holmes she is always the woman.,-0.5622,0.0,0.266,0.734,negative,The Adventures of Sherlock Holmes
+I have seldom heard him mention her under any other name.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+In his eyes she eclipses and predominates the whole of her sex.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+It was not that he felt any emotion akin to love for Irene Adler.,0.6369,0.244,0.0,0.756,positive,The Adventures of Sherlock Holmes
+"All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind.",0.4697,0.222,0.125,0.653,positive,The Adventures of Sherlock Holmes
+"He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position.",0.827,0.235,0.0,0.765,positive,The Adventures of Sherlock Holmes
+"He never spoke of the softer passions, save with a gibe and a sneer.",0.7506,0.39,0.0,0.61,positive,The Adventures of Sherlock Holmes
+They were admirable things for the observer--excellent for drawing the veil from men's motives and actions.,0.5574,0.194,0.0,0.806,positive,The Adventures of Sherlock Holmes
+But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results.,-0.5499,0.096,0.166,0.739,negative,The Adventures of Sherlock Holmes
+"Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his.",0.7567,0.213,0.0,0.787,positive,The Adventures of Sherlock Holmes
+"And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and questionable memory.",-0.7227,0.0,0.232,0.768,negative,The Adventures of Sherlock Holmes
+I had seen little of Holmes lately.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+My marriage had drifted us away from each other.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"My own complete happiness, and the home-centred interests which rise up around the man who first finds himself master of his own establishment, were sufficient to absorb all my attention, while Holmes, who loathed every form of society with his whole Bohemian soul, remained in our lodgings in Baker Street, buried among his old books, and alternating from week to week between cocaine and ambition, the drowsiness of the drug, and the fierce energy of his own keen nature.",0.7269,0.117,0.036,0.848,positive,The Adventures of Sherlock Holmes
+"He was still, as ever, deeply attracted by the study of crime, and occupied his immense faculties and extraordinary powers of observation in following out those clues, and clearing up those mysteries which had been abandoned as hopeless by the official police.",-0.7512,0.061,0.188,0.751,negative,The Adventures of Sherlock Holmes
+"From time to time I heard some vague account of his doings: of his summons to Odessa in the case of the Trepoff murder, of his clearing up of the singular tragedy of the Atkinson brothers at Trincomalee, and finally of the mission which he had accomplished so delicately and successfully for the reigning family of Holland.",-0.3653,0.129,0.151,0.72,negative,The Adventures of Sherlock Holmes
+"Beyond these signs of his activity, however, which I merely shared with all the readers of the daily press, I knew little of my former friend and companion.",0.6808,0.189,0.0,0.811,positive,The Adventures of Sherlock Holmes
+"One night--it was on the twentieth of March, 1888--I was returning from a journey to a patient (for I had now returned to civil practice), when my way led me through Baker Street.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"As I passed the well-remembered door, which must always be associated in my mind with my wooing, and with the dark incidents of the Study in Scarlet, I was seized with a keen desire to see Holmes again, and to know how he was employing his extraordinary powers.",0.6369,0.108,0.0,0.892,positive,The Adventures of Sherlock Holmes
+"His rooms were brilliantly lit, and, even as I looked up, I saw his tall, spare figure pass twice in a dark silhouette against the blind.",0.3182,0.144,0.097,0.758,positive,The Adventures of Sherlock Holmes
+"He was pacing the room swiftly, eagerly, with his head sunk upon his chest and his hands clasped behind him.",0.5859,0.211,0.0,0.789,positive,The Adventures of Sherlock Holmes
+"To me, who knew his every mood and habit, his attitude and manner told their own story.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+He was at work again.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+He had risen out of his drug-created dreams and was hot upon the scent of some new problem.,0.0,0.126,0.126,0.748,neutral,The Adventures of Sherlock Holmes
+I rang the bell and was shown up to the chamber which had formerly been in part my own.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+His manner was not effusive.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It seldom was; but he was glad, I think, to see me.",0.6124,0.286,0.0,0.714,positive,The Adventures of Sherlock Holmes
+"With hardly a word spoken, but with a kindly eye, he waved me to an armchair, threw across his case of cigars, and indicated a spirit case and a gasogene in the corner.",0.7469,0.19,0.0,0.81,positive,The Adventures of Sherlock Holmes
+Then he stood before the fire and looked me over in his singular introspective fashion.,-0.34,0.0,0.146,0.854,negative,The Adventures of Sherlock Holmes
+"""Wedlock suits you,"" he remarked.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I think, Watson, that you have put on seven and a half pounds since I saw you.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Seven!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I answered.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Indeed, I should have thought a little more.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Just a trifle more, I fancy, Watson.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"And in practice again, I observe.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"You did not tell me that you intended to go into harness.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then, how do you know?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I see it, I deduce it.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"How do I know that you have been getting yourself very wet lately, and that you have a most clumsy and careless servant girl?""",-0.4144,0.0,0.116,0.884,negative,The Adventures of Sherlock Holmes
+"""My dear Holmes,"" said I, ""this is too much.",0.3818,0.245,0.0,0.755,positive,The Adventures of Sherlock Holmes
+"You would certainly have been burned, had you lived a few centuries ago.",0.34,0.179,0.0,0.821,positive,The Adventures of Sherlock Holmes
+"It is true that I had a country walk on Thursday and came home in a dreadful mess, but as I have changed my clothes I can't imagine how you deduce it.",-0.2023,0.064,0.125,0.811,negative,The Adventures of Sherlock Holmes
+"As to Mary Jane, she is incorrigible, and my wife has given her notice, but there, again, I fail to see how you work it out.""",-0.6956,0.0,0.165,0.835,negative,The Adventures of Sherlock Holmes
+"He chuckled to himself and rubbed his long, nervous hands together.",0.0258,0.165,0.158,0.677,neutral,The Adventures of Sherlock Holmes
+"""It is simplicity itself,"" said he; ""my eyes tell me that on the inside of your left shoe, just where the firelight strikes it, the leather is scored by six almost parallel cuts.",-0.5302,0.0,0.125,0.875,negative,The Adventures of Sherlock Holmes
+Obviously they have been caused by someone who has very carelessly scraped round the edges of the sole in order to remove crusted mud from it.,-0.3167,0.0,0.084,0.916,negative,The Adventures of Sherlock Holmes
+"Hence, you see, my double deduction that you had been out in vile weather, and that you had a particularly malignant boot-slitting specimen of the London slavey.",-0.6249,0.0,0.141,0.859,negative,The Adventures of Sherlock Holmes
+"As to your practice, if a gentleman walks into my rooms smelling of iodoform, with a black mark of nitrate of silver upon his right forefinger, and a bulge on the right side of his top-hat to show where he has secreted his stethoscope, I must be dull, indeed, if I do not pronounce him to be an active member of the medical profession.""",0.0,0.043,0.043,0.913,neutral,The Adventures of Sherlock Holmes
+I could not help laughing at the ease with which he explained his process of deduction.,-0.3369,0.129,0.252,0.619,negative,The Adventures of Sherlock Holmes
+"""When I hear you give your reasons,"" I remarked, ""the thing always appears to me to be so ridiculously simple that I could easily do it myself, though at each successive instance of your reasoning I am baffled until you explain your process.",0.0986,0.103,0.071,0.825,positive,The Adventures of Sherlock Holmes
+"And yet I believe that my eyes are as good as yours.""",0.4404,0.225,0.0,0.775,positive,The Adventures of Sherlock Holmes
+"""Quite so,"" he answered, lighting a cigarette, and throwing himself down into an armchair.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""You see, but you do not observe.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+The distinction is clear.,0.3818,0.464,0.0,0.536,positive,The Adventures of Sherlock Holmes
+"For example, you have frequently seen the steps which lead up from the hall to this room.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Frequently.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""How often?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Well, some hundreds of times.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then how many are there?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""How many?",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I don't know.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Quite so!",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+You have not observed.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+And yet you have seen.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+That is just my point.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Now, I know that there are seventeen steps, because I have both seen and observed.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"By the way, since you are interested in these little problems, and since you are good enough to chronicle one or two of my trifling experiences, you may be interested in this.""",0.7089,0.214,0.062,0.723,positive,The Adventures of Sherlock Holmes
+"He threw over a sheet of thick, pink-tinted notepaper which had been lying open upon the table.",-0.5267,0.0,0.185,0.815,negative,The Adventures of Sherlock Holmes
+"""It came by the last post,"" said he.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Read it aloud.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"The note was undated, and without either signature or address.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""There will call upon you to-night, at a quarter to eight o'clock,"" it said, ""a gentleman who desires to consult you upon a matter of the very deepest moment.",0.0258,0.041,0.0,0.959,neutral,The Adventures of Sherlock Holmes
+Your recent services to one of the royal houses of Europe have shown that you are one who may safely be trusted with matters which are of an importance which can hardly be exaggerated.,0.8307,0.247,0.028,0.725,positive,The Adventures of Sherlock Holmes
+This account of you we have from all quarters received.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Be in your chamber then at that hour, and do not take it amiss if your visitor wear a mask.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""This is indeed a mystery,"" I remarked.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""What do you imagine that it means?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I have no data yet.",-0.296,0.0,0.355,0.645,negative,The Adventures of Sherlock Holmes
+It is a capital mistake to theorise before one has data.,-0.34,0.0,0.211,0.789,negative,The Adventures of Sherlock Holmes
+"Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+But the note itself.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"What do you deduce from it?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I carefully examined the writing, and the paper upon which it was written.",0.128,0.12,0.0,0.88,positive,The Adventures of Sherlock Holmes
+"""The man who wrote it was presumably well to do,"" I remarked, endeavouring to imitate my companion's processes.",0.2732,0.116,0.0,0.884,positive,The Adventures of Sherlock Holmes
+"""Such paper could not be bought under half a crown a packet.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It is peculiarly strong and stiff.""",0.4404,0.379,0.161,0.46,positive,The Adventures of Sherlock Holmes
+"""Peculiar--that is the very word,"" said Holmes.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""It is not an English paper at all.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Hold it up to the light.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I did so, and saw a large ""E"" with a small ""g,"" a ""P,"" and a large ""G"" with a small ""t"" woven into the texture of the paper.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""What do you make of that?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+asked Holmes.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""The name of the maker, no doubt; or his monogram, rather.""",-0.5719,0.0,0.343,0.657,negative,The Adventures of Sherlock Holmes
+"""Not at all.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"The 'G' with the small 't' stands for 'Gesellschaft,' which is the German for 'Company.'",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+It is a customary contraction like our 'Co.',0.3612,0.294,0.0,0.706,positive,The Adventures of Sherlock Holmes
+"'P,' of course, stands for 'Papier.'",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Now for the 'Eg.',0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Let us glance at our Continental Gazetteer.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+He took down a heavy brown volume from his shelves.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Eglow, Eglonitz--here we are, Egria.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It is in a German-speaking country--in Bohemia, not far from Carlsbad.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"'Remarkable as being the scene of the death of Wallenstein, and for its numerous glass-factories and paper-mills.'",-0.0772,0.16,0.173,0.667,negative,The Adventures of Sherlock Holmes
+"Ha, ha, my boy, what do you make of that?""",0.5859,0.375,0.0,0.625,positive,The Adventures of Sherlock Holmes
+"His eyes sparkled, and he sent up a great blue triumphant cloud from his cigarette.",0.8176,0.385,0.0,0.615,positive,The Adventures of Sherlock Holmes
+"""The paper was made in Bohemia,"" I said.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Precisely.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+And the man who wrote the note is a German.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Do you note the peculiar construction of the sentence--'This account of you we have from all quarters received.',0.1531,0.086,0.0,0.914,positive,The Adventures of Sherlock Holmes
+A Frenchman or Russian could not have written that.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+It is the German who is so uncourteous to his verbs.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It only remains, therefore, to discover what is wanted by this German who writes upon Bohemian paper and prefers wearing a mask to showing his face.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"And here he comes, if I am not mistaken, to resolve all our doubts.""",-0.0191,0.138,0.143,0.719,neutral,The Adventures of Sherlock Holmes
+"As he spoke there was the sharp sound of horses' hoofs and grating wheels against the curb, followed by a sharp pull at the bell.",-0.1027,0.0,0.057,0.943,negative,The Adventures of Sherlock Holmes
+Holmes whistled.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""A pair, by the sound,"" said he.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Yes,"" he continued, glancing out of the window.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""A nice little brougham and a pair of beauties.",0.7351,0.508,0.0,0.492,positive,The Adventures of Sherlock Holmes
+A hundred and fifty guineas apiece.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"There's money in this case, Watson, if there is nothing else.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I think that I had better go, Holmes.""",0.4404,0.326,0.0,0.674,positive,The Adventures of Sherlock Holmes
+"""Not a bit, Doctor.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Stay where you are.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I am lost without my Boswell.,-0.3182,0.0,0.365,0.635,negative,The Adventures of Sherlock Holmes
+And this promises to be interesting.,0.6486,0.57,0.0,0.43,positive,The Adventures of Sherlock Holmes
+"It would be a pity to miss it.""",-0.4215,0.0,0.432,0.568,negative,The Adventures of Sherlock Holmes
+"""But your client--"" ""Never mind him.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I may want your help, and so may he.",0.4588,0.4,0.0,0.6,positive,The Adventures of Sherlock Holmes
+Here he comes.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Sit down in that armchair, Doctor, and give us your best attention.""",0.6369,0.276,0.0,0.724,positive,The Adventures of Sherlock Holmes
+"A slow and heavy step, which had been heard upon the stairs and in the passage, paused immediately outside the door.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Then there was a loud and authoritative tap.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Come in!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+said Holmes.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"A man entered who could hardly have been less than six feet six inches in height, with the chest and limbs of a Hercules.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"His dress was rich with a richness which would, in England, be looked upon as akin to bad taste.",0.5106,0.269,0.138,0.593,positive,The Adventures of Sherlock Holmes
+"Heavy bands of astrakhan were slashed across the sleeves and fronts of his double-breasted coat, while the deep blue cloak which was thrown over his shoulders was lined with flame-coloured silk and secured at the neck with a brooch which consisted of a single flaming beryl.",0.2023,0.058,0.041,0.901,positive,The Adventures of Sherlock Holmes
+"Boots which extended halfway up his calves, and which were trimmed at the tops with rich brown fur, completed the impression of barbaric opulence which was suggested by his whole appearance.",0.8316,0.239,0.0,0.761,positive,The Adventures of Sherlock Holmes
+"He carried a broad-brimmed hat in his hand, while he wore across the upper part of his face, extending down past the cheekbones, a black vizard mask, which he had apparently adjusted that very moment, for his hand was still raised to it as he entered.",0.7506,0.132,0.0,0.868,positive,The Adventures of Sherlock Holmes
+"From the lower part of the face he appeared to be a man of strong character, with a thick, hanging lip, and a long, straight chin suggestive of resolution pushed to the length of obstinacy.",0.4588,0.143,0.06,0.797,positive,The Adventures of Sherlock Holmes
+"""You had my note?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+he asked with a deep harsh voice and a strongly marked German accent.,-0.2023,0.15,0.207,0.643,negative,The Adventures of Sherlock Holmes
+"""I told you that I would call.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"He looked from one to the other of us, as if uncertain which to address.",-0.296,0.0,0.136,0.864,negative,The Adventures of Sherlock Holmes
+"""Pray take a seat,"" said Holmes.",0.3182,0.365,0.0,0.635,positive,The Adventures of Sherlock Holmes
+"""This is my friend and colleague, Dr. Watson, who is occasionally good enough to help me in my cases.",0.818,0.347,0.0,0.653,positive,The Adventures of Sherlock Holmes
+"Whom have I the honour to address?""",0.5719,0.425,0.0,0.575,positive,The Adventures of Sherlock Holmes
+"""You may address me as the Count Von Kramm, a Bohemian nobleman.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I understand that this gentleman, your friend, is a man of honour and discretion, whom I may trust with a matter of the most extreme importance.",0.9198,0.453,0.0,0.547,positive,The Adventures of Sherlock Holmes
+"If not, I should much prefer to communicate with you alone.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I rose to go, but Holmes caught me by the wrist and pushed me back into my chair.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""It is both, or none,"" said he.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""You may say before this gentleman anything which you may say to me.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+The Count shrugged his broad shoulders.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then I must begin,"" said he, ""by binding you both to absolute secrecy for two years; at the end of that time the matter will be of no importance.",0.1027,0.117,0.071,0.812,positive,The Adventures of Sherlock Holmes
+"At present it is not too much to say that it is of such weight it may have an influence upon European history.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I promise,"" said Holmes.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""And I.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""You will excuse this mask,"" continued our strange visitor.",-0.128,0.129,0.178,0.693,negative,The Adventures of Sherlock Holmes
+"""The august person who employs me wishes his agent to be unknown to you, and I may confess at once that the title by which I have just called myself is not exactly my own.""",0.1531,0.048,0.0,0.952,positive,The Adventures of Sherlock Holmes
+"""I was aware of it,"" said Holmes dryly.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""The circumstances are of great delicacy, and every precaution has to be taken to quench what might grow to be an immense scandal and seriously compromise one of the reigning families of Europe.",0.128,0.106,0.119,0.775,positive,The Adventures of Sherlock Holmes
+"To speak plainly, the matter implicates the great House of Ormstein, hereditary kings of Bohemia.""",0.6369,0.286,0.0,0.714,positive,The Adventures of Sherlock Holmes
+"""I was also aware of that,"" murmured Holmes, settling himself down in his armchair and closing his eyes.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Our visitor glanced with some apparent surprise at the languid, lounging figure of the man who had been no doubt depicted to him as the most incisive reasoner and most energetic agent in Europe.",0.1513,0.132,0.118,0.75,positive,The Adventures of Sherlock Holmes
+Holmes slowly reopened his eyes and looked impatiently at his gigantic client.,-0.4019,0.0,0.197,0.803,negative,The Adventures of Sherlock Holmes
+"""If your Majesty would condescend to state your case,"" he remarked, ""I should be better able to advise you.""",0.4404,0.139,0.0,0.861,positive,The Adventures of Sherlock Holmes
+The man sprang from his chair and paced up and down the room in uncontrollable agitation.,-0.5423,0.0,0.243,0.757,negative,The Adventures of Sherlock Holmes
+"Then, with a gesture of desperation, he tore the mask from his face and hurled it upon the ground.",-0.4588,0.0,0.15,0.85,negative,The Adventures of Sherlock Holmes
+"""You are right,"" he cried; ""I am the King.",-0.3818,0.0,0.245,0.755,negative,The Adventures of Sherlock Holmes
+"Why should I attempt to conceal it?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Why, indeed?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+murmured Holmes.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Your Majesty had not spoken before I was aware that I was addressing Wilhelm Gottsreich Sigismond von Ormstein, Grand Duke of Cassel-Felstein, and hereditary King of Bohemia.""",0.4588,0.111,0.0,0.889,positive,The Adventures of Sherlock Holmes
+"""But you can understand,"" said our strange visitor, sitting down once more and passing his hand over his high white forehead, ""you can understand that I am not accustomed to doing such business in my own person.",0.4767,0.106,0.054,0.84,positive,The Adventures of Sherlock Holmes
+Yet the matter was so delicate that I could not confide it to an agent without putting myself in his power.,0.1513,0.126,0.0,0.874,positive,The Adventures of Sherlock Holmes
+"I have come incognito from Prague for the purpose of consulting you.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then, pray consult,"" said Holmes, shutting his eyes once more.",0.3182,0.204,0.0,0.796,positive,The Adventures of Sherlock Holmes
+"""The facts are briefly these: Some five years ago, during a lengthy visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene Adler.",0.1779,0.075,0.046,0.879,positive,The Adventures of Sherlock Holmes
+"The name is no doubt familiar to you.""",-0.5719,0.0,0.439,0.561,negative,The Adventures of Sherlock Holmes
+"""Kindly look her up in my index, Doctor,"" murmured Holmes without opening his eyes.",0.4939,0.198,0.0,0.802,positive,The Adventures of Sherlock Holmes
+"For many years he had adopted a system of docketing all paragraphs concerning men and things, so that it was difficult to name a subject or a person on which he could not at once furnish information.",-0.3612,0.0,0.07,0.93,negative,The Adventures of Sherlock Holmes
+In this case I found her biography sandwiched in between that of a Hebrew rabbi and that of a staff-commander who had written a monograph upon the deep-sea fishes.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Let me see!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+said Holmes.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Hum!",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Born in New Jersey in the year 1858.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Contralto--hum!,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"La Scala, hum!",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Prima donna Imperial Opera of Warsaw--yes!,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Retired from operatic stage--ha!,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Living in London--quite so!,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Your Majesty, as I understand, became entangled with this young person, wrote her some compromising letters, and is now desirous of getting those letters back.""",0.3182,0.091,0.0,0.909,positive,The Adventures of Sherlock Holmes
+"""Precisely so.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"But how--"" ""Was there a secret marriage?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""None.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""No legal papers or certificates?""",-0.1779,0.224,0.328,0.448,negative,The Adventures of Sherlock Holmes
+"""None.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then I fail to follow your Majesty.",-0.5423,0.0,0.412,0.588,negative,The Adventures of Sherlock Holmes
+"If this young person should produce her letters for blackmailing or other purposes, how is she to prove their authenticity?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""There is the writing.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Pooh, pooh!",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Forgery.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""My private note-paper.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Stolen.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""My own seal.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Imitated.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""My photograph.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Bought.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""We were both in the photograph.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Oh, dear!",0.4389,0.743,0.0,0.257,positive,The Adventures of Sherlock Holmes
+That is very bad!,-0.623,0.0,0.577,0.423,negative,The Adventures of Sherlock Holmes
+"Your Majesty has indeed committed an indiscretion.""",0.2732,0.259,0.0,0.741,positive,The Adventures of Sherlock Holmes
+"""I was mad--insane.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""You have compromised yourself seriously.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I was only Crown Prince then.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I was young.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I am but thirty now.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""It must be recovered.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""We have tried and failed.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Your Majesty must pay.",-0.1027,0.0,0.318,0.682,negative,The Adventures of Sherlock Holmes
+"It must be bought.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""She will not sell.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Stolen, then.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Five attempts have been made.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Twice burglars in my pay ransacked her house.,-0.1027,0.0,0.167,0.833,negative,The Adventures of Sherlock Holmes
+Once we diverted her luggage when she travelled.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Twice she has been waylaid.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"There has been no result.""",-0.296,0.0,0.355,0.645,negative,The Adventures of Sherlock Holmes
+"""No sign of it?""",-0.296,0.0,0.423,0.577,negative,The Adventures of Sherlock Holmes
+"""Absolutely none.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Holmes laughed.,0.4588,0.75,0.0,0.25,positive,The Adventures of Sherlock Holmes
+"""It is quite a pretty little problem,"" said he.",0.5413,0.333,0.0,0.667,positive,The Adventures of Sherlock Holmes
+"""But a very serious one to me,"" returned the King reproachfully.",-0.2238,0.0,0.174,0.826,negative,The Adventures of Sherlock Holmes
+"""Very, indeed.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"And what does she propose to do with the photograph?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""To ruin me.""",-0.5859,0.0,0.655,0.345,negative,The Adventures of Sherlock Holmes
+"""But how?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I am about to be married.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""So I have heard.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""To Clotilde Lothman von Saxe-Meningen, second daughter of the King of Scandinavia.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+You may know the strict principles of her family.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+She is herself the very soul of delicacy.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"A shadow of a doubt as to my conduct would bring the matter to an end.""",-0.34,0.071,0.16,0.769,negative,The Adventures of Sherlock Holmes
+"""And Irene Adler?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Threatens to send them the photograph.",-0.3818,0.0,0.342,0.658,negative,The Adventures of Sherlock Holmes
+And she will do it.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I know that she will do it.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"You do not know her, but she has a soul of steel.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"She has the face of the most beautiful of women, and the mind of the most resolute of men.",0.764,0.279,0.0,0.721,positive,The Adventures of Sherlock Holmes
+"Rather than I should marry another woman, there are no lengths to which she would not go--none.""",-0.296,0.0,0.128,0.872,negative,The Adventures of Sherlock Holmes
+"""You are sure that she has not sent it yet?""",0.3182,0.204,0.0,0.796,positive,The Adventures of Sherlock Holmes
+"""I am sure.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""And why?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Because she has said that she would send it on the day when the betrothal was publicly proclaimed.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"That will be next Monday.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Oh, then we have three days yet,"" said Holmes with a yawn.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""That is very fortunate, as I have one or two matters of importance to look into just at present.",0.6997,0.312,0.0,0.688,positive,The Adventures of Sherlock Holmes
+"Your Majesty will, of course, stay in London for the present?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Certainly.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"You will find me at the Langham under the name of the Count Von Kramm.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then I shall drop you a line to let you know how we progress.""",-0.2732,0.0,0.16,0.84,negative,The Adventures of Sherlock Holmes
+"""Pray do so.",0.3182,0.535,0.0,0.465,positive,The Adventures of Sherlock Holmes
+"I shall be all anxiety.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then, as to money?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""You have carte blanche .""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Absolutely?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I tell you that I would give one of the provinces of my kingdom to have that photograph.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""And for present expenses?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+The King took a heavy chamois leather bag from under his cloak and laid it on the table.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""There are three hundred pounds in gold and seven hundred in notes,"" he said.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Holmes scribbled a receipt upon a sheet of his note-book and handed it to him.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""And Mademoiselle's address?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+he asked.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Is Briony Lodge, Serpentine Avenue, St. John's Wood.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Holmes took a note of it.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""One other question,"" said he.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Was the photograph a cabinet?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""It was.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then, good-night, your Majesty, and I trust that we shall soon have some good news for you.",0.7351,0.307,0.0,0.693,positive,The Adventures of Sherlock Holmes
+"And good-night, Watson,"" he added, as the wheels of the royal brougham rolled down the street.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""If you will be good enough to call to-morrow afternoon at three o'clock I should like to chat this little matter over with you.""",0.6378,0.203,0.045,0.752,positive,The Adventures of Sherlock Holmes
+II.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"At three o'clock precisely I was at Baker Street, but Holmes had not yet returned.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+The landlady informed me that he had left the house shortly after eight o'clock in the morning.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I sat down beside the fire, however, with the intention of awaiting him, however long he might be.",-0.34,0.0,0.13,0.87,negative,The Adventures of Sherlock Holmes
+"I was already deeply interested in his inquiry, for, though it was surrounded by none of the grim and strange features which were associated with the two crimes which I have already recorded, still, the nature of the case and the exalted station of his client gave it a character of its own.",0.6359,0.109,0.033,0.858,positive,The Adventures of Sherlock Holmes
+"Indeed, apart from the nature of the investigation which my friend had on hand, there was something in his masterly grasp of a situation, and his keen, incisive reasoning, which made it a pleasure to me to study his system of work, and to follow the quick, subtle methods by which he disentangled the most inextricable mysteries.",0.9118,0.198,0.0,0.802,positive,The Adventures of Sherlock Holmes
+So accustomed was I to his invariable success that the very possibility of his failing had ceased to enter into my head.,0.1027,0.142,0.127,0.731,positive,The Adventures of Sherlock Holmes
+"It was close upon four before the door opened, and a drunken-looking groom, ill-kempt and side-whiskered, with an inflamed face and disreputable clothes, walked into the room.",-0.34,0.0,0.088,0.912,negative,The Adventures of Sherlock Holmes
+"Accustomed as I was to my friend's amazing powers in the use of disguises, I had to look three times before I was certain that it was indeed he.",0.5994,0.191,0.065,0.744,positive,The Adventures of Sherlock Holmes
+"With a nod he vanished into the bedroom, whence he emerged in five minutes tweed-suited and respectable, as of old.",0.4404,0.139,0.0,0.861,positive,The Adventures of Sherlock Holmes
+"Putting his hands into his pockets, he stretched out his legs in front of the fire and laughed heartily for some minutes.",0.1531,0.118,0.094,0.787,positive,The Adventures of Sherlock Holmes
+"""Well, really!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"he cried, and then he choked and laughed again until he was obliged to lie back, limp and helpless, in the chair.",-0.6908,0.101,0.293,0.606,negative,The Adventures of Sherlock Holmes
+"""What is it?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""It's quite too funny.",0.4902,0.514,0.0,0.486,positive,The Adventures of Sherlock Holmes
+"I am sure you could never guess how I employed my morning, or what I ended by doing.""",0.3182,0.141,0.0,0.859,positive,The Adventures of Sherlock Holmes
+"""I can't imagine.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I suppose that you have been watching the habits, and perhaps the house, of Miss Irene Adler.""",-0.1531,0.0,0.096,0.904,negative,The Adventures of Sherlock Holmes
+"""Quite so; but the sequel was rather unusual.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I will tell you, however.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I left the house a little after eight o'clock this morning in the character of a groom out of work.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+There is a wonderful sympathy and freemasonry among horsey men.,0.7579,0.556,0.0,0.444,positive,The Adventures of Sherlock Holmes
+"Be one of them, and you will know all that there is to know.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I soon found Briony Lodge.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It is a bijou villa, with a garden at the back, but built out in front right up to the road, two stories.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Chubb lock to the door.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Large sitting-room on the right side, well furnished, with long windows almost to the floor, and those preposterous English window fasteners which a child could open.",0.2732,0.08,0.0,0.92,positive,The Adventures of Sherlock Holmes
+"Behind there was nothing remarkable, save that the passage window could be reached from the top of the coach-house.",-0.5191,0.135,0.234,0.632,negative,The Adventures of Sherlock Holmes
+"I walked round it and examined it closely from every point of view, but without noting anything else of interest.",0.6124,0.182,0.0,0.818,positive,The Adventures of Sherlock Holmes
+"""I then lounged down the street and found, as I expected, that there was a mews in a lane which runs down by one wall of the garden.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I lent the ostlers a hand in rubbing down their horses, and received in exchange twopence, a glass of half-and-half, two fills of shag tobacco, and as much information as I could desire about Miss Adler, to say nothing of half a dozen other people in the neighbourhood in whom I was not in the least interested, but whose biographies I was compelled to listen to.""",0.3228,0.084,0.047,0.868,positive,The Adventures of Sherlock Holmes
+"""And what of Irene Adler?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I asked.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Oh, she has turned all the men's heads down in that part.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+She is the daintiest thing under a bonnet on this planet.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"So say the Serpentine-mews, to a man.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"She lives quietly, sings at concerts, drives out at five every day, and returns at seven sharp for dinner.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Seldom goes out at other times, except when she sings.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Has only one male visitor, but a good deal of him.",0.5927,0.3,0.0,0.7,positive,The Adventures of Sherlock Holmes
+"He is dark, handsome, and dashing, never calls less than once a day, and often twice.",0.4939,0.186,0.0,0.814,positive,The Adventures of Sherlock Holmes
+"He is a Mr. Godfrey Norton, of the Inner Temple.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+See the advantages of a cabman as a confidant.,0.3612,0.294,0.0,0.706,positive,The Adventures of Sherlock Holmes
+"They had driven him home a dozen times from Serpentine-mews, and knew all about him.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"When I had listened to all they had to tell, I began to walk up and down near Briony Lodge once more, and to think over my plan of campaign.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""This Godfrey Norton was evidently an important factor in the matter.",0.2263,0.244,0.0,0.756,positive,The Adventures of Sherlock Holmes
+He was a lawyer.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+That sounded ominous.,-0.34,0.0,0.545,0.455,negative,The Adventures of Sherlock Holmes
+"What was the relation between them, and what the object of his repeated visits?",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Was she his client, his friend, or his mistress?",0.4939,0.286,0.0,0.714,positive,The Adventures of Sherlock Holmes
+"If the former, she had probably transferred the photograph to his keeping.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"If the latter, it was less likely.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"On the issue of this question depended whether I should continue my work at Briony Lodge, or turn my attention to the gentleman's chambers in the Temple.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It was a delicate point, and it widened the field of my inquiry.",0.0516,0.098,0.0,0.902,positive,The Adventures of Sherlock Holmes
+"I fear that I bore you with these details, but I have to let you see my little difficulties, if you are to understand the situation.""",-0.6073,0.0,0.23,0.77,negative,The Adventures of Sherlock Holmes
+"""I am following you closely,"" I answered.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I was still balancing the matter in my mind when a hansom cab drove up to Briony Lodge, and a gentleman sprang out.",0.0258,0.052,0.0,0.948,neutral,The Adventures of Sherlock Holmes
+"He was a remarkably handsome man, dark, aquiline, and moustached--evidently the man of whom I had heard.",0.5413,0.2,0.0,0.8,positive,The Adventures of Sherlock Holmes
+"He appeared to be in a great hurry, shouted to the cabman to wait, and brushed past the maid who opened the door with the air of a man who was thoroughly at home.",0.6249,0.117,0.0,0.883,positive,The Adventures of Sherlock Holmes
+"""He was in the house about half an hour, and I could catch glimpses of him in the windows of the sitting-room, pacing up and down, talking excitedly, and waving his arms.",0.5106,0.099,0.0,0.901,positive,The Adventures of Sherlock Holmes
+Of her I could see nothing.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Presently he emerged, looking even more flurried than before.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"As he stepped up to the cab, he pulled a gold watch from his pocket and looked at it earnestly, 'Drive like the devil,' he shouted, 'first to Gross & Hankey's in Regent Street, and then to the Church of St. Monica in the Edgeware Road.",-0.1531,0.053,0.065,0.882,negative,The Adventures of Sherlock Holmes
+Half a guinea if you do it in twenty minutes!',0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Away they went, and I was just wondering whether I should not do well to follow them when up the lane came a neat little landau, the coachman with his coat only half-buttoned, and his tie under his ear, while all the tags of his harness were sticking out of the buckles.",0.2928,0.058,0.035,0.907,positive,The Adventures of Sherlock Holmes
+It hadn't pulled up before she shot out of the hall door and into it.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I only caught a glimpse of her at the moment, but she was a lovely woman, with a face that a man might die for.",-0.0387,0.182,0.187,0.63,neutral,The Adventures of Sherlock Holmes
+"""'The Church of St. Monica, John,' she cried, 'and half a sovereign if you reach it in twenty minutes.'",-0.3612,0.056,0.132,0.812,negative,The Adventures of Sherlock Holmes
+"""This was quite too good to lose, Watson.",0.1226,0.268,0.227,0.505,positive,The Adventures of Sherlock Holmes
+"I was just balancing whether I should run for it, or whether I should perch behind her landau when a cab came through the street.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"The driver looked twice at such a shabby fare, but I jumped in before he could object.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"'The Church of St. Monica,' said I, 'and half a sovereign if you reach it in twenty minutes.'",0.0258,0.064,0.0,0.936,neutral,The Adventures of Sherlock Holmes
+"It was twenty-five minutes to twelve, and of course it was clear enough what was in the wind.",0.3818,0.133,0.0,0.867,positive,The Adventures of Sherlock Holmes
+"""My cabby drove fast.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I don't think I ever drove faster, but the others were there before us.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+The cab and the landau with their steaming horses were in front of the door when I arrived.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I paid the man and hurried into the church.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"There was not a soul there save the two whom I had followed and a surpliced clergyman, who seemed to be expostulating with them.",-0.3875,0.0,0.116,0.884,negative,The Adventures of Sherlock Holmes
+They were all three standing in a knot in front of the altar.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I lounged up the side aisle like any other idler who has dropped into a church.,0.3612,0.161,0.0,0.839,positive,The Adventures of Sherlock Holmes
+"Suddenly, to my surprise, the three at the altar faced round to me, and Godfrey Norton came running as hard as he could towards me.",0.1779,0.079,0.053,0.868,positive,The Adventures of Sherlock Holmes
+"""'Thank God,' he cried.",-0.3818,0.0,0.464,0.536,negative,The Adventures of Sherlock Holmes
+'You'll do.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Come!,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Come!',0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""'What then?'",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I asked.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""'Come, man, come, only three minutes, or it won't be legal.'",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I was half-dragged up to the altar, and before I knew where I was I found myself mumbling responses which were whispered in my ear, and vouching for things of which I knew nothing, and generally assisting in the secure tying up of Irene Adler, spinster, to Godfrey Norton, bachelor.",0.34,0.051,0.0,0.949,positive,The Adventures of Sherlock Holmes
+"It was all done in an instant, and there was the gentleman thanking me on the one side and the lady on the other, while the clergyman beamed on me in front.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It was the most preposterous position in which I ever found myself in my life, and it was the thought of it that started me laughing just now.",0.4939,0.11,0.0,0.89,positive,The Adventures of Sherlock Holmes
+"It seems that there had been some informality about their license, that the clergyman absolutely refused to marry them without a witness of some sort, and that my lucky appearance saved the bridegroom from having to sally out into the streets in search of a best man.",0.8078,0.184,0.047,0.769,positive,The Adventures of Sherlock Holmes
+"The bride gave me a sovereign, and I mean to wear it on my watch chain in memory of the occasion.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""This is a very unexpected turn of affairs,"" said I; ""and what then?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Well, I found my plans very seriously menaced.",-0.6087,0.0,0.499,0.501,negative,The Adventures of Sherlock Holmes
+"It looked as if the pair might take an immediate departure, and so necessitate very prompt and energetic measures on my part.",0.4877,0.131,0.0,0.869,positive,The Adventures of Sherlock Holmes
+"At the church door, however, they separated, he driving back to the Temple, and she to her own house.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"'I shall drive out in the park at five as usual,' she said as she left him.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I heard no more.,-0.296,0.0,0.524,0.476,negative,The Adventures of Sherlock Holmes
+"They drove away in different directions, and I went off to make my own arrangements.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Which are?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Some cold beef and a glass of beer,"" he answered, ringing the bell.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I have been too busy to think of food, and I am likely to be busier still this evening.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"By the way, Doctor, I shall want your co-operation.""",0.0772,0.157,0.0,0.843,positive,The Adventures of Sherlock Holmes
+"""I shall be delighted.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""You don't mind breaking the law?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Not in the least.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Nor running a chance of arrest?""",-0.1877,0.0,0.303,0.697,negative,The Adventures of Sherlock Holmes
+"""Not in a good cause.""",-0.3412,0.0,0.445,0.555,negative,The Adventures of Sherlock Holmes
+"""Oh, the cause is excellent!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then I am your man.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I was sure that I might rely on you.""",0.3182,0.247,0.0,0.753,positive,The Adventures of Sherlock Holmes
+"""But what is it you wish?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""When Mrs. Turner has brought in the tray I will make it clear to you.",0.3818,0.167,0.0,0.833,positive,The Adventures of Sherlock Holmes
+"Now,"" he said as he turned hungrily on the simple fare that our landlady had provided, ""I must discuss it while I eat, for I have not much time.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+It is nearly five now.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+In two hours we must be on the scene of action.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Miss Irene, or Madame, rather, returns from her drive at seven.",-0.1531,0.0,0.138,0.862,negative,The Adventures of Sherlock Holmes
+"We must be at Briony Lodge to meet her.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""And what then?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""You must leave that to me.",-0.0516,0.0,0.194,0.806,negative,The Adventures of Sherlock Holmes
+I have already arranged what is to occur.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+There is only one point on which I must insist.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"You must not interfere, come what may.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"You understand?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I am to be neutral?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""To do nothing whatever.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+There will probably be some small unpleasantness.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Do not join in it.,-0.2235,0.0,0.321,0.679,negative,The Adventures of Sherlock Holmes
+It will end in my being conveyed into the house.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Four or five minutes afterwards the sitting-room window will open.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"You are to station yourself close to that open window.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Yes.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""You are to watch me, for I will be visible to you.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Yes.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""And when I raise my hand--so--you will throw into the room what I give you to throw, and will, at the same time, raise the cry of fire.",-0.6705,0.0,0.186,0.814,negative,The Adventures of Sherlock Holmes
+"You quite follow me?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Entirely.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""It is nothing very formidable,"" he said, taking a long cigar-shaped roll from his pocket.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""It is an ordinary plumber's smoke-rocket, fitted with a cap at either end to make it self-lighting.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Your task is confined to that.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"When you raise your cry of fire, it will be taken up by quite a number of people.",-0.6003,0.076,0.261,0.664,negative,The Adventures of Sherlock Holmes
+"You may then walk to the end of the street, and I will rejoin you in ten minutes.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I hope that I have made myself clear?""",0.4404,0.367,0.0,0.633,positive,The Adventures of Sherlock Holmes
+"""I am to remain neutral, to get near the window, to watch you, and at the signal to throw in this object, then to raise the cry of fire, and to wait you at the corner of the street.""",-0.6705,0.0,0.129,0.871,negative,The Adventures of Sherlock Holmes
+"""Precisely.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then you may entirely rely on me.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""That is excellent.",0.5719,0.649,0.0,0.351,positive,The Adventures of Sherlock Holmes
+"I think, perhaps, it is almost time that I prepare for the new role I have to play.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+He disappeared into his bedroom and returned in a few minutes in the character of an amiable and simple-minded Nonconformist clergyman.,-0.2263,0.0,0.091,0.909,negative,The Adventures of Sherlock Holmes
+"His broad black hat, his baggy trousers, his white tie, his sympathetic smile, and general look of peering and benevolent curiosity were such as Mr. John Hare alone could have equalled.",0.8176,0.247,0.052,0.701,positive,The Adventures of Sherlock Holmes
+It was not merely that Holmes changed his costume.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"His expression, his manner, his very soul seemed to vary with every fresh part that he assumed.",0.3182,0.126,0.0,0.874,positive,The Adventures of Sherlock Holmes
+"The stage lost a fine actor, even as science lost an acute reasoner, when he became a specialist in crime.",-0.743,0.075,0.339,0.586,negative,The Adventures of Sherlock Holmes
+"It was a quarter past six when we left Baker Street, and it still wanted ten minutes to the hour when we found ourselves in Serpentine Avenue.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It was already dusk, and the lamps were just being lighted as we paced up and down in front of Briony Lodge, waiting for the coming of its occupant.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"The house was just such as I had pictured it from Sherlock Holmes' succinct description, but the locality appeared to be less private than I expected.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"On the contrary, for a small street in a quiet neighbourhood, it was remarkably animated.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"There was a group of shabbily dressed men smoking and laughing in a corner, a scissors-grinder with his wheel, two guardsmen who were flirting with a nurse-girl, and several well-dressed young men who were lounging up and down with cigars in their mouths.",0.6124,0.119,0.0,0.881,positive,The Adventures of Sherlock Holmes
+"""You see,"" remarked Holmes, as we paced to and fro in front of the house, ""this marriage rather simplifies matters.",0.0258,0.055,0.0,0.945,neutral,The Adventures of Sherlock Holmes
+The photograph becomes a double-edged weapon now.,-0.296,0.0,0.306,0.694,negative,The Adventures of Sherlock Holmes
+"The chances are that she would be as averse to its being seen by Mr. Godfrey Norton, as our client is to its coming to the eyes of his princess.",0.2023,0.058,0.0,0.942,positive,The Adventures of Sherlock Holmes
+"Now the question is, Where are we to find the photograph?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Where, indeed?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""It is most unlikely that she carries it about with her.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+It is cabinet size.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Too large for easy concealment about a woman's dress.,0.4404,0.293,0.0,0.707,positive,The Adventures of Sherlock Holmes
+She knows that the King is capable of having her waylaid and searched.,0.3818,0.178,0.0,0.822,positive,The Adventures of Sherlock Holmes
+Two attempts of the sort have already been made.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"We may take it, then, that she does not carry it about with her.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Where, then?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Her banker or her lawyer.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+There is that double possibility.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+But I am inclined to think neither.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Women are naturally secretive, and they like to do their own secreting.",0.3612,0.185,0.0,0.815,positive,The Adventures of Sherlock Holmes
+Why should she hand it over to anyone else?,0.4939,0.286,0.0,0.714,positive,The Adventures of Sherlock Holmes
+"She could trust her own guardianship, but she could not tell what indirect or political influence might be brought to bear upon a business man.",0.2846,0.085,0.0,0.915,positive,The Adventures of Sherlock Holmes
+"Besides, remember that she had resolved to use it within a few days.",0.1779,0.134,0.0,0.866,positive,The Adventures of Sherlock Holmes
+It must be where she can lay her hands upon it.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It must be in her own house.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""But it has twice been burgled.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Pshaw!",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"They did not know how to look.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""But how will you look?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I will not look.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""What then?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I will get her to show me.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""But she will refuse.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""She will not be able to.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+But I hear the rumble of wheels.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+It is her carriage.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Now carry out my orders to the letter.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+As he spoke the gleam of the sidelights of a carriage came round the curve of the avenue.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+It was a smart little landau which rattled up to the door of Briony Lodge.,0.4019,0.172,0.0,0.828,positive,The Adventures of Sherlock Holmes
+"As it pulled up, one of the loafing men at the corner dashed forward to open the door in the hope of earning a copper, but was elbowed away by another loafer, who had rushed up with the same intention.",0.2382,0.049,0.0,0.951,positive,The Adventures of Sherlock Holmes
+"A fierce quarrel broke out, which was increased by the two guardsmen, who took sides with one of the loungers, and by the scissors-grinder, who was equally hot upon the other side.",-0.1779,0.062,0.083,0.855,negative,The Adventures of Sherlock Holmes
+"A blow was struck, and in an instant the lady, who had stepped from her carriage, was the centre of a little knot of flushed and struggling men, who struck savagely at each other with their fists and sticks.",-0.8402,0.0,0.233,0.767,negative,The Adventures of Sherlock Holmes
+"Holmes dashed into the crowd to protect the lady; but, just as he reached her, he gave a cry and dropped to the ground, with the blood running freely down his face.",0.2732,0.189,0.108,0.703,positive,The Adventures of Sherlock Holmes
+"At his fall the guardsmen took to their heels in one direction and the loungers in the other, while a number of better dressed people, who had watched the scuffle without taking part in it, crowded in to help the lady and to attend to the injured man.",0.4939,0.131,0.051,0.817,positive,The Adventures of Sherlock Holmes
+"Irene Adler, as I will still call her, had hurried up the steps; but she stood at the top with her superb figure outlined against the lights of the hall, looking back into the street.",0.8338,0.197,0.0,0.803,positive,The Adventures of Sherlock Holmes
+"""Is the poor gentleman much hurt?""",-0.4767,0.0,0.383,0.617,negative,The Adventures of Sherlock Holmes
+she asked.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""He is dead,"" cried several voices.",-0.3818,0.0,0.342,0.658,negative,The Adventures of Sherlock Holmes
+"""No, no, there's life in him!""",-0.3595,0.0,0.333,0.667,negative,The Adventures of Sherlock Holmes
+shouted another.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""But he'll be gone before you can get him to hospital.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""He's a brave fellow,"" said a woman.",0.5267,0.459,0.0,0.541,positive,The Adventures of Sherlock Holmes
+"""They would have had the lady's purse and watch if it hadn't been for him.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"They were a gang, and a rough one, too.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Ah, he's breathing now.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""He can't lie in the street.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"May we bring him in, marm?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Surely.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Bring him into the sitting-room.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+There is a comfortable sofa.,0.5106,0.524,0.0,0.476,positive,The Adventures of Sherlock Holmes
+"This way, please!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Slowly and solemnly he was borne into Briony Lodge and laid out in the principal room, while I still observed the proceedings from my post by the window.",0.2023,0.065,0.0,0.935,positive,The Adventures of Sherlock Holmes
+"The lamps had been lit, but the blinds had not been drawn, so that I could see Holmes as he lay upon the couch.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I do not know whether he was seized with compunction at that moment for the part he was playing, but I know that I never felt more heartily ashamed of myself in my life than when I saw the beautiful creature against whom I was conspiring, or the grace and kindliness with which she waited upon the injured man.",0.3253,0.155,0.12,0.725,positive,The Adventures of Sherlock Holmes
+And yet it would be the blackest treachery to Holmes to draw back now from the part which he had intrusted to me.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I hardened my heart, and took the smoke-rocket from under my ulster.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"After all, I thought, we are not injuring her.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+We are but preventing her from injuring another.,-0.0387,0.0,0.141,0.859,neutral,The Adventures of Sherlock Holmes
+"Holmes had sat up upon the couch, and I saw him motion like a man who is in need of air.",0.3612,0.122,0.0,0.878,positive,The Adventures of Sherlock Holmes
+A maid rushed across and threw open the window.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"At the same instant I saw him raise his hand and at the signal I tossed my rocket into the room with a cry of ""Fire!""",0.1007,0.127,0.112,0.761,positive,The Adventures of Sherlock Holmes
+"The word was no sooner out of my mouth than the whole crowd of spectators, well dressed and ill--gentlemen, ostlers, and servant maids--joined in a general shriek of ""Fire!""",-0.1007,0.069,0.081,0.85,negative,The Adventures of Sherlock Holmes
+Thick clouds of smoke curled through the room and out at the open window.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I caught a glimpse of rushing figures, and a moment later the voice of Holmes from within assuring them that it was a false alarm.",0.0516,0.108,0.1,0.792,positive,The Adventures of Sherlock Holmes
+"Slipping through the shouting crowd I made my way to the corner of the street, and in ten minutes was rejoiced to find my friend's arm in mine, and to get away from the scene of uproar.",0.4588,0.079,0.0,0.921,positive,The Adventures of Sherlock Holmes
+He walked swiftly and in silence for some few minutes until we had turned down one of the quiet streets which lead towards the Edgeware Road.,0.296,0.081,0.0,0.919,positive,The Adventures of Sherlock Holmes
+"""You did it very nicely, Doctor,"" he remarked.",0.4927,0.313,0.0,0.687,positive,The Adventures of Sherlock Holmes
+"""Nothing could have been better.",0.4404,0.42,0.0,0.58,positive,The Adventures of Sherlock Holmes
+"It is all right.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""You have the photograph?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I know where it is.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""And how did you find out?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""She showed me, as I told you she would.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I am still in the dark.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I do not wish to make a mystery,"" said he, laughing.",0.2363,0.238,0.168,0.594,positive,The Adventures of Sherlock Holmes
+"""The matter was perfectly simple.",0.6486,0.639,0.0,0.361,positive,The Adventures of Sherlock Holmes
+"You, of course, saw that everyone in the street was an accomplice.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"They were all engaged for the evening.""",0.4019,0.31,0.0,0.69,positive,The Adventures of Sherlock Holmes
+"""I guessed as much.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then, when the row broke out, I had a little moist red paint in the palm of my hand.",0.1027,0.152,0.133,0.714,positive,The Adventures of Sherlock Holmes
+"I rushed forward, fell down, clapped my hand to my face, and became a piteous spectacle.",0.25,0.184,0.126,0.69,positive,The Adventures of Sherlock Holmes
+"It is an old trick.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""That also I could fathom.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then they carried me in.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+She was bound to have me in.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+What else could she do?,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"And into her sitting-room, which was the very room which I suspected.",-0.2878,0.0,0.178,0.822,negative,The Adventures of Sherlock Holmes
+"It lay between that and her bedroom, and I was determined to see which.",0.34,0.167,0.0,0.833,positive,The Adventures of Sherlock Holmes
+"They laid me on a couch, I motioned for air, they were compelled to open the window, and you had your chance.""",0.0516,0.059,0.0,0.941,positive,The Adventures of Sherlock Holmes
+"""How did that help you?""",0.4019,0.403,0.0,0.597,positive,The Adventures of Sherlock Holmes
+"""It was all-important.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"When a woman thinks that her house is on fire, her instinct is at once to rush to the thing which she values most.",0.0772,0.103,0.092,0.805,positive,The Adventures of Sherlock Holmes
+"It is a perfectly overpowering impulse, and I have more than once taken advantage of it.",0.7351,0.341,0.0,0.659,positive,The Adventures of Sherlock Holmes
+"In the case of the Darlington Substitution Scandal it was of use to me, and also in the Arnsworth Castle business.",-0.4404,0.0,0.127,0.873,negative,The Adventures of Sherlock Holmes
+A married woman grabs at her baby; an unmarried one reaches for her jewel-box.,0.0516,0.091,0.0,0.909,positive,The Adventures of Sherlock Holmes
+Now it was clear to me that our lady of to-day had nothing in the house more precious to her than what we are in quest of.,0.7645,0.209,0.0,0.791,positive,The Adventures of Sherlock Holmes
+She would rush to secure it.,0.34,0.324,0.0,0.676,positive,The Adventures of Sherlock Holmes
+The alarm of fire was admirably done.,-0.0772,0.285,0.39,0.325,negative,The Adventures of Sherlock Holmes
+The smoke and shouting were enough to shake nerves of steel.,-0.2732,0.0,0.256,0.744,negative,The Adventures of Sherlock Holmes
+She responded beautifully.,0.5719,0.649,0.0,0.351,positive,The Adventures of Sherlock Holmes
+The photograph is in a recess behind a sliding panel just above the right bell-pull.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"She was there in an instant, and I caught a glimpse of it as she half drew it out.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"When I cried out that it was a false alarm, she replaced it, glanced at the rocket, rushed from the room, and I have not seen her since.",-0.6124,0.0,0.179,0.821,negative,The Adventures of Sherlock Holmes
+"I rose, and, making my excuses, escaped from the house.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I hesitated whether to attempt to secure the photograph at once; but the coachman had come in, and as he was watching me narrowly, it seemed safer to wait.",0.5789,0.168,0.051,0.78,positive,The Adventures of Sherlock Holmes
+"A little over-precipitance may ruin all.""",-0.5478,0.0,0.469,0.531,negative,The Adventures of Sherlock Holmes
+"""And now?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I asked.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Our quest is practically finished.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I shall call with the King to-morrow, and with you, if you care to come with us.",0.4939,0.176,0.0,0.824,positive,The Adventures of Sherlock Holmes
+"We will be shown into the sitting-room to wait for the lady, but it is probable that when she comes she may find neither us nor the photograph.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"It might be a satisfaction to his Majesty to regain it with his own hands.""",0.4404,0.182,0.0,0.818,positive,The Adventures of Sherlock Holmes
+"""And when will you call?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""At eight in the morning.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"She will not be up, so that we shall have a clear field.",0.3818,0.191,0.0,0.809,positive,The Adventures of Sherlock Holmes
+"Besides, we must be prompt, for this marriage may mean a complete change in her life and habits.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I must wire to the King without delay.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+We had reached Baker Street and had stopped at the door.,-0.128,0.114,0.154,0.732,negative,The Adventures of Sherlock Holmes
+"He was searching his pockets for the key when someone passing said: ""Good-night, Mister Sherlock Holmes.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"There were several people on the pavement at the time, but the greeting appeared to come from a slim youth in an ulster who had hurried by.",0.5267,0.12,0.0,0.88,positive,The Adventures of Sherlock Holmes
+"""I've heard that voice before,"" said Holmes, staring down the dimly lit street.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Now, I wonder who the deuce that could have been.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+III.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I slept at Baker Street that night, and we were engaged upon our toast and coffee in the morning when the King of Bohemia rushed into the room.",0.4019,0.094,0.0,0.906,positive,The Adventures of Sherlock Holmes
+"""You have really got it!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"he cried, grasping Sherlock Holmes by either shoulder and looking eagerly into his face.",0.0,0.151,0.151,0.698,neutral,The Adventures of Sherlock Holmes
+"""Not yet.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""But you have hopes?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I have hopes.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then, come.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"I am all impatience to be gone.""",-0.4215,0.0,0.359,0.641,negative,The Adventures of Sherlock Holmes
+"""We must have a cab.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""No, my brougham is waiting.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then that will simplify matters.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+We descended and started off once more for Briony Lodge.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Irene Adler is married,"" remarked Holmes.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Married!",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"When?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Yesterday.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""But to whom?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""To an English lawyer named Norton.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""But she could not love him.""",-0.6759,0.0,0.477,0.523,negative,The Adventures of Sherlock Holmes
+"""I am in hopes that she does.""",0.4215,0.318,0.0,0.682,positive,The Adventures of Sherlock Holmes
+"""And why in hopes?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Because it would spare your Majesty all fear of future annoyance.",-0.6705,0.0,0.379,0.621,negative,The Adventures of Sherlock Holmes
+"If the lady loves her husband, she does not love your Majesty.",0.0854,0.217,0.197,0.586,positive,The Adventures of Sherlock Holmes
+"If she does not love your Majesty, there is no reason why she should interfere with your Majesty's plan.""",-0.6776,0.0,0.247,0.753,negative,The Adventures of Sherlock Holmes
+"""It is true.",0.4215,0.583,0.0,0.417,positive,The Adventures of Sherlock Holmes
+And yet--!,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Well!,0.3382,1.0,0.0,0.0,positive,The Adventures of Sherlock Holmes
+I wish she had been of my own station!,0.4574,0.299,0.0,0.701,positive,The Adventures of Sherlock Holmes
+"What a queen she would have made!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"He relapsed into a moody silence, which was not broken until we drew up in Serpentine Avenue.",0.0139,0.134,0.131,0.735,neutral,The Adventures of Sherlock Holmes
+"The door of Briony Lodge was open, and an elderly woman stood upon the steps.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+She watched us with a sardonic eye as we stepped from the brougham.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Mr. Sherlock Holmes, I believe?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+said she.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I am Mr. Holmes,"" answered my companion, looking at her with a questioning and rather startled gaze.",-0.2732,0.0,0.181,0.819,negative,The Adventures of Sherlock Holmes
+"""Indeed!",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+My mistress told me that you were likely to call.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"She left this morning with her husband by the 5:15 train from Charing Cross for the Continent.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""What!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Sherlock Holmes staggered back, white with chagrin and surprise.",-0.2023,0.175,0.242,0.583,negative,The Adventures of Sherlock Holmes
+"""Do you mean that she has left England?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Never to return.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""And the papers?""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+asked the King hoarsely.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""All is lost.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""We shall see.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"He pushed past the servant and rushed into the drawing-room, followed by the King and myself.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"The furniture was scattered about in every direction, with dismantled shelves and open drawers, as if the lady had hurriedly ransacked them before her flight.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Holmes rushed at the bell-pull, tore back a small sliding shutter, and, plunging in his hand, pulled out a photograph and a letter.",0.4939,0.144,0.0,0.856,positive,The Adventures of Sherlock Holmes
+"The photograph was of Irene Adler herself in evening dress, the letter was superscribed to ""Sherlock Holmes, Esq.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"To be left till called for.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"My friend tore it open, and we all three read it together.",0.4939,0.225,0.0,0.775,positive,The Adventures of Sherlock Holmes
+"It was dated at midnight of the preceding night and ran in this way: ""MY DEAR MR. SHERLOCK HOLMES,--You really did it very well.",0.6933,0.207,0.0,0.793,positive,The Adventures of Sherlock Holmes
+You took me in completely.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Until after the alarm of fire, I had not a suspicion.",-0.3851,0.168,0.37,0.462,negative,The Adventures of Sherlock Holmes
+"But then, when I found how I had betrayed myself, I began to think.",-0.7579,0.0,0.355,0.645,negative,The Adventures of Sherlock Holmes
+I had been warned against you months ago.,-0.2732,0.0,0.259,0.741,negative,The Adventures of Sherlock Holmes
+"I had been told that, if the King employed an agent, it would certainly be you.",0.34,0.146,0.0,0.854,positive,The Adventures of Sherlock Holmes
+And your address had been given me.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Yet, with all this, you made me reveal what you wanted to know.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Even after I became suspicious, I found it hard to think evil of such a dear, kind old clergyman.",-0.3182,0.237,0.328,0.435,negative,The Adventures of Sherlock Holmes
+"But, you know, I have been trained as an actress myself.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Male costume is nothing new to me.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+I often take advantage of the freedom which it gives.,0.7351,0.47,0.0,0.53,positive,The Adventures of Sherlock Holmes
+"I sent John, the coachman, to watch you, ran upstairs, got into my walking clothes, as I call them, and came down just as you departed.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Well, I followed you to your door, and so made sure that I was really an object of interest to the celebrated Mr. Sherlock Holmes.",0.8511,0.317,0.0,0.683,positive,The Adventures of Sherlock Holmes
+"Then I, rather imprudently, wished you good-night, and started for the Temple to see my husband.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""We both thought the best resource was flight, when pursued by so formidable an antagonist; so you will find the nest empty when you call to-morrow.",0.0609,0.131,0.154,0.715,positive,The Adventures of Sherlock Holmes
+"As to the photograph, your client may rest in peace.",0.5423,0.28,0.0,0.72,positive,The Adventures of Sherlock Holmes
+I love and am loved by a better man than he.,0.9001,0.647,0.0,0.353,positive,The Adventures of Sherlock Holmes
+The King may do what he will without hindrance from one whom he has cruelly wronged.,-0.6643,0.103,0.305,0.592,negative,The Adventures of Sherlock Holmes
+"I keep it only to safeguard myself, and to preserve a weapon which will always secure me from any steps which he might take in the future.",0.4215,0.171,0.075,0.753,positive,The Adventures of Sherlock Holmes
+"I leave a photograph which he might care to possess; and I remain, dear Mr. Sherlock Holmes, ""Very truly yours, ""IRENE NORTON, née ADLER.""",0.8313,0.331,0.044,0.625,positive,The Adventures of Sherlock Holmes
+"""What a woman--oh, what a woman!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"cried the King of Bohemia, when we had all three read this epistle.",-0.3818,0.0,0.178,0.822,negative,The Adventures of Sherlock Holmes
+"""Did I not tell you how quick and resolute she was?",0.2732,0.189,0.0,0.811,positive,The Adventures of Sherlock Holmes
+Would she not have made an admirable queen?,0.5574,0.34,0.0,0.66,positive,The Adventures of Sherlock Holmes
+"Is it not a pity that she was not on my level?""",0.2235,0.159,0.0,0.841,positive,The Adventures of Sherlock Holmes
+"""From what I have seen of the lady, she seems, indeed, to be on a very different level to your Majesty,"" said Holmes coldly.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I am sorry that I have not been able to bring your Majesty's business to a more successful conclusion.""",0.5849,0.201,0.064,0.736,positive,The Adventures of Sherlock Holmes
+"""On the contrary, my dear sir,"" cried the King; ""nothing could be more successful.",0.624,0.33,0.128,0.542,positive,The Adventures of Sherlock Holmes
+I know that her word is inviolate.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"The photograph is now as safe as if it were in the fire.""",0.4404,0.195,0.0,0.805,positive,The Adventures of Sherlock Holmes
+"""I am glad to hear your Majesty say so.""",0.4588,0.273,0.0,0.727,positive,The Adventures of Sherlock Holmes
+"""I am immensely indebted to you.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+Pray tell me in what way I can reward you.,0.7184,0.462,0.0,0.538,positive,The Adventures of Sherlock Holmes
+"This ring--"" He slipped an emerald snake ring from his finger and held it out upon the palm of his hand.",0.4939,0.138,0.0,0.862,positive,The Adventures of Sherlock Holmes
+"""Your Majesty has something which I should value even more highly,"" said Holmes.",0.34,0.179,0.0,0.821,positive,The Adventures of Sherlock Holmes
+"""You have but to name it.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""This photograph!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+The King stared at him in amazement.,0.5423,0.368,0.0,0.632,positive,The Adventures of Sherlock Holmes
+"""Irene's photograph!""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+he cried.,-0.3818,0.0,0.722,0.278,negative,The Adventures of Sherlock Holmes
+"""Certainly, if you wish it.""",0.4019,0.403,0.0,0.597,positive,The Adventures of Sherlock Holmes
+"""I thank your Majesty.",0.3612,0.455,0.0,0.545,positive,The Adventures of Sherlock Holmes
+Then there is no more to be done in the matter.,-0.2732,0.089,0.179,0.732,negative,The Adventures of Sherlock Holmes
+"I have the honour to wish you a very good morning.""",0.8622,0.615,0.0,0.385,positive,The Adventures of Sherlock Holmes
+"He bowed, and, turning away without observing the hand which the King had stretched out to him, he set off in my company for his chambers.",-0.3875,0.0,0.095,0.905,negative,The Adventures of Sherlock Holmes
+"And that was how a great scandal threatened to affect the kingdom of Bohemia, and how the best plans of Mr. Sherlock Holmes were beaten by a woman's wit.",0.1531,0.213,0.223,0.564,positive,The Adventures of Sherlock Holmes
+"He used to make merry over the cleverness of women, but I have not heard him do it of late.",0.5267,0.206,0.0,0.794,positive,The Adventures of Sherlock Holmes
+"And when he speaks of Irene Adler, or when he refers to her photograph, it is always under the honourable title of the woman.",0.4767,0.119,0.0,0.881,positive,The Adventures of Sherlock Holmes
+II.,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"THE RED-HEADED LEAGUE I had called upon my friend, Mr. Sherlock Holmes, one day in the autumn of last year and found him in deep conversation with a very stout, florid-faced, elderly gentleman with fiery red hair.",0.4201,0.131,0.061,0.808,positive,The Adventures of Sherlock Holmes
+"With an apology for my intrusion, I was about to withdraw when Holmes pulled me abruptly into the room and closed the door behind me.",0.0516,0.05,0.0,0.95,positive,The Adventures of Sherlock Holmes
+"""You could not possibly have come at a better time, my dear Watson,"" he said cordially.",0.6705,0.297,0.0,0.703,positive,The Adventures of Sherlock Holmes
+"""I was afraid that you were engaged.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""So I am.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Very much so.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Then I can wait in the next room.""",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""Not at all.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"This gentleman, Mr. Wilson, has been my partner and helper in many of my most successful cases, and I have no doubt that he will be of the utmost use to me in yours also.""",0.4201,0.158,0.114,0.728,positive,The Adventures of Sherlock Holmes
+"The stout gentleman half rose from his chair and gave a bob of greeting, with a quick little questioning glance from his small fat-encircled eyes.",0.4927,0.169,0.044,0.787,positive,The Adventures of Sherlock Holmes
+"""Try the settee,"" said Holmes, relapsing into his armchair and putting his fingertips together, as was his custom when in judicial moods.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"""I know, my dear Watson, that you share my love of all that is bizarre and outside the conventions and humdrum routine of everyday life.",0.7717,0.279,0.071,0.65,positive,The Adventures of Sherlock Holmes
+"You have shown your relish for it by the enthusiasm which has prompted you to chronicle, and, if you will excuse my saying so, somewhat to embellish so many of my own little adventures.""",0.4939,0.116,0.0,0.884,positive,The Adventures of Sherlock Holmes
+"""Your cases have indeed been of the greatest interest to me,"" I observed.",0.802,0.419,0.0,0.581,positive,The Adventures of Sherlock Holmes
+"""You will remember that I remarked the other day, just before we went into the very simple problem presented by Miss Mary Sutherland, that for strange effects and extraordinary combinations we must go to life itself, which is always far more daring than any effort of the imagination.""",-0.3788,0.054,0.122,0.824,negative,The Adventures of Sherlock Holmes
+"""A proposition which I took the liberty of doubting.""",0.5267,0.327,0.0,0.673,positive,The Adventures of Sherlock Holmes
+"""You did, Doctor, but none the less you must come round to my view, for otherwise I shall keep on piling fact upon fact on you until your reason breaks down under them and acknowledges me to be right.",0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes
+"Now, Mr. Jabez Wilson here has been good enough to call upon me this morning, and to begin a narrative which promises to be one of the most singular which I have listened to for some time.",0.6705,0.143,0.0,0.857,positive,The Adventures of Sherlock Holmes
+"You have heard me remark that the strangest and most unique things are very often connected not with the larger but with the smaller crimes, and occasionally, indeed, where there is room for doubt whether any positive crime has been committed.",-0.1154,0.144,0.152,0.704,negative,The Adventures of Sherlock Holmes
+As far as I have hea,0.0,0.0,0.0,1.0,neutral,The Adventures of Sherlock Holmes

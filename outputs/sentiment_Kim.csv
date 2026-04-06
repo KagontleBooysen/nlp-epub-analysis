@@ -1,0 +1,651 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Kim This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Kim
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Kim
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Kim
+"Title : Kim Author : Rudyard Kipling Release date : June 1, 2000 [eBook #2226] Most recently updated: March 28, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/2226 *** START OF THE PROJECT GUTENBERG EBOOK KIM *** Kim by Rudyard Kipling Contents CHAPTER I CHAPTER II CHAPTER III CHAPTER IV CHAPTER V CHAPTER VI CHAPTER VII CHAPTER VIII CHAPTER IX CHAPTER X CHAPTER XI CHAPTER XII CHAPTER XIII CHAPTER XIV CHAPTER XV CHAPTER I O ye who tread the Narrow Way By Tophet-flare to Judgment Day, Be gentle when ""the heathen"" pray To Buddha at Kamakura!",0.6696,0.06,0.0,0.94,positive,Kim
+"He sat, in defiance of municipal orders, astride the gun Zam Zammah on her brick platform opposite the old Ajaib-Gher--the Wonder House, as the natives call the Lahore Museum.",-0.34,0.0,0.079,0.921,negative,Kim
+"Who hold Zam-Zammah, that ""fire-breathing dragon"", hold the Punjab, for the great green-bronze piece is always first of the conqueror's loot.",0.6249,0.17,0.0,0.83,positive,Kim
+There was some justification for Kim--he had kicked Lala Dinanath's boy off the trunnions--since the English held the Punjab and Kim was English.,0.0,0.0,0.0,1.0,neutral,Kim
+"Though he was burned black as any native; though he spoke the vernacular by preference, and his mother-tongue in a clipped uncertain sing-song; though he consorted on terms of perfect equality with the small boys of the bazar; Kim was white--a poor white of the very poorest.",-0.659,0.068,0.166,0.767,negative,Kim
+"The half-caste woman who looked after him (she smoked opium, and pretended to keep a second-hand furniture shop by the square where the cheap cabs wait) told the missionaries that she was Kim's mother's sister; but his mother had been nursemaid in a Colonel's family and had married Kimball O'Hara, a young colour-sergeant of the Mavericks, an Irish regiment.",0.0,0.0,0.0,1.0,neutral,Kim
+"He afterwards took a post on the Sind, Punjab, and Delhi Railway, and his Regiment went home without him.",0.0,0.0,0.0,1.0,neutral,Kim
+"The wife died of cholera in Ferozepore, and O'Hara fell to drink and loafing up and down the line with the keen-eyed three-year-old baby.",-0.5574,0.0,0.135,0.865,negative,Kim
+"Societies and chaplains, anxious for the child, tried to catch him, but O'Hara drifted away, till he came across the woman who took opium and learned the taste from her, and died as poor whites die in India.",-0.9509,0.0,0.319,0.681,negative,Kim
+"His estate at death consisted of three papers--one he called his "" ne varietur "" because those words were written below his signature thereon, and another his ""clearance-certificate"".",-0.5994,0.0,0.135,0.865,negative,Kim
+The third was Kim's birth-certificate.,0.0,0.0,0.0,1.0,neutral,Kim
+"Those things, he was used to say, in his glorious opium-hours, would yet make little Kimball a man.",0.6369,0.208,0.0,0.792,positive,Kim
+"On no account was Kim to part with them, for they belonged to a great piece of magic--such magic as men practised over yonder behind the Museum, in the big blue-and-white Jadoo-Gher--the Magic House, as we name the Masonic Lodge.",0.4404,0.095,0.051,0.855,positive,Kim
+"It would, he said, all come right some day, and Kim's horn would be exalted between pillars--monstrous pillars--of beauty and strength.",0.7906,0.269,0.0,0.731,positive,Kim
+"The Colonel himself, riding on a horse, at the head of the finest Regiment in the world, would attend to Kim--little Kim that should have been better off than his father.",0.4404,0.091,0.0,0.909,positive,Kim
+"Nine hundred first-class devils, whose God was a Red Bull on a green field, would attend to Kim, if they had not forgotten O'Hara--poor O'Hara that was gang-foreman on the Ferozepore line.",-0.2344,0.109,0.107,0.783,negative,Kim
+Then he would weep bitterly in the broken rush chair on the veranda.,-0.8689,0.0,0.495,0.505,negative,Kim
+"So it came about after his death that the woman sewed parchment, paper, and birth-certificate into a leather amulet-case which she strung round Kim's neck.",-0.5994,0.0,0.145,0.855,negative,Kim
+"""And some day,"" she said, confusedly remembering O'Hara's prophecies, ""there will come for you a great Red Bull on a green field, and the Colonel riding on his tall horse, yes, and"" dropping into English--""nine hundred devils.""",0.7351,0.168,0.04,0.792,positive,Kim
+"""Ah,"" said Kim, ""I shall remember.",0.0,0.0,0.0,1.0,neutral,Kim
+"A Red Bull and a Colonel on a horse will come, but first, my father said, will come the two men making ready the ground for these matters.",0.5267,0.161,0.0,0.839,positive,Kim
+"That is how my father said they always did; and it is always so when men work magic.""",0.0,0.0,0.0,1.0,neutral,Kim
+"If the woman had sent Kim up to the local Jadoo-Gher with those papers, he would, of course, have been taken over by the Provincial Lodge, and sent to the Masonic Orphanage in the Hills; but what she had heard of magic she distrusted.",-0.6808,0.0,0.097,0.903,negative,Kim
+"Kim, too, held views of his own.",0.0,0.0,0.0,1.0,neutral,Kim
+"As he reached the years of indiscretion, he learned to avoid missionaries and white men of serious aspect who asked who he was, and what he did.",-0.2732,0.048,0.121,0.83,negative,Kim
+For Kim did nothing with an immense success.,0.5719,0.346,0.0,0.654,positive,Kim
+"True, he knew the wonderful walled city of Lahore from the Delhi Gate to the outer Fort Ditch; was hand in glove with men who led lives stranger than anything Haroun al Raschid dreamed of; and he lived in a life wild as that of the Arabian Nights, but missionaries and secretaries of charitable societies could not see the beauty of it.",0.5848,0.141,0.059,0.8,positive,Kim
+"His nickname through the wards was ""Little Friend of all the World""; and very often, being lithe and inconspicuous, he executed commissions by night on the crowded housetops for sleek and shiny young men of fashion.",0.4417,0.077,0.0,0.923,positive,Kim
+"It was intrigue,--of course he knew that much, as he had known all evil since he could speak,--but what he loved was the game for its own sake--the stealthy prowl through the dark gullies and lanes, the crawl up a waterpipe, the sights and sounds of the women's world on the flat roofs, and the headlong flight from housetop to housetop under cover of the hot dark.",-0.1531,0.054,0.076,0.87,negative,Kim
+"Then there were holy men, ash-smeared faquirs by their brick shrines under the trees at the riverside, with whom he was quite familiar--greeting them as they returned from begging-tours, and, when no one was by, eating from the same dish.",-0.296,0.0,0.053,0.947,negative,Kim
+"The woman who looked after him insisted with tears that he should wear European clothes--trousers, a shirt and a battered hat.",-0.2263,0.0,0.095,0.905,negative,Kim
+Kim found it easier to slip into Hindu or Mohammedan garb when engaged on certain businesses.,0.765,0.369,0.0,0.631,positive,Kim
+"One of the young men of fashion--he who was found dead at the bottom of a well on the night of the earthquake--had once given him a complete suit of Hindu kit, the costume of a lowcaste street boy, and Kim stored it in a secret place under some baulks in Nila Ram's timber-yard, beyond the Punjab High Court, where the fragrant deodar logs lie seasoning after they have driven down the Ravi.",-0.4939,0.029,0.059,0.913,negative,Kim
+"When there was business or frolic afoot, Kim would use his properties, returning at dawn to the veranda, all tired out from shouting at the heels of a marriage procession, or yelling at a Hindu festival.",0.0772,0.084,0.076,0.84,positive,Kim
+"Sometimes there was food in the house, more often there was not, and then Kim went out again to eat with his native friends.",0.4767,0.119,0.0,0.881,positive,Kim
+"As he drummed his heels against Zam-Zammah he turned now and again from his king-of-the-castle game with little Chota Lal and Abdullah the sweetmeat-seller's son, to make a rude remark to the native policeman on guard over rows of shoes at the Museum door.",-0.4588,0.0,0.067,0.933,negative,Kim
+The big Punjabi grinned tolerantly: he knew Kim of old.,0.3612,0.304,0.0,0.696,positive,Kim
+"So did the water-carrier, sluicing water on the dry road from his goat-skin bag.",0.0,0.0,0.0,1.0,neutral,Kim
+"So did Jawahir Singh, the Museum carpenter, bent over new packing-cases.",0.0,0.0,0.0,1.0,neutral,Kim
+"So did everybody in sight except the peasants from the country, hurrying up to the Wonder House to view the things that men made in their own province and elsewhere.",0.0,0.0,0.0,1.0,neutral,Kim
+"The Museum was given up to Indian arts and manufactures, and anybody who sought wisdom could ask the Curator to explain.",0.5267,0.145,0.0,0.855,positive,Kim
+"""Off!",0.0,0.0,0.0,1.0,neutral,Kim
+Off!,0.0,0.0,0.0,1.0,neutral,Kim
+"Let me up!""",0.0,0.0,0.0,1.0,neutral,Kim
+"cried Abdullah, climbing up Zam-Zammah's wheel.",-0.3818,0.0,0.342,0.658,negative,Kim
+"""Thy father was a pastry-cook, Thy mother stole the ghi ,"" sang Kim.",0.0,0.0,0.0,1.0,neutral,Kim
+"""All Mussalmans fell off Zam-Zammah long ago!""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Let me up!""",0.0,0.0,0.0,1.0,neutral,Kim
+shrilled little Chota Lal in his gilt-embroidered cap.,0.0,0.0,0.0,1.0,neutral,Kim
+"His father was worth perhaps half a million sterling, but India is the only democratic land in the world.",0.1154,0.079,0.0,0.921,positive,Kim
+"""The Hindus fell off Zam-Zammah too.",0.0,0.0,0.0,1.0,neutral,Kim
+The Mussalmans pushed them off.,0.0,0.0,0.0,1.0,neutral,Kim
+"Thy father was a pastry-cook--"" He stopped; for there shuffled round the corner, from the roaring Motee Bazar, such a man as Kim, who thought he knew all castes, had never seen.",-0.2263,0.0,0.061,0.939,negative,Kim
+"He was nearly six feet high, dressed in fold upon fold of dingy stuff like horse-blanketing, and not one fold of it could Kim refer to any known trade or profession.",0.3612,0.077,0.0,0.923,positive,Kim
+At his belt hung a long open-work iron pencase and a wooden rosary such as holy men wear.,0.0,0.0,0.0,1.0,neutral,Kim
+On his head was a gigantic sort of tam-o'-shanter.,0.0,0.0,0.0,1.0,neutral,Kim
+"His face was yellow and wrinkled, like that of Fook Shing, the Chinese bootmaker in the bazar.",0.3612,0.135,0.0,0.865,positive,Kim
+His eyes turned up at the corners and looked like little slits of onyx.,0.3612,0.161,0.0,0.839,positive,Kim
+"""Who is that?""",0.0,0.0,0.0,1.0,neutral,Kim
+said Kim to his companions.,0.0,0.0,0.0,1.0,neutral,Kim
+"""Perhaps it is a man,"" said Abdullah, finger in mouth, staring.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Without doubt,"" returned Kim; ""but he is no man of India that I have ever seen.""",-0.4215,0.0,0.167,0.833,negative,Kim
+"""A priest, perhaps,"" said Chota Lal, spying the rosary.",0.0,0.0,0.0,1.0,neutral,Kim
+"""See!",0.0,0.0,0.0,1.0,neutral,Kim
+"He goes into the Wonder House!""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Nay, nay,"" said the policeman, shaking his head.",-0.1779,0.0,0.195,0.805,negative,Kim
+"""I do not understand your talk.""",0.0,0.0,0.0,1.0,neutral,Kim
+The constable spoke Punjabi.,0.0,0.0,0.0,1.0,neutral,Kim
+"""O Friend of all the World, what does he say?""",0.4939,0.262,0.0,0.738,positive,Kim
+"""Send him hither,"" said Kim, dropping from Zam-Zammah, flourishing his bare heels.",0.0,0.0,0.0,1.0,neutral,Kim
+"""He is a foreigner, and thou art a buffalo.""",0.0,0.0,0.0,1.0,neutral,Kim
+The man turned helplessly and drifted towards the boys.,-0.34,0.0,0.231,0.769,negative,Kim
+"He was old, and his woollen gaberdine still reeked of the stinking artemisia of the mountain passes.",-0.7506,0.0,0.299,0.701,negative,Kim
+"""O Children, what is that big house?""",0.0,0.0,0.0,1.0,neutral,Kim
+he said in very fair Urdu.,0.3804,0.341,0.0,0.659,positive,Kim
+"""The Ajaib-Gher, the Wonder House!""",0.0,0.0,0.0,1.0,neutral,Kim
+Kim gave him no title--such as Lala or Mian.,-0.296,0.0,0.216,0.784,negative,Kim
+He could not divine the man's creed.,-0.4449,0.0,0.328,0.672,negative,Kim
+"""Ah!",0.0,0.0,0.0,1.0,neutral,Kim
+The Wonder House!,0.0,0.0,0.0,1.0,neutral,Kim
+"Can any enter?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""It is written above the door--all can enter.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Without payment?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""I go in and out.",0.0,0.0,0.0,1.0,neutral,Kim
+"I am no banker,"" laughed Kim.",0.2023,0.366,0.268,0.366,positive,Kim
+"""Alas!",0.0,0.0,0.0,1.0,neutral,Kim
+I am an old man.,0.0,0.0,0.0,1.0,neutral,Kim
+"I did not know.""",0.0,0.0,0.0,1.0,neutral,Kim
+"Then, fingering his rosary, he half turned to the Museum.",0.0,0.0,0.0,1.0,neutral,Kim
+"""What is your caste?",0.0,0.0,0.0,1.0,neutral,Kim
+Where is your house?,0.0,0.0,0.0,1.0,neutral,Kim
+"Have you come far?""",0.0,0.0,0.0,1.0,neutral,Kim
+Kim asked.,0.0,0.0,0.0,1.0,neutral,Kim
+"""I came by Kulu--from beyond the Kailas--but what know you?",0.0,0.0,0.0,1.0,neutral,Kim
+"From the Hills where""--he sighed--""the air and water are fresh and cool.""",0.3182,0.173,0.0,0.827,positive,Kim
+"""Aha!",0.0,0.0,0.0,1.0,neutral,Kim
+"Khitai [a Chinaman],"" said Abdullah proudly.",0.5574,0.419,0.0,0.581,positive,Kim
+Fook Shing had once chased him out of his shop for spitting at the joss above the boots.,0.0,0.0,0.0,1.0,neutral,Kim
+"""Pahari [a hillman],"" said little Chota Lal.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Aye, child--a hillman from hills thou'lt never see.",0.0,0.0,0.0,1.0,neutral,Kim
+Didst hear of Bhotiyal [Tibet]?,0.0,0.0,0.0,1.0,neutral,Kim
+"I am no Khitai, but a Bhotiya [Tibetan], since you must know--a lama--or, say, a guru in your tongue.""",-0.1531,0.0,0.096,0.904,negative,Kim
+"""A guru from Tibet,"" said Kim.",0.0,0.0,0.0,1.0,neutral,Kim
+"""I have not seen such a man.",0.0,0.0,0.0,1.0,neutral,Kim
+"They be Hindus in Tibet, then?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""We be followers of the Middle Way, living in peace in our lamasseries, and I go to see the Four Holy Places before I die.",-0.1027,0.123,0.137,0.739,negative,Kim
+"Now do you, who are children, know as much as I do who am old.""",0.0,0.0,0.0,1.0,neutral,Kim
+He smiled benignantly on the boys.,0.6808,0.583,0.0,0.417,positive,Kim
+"""Hast thou eaten?""",0.0,0.0,0.0,1.0,neutral,Kim
+"He fumbled in his bosom and drew forth a worn, wooden begging-bowl.",-0.296,0.0,0.18,0.82,negative,Kim
+The boys nodded.,0.0,0.0,0.0,1.0,neutral,Kim
+All priests of their acquaintance begged.,0.0,0.0,0.0,1.0,neutral,Kim
+"""I do not wish to eat yet.""",-0.3089,0.0,0.273,0.727,negative,Kim
+He turned his head like an old tortoise in the sunlight.,0.3612,0.2,0.0,0.8,positive,Kim
+"""Is it true that there are many images in the Wonder House of Lahore?""",0.4215,0.177,0.0,0.823,positive,Kim
+He repeated the last words as one making sure of an address.,0.3182,0.173,0.0,0.827,positive,Kim
+"""That is true,"" said Abdullah.",0.0,0.0,0.0,1.0,neutral,Kim
+"""It is full of heathen būts .",0.0,0.0,0.0,1.0,neutral,Kim
+"Thou also art an idolater.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Never mind him ,"" said.",0.0,0.0,0.0,1.0,neutral,Kim
+Kim.,0.0,0.0,0.0,1.0,neutral,Kim
+"""That is the Government's house and there is no idolatry in it, but only a Sahib with a white beard.",-0.1531,0.0,0.086,0.914,negative,Kim
+"Come with me and I will show.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Strange priests eat boys,"" whispered Chota Lal.",-0.2023,0.0,0.231,0.769,negative,Kim
+"""And he is a stranger and a būt-parast (idolater),"" said Abdullah, the Mohammedan.",0.0,0.0,0.0,1.0,neutral,Kim
+Kim laughed.,0.4588,0.75,0.0,0.25,positive,Kim
+"""He is new.",0.0,0.0,0.0,1.0,neutral,Kim
+"Run to your mothers' laps, and be safe.",0.4404,0.293,0.0,0.707,positive,Kim
+"Come!""",0.0,0.0,0.0,1.0,neutral,Kim
+Kim clicked round the self-registering turnstile; the old man followed and halted amazed.,0.4939,0.211,0.0,0.789,positive,Kim
+"In the entrance-hall stood the larger figures of the Greco-Buddhist sculptures done, savants know how long since, by forgotten workmen whose hands were feeling, and not unskilfully, for the mysteriously transmitted Grecian touch.",-0.1027,0.044,0.055,0.901,negative,Kim
+"There were hundreds of pieces, friezes of figures in relief, fragments of statues and slabs crowded with figures that had encrusted the brick walls of the Buddhist stupas and viharas of the North Country and now, dug up and labelled, made the pride of the Museum.",0.6705,0.111,0.0,0.889,positive,Kim
+"In open-mouthed wonder the lama turned to this and that, and finally checked in rapt attention before a large alto-relief representing a coronation or apotheosis of the Lord Buddha.",0.0,0.0,0.0,1.0,neutral,Kim
+The Master was represented seated on a lotus the petals of which were so deeply undercut as to show almost detached.,-0.0534,0.0,0.06,0.94,negative,Kim
+"Round Him was an adoring hierarchy of kings, elders, and old-time Buddhas.",0.5574,0.247,0.0,0.753,positive,Kim
+Below were lotus-covered waters with fishes and water-birds.,0.0,0.0,0.0,1.0,neutral,Kim
+Two butterfly-winged devas held a wreath over His head; above them another pair supported an umbrella surmounted by the jewelled headdress of the Bodhisat.,0.3182,0.095,0.0,0.905,positive,Kim
+"""The Lord!",0.0,0.0,0.0,1.0,neutral,Kim
+The Lord!,0.0,0.0,0.0,1.0,neutral,Kim
+"It is Sakya Muni himself,"" the lama half sobbed; and under his breath began the wonderful Buddhist invocation: ""To Him the Way,--the Law,--Apart-- Whom Maya held beneath her heart, Ananda's Lord--the Bodhisat.""",0.2023,0.101,0.079,0.82,positive,Kim
+"""And He is here!",0.0,0.0,0.0,1.0,neutral,Kim
+The Most Excellent Law is here also.,0.6115,0.4,0.0,0.6,positive,Kim
+My pilgrimage is well begun.,0.2732,0.344,0.0,0.656,positive,Kim
+And what work!,0.0,0.0,0.0,1.0,neutral,Kim
+"What work!""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Yonder is the Sahib.""",0.0,0.0,0.0,1.0,neutral,Kim
+"said Kim, and dodged sideways among the cases of the arts and manufacturers wing.",0.0,0.0,0.0,1.0,neutral,Kim
+"A white-bearded Englishman was looking at the lama, who gravely turned and saluted him and after some fumbling drew forth a note-book and a scrap of paper.",-0.3612,0.0,0.098,0.902,negative,Kim
+"""Yes, that is my name,"" smiling at the clumsy, childish print.",0.2023,0.211,0.155,0.634,positive,Kim
+"""One of us who had made pilgrimage to the Holy Places--he is now Abbot of the Lung-Cho Monastery--gave it me,"" stammered the lama.",-0.2263,0.0,0.079,0.921,negative,Kim
+"""He spoke of these.""",0.0,0.0,0.0,1.0,neutral,Kim
+His lean hand moved tremulously round.,0.4939,0.39,0.0,0.61,positive,Kim
+"""Welcome, then, O lama from Tibet.",0.0,0.0,0.0,1.0,neutral,Kim
+"Here be the images, and I am here""--he glanced at the lama's face--""to gather knowledge.",0.0,0.0,0.0,1.0,neutral,Kim
+"Come to my office awhile.""",0.0,0.0,0.0,1.0,neutral,Kim
+The old man was trembling with excitement.,0.1779,0.299,0.234,0.467,positive,Kim
+The office was but a little wooden cubicle partitioned off from the sculpture-lined gallery.,0.0,0.0,0.0,1.0,neutral,Kim
+"Kim laid himself down, his ear against a crack in the heat-split cedar door, and, following his instinct, stretched out to listen and watch.",0.0,0.0,0.0,1.0,neutral,Kim
+Most of the talk was altogether above his head.,0.0,0.0,0.0,1.0,neutral,Kim
+"The lama, haltingly at first, spoke to the Curator of his own lamassery, the Such-zen, opposite the Painted Rocks, four months' march away.",0.0,0.0,0.0,1.0,neutral,Kim
+"The Curator brought out a huge book of photos and showed him that very place, perched on its crag, overlooking the gigantic valley of many-hued strata.",0.3182,0.087,0.0,0.913,positive,Kim
+"""Ay, ay!""",0.0,0.0,0.0,1.0,neutral,Kim
+The lama mounted a pair of horn-rimmed spectacles of Chinese work.,0.0,0.0,0.0,1.0,neutral,Kim
+"""Here is the little door through which we bring wood before winter.",0.0,0.0,0.0,1.0,neutral,Kim
+And thou--the English know of these things?,0.0,0.0,0.0,1.0,neutral,Kim
+"He who is now Abbot of Lung-Cho told me, but I did not believe.",0.0,0.0,0.0,1.0,neutral,Kim
+The Lord--the Excellent One--He has honour here too?,0.8126,0.552,0.0,0.448,positive,Kim
+"And His life is known?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""It is all carven upon the stones.",0.0,0.0,0.0,1.0,neutral,Kim
+"Come and see, if thou art rested.""",0.0,0.0,0.0,1.0,neutral,Kim
+"Out shuffled the lama to the main hall, and, the Curator beside him, went through the collection with the reverence of a devotee and the appreciative instinct of a craftsman.",0.7351,0.193,0.0,0.807,positive,Kim
+"Incident by incident in the beautiful story he identified on the blurred stone, puzzled here and there by the unfamiliar Greek convention, but delighted as a child at each new trove.",0.7615,0.196,0.038,0.766,positive,Kim
+"Where the sequence failed, as in the Annunciation, the Curator supplied it from his mound of books--French and German, with photographs and reproductions.",-0.5106,0.0,0.13,0.87,negative,Kim
+"Here was the devout Asita, the pendant of Simeon in the Christian story, holding the Holy Child on his knee while mother and father listened; and here were incidents in the legend of the cousin Devadatta.",0.0,0.0,0.0,1.0,neutral,Kim
+"Here was the wicked woman who accused the Master of impurity, all confounded; here was the teaching in the Deer-park; the miracle that stunned the fire-worshippers; here was the Bodhisat in royal state as a prince; the miraculous birth; the death at Kusinagara, where the weak disciple fainted; while there were almost countless repetitions of the meditation under the Bodhi tree; and the adoration of the alms-bowl was everywhere.",-0.6249,0.093,0.167,0.739,negative,Kim
+"In a few minutes the Curator saw that his guest was no mere bead-telling mendicant, but a scholar of parts.",-0.1531,0.0,0.086,0.914,negative,Kim
+"And they went at it all over again, the lama taking snuff, wiping his spectacles, and talking at railway speed in a bewildering mixture of Urdu and Tibetan.",0.0,0.0,0.0,1.0,neutral,Kim
+"He had heard of the travels of the Chinese pilgrims, Fu-Hiouen and Hwen-Tsiang, and was anxious to know if there was any translation of their record.",-0.25,0.0,0.074,0.926,negative,Kim
+He drew in his breath as he turned helplessly over the pages of Beal and Stanislas Julien.,-0.34,0.0,0.13,0.87,negative,Kim
+"""'Tis all here.",0.0,0.0,0.0,1.0,neutral,Kim
+"A treasure locked.""",0.296,0.688,0.0,0.312,positive,Kim
+Then he composed himself reverently to listen to fragments hastily rendered into Urdu.,0.0,0.0,0.0,1.0,neutral,Kim
+"For the first time he heard of the labours of European scholars, who by the help of these and a hundred other documents have identified the Holy Places of Buddhism.",0.4019,0.088,0.0,0.912,positive,Kim
+"Then he was shown a mighty map, spotted and traced with yellow.",0.0,0.0,0.0,1.0,neutral,Kim
+The brown finger followed the Curator's pencil from point to point.,0.0,0.0,0.0,1.0,neutral,Kim
+"Here was Kapilavastu, here the Middle Kingdom, and here Mahabodhi, the Mecca of Buddhism; and here was Kusinagara, sad place of the Holy One's death.",-0.7906,0.0,0.233,0.767,negative,Kim
+"The old man bowed his head over the sheets in silence for a while, and the Curator lit another pipe.",0.0,0.0,0.0,1.0,neutral,Kim
+Kim had fallen asleep.,-0.3612,0.0,0.455,0.545,negative,Kim
+"When he waked, the talk, still in spate, was more within his comprehension.",0.0,0.0,0.0,1.0,neutral,Kim
+"""And thus it was, O Fountain of Wisdom, that I decided to go to the Holy Places which His foot had trod--to the Birthplace, even to Kapila; then to Mahabodhi, which is Buddh Gaya--to the Monastery--to the Deer-park--to the place of His death.""",0.5267,0.078,0.0,0.922,positive,Kim
+The lama lowered his voice.,-0.128,0.0,0.273,0.727,negative,Kim
+"""And I come here alone.",-0.25,0.0,0.4,0.6,negative,Kim
+"For five--seven--eighteen--forty years it was in my mind that the Old Law was not well followed; being overlaid, as thou knowest, with devildom, charms, and idolatry.",0.27,0.101,0.063,0.836,positive,Kim
+Even as the child outside said but now.,0.0,0.0,0.0,1.0,neutral,Kim
+"Ay, even as the child said, with būt-parasti .""",0.0,0.0,0.0,1.0,neutral,Kim
+"""So it comes with all faiths.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Thinkest thou?",0.0,0.0,0.0,1.0,neutral,Kim
+"The books of my lamassery I read, and they were dried pith; and the later ritual with which we of the Reformed Law have cumbered ourselves--that, too, had no worth to these old eyes.",-0.0772,0.054,0.063,0.883,negative,Kim
+Even the followers of the Excellent One are at feud on feud with one another.,-0.0258,0.18,0.234,0.585,neutral,Kim
+It is all illusion.,0.0,0.0,0.0,1.0,neutral,Kim
+"Ay, maya , illusion.",0.0,0.0,0.0,1.0,neutral,Kim
+"But I have another desire""--the seamed yellow face drew within three inches of the Curator, and the long forefinger-nail tapped on the table.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Your scholars, by these books, have followed the Blessed Feet in all their wanderings; but there are things which they have not sought out.",0.3506,0.096,0.0,0.904,positive,Kim
+"I know nothing--nothing do I know--but I go to free myself from the Wheel of Things by a broad and open road.""",0.5106,0.163,0.0,0.837,positive,Kim
+He smiled with most simple triumph.,0.7832,0.632,0.0,0.368,positive,Kim
+"""As a pilgrim to the Holy Places I acquire merit.",0.4215,0.286,0.0,0.714,positive,Kim
+But there is more.,0.0,0.0,0.0,1.0,neutral,Kim
+Listen to a true thing.,0.4215,0.483,0.0,0.517,positive,Kim
+"When our gracious Lord, being as yet a youth, sought a mate, men said, in His father's Court, that He was too tender for marriage.",0.5574,0.141,0.0,0.859,positive,Kim
+"Thou knowest?""",0.0,0.0,0.0,1.0,neutral,Kim
+"The Curator nodded, wondering what would come next.",0.0,0.0,0.0,1.0,neutral,Kim
+"""So they made the triple trial of strength against all comers.",0.4939,0.242,0.0,0.758,positive,Kim
+"And at the test of the Bow, our Lord first breaking that which they gave Him, called for such a bow as none might bend.",0.0,0.0,0.0,1.0,neutral,Kim
+"Thou knowest?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""It is written.",0.0,0.0,0.0,1.0,neutral,Kim
+"I have read.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""And, overshooting all other marks, the arrow passed far and far beyond sight.",0.0,0.0,0.0,1.0,neutral,Kim
+"At the last it fell; and, where it touched earth, there broke out a stream which presently became a River, whose nature, by our Lord's beneficence, and that merit He acquired ere He freed himself, is that whoso bathes in it washes away all taint and speckle of sin.""",0.7579,0.169,0.051,0.78,positive,Kim
+"""So it is written,"" said the Curator sadly.",-0.4215,0.0,0.286,0.714,negative,Kim
+The lama drew a long breath.,0.0,0.0,0.0,1.0,neutral,Kim
+"""Where is that River?",0.0,0.0,0.0,1.0,neutral,Kim
+"Fountain of Wisdom, where fell the arrow?""",0.5267,0.362,0.0,0.638,positive,Kim
+"""Alas, my brother, I do not know,"" said the Curator.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Nay, if it please thee to forget--the one thing only that thou hast not told me.",0.3182,0.133,0.0,0.867,positive,Kim
+Surely thou must know?,0.4404,0.492,0.0,0.508,positive,Kim
+"See, I am an old man!",0.0,0.0,0.0,1.0,neutral,Kim
+"I ask with my head between thy feet, O Fountain of Wisdom.",0.5267,0.274,0.0,0.726,positive,Kim
+We know He drew the bow!,0.0,0.0,0.0,1.0,neutral,Kim
+We know the arrow fell!,0.0,0.0,0.0,1.0,neutral,Kim
+We know the stream gushed!,0.0,0.0,0.0,1.0,neutral,Kim
+"Where, then, is the River?",0.0,0.0,0.0,1.0,neutral,Kim
+My dream told me to find it.,0.25,0.25,0.0,0.75,positive,Kim
+So I came.,0.0,0.0,0.0,1.0,neutral,Kim
+I am here.,0.0,0.0,0.0,1.0,neutral,Kim
+"But where is the River?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""If I knew, think you I would not cry it aloud?""",0.3724,0.242,0.0,0.758,positive,Kim
+"""By it one attains freedom from the Wheel of Things,"" the lama went on, unheeding.",0.6369,0.231,0.0,0.769,positive,Kim
+"""The River of the Arrow!",0.0,0.0,0.0,1.0,neutral,Kim
+Think again!,0.0,0.0,0.0,1.0,neutral,Kim
+"Some little stream, maybe--dried in the heats?",0.0,0.0,0.0,1.0,neutral,Kim
+"But the Holy One would never so cheat an old man.""",-0.8573,0.0,0.427,0.573,negative,Kim
+"""I do not know.",0.0,0.0,0.0,1.0,neutral,Kim
+"I do not know.""",0.0,0.0,0.0,1.0,neutral,Kim
+The lama brought his thousand-wrinkled face once more a handsbreadth from the Englishman's.,0.0,0.0,0.0,1.0,neutral,Kim
+"""I see thou dost not know.",0.0,0.0,0.0,1.0,neutral,Kim
+"Not being of the Law, the matter is hid from thee.""",-0.0772,0.096,0.122,0.783,negative,Kim
+"""Ay--hidden--hidden.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""We are both bound, thou and I, my brother.",0.0,0.0,0.0,1.0,neutral,Kim
+"But I""--he rose with a sweep of the soft thick drapery--""I go to cut myself free.",0.4215,0.221,0.132,0.647,positive,Kim
+"Come also!""",0.0,0.0,0.0,1.0,neutral,Kim
+"""I am bound,"" said the Curator.",0.0,0.0,0.0,1.0,neutral,Kim
+"""But whither goest thou?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""First to Kashi [Benares]: where else?",0.0,0.0,0.0,1.0,neutral,Kim
+There I shall meet one of the pure faith in a Jain temple of that city.,0.4215,0.177,0.0,0.823,positive,Kim
+"He also is a Seeker in secret, and from him haply I may learn.",0.0,0.0,0.0,1.0,neutral,Kim
+Maybe he will go with me to Buddh Gaya.,0.0,0.0,0.0,1.0,neutral,Kim
+"Thence north and west to Kapilavastu, and there will I seek for the River.",0.0,0.0,0.0,1.0,neutral,Kim
+"Nay, I will seek everywhere as I go--for the place is not known where the arrow fell.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""And how wilt thou go?",0.0,0.0,0.0,1.0,neutral,Kim
+"It is a far cry to Delhi, and farther to Benares.""",-0.4767,0.0,0.256,0.744,negative,Kim
+"""By road and the trains.",0.0,0.0,0.0,1.0,neutral,Kim
+"From Pathânkot, having left the Hills, I came hither in a te-rain .",0.0,0.0,0.0,1.0,neutral,Kim
+It goes swiftly.,0.296,0.524,0.0,0.476,positive,Kim
+"At first I was amazed to see those tall poles by the side of the road snatching up and snatching up their threads,""--he illustrated the stoop and whirl of a telegraph-pole flashing past the train.",0.4939,0.091,0.0,0.909,positive,Kim
+"""But later, I was cramped and desired to walk, as I am used.""",0.3919,0.209,0.0,0.791,positive,Kim
+"""And thou art sure of thy road?""",0.3182,0.277,0.0,0.723,positive,Kim
+said the Curator.,0.0,0.0,0.0,1.0,neutral,Kim
+"""Oh, for that one but asks a question and pays money, and the appointed persons despatch all to the appointed place.",0.0,0.0,0.0,1.0,neutral,Kim
+"That much I knew in my lamassery from sure report,"" said the lama proudly.",0.7096,0.349,0.0,0.651,positive,Kim
+"""And when dost thou go?""",0.0,0.0,0.0,1.0,neutral,Kim
+The Curator smiled at the mixture of old-world piety and modern progress that is the note of India today.,0.743,0.27,0.0,0.73,positive,Kim
+"""As soon as may be.",0.0,0.0,0.0,1.0,neutral,Kim
+I follow the places of His life till I come to the River of the Arrow.,0.0,0.0,0.0,1.0,neutral,Kim
+"There is, moreover, a written paper of the hours of the trains that go south.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""And for food?""",0.0,0.0,0.0,1.0,neutral,Kim
+"Lamas, as a rule, have good store of money somewhere about them, but the Curator wished to make sure.",0.5994,0.234,0.0,0.766,positive,Kim
+"""For the journey, I take up the Master's begging-bowl.",0.0,0.0,0.0,1.0,neutral,Kim
+Yes.,0.4019,1.0,0.0,0.0,positive,Kim
+"Even as He went so go I, forsaking the ease of my monastery.",0.3612,0.172,0.0,0.828,positive,Kim
+"There was with me when I left the hills a chela (disciple) who begged for me as the Rule demands, but halting in Kulu awhile a fever took him and he died.",-0.7096,0.0,0.149,0.851,negative,Kim
+"I have now no chela , but I will take the alms-bowl and thus enable the charitable to acquire merit.""",0.4497,0.176,0.079,0.744,positive,Kim
+He nodded his head valiantly.,0.0,0.0,0.0,1.0,neutral,Kim
+"Learned doctors of a lamassery do not beg, but the lama was an enthusiast in this quest.",0.5023,0.178,0.0,0.822,positive,Kim
+"""Be it so,"" said the Curator, smiling.",0.4588,0.333,0.0,0.667,positive,Kim
+"""Suffer me now to acquire merit.",-0.1779,0.272,0.34,0.388,negative,Kim
+"We be craftsmen together, thou and I.",0.0,0.0,0.0,1.0,neutral,Kim
+"Here is a new book of white English paper: here be sharpened pencils two and three--thick and thin, all good for a scribe.",0.4404,0.127,0.0,0.873,positive,Kim
+"Now lend me thy spectacles.""",0.0,0.0,0.0,1.0,neutral,Kim
+The Curator looked through them.,0.0,0.0,0.0,1.0,neutral,Kim
+"They were heavily scratched, but the power was almost exactly that of his own pair, which he slid into the lama's hand, saying: ""Try these.""",0.6486,0.152,0.0,0.848,positive,Kim
+"""A feather!",0.0,0.0,0.0,1.0,neutral,Kim
+"A very feather upon the face.""",0.0,0.0,0.0,1.0,neutral,Kim
+The old man turned his head delightedly and wrinkled up his nose.,0.5267,0.236,0.0,0.764,positive,Kim
+"""How scarcely do I feel them!",0.0,0.0,0.0,1.0,neutral,Kim
+"How clearly do I see!""",0.4574,0.499,0.0,0.501,positive,Kim
+"""They be bilaur --crystal--and will never scratch.",0.0,0.0,0.0,1.0,neutral,Kim
+"May they help thee to thy River, for they are thine.""",0.4019,0.213,0.0,0.787,positive,Kim
+"""I will take them and the pencils and the white note-book,"" said the lama, ""as a sign of friendship between priest and priest--and now--"" He fumbled at his belt, detached the open-work iron pincers, and laid it on the Curator's table.",0.34,0.068,0.035,0.896,positive,Kim
+"""That is for a memory between thee and me--my pencase.",0.0,0.0,0.0,1.0,neutral,Kim
+"It is something old--even as I am.""",0.0,0.0,0.0,1.0,neutral,Kim
+"It was a piece of ancient design, Chinese, of an iron that is not smelted these days; and the collector's heart in the Curator's bosom had gone out to it from the first.",0.0,0.0,0.0,1.0,neutral,Kim
+For no persuasion would the lama resume his gift.,0.1779,0.24,0.182,0.579,positive,Kim
+"""When I return, having found the River, I will bring thee a written picture of the Padma Samthora such as I used to make on silk at the lamassery.",0.0,0.0,0.0,1.0,neutral,Kim
+"Yes--and of the Wheel of Life,"" he chuckled, ""for we be craftsmen together, thou and I.""",0.296,0.128,0.0,0.872,positive,Kim
+"The Curator would have detained him: they are few in the world who still have the secret of the conventional brush-pen Buddhist pictures which are, as it were, half written and half drawn.",-0.4019,0.0,0.078,0.922,negative,Kim
+"But the lama strode out, head high in air, and pausing an instant before the great statue of a Bodhisat in meditation, brushed through the turnstiles.",0.7684,0.191,0.0,0.809,positive,Kim
+Kim followed like a shadow.,0.3612,0.455,0.0,0.545,positive,Kim
+What he had overheard excited him wildly.,0.34,0.286,0.0,0.714,positive,Kim
+"This man was entirely new to all his experience, and he meant to investigate further, precisely as he would have investigated a new building or a strange festival in Lahore city.",0.34,0.1,0.056,0.844,positive,Kim
+"The lama was his trove, and he purposed to take possession.",0.0,0.0,0.0,1.0,neutral,Kim
+"Kim's mother had been Irish, too.",0.0,0.0,0.0,1.0,neutral,Kim
+The old man halted by Zam-Zammah and looked round till his eye fell on Kim.,0.0,0.0,0.0,1.0,neutral,Kim
+"The inspiration of his pilgrimage had left him for awhile, and he felt old, forlorn, and very empty.",0.3197,0.158,0.097,0.744,positive,Kim
+"""Do not sit under that gun,"" said the policeman loftily.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Huh!",0.0,0.0,0.0,1.0,neutral,Kim
+"Owl!""",0.0,0.0,0.0,1.0,neutral,Kim
+was Kim's retort on the lama's behalf.,0.0,0.0,0.0,1.0,neutral,Kim
+"""Sit under that gun if it please thee.",-0.0258,0.215,0.224,0.561,neutral,Kim
+"When didst thou steal the milkwoman's slippers, Dunnoo?""",-0.4939,0.0,0.314,0.686,negative,Kim
+"That was an utterly unfounded charge sprung on the spur of the moment, but it silenced Dunnoo, who knew that Kim's clear yell could call up legions of bad bazaar boys if need arose.",-0.3291,0.085,0.118,0.797,negative,Kim
+"""And whom didst thou worship within?""",0.296,0.306,0.0,0.694,positive,Kim
+"said Kim affably, squatting in the shade beside the lama.",0.0,0.0,0.0,1.0,neutral,Kim
+"""I worshipped none, child.",0.5719,0.552,0.0,0.448,positive,Kim
+"I bowed before the Excellent Law.""",0.5719,0.481,0.0,0.519,positive,Kim
+Kim accepted this new God without emotion.,0.4939,0.457,0.0,0.543,positive,Kim
+He knew already a few score.,0.0,0.0,0.0,1.0,neutral,Kim
+"""And what dost thou do?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""I beg.",0.0,0.0,0.0,1.0,neutral,Kim
+I remember now it is long since I have eaten or drunk.,-0.34,0.0,0.211,0.789,negative,Kim
+What is the custom of charity in this town?,0.4215,0.259,0.0,0.741,positive,Kim
+"In silence, as we do of Tibet, or speaking aloud?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Those who beg in silence starve in silence,"" said Kim, quoting a native proverb.",-0.4404,0.0,0.195,0.805,negative,Kim
+"The lama tried to rise, but sank back again, sighing for his disciple, dead in far-away Kulu.",-0.7876,0.0,0.271,0.729,negative,Kim
+"Kim watched head to one side, considering and interested.",0.4019,0.252,0.0,0.748,positive,Kim
+"""Give me the bowl.",0.0,0.0,0.0,1.0,neutral,Kim
+I know the people of this city--all who are charitable.,0.4019,0.252,0.0,0.748,positive,Kim
+"Give, and I will bring it back filled.""",0.0,0.0,0.0,1.0,neutral,Kim
+Simply as a child the old man handed him the bowl.,0.0,0.0,0.0,1.0,neutral,Kim
+"""Rest, thou.",0.0,0.0,0.0,1.0,neutral,Kim
+"I know the people.""",0.0,0.0,0.0,1.0,neutral,Kim
+"He trotted off to the open shop of a kunjri , a low-caste vegetable-seller, which lay opposite the belt-tramway line down the Motee Bazar.",0.0,0.0,0.0,1.0,neutral,Kim
+She knew Kim of old.,0.0,0.0,0.0,1.0,neutral,Kim
+"""Oho, hast thou turned yogi with thy begging-bowl?""",0.0,0.0,0.0,1.0,neutral,Kim
+she cried.,-0.3818,0.0,0.722,0.278,negative,Kim
+"""Nay.""",0.0,0.0,0.0,1.0,neutral,Kim
+said Kim proudly.,0.5574,0.643,0.0,0.357,positive,Kim
+"""There is a new priest in the city--a man such as I have never seen.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Old priest--young tiger,"" said the woman angrily.",-0.4215,0.0,0.318,0.682,negative,Kim
+"""I am tired of new priests!",-0.4926,0.0,0.39,0.61,negative,Kim
+They settle on our wares like flies.,0.3612,0.294,0.0,0.706,positive,Kim
+"Is the father of my son a well of charity to give to all who ask?""",0.5994,0.274,0.0,0.726,positive,Kim
+"""No,"" said Kim.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Thy man is rather yagi (bad-tempered) than yogi (a holy man).",0.0,0.0,0.0,1.0,neutral,Kim
+But this priest is new.,0.0,0.0,0.0,1.0,neutral,Kim
+The Sahib in the Wonder House has talked to him like a brother.,0.3612,0.185,0.0,0.815,positive,Kim
+"O my mother, fill me this bowl.",0.0,0.0,0.0,1.0,neutral,Kim
+"He waits.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""That bowl indeed!",0.0,0.0,0.0,1.0,neutral,Kim
+That cow-bellied basket!,0.0,0.0,0.0,1.0,neutral,Kim
+Thou hast as much grace as the holy bull of Shiv.,0.4215,0.219,0.0,0.781,positive,Kim
+"He has taken the best of a basket of onions already, this morn; and forsooth, I must fill thy bowl.",0.6369,0.198,0.0,0.802,positive,Kim
+"He comes here again.""",0.0,0.0,0.0,1.0,neutral,Kim
+"The huge, mouse-coloured Brahmini bull of the ward was shouldering his way through the many-coloured crowd, a stolen plantain hanging out of his mouth.",-0.2263,0.087,0.121,0.792,negative,Kim
+"He headed straight for the shop, well knowing his privileges as a sacred beast, lowered his head, and puffed heavily along the line of baskets ere making his choice.",0.6249,0.206,0.047,0.748,positive,Kim
+Up flew Kim's hard little heel and caught him on his moist blue nose.,-0.1027,0.0,0.097,0.903,negative,Kim
+"He snorted indignantly, and walked away across the tram-rails, his hump quivering with rage.",-0.5574,0.0,0.217,0.783,negative,Kim
+"""See!",0.0,0.0,0.0,1.0,neutral,Kim
+I have saved more than the bowl will cost thrice over.,0.4215,0.237,0.0,0.763,positive,Kim
+"Now, mother, a little rice and some dried fish atop--yes, and some vegetable curry.""",0.0,0.0,0.0,1.0,neutral,Kim
+"A growl came out of the back of the shop, where a man lay.",0.0,0.0,0.0,1.0,neutral,Kim
+"""He drove away the bull,"" said the woman in an undertone.",0.0,0.0,0.0,1.0,neutral,Kim
+"""It is good to give to the poor.""",0.4404,0.293,0.0,0.707,positive,Kim
+She took the bowl and returned it full of hot rice.,0.0,0.0,0.0,1.0,neutral,Kim
+"""But my yogi is not a cow,"" said Kim gravely, making a hole with his fingers in the top of the mound.",-0.2617,0.094,0.139,0.768,negative,Kim
+"""A little curry is good, and a fried cake, and a morsel of conserve would please him, I think.""",0.6041,0.261,0.0,0.739,positive,Kim
+"""It is a hole as big as thy head,"" said the woman fretfully.",0.0,0.0,0.0,1.0,neutral,Kim
+"But she filled it, none the less, with good, steaming vegetable curry, clapped a fried cake atop, and a morsel of clarified butter on the cake, dabbed a lump of sour tamarind conserve at the side; and Kim looked at the load lovingly.",0.8816,0.195,0.0,0.805,positive,Kim
+"""That is good.",0.4404,0.592,0.0,0.408,positive,Kim
+When I am in the bazar the bull shall not come to this house.,0.0,0.0,0.0,1.0,neutral,Kim
+"He is a bold beggar-man.""",0.3818,0.464,0.0,0.536,positive,Kim
+"""And thou?""",0.0,0.0,0.0,1.0,neutral,Kim
+laughed the woman.,0.4588,0.6,0.0,0.4,positive,Kim
+"""But speak well of bulls.",0.3919,0.398,0.0,0.602,positive,Kim
+Hast thou not told me that some day a Red Bull will come out of a field to help thee?,0.4019,0.137,0.0,0.863,positive,Kim
+Now hold all straight and ask for the holy man's blessing upon me.,0.6249,0.317,0.0,0.683,positive,Kim
+"Perhaps, too, he knows a cure for my daughter's sore eyes.",-0.3612,0.0,0.217,0.783,negative,Kim
+Ask.,0.0,0.0,0.0,1.0,neutral,Kim
+"him that also, O thou Little Friend of all the World.""",0.4417,0.244,0.0,0.756,positive,Kim
+"But Kim had danced off ere the end of the sentence, dodging pariah dogs and hungry acquaintances.",-0.0387,0.08,0.089,0.831,neutral,Kim
+"""Thus do we beg who know the way of it,"" said he proudly to the lama, who opened his eyes at the contents of the bowl.",0.5574,0.126,0.0,0.874,positive,Kim
+"""Eat now and--I will eat with thee.",0.0,0.0,0.0,1.0,neutral,Kim
+"Ohé bhistie! """,0.0,0.0,0.0,1.0,neutral,Kim
+"he called to the water-carrier, sluicing the crotons by the Museum.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Give water here.",0.0,0.0,0.0,1.0,neutral,Kim
+"We men are thirsty.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""We men!""",0.0,0.0,0.0,1.0,neutral,Kim
+"said the bhistie , laughing.",0.4939,0.516,0.0,0.484,positive,Kim
+"""Is one skinful enough for such a pair?",0.0,0.0,0.0,1.0,neutral,Kim
+"Drink, then, in the name of the Compassionate.""",0.0,0.0,0.0,1.0,neutral,Kim
+"He loosed a thin stream into Kim's hands, who drank native fashion; but the lama must needs pull out a cup from his inexhaustible upper draperies and drink ceremonially. """,0.0,0.0,0.0,1.0,neutral,Kim
+"Pardesi (a foreigner),"" Kim explained, as the old man delivered in an unknown tongue what was evidently a blessing.",0.4939,0.158,0.0,0.842,positive,Kim
+"They ate together in great content, clearing the beggingbowl.",0.6249,0.339,0.0,0.661,positive,Kim
+"Then the lama took snuff from a portentous wooden snuff-gourd, fingered his rosary awhile, and so dropped into the easy sleep of age, as the shadow of Zam-Zammah grew long.",0.4404,0.094,0.0,0.906,positive,Kim
+"Kim loafed over to the nearest tobacco-seller, a rather lively young Mohammedan woman, and begged a rank cigar of the brand that they sell to students of the Punjab University who copy English customs.",0.4404,0.086,0.0,0.914,positive,Kim
+"Then he smoked and thought, knees to chin, under the belly of the gun, and the outcome of his thoughts was a sudden and stealthy departure in the direction of Nila Ram's timber-yard.",-0.3612,0.0,0.104,0.896,negative,Kim
+The lama did not wake till the evening life of the city had begun with lamp-lighting and the return of white-robed clerks and subordinates from the Government offices.,0.0,0.0,0.0,1.0,neutral,Kim
+"He stared dizzily in all directions, but none looked at him save a Hindu urchin in a dirty turban and Isabella-coloured clothes.",0.1154,0.164,0.147,0.688,positive,Kim
+Suddenly he bowed his head on his knees and wailed.,0.0,0.0,0.0,1.0,neutral,Kim
+"""What is this?""",0.0,0.0,0.0,1.0,neutral,Kim
+"said the boy, standing before him.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Hast thou been robbed?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""It is my new chela (disciple) that is gone away from me, and I know not where he is.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""And what like of man was thy disciple?""",0.3612,0.263,0.0,0.737,positive,Kim
+"""It was a boy who came to me in place of him who died, on account of the merit which I had gained when I bowed before the Law within there.""",0.2023,0.159,0.106,0.735,positive,Kim
+He pointed towards the Museum.,0.0,0.0,0.0,1.0,neutral,Kim
+"""He came upon me to show me a road which I had lost.",-0.3182,0.0,0.187,0.813,negative,Kim
+"He led me into the Wonder House, and by his talk emboldened me to speak to the Keeper of the Images, so that I was cheered and made strong.",0.7823,0.209,0.0,0.791,positive,Kim
+"And when I was faint with hunger he begged for me, as would a chela for his teacher.",-0.25,0.0,0.118,0.882,negative,Kim
+Suddenly was he sent.,0.0,0.0,0.0,1.0,neutral,Kim
+Suddenly has he gone away.,0.0,0.0,0.0,1.0,neutral,Kim
+"It was in my mind to have taught him the Law upon the road to Benares.""",0.0,0.0,0.0,1.0,neutral,Kim
+"Kim stood amazed at this, because he had overheard the talk in the Museum, and knew that the old man was speaking the truth, which is a thing a native on the road seldom presents to a stranger.",0.6705,0.143,0.0,0.857,positive,Kim
+"""But I see now that he was but sent for a purpose.",0.0,0.0,0.0,1.0,neutral,Kim
+"By this I know that I shall find a certain River for which I seek.""",0.2732,0.174,0.0,0.826,positive,Kim
+"""The River of the Arrow?""",0.0,0.0,0.0,1.0,neutral,Kim
+"said Kim, with a superior smile.",0.7184,0.667,0.0,0.333,positive,Kim
+"""Is this yet another Sending?""",0.0,0.0,0.0,1.0,neutral,Kim
+cried the lama.,-0.3818,0.0,0.565,0.435,negative,Kim
+"""To none have I spoken of my search, save to the Priest of the Images.",0.4939,0.198,0.0,0.802,positive,Kim
+"Who art thou?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Thy chela ,"" said Kim simply, sitting on his heels.",0.0,0.0,0.0,1.0,neutral,Kim
+"""I have never seen anyone like to thee in all this my life.",-0.2755,0.0,0.15,0.85,negative,Kim
+I go with thee to Benares.,0.0,0.0,0.0,1.0,neutral,Kim
+"And, too, I think that so old a man as thou, speaking the truth to chance-met people at dusk, is in great need of a disciple.""",0.7506,0.234,0.0,0.766,positive,Kim
+"""But the River--the River of the Arrow?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Oh, that I heard when thou wast speaking to the Englishman.",0.0,0.0,0.0,1.0,neutral,Kim
+"I lay against the door.""",0.0,0.0,0.0,1.0,neutral,Kim
+The lama sighed.,0.0,0.0,0.0,1.0,neutral,Kim
+"""I thought thou hadst been a guide permitted.",0.0,0.0,0.0,1.0,neutral,Kim
+Such things fall sometimes--but I am not worthy.,-0.3412,0.0,0.286,0.714,negative,Kim
+"Thou dost not, then, know the River?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Not I,"" Kim laughed uneasily.",-0.5967,0.0,0.619,0.381,negative,Kim
+"""I go to look for--for a bull--a Red.",0.0,0.0,0.0,1.0,neutral,Kim
+"Bull on a green field who shall help me.""",0.4019,0.278,0.0,0.722,positive,Kim
+"Boylike, if an acquaintance had a scheme, Kim was quite ready with one of his own; and, boylike, he had really thought for as much as twenty minutes at a time of his father's prophecy.",0.4201,0.08,0.0,0.92,positive,Kim
+"""To what, child?""",0.0,0.0,0.0,1.0,neutral,Kim
+said the lama.,0.0,0.0,0.0,1.0,neutral,Kim
+"""God knows, but so my father told me"".",0.1406,0.181,0.0,0.819,positive,Kim
+"I heard thy talk in the Wonder House of all those new strange places in the Hills, and if one so old and so little--so used to truth-telling--may go out for the small matter of a river, it seemed to me that I too must go a-travelling.",-0.1779,0.024,0.04,0.935,negative,Kim
+"If it is our fate to find those things we shall find them--thou, thy River; and I, my Bull, and the Strong Pillars and some other matters that I forget.""",0.5267,0.14,0.0,0.86,positive,Kim
+"""It is not pillars but a Wheel from which I would be free,"" said the lama.",0.0,0.0,0.0,1.0,neutral,Kim
+"""That is all one.",0.0,0.0,0.0,1.0,neutral,Kim
+"Perhaps they will make me a king,"" said Kim, serenely prepared for anything.",0.2263,0.147,0.0,0.853,positive,Kim
+"""I will teach thee other and better desires upon the road,"" the lama replied in the voice of authority.",0.4939,0.198,0.0,0.802,positive,Kim
+"""Let us go to Benares.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Not by night.",0.0,0.0,0.0,1.0,neutral,Kim
+Thieves are abroad.,-0.5106,0.0,0.623,0.377,negative,Kim
+"Wait till the day.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""But there is no place to sleep.""",-0.4215,0.0,0.318,0.682,negative,Kim
+"The old man was used to the order of his monastery, and though he slept on the ground, as the Rule decrees, preferred a decency in these things.",0.0,0.0,0.0,1.0,neutral,Kim
+"""We shall get good lodging at the Kashmir Serai,"" said Kim, laughing at his perplexity.",0.7269,0.319,0.0,0.681,positive,Kim
+"""I have a friend there.",0.4939,0.516,0.0,0.484,positive,Kim
+"Come!""",0.0,0.0,0.0,1.0,neutral,Kim
+"The hot and crowded bazars blazed with light as they made their way through the press of all the races in Upper India, and the lama mooned through it like a man in a dream.",0.5423,0.127,0.0,0.873,positive,Kim
+"It was his first experience of a large manufacturing city, and the crowded tram-car with its continually squealing brakes frightened him.",-0.4404,0.0,0.132,0.868,negative,Kim
+"Half pushed, half towed, he arrived at the high gate of the Kashmir Serai: that huge open square over against the railway station, surrounded with arched cloisters, where the camel and horse caravans put up on their return from Central Asia.",0.3182,0.054,0.0,0.946,positive,Kim
+"Here were all manner of Northern folk, tending tethered ponies and kneeling camels; loading and unloading bales and bundles; drawing water for the evening meal at the creaking well-windlasses; piling grass before the shrieking, wild-eyed stallions; cuffing the surly caravan dogs; paying off camel-drivers; taking on new grooms; swearing, shouting, arguing, and chaffering in the packed square.",-0.6124,0.0,0.083,0.917,negative,Kim
+"The cloisters, reached by three or four masonry steps, made a haven of refuge around this turbulent sea.",0.1027,0.08,0.0,0.92,positive,Kim
+"Most of them were rented to traders, as we rent the arches of a viaduct; the space between pillar and pillar being bricked or boarded off into rooms, which were guarded by heavy wooden doors and cumbrous native padlocks.",0.0,0.0,0.0,1.0,neutral,Kim
+"Locked doors showed that the owner was away, and a few rude--sometimes very rude--chalk or paint scratches told where he had gone.",0.0,0.0,0.0,1.0,neutral,Kim
+"Thus: ""Lutuf Ullah is gone to Kurdistan.""",0.0,0.0,0.0,1.0,neutral,Kim
+"Below, in coarse verse: ""O Allah, who sufferest lice to live on the coat of a Kabuli, why hast thou allowed this louse Lutuf to live so long?""",-0.4588,0.0,0.103,0.897,negative,Kim
+"Kim, fending the lama between excited men and excited beasts, sidled along the cloisters to the far end, nearest therailway station, where Mahbub Ali, the horse-trader, lived when he came in from that mysterious land beyond the Passes of the North.",0.5859,0.11,0.0,0.89,positive,Kim
+"Kim had had many dealings with Mahbub in his little life, especially between his tenth and his thirteenth year--and the big burly Afghan, his beard dyed scarlet with lime (for he was elderly and did not wish his grey hairs to show), knew the boy's value as a gossip.",-0.1793,0.047,0.099,0.854,negative,Kim
+Sometimes he would tell Kim to watch a man who had nothing whatever to do with horses: to follow him for one whole day and report every soul with whom he talked.,0.0,0.0,0.0,1.0,neutral,Kim
+"Kim would deliver himself of his tale at evening, and Mahbub would listen without a word or gesture.",0.0,0.0,0.0,1.0,neutral,Kim
+"It was intrigue of some kind, Kim knew; but its worth lay in saying nothing whatever to anyone except Mahbub, who gave him beautiful meals all hot from the cookshop at the head of the serai, and once as much as eight annas in money.",0.872,0.191,0.0,0.809,positive,Kim
+"""He is here,"" said Kim, hitting a bad-tempered camel on the nose.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Ohé, Mahbub Ali!""",0.0,0.0,0.0,1.0,neutral,Kim
+He halted at a dark arch and slipped behind the bewildered lama.,0.0,0.0,0.0,1.0,neutral,Kim
+"The horse-trader, his deep, embroidered Bokhariot belt unloosed, was lying on a pair of silk carpet saddle-bags, pulling lazily at an immense silver hookah.",-0.5267,0.0,0.134,0.866,negative,Kim
+"He turned his head very slightly at the cry; and seeing only the tall silent figure, chuckled in his deep chest.",-0.1621,0.092,0.118,0.79,negative,Kim
+"""Allah!",0.0,0.0,0.0,1.0,neutral,Kim
+A lama!,0.0,0.0,0.0,1.0,neutral,Kim
+A Red Lama!,0.0,0.0,0.0,1.0,neutral,Kim
+It is far from Lahore to the Passes.,0.0,0.0,0.0,1.0,neutral,Kim
+"What dost thou do here?""",0.0,0.0,0.0,1.0,neutral,Kim
+The lama held out the begging-bowl mechanically.,0.0,0.0,0.0,1.0,neutral,Kim
+"""God's curse on all unbelievers!""",-0.5848,0.0,0.487,0.513,negative,Kim
+said Mahbub.,0.0,0.0,0.0,1.0,neutral,Kim
+"""I do not give to a lousy Tibetan; but ask my Baltis over yonder behind the camels.",0.2323,0.114,0.0,0.886,positive,Kim
+They may value your blessings.,0.7096,0.663,0.0,0.337,positive,Kim
+"Oh, horseboys, here is a countryman of yours.",0.0,0.0,0.0,1.0,neutral,Kim
+"See if he be hungry.""",0.0,0.0,0.0,1.0,neutral,Kim
+"A shaven, crouching Balti, who had come down with the horses, and who was nominally some sort of degraded Buddhist, fawned upon the priest, and in thick gutturals besought the Holy One to sit at the horseboys' fire.",-0.6697,0.0,0.136,0.864,negative,Kim
+"""Go!""",0.0,0.0,0.0,1.0,neutral,Kim
+"said Kim, pushing him lightly, and the lama strode away, leaving Kim at the edge of the cloister.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Go!""",0.0,0.0,0.0,1.0,neutral,Kim
+"said Mahbub Ali, returning to his hookah.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Little Hindu, run away.",0.0,0.0,0.0,1.0,neutral,Kim
+God's curse on all unbelievers!,-0.5848,0.0,0.487,0.513,negative,Kim
+"Beg from those of my tail who are of thy faith.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Maharaj,"" whined Kim, using the Hindu form of address, and thoroughly enjoying the situation; ""my father is dead--my mother is dead--my stomach is empty.""",0.4201,0.134,0.069,0.797,positive,Kim
+"""Beg from my men among the horses, I say.",0.0,0.0,0.0,1.0,neutral,Kim
+"There must be some Hindus in my tail.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Oh, Mahbub Ali, but am I a Hindu?""",0.0,0.0,0.0,1.0,neutral,Kim
+said Kim in English.,0.0,0.0,0.0,1.0,neutral,Kim
+"The trader gave no sign of astonishment, but looked under shaggy eyebrows.",-0.1531,0.0,0.127,0.873,negative,Kim
+"""Little Friend of all the World,"" said he, ""what is this?""",0.4417,0.225,0.0,0.775,positive,Kim
+"""Nothing.",0.0,0.0,0.0,1.0,neutral,Kim
+"I am now that holy man's disciple; and we go a pilgrimage together--to Benares, he says.",0.0,0.0,0.0,1.0,neutral,Kim
+"He is quite mad, and I am tired of Lahore city.",-0.7501,0.0,0.444,0.556,negative,Kim
+"I wish new air and water.""",0.4019,0.403,0.0,0.597,positive,Kim
+"""But for whom dost thou work?",0.0,0.0,0.0,1.0,neutral,Kim
+"Why come to me?""",0.0,0.0,0.0,1.0,neutral,Kim
+The voice was harsh with suspicion.,-0.6705,0.0,0.579,0.421,negative,Kim
+"""To whom else should I come?",0.0,0.0,0.0,1.0,neutral,Kim
+I have no money.,-0.296,0.0,0.524,0.476,negative,Kim
+It is not good to go about without money.,-0.3412,0.0,0.231,0.769,negative,Kim
+Thou wilt sell many horses to the officers.,0.0,0.0,0.0,1.0,neutral,Kim
+"They are very fine horses, these new ones: I have seen them.",0.2716,0.173,0.0,0.827,positive,Kim
+"Give me a rupee, Mahbub Ali, and when I come to my wealth I will give thee a bond and pay.""",0.4939,0.167,0.0,0.833,positive,Kim
+"""Um!""",0.0,0.0,0.0,1.0,neutral,Kim
+"said Mahbub Ali, thinking swiftly.",0.296,0.355,0.0,0.645,positive,Kim
+"""Thou hast never before lied to me.",0.2924,0.267,0.0,0.733,positive,Kim
+"Call that lama--stand back in the dark.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Oh, our tales will agree,"" said Kim, laughing.",0.4939,0.314,0.0,0.686,positive,Kim
+"""We go to Benares,"" said the lama, as soon as he understood the drift of Mahbub Ali's questions.",0.0,0.0,0.0,1.0,neutral,Kim
+"""The boy and I, I go to seek for a certain River.""",0.2732,0.189,0.0,0.811,positive,Kim
+"""Maybe--but the boy?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""He is my disciple.",0.0,0.0,0.0,1.0,neutral,Kim
+"He was sent, I think, to guide me to that River.",0.0,0.0,0.0,1.0,neutral,Kim
+Sitting under a gun was I when he came suddenly.,-0.34,0.0,0.255,0.745,negative,Kim
+Such things have befallen the fortunate to whom guidance was allowed.,0.4404,0.225,0.0,0.775,positive,Kim
+"But I remember now, he said he was of this world--a Hindu.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""And his name?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""That I did not ask.",0.0,0.0,0.0,1.0,neutral,Kim
+"Is he not my disciple?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""His country--his race--his village?",0.0,0.0,0.0,1.0,neutral,Kim
+"Mussalman--Sikh Hindu--Jain--low caste or high?""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Why should I ask?",0.0,0.0,0.0,1.0,neutral,Kim
+There is neither high nor low in the Middle Way.,-0.1537,0.0,0.151,0.849,negative,Kim
+If he is my chela --does--will--can anyone take him from me?,0.0,0.0,0.0,1.0,neutral,Kim
+"for, look you, without him I shall not find my River.""",0.0,0.0,0.0,1.0,neutral,Kim
+He wagged his head solemnly.,0.2023,0.31,0.0,0.69,positive,Kim
+"""None shall take him from thee.",0.0,0.0,0.0,1.0,neutral,Kim
+"Go, sit among my Baltis,"" said Mahbub Ali, and the lama drifted off, soothed by the promise.",0.4215,0.202,0.0,0.798,positive,Kim
+"""Is he not quite mad?""",0.0,0.0,0.0,1.0,neutral,Kim
+"said Kim, coming forward to the light again.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Why should I lie to thee, Hajji?""",0.0,0.0,0.0,1.0,neutral,Kim
+Mahbub puffed his hookah in silence.,0.0,0.0,0.0,1.0,neutral,Kim
+"Then he began, almost whispering: ""Umballa is on the road to Benares--if indeed ye two go there.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Tck!",0.0,0.0,0.0,1.0,neutral,Kim
+Tck!,0.0,0.0,0.0,1.0,neutral,Kim
+"I tell thee he does not know how to lie--as we two know.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""And if thou wilt carry a message for me as far as Umballa, I will give thee money.",0.0,0.0,0.0,1.0,neutral,Kim
+It concerns a horse--a white stallion which I have sold to an officer upon the last time I returned from the Passes.,0.0,0.0,0.0,1.0,neutral,Kim
+"But then--stand nearer and hold up hands as begging--the pedigree of the white stallion was not fully established, and that officer, who is now at Umballa, bade me make it clear.""",0.0,0.0,0.0,1.0,neutral,Kim
+(Mahbub here described the horse and the appearance of the officer.),0.0,0.0,0.0,1.0,neutral,Kim
+"""So the message to that officer will be: 'The pedigree of the white stallion is fully established.'",0.0,0.0,0.0,1.0,neutral,Kim
+By this will he know that thou comest from me.,0.0,0.0,0.0,1.0,neutral,Kim
+He will then say 'What proof hast thou?',0.0,0.0,0.0,1.0,neutral,Kim
+"and thou wilt answer: 'Mahbub Ali has given me the proof.'""",0.0,0.0,0.0,1.0,neutral,Kim
+"""And all for the sake of a white stallion,"" said Kim, with a giggle, his eyes aflame.",0.4215,0.167,0.0,0.833,positive,Kim
+"""That pedigree I will give thee now--in my own fashion and some hard words as well.""",-0.1027,0.0,0.091,0.909,negative,Kim
+"A shadow passed behind Kim, and a feeding camel.",0.0,0.0,0.0,1.0,neutral,Kim
+Mahbub Ali raised his voice.,0.0,0.0,0.0,1.0,neutral,Kim
+"""Allah!",0.0,0.0,0.0,1.0,neutral,Kim
+Art thou the only beggar in the city?,0.0,0.0,0.0,1.0,neutral,Kim
+Thy mother is dead.,-0.6486,0.0,0.589,0.411,negative,Kim
+Thy father is dead.,-0.6486,0.0,0.589,0.411,negative,Kim
+So is it with all of them.,0.0,0.0,0.0,1.0,neutral,Kim
+"Well, well--"" He turned as feeling on the floor beside him and tossed a flap of soft, greasy Mussalman bread to the boy.",0.3818,0.153,0.0,0.847,positive,Kim
+"""Go and lie down among my horseboys for tonight--thou and the lama.",0.0,0.0,0.0,1.0,neutral,Kim
+"Tomorrow I may give thee service.""",0.0,0.0,0.0,1.0,neutral,Kim
+"Kim slunk away, his teeth in the bread, and, as he expected, he found a small wad of folded tissue-paper wrapped in oilskin, with three silver rupees--enormous largesse.",0.0,0.0,0.0,1.0,neutral,Kim
+He smiled and thrust money and paper into his leather amulet-case.,0.5423,0.259,0.0,0.741,positive,Kim
+"The lama, sumptuously fed by Mahbub's Baltis, was already asleep in a corner of one of the stalls.",0.0,0.0,0.0,1.0,neutral,Kim
+Kim lay down beside him and laughed.,0.4588,0.333,0.0,0.667,positive,Kim
+"He knew he had rendered a service to Mahbub Ali, and not for one little minute did he believe the tale of the stallion's pedigree.",0.0,0.0,0.0,1.0,neutral,Kim
+"But Kim did not suspect that Mahbub Ali, known as one of the best horse-dealers in the Punjab, a wealthy and enterprising trader, whose caravans penetrated far and far into the Back of Beyond, was registered in one of the locked books of the Indian Survey Department as C25 IB.",0.9504,0.26,0.0,0.74,positive,Kim
+"Twice or thrice yearly C25 would send in a little story, baldly told but most interesting, and generally--it was checked by the statements of R17 and M4--quite true.",0.8266,0.235,0.0,0.765,positive,Kim
+"It concerned all manner of out-of-the-way mountain principalities, explorers of nationalities other than English, and the guntrade--was, in brief, a small portion of that vast mass of ""information received"" on which the Indian Government acts.",0.0,0.0,0.0,1.0,neutral,Kim
+"But, recently, five confederated Kings, who had no business to confederate, had been informed by a kindly Northern Power that there was a leakage of news from their territories into British India.",0.3612,0.123,0.08,0.798,positive,Kim
+"So those Kings' Prime Ministers were seriously annoyed and took steps, after the Oriental fashion.",-0.5106,0.0,0.249,0.751,negative,Kim
+"They suspected, among many others, the bullying, red-bearded horsedealer whose caravans ploughed through their fastnesses belly-deep in snow.",-0.7003,0.0,0.266,0.734,negative,Kim
+"At least, his caravan that season had been ambushed and shot at twice on the way down, when Mahbub's men accounted for three strange ruffians who might, or might not, have been hired for the job.",-0.2023,0.0,0.049,0.951,negative,Kim
+"Therefore Mahbub had avoided halting at the insalubrious city of Peshawur, and had come through without stop to Lahore, where, knowing his country-people, he anticipated curious developments.",0.1994,0.137,0.078,0.785,positive,Kim
+"And there was that on Mahbub Ali which he did not wish to keep an hour longer than was necessary--a wad of closely folded tissue-paper, wrapped in oilskin--an impersonal, unaddressed statement, with five microscopic pin-holes in one corner, that most scandalously betrayed the five confederated Kings, the sympathetic Northern Power, a Hindu banker in Peshawur, a firm of gun-makers in Belgium, and an important, semi-independent Mohammedan ruler to the south.",-0.577,0.066,0.115,0.819,negative,Kim
+"This last was R17's work, which Mahbub had picked up beyond the Dora Pass and was carrying in for R17, who, owing to circumstances over which he had no control, could not leave his post of observation.",-0.2621,0.03,0.057,0.913,negative,Kim
+"Dynamite was milky and innocuous beside that report of C25; and even an Oriental, with an Oriental's views of the value of time, could see that the sooner it was in the proper hands the better.",0.7184,0.175,0.0,0.825,positive,Kim
+"Mahbub had no particular desire to die by violence, because two or three family blood-feuds across the Border hung unfinished on his hands, and when these scores were cleared he intended to settle down as a more or less virtuous citizen.",-0.576,0.145,0.197,0.658,negative,Kim
+"He had never passed the serai gate since his arrival two days ago, but had been ostentatious in sending telegrams to Bombay, where he banked some of his money; to Delhi, where a sub-partner of his own clan was selling horses to the agent of a Rajputana state; and to Umballa, where an Englishman was excitedly demanding the pedigree of a white stallion.",0.4767,0.069,0.036,0.895,positive,Kim
+"The public letter-writer, who knew English, composed excellent telegrams, such as: "" Creighton, Laurel Bank, Umballa.",0.5719,0.209,0.0,0.791,positive,Kim
+Horse is Arabian as already advised.,0.0,0.0,0.0,1.0,neutral,Kim
+"Sorrowful delayed pedigree which am translating. """,-0.6249,0.0,0.56,0.44,negative,Kim
+"And later to the same address: "" Much sorrowful delay.",-0.6705,0.0,0.44,0.56,negative,Kim
+"Will forward pedigree. """,0.0,0.0,0.0,1.0,neutral,Kim
+"To his sub-partner at Delhi he wired: "" Lutuf Ullah.",0.0,0.0,0.0,1.0,neutral,Kim
+Have wired two thousand rupees your credit Luchman Narain's bank.,0.3818,0.224,0.0,0.776,positive,Kim
+"--"" This was entirely in the way of trade, but every one of those telegrams was discussed and rediscussed, by parties who conceived themselves to be interested, before they went over to the railway station in charge of a foolish Balti, who allowed all sorts of people to read them on the road.",0.6652,0.121,0.045,0.834,positive,Kim
+"When, in Mahbub's own picturesque language, he had muddied the wells of inquiry with the stick of precaution, Kim had dropped on him, sent from Heaven; and, being as prompt as he was unscrupulous, Mahbub Ali used to taking all sorts of gusty chances, pressed him into service on the spot.",0.8271,0.171,0.0,0.829,positive,Kim
+"A wandering lama with a low-caste boy-servant might attract a moment's interest as they wandered about India, the land of pilgrims; but no one would suspect them or, what was more to the point, rob.",-0.8294,0.091,0.255,0.655,negative,Kim
+"He called for a new light-ball to his hookah, and considered the case.",0.0,0.0,0.0,1.0,neutral,Kim
+"If the worst came to the worst, and the boy came to harm, the paper would incriminate nobody.",-0.9136,0.0,0.438,0.562,negative,Kim
+And he would go up to Umballa leisurely and--at a certain risk of exciting fresh suspicion--repeat his tale by word of mouth to the people concerned.,0.6705,0.248,0.068,0.684,positive,Kim
+"But R17's report was the kernel of the whole affair, and it would be distinctly inconvenient if that failed to come to hand.",-0.5023,0.135,0.237,0.628,negative,Kim
+"However, God was great, and Mahbub Ali felt he had done all he could for the time being.",0.7351,0.279,0.0,0.721,positive,Kim
+Kim was the one soul in the world who had never told him a lie.,0.0,0.0,0.0,1.0,neutral,Kim
+"That would have been a fatal blot on Kim's character if Mahbub had not known that to others, for his own ends or Mahbub's business, Kim could lie like an Oriental.",-0.25,0.074,0.103,0.824,negative,Kim
+"Then Mahbub Ali rolled across the serai to the Gate of the Harpies who paint their eyes and trap the stranger, and was at some pains to call on the one girl who, he had reason to believe, was a particular friend of a smooth-faced Kashmiri pundit who had waylaid his simple Balti in the matter of the telegrams.",-0.2023,0.069,0.082,0.849,negative,Kim
+"It was an utterly foolish thing to do; because they fell to drinking perfumed brandy against the Law of the Prophet, and Mahbub grew wonderfully drunk, and the gates of his mouth were loosened, and he pursued the Flower of Delight with the feet of intoxication till he fell flat among the cushions, where the Flower of Delight, aided by a smooth-faced Kashmiri pundit, searched him from head to foot most thoroughly.",0.8363,0.142,0.058,0.8,positive,Kim
+About the same hour Kim heard soft feet in Mahbub's deserted stall.,-0.2023,0.0,0.141,0.859,negative,Kim
+"The horse-trader, curiously enough, had left his door unlocked, and his men were busy celebrating their return to India with a whole sheep of Mahbub's bounty.",0.5719,0.134,0.0,0.866,positive,Kim
+"A sleek young gentleman from Delhi, armed with a bunch of keys which the Flower had unshackled from the senseless one's belt, went through every single box, bundle, mat, and saddle-bag in Mahbub's possession even more systematically than the Flower and the pundit were searching the owner.",0.0,0.0,0.0,1.0,neutral,Kim
+"""And I think.""",0.0,0.0,0.0,1.0,neutral,Kim
+"said the Flower scornfully an hour later, one rounded elbow on the snoring carcass, ""that he is no more than a pig of an Afghan horse-dealer, with no thought except women and horses.",-0.5267,0.0,0.128,0.872,negative,Kim
+"Moreover, he may have sent it away by now--if ever there were such a thing.""",0.0,0.0,0.0,1.0,neutral,Kim
+"""Nay--in a matter touching Five Kings it would be next his black heart,"" said the pundit.",0.0258,0.073,0.0,0.927,neutral,Kim
+"""Was there nothing?""",0.0,0.0,0.0,1.0,neutral,Kim
+The Delhi man laughed and resettled his turban as he entered.,0.4588,0.231,0.0,0.769,positive,Kim
+"""I searched between the soles of his slippers as the Flower searched his clothes.",0.0,0.0,0.0,1.0,neutral,Kim
+This is not the man but another.,0.0,0.0,0.0,1.0,neutral,Kim
+"I leave little unseen.""",-0.0516,0.0,0.375,0.625,negative,Kim
+"""They did not say he was the very man,"" said the pundit thoughtfully.",0.4019,0.184,0.0,0.816,positive,Kim
+"""They said, 'Look if he be the man, since our counsels are troubled.'""",0.0,0.0,0.0,1.0,neutral,Kim
+"""That North country is full of horse-dealers as an old coat of lice.",0.0,0.0,0.0,1.0,neutral,Kim
+"There is Sikandar Khan, Nur Ali Beg, and Farrukh Shah all heads of kafilas [caravans]--who deal there,"" said the Flower.",0.0,0.0,0.0,1.0,neutral,Kim
+"""They have not yet come in,"" said the pundit.",0.0,0.0,0.0,1.0,neutral,Kim
+"""Thou must ensnare them later.""",0.0,0.0,0.0,1.0,neutral,Kim
+"Phew!""",0.0,0.0,0.0,1.0,neutral,Kim
+"said the Flower with deep disgust, rolling Mahbub's head from her lap.",-0.5994,0.0,0.262,0.738,negative,Kim
+"""I earn my money.",0.0,0.0,0.0,1.0,neutral,Kim
+"Farrukh Shah is a bear, Ali Beg a swashbuckler, and old Sikandar Khan--yaie!",0.0,0.0,0.0,1.0,neutral,Kim
+Go!,0.0,0.0,0.0,1.0,neutral,Kim
+I sleep now.,0.0,0.0,0.0,1.0,neutral,Kim
+"This swine will not stir till dawn.""",0.0,0.0,0.0,1.0,neutral,Kim
+"When Mahbub woke, the Flower talked to him severely on the sin of drunkenness.",-0.765,0.0,0.355,0.645,negative,Kim
+"Asiatics do not wink when they have outmanoeuvred an enemy, but as Mahbub Ali cleared his throat, tightened his belt, and staggered forth under the early morning stars, he came very near to it.",-0.1655,0.045,0.063,0.893,negative,Kim
+"""What a colt's trick!""",0.0,0.0,0.0,1.0,neutral,Kim
+said he to himself.,0.0,0.0,0.0,1.0,neutral,Kim
+"""As if every girl in Peshawur did not use it!",0.0,0.0,0.0,1.0,neutral,Kim
+But 'twas prettily done.,0.0,0.0,0.0,1.0,neutral,Kim
+Now God He knows how many more there be upon the Road who have orders to test me--perhaps with the knife.,0.2732,0.095,0.0,0.905,positive,Kim
+So it stands that the boy must go to Umballa--and by rail--for the writing is something urgent.,0.2023,0.101,0.0,0.899,positive,Kim
+"I abide here, following the Flower and drinking wine as an Afghan coper should.""",0.0,0.0,0.0,1.0,neutral,Kim
+He halted at the stall,-0.2023,0.0,0.31,0.69,negative,Kim

@@ -1,0 +1,2221 @@
+title,rank,keyword,tfidf_score
+Carmilla,1,vampire,0.097516
+Carmilla,2,mademoiselle,0.086139
+Carmilla,3,countess,0.071994
+Carmilla,4,madame,0.068149
+Carmilla,5,stories,0.063768
+Carmilla,6,chateau,0.063051
+Carmilla,7,papa,0.061392
+Carmilla,8,young lady,0.057506
+Carmilla,9,dear child,0.053777
+Carmilla,10,baron,0.053777
+Carmilla,11,chapel,0.052985
+Carmilla,12,say father,0.050805
+Carmilla,13,bertha,0.050779
+Carmilla,14,hunchback,0.050779
+Carmilla,15,dressing room,0.049672
+Carmilla,16,mamma,0.049672
+Carmilla,17,ladyship,0.048982
+Carmilla,18,foot bed,0.048595
+Carmilla,19,poor girl,0.046428
+Carmilla,20,engaging,0.045569
+The First Men in the Moon,1,selenite,0.084035
+The First Men in the Moon,2,lunar,0.073816
+The First Men in the Moon,3,bedford,0.071679
+The First Men in the Moon,4,manhole,0.063924
+The First Men in the Moon,5,bungalow,0.059795
+The First Men in the Moon,6,oo,0.056111
+The First Men in the Moon,7,crater,0.054026
+The First Men in the Moon,8,crowbar,0.051605
+The First Men in the Moon,9,fungus,0.050722
+The First Men in the Moon,10,sphere,0.049745
+The First Men in the Moon,11,helium,0.046737
+The First Men in the Moon,12,tentacle,0.045911
+The First Men in the Moon,13,carbonic acid,0.045279
+The First Men in the Moon,14,carbonic,0.045279
+The First Men in the Moon,15,oxygen,0.044679
+The First Men in the Moon,16,cavern,0.042996
+The First Men in the Moon,17,terrestrial,0.042343
+The First Men in the Moon,18,gravitation,0.041906
+The First Men in the Moon,19,goad,0.041356
+The First Men in the Moon,20,grating,0.041099
+The Cask of Amontillado,1,ugh,0.167218
+The Cask of Amontillado,2,cask,0.163754
+The Cask of Amontillado,3,allan,0.150979
+The Cask of Amontillado,4,tier,0.147544
+The Cask of Amontillado,5,mason,0.139971
+The Cask of Amontillado,6,poe,0.127673
+The Cask of Amontillado,7,jingle,0.117254
+The Cask of Amontillado,8,recess,0.115805
+The Cask of Amontillado,9,vault,0.114525
+The Cask of Amontillado,10,sherry,0.110936
+The Cask of Amontillado,11,hearken,0.110936
+The Cask of Amontillado,12,intoxication,0.106659
+The Cask of Amontillado,13,granite,0.101023
+The Cask of Amontillado,14,nemo,0.093311
+The Cask of Amontillado,15,reply,0.089864
+The Cask of Amontillado,16,wine,0.087107
+The Cask of Amontillado,17,cough,0.087053
+The Cask of Amontillado,18,bone,0.084568
+The Cask of Amontillado,19,torch,0.081034
+The Cask of Amontillado,20,parti,0.075406
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",1,goldsmith,0.06212
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",2,ode,0.061246
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",3,johnson,0.059598
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",4,shew,0.058538
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",5,bookseller,0.056643
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",6,boswell,0.055824
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",7,seward,0.052778
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",8,walpole,0.049806
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",9,reynolds,0.047883
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",10,armstrong,0.046569
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",11,milton,0.045866
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",12,burke,0.044664
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",13,epistle,0.044664
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",14,hawkins,0.043363
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",15,poem,0.041522
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",16,pope,0.040881
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",17,chichester,0.040663
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",18,mason,0.0405
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",19,earl,0.039686
+"Lives of the English Poets / From Johnson to Kirke White, Designed as a Continuation of Johnson's Lives",20,bengal,0.039118
+Dead Souls,1,platon,0.065793
+Dead Souls,2,dead soul,0.063582
+Dead Souls,3,verst,0.060488
+Dead Souls,4,ivan,0.055273
+Dead Souls,5,landowner,0.052398
+Dead Souls,6,constantine,0.050233
+Dead Souls,7,petersburg,0.049748
+Dead Souls,8,serfs,0.048318
+Dead Souls,9,gogol,0.047952
+Dead Souls,10,public prosecutor,0.047952
+Dead Souls,11,souls,0.046998
+Dead Souls,12,prosecutor,0.044439
+Dead Souls,13,serf,0.044027
+Dead Souls,14,governor general,0.043461
+Dead Souls,15,gendarme,0.042196
+Dead Souls,16,excellency,0.042122
+Dead Souls,17,moscow,0.039787
+Dead Souls,18,muzhik,0.039394
+Dead Souls,19,bailiff,0.038619
+Dead Souls,20,wherefore,0.038465
+Mrs. Warren's Profession,1,rev,0.122771
+Mrs. Warren's Profession,2,warren,0.117716
+Mrs. Warren's Profession,3,mrs,0.107291
+Mrs. Warren's Profession,4,croft,0.089002
+Mrs. Warren's Profession,5,shew,0.074519
+Mrs. Warren's Profession,6,mr,0.071922
+Mrs. Warren's Profession,7,goodbye,0.071429
+Mrs. Warren's Profession,8,tolstoy,0.064393
+Mrs. Warren's Profession,9,duenna,0.063348
+Mrs. Warren's Profession,10,kitty,0.063016
+Mrs. Warren's Profession,11,frank,0.0609
+Mrs. Warren's Profession,12,shilling week,0.06052
+Mrs. Warren's Profession,13,ve,0.059607
+Mrs. Warren's Profession,14,sam,0.054491
+Mrs. Warren's Profession,15,iris,0.049868
+Mrs. Warren's Profession,16,way life,0.049862
+Mrs. Warren's Profession,17,ibsen,0.04979
+Mrs. Warren's Profession,18,critic,0.049119
+Mrs. Warren's Profession,19,clergyman,0.049056
+Mrs. Warren's Profession,20,vienna,0.048294
+"The Country of the Blind, and Other Stories",1,holroyd,0.066222
+"The Country of the Blind, and Other Stories",2,wedderburn,0.062991
+"The Country of the Blind, and Other Stories",3,hapley,0.062474
+"The Country of the Blind, and Other Stories",4,azuma,0.056989
+"The Country of the Blind, and Other Stories",5,azuma zi,0.056989
+"The Country of the Blind, and Other Stories",6,zi,0.056989
+"The Country of the Blind, and Other Stories",7,nunez,0.056707
+"The Country of the Blind, and Other Stories",8,pawkins,0.056419
+"The Country of the Blind, and Other Stories",9,fanny,0.053396
+"The Country of the Blind, and Other Stories",10,snooks,0.053072
+"The Country of the Blind, and Other Stories",11,jennie,0.044914
+"The Country of the Blind, and Other Stories",12,davidson,0.0448
+"The Country of the Blind, and Other Stories",13,dynamo,0.043704
+"The Country of the Blind, and Other Stories",14,woodhouse,0.043666
+"The Country of the Blind, and Other Stories",15,bacteriologist,0.043666
+"The Country of the Blind, and Other Stories",16,say evans,0.043557
+"The Country of the Blind, and Other Stories",17,evans,0.042546
+"The Country of the Blind, and Other Stories",18,hooker,0.041805
+"The Country of the Blind, and Other Stories",19,say jane,0.040808
+"The Country of the Blind, and Other Stories",20,dynamos,0.040163
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",1,natural selection,0.064756
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",2,variety specie,0.064492
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",3,hybrid,0.061713
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",4,specie genus,0.058957
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",5,organic being,0.058164
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",6,intermediate variety,0.058055
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",7,large genera,0.058055
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",8,sterility,0.058016
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",9,group specie,0.057706
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",10,reproductive system,0.057305
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",11,gärtner,0.057305
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",12,oceanic island,0.056509
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",13,ally specie,0.056331
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",14,modify descendant,0.056091
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",15,glacial period,0.056036
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",16,specie group,0.056036
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",17,distinct specie,0.055477
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",18,rudimentary organ,0.055211
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",19,silurian,0.054777
+"On the Origin of Species By Means of Natural Selection / Or, the Preservation of Favoured Races in the Struggle for Life",20,oceanic,0.054777
+Cyrano de Bergerac,1,duenna,0.119599
+Cyrano de Bergerac,2,lise,0.109182
+Cyrano de Bergerac,3,cadet,0.099851
+Cyrano de Bergerac,4,scene scene,0.090775
+Cyrano de Bergerac,5,carbon,0.089819
+Cyrano de Bergerac,6,viscount,0.08343
+Cyrano de Bergerac,7,friar,0.083414
+Cyrano de Bergerac,8,burgher,0.083034
+Cyrano de Bergerac,9,martha,0.081248
+Cyrano de Bergerac,10,ay,0.075222
+Cyrano de Bergerac,11,claire,0.072653
+Cyrano de Bergerac,12,lackey,0.072653
+Cyrano de Bergerac,13,pastry,0.070327
+Cyrano de Bergerac,14,marquis,0.069556
+Cyrano de Bergerac,15,pickpocket,0.06736
+Cyrano de Bergerac,16,tis,0.066747
+Cyrano de Bergerac,17,le,0.064258
+Cyrano de Bergerac,18,doublet,0.062646
+Cyrano de Bergerac,19,christian,0.062021
+Cyrano de Bergerac,20,porte de,0.060708
+The Wheels of Chance: A Bicycling Idyll,1,phipps,0.102594
+The Wheels of Chance: A Bicycling Idyll,2,jessie,0.096964
+The Wheels of Chance: A Bicycling Idyll,3,man brown,0.096706
+The Wheels of Chance: A Bicycling Idyll,4,widgery,0.096484
+The Wheels of Chance: A Bicycling Idyll,5,chichester,0.076664
+The Wheels of Chance: A Bicycling Idyll,6,milton,0.072017
+The Wheels of Chance: A Bicycling Idyll,7,stepmother,0.064504
+The Wheels of Chance: A Bicycling Idyll,8,cyclist,0.063391
+The Wheels of Chance: A Bicycling Idyll,9,beaumont,0.061422
+The Wheels of Chance: A Bicycling Idyll,10,bicycle,0.061241
+The Wheels of Chance: A Bicycling Idyll,11,ostler,0.055513
+The Wheels of Chance: A Bicycling Idyll,12,charlie,0.055206
+The Wheels of Chance: A Bicycling Idyll,13,draper,0.054494
+The Wheels of Chance: A Bicycling Idyll,14,gaiter,0.050038
+The Wheels of Chance: A Bicycling Idyll,15,dangle,0.048505
+The Wheels of Chance: A Bicycling Idyll,16,dismount,0.047431
+The Wheels of Chance: A Bicycling Idyll,17,stephen,0.047016
+The Wheels of Chance: A Bicycling Idyll,18,heath,0.045957
+The Wheels of Chance: A Bicycling Idyll,19,bloomin,0.045012
+The Wheels of Chance: A Bicycling Idyll,20,young lady,0.043181
+The Mysterious Island,1,harding,0.097254
+The Mysterious Island,2,gideon,0.084346
+The Mysterious Island,3,cyrus,0.07843
+The Mysterious Island,4,lincoln island,0.076704
+The Mysterious Island,5,chimneys,0.073698
+The Mysterious Island,6,reply engineer,0.070199
+The Mysterious Island,7,say herbert,0.065781
+The Mysterious Island,8,reply sailor,0.064044
+The Mysterious Island,9,corral,0.06396
+The Mysterious Island,10,colonist,0.060639
+The Mysterious Island,11,say engineer,0.060286
+The Mysterious Island,12,herbert,0.055463
+The Mysterious Island,13,settler,0.055288
+The Mysterious Island,14,heights,0.054202
+The Mysterious Island,15,left bank,0.052379
+The Mysterious Island,16,islet,0.052115
+The Mysterious Island,17,brig,0.05147
+The Mysterious Island,18,engineer,0.050949
+The Mysterious Island,19,granite,0.050289
+The Mysterious Island,20,castaway,0.049498
+The Stolen Bacillus and Other Incidents,1,hapley,0.109813
+The Stolen Bacillus and Other Incidents,2,azuma,0.100456
+The Stolen Bacillus and Other Incidents,3,azuma zi,0.100456
+The Stolen Bacillus and Other Incidents,4,zi,0.100456
+The Stolen Bacillus and Other Incidents,5,pawkins,0.09893
+The Stolen Bacillus and Other Incidents,6,holroyd,0.097848
+The Stolen Bacillus and Other Incidents,7,bailey,0.097185
+The Stolen Bacillus and Other Incidents,8,watkins,0.087516
+The Stolen Bacillus and Other Incidents,9,davidson,0.078971
+The Stolen Bacillus and Other Incidents,10,wedderburn,0.078236
+The Stolen Bacillus and Other Incidents,11,hooker,0.077506
+The Stolen Bacillus and Other Incidents,12,dynamo,0.077039
+The Stolen Bacillus and Other Incidents,13,bacteriologist,0.076971
+The Stolen Bacillus and Other Incidents,14,woodhouse,0.076971
+The Stolen Bacillus and Other Incidents,15,say evans,0.07678
+The Stolen Bacillus and Other Incidents,16,evans,0.074997
+The Stolen Bacillus and Other Incidents,17,dynamos,0.071934
+The Stolen Bacillus and Other Incidents,18,canoe,0.061398
+The Stolen Bacillus and Other Incidents,19,say mr,0.057789
+The Stolen Bacillus and Other Incidents,20,orchid,0.057548
+The Square Root of 2,1,jerry,0.524308
+The Square Root of 2,2,robert,0.301053
+The Square Root of 2,3,center,0.290754
+The Square Root of 2,4,site,0.268236
+The Square Root of 2,5,ak,0.2464
+The Square Root of 2,6,root,0.193516
+The Square Root of 2,7,million,0.176624
+The Square Root of 2,8,square,0.174985
+The Square Root of 2,9,gregory,0.172462
+The Square Root of 2,10,flight,0.16238
+The Square Root of 2,11,space,0.160627
+The Square Root of 2,12,executive,0.157119
+The Square Root of 2,13,mason,0.137763
+The Square Root of 2,14,north west,0.129212
+The Square Root of 2,15,director,0.1254
+The Square Root of 2,16,specific,0.116917
+The Square Root of 2,17,guarantee,0.116917
+The Square Root of 2,18,accuracy,0.109599
+The Square Root of 2,19,thirty year,0.106932
+The Square Root of 2,20,correspondence,0.103166
+The Waste Land,1,cf,0.173675
+The Waste Land,2,vos,0.117839
+The Waste Land,3,und,0.102826
+The Waste Land,4,chess,0.098551
+The Waste Land,5,schon,0.096013
+The Waste Land,6,jug,0.092085
+The Waste Land,7,carthage,0.087027
+The Waste Land,8,thames,0.085378
+The Waste Land,9,albert,0.085378
+The Waste Land,10,der,0.082749
+The Waste Land,11,poem,0.08127
+The Waste Land,12,currant,0.080924
+The Waste Land,13,da,0.076203
+The Waste Land,14,ist,0.075705
+The Waste Land,15,insurance,0.073454
+The Waste Land,16,burial,0.073454
+The Waste Land,17,ta,0.071665
+The Waste Land,18,thrush,0.069891
+The Waste Land,19,barge,0.069786
+The Waste Land,20,sermon,0.069324
+Twenty Years at Hull House; with Autobiographical Notes,1,writers,0.068398
+Twenty Years at Hull House; with Autobiographical Notes,2,hull,0.058881
+Twenty Years at Hull House; with Autobiographical Notes,3,federation,0.054569
+Twenty Years at Hull House; with Autobiographical Notes,4,tolstoy,0.053586
+Twenty Years at Hull House; with Autobiographical Notes,5,chicago,0.053427
+Twenty Years at Hull House; with Autobiographical Notes,6,illinois,0.051353
+Twenty Years at Hull House; with Autobiographical Notes,7,immigrant,0.049753
+Twenty Years at Hull House; with Autobiographical Notes,8,legislation,0.047409
+Twenty Years at Hull House; with Autobiographical Notes,9,cooperation,0.046986
+Twenty Years at Hull House; with Autobiographical Notes,10,workingman,0.046473
+Twenty Years at Hull House; with Autobiographical Notes,11,autobiographical,0.046454
+Twenty Years at Hull House; with Autobiographical Notes,12,cooperative,0.046342
+Twenty Years at Hull House; with Autobiographical Notes,13,juvenile,0.046334
+Twenty Years at Hull House; with Autobiographical Notes,14,resident,0.04631
+Twenty Years at Hull House; with Autobiographical Notes,15,starr,0.045215
+Twenty Years at Hull House; with Autobiographical Notes,16,celebration,0.043991
+Twenty Years at Hull House; with Autobiographical Notes,17,macmillan,0.043856
+Twenty Years at Hull House; with Autobiographical Notes,18,alderman,0.043348
+Twenty Years at Hull House; with Autobiographical Notes,19,settlement,0.043328
+Twenty Years at Hull House; with Autobiographical Notes,20,jane,0.042848
+The Eighteenth Brumaire of Louis Bonaparte,1,national assembly,0.120211
+The Eighteenth Brumaire of Louis Bonaparte,2,party order,0.117065
+The Eighteenth Brumaire of Louis Bonaparte,3,bonaparte,0.102912
+The Eighteenth Brumaire of Louis Bonaparte,4,bourgeoisie,0.097408
+The Eighteenth Brumaire of Louis Bonaparte,5,royalist,0.092966
+The Eighteenth Brumaire of Louis Bonaparte,6,parliamentary,0.089539
+The Eighteenth Brumaire of Louis Bonaparte,7,bourgeois,0.084134
+The Eighteenth Brumaire of Louis Bonaparte,8,republicans,0.08349
+The Eighteenth Brumaire of Louis Bonaparte,9,executive power,0.08202
+The Eighteenth Brumaire of Louis Bonaparte,10,proletariat,0.076237
+The Eighteenth Brumaire of Louis Bonaparte,11,monarchy,0.074588
+The Eighteenth Brumaire of Louis Bonaparte,12,allotment,0.073643
+The Eighteenth Brumaire of Louis Bonaparte,13,louis philippe,0.072705
+The Eighteenth Brumaire of Louis Bonaparte,14,legislative,0.068599
+The Eighteenth Brumaire of Louis Bonaparte,15,executive,0.068167
+The Eighteenth Brumaire of Louis Bonaparte,16,republican,0.0676
+The Eighteenth Brumaire of Louis Bonaparte,17,assembly,0.067421
+The Eighteenth Brumaire of Louis Bonaparte,18,philippe,0.065832
+The Eighteenth Brumaire of Louis Bonaparte,19,ministers,0.06543
+The Eighteenth Brumaire of Louis Bonaparte,20,ministry,0.065126
+The Lost World,1,challenger,0.10875
+The Lost World,2,malone,0.074518
+The Lost World,3,gladys,0.071734
+The Lost World,4,ape man,0.067702
+The Lost World,5,plateau,0.057403
+The Lost World,6,half breed,0.053077
+The Lost World,7,para,0.052771
+The Lost World,8,say professor,0.050236
+The Lost World,9,say lord,0.049001
+The Lost World,10,amazon,0.04699
+The Lost World,11,canoe,0.046777
+The Lost World,12,maple,0.045934
+The Lost World,13,esmeralda,0.04396
+The Lost World,14,brushwood,0.043578
+The Lost World,15,shot gun,0.04263
+The Lost World,16,bamboo,0.042601
+The Lost World,17,chairman,0.042328
+The Lost World,18,ape,0.042013
+The Lost World,19,lecturer,0.041669
+The Lost World,20,zoological,0.041604
+"The Jimmyjohn Boss, and Other Stories",1,cutler,0.095371
+"The Jimmyjohn Boss, and Other Stories",2,yu,0.09275
+"The Jimmyjohn Boss, and Other Stories",3,padre,0.087534
+"The Jimmyjohn Boss, and Other Stories",4,toussaint,0.079204
+"The Jimmyjohn Boss, and Other Stories",5,drake,0.076777
+"The Jimmyjohn Boss, and Other Stories",6,mclean,0.076768
+"The Jimmyjohn Boss, and Other Stories",7,hank,0.076104
+"The Jimmyjohn Boss, and Other Stories",8,jake,0.072458
+"The Jimmyjohn Boss, and Other Stories",9,virginian,0.068611
+"The Jimmyjohn Boss, and Other Stories",10,vogel,0.067112
+"The Jimmyjohn Boss, and Other Stories",11,casey,0.066852
+"The Jimmyjohn Boss, and Other Stories",12,haf,0.066852
+"The Jimmyjohn Boss, and Other Stories",13,duane,0.066852
+"The Jimmyjohn Boss, and Other Stories",14,manna,0.066494
+"The Jimmyjohn Boss, and Other Stories",15,gaston,0.065608
+"The Jimmyjohn Boss, and Other Stories",16,malheur,0.063696
+"The Jimmyjohn Boss, and Other Stories",17,augustus,0.063663
+"The Jimmyjohn Boss, and Other Stories",18,ranch,0.062168
+"The Jimmyjohn Boss, and Other Stories",19,mart,0.06189
+"The Jimmyjohn Boss, and Other Stories",20,nancy,0.06096
+The Jungle,1,duane,0.062448
+The Jungle,2,stockyard,0.061303
+The Jungle,3,jonas,0.060899
+The Jungle,4,packer,0.060085
+The Jungle,5,durham,0.056997
+The Jungle,6,fertilizer,0.056483
+The Jungle,7,freddie,0.055466
+The Jungle,8,haf,0.049286
+The Jungle,9,workingman,0.04919
+The Jungle,10,lard,0.048566
+The Jungle,11,hic,0.044346
+The Jungle,12,ole,0.043183
+The Jungle,13,republicans,0.043154
+The Jungle,14,jail,0.041599
+The Jungle,15,chicago,0.041364
+The Jungle,16,downtown,0.040247
+The Jungle,17,harper,0.039558
+The Jungle,18,socialist,0.038833
+The Jungle,19,dollar,0.037534
+The Jungle,20,saloon,0.037351
+The Natural History of Selborne,1,selborne,0.096394
+The Natural History of Selborne,2,daines,0.082231
+The Natural History of Selborne,3,daines barrington,0.082231
+The Natural History of Selborne,4,esquire,0.07983
+The Natural History of Selborne,5,house martin,0.078684
+The Natural History of Selborne,6,barrington,0.07835
+The Natural History of Selborne,7,pennant,0.065266
+The Natural History of Selborne,8,wren,0.053309
+The Natural History of Selborne,9,congener,0.051987
+The Natural History of Selborne,10,migration,0.047414
+The Natural History of Selborne,11,hanger,0.047139
+The Natural History of Selborne,12,martin,0.046943
+The Natural History of Selborne,13,cuckoo,0.046704
+The Natural History of Selborne,14,sussex,0.045879
+The Natural History of Selborne,15,thrush,0.044717
+The Natural History of Selborne,16,blackbird,0.044264
+The Natural History of Selborne,17,snipe,0.044114
+The Natural History of Selborne,18,quadruped,0.043777
+The Natural History of Selborne,19,migrate,0.043666
+The Natural History of Selborne,20,chichester,0.043479
+Heidi,1,fraulein,0.10885
+Heidi,2,grandmamma,0.104439
+Heidi,3,frankfurt,0.097635
+Heidi,4,clara,0.0892
+Heidi,5,sebastian,0.087696
+Heidi,6,herr,0.078833
+Heidi,7,alm,0.061819
+Heidi,8,fir tree,0.061532
+Heidi,9,peter,0.061331
+Heidi,10,frau,0.061024
+Heidi,11,grandmother,0.060306
+Heidi,12,sleigh,0.058323
+Heidi,13,say peter,0.056701
+Heidi,14,grandfather,0.054042
+Heidi,15,snowflake,0.053141
+Heidi,16,pastor,0.05277
+Heidi,17,goat,0.050939
+Heidi,18,tutor,0.049616
+Heidi,19,fir,0.049162
+Heidi,20,peter look,0.048309
+Pollyanna,1,aunt polly,0.133992
+Pollyanna,2,pendleton,0.128019
+Pollyanna,3,polly,0.117997
+Pollyanna,4,ter,0.11591
+Pollyanna,5,nancy,0.111042
+Pollyanna,6,ladies aid,0.09677
+Pollyanna,7,milly,0.082782
+Pollyanna,8,harrington,0.079661
+Pollyanna,9,timothy,0.074847
+Pollyanna,10,jimmy,0.07368
+Pollyanna,11,ladies,0.07274
+Pollyanna,12,jennie,0.065051
+Pollyanna,13,ye know,0.063549
+Pollyanna,14,tell ye,0.061299
+Pollyanna,15,warren,0.05658
+Pollyanna,16,aunt,0.054357
+Pollyanna,17,tellin,0.054078
+Pollyanna,18,glad glad,0.053624
+Pollyanna,19,think glad,0.053121
+Pollyanna,20,mead,0.052855
+The silent places,1,bolton,0.102447
+The silent places,2,dick,0.096759
+The silent places,3,caribou,0.092826
+The silent places,4,sam,0.091112
+The silent places,5,herron,0.084206
+The silent places,6,woodsman,0.081138
+The silent places,7,galen,0.076403
+The silent places,8,cree,0.070577
+The silent places,9,canoe,0.069636
+The silent places,10,moccasin,0.069096
+The silent places,11,buckskin,0.068781
+The silent places,12,sledge,0.061879
+The silent places,13,moose,0.059153
+The silent places,14,rawhide,0.055036
+The silent places,15,chapter chapter,0.052231
+The silent places,16,claire,0.050928
+The silent places,17,squaw,0.049462
+The silent places,18,billy,0.048232
+The silent places,19,th,0.047121
+The silent places,20,spruce,0.046614
+The Moonstone,1,rachel,0.082766
+The Moonstone,2,moonstone,0.078582
+The Moonstone,3,godfrey,0.076993
+The Moonstone,4,blake,0.075216
+The Moonstone,5,penelope,0.069133
+The Moonstone,6,spearman,0.0663
+The Moonstone,7,franklin,0.065895
+The Moonstone,8,say sergeant,0.062112
+The Moonstone,9,ezra,0.061985
+The Moonstone,10,jennings,0.058958
+The Moonstone,11,sergeant,0.055337
+The Moonstone,12,ladyship,0.052566
+The Moonstone,13,clack,0.051325
+The Moonstone,14,laudanum,0.046274
+The Moonstone,15,nightgown,0.045516
+The Moonstone,16,candy,0.044198
+The Moonstone,17,robinson crusoe,0.04396
+The Moonstone,18,crusoe,0.042808
+The Moonstone,19,cuff,0.042485
+The Moonstone,20,lucy,0.042267
+Daddy-Long-Legs,1,legs,0.127473
+Daddy-Long-Legs,2,sallie,0.12477
+Daddy-Long-Legs,3,daddy,0.120821
+Daddy-Long-Legs,4,judy,0.11669
+Daddy-Long-Legs,5,pendleton,0.106964
+Daddy-Long-Legs,6,ps,0.106964
+Daddy-Long-Legs,7,abbott,0.10159
+Daddy-Long-Legs,8,julia,0.085449
+Daddy-Long-Legs,9,campus,0.068776
+Daddy-Long-Legs,10,trustee,0.068497
+Daddy-Long-Legs,11,goodbye,0.064558
+Daddy-Long-Legs,12,gymnasium,0.061113
+Daddy-Long-Legs,13,willow,0.055606
+Daddy-Long-Legs,14,ice cream,0.054809
+Daddy-Long-Legs,15,scholarship,0.051578
+Daddy-Long-Legs,16,asylum,0.050854
+Daddy-Long-Legs,17,freddie,0.048198
+Daddy-Long-Legs,18,orphan,0.047625
+Daddy-Long-Legs,19,smith,0.047138
+Daddy-Long-Legs,20,awfully,0.04617
+Doña Perfecta,1,su,0.088893
+Doña Perfecta,2,los,0.086964
+Doña Perfecta,3,casa,0.086383
+Doña Perfecta,4,una,0.085667
+Doña Perfecta,5,para,0.08474
+Doña Perfecta,6,como,0.083332
+Doña Perfecta,7,sus,0.082091
+Doña Perfecta,8,el,0.081648
+Doña Perfecta,9,este,0.080817
+Doña Perfecta,10,sobre,0.078754
+Doña Perfecta,11,de las,0.078331
+Doña Perfecta,12,rosario,0.076822
+Doña Perfecta,13,las,0.076725
+Doña Perfecta,14,ser,0.076117
+Doña Perfecta,15,en la,0.075493
+Doña Perfecta,16,mi,0.074635
+Doña Perfecta,17,toda,0.074391
+Doña Perfecta,18,gran,0.073811
+Doña Perfecta,19,con la,0.072134
+Doña Perfecta,20,poco,0.071888
+The island of Doctor Moreau,1,montgomery,0.12783
+The island of Doctor Moreau,2,moreau,0.120923
+The island of Doctor Moreau,3,puma,0.087515
+The island of Doctor Moreau,4,ape man,0.076973
+The island of Doctor Moreau,5,leopard,0.064492
+The island of Doctor Moreau,6,haired man,0.061326
+The island of Doctor Moreau,7,swine,0.06103
+The island of Doctor Moreau,8,enclosure,0.056804
+The island of Doctor Moreau,9,schooner,0.054964
+The island of Doctor Moreau,10,undergrowth,0.053596
+The island of Doctor Moreau,11,ravine,0.050819
+The island of Doctor Moreau,12,silly ass,0.050349
+The island of Doctor Moreau,13,sloth,0.049509
+The island of Doctor Moreau,14,ape,0.046611
+The island of Doctor Moreau,15,black face,0.046376
+The island of Doctor Moreau,16,dog man,0.045989
+The island of Doctor Moreau,17,revolver,0.045234
+The island of Doctor Moreau,18,headland,0.044668
+The island of Doctor Moreau,19,dead say,0.044522
+The island of Doctor Moreau,20,lug,0.042882
+Peter Pan,1,wendy,0.145073
+Peter Pan,2,nana,0.108598
+Peter Pan,3,smee,0.105407
+Peter Pan,4,nibs,0.096486
+Peter Pan,5,tink,0.095542
+Peter Pan,6,tinker bell,0.091934
+Peter Pan,7,starkey,0.091934
+Peter Pan,8,john michael,0.091196
+Peter Pan,9,redskin,0.090954
+Peter Pan,10,tootles,0.090397
+Peter Pan,11,peter pan,0.087055
+Peter Pan,12,peter say,0.078057
+Peter Pan,13,peter,0.075673
+Peter Pan,14,peter wendy,0.075044
+Peter Pan,15,cecco,0.073359
+Peter Pan,16,say peter,0.073126
+Peter Pan,17,pirate,0.071603
+Peter Pan,18,tiger lily,0.071179
+Peter Pan,19,mermaid,0.068792
+Peter Pan,20,cry peter,0.068021
+"The Awakening, and Selected Short Stories",1,pauline,0.084487
+"The Awakening, and Selected Short Stories",2,folle,0.082001
+"The Awakening, and Selected Short Stories",3,mademoiselle,0.076337
+"The Awakening, and Selected Short Stories",4,désirée,0.073643
+"The Awakening, and Selected Short Stories",5,armand,0.065447
+"The Awakening, and Selected Short Stories",6,la petite,0.058166
+"The Awakening, and Selected Short Stories",7,antoine,0.055883
+"The Awakening, and Selected Short Stories",8,petite,0.055026
+"The Awakening, and Selected Short Stories",9,robert,0.054661
+"The Awakening, and Selected Short Stories",10,new orleans,0.053905
+"The Awakening, and Selected Short Stories",11,madame,0.053275
+"The Awakening, and Selected Short Stories",12,côte,0.053029
+"The Awakening, and Selected Short Stories",13,monsieur,0.050502
+"The Awakening, and Selected Short Stories",14,klein,0.050245
+"The Awakening, and Selected Short Stories",15,raoul,0.048066
+"The Awakening, and Selected Short Stories",16,orleans,0.047899
+"The Awakening, and Selected Short Stories",17,si tu,0.046972
+"The Awakening, and Selected Short Stories",18,locket,0.046564
+"The Awakening, and Selected Short Stories",19,maître,0.046179
+"The Awakening, and Selected Short Stories",20,mexico,0.045758
+Twenty Thousand Leagues under the Sea,1,nautilus,0.095837
+Twenty Thousand Leagues under the Sea,2,conseil,0.092494
+Twenty Thousand Leagues under the Sea,3,nemo,0.091813
+Twenty Thousand Leagues under the Sea,4,frigate,0.066307
+Twenty Thousand Leagues under the Sea,5,say ned,0.066248
+Twenty Thousand Leagues under the Sea,6,ned,0.065548
+Twenty Thousand Leagues under the Sea,7,canadian,0.063654
+Twenty Thousand Leagues under the Sea,8,cetacean,0.061681
+Twenty Thousand Leagues under the Sea,9,harpoon,0.058228
+Twenty Thousand Leagues under the Sea,10,submarine,0.057387
+Twenty Thousand Leagues under the Sea,11,abraham lincoln,0.054598
+Twenty Thousand Leagues under the Sea,12,red sea,0.053691
+Twenty Thousand Leagues under the Sea,13,iceberg,0.05356
+Twenty Thousand Leagues under the Sea,14,dugong,0.048926
+Twenty Thousand Leagues under the Sea,15,say captain,0.048168
+Twenty Thousand Leagues under the Sea,16,mollusc,0.045732
+Twenty Thousand Leagues under the Sea,17,abraham,0.045677
+Twenty Thousand Leagues under the Sea,18,lat,0.04546
+Twenty Thousand Leagues under the Sea,19,lbs,0.044477
+Twenty Thousand Leagues under the Sea,20,shark,0.044355
+The Adventures of Sherlock Holmes,1,holmes,0.085036
+The Adventures of Sherlock Holmes,2,say holmes,0.082231
+The Adventures of Sherlock Holmes,3,lestrade,0.074747
+The Adventures of Sherlock Holmes,4,mccarthy,0.074317
+The Adventures of Sherlock Holmes,5,sherlock,0.066917
+The Adventures of Sherlock Holmes,6,sherlock holmes,0.066678
+The Adventures of Sherlock Holmes,7,watson,0.06627
+The Adventures of Sherlock Holmes,8,watson say,0.057019
+The Adventures of Sherlock Holmes,9,coronet,0.057019
+The Adventures of Sherlock Holmes,10,clair,0.05654
+The Adventures of Sherlock Holmes,11,baker street,0.055446
+The Adventures of Sherlock Holmes,12,simon,0.049246
+The Adventures of Sherlock Holmes,13,turner,0.048754
+The Adventures of Sherlock Holmes,14,inspector,0.04309
+The Adventures of Sherlock Holmes,15,wilson,0.042967
+The Adventures of Sherlock Holmes,16,coroner,0.042802
+The Adventures of Sherlock Holmes,17,ross,0.041299
+The Adventures of Sherlock Holmes,18,bohemia,0.040372
+The Adventures of Sherlock Holmes,19,baker,0.039442
+The Adventures of Sherlock Holmes,20,godfrey,0.039439
+The Man Who Was Thursday: A Nightmare,1,gregory,0.080323
+The Man Who Was Thursday: A Nightmare,2,gogol,0.078772
+The Man Who Was Thursday: A Nightmare,3,say professor,0.066217
+The Man Who Was Thursday: A Nightmare,4,marquis,0.066062
+The Man Who Was Thursday: A Nightmare,5,worms,0.065474
+The Man Who Was Thursday: A Nightmare,6,anarchist,0.06267
+The Man Who Was Thursday: A Nightmare,7,bomb,0.05077
+The Man Who Was Thursday: A Nightmare,8,detective,0.050686
+The Man Who Was Thursday: A Nightmare,9,saffron,0.050498
+The Man Who Was Thursday: A Nightmare,10,anarchy,0.049862
+The Man Who Was Thursday: A Nightmare,11,colonel,0.046678
+The Man Who Was Thursday: A Nightmare,12,secretary,0.045958
+The Man Who Was Thursday: A Nightmare,13,marquis de,0.044579
+The Man Who Was Thursday: A Nightmare,14,gabriel,0.04355
+The Man Who Was Thursday: A Nightmare,15,president,0.043004
+The Man Who Was Thursday: A Nightmare,16,policeman,0.042846
+The Man Who Was Thursday: A Nightmare,17,motor car,0.041875
+The Man Who Was Thursday: A Nightmare,18,red hair,0.041282
+The Man Who Was Thursday: A Nightmare,19,cab,0.041101
+The Man Who Was Thursday: A Nightmare,20,inspector,0.040636
+The Secret Garden,1,colin,0.116933
+The Secret Garden,2,say mary,0.103235
+The Secret Garden,3,martha,0.090429
+The Secret Garden,4,craven,0.08553
+The Secret Garden,5,sowerby,0.084453
+The Secret Garden,6,answer mary,0.077273
+The Secret Garden,7,ben,0.075799
+The Secret Garden,8,mary say,0.073135
+The Secret Garden,9,th,0.072101
+The Secret Garden,10,rajah,0.06629
+The Secret Garden,11,mary think,0.065828
+The Secret Garden,12,robin,0.065414
+The Secret Garden,13,ask mary,0.062965
+The Secret Garden,14,miss mary,0.061189
+The Secret Garden,15,mary go,0.059763
+The Secret Garden,16,mary,0.059255
+The Secret Garden,17,yorkshire,0.05805
+The Secret Garden,18,susan,0.057733
+The Secret Garden,19,aye,0.056936
+The Secret Garden,20,tell thee,0.054253
+The Picture of Dorian Gray,1,basil,0.096316
+The Picture of Dorian Gray,2,sibyl,0.090964
+The Picture of Dorian Gray,3,alan,0.068266
+The Picture of Dorian Gray,4,vane,0.066833
+The Picture of Dorian Gray,5,campbell,0.06319
+The Picture of Dorian Gray,6,agatha,0.062109
+The Picture of Dorian Gray,7,harry,0.059743
+The Picture of Dorian Gray,8,harry say,0.058282
+The Picture of Dorian Gray,9,gladys,0.055317
+The Picture of Dorian Gray,10,say lord,0.05457
+The Picture of Dorian Gray,11,duchess,0.05362
+The Picture of Dorian Gray,12,studio,0.05138
+The Picture of Dorian Gray,13,geoffrey,0.047445
+The Picture of Dorian Gray,14,juliet,0.045769
+The Picture of Dorian Gray,15,henry,0.045651
+The Picture of Dorian Gray,16,gray,0.043645
+The Picture of Dorian Gray,17,jim,0.040545
+The Picture of Dorian Gray,18,dear fellow,0.039714
+The Picture of Dorian Gray,19,valet,0.038981
+The Picture of Dorian Gray,20,hansom,0.037214
+The Phantom of the Opera,1,christine,0.124371
+The Phantom of the Opera,2,raoul,0.102719
+The Phantom of the Opera,3,vicomte,0.07531
+The Phantom of the Opera,4,valerius,0.073375
+The Phantom of the Opera,5,mme,0.072687
+The Phantom of the Opera,6,torture chamber,0.071858
+The Phantom of the Opera,7,commissary,0.071431
+The Phantom of the Opera,8,vicomte de,0.070584
+The Phantom of the Opera,9,viscount,0.068599
+The Phantom of the Opera,10,thousand franc,0.067788
+The Phantom of the Opera,11,meg,0.066102
+The Phantom of the Opera,12,persian,0.062991
+The Phantom of the Opera,13,philippe,0.061684
+The Phantom of the Opera,14,foyer,0.060744
+The Phantom of the Opera,15,ballet,0.060082
+The Phantom of the Opera,16,mlle,0.056185
+The Phantom of the Opera,17,franc,0.055853
+The Phantom of the Opera,18,punjab,0.05583
+The Phantom of the Opera,19,mm,0.055822
+The Phantom of the Opera,20,richard,0.055323
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,1,larve,0.051519
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,2,la larve,0.045075
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,3,cellule,0.045056
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,4,avec,0.04337
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,5,quelque,0.043023
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,6,sont,0.04278
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,7,leur,0.041754
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,8,patte,0.0413
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,9,elle,0.041064
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,10,dans,0.04087
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,11,aux,0.040311
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,12,même,0.039933
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,13,peut,0.039884
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,14,peu,0.039733
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,15,la tête,0.039232
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,16,insecte,0.039232
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,17,proie,0.039112
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,18,que je,0.039032
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,19,autre,0.038761
+Nouveaux souvenirs entomologiques - Livre II / Étude sur l'instinct et les moeurs des insectes,20,où,0.03872
+The Red House Mystery,1,antony,0.124623
+The Red House Mystery,2,say bill,0.108747
+The Red House Mystery,3,audrey,0.102081
+The Red House Mystery,4,elsie,0.101556
+The Red House Mystery,5,norris,0.092051
+The Red House Mystery,6,red house,0.090448
+The Red House Mystery,7,stevens,0.084612
+The Red House Mystery,8,tony,0.08016
+The Red House Mystery,9,betty,0.075533
+The Red House Mystery,10,inspector,0.071513
+The Red House Mystery,11,know mark,0.07119
+The Red House Mystery,12,watson,0.069783
+The Red House Mystery,13,secret passage,0.06968
+The Red House Mystery,14,bill say,0.064683
+The Red House Mystery,15,robert,0.063231
+The Red House Mystery,16,inquest,0.05718
+The Red House Mystery,17,hallo,0.056408
+The Red House Mystery,18,australia,0.054058
+The Red House Mystery,19,coroner,0.052664
+The Red House Mystery,20,holmes,0.052336
+The Railway Children,1,phyllis,0.137712
+The Railway Children,2,say peter,0.104437
+The Railway Children,3,chimneys,0.086219
+The Railway Children,4,station master,0.076948
+The Railway Children,5,phil,0.072944
+The Railway Children,6,peter,0.072407
+The Railway Children,7,daddy,0.069215
+The Railway Children,8,engine driver,0.066793
+The Railway Children,9,fireman,0.063829
+The Railway Children,10,peter say,0.063573
+The Railway Children,11,say mother,0.063376
+The Railway Children,12,cry peter,0.062529
+The Railway Children,13,jim,0.060999
+The Railway Children,14,bun,0.059267
+The Railway Children,15,ruth,0.054395
+The Railway Children,16,bert,0.050496
+The Railway Children,17,old gentleman,0.05006
+The Railway Children,18,birthday,0.050004
+The Railway Children,19,peter look,0.049643
+The Railway Children,20,peter know,0.048967
+A Journey to the Centre of the Earth,1,cry uncle,0.067817
+A Journey to the Centre of the Earth,2,icelandic,0.067235
+A Journey to the Centre of the Earth,3,hans,0.065218
+A Journey to the Centre of the Earth,4,iceland,0.063114
+A Journey to the Centre of the Earth,5,gretchen,0.062263
+A Journey to the Centre of the Earth,6,han,0.060739
+A Journey to the Centre of the Earth,7,say uncle,0.056042
+A Journey to the Centre of the Earth,8,vapor,0.054938
+A Journey to the Centre of the Earth,9,say professor,0.05133
+A Journey to the Centre of the Earth,10,raft,0.051089
+A Journey to the Centre of the Earth,11,hamburg,0.049441
+A Journey to the Centre of the Earth,12,lava,0.049201
+A Journey to the Centre of the Earth,13,eruption,0.048997
+A Journey to the Centre of the Earth,14,crater,0.048843
+A Journey to the Centre of the Earth,15,granite,0.047849
+A Journey to the Centre of the Earth,16,crowbar,0.04641
+A Journey to the Centre of the Earth,17,harry,0.044802
+A Journey to the Centre of the Earth,18,southeast,0.04384
+A Journey to the Centre of the Earth,19,fissure,0.042881
+A Journey to the Centre of the Earth,20,strata,0.042282
+Scaramouche: A Romance of the French Revolution,1,andre,0.095076
+Scaramouche: A Romance of the French Revolution,2,binet,0.092899
+Scaramouche: A Romance of the French Revolution,3,la tour,0.089009
+Scaramouche: A Romance of the French Revolution,4,aline,0.085477
+Scaramouche: A Romance of the French Revolution,5,le marquis,0.07251
+Scaramouche: A Romance of the French Revolution,6,mme de,0.070882
+Scaramouche: A Romance of the French Revolution,7,nantes,0.069909
+Scaramouche: A Romance of the French Revolution,8,des amis,0.063057
+Scaramouche: A Romance of the French Revolution,9,moreau,0.060364
+Scaramouche: A Romance of the French Revolution,10,godfather,0.059227
+Scaramouche: A Romance of the French Revolution,11,amis,0.057155
+Scaramouche: A Romance of the French Revolution,12,danton,0.05662
+Scaramouche: A Romance of the French Revolution,13,brittany,0.055403
+Scaramouche: A Romance of the French Revolution,14,mme,0.054213
+Scaramouche: A Romance of the French Revolution,15,philippe,0.05409
+Scaramouche: A Romance of the French Revolution,16,marquis,0.053383
+Scaramouche: A Romance of the French Revolution,17,pantaloon,0.053043
+Scaramouche: A Romance of the French Revolution,18,mademoiselle,0.052878
+Scaramouche: A Romance of the French Revolution,19,louis,0.05073
+Scaramouche: A Romance of the French Revolution,20,mlle,0.048874
+The Yellow Wallpaper,1,wallpaper,0.224863
+The Yellow Wallpaper,2,jennie,0.213923
+The Yellow Wallpaper,3,john say,0.13849
+The Yellow Wallpaper,4,pattern,0.110305
+The Yellow Wallpaper,5,john,0.103534
+The Yellow Wallpaper,6,shaded,0.097064
+The Yellow Wallpaper,7,fungus,0.094382
+The Yellow Wallpaper,8,daytime,0.092082
+The Yellow Wallpaper,9,round round,0.089056
+The Yellow Wallpaper,10,nursery,0.084325
+The Yellow Wallpaper,11,bedstead,0.082374
+The Yellow Wallpaper,12,charlotte,0.077892
+The Yellow Wallpaper,13,julia,0.077892
+The Yellow Wallpaper,14,darling,0.074182
+The Yellow Wallpaper,15,creep,0.071813
+The Yellow Wallpaper,16,physician,0.070615
+The Yellow Wallpaper,17,color,0.068155
+The Yellow Wallpaper,18,odor,0.066459
+The Yellow Wallpaper,19,airy,0.066459
+The Yellow Wallpaper,20,yellow,0.066101
+Thus Spake Zarathustra: A Book for All and None,1,zarathustra,0.091674
+Thus Spake Zarathustra: A Book for All and None,2,doth,0.077044
+Thus Spake Zarathustra: A Book for All and None,3,cometh,0.07559
+Thus Spake Zarathustra: A Book for All and None,4,spake zarathustra,0.073539
+Thus Spake Zarathustra: A Book for All and None,5,ye high,0.071557
+Thus Spake Zarathustra: A Book for All and None,6,high man,0.071051
+Thus Spake Zarathustra: A Book for All and None,7,spake,0.06841
+Thus Spake Zarathustra: A Book for All and None,8,speaketh,0.067708
+Thus Spake Zarathustra: A Book for All and None,9,becometh,0.066482
+Thus Spake Zarathustra: A Book for All and None,10,soothsayer,0.066138
+Thus Spake Zarathustra: A Book for All and None,11,nietzsche,0.06578
+Thus Spake Zarathustra: A Book for All and None,12,speak unto,0.063593
+Thus Spake Zarathustra: A Book for All and None,13,thyself,0.063256
+Thus Spake Zarathustra: A Book for All and None,14,hath,0.061472
+Thus Spake Zarathustra: A Book for All and None,15,seeketh,0.061406
+Thus Spake Zarathustra: A Book for All and None,16,noontide,0.060968
+Thus Spake Zarathustra: A Book for All and None,17,maketh,0.060317
+Thus Spake Zarathustra: A Book for All and None,18,knoweth,0.059443
+Thus Spake Zarathustra: A Book for All and None,19,superman,0.058718
+Thus Spake Zarathustra: A Book for All and None,20,verily,0.058227
+Flatland: A Romance of Many Dimensions,1,circles,0.128767
+Flatland: A Romance of Many Dimensions,2,isosceles,0.118534
+Flatland: A Romance of Many Dimensions,3,dimensions,0.104651
+Flatland: A Romance of Many Dimensions,4,shew,0.080446
+Flatland: A Romance of Many Dimensions,5,women,0.073079
+Flatland: A Romance of Many Dimensions,6,cube,0.067304
+Flatland: A Romance of Many Dimensions,7,lordship,0.064506
+Flatland: A Romance of Many Dimensions,8,straight line,0.063675
+Flatland: A Romance of Many Dimensions,9,terminal,0.063155
+Flatland: A Romance of Many Dimensions,10,grandson,0.062299
+Flatland: A Romance of Many Dimensions,11,sphere,0.061312
+Flatland: A Romance of Many Dimensions,12,dimension,0.058104
+Flatland: A Romance of Many Dimensions,13,triangle,0.057186
+Flatland: A Romance of Many Dimensions,14,abbott,0.056349
+Flatland: A Romance of Many Dimensions,15,tablet,0.05591
+Flatland: A Romance of Many Dimensions,16,legislature,0.05457
+Flatland: A Romance of Many Dimensions,17,irregularity,0.054017
+Flatland: A Romance of Many Dimensions,18,monarch,0.052214
+Flatland: A Romance of Many Dimensions,19,geometry,0.052133
+Flatland: A Romance of Many Dimensions,20,tradesman,0.051209
+The Turn of the Screw,1,miles,0.106617
+The Turn of the Screw,2,flora,0.078658
+The Turn of the Screw,3,schoolroom,0.067353
+The Turn of the Screw,4,douglas,0.06541
+The Turn of the Screw,5,governess,0.057661
+The Turn of the Screw,6,certitude,0.05688
+The Turn of the Screw,7,griffin,0.053696
+The Turn of the Screw,8,dear little,0.048743
+The Turn of the Screw,9,prodigious,0.04692
+The Turn of the Screw,10,colleague,0.045647
+The Turn of the Screw,11,blanch,0.04383
+The Turn of the Screw,12,pupil,0.043597
+The Turn of the Screw,13,afresh,0.043185
+The Turn of the Screw,14,little face,0.043011
+The Turn of the Screw,15,daresay,0.042377
+The Turn of the Screw,16,look hard,0.040894
+The Turn of the Screw,17,concur,0.040253
+The Turn of the Screw,18,poor woman,0.03954
+The Turn of the Screw,19,infamous,0.039483
+The Turn of the Screw,20,charming,0.039418
+The call of the wild,1,spitz,0.13138
+The call of the wild,2,thornton,0.127029
+The call of the wild,3,françois,0.121293
+The call of the wild,4,lek,0.111748
+The call of the wild,5,sled,0.097836
+The call of the wild,6,hal,0.092218
+The call of the wild,7,buck,0.09031
+The call of the wild,8,sle,0.085125
+The call of the wild,9,pete,0.073009
+The call of the wild,10,dat,0.066412
+The call of the wild,11,dawson,0.06611
+The call of the wild,12,moose,0.066051
+The call of the wild,13,half breed,0.06379
+The call of the wild,14,sweater,0.063599
+The call of the wild,15,husky,0.063554
+The call of the wild,16,hans,0.06135
+The call of the wild,17,sol,0.058601
+The call of the wild,18,crate,0.058348
+The call of the wild,19,pike,0.05653
+The call of the wild,20,dolly,0.05389
+Kim,1,lama,0.096447
+Kim,2,ali,0.078136
+Kim,3,chela,0.077977
+Kim,4,sahib,0.077043
+Kim,5,sahibs,0.07468
+Kim,6,benare,0.071124
+Kim,7,rupee,0.068388
+Kim,8,red bull,0.067214
+Kim,9,xavier,0.067214
+Kim,10,delhi,0.066801
+Kim,11,lahore,0.063772
+Kim,12,bazar,0.060826
+Kim,13,holy man,0.059344
+Kim,14,lucknow,0.05603
+Kim,15,hindu,0.054887
+Kim,16,dost thou,0.054494
+Kim,17,allah,0.054241
+Kim,18,bennett,0.053217
+Kim,19,stallion,0.051442
+Kim,20,hast thou,0.051217
+Faust: Der Tragödie erster Teil,1,mich,0.127127
+Faust: Der Tragödie erster Teil,2,sie,0.116988
+Faust: Der Tragödie erster Teil,3,ihr,0.114254
+Faust: Der Tragödie erster Teil,4,wir,0.113548
+Faust: Der Tragödie erster Teil,5,zu,0.111031
+Faust: Der Tragödie erster Teil,6,auch,0.109813
+Faust: Der Tragödie erster Teil,7,nur,0.108106
+Faust: Der Tragödie erster Teil,8,wird,0.107309
+Faust: Der Tragödie erster Teil,9,doch,0.106814
+Faust: Der Tragödie erster Teil,10,nach,0.106397
+Faust: Der Tragödie erster Teil,11,ich,0.106311
+Faust: Der Tragödie erster Teil,12,mir,0.105143
+Faust: Der Tragödie erster Teil,13,wohl,0.104177
+Faust: Der Tragödie erster Teil,14,nicht,0.103489
+Faust: Der Tragödie erster Teil,15,dich,0.101419
+Faust: Der Tragödie erster Teil,16,soll,0.10107
+Faust: Der Tragödie erster Teil,17,ist,0.10091
+Faust: Der Tragödie erster Teil,18,und,0.099861
+Faust: Der Tragödie erster Teil,19,schon,0.099772
+Faust: Der Tragödie erster Teil,20,dir,0.098354
+"The Descent of Man, and Selection in Relation to Sex",1,sexual selection,0.064566
+"The Descent of Man, and Selection in Relation to Sex",2,sexual character,0.060685
+"The Descent of Man, and Selection in Relation to Sex",3,shew,0.059501
+"The Descent of Man, and Selection in Relation to Sex",4,secondary sexual,0.058384
+"The Descent of Man, and Selection in Relation to Sex",5,vol ii,0.057705
+"The Descent of Man, and Selection in Relation to Sex",6,sex differ,0.055514
+"The Descent of Man, and Selection in Relation to Sex",7,variation animals,0.054671
+"The Descent of Man, and Selection in Relation to Sex",8,male specie,0.053442
+"The Descent of Man, and Selection in Relation to Sex",9,female male,0.052069
+"The Descent of Man, and Selection in Relation to Sex",10,social instinct,0.0518
+"The Descent of Man, and Selection in Relation to Sex",11,animals plant,0.051699
+"The Descent of Man, and Selection in Relation to Sex",12,sexual difference,0.051699
+"The Descent of Man, and Selection in Relation to Sex",13,plant domestication,0.051316
+"The Descent of Man, and Selection in Relation to Sex",14,breeding season,0.051266
+"The Descent of Man, and Selection in Relation to Sex",15,natural selection,0.05066
+"The Descent of Man, and Selection in Relation to Sex",16,orang,0.050414
+"The Descent of Man, and Selection in Relation to Sex",17,animals,0.050298
+"The Descent of Man, and Selection in Relation to Sex",18,proc,0.049191
+"The Descent of Man, and Selection in Relation to Sex",19,shews,0.048827
+"The Descent of Man, and Selection in Relation to Sex",20,female specie,0.048827
+Up from Slavery: An Autobiography,1,tuskegee,0.115174
+Up from Slavery: An Autobiography,2,atlanta,0.090976
+Up from Slavery: An Autobiography,3,armstrong,0.087949
+Up from Slavery: An Autobiography,4,hampton,0.084223
+Up from Slavery: An Autobiography,5,booker,0.08418
+Up from Slavery: An Autobiography,6,southern white,0.083624
+Up from Slavery: An Autobiography,7,booker washington,0.079191
+Up from Slavery: An Autobiography,8,white people,0.072532
+Up from Slavery: An Autobiography,9,night school,0.070434
+Up from Slavery: An Autobiography,10,alabama,0.066044
+Up from Slavery: An Autobiography,11,davidson,0.064667
+Up from Slavery: An Autobiography,12,member race,0.061423
+Up from Slavery: An Autobiography,13,negroes,0.059249
+Up from Slavery: An Autobiography,14,washington,0.058631
+Up from Slavery: An Autobiography,15,negro,0.056169
+Up from Slavery: An Autobiography,16,white man,0.053675
+Up from Slavery: An Autobiography,17,virginia,0.051532
+Up from Slavery: An Autobiography,18,schoolhouse,0.050156
+Up from Slavery: An Autobiography,19,legislature,0.049777
+Up from Slavery: An Autobiography,20,black belt,0.048529
+O Pioneers!,1,emil,0.130763
+O Pioneers!,2,alexandra,0.12435
+O Pioneers!,3,carl,0.111818
+O Pioneers!,4,lou,0.106814
+O Pioneers!,5,bergson,0.103674
+O Pioneers!,6,oscar,0.091954
+O Pioneers!,7,milly,0.083033
+O Pioneers!,8,marie,0.080909
+O Pioneers!,9,raoul,0.061553
+O Pioneers!,10,dat,0.058108
+O Pioneers!,11,homestead,0.053933
+O Pioneers!,12,annie,0.053888
+O Pioneers!,13,swedish,0.051857
+O Pioneers!,14,bohemian,0.051551
+O Pioneers!,15,schwartz,0.050849
+O Pioneers!,16,graveyard,0.050406
+O Pioneers!,17,orchard,0.050246
+O Pioneers!,18,lee,0.049089
+O Pioneers!,19,scythe,0.048271
+O Pioneers!,20,sod,0.048036
+My Ántonia,1,lena,0.106263
+My Ántonia,2,fuchs,0.078577
+My Ántonia,3,jake,0.077602
+My Ántonia,4,tony,0.074062
+My Ántonia,5,nina,0.069644
+My Ántonia,6,frances,0.067822
+My Ántonia,7,otto,0.067117
+My Ántonia,8,charley,0.05662
+My Ántonia,9,jim,0.055804
+My Ántonia,10,leo,0.055126
+My Ántonia,11,cutter,0.053105
+My Ántonia,12,grandmother,0.05084
+My Ántonia,13,bohemian,0.04948
+My Ántonia,14,cornfield,0.04937
+My Ántonia,15,corral,0.047568
+My Ántonia,16,sod,0.04733
+My Ántonia,17,prairie,0.047182
+My Ántonia,18,anna,0.04696
+My Ántonia,19,ole,0.046681
+My Ántonia,20,windmill,0.045464
+Siddhartha,1,siddhartha,0.188426
+Siddhartha,2,brahman,0.132009
+Siddhartha,3,ferryman,0.120568
+Siddhartha,4,om,0.09976
+Siddhartha,5,buddha,0.09419
+Siddhartha,6,quoth,0.09014
+Siddhartha,7,childlike,0.086604
+Siddhartha,8,oneness,0.078236
+Siddhartha,9,monk,0.073617
+Siddhartha,10,mango,0.070166
+Siddhartha,11,ferry,0.067422
+Siddhartha,12,holy man,0.067292
+Siddhartha,13,teaching,0.06334
+Siddhartha,14,ascetic,0.061029
+Siddhartha,15,pilgrim,0.059838
+Siddhartha,16,dice,0.058652
+Siddhartha,17,exalted,0.056957
+Siddhartha,18,pilgrimage,0.055738
+Siddhartha,19,rice,0.05468
+Siddhartha,20,venerable,0.054521
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",1,monseigneur,0.062719
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",2,defoe,0.055058
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",3,de quincey,0.049221
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",4,quincey,0.04727
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",5,missis,0.04496
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",6,daudet,0.044939
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",7,abel,0.04463
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",8,natural selection,0.043181
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",9,dickens,0.042191
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",10,beatrice,0.040033
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",11,lyell,0.038624
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",12,dante,0.038557
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",13,philip,0.037424
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",14,marquis,0.036395
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",15,athenians,0.036129
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",16,origin species,0.035985
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",17,florence,0.034736
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",18,dost thou,0.034311
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",19,athens,0.034225
+"Library of the World's Best Literature, Ancient and Modern — Volume 11",20,francis,0.034209
+A Room with a View,1,bartlett,0.113415
+A Room with a View,2,lucy,0.107961
+A Room with a View,3,cecil,0.105961
+A Room with a View,4,say lucy,0.096796
+A Room with a View,5,freddy,0.091888
+A Room with a View,6,vyse,0.089486
+A Room with a View,7,windy corner,0.088707
+A Room with a View,8,alans,0.084813
+A Room with a View,9,sir harry,0.083537
+A Room with a View,10,emerson,0.072844
+A Room with a View,11,minnie,0.072088
+A Room with a View,12,charlotte,0.071208
+A Room with a View,13,alan,0.067235
+A Room with a View,14,florence,0.060851
+A Room with a View,15,miss lucy,0.053401
+A Room with a View,16,say miss,0.051874
+A Room with a View,17,windy,0.051008
+A Room with a View,18,chaplain,0.050419
+A Room with a View,19,lavish,0.050408
+A Room with a View,20,santa,0.049804
+"The Will to Believe, and Other Essays in Popular Philosophy",1,theoretic,0.065853
+"The Will to Believe, and Other Essays in Popular Philosophy",2,hegel,0.061937
+"The Will to Believe, and Other Essays in Popular Philosophy",3,determinism,0.060819
+"The Will to Believe, and Other Essays in Popular Philosophy",4,option,0.060432
+"The Will to Believe, and Other Essays in Popular Philosophy",5,pluralism,0.060211
+"The Will to Believe, and Other Essays in Popular Philosophy",6,rationality,0.060144
+"The Will to Believe, and Other Essays in Popular Philosophy",7,theism,0.060017
+"The Will to Believe, and Other Essays in Popular Philosophy",8,empiricist,0.053554
+"The Will to Believe, and Other Essays in Popular Philosophy",9,empiricism,0.050841
+"The Will to Believe, and Other Essays in Popular Philosophy",10,postulate,0.049512
+"The Will to Believe, and Other Essays in Popular Philosophy",11,ethical,0.048997
+"The Will to Believe, and Other Essays in Popular Philosophy",12,proceedings,0.047563
+"The Will to Believe, and Other Essays in Popular Philosophy",13,verification,0.045893
+"The Will to Believe, and Other Essays in Popular Philosophy",14,reflex,0.045812
+"The Will to Believe, and Other Essays in Popular Philosophy",15,pessimism,0.045627
+"The Will to Believe, and Other Essays in Popular Philosophy",16,finite,0.044467
+"The Will to Believe, and Other Essays in Popular Philosophy",17,allen,0.043971
+"The Will to Believe, and Other Essays in Popular Philosophy",18,negation,0.043971
+"The Will to Believe, and Other Essays in Popular Philosophy",19,nature thing,0.043299
+"The Will to Believe, and Other Essays in Popular Philosophy",20,subjective,0.042399
+Dubliners,1,say mr,0.100004
+Dubliners,2,kearney,0.089675
+Dubliners,3,mary jane,0.082878
+Dubliners,4,ignatius,0.082466
+Dubliners,5,cunningham,0.080035
+Dubliners,6,aunt julia,0.079957
+Dubliners,7,chandler,0.078999
+Dubliners,8,farrington,0.076389
+Dubliners,9,browne,0.073624
+Dubliners,10,kate,0.07207
+Dubliners,11,mr,0.070774
+Dubliners,12,gabriel,0.068743
+Dubliners,13,say gabriel,0.068517
+Dubliners,14,kathleen,0.067084
+Dubliners,15,freddy,0.065726
+Dubliners,16,dublin,0.06355
+Dubliners,17,say mary,0.062907
+Dubliners,18,mrs,0.062724
+Dubliners,19,say aunt,0.060974
+Dubliners,20,julia,0.059351
+The House of Mirth,1,selden,0.089638
+The House of Mirth,2,bart,0.083376
+The House of Mirth,3,stepney,0.077589
+The House of Mirth,4,dorset,0.073582
+The House of Mirth,5,gus,0.069992
+The House of Mirth,6,bertha,0.065804
+The House of Mirth,7,judy,0.064465
+The House of Mirth,8,silverton,0.064396
+The House of Mirth,9,fisher,0.052573
+The House of Mirth,10,lily,0.050922
+The House of Mirth,11,hubert,0.050806
+The House of Mirth,12,evie,0.048034
+The House of Mirth,13,fifth avenue,0.047394
+The House of Mirth,14,aunt julia,0.045197
+The House of Mirth,15,percy,0.045052
+The House of Mirth,16,regina,0.045043
+The House of Mirth,17,lawrence,0.043389
+The House of Mirth,18,ned,0.041695
+The House of Mirth,19,duchess,0.041614
+The House of Mirth,20,louisa,0.039682
+The Hound of the Baskervilles,1,baskerville,0.121749
+The Hound of the Baskervilles,2,sir henry,0.10409
+The Hound of the Baskervilles,3,holmes,0.097986
+The Hound of the Baskervilles,4,sir charles,0.095786
+The Hound of the Baskervilles,5,watson,0.092935
+The Hound of the Baskervilles,6,mortimer,0.091671
+The Hound of the Baskervilles,7,say holmes,0.088248
+The Hound of the Baskervilles,8,baronet,0.087612
+The Hound of the Baskervilles,9,frankland,0.082322
+The Hound of the Baskervilles,10,sherlock,0.071273
+The Hound of the Baskervilles,11,sherlock holmes,0.071273
+The Hound of the Baskervilles,12,selden,0.070739
+The Hound of the Baskervilles,13,lestrade,0.069884
+The Hound of the Baskervilles,14,watson say,0.069151
+The Hound of the Baskervilles,15,tor,0.066237
+The Hound of the Baskervilles,16,lyons,0.065983
+The Hound of the Baskervilles,17,baker street,0.060656
+The Hound of the Baskervilles,18,moor,0.059709
+The Hound of the Baskervilles,19,mire,0.05465
+The Hound of the Baskervilles,20,henry,0.050618
+The Wind in the Willows,1,say rat,0.103929
+The Wind in the Willows,2,badger,0.090141
+The Wind in the Willows,3,say toad,0.088796
+The Wind in the Willows,4,toad,0.080843
+The Wind in the Willows,5,water rat,0.080092
+The Wind in the Willows,6,wild wood,0.073741
+The Wind in the Willows,7,mole,0.073132
+The Wind in the Willows,8,otter,0.068635
+The Wind in the Willows,9,weasel,0.067765
+The Wind in the Willows,10,washerwoman,0.067629
+The Wind in the Willows,11,engine driver,0.066048
+The Wind in the Willows,12,motor car,0.058276
+The Wind in the Willows,13,poop,0.057606
+The Wind in the Willows,14,rat,0.053565
+The Wind in the Willows,15,gipsy,0.05037
+The Wind in the Willows,16,barge,0.048094
+The Wind in the Willows,17,river bank,0.04647
+The Wind in the Willows,18,weir,0.045655
+The Wind in the Willows,19,ho ho,0.042096
+The Wind in the Willows,20,motor,0.040829
+Howards End,1,evie,0.088928
+Howards End,2,helen,0.080542
+Howards End,3,leonard,0.07933
+Howards End,4,avery,0.078479
+Howards End,5,meg,0.077672
+Howards End,6,schlegel,0.076057
+Howards End,7,wickham,0.075921
+Howards End,8,say helen,0.07529
+Howards End,9,dolly,0.074821
+Howards End,10,margaret,0.070252
+Howards End,11,bast,0.068761
+Howards End,12,howard,0.06648
+Howards End,13,hilton,0.062262
+Howards End,14,cunningham,0.040498
+Howards End,15,vyse,0.040463
+Howards End,16,ruth,0.039826
+Howards End,17,herr,0.038832
+Howards End,18,henry,0.037847
+Howards End,19,auntie,0.037742
+Howards End,20,chauffeur,0.0377
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",1,charley,0.127183
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",2,harper,0.111905
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",3,ben,0.092751
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",4,harry,0.088137
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",5,mamma,0.083195
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",6,young people,0.078102
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",7,joe,0.077179
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",8,candy,0.076656
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",9,recipe,0.070634
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",10,ant,0.070317
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",11,balloon,0.067561
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",12,honey,0.066852
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",13,keel,0.062134
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",14,maria,0.061649
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",15,washington,0.061518
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",16,tom,0.060869
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",17,scottish,0.058668
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",18,georgia,0.057216
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",19,say uncle,0.057216
+"Harper's Young People, June 15, 1880 / An Illustrated Weekly",20,uncle,0.056426
+"The Smoky God; Or, A Voyage to the Inner World",1,olaf,0.145015
+"The Smoky God; Or, A Voyage to the Inner World",2,jansen,0.144059
+"The Smoky God; Or, A Voyage to the Inner World",3,iceberg,0.109328
+"The Smoky God; Or, A Voyage to the Inner World",4,sloop,0.10703
+"The Smoky God; Or, A Voyage to the Inner World",5,surface earth,0.083577
+"The Smoky God; Or, A Voyage to the Inner World",6,open water,0.080564
+"The Smoky God; Or, A Voyage to the Inner World",7,berg,0.078395
+"The Smoky God; Or, A Voyage to the Inner World",8,mammoth,0.077713
+"The Smoky God; Or, A Voyage to the Inner World",9,magnetic,0.074421
+"The Smoky God; Or, A Voyage to the Inner World",10,smoky,0.074095
+"The Smoky God; Or, A Voyage to the Inner World",11,los,0.068268
+"The Smoky God; Or, A Voyage to the Inner World",12,eden,0.064289
+"The Smoky God; Or, A Voyage to the Inner World",13,open sea,0.063498
+"The Smoky God; Or, A Voyage to the Inner World",14,arctic,0.060826
+"The Smoky God; Or, A Voyage to the Inner World",15,whaling,0.059801
+"The Smoky God; Or, A Voyage to the Inner World",16,antarctic,0.058515
+"The Smoky God; Or, A Voyage to the Inner World",17,center,0.057652
+"The Smoky God; Or, A Voyage to the Inner World",18,foot height,0.055624
+"The Smoky God; Or, A Voyage to the Inner World",19,cask,0.055161
+"The Smoky God; Or, A Voyage to the Inner World",20,bungalow,0.054904
+Original Short Stories — Volume 13,1,antoine,0.077931
+Original Short Stories — Volume 13,2,monsieur,0.060878
+Original Short Stories — Volume 13,3,franc,0.057611
+Original Short Stories — Volume 13,4,chateau,0.056964
+Original Short Stories — Volume 13,5,mme,0.053244
+Original Short Stories — Volume 13,6,thousand franc,0.052166
+Original Short Stories — Volume 13,7,odor,0.050282
+Original Short Stories — Volume 13,8,sweetheart,0.0495
+Original Short Stories — Volume 13,9,humbug,0.046675
+Original Short Stories — Volume 13,10,drunkard,0.042669
+Original Short Stories — Volume 13,11,alcohol,0.042581
+Original Short Stories — Volume 13,12,little fellow,0.042504
+Original Short Stories — Volume 13,13,shingle,0.041945
+Original Short Stories — Volume 13,14,blond,0.041627
+Original Short Stories — Volume 13,15,madame,0.041396
+Original Short Stories — Volume 13,16,quay,0.04117
+Original Short Stories — Volume 13,17,old people,0.041097
+Original Short Stories — Volume 13,18,pyre,0.040735
+Original Short Stories — Volume 13,19,poe,0.04038
+Original Short Stories — Volume 13,20,remain motionless,0.039896
+Herland,1,terry,0.134118
+Herland,2,motherhood,0.088801
+Herland,3,woman work,0.049229
+Herland,4,courtship,0.046882
+Herland,5,neuter,0.046325
+Herland,6,tutor,0.042233
+Herland,7,rest world,0.041479
+Herland,8,mother love,0.041189
+Herland,9,man country,0.03951
+Herland,10,civilization,0.039435
+Herland,11,masculine,0.039324
+Herland,12,like woman,0.03889
+Herland,13,specialized,0.037756
+Herland,14,country know,0.036906
+Herland,15,feminine,0.036754
+Herland,16,wide range,0.036534
+Herland,17,woman,0.036394
+Herland,18,civilized,0.036311
+Herland,19,child child,0.036264
+Herland,20,ant,0.035792
+Minna,1,var,0.1452
+Minna,2,af,0.142133
+Minna,3,som,0.141022
+Minna,4,med,0.137132
+Minna,5,har,0.126299
+Minna,6,det,0.122147
+Minna,7,kan,0.117136
+Minna,8,til,0.116832
+Minna,9,dette,0.113773
+Minna,10,om,0.113668
+Minna,11,efter,0.112523
+Minna,12,hun,0.112052
+Minna,13,vil,0.111639
+Minna,14,min,0.110734
+Minna,15,minna,0.108778
+Minna,16,han,0.105361
+Minna,17,ind,0.104256
+Minna,18,ja,0.103394
+Minna,19,ingen,0.101845
+Minna,20,anden,0.099672
+Dracula,1,harker,0.084398
+Dracula,2,mina,0.083113
+Dracula,3,seward,0.081122
+Dracula,4,jonathan,0.077065
+Dracula,5,lucy,0.072142
+Dracula,6,godalming,0.070236
+Dracula,7,friend john,0.069578
+Dracula,8,quincey,0.063254
+Dracula,9,poor lucy,0.061195
+Dracula,10,miss lucy,0.06031
+Dracula,11,hawkins,0.057812
+Dracula,12,say van,0.053687
+Dracula,13,morris,0.051128
+Dracula,14,vampire,0.048203
+Dracula,15,garlic,0.045258
+Dracula,16,dear madam,0.045097
+Dracula,17,diary,0.043224
+Dracula,18,piccadilly,0.043193
+Dracula,19,crucifix,0.043129
+Dracula,20,arthur,0.042352
+The Time Machine,1,time traveller,0.127944
+The Time Machine,2,time machine,0.118651
+The Time Machine,3,psychologist,0.071149
+The Time Machine,4,camphor,0.070787
+The Time Machine,5,medical man,0.070461
+The Time Machine,6,sphinx,0.065124
+The Time Machine,7,pedestal,0.059901
+The Time Machine,8,porcelain,0.057562
+The Time Machine,9,lever,0.053882
+The Time Machine,10,traveller,0.053511
+The Time Machine,11,laboratory,0.052364
+The Time Machine,12,dimensional,0.052047
+The Time Machine,13,incontinently,0.051028
+The Time Machine,14,rhododendron,0.049713
+The Time Machine,15,editor,0.047006
+The Time Machine,16,medical,0.046815
+The Time Machine,17,dimension,0.045862
+The Time Machine,18,journalist,0.045751
+The Time Machine,19,hillock,0.044971
+The Time Machine,20,civilisation,0.044971
+The Enchanted Castle,1,gerald,0.139611
+The Enchanted Castle,2,kathleen,0.126145
+The Enchanted Castle,3,mabel,0.119057
+The Enchanted Castle,4,say kathleen,0.108635
+The Enchanted Castle,5,say jimmy,0.098589
+The Enchanted Castle,6,jimmy,0.087155
+The Enchanted Castle,7,eliza,0.085291
+The Enchanted Castle,8,phoebus,0.082533
+The Enchanted Castle,9,mademoiselle,0.07797
+The Enchanted Castle,10,bailiff,0.061603
+The Enchanted Castle,11,ring say,0.059621
+The Enchanted Castle,12,jerry,0.059166
+The Enchanted Castle,13,rhododendron,0.057521
+The Enchanted Castle,14,bun,0.054567
+The Enchanted Castle,15,princess,0.053756
+The Enchanted Castle,16,come alive,0.053276
+The Enchanted Castle,17,johnson,0.052344
+The Enchanted Castle,18,say aunt,0.049478
+The Enchanted Castle,19,say lord,0.046842
+The Enchanted Castle,20,say invisible,0.045931
+The war of the worlds,1,martians,0.108446
+The war of the worlds,2,martian,0.096648
+The war of the worlds,3,heat ray,0.088012
+The war of the worlds,4,artilleryman,0.082217
+The war of the worlds,5,weybridge,0.073126
+The war of the worlds,6,ogilvy,0.069055
+The war of the worlds,7,curate,0.064946
+The war of the worlds,8,black smoke,0.057548
+The war of the worlds,9,henderson,0.055431
+The war of the worlds,10,cylinder,0.055353
+The war of the worlds,11,tentacle,0.054342
+The war of the worlds,12,mars,0.051389
+The war of the worlds,13,scullery,0.048779
+The war of the worlds,14,pine wood,0.044086
+The war of the worlds,15,chaise,0.043869
+The war of the worlds,16,waggon,0.043869
+The war of the worlds,17,richmond,0.043079
+The war of the worlds,18,heather,0.04247
+The war of the worlds,19,surrey,0.04202
+The war of the worlds,20,pine tree,0.041469
+The Ragged Trousered Philanthropists,1,easton,0.083528
+The Ragged Trousered Philanthropists,2,harlow,0.07546
+The Ragged Trousered Philanthropists,3,crass,0.072706
+The Ragged Trousered Philanthropists,4,bert,0.065024
+The Ragged Trousered Philanthropists,5,owen,0.062531
+The Ragged Trousered Philanthropists,6,cause poverty,0.060876
+The Ragged Trousered Philanthropists,7,nimrod,0.060109
+The Ragged Trousered Philanthropists,8,linden,0.059253
+The Ragged Trousered Philanthropists,9,newman,0.057205
+The Ragged Trousered Philanthropists,10,ruth,0.054045
+The Ragged Trousered Philanthropists,11,sweater,0.053601
+The Ragged Trousered Philanthropists,12,elsie,0.050755
+The Ragged Trousered Philanthropists,13,nora,0.050633
+The Ragged Trousered Philanthropists,14,grinder,0.049304
+The Ragged Trousered Philanthropists,15,wot,0.049284
+The Ragged Trousered Philanthropists,16,ouse,0.049226
+The Ragged Trousered Philanthropists,17,charley,0.047947
+The Ragged Trousered Philanthropists,18,orf,0.046707
+The Ragged Trousered Philanthropists,19,ave,0.045932
+The Ragged Trousered Philanthropists,20,present system,0.045195
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",1,strindberg,0.100541
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",2,maeterlinck,0.100447
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",3,tolstoy,0.09058
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",4,nietzsche,0.082225
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",5,zarathustra,0.068801
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",6,muzhik,0.063094
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",7,fatalism,0.056529
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",8,spake zarathustra,0.053381
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",9,ibsen,0.053288
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",10,superman,0.051308
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",11,friedrich,0.051185
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",12,ethical,0.049798
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",13,mysticism,0.047325
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",14,anna,0.047275
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",15,wagner,0.044517
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",16,spake,0.044376
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",17,emerson,0.043844
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",18,rousseau,0.043138
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",19,maurice,0.043138
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",20,pessimism,0.042904
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",1,maeterlinck,0.100162
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",2,strindberg,0.1001
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",3,tolstoy,0.090363
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",4,nietzsche,0.082018
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",5,zarathustra,0.068873
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",6,muzhik,0.06316
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",7,fatalism,0.056589
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",8,spake zarathustra,0.053437
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",9,ibsen,0.053344
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",10,superman,0.051362
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",11,ethical,0.04985
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",12,friedrich,0.049801
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",13,anna,0.047325
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",14,mysticism,0.046192
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",15,wagner,0.044564
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",16,spake,0.044423
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",17,emerson,0.04389
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",18,rousseau,0.043183
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",19,pessimism,0.042949
+"Prophets of Dissent : Essays on Maeterlinck, Strindberg, Nietzsche and Tolstoy",20,saith,0.04192
+Pygmalion,1,pickering,0.162607
+Pygmalion,2,doolittle,0.152715
+Pygmalion,3,higgins,0.150886
+Pygmalion,4,pearce,0.147546
+Pygmalion,5,liza,0.135568
+Pygmalion,6,eliza,0.127656
+Pygmalion,7,freddy,0.112739
+Pygmalion,8,parlor maid,0.10903
+Pygmalion,9,mrs,0.098391
+Pygmalion,10,taker,0.085444
+Pygmalion,11,ottoman,0.084056
+Pygmalion,12,clara,0.081258
+Pygmalion,13,ow,0.07305
+Pygmalion,14,ah ah,0.070263
+Pygmalion,15,bystander,0.066155
+Pygmalion,16,oo,0.063503
+Pygmalion,17,parlor,0.063107
+Pygmalion,18,governor,0.057594
+Pygmalion,19,colonel,0.057419
+Pygmalion,20,hearthrug,0.056842
+The Souls of Black Folk,1,atlanta,0.078461
+The Souls of Black Folk,2,negroes,0.076447
+The Souls of Black Folk,3,freedman,0.075249
+The Souls of Black Folk,4,black belt,0.071229
+The Souls of Black Folk,5,josie,0.069662
+The Souls of Black Folk,6,laborer,0.06081
+The Souls of Black Folk,7,negro,0.058345
+The Souls of Black Folk,8,black man,0.055683
+The Souls of Black Folk,9,georgia,0.051745
+The Souls of Black Folk,10,schoolhouse,0.050141
+The Souls of Black Folk,11,howard,0.049744
+The Souls of Black Folk,12,tuskegee,0.048085
+The Souls of Black Folk,13,nigger,0.047223
+The Souls of Black Folk,14,bureau,0.047031
+The Souls of Black Folk,15,cooperation,0.046451
+The Souls of Black Folk,16,washington,0.046409
+The Souls of Black Folk,17,economic,0.046137
+The Souls of Black Folk,18,workingman,0.0461
+The Souls of Black Folk,19,booker,0.044945
+The Souls of Black Folk,20,booker washington,0.044945
+A Floating Home,1,skipper,0.090769
+A Floating Home,2,arde,0.08698
+A Floating Home,3,ef,0.08625
+A Floating Home,4,barge,0.078031
+A Floating Home,5,essex,0.077609
+A Floating Home,6,topsail,0.073763
+A Floating Home,7,gladstone,0.07172
+A Floating Home,8,agin,0.070103
+A Floating Home,9,dinghy,0.067481
+A Floating Home,10,afore,0.066789
+A Floating Home,11,berth,0.066448
+A Floating Home,12,cockney,0.064297
+A Floating Home,13,louisa,0.06342
+A Floating Home,14,sam,0.061827
+A Floating Home,15,ark,0.061409
+A Floating Home,16,yacht,0.060872
+A Floating Home,17,git,0.059715
+A Floating Home,18,alma,0.058177
+A Floating Home,19,ud,0.055169
+A Floating Home,20,high water,0.054705
+The strange case of Dr. Jekyll and Mr. Hyde,1,poole,0.136051
+The strange case of Dr. Jekyll and Mr. Hyde,2,hyde,0.132252
+The strange case of Dr. Jekyll and Mr. Hyde,3,lawyer,0.074844
+The strange case of Dr. Jekyll and Mr. Hyde,4,edward,0.066146
+The strange case of Dr. Jekyll and Mr. Hyde,5,dr,0.065414
+The strange case of Dr. Jekyll and Mr. Hyde,6,ay,0.06247
+The strange case of Dr. Jekyll and Mr. Hyde,7,cheque,0.062313
+The strange case of Dr. Jekyll and Mr. Hyde,8,cabinet,0.059832
+The strange case of Dr. Jekyll and Mr. Hyde,9,gallow,0.057517
+The strange case of Dr. Jekyll and Mr. Hyde,10,butler,0.056982
+The strange case of Dr. Jekyll and Mr. Hyde,11,henry,0.056728
+The strange case of Dr. Jekyll and Mr. Hyde,12,laboratory,0.054791
+The strange case of Dr. Jekyll and Mr. Hyde,13,drug,0.052345
+The strange case of Dr. Jekyll and Mr. Hyde,14,crate,0.049172
+The strange case of Dr. Jekyll and Mr. Hyde,15,compound,0.048874
+The strange case of Dr. Jekyll and Mr. Hyde,16,harry,0.046024
+The strange case of Dr. Jekyll and Mr. Hyde,17,tut,0.045846
+The strange case of Dr. Jekyll and Mr. Hyde,18,recognise,0.045216
+The strange case of Dr. Jekyll and Mr. Hyde,19,cheval,0.045071
+The strange case of Dr. Jekyll and Mr. Hyde,20,murderer,0.044688
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,1,keith,0.084581
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,2,pasha,0.082941
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,3,bagdad,0.074124
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,4,philip,0.070412
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,5,tigris,0.069156
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,6,armenian,0.069146
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,7,amara,0.068851
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,8,mesopotamia,0.067771
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,9,douglas,0.066888
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,10,head quarter,0.065961
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,11,turks,0.065801
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,12,subaltern,0.063307
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,13,expeditionary,0.062979
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,14,euphrates,0.062674
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,15,motor boat,0.062464
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,16,arab,0.062329
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,17,expeditionary force,0.062136
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,18,sultan,0.061351
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,19,phil,0.061324
+On the Road to Bagdad: A Story of Townshend's Gallant Advance on the Tigris,20,allah,0.057863
+Beyond Good and Evil,1,free spirit,0.054598
+Beyond Good and Evil,2,high man,0.054066
+Beyond Good and Evil,3,morality,0.051216
+Beyond Good and Evil,4,plebeian,0.050487
+Beyond Good and Evil,5,schopenhauer,0.049432
+Beyond Good and Evil,6,valuation,0.048983
+Beyond Good and Evil,7,fundamentally,0.046021
+Beyond Good and Evil,8,philosopher,0.045968
+Beyond Good and Evil,9,psychologist,0.045758
+Beyond Good and Evil,10,gregarious,0.045555
+Beyond Good and Evil,11,type man,0.045409
+Beyond Good and Evil,12,kant,0.044532
+Beyond Good and Evil,13,europeans,0.044392
+Beyond Good and Evil,14,socrates,0.044255
+Beyond Good and Evil,15,romanticism,0.042625
+Beyond Good and Evil,16,plato,0.042407
+Beyond Good and Evil,17,germans,0.042114
+Beyond Good and Evil,18,christianity,0.04142
+Beyond Good and Evil,19,goethe,0.041211
+Beyond Good and Evil,20,wagner,0.040906
+Anne of Green Gables,1,josie,0.083993
+Anne of Green Gables,2,anne,0.083807
+Anne of Green Gables,3,gables,0.083147
+Anne of Green Gables,4,diana,0.082447
+Anne of Green Gables,5,cuthbert,0.082392
+Anne of Green Gables,6,rachel,0.078125
+Anne of Green Gables,7,barry,0.076268
+Anne of Green Gables,8,andrews,0.073423
+Anne of Green Gables,9,allan,0.071756
+Anne of Green Gables,10,matthew,0.068278
+Anne of Green Gables,11,gilbert,0.067233
+Anne of Green Gables,12,phillips,0.060385
+Anne of Green Gables,13,avery,0.05887
+Anne of Green Gables,14,sloane,0.05846
+Anne of Green Gables,15,minnie,0.055206
+Anne of Green Gables,16,brooch,0.053134
+Anne of Green Gables,17,jane,0.052946
+Anne of Green Gables,18,ruby,0.051143
+Anne of Green Gables,19,haunted,0.046905
+Anne of Green Gables,20,sands,0.046905
+Tales of Men and Ghosts,1,vyse,0.08714
+Tales of Men and Ghosts,2,ronald,0.085348
+Tales of Men and Ghosts,3,spence,0.084154
+Tales of Men and Ghosts,4,boyne,0.077454
+Tales of Men and Ghosts,5,lizzie,0.071062
+Tales of Men and Ghosts,6,archie,0.068448
+Tales of Men and Ghosts,7,grew,0.067647
+Tales of Men and Ghosts,8,dredge,0.067449
+Tales of Men and Ghosts,9,denver,0.058386
+Tales of Men and Ghosts,10,draper,0.056313
+Tales of Men and Ghosts,11,galen,0.055796
+Tales of Men and Ghosts,12,melon,0.052089
+Tales of Men and Ghosts,13,daunt,0.051745
+Tales of Men and Ghosts,14,bain,0.050461
+Tales of Men and Ghosts,15,juliet,0.047591
+Tales of Men and Ghosts,16,fifth avenue,0.047424
+Tales of Men and Ghosts,17,diana,0.046055
+Tales of Men and Ghosts,18,parlor maid,0.044698
+Tales of Men and Ghosts,19,mabel,0.043852
+Tales of Men and Ghosts,20,gilbert,0.042202
+The Outline of History: Being a Plain History of Life and Mankind,1,neolithic,0.062021
+The Outline of History: Being a Plain History of Life and Mankind,2,gautama,0.055966
+The Outline of History: Being a Plain History of Life and Mankind,3,aryan,0.055553
+The Outline of History: Being a Plain History of Life and Mankind,4,mesozoic,0.054795
+The Outline of History: Being a Plain History of Life and Mankind,5,babylonia,0.052627
+The Outline of History: Being a Plain History of Life and Mankind,6,sumerian,0.051365
+The Outline of History: Being a Plain History of Life and Mankind,7,palæozoic,0.050677
+The Outline of History: Being a Plain History of Life and Mankind,8,carthage,0.050623
+The Outline of History: Being a Plain History of Life and Mankind,9,darius,0.049974
+The Outline of History: Being a Plain History of Life and Mankind,10,semitic,0.049909
+The Outline of History: Being a Plain History of Life and Mankind,11,neolithic man,0.04956
+The Outline of History: Being a Plain History of Life and Mankind,12,aryans,0.048774
+The Outline of History: Being a Plain History of Life and Mankind,13,medes,0.04832
+The Outline of History: Being a Plain History of Life and Mankind,14,assyria,0.047849
+The Outline of History: Being a Plain History of Life and Mankind,15,herodotus,0.047849
+The Outline of History: Being a Plain History of Life and Mankind,16,nomad,0.047849
+The Outline of History: Being a Plain History of Life and Mankind,17,persians,0.04765
+The Outline of History: Being a Plain History of Life and Mankind,18,hannibal,0.047521
+The Outline of History: Being a Plain History of Life and Mankind,19,pericles,0.047326
+The Outline of History: Being a Plain History of Life and Mankind,20,carthaginians,0.046929
+Relativity : the Special and General Theory,1,ordinate,0.146067
+Relativity : the Special and General Theory,2,co ordinate,0.146067
+Relativity : the Special and General Theory,3,relativity,0.145362
+Relativity : the Special and General Theory,4,euclidean,0.13413
+Relativity : the Special and General Theory,5,gravitational,0.133039
+Relativity : the Special and General Theory,6,dimensional,0.125273
+Relativity : the Special and General Theory,7,lorentz,0.123695
+Relativity : the Special and General Theory,8,general theory,0.123146
+Relativity : the Special and General Theory,9,continuum,0.116979
+Relativity : the Special and General Theory,10,measuring,0.102498
+Relativity : the Special and General Theory,11,equation,0.09729
+Relativity : the Special and General Theory,12,velocity,0.090625
+Relativity : the Special and General Theory,13,minkowski,0.088877
+Relativity : the Special and General Theory,14,coordinate,0.08861
+Relativity : the Special and General Theory,15,embankment,0.082433
+Relativity : the Special and General Theory,16,spherical,0.081332
+Relativity : the Special and General Theory,17,empirical,0.080819
+Relativity : the Special and General Theory,18,general law,0.080351
+Relativity : the Special and General Theory,19,general principle,0.079972
+Relativity : the Special and General Theory,20,einstein,0.078536
+Pragmatism: A New Name for Some Old Ways of Thinking,1,pragmatism,0.106036
+Pragmatism: A New Name for Some Old Ways of Thinking,2,rationalist,0.102796
+Pragmatism: A New Name for Some Old Ways of Thinking,3,pragmatic,0.093694
+Pragmatism: A New Name for Some Old Ways of Thinking,4,pragmatist,0.09368
+Pragmatism: A New Name for Some Old Ways of Thinking,5,tho,0.081666
+Pragmatism: A New Name for Some Old Ways of Thinking,6,empiricist,0.07876
+Pragmatism: A New Name for Some Old Ways of Thinking,7,rationalism,0.078339
+Pragmatism: A New Name for Some Old Ways of Thinking,8,pluralism,0.077128
+Pragmatism: A New Name for Some Old Ways of Thinking,9,verification,0.07312
+Pragmatism: A New Name for Some Old Ways of Thinking,10,oneness,0.073017
+Pragmatism: A New Name for Some Old Ways of Thinking,11,rationalistic,0.071574
+Pragmatism: A New Name for Some Old Ways of Thinking,12,empiricism,0.0699
+Pragmatism: A New Name for Some Old Ways of Thinking,13,theism,0.0686
+Pragmatism: A New Name for Some Old Ways of Thinking,14,schiller,0.068153
+Pragmatism: A New Name for Some Old Ways of Thinking,15,connexion,0.065293
+Pragmatism: A New Name for Some Old Ways of Thinking,16,materialism,0.059999
+Pragmatism: A New Name for Some Old Ways of Thinking,17,unify,0.057589
+Pragmatism: A New Name for Some Old Ways of Thinking,18,locke,0.057589
+Pragmatism: A New Name for Some Old Ways of Thinking,19,berkeley,0.057471
+Pragmatism: A New Name for Some Old Ways of Thinking,20,finite,0.055965
+"South: The Story of Shackleton's Last Expedition, 1914-1917",1,floe,0.081027
+"South: The Story of Shackleton's Last Expedition, 1914-1917",2,berg,0.074903
+"South: The Story of Shackleton's Last Expedition, 1914-1917",3,elephant island,0.070894
+"South: The Story of Shackleton's Last Expedition, 1914-1917",4,caird,0.070464
+"South: The Story of Shackleton's Last Expedition, 1914-1917",5,hut point,0.069484
+"South: The Story of Shackleton's Last Expedition, 1914-1917",6,sledging,0.069484
+"South: The Story of Shackleton's Last Expedition, 1914-1917",7,ft,0.066396
+"South: The Story of Shackleton's Last Expedition, 1914-1917",8,joyce,0.066055
+"South: The Story of Shackleton's Last Expedition, 1914-1917",9,docker,0.064587
+"South: The Story of Shackleton's Last Expedition, 1914-1917",10,lat long,0.064315
+"South: The Story of Shackleton's Last Expedition, 1914-1917",11,crean,0.063463
+"South: The Story of Shackleton's Last Expedition, 1914-1917",12,hayward,0.062438
+"South: The Story of Shackleton's Last Expedition, 1914-1917",13,pack ice,0.062234
+"South: The Story of Shackleton's Last Expedition, 1914-1917",14,fahr,0.061301
+"South: The Story of Shackleton's Last Expedition, 1914-1917",15,young ice,0.060879
+"South: The Story of Shackleton's Last Expedition, 1914-1917",16,mackintosh,0.060531
+"South: The Story of Shackleton's Last Expedition, 1914-1917",17,blizzard,0.058397
+"South: The Story of Shackleton's Last Expedition, 1914-1917",18,dudley,0.057446
+"South: The Story of Shackleton's Last Expedition, 1914-1917",19,lbs,0.057088
+"South: The Story of Shackleton's Last Expedition, 1914-1917",20,frost bite,0.056748
+The Invisible Man: A Grotesque Romance,1,invisible man,0.122474
+The Invisible Man: A Grotesque Romance,2,say marvel,0.099693
+The Invisible Man: A Grotesque Romance,3,say hall,0.089316
+The Invisible Man: A Grotesque Romance,4,say invisible,0.084022
+The Invisible Man: A Grotesque Romance,5,bunting,0.080995
+The Invisible Man: A Grotesque Romance,6,griffin,0.073817
+The Invisible Man: A Grotesque Romance,7,cuss,0.071625
+The Invisible Man: A Grotesque Romance,8,teddy,0.070298
+The Invisible Man: A Grotesque Romance,9,mariner,0.05868
+The Invisible Man: A Grotesque Romance,10,invisibility,0.055466
+The Invisible Man: A Grotesque Romance,11,parlour,0.053037
+The Invisible Man: A Grotesque Romance,12,cabman,0.049899
+The Invisible Man: A Grotesque Romance,13,poker,0.048731
+The Invisible Man: A Grotesque Romance,14,say stranger,0.047913
+The Invisible Man: A Grotesque Romance,15,vicar,0.046877
+The Invisible Man: A Grotesque Romance,16,tram,0.046323
+The Invisible Man: A Grotesque Romance,17,say voice,0.044779
+The Invisible Man: A Grotesque Romance,18,crate,0.044556
+The Invisible Man: A Grotesque Romance,19,marvel,0.044312
+The Invisible Man: A Grotesque Romance,20,portland,0.043193
+At the Foot of the Rainbow,1,jimmy,0.104171
+At the Foot of the Rainbow,2,malone,0.096554
+At the Foot of the Rainbow,3,casey,0.092238
+At the Foot of the Rainbow,4,father michael,0.091088
+At the Foot of the Rainbow,5,say jimmy,0.090882
+At the Foot of the Rainbow,6,coon,0.087012
+At the Foot of the Rainbow,7,whin,0.085963
+At the Foot of the Rainbow,8,na,0.085416
+At the Foot of the Rainbow,9,say mary,0.080354
+At the Foot of the Rainbow,10,fra,0.077352
+At the Foot of the Rainbow,11,milk pail,0.069228
+At the Foot of the Rainbow,12,kingfisher,0.068672
+At the Foot of the Rainbow,13,bass,0.067476
+At the Foot of the Rainbow,14,mary say,0.065763
+At the Foot of the Rainbow,15,mary,0.059074
+At the Foot of the Rainbow,16,tell ye,0.058778
+At the Foot of the Rainbow,17,ye know,0.058583
+At the Foot of the Rainbow,18,nicht,0.057036
+At the Foot of the Rainbow,19,mary go,0.055838
+At the Foot of the Rainbow,20,ye,0.055565
+The Age of Innocence,1,archer,0.088922
+The Age of Innocence,2,beaufort,0.088537
+The Age of Innocence,3,van der,0.085566
+The Age of Innocence,4,dallas,0.074179
+The Age of Innocence,5,struthers,0.069393
+The Age of Innocence,6,ellen,0.068744
+The Age of Innocence,7,rivière,0.067489
+The Age of Innocence,8,jackson,0.0597
+The Age of Innocence,9,regina,0.058531
+The Age of Innocence,10,granny,0.056051
+The Age of Innocence,11,fifth avenue,0.05534
+The Age of Innocence,12,louisa,0.054804
+The Age of Innocence,13,countess,0.05257
+The Age of Innocence,14,fanny,0.050281
+The Age of Innocence,15,der,0.04785
+The Age of Innocence,16,newport,0.047734
+The Age of Innocence,17,carver,0.047575
+The Age of Innocence,18,lawrence,0.046364
+The Age of Innocence,19,say van,0.046269
+The Age of Innocence,20,brougham,0.045594
+Germinal,1,avait,0.045344
+Germinal,2,était,0.043094
+Germinal,3,elle,0.04085
+Germinal,4,lui,0.040207
+Germinal,5,camarade,0.040164
+Germinal,6,ça,0.039941
+Germinal,7,et il,0.039846
+Germinal,8,la tête,0.039825
+Germinal,9,avec,0.039811
+Germinal,10,leur,0.038876
+Germinal,11,mineur,0.038685
+Germinal,12,fosse,0.038677
+Germinal,13,là,0.038672
+Germinal,14,ouvrier,0.038257
+Germinal,15,il avait,0.037992
+Germinal,16,voix,0.037933
+Germinal,17,aux,0.037875
+Germinal,18,venait,0.037797
+Germinal,19,puis,0.037411
+Germinal,20,la fosse,0.03736
+A Shropshire Lad,1,tis,0.11335
+A Shropshire Lad,2,lad,0.097166
+A Shropshire Lad,3,steeple,0.081383
+A Shropshire Lad,4,vane,0.079054
+A Shropshire Lad,5,hearken,0.075927
+A Shropshire Lad,6,poem,0.074309
+A Shropshire Lad,7,jail,0.069671
+A Shropshire Lad,8,ale,0.069671
+A Shropshire Lad,9,slain,0.067973
+A Shropshire Lad,10,ay,0.066853
+A Shropshire Lad,11,afield,0.066774
+A Shropshire Lad,12,woodland,0.065779
+A Shropshire Lad,13,trod,0.065739
+A Shropshire Lad,14,gallow,0.06378
+A Shropshire Lad,15,sapling,0.06378
+A Shropshire Lad,16,chime,0.063013
+A Shropshire Lad,17,lover,0.062363
+A Shropshire Lad,18,blackbird,0.062001
+A Shropshire Lad,19,ere,0.061395
+A Shropshire Lad,20,ti,0.060376
+Insectivorous Plants,1,hrs,0.106356
+Insectivorous Plants,2,inflect,0.100908
+Insectivorous Plants,3,drosera,0.090275
+Insectivorous Plants,4,hr,0.084231
+Insectivorous Plants,5,protoplasm,0.082276
+Insectivorous Plants,6,minim,0.078733
+Insectivorous Plants,7,secretion,0.078091
+Insectivorous Plants,8,pedicel,0.077945
+Insectivorous Plants,9,tentacle,0.075944
+Insectivorous Plants,10,ammonia,0.075699
+Insectivorous Plants,11,gland,0.074785
+Insectivorous Plants,12,motor impulse,0.074691
+Insectivorous Plants,13,quadrifid,0.073846
+Insectivorous Plants,14,oz,0.073552
+Insectivorous Plants,15,carbonate,0.073182
+Insectivorous Plants,16,aggregated,0.071809
+Insectivorous Plants,17,granular,0.070568
+Insectivorous Plants,18,albuman,0.069885
+Insectivorous Plants,19,bit meat,0.068641
+Insectivorous Plants,20,phosphate,0.067859
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",1,nelly,0.085987
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",2,commissary,0.078062
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",3,holmes,0.071924
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",4,thousand franc,0.069248
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",5,sherlock holmes,0.06798
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",6,sherlock,0.06798
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",7,mon,0.06741
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",8,monsieur,0.063653
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",9,countess,0.062475
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",10,baron,0.062167
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",11,franc,0.059911
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",12,detective,0.058016
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",13,chevalier,0.057666
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",14,mon dieu,0.056802
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",15,monsieur le,0.056802
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",16,boulevard,0.056039
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",17,automobile,0.054549
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",18,necklace,0.054063
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",19,gendarme,0.05314
+"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",20,gangway,0.051824
+A princess of Mars,1,tars,0.106646
+A princess of Mars,2,martian,0.103654
+A princess of Mars,3,sola,0.100241
+A princess of Mars,4,helium,0.097838
+A princess of Mars,5,martians,0.093229
+A princess of Mars,6,kan,0.09043
+A princess of Mars,7,tal,0.087861
+A princess of Mars,8,incubator,0.078565
+A princess of Mars,9,chieftain,0.07351
+A princess of Mars,10,jed,0.069755
+A princess of Mars,11,carter,0.064579
+A princess of Mars,12,powell,0.062487
+A princess of Mars,13,arizona,0.061484
+A princess of Mars,14,mars,0.058932
+A princess of Mars,15,waterway,0.056654
+A princess of Mars,16,warrior,0.056181
+A princess of Mars,17,arena,0.052175
+A princess of Mars,18,princess,0.047579
+A princess of Mars,19,tusk,0.047036
+A princess of Mars,20,chariot,0.046194
+Arizona nights,1,senor,0.103672
+Arizona nights,2,senor johnson,0.098786
+Arizona nights,3,denton,0.084019
+Arizona nights,4,buck johnson,0.083656
+Arizona nights,5,texas pete,0.080437
+Arizona nights,6,jed,0.080296
+Arizona nights,7,ranch,0.078655
+Arizona nights,8,estrella,0.078098
+Arizona nights,9,jed parker,0.077025
+Arizona nights,10,schwartz,0.077008
+Arizona nights,11,hosse,0.076478
+Arizona nights,12,windy bill,0.072063
+Arizona nights,13,cattleman,0.071145
+Arizona nights,14,home ranch,0.070563
+Arizona nights,15,tim,0.069463
+Arizona nights,16,corral,0.069184
+Arizona nights,17,dutchy,0.068236
+Arizona nights,18,uncle jim,0.068034
+Arizona nights,19,tusky,0.067101
+Arizona nights,20,brent palmer,0.067101
+Arizona nights,1,senor,0.103793
+Arizona nights,2,senor johnson,0.098902
+Arizona nights,3,denton,0.084117
+Arizona nights,4,buck johnson,0.083753
+Arizona nights,5,texas pete,0.080531
+Arizona nights,6,jed,0.08039
+Arizona nights,7,ranch,0.078747
+Arizona nights,8,estrella,0.077834
+Arizona nights,9,jed parker,0.077115
+Arizona nights,10,schwartz,0.077098
+Arizona nights,11,hosse,0.076567
+Arizona nights,12,windy bill,0.072148
+Arizona nights,13,cattleman,0.071228
+Arizona nights,14,home ranch,0.070645
+Arizona nights,15,tim,0.069545
+Arizona nights,16,corral,0.068981
+Arizona nights,17,dutchy,0.068316
+Arizona nights,18,uncle jim,0.068113
+Arizona nights,19,tusky,0.06718
+Arizona nights,20,brent palmer,0.06718
+The Story of Mankind,1,western asia,0.050252
+The Story of Mankind,2,indo,0.04899
+The Story of Mankind,3,hannibal,0.04899
+The Story of Mankind,4,tsar,0.04847
+The Story of Mankind,5,egyptians,0.048321
+The Story of Mankind,6,carthage,0.047164
+The Story of Mankind,7,mediaeval,0.046876
+The Story of Mankind,8,western europe,0.04675
+The Story of Mankind,9,greek city,0.046049
+The Story of Mankind,10,roman empire,0.044564
+The Story of Mankind,11,siddhartha,0.043891
+The Story of Mankind,12,prussia,0.043231
+The Story of Mankind,13,sparta,0.042601
+The Story of Mankind,14,pope,0.0422
+The Story of Mankind,15,civilisation,0.041836
+The Story of Mankind,16,carthaginian,0.041809
+The Story of Mankind,17,nile,0.041747
+The Story of Mankind,18,middle ages,0.041725
+The Story of Mankind,19,asia minor,0.041036
+The Story of Mankind,20,semitic,0.040711
+Tarzan of the Apes,1,clayton,0.113122
+Tarzan of the Apes,2,philander,0.097864
+Tarzan of the Apes,3,apes,0.087855
+Tarzan of the Apes,4,esmeralda,0.084226
+Tarzan of the Apes,5,kala,0.080629
+Tarzan of the Apes,6,lioness,0.074055
+Tarzan of the Apes,7,ape man,0.063509
+Tarzan of the Apes,8,jane,0.062627
+Tarzan of the Apes,9,jungle,0.062046
+Tarzan of the Apes,10,cruiser,0.059524
+Tarzan of the Apes,11,anthropoid,0.058884
+Tarzan of the Apes,12,locket,0.053299
+Tarzan of the Apes,13,tut,0.050154
+Tarzan of the Apes,14,ape,0.049482
+Tarzan of the Apes,15,palisade,0.049461
+Tarzan of the Apes,16,alice,0.049322
+Tarzan of the Apes,17,primeval,0.047938
+Tarzan of the Apes,18,cecil,0.047535
+Tarzan of the Apes,19,say professor,0.047352
+Tarzan of the Apes,20,gorilla,0.047289
+"Barry Locke, half-back",1,peaches,0.117928
+"Barry Locke, half-back",2,barry,0.113559
+"Barry Locke, half-back",3,clyde,0.102323
+"Barry Locke, half-back",4,broadmoor,0.099789
+"Barry Locke, half-back",5,lyle,0.096685
+"Barry Locke, half-back",6,toby,0.092577
+"Barry Locke, half-back",7,benjy,0.09212
+"Barry Locke, half-back",8,zo,0.088819
+"Barry Locke, half-back",9,hoskins,0.086347
+"Barry Locke, half-back",10,say barry,0.085323
+"Barry Locke, half-back",11,major loring,0.083476
+"Barry Locke, half-back",12,betty,0.083392
+"Barry Locke, half-back",13,loring,0.082658
+"Barry Locke, half-back",14,say peaches,0.080052
+"Barry Locke, half-back",15,locke,0.077837
+"Barry Locke, half-back",16,hoskin,0.072833
+"Barry Locke, half-back",17,fessenden,0.072324
+"Barry Locke, half-back",18,davy,0.070518
+"Barry Locke, half-back",19,goof,0.070223
+"Barry Locke, half-back",20,haviland,0.068243
+"Barry Locke, half-back",1,peaches,0.118229
+"Barry Locke, half-back",2,barry,0.113831
+"Barry Locke, half-back",3,clyde,0.102497
+"Barry Locke, half-back",4,broadmoor,0.100099
+"Barry Locke, half-back",5,lyle,0.096985
+"Barry Locke, half-back",6,toby,0.092864
+"Barry Locke, half-back",7,benjy,0.092129
+"Barry Locke, half-back",8,zo,0.088761
+"Barry Locke, half-back",9,hoskins,0.086615
+"Barry Locke, half-back",10,say barry,0.085588
+"Barry Locke, half-back",11,major loring,0.083735
+"Barry Locke, half-back",12,betty,0.083523
+"Barry Locke, half-back",13,loring,0.082915
+"Barry Locke, half-back",14,say peaches,0.0803
+"Barry Locke, half-back",15,locke,0.077716
+"Barry Locke, half-back",16,hoskin,0.073059
+"Barry Locke, half-back",17,fessenden,0.071939
+"Barry Locke, half-back",18,davy,0.070737
+"Barry Locke, half-back",19,goof,0.070441
+"Barry Locke, half-back",20,haviland,0.068455
+The marvellous land of Snergs,1,gorbo,0.127562
+The marvellous land of Snergs,2,golithos,0.110537
+The marvellous land of Snergs,3,baldry,0.105769
+The marvellous land of Snergs,4,mother meldrum,0.103565
+The marvellous land of Snergs,5,snergs,0.103092
+The marvellous land of Snergs,6,sylvia,0.101106
+The marvellous land of Snergs,7,watkyns,0.101074
+The marvellous land of Snergs,8,vanderdecken,0.097582
+The marvellous land of Snergs,9,meldrum,0.097334
+The marvellous land of Snergs,10,miss watkyns,0.094841
+The marvellous land of Snergs,11,say gorbo,0.094469
+The marvellous land of Snergs,12,snerg,0.091641
+The marvellous land of Snergs,13,sylvia joe,0.08933
+The marvellous land of Snergs,14,sir percival,0.088833
+The marvellous land of Snergs,15,merse,0.086702
+The marvellous land of Snergs,16,king merse,0.086702
+The marvellous land of Snergs,17,percival,0.083301
+The marvellous land of Snergs,18,kul,0.080812
+The marvellous land of Snergs,19,king kul,0.080812
+The marvellous land of Snergs,20,watkyns bay,0.076538
+The marvellous land of Snergs,1,gorbo,0.127567
+The marvellous land of Snergs,2,golithos,0.110542
+The marvellous land of Snergs,3,baldry,0.105774
+The marvellous land of Snergs,4,mother meldrum,0.10357
+The marvellous land of Snergs,5,snergs,0.103097
+The marvellous land of Snergs,6,sylvia,0.101111
+The marvellous land of Snergs,7,watkyns,0.101078
+The marvellous land of Snergs,8,vanderdecken,0.097586
+The marvellous land of Snergs,9,meldrum,0.097338
+The marvellous land of Snergs,10,miss watkyns,0.094845
+The marvellous land of Snergs,11,say gorbo,0.094473
+The marvellous land of Snergs,12,snerg,0.091645
+The marvellous land of Snergs,13,sylvia joe,0.089334
+The marvellous land of Snergs,14,sir percival,0.088836
+The marvellous land of Snergs,15,king merse,0.086706
+The marvellous land of Snergs,16,merse,0.086706
+The marvellous land of Snergs,17,percival,0.083305
+The marvellous land of Snergs,18,king kul,0.080816
+The marvellous land of Snergs,19,kul,0.080816
+The marvellous land of Snergs,20,joe sylvia,0.076541
+1066 and all that,1,pg pg,0.166597
+1066 and all that,2,barons,0.112647
+1066 and all that,3,scots,0.091987
+1066 and all that,4,britons,0.087737
+1066 and all that,5,danes,0.086045
+1066 and all that,6,surfeit,0.086045
+1066 and all that,7,henry iv,0.083626
+1066 and all that,8,memorable,0.081926
+1066 and all that,9,pretender,0.08128
+1066 and all that,10,walpole,0.078687
+1066 and all that,11,cromwell,0.07461
+1066 and all that,12,queen victoria,0.073752
+1066 and all that,13,wars,0.070236
+1066 and all that,14,edward,0.069218
+1066 and all that,15,alfred,0.067159
+1066 and all that,16,anne,0.065754
+1066 and all that,17,gladstone,0.065581
+1066 and all that,18,scottish,0.064797
+1066 and all that,19,footnote,0.064112
+1066 and all that,20,wellington,0.063742
+1066 and all that,1,barons,0.115456
+1066 and all that,2,scots,0.094281
+1066 and all that,3,britons,0.089925
+1066 and all that,4,surfeit,0.08819
+1066 and all that,5,danes,0.08819
+1066 and all that,6,henry iv,0.085711
+1066 and all that,7,memorable,0.083969
+1066 and all that,8,pretender,0.083307
+1066 and all that,9,walpole,0.080649
+1066 and all that,10,cromwell,0.07647
+1066 and all that,11,queen victoria,0.07559
+1066 and all that,12,wars,0.071987
+1066 and all that,13,edward,0.070944
+1066 and all that,14,alfred,0.068834
+1066 and all that,15,anne,0.067393
+1066 and all that,16,gladstone,0.067216
+1066 and all that,17,scottish,0.066413
+1066 and all that,18,wellington,0.065331
+1066 and all that,19,henry,0.06208
+1066 and all that,20,cæsar,0.06126
+Pour comprendre Einstein,1,relativité,0.051542
+Pour comprendre Einstein,2,la relativité,0.051042
+Pour comprendre Einstein,3,temps,0.046937
+Pour comprendre Einstein,4,même,0.045916
+Pour comprendre Einstein,5,vitesse,0.045655
+Pour comprendre Einstein,6,que nous,0.045333
+Pour comprendre Einstein,7,nombre,0.044646
+Pour comprendre Einstein,8,sont,0.044147
+Pour comprendre Einstein,9,nous,0.043861
+Pour comprendre Einstein,10,lumière,0.043729
+Pour comprendre Einstein,11,notre,0.043137
+Pour comprendre Einstein,12,théorie,0.042999
+Pour comprendre Einstein,13,infini,0.042919
+Pour comprendre Einstein,14,la lumière,0.0426
+Pour comprendre Einstein,15,relativiste,0.042586
+Pour comprendre Einstein,16,einstein,0.042535
+Pour comprendre Einstein,17,physicien,0.042193
+Pour comprendre Einstein,18,dans,0.041922
+Pour comprendre Einstein,19,avec,0.041917
+Pour comprendre Einstein,20,peut,0.041633
+Pour comprendre Einstein,1,relativité,0.051279
+Pour comprendre Einstein,2,la relativité,0.050762
+Pour comprendre Einstein,3,temps,0.046846
+Pour comprendre Einstein,4,même,0.045933
+Pour comprendre Einstein,5,vitesse,0.045672
+Pour comprendre Einstein,6,que nous,0.045349
+Pour comprendre Einstein,7,nombre,0.044662
+Pour comprendre Einstein,8,sont,0.044163
+Pour comprendre Einstein,9,nous,0.043877
+Pour comprendre Einstein,10,lumière,0.043745
+Pour comprendre Einstein,11,notre,0.043153
+Pour comprendre Einstein,12,théorie,0.043015
+Pour comprendre Einstein,13,infini,0.042809
+Pour comprendre Einstein,14,la lumière,0.042616
+Pour comprendre Einstein,15,relativiste,0.042601
+Pour comprendre Einstein,16,einstein,0.042284
+Pour comprendre Einstein,17,physicien,0.042209
+Pour comprendre Einstein,18,dans,0.041937
+Pour comprendre Einstein,19,avec,0.041932
+Pour comprendre Einstein,20,peut,0.041648
+"Nazi conspiracy and aggression, Volume 04 (of 11)",1,reich,0.095605
+"Nazi conspiracy and aggression, Volume 04 (of 11)",2,ps,0.072453
+"Nazi conspiracy and aggression, Volume 04 (of 11)",3,high command,0.071982
+"Nazi conspiracy and aggression, Volume 04 (of 11)",4,ss,0.071643
+"Nazi conspiracy and aggression, Volume 04 (of 11)",5,air force,0.071617
+"Nazi conspiracy and aggression, Volume 04 (of 11)",6,mobilization,0.06594
+"Nazi conspiracy and aggression, Volume 04 (of 11)",7,plenipotentiary,0.062209
+"Nazi conspiracy and aggression, Volume 04 (of 11)",8,synagogue,0.061853
+"Nazi conspiracy and aggression, Volume 04 (of 11)",9,forces,0.061815
+"Nazi conspiracy and aggression, Volume 04 (of 11)",10,german government,0.060515
+"Nazi conspiracy and aggression, Volume 04 (of 11)",11,minister interior,0.060515
+"Nazi conspiracy and aggression, Volume 04 (of 11)",12,armistice,0.058057
+"Nazi conspiracy and aggression, Volume 04 (of 11)",13,field marshal,0.057898
+"Nazi conspiracy and aggression, Volume 04 (of 11)",14,year plan,0.055884
+"Nazi conspiracy and aggression, Volume 04 (of 11)",15,special mission,0.055273
+"Nazi conspiracy and aggression, Volume 04 (of 11)",16,general staff,0.054586
+"Nazi conspiracy and aggression, Volume 04 (of 11)",17,bulgarian,0.054293
+"Nazi conspiracy and aggression, Volume 04 (of 11)",18,criminal police,0.053592
+"Nazi conspiracy and aggression, Volume 04 (of 11)",19,nr,0.051633
+"Nazi conspiracy and aggression, Volume 04 (of 11)",20,french government,0.051491
+Peter Pan,1,wendy,0.158457
+Peter Pan,2,pg pg,0.150697
+Peter Pan,3,mrs darling,0.130062
+Peter Pan,4,mr darling,0.126885
+Peter Pan,5,nana,0.117339
+Peter Pan,6,smee,0.113655
+Peter Pan,7,starkey,0.109876
+Peter Pan,8,tink,0.104332
+Peter Pan,9,tootles,0.103903
+Peter Pan,10,nibs,0.099781
+Peter Pan,11,wendy peter,0.098862
+Peter Pan,12,peter wendy,0.098862
+Peter Pan,13,peter pan,0.094777
+Peter Pan,14,wendy wendy,0.088404
+Peter Pan,15,liza,0.08378
+Peter Pan,16,peter,0.083602
+Peter Pan,17,peter peter,0.083483
+Peter Pan,18,mrs,0.079619
+Peter Pan,19,tiger lily,0.079236
+Peter Pan,20,cecco,0.077391
+Peter Pan,1,wendy,0.160616
+Peter Pan,2,mrs darling,0.131834
+Peter Pan,3,mr darling,0.128614
+Peter Pan,4,nana,0.118937
+Peter Pan,5,smee,0.115204
+Peter Pan,6,starkey,0.111373
+Peter Pan,7,tink,0.105754
+Peter Pan,8,tootles,0.105319
+Peter Pan,9,nibs,0.101141
+Peter Pan,10,peter wendy,0.100209
+Peter Pan,11,wendy peter,0.100209
+Peter Pan,12,peter pan,0.094909
+Peter Pan,13,wendy wendy,0.089609
+Peter Pan,14,liza,0.084922
+Peter Pan,15,peter,0.08471
+Peter Pan,16,peter peter,0.084621
+Peter Pan,17,mrs,0.080704
+Peter Pan,18,tiger lily,0.080315
+Peter Pan,19,cecco,0.078445
+Peter Pan,20,mermaid,0.077622
+The boy who couldn't fly,1,jerry,0.234909
+The boy who couldn't fly,2,dan,0.219143
+The boy who couldn't fly,3,gus,0.190118
+The boy who couldn't fly,4,comet,0.174613
+The boy who couldn't fly,5,dad,0.134107
+The boy who couldn't fly,6,ross,0.122554
+The boy who couldn't fly,7,rudder,0.118736
+The boy who couldn't fly,8,hawk,0.113784
+The boy who couldn't fly,9,chute,0.112921
+The boy who couldn't fly,10,pilot,0.107148
+The boy who couldn't fly,11,propeller,0.102895
+The boy who couldn't fly,12,guy,0.092983
+The boy who couldn't fly,13,loft,0.090681
+The boy who couldn't fly,14,trap door,0.090681
+The boy who couldn't fly,15,huh,0.088158
+The boy who couldn't fly,16,gang,0.087313
+The boy who couldn't fly,17,thousand foot,0.083561
+The boy who couldn't fly,18,ace,0.082927
+The boy who couldn't fly,19,plane,0.082221
+The boy who couldn't fly,20,crate,0.080443
+"Frankenstein; or, the modern prometheus",1,frankenstein,0.077609
+"Frankenstein; or, the modern prometheus",2,felix,0.074338
+"Frankenstein; or, the modern prometheus",3,agatha,0.071097
+"Frankenstein; or, the modern prometheus",4,geneva,0.062808
+"Frankenstein; or, the modern prometheus",5,elizabeth,0.0582
+"Frankenstein; or, the modern prometheus",6,chapter chapter,0.057063
+"Frankenstein; or, the modern prometheus",7,beaufort,0.051196
+"Frankenstein; or, the modern prometheus",8,ernest,0.047488
+"Frankenstein; or, the modern prometheus",9,native country,0.046909
+"Frankenstein; or, the modern prometheus",10,sledge,0.043947
+"Frankenstein; or, the modern prometheus",11,hovel,0.04382
+"Frankenstein; or, the modern prometheus",12,abhor,0.043488
+"Frankenstein; or, the modern prometheus",13,fiend,0.043329
+"Frankenstein; or, the modern prometheus",14,arabian,0.042129
+"Frankenstein; or, the modern prometheus",15,blanc,0.039945
+"Frankenstein; or, the modern prometheus",16,turk,0.039884
+"Frankenstein; or, the modern prometheus",17,creator,0.039438
+"Frankenstein; or, the modern prometheus",18,sympathise,0.039329
+"Frankenstein; or, the modern prometheus",19,wretchedness,0.039035
+"Frankenstein; or, the modern prometheus",20,endeavour,0.038403
+Democracy and Education: An Introduction to the Philosophy of Education,1,educative,0.0736
+Democracy and Education: An Introduction to the Philosophy of Education,2,subject matter,0.06701
+Democracy and Education: An Introduction to the Philosophy of Education,3,social group,0.066439
+Democracy and Education: An Introduction to the Philosophy of Education,4,dualism,0.061722
+Democracy and Education: An Introduction to the Philosophy of Education,5,curriculum,0.056743
+Democracy and Education: An Introduction to the Philosophy of Education,6,cultural,0.055384
+Democracy and Education: An Introduction to the Philosophy of Education,7,reorganization,0.050854
+Democracy and Education: An Introduction to the Philosophy of Education,8,educator,0.050252
+Democracy and Education: An Introduction to the Philosophy of Education,9,specialized,0.049464
+Democracy and Education: An Introduction to the Philosophy of Education,10,interaction,0.047462
+Democracy and Education: An Introduction to the Philosophy of Education,11,irrespective,0.047218
+Democracy and Education: An Introduction to the Philosophy of Education,12,immature,0.045136
+Democracy and Education: An Introduction to the Philosophy of Education,13,formulation,0.044323
+Democracy and Education: An Introduction to the Philosophy of Education,14,empirical,0.043891
+Democracy and Education: An Introduction to the Philosophy of Education,15,environment,0.04341
+Democracy and Education: An Introduction to the Philosophy of Education,16,externally,0.043348
+Democracy and Education: An Introduction to the Philosophy of Education,17,intrinsic,0.043148
+Democracy and Education: An Introduction to the Philosophy of Education,18,constructive,0.042623
+Democracy and Education: An Introduction to the Philosophy of Education,19,stimulus,0.042595
+Democracy and Education: An Introduction to the Philosophy of Education,20,context,0.042505
+White Fang,1,white fang,0.121865
+White Fang,2,cherokee,0.08259
+White Fang,3,fang,0.081429
+White Fang,4,musher,0.081397
+White Fang,5,lip lip,0.080799
+White Fang,6,cub,0.08012
+White Fang,7,beaver,0.072957
+White Fang,8,lynx,0.068796
+White Fang,9,sle,0.068651
+White Fang,10,tepee,0.068026
+White Fang,11,sled,0.067171
+White Fang,12,sah,0.066935
+White Fang,13,ptarmigan,0.06146
+White Fang,14,mit,0.058227
+White Fang,15,weasel,0.056674
+White Fang,16,moose,0.055841
+White Fang,17,scott,0.054796
+White Fang,18,man animal,0.053721
+White Fang,19,snarl,0.049284
+White Fang,20,wolf,0.049105

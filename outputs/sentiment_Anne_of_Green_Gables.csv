@@ -1,0 +1,631 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Anne of Green Gables This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.066,0.104,0.829,negative,Anne of Green Gables
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Anne of Green Gables
+"Title : Anne of Green Gables Author : L. M. Montgomery Release date : June 27, 2008 [eBook #45] Most recently updated: April 29, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/45 Credits : David Widger and Charles Keller *** START OF THE PROJECT GUTENBERG EBOOK ANNE OF GREEN GABLES *** ANNE OF GREEN GABLES By Lucy Maud Montgomery CONTENTS ANNE OF GREEN GABLES CHAPTER I. Mrs. Rachel Lynde Is Surprised CHAPTER II.",0.5267,0.062,0.0,0.938,positive,Anne of Green Gables
+Matthew Cuthbert Is surprised CHAPTER III.,0.2263,0.275,0.0,0.725,positive,Anne of Green Gables
+Marilla Cuthbert Is Surprised CHAPTER IV.,0.2263,0.275,0.0,0.725,positive,Anne of Green Gables
+Morning at Green Gables CHAPTER V. Anne's History CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Marilla Makes Up Her Mind CHAPTER VII.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Anne Says Her Prayers CHAPTER VIII.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Anne's Bringing-up Is Begun CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Mrs. Rachel Lynde Is Properly Horrified CHAPTER X. Anne's Apology CHAPTER XI.,-0.5106,0.082,0.238,0.68,negative,Anne of Green Gables
+Anne's Impressions of Sunday-school CHAPTER XII.,0.2263,0.275,0.0,0.725,positive,Anne of Green Gables
+A Solemn Vow and Promise CHAPTER XIII.,0.25,0.303,0.171,0.526,positive,Anne of Green Gables
+The Delights of Anticipation CHAPTER XIV.,0.5267,0.524,0.0,0.476,positive,Anne of Green Gables
+Anne's Confession CHAPTER XV.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+A Tempest in the School Teapot CHAPTER XVI.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Diana Is Invited to Tea with Tragic Results CHAPTER XVII.,-0.4588,0.0,0.25,0.75,negative,Anne of Green Gables
+A New Interest in Life CHAPTER XVIII.,0.4588,0.375,0.0,0.625,positive,Anne of Green Gables
+Anne to the Rescue CHAPTER XIX.,0.5106,0.398,0.0,0.602,positive,Anne of Green Gables
+"A Concert, a Catastrophe, and a Confession CHAPTER XX.",-0.6597,0.0,0.468,0.532,negative,Anne of Green Gables
+A Good Imagination Gone Wrong CHAPTER XXI.,-0.0516,0.29,0.31,0.4,negative,Anne of Green Gables
+A New Departure in Flavorings CHAPTER XXII.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Anne Is Invited Out to Tea CHAPTER XXIII.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Anne Comes to Grief in an Affair of Honor CHAPTER XXIV.,0.0,0.208,0.208,0.584,neutral,Anne of Green Gables
+Miss Stacy and Her Pupils Get Up a Concert CHAPTER XXV.,-0.1531,0.0,0.151,0.849,negative,Anne of Green Gables
+Matthew Insists on Puffed Sleeves CHAPTER XXVI.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The Story Club Is Formed CHAPTER XXVII.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Vanity and Vexation of Spirit CHAPTER XXVIII.,-0.4767,0.162,0.457,0.381,negative,Anne of Green Gables
+An Unfortunate Lily Maid CHAPTER XXIX.,-0.4588,0.0,0.375,0.625,negative,Anne of Green Gables
+An Epoch in Anne's Life CHAPTER XXX.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The Queen's Class Is Organized CHAPTER XXXI.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Where the Brook and River Meet CHAPTER XXXII.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The Pass List Is Out CHAPTER XXXIII.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The Hotel Concert CHAPTER XXXIV.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+A Queen's Girl CHAPTER XXXV.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The Winter at Queen's CHAPTER XXXVI.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The Glory and the Dream CHAPTER XXXVII.,0.6705,0.524,0.0,0.476,positive,Anne of Green Gables
+The Reaper Whose Name Is Death CHAPTER XXXVIII.,-0.5994,0.0,0.358,0.642,negative,Anne of Green Gables
+The Bend in the Road ANNE OF GREEN GABLES CHAPTER I. Mrs. Rachel Lynde Is Surprised M RS.,0.2263,0.106,0.0,0.894,positive,Anne of Green Gables
+"Rachel Lynde lived just where the Avonlea main road dipped down into a little hollow, fringed with alders and ladies' eardrops and traversed by a brook that had its source away back in the woods of the old Cuthbert place; it was reputed to be an intricate, headlong brook in its earlier course through those woods, with dark secrets of pool and cascade; but by the time it reached Lynde's Hollow it was a quiet, well-conducted little stream, for not even a brook could run past Mrs. Rachel Lynde's door without due regard for decency and decorum; it probably was conscious that Mrs. Rachel was sitting at her window, keeping a sharp eye on everything that passed, from brooks and children up, and that if she noticed anything odd or out of place she would never rest until she had ferreted out the whys and wherefores thereof.",-0.2617,0.02,0.02,0.96,negative,Anne of Green Gables
+"There are plenty of people, in Avonlea and out of it, who can attend closely to their neighbors' business by dint of neglecting their own; but Mrs. Rachel Lynde was one of those capable creatures who can manage their own concerns and those of other folks into the bargain.",0.5789,0.105,0.035,0.861,positive,Anne of Green Gables
+"She was a notable housewife; her work was always done and well done; she ""ran"" the Sewing Circle, helped run the Sunday-school, and was the strongest prop of the Church Aid Society and Foreign Missions Auxiliary.",0.6124,0.132,0.0,0.868,positive,Anne of Green Gables
+"Yet with all this Mrs. Rachel found abundant time to sit for hours at her kitchen window, knitting ""cotton warp"" quilts--she had knitted sixteen of them, as Avonlea housekeepers were wont to tell in awed voices--and keeping a sharp eye on the main road that crossed the hollow and wound up the steep red hill beyond.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Since Avonlea occupied a little triangular peninsula jutting out into the Gulf of St. Lawrence, with water on two sides of it, anybody who went out of it or into it had to pass over that hill road and so run the unseen gauntlet of Mrs. Rachel's all-seeing eye.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+She was sitting there one afternoon in early June.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"The sun was coming in at the window warm and bright; the orchard on the slope below the house was in a bridal flush of pinky-white bloom, hummed over by a myriad of bees.",0.5859,0.138,0.0,0.862,positive,Anne of Green Gables
+"Thomas Lynde--a meek little man whom Avonlea people called ""Rachel Lynde's husband""--was sowing his late turnip seed on the hill field beyond the barn; and Matthew Cuthbert ought to have been sowing his on the big red brook field away over by Green Gables.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Mrs. Rachel knew that he ought because she had heard him tell Peter Morrison the evening before in William J. Blair's store over at Carmody that he meant to sow his turnip seed the next afternoon.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Peter had asked him, of course, for Matthew Cuthbert had never been known to volunteer information about anything in his whole life.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"And yet here was Matthew Cuthbert, at half-past three on the afternoon of a busy day, placidly driving over the hollow and up the hill; moreover, he wore a white collar and his best suit of clothes, which was plain proof that he was going out of Avonlea; and he had the buggy and the sorrel mare, which betokened that he was going a considerable distance.",0.6369,0.063,0.0,0.937,positive,Anne of Green Gables
+"Now, where was Matthew Cuthbert going and why was he going there?",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Had it been any other man in Avonlea, Mrs. Rachel, deftly putting this and that together, might have given a pretty good guess as to both questions.",0.7269,0.203,0.0,0.797,positive,Anne of Green Gables
+But Matthew so rarely went from home that it must be something pressing and unusual which was taking him; he was the shyest man alive and hated to have to go among strangers or to any place where he might have to talk.,-0.5267,0.068,0.116,0.817,negative,Anne of Green Gables
+"Matthew, dressed up with a white collar and driving in a buggy, was something that didn't happen often.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Mrs. Rachel, ponder as she might, could make nothing of it and her afternoon's enjoyment was spoiled.",0.5574,0.184,0.0,0.816,positive,Anne of Green Gables
+"""I'll just step over to Green Gables after tea and find out from Marilla where he's gone and why,"" the worthy woman finally concluded.",0.4404,0.112,0.0,0.888,positive,Anne of Green Gables
+"""He doesn't generally go to town this time of year and he never visits; if he'd run out of turnip seed he wouldn't dress up and take the buggy to go for more; he wasn't driving fast enough to be going for a doctor.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Yet something must have happened since last night to start him off.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I'm clean puzzled, that's what, and I won't know a minute's peace of mind or conscience until I know what has taken Matthew Cuthbert out of Avonlea today.""",-0.2144,0.092,0.156,0.752,negative,Anne of Green Gables
+"Accordingly after tea Mrs. Rachel set out; she had not far to go; the big, rambling, orchard-embowered house where the Cuthberts lived was a scant quarter of a mile up the road from Lynde's Hollow.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"To be sure, the long lane made it a good deal further.",0.6369,0.366,0.0,0.634,positive,Anne of Green Gables
+"Matthew Cuthbert's father, as shy and silent as his son after him, had got as far away as he possibly could from his fellow men without actually retreating into the woods when he founded his homestead.",-0.25,0.0,0.054,0.946,negative,Anne of Green Gables
+"Green Gables was built at the furthest edge of his cleared land and there it was to this day, barely visible from the main road along which all the other Avonlea houses were so sociably situated.",0.5812,0.123,0.0,0.877,positive,Anne of Green Gables
+Mrs. Rachel Lynde did not call living in such a place living at all.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""It's just staying , that's what,"" she said as she stepped along the deep-rutted, grassy lane bordered with wild rose bushes.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""It's no wonder Matthew and Marilla are both a little odd, living away back here by themselves.",-0.4951,0.0,0.231,0.769,negative,Anne of Green Gables
+"Trees aren't much company, though dear knows if they were there'd be enough of them.",0.3818,0.157,0.0,0.843,positive,Anne of Green Gables
+I'd ruther look at people.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"To be sure, they seem contented enough; but then, I suppose, they're used to it.",0.3291,0.218,0.0,0.782,positive,Anne of Green Gables
+"A body can get used to anything, even to being hanged, as the Irishman said.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+With this Mrs. Rachel stepped out of the lane into the backyard of Green Gables.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Very green and neat and precise was that yard, set about on one side with great patriarchal willows and on the other with prim Lombardies.",0.8107,0.243,0.0,0.757,positive,Anne of Green Gables
+"Not a stray stick nor stone was to be seen, for Mrs. Rachel would have seen it if there had been.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Privately she was of the opinion that Marilla Cuthbert swept that yard over as often as she swept her house.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+One could have eaten a meal off the ground without overbrimming the proverbial peck of dirt.,-0.34,0.0,0.146,0.854,negative,Anne of Green Gables
+Mrs. Rachel rapped smartly at the kitchen door and stepped in when bidden to do so.,0.3612,0.143,0.0,0.857,positive,Anne of Green Gables
+The kitchen at Green Gables was a cheerful apartment--or would have been cheerful if it had not been so painfully clean as to give it something of the appearance of an unused parlor.,0.682,0.236,0.103,0.661,positive,Anne of Green Gables
+"Its windows looked east and west; through the west one, looking out on the back yard, came a flood of mellow June sunlight; but the east one, whence you got a glimpse of the bloom white cherry-trees in the left orchard and nodding, slender birches down in the hollow by the brook, was greened over by a tangle of vines.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Here sat Marilla Cuthbert, when she sat at all, always slightly distrustful of sunshine, which seemed to her too dancing and irresponsible a thing for a world which was meant to be taken seriously; and here she sat now, knitting, and the table behind her was laid for supper.",-0.5378,0.055,0.139,0.806,negative,Anne of Green Gables
+"Mrs. Rachel, before she had fairly closed the door, had taken a mental note of everything that was on that table.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"There were three plates laid, so that Marilla must be expecting some one home with Matthew to tea; but the dishes were everyday dishes and there was only crab-apple preserves and one kind of cake, so that the expected company could not be any particular company.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Yet what of Matthew's white collar and the sorrel mare?,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Mrs. Rachel was getting fairly dizzy with this unusual mystery about quiet, unmysterious Green Gables.",-0.2263,0.0,0.119,0.881,negative,Anne of Green Gables
+"""Good evening, Rachel,"" Marilla said briskly.",0.4404,0.367,0.0,0.633,positive,Anne of Green Gables
+"""This is a real fine evening, isn't it?",0.2023,0.231,0.0,0.769,positive,Anne of Green Gables
+Won't you sit down?,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"How are all your folks?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Something that for lack of any other name might be called friendship existed and always had existed between Marilla Cuthbert and Mrs. Rachel, in spite of--or perhaps because of--their dissimilarity.",-0.4215,0.081,0.16,0.758,negative,Anne of Green Gables
+"Marilla was a tall, thin woman, with angles and without curves; her dark hair showed some gray streaks and was always twisted up in a hard little knot behind with two wire hairpins stuck aggressively through it.",-0.5719,0.0,0.151,0.849,negative,Anne of Green Gables
+"She looked like a woman of narrow experience and rigid conscience, which she was; but there was a saving something about her mouth which, if it had been ever so slightly developed, might have been considered indicative of a sense of humor.",0.4854,0.106,0.03,0.864,positive,Anne of Green Gables
+"""We're all pretty well,"" said Mrs. Rachel.",0.4939,0.348,0.0,0.652,positive,Anne of Green Gables
+"""I was kind of afraid you weren't, though, when I saw Matthew starting off today.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I thought maybe he was going to the doctor's.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Marilla's lips twitched understandingly.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+She had expected Mrs. Rachel up; she had known that the sight of Matthew jaunting off so unaccountably would be too much for her neighbor's curiosity.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Oh, no, I'm quite well although I had a bad headache yesterday,"" she said.",-0.5118,0.14,0.333,0.527,negative,Anne of Green Gables
+"""Matthew went to Bright River.",0.4404,0.42,0.0,0.58,positive,Anne of Green Gables
+"We're getting a little boy from an orphan asylum in Nova Scotia and he's coming on the train tonight.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+If Marilla had said that Matthew had gone to Bright River to meet a kangaroo from Australia Mrs. Rachel could not have been more astonished.,0.6997,0.208,0.0,0.792,positive,Anne of Green Gables
+She was actually stricken dumb for five seconds.,-0.765,0.0,0.524,0.476,negative,Anne of Green Gables
+"It was unsupposable that Marilla was making fun of her, but Mrs. Rachel was almost forced to suppose it.",-0.3422,0.095,0.157,0.749,negative,Anne of Green Gables
+"""Are you in earnest, Marilla?""",0.5106,0.452,0.0,0.548,positive,Anne of Green Gables
+she demanded when voice returned to her.,-0.2263,0.0,0.241,0.759,negative,Anne of Green Gables
+"""Yes, of course,"" said Marilla, as if getting boys from orphan asylums in Nova Scotia were part of the usual spring work on any well-regulated Avonlea farm instead of being an unheard of innovation.",0.3818,0.073,0.0,0.927,positive,Anne of Green Gables
+Mrs. Rachel felt that she had received a severe mental jolt.,-0.3818,0.0,0.224,0.776,negative,Anne of Green Gables
+She thought in exclamation points.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+A boy!,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Marilla and Matthew Cuthbert of all people adopting a boy!,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+From an orphan asylum!,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Well, the world was certainly turning upside down!",0.5848,0.444,0.0,0.556,positive,Anne of Green Gables
+She would be surprised at nothing after this!,0.2942,0.238,0.0,0.762,positive,Anne of Green Gables
+Nothing!,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""What on earth put such a notion into your head?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+she demanded disapprovingly.,-0.2263,0.0,0.487,0.513,negative,Anne of Green Gables
+"This had been done without her advice being asked, and must perforce be disapproved.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well, we've been thinking about it for some time--all winter in fact,"" returned Marilla.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Mrs. Alexander Spencer was up here one day before Christmas and she said she was going to get a little girl from the asylum over in Hopeton in the spring.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Her cousin lives there and Mrs. Spencer has visited her and knows all about it.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+So Matthew and I have talked it over off and on ever since.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+We thought we'd get a boy.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Matthew is getting up in years, you know--he's sixty--and he isn't so spry as he once was.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+His heart troubles him a good deal.,-0.0258,0.293,0.303,0.404,neutral,Anne of Green Gables
+And you know how desperate hard it's got to be to get hired help.,-0.0,0.155,0.213,0.632,neutral,Anne of Green Gables
+"There's never anybody to be had but those stupid, half-grown little French boys; and as soon as you do get one broke into your ways and taught something he's up and off to the lobster canneries or the States.",-0.8519,0.0,0.183,0.817,negative,Anne of Green Gables
+At first Matthew suggested getting a Home boy.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+But I said 'no' flat to that.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"'They may be all right--I'm not saying they're not--but no London street Arabs for me,' I said.",-0.296,0.0,0.128,0.872,negative,Anne of Green Gables
+'Give me a native born at least.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"There'll be a risk, no matter who we get.",-0.4939,0.106,0.413,0.481,negative,Anne of Green Gables
+But I'll feel easier in my mind and sleep sounder at nights if we get a born Canadian.',0.5719,0.188,0.0,0.812,positive,Anne of Green Gables
+So in the end we decided to ask Mrs. Spencer to pick us out one when she went over to get her little girl.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"We heard last week she was going, so we sent her word by Richard Spencer's folks at Carmody to bring us a smart, likely boy of about ten or eleven.",0.4019,0.088,0.0,0.912,positive,Anne of Green Gables
+We decided that would be the best age--old enough to be of some use in doing chores right off and young enough to be trained up proper.,0.6369,0.139,0.0,0.861,positive,Anne of Green Gables
+We mean to give him a good home and schooling.,0.4404,0.266,0.0,0.734,positive,Anne of Green Gables
+We had a telegram from Mrs. Alexander Spencer today--the mail-man brought it from the station--saying they were coming on the five-thirty train tonight.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+So Matthew went to Bright River to meet him.,0.4404,0.266,0.0,0.734,positive,Anne of Green Gables
+Mrs. Spencer will drop him off there.,-0.2732,0.0,0.259,0.741,negative,Anne of Green Gables
+"Of course she goes on to White Sands station herself.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Mrs. Rachel prided herself on always speaking her mind; she proceeded to speak it now, having adjusted her mental attitude to this amazing piece of news.",0.6705,0.153,0.0,0.847,positive,Anne of Green Gables
+"""Well, Marilla, I'll just tell you plain that I think you're doing a mighty foolish thing--a risky thing, that's what.",-0.4404,0.0,0.196,0.804,negative,Anne of Green Gables
+You don't know what you're getting.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+You're bringing a strange child into your house and home and you don't know a single thing about him nor what his disposition is like nor what sort of parents he had nor how he's likely to turn out.,0.1779,0.064,0.046,0.891,positive,Anne of Green Gables
+"Why, it was only last week I read in the paper how a man and his wife up west of the Island took a boy out of an orphan asylum and he set fire to the house at night--set it on purpose , Marilla--and nearly burnt them to a crisp in their beds.",-0.34,0.0,0.049,0.951,negative,Anne of Green Gables
+And I know another case where an adopted boy used to suck the eggs--they couldn't break him of it.,-0.4404,0.0,0.146,0.854,negative,Anne of Green Gables
+"If you had asked my advice in the matter--which you didn't do, Marilla--I'd have said for mercy's sake not to think of such a thing, that's what.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+This Job's comforting seemed neither to offend nor to alarm Marilla.,0.6832,0.453,0.0,0.547,positive,Anne of Green Gables
+She knitted steadily on.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""I don't deny there's something in what you say, Rachel.",0.2584,0.184,0.0,0.816,positive,Anne of Green Gables
+I've had some qualms myself.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+But Matthew was terrible set on it.,-0.631,0.0,0.409,0.591,negative,Anne of Green Gables
+"I could see that, so I gave in.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+It's so seldom Matthew sets his mind on anything that when he does I always feel it's my duty to give in.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"And as for the risk, there's risks in pretty near everything a body does in this world.",0.0,0.157,0.206,0.637,neutral,Anne of Green Gables
+There's risks in people's having children of their own if it comes to that--they don't always turn out well.,0.0,0.099,0.099,0.802,neutral,Anne of Green Gables
+And then Nova Scotia is right close to the Island.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+It isn't as if we were getting him from England or the States.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"He can't be much different from ourselves.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well, I hope it will turn out all right,"" said Mrs. Rachel in a tone that plainly indicated her painful doubts.",-0.296,0.121,0.212,0.667,negative,Anne of Green Gables
+"""Only don't say I didn't warn you if he burns Green Gables down or puts strychnine in the well--I heard of a case over in New Brunswick where an orphan asylum child did that and the whole family died in fearful agonies.",-0.7917,0.0,0.178,0.822,negative,Anne of Green Gables
+"Only, it was a girl in that instance.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well, we're not getting a girl,"" said Marilla, as if poisoning wells were a purely feminine accomplishment and not to be dreaded in the case of a boy.",0.0511,0.162,0.123,0.714,positive,Anne of Green Gables
+"""I'd never dream of taking a girl to bring up.",-0.1877,0.0,0.179,0.821,negative,Anne of Green Gables
+I wonder at Mrs. Alexander Spencer for doing it.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"But there, she wouldn't shrink from adopting a whole orphan asylum if she took it into her head.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Mrs. Rachel would have liked to stay until Matthew came home with his imported orphan.,0.4215,0.167,0.0,0.833,positive,Anne of Green Gables
+But reflecting that it would be a good two hours at least before his arrival she concluded to go up the road to Robert Bell's and tell the news.,0.5927,0.125,0.0,0.875,positive,Anne of Green Gables
+"It would certainly make a sensation second to none, and Mrs. Rachel dearly loved to make a sensation.",0.8442,0.412,0.0,0.588,positive,Anne of Green Gables
+"So she took herself away, somewhat to Marilla's relief, for the latter felt her doubts and fears reviving under the influence of Mrs. Rachel's pessimism.",-0.5667,0.091,0.239,0.67,negative,Anne of Green Gables
+"""Well, of all things that ever were or will be!""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+ejaculated Mrs. Rachel when she was safely out in the lane.,0.4939,0.242,0.0,0.758,positive,Anne of Green Gables
+"""It does really seem as if I must be dreaming.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Well, I'm sorry for that poor young one and no mistake.",-0.7096,0.123,0.526,0.351,negative,Anne of Green Gables
+"Matthew and Marilla don't know anything about children and they'll expect him to be wiser and steadier than his own grandfather, if so be's he ever had a grandfather, which is doubtful.",-0.0516,0.065,0.071,0.863,negative,Anne of Green Gables
+"It seems uncanny to think of a child at Green Gables somehow; there's never been one there, for Matthew and Marilla were grown up when the new house was built--if they ever were children, which is hard to believe when one looks at them.",-0.1027,0.0,0.032,0.968,negative,Anne of Green Gables
+I wouldn't be in that orphan's shoes for anything.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"My, but I pity him, that's what.""",-0.4215,0.0,0.359,0.641,negative,Anne of Green Gables
+So said Mrs. Rachel to the wild rose bushes out of the fulness of her heart; but if she could have seen the child who was waiting patiently at the Bright River station at that very moment her pity would have been still deeper and more profound.,0.1666,0.074,0.061,0.865,positive,Anne of Green Gables
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Matthew Cuthbert Is Surprised M ATTHEW Cuthbert and the sorrel mare jogged comfortably over the eight miles to Bright River.,0.765,0.322,0.0,0.678,positive,Anne of Green Gables
+"It was a pretty road, running along between snug farmsteads, with now and again a bit of balsamy fir wood to drive through or a hollow where wild plums hung out their filmy bloom.",0.4939,0.096,0.0,0.904,positive,Anne of Green Gables
+"The air was sweet with the breath of many apple orchards and the meadows sloped away in the distance to horizon mists of pearl and purple; while ""The little birds sang as if it were The one day of summer in all the year.""",0.4588,0.065,0.0,0.935,positive,Anne of Green Gables
+"Matthew enjoyed the drive after his own fashion, except during the moments when he met women and had to nod to them--for in Prince Edward Island you are supposed to nod to all and sundry you meet on the road whether you know them or not.",0.5106,0.068,0.0,0.932,positive,Anne of Green Gables
+Matthew dreaded all women except Marilla and Mrs. Rachel; he had an uncomfortable feeling that the mysterious creatures were secretly laughing at him.,-0.3818,0.157,0.21,0.633,negative,Anne of Green Gables
+"He may have been quite right in thinking so, for he was an odd-looking personage, with an ungainly figure and long iron-gray hair that touched his stooping shoulders, and a full, soft brown beard which he had worn ever since he was twenty.",-0.296,0.0,0.051,0.949,negative,Anne of Green Gables
+"In fact, he had looked at twenty very much as he looked at sixty, lacking a little of the grayness.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"When he reached Bright River there was no sign of any train; he thought he was too early, so he tied his horse in the yard of the small Bright River hotel and went over to the station house.",0.6124,0.162,0.05,0.788,positive,Anne of Green Gables
+The long platform was almost deserted; the only living creature in sight being a girl who was sitting on a pile of shingles at the extreme end.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Matthew, barely noting that it was a girl, sidled past her as quickly as possible without looking at her.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Had he looked he could hardly have failed to notice the tense rigidity and expectation of her attitude and expression.,-0.7287,0.0,0.295,0.705,negative,Anne of Green Gables
+"She was sitting there waiting for something or somebody and, since sitting and waiting was the only thing to do just then, she sat and waited with all her might and main.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Matthew encountered the stationmaster locking up the ticket office preparatory to going home for supper, and asked him if the five-thirty train would soon be along.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""The five-thirty train has been in and gone half an hour ago,"" answered that brisk official.",0.1531,0.096,0.0,0.904,positive,Anne of Green Gables
+"""But there was a passenger dropped off for you--a little girl.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+She's sitting out there on the shingles.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I asked her to go into the ladies' waiting room, but she informed me gravely that she preferred to stay outside.",-0.5023,0.0,0.146,0.854,negative,Anne of Green Gables
+"'There was more scope for imagination,' she said.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"She's a case, I should say.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""I'm not expecting a girl,"" said Matthew blankly.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""It's a boy I've come for.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+He should be here.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Mrs. Alexander Spencer was to bring him over from Nova Scotia for me.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The stationmaster whistled.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Guess there's some mistake,"" he said.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Mrs. Spencer came off the train with that girl and gave her into my charge.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Said you and your sister were adopting her from an orphan asylum and that you would be along for her presently.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"That's all I know about it--and I haven't got any more orphans concealed hereabouts.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""I don't understand,"" said Matthew helplessly, wishing that Marilla was at hand to cope with the situation.",0.4019,0.237,0.112,0.651,positive,Anne of Green Gables
+"""Well, you'd better question the girl,"" said the stationmaster carelessly.",0.2263,0.225,0.155,0.62,positive,Anne of Green Gables
+"""I dare say she'll be able to explain--she's got a tongue of her own, that's certain.",0.2732,0.13,0.0,0.87,positive,Anne of Green Gables
+"Maybe they were out of boys of the brand you wanted.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"He walked jauntily away, being hungry, and the unfortunate Matthew was left to do that which was harder for him than bearding a lion in its den--walk up to a girl--a strange girl--an orphan girl--and demand of her why she wasn't a boy.",-0.6486,0.0,0.145,0.855,negative,Anne of Green Gables
+Matthew groaned in spirit as he turned about and shuffled gently down the platform towards her.,0.5719,0.251,0.0,0.749,positive,Anne of Green Gables
+She had been watching him ever since he had passed her and she had her eyes on him now.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Matthew was not looking at her and would not have seen what she was really like if he had been, but an ordinary observer would have seen this: A child of about eleven, garbed in a very short, very tight, very ugly dress of yellowish-gray wincey.",-0.6585,0.039,0.107,0.854,negative,Anne of Green Gables
+"She wore a faded brown sailor hat and beneath the hat, extending down her back, were two braids of very thick, decidedly red hair.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Her face was small, white and thin, also much freckled; her mouth was large and so were her eyes, which looked green in some lights and moods and gray in others.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"So far, the ordinary observer; an extraordinary observer might have seen that the chin was very pointed and pronounced; that the big eyes were full of spirit and vivacity; that the mouth was sweet-lipped and expressive; that the forehead was broad and full; in short, our discerning extraordinary observer might have concluded that no commonplace soul inhabited the body of this stray woman-child of whom shy Matthew Cuthbert was so ludicrously afraid.",-0.4795,0.023,0.077,0.9,negative,Anne of Green Gables
+"Matthew, however, was spared the ordeal of speaking first, for as soon as she concluded that he was coming to her she stood up, grasping with one thin brown hand the handle of a shabby, old-fashioned carpet-bag; the other she held out to him.",0.4939,0.071,0.0,0.929,positive,Anne of Green Gables
+"""I suppose you are Mr. Matthew Cuthbert of Green Gables?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"she said in a peculiarly clear, sweet voice.",0.6369,0.509,0.127,0.364,positive,Anne of Green Gables
+"""I'm very glad to see you.",0.5095,0.397,0.0,0.603,positive,Anne of Green Gables
+I was beginning to be afraid you weren't coming for me and I was imagining all the things that might have happened to prevent you.,0.0258,0.048,0.0,0.952,neutral,Anne of Green Gables
+"I had made up my mind that if you didn't come for me tonight I'd go down the track to that big wild cherry-tree at the bend, and climb up into it to stay all night.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I wouldn't be a bit afraid, and it would be lovely to sleep in a wild cherry-tree all white with bloom in the moonshine, don't you think?",0.5859,0.142,0.0,0.858,positive,Anne of Green Gables
+"You could imagine you were dwelling in marble halls, couldn't you?",0.0258,0.099,0.0,0.901,neutral,Anne of Green Gables
+"And I was quite sure you would come for me in the morning, if you didn't tonight.""",0.3804,0.147,0.0,0.853,positive,Anne of Green Gables
+Matthew had taken the scrawny little hand awkwardly in his; then and there he decided what to do.,0.2228,0.139,0.097,0.765,positive,Anne of Green Gables
+He could not tell this child with the glowing eyes that there had been a mistake; he would take her home and let Marilla do that.,-0.34,0.0,0.091,0.909,negative,Anne of Green Gables
+"She couldn't be left at Bright River anyhow, no matter what mistake had been made, so all questions and explanations might as well be deferred until he was safely back at Green Gables.",0.5719,0.227,0.112,0.66,positive,Anne of Green Gables
+"""I'm sorry I was late,"" he said shyly.",-0.25,0.0,0.375,0.625,negative,Anne of Green Gables
+"""Come along.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The horse is over in the yard.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Give me your bag.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Oh, I can carry it,"" the child responded cheerfully.",0.4767,0.307,0.0,0.693,positive,Anne of Green Gables
+"""It isn't heavy.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I've got all my worldly goods in it, but it isn't heavy.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+And if it isn't carried in just a certain way the handle pulls out--so I'd better keep it because I know the exact knack of it.,0.6124,0.185,0.0,0.815,positive,Anne of Green Gables
+It's an extremely old carpet-bag.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Oh, I'm very glad you've come, even if it would have been nice to sleep in a wild cherry-tree.",0.7264,0.276,0.0,0.724,positive,Anne of Green Gables
+"We've got to drive a long piece, haven't we?",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Mrs. Spencer said it was eight miles.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I'm glad because I love driving.,0.802,0.706,0.0,0.294,positive,Anne of Green Gables
+"Oh, it seems so wonderful that I'm going to live with you and belong to you.",0.6948,0.24,0.0,0.76,positive,Anne of Green Gables
+I've never belonged to anybody--not really.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+But the asylum was the worst.,-0.7684,0.0,0.531,0.469,negative,Anne of Green Gables
+"I've only been in it four months, but that was enough.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I don't suppose you ever were an orphan in an asylum, so you can't possibly understand what it is like.",0.3612,0.122,0.0,0.878,positive,Anne of Green Gables
+It's worse than anything you could imagine.,-0.4767,0.0,0.341,0.659,negative,Anne of Green Gables
+"Mrs. Spencer said it was wicked of me to talk like that, but I didn't mean to be wicked.",-0.7227,0.074,0.289,0.637,negative,Anne of Green Gables
+"It's so easy to be wicked without knowing it, isn't it?",-0.0534,0.205,0.218,0.577,negative,Anne of Green Gables
+"They were good, you know--the asylum people.",0.4404,0.326,0.0,0.674,positive,Anne of Green Gables
+But there is so little scope for the imagination in an asylum--only just in the other orphans.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"It was pretty interesting to imagine things about them--to imagine that perhaps the girl who sat next to you was really the daughter of a belted earl, who had been stolen away from her parents in her infancy by a cruel nurse who died before she could confess.",-0.6908,0.103,0.184,0.713,negative,Anne of Green Gables
+"I used to lie awake at nights and imagine things like that, because I didn't have time in the day.",0.3612,0.128,0.0,0.872,positive,Anne of Green Gables
+"I guess that's why I'm so thin--I am dreadful thin, ain't I?",-0.4877,0.0,0.24,0.76,negative,Anne of Green Gables
+There isn't a pick on my bones.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I do love to imagine I'm nice and plump, with dimples in my elbows.""",0.7906,0.389,0.0,0.611,positive,Anne of Green Gables
+"With this Matthew's companion stopped talking, partly because she was out of breath and partly because they had reached the buggy.",-0.128,0.063,0.085,0.852,negative,Anne of Green Gables
+"Not another word did she say until they had left the village and were driving down a steep little hill, the road part of which had been cut so deeply into the soft soil that the banks, fringed with blooming wild cherry-trees and slim white birches, were several feet above their heads.",-0.2732,0.0,0.04,0.96,negative,Anne of Green Gables
+The child put out her hand and broke off a branch of wild plum that brushed against the side of the buggy.,0.1027,0.128,0.112,0.76,positive,Anne of Green Gables
+"""Isn't that beautiful?",-0.4847,0.0,0.611,0.389,negative,Anne of Green Gables
+"What did that tree, leaning out from the bank, all white and lacy, make you think of?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+she asked.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well now, I dunno,"" said Matthew.",0.2732,0.344,0.0,0.656,positive,Anne of Green Gables
+"""Why, a bride, of course--a bride all in white with a lovely misty veil.",0.5859,0.257,0.0,0.743,positive,Anne of Green Gables
+"I've never seen one, but I can imagine what she would look like.",0.5023,0.228,0.0,0.772,positive,Anne of Green Gables
+I don't ever expect to be a bride myself.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I'm so homely nobody will ever want to marry me--unless it might be a foreign missionary.,0.0772,0.085,0.0,0.915,positive,Anne of Green Gables
+I suppose a foreign missionary mightn't be very particular.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+But I do hope that some day I shall have a white dress.,0.5927,0.3,0.0,0.7,positive,Anne of Green Gables
+That is my highest ideal of earthly bliss.,0.7964,0.542,0.0,0.458,positive,Anne of Green Gables
+I just love pretty clothes.,0.8126,0.787,0.0,0.213,positive,Anne of Green Gables
+"And I've never had a pretty dress in my life that I can remember--but of course it's all the more to look forward to, isn't it?",-0.3875,0.0,0.103,0.897,negative,Anne of Green Gables
+And then I can imagine that I'm dressed gorgeously.,0.5106,0.32,0.0,0.68,positive,Anne of Green Gables
+This morning when I left the asylum I felt so ashamed because I had to wear this horrid old wincey dress.,-0.8449,0.0,0.337,0.663,negative,Anne of Green Gables
+"All the orphans had to wear them, you know.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+A merchant in Hopeton last winter donated three hundred yards of wincey to the asylum.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Some people said it was because he couldn't sell it, but I'd rather believe that it was out of the kindness of his heart, wouldn't you?",0.6124,0.138,0.0,0.862,positive,Anne of Green Gables
+When we got on the train I felt as if everybody must be looking at me and pitying me.,-0.34,0.0,0.124,0.876,negative,Anne of Green Gables
+"But I just went to work and imagined that I had on the most beautiful pale blue silk dress--because when you are imagining you might as well imagine something worth while--and a big hat all flowers and nodding plumes, and a gold watch, and kid gloves and boots.",0.8954,0.208,0.0,0.792,positive,Anne of Green Gables
+I felt cheered up right away and I enjoyed my trip to the Island with all my might.,0.765,0.32,0.0,0.68,positive,Anne of Green Gables
+I wasn't a bit sick coming over in the boat.,0.4023,0.278,0.0,0.722,positive,Anne of Green Gables
+"Neither was Mrs. Spencer, although she generally is.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"She said she hadn't time to get sick, watching to see that I didn't fall overboard.",-0.5106,0.0,0.191,0.809,negative,Anne of Green Gables
+She said she never saw the beat of me for prowling about.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"But if it kept her from being seasick it's a mercy I did prowl, isn't it?",0.5023,0.2,0.0,0.8,positive,Anne of Green Gables
+"And I wanted to see everything that was to be seen on that boat, because I didn't know whether I'd ever have another opportunity.",0.4215,0.118,0.0,0.882,positive,Anne of Green Gables
+"Oh, there are a lot more cherry-trees all in bloom!",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+This Island is the bloomiest place.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I just love it already, and I'm so glad I'm going to live here.",0.8429,0.423,0.0,0.577,positive,Anne of Green Gables
+"I've always heard that Prince Edward Island was the prettiest place in the world, and I used to imagine I was living here, but I never really expected I would.",0.3291,0.086,0.0,0.914,positive,Anne of Green Gables
+"It's delightful when your imaginations come true, isn't it?",0.765,0.485,0.0,0.515,positive,Anne of Green Gables
+But those red roads are so funny.,0.7279,0.46,0.0,0.54,positive,Anne of Green Gables
+When we got into the train at Charlottetown and the red roads began to flash past I asked Mrs. Spencer what made them red and she said she didn't know and for pity's sake not to ask her any more questions.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+She said I must have asked her a thousand already.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I suppose I had, too, but how are you going to find out about things if you don't ask questions?",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"And what does make the roads red?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well now, I dunno,"" said Matthew.",0.2732,0.344,0.0,0.656,positive,Anne of Green Gables
+"""Well, that is one of the things to find out sometime.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Isn't it splendid to think of all the things there are to find out about?,-0.4717,0.0,0.18,0.82,negative,Anne of Green Gables
+It just makes me feel glad to be alive--it's such an interesting world.,0.6908,0.341,0.0,0.659,positive,Anne of Green Gables
+"It wouldn't be half so interesting if we knew all about everything, would it?",0.541,0.212,0.0,0.788,positive,Anne of Green Gables
+"There'd be no scope for imagination then, would there?",-0.296,0.0,0.216,0.784,negative,Anne of Green Gables
+But am I talking too much?,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+People are always telling me I do.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Would you rather I didn't talk?,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+If you say so I'll stop.,-0.3566,0.0,0.331,0.669,negative,Anne of Green Gables
+"I can stop when I make up my mind to it, although it's difficult.""",-0.296,0.0,0.167,0.833,negative,Anne of Green Gables
+"Matthew, much to his own surprise, was enjoying himself.",0.6705,0.44,0.0,0.56,positive,Anne of Green Gables
+Like most quiet folks he liked talkative people when they were willing to do the talking themselves and did not expect him to keep up his end of it.,0.6486,0.164,0.0,0.836,positive,Anne of Green Gables
+But he had never expected to enjoy the society of a little girl.,-0.5334,0.0,0.238,0.762,negative,Anne of Green Gables
+"Women were bad enough in all conscience, but little girls were worse.",-0.7188,0.0,0.375,0.625,negative,Anne of Green Gables
+"He detested the way they had of sidling past him timidly, with sidewise glances, as if they expected him to gobble them up at a mouthful if they ventured to say a word.",-0.1779,0.0,0.054,0.946,negative,Anne of Green Gables
+That was the Avonlea type of well-bred little girl.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"But this freckled witch was very different, and although he found it rather difficult for his slower intelligence to keep up with her brisk mental processes he thought that he ""kind of liked her chatter.""",0.4235,0.203,0.142,0.655,positive,Anne of Green Gables
+"So he said as shyly as usual: ""Oh, you can talk as much as you like.",0.2023,0.137,0.093,0.769,positive,Anne of Green Gables
+"I don't mind.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Oh, I'm so glad.",0.5949,0.563,0.0,0.437,positive,Anne of Green Gables
+I know you and I are going to get along together fine.,0.2023,0.167,0.0,0.833,positive,Anne of Green Gables
+It's such a relief to talk when one wants to and not be told that children should be seen and not heard.,0.4767,0.134,0.0,0.866,positive,Anne of Green Gables
+I've had that said to me a million times if I have once.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+And people laugh at me because I use big words.,0.5574,0.31,0.0,0.69,positive,Anne of Green Gables
+"But if you have big ideas you have to use big words to express them, haven't you?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well now, that seems reasonable,"" said Matthew.",0.2732,0.259,0.0,0.741,positive,Anne of Green Gables
+"""Mrs. Spencer said that my tongue must be hung in the middle.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+But it isn't--it's firmly fastened at one end.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Mrs. Spencer said your place was named Green Gables.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I asked her all about it.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+And she said there were trees all around it.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I was gladder than ever.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I just love trees.,0.6369,0.677,0.0,0.323,positive,Anne of Green Gables
+"And there weren't any at all about the asylum, only a few poor weeny-teeny things out in front with little whitewashed cagey things about them.",-0.4767,0.0,0.119,0.881,negative,Anne of Green Gables
+"They just looked like orphans themselves, those trees did.",0.3612,0.238,0.0,0.762,positive,Anne of Green Gables
+It used to make me want to cry to look at them.,-0.4215,0.09,0.215,0.694,negative,Anne of Green Gables
+"I used to say to them, 'Oh, you poor little things!",-0.5255,0.0,0.274,0.726,negative,Anne of Green Gables
+"If you were out in a great big woods with other trees all around you and little mosses and June bells growing over your roots and a brook not far away and birds singing in your branches, you could grow, couldn't you?",0.7003,0.132,0.0,0.868,positive,Anne of Green Gables
+But you can't where you are.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I know just exactly how you feel, little trees.'",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I felt sorry to leave them behind this morning.,-0.128,0.0,0.294,0.706,negative,Anne of Green Gables
+"You do get so attached to things like that, don't you?",0.3612,0.2,0.0,0.8,positive,Anne of Green Gables
+Is there a brook anywhere near Green Gables?,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I forgot to ask Mrs. Spencer that.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well now, yes, there's one right below the house.""",0.5859,0.407,0.0,0.593,positive,Anne of Green Gables
+"""Fancy.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+It's always been one of my dreams to live near a brook.,0.4019,0.213,0.0,0.787,positive,Anne of Green Gables
+"I never expected I would, though.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Dreams don't often come true, do they?",0.0946,0.269,0.232,0.498,positive,Anne of Green Gables
+Wouldn't it be nice if they did?,-0.3252,0.0,0.28,0.72,negative,Anne of Green Gables
+But just now I feel pretty nearly perfectly happy.,0.9528,0.752,0.0,0.248,positive,Anne of Green Gables
+"I can't feel exactly perfectly happy because--well, what color would you call this?""",0.0854,0.217,0.197,0.586,positive,Anne of Green Gables
+She twitched one of her long glossy braids over her thin shoulder and held it up before Matthew's eyes.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Matthew was not used to deciding on the tints of ladies' tresses, but in this case there couldn't be much doubt.",0.395,0.118,0.0,0.882,positive,Anne of Green Gables
+"""It's red, ain't it?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+he said.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The girl let the braid drop back with a sigh that seemed to come from her very toes and to exhale forth all the sorrows of the ages.,-0.5574,0.037,0.158,0.805,negative,Anne of Green Gables
+"""Yes, it's red,"" she said resignedly.",-0.1779,0.0,0.254,0.746,negative,Anne of Green Gables
+"""Now you see why I can't be perfectly happy.",-0.7481,0.0,0.515,0.485,negative,Anne of Green Gables
+Nobody could who has red hair.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I don't mind the other things so much--the freckles and the green eyes and my skinniness.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I can imagine them away.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I can imagine that I have a beautiful rose-leaf complexion and lovely starry violet eyes.,0.8271,0.435,0.0,0.565,positive,Anne of Green Gables
+But I cannot imagine that red hair away.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I do my best.,0.6369,0.677,0.0,0.323,positive,Anne of Green Gables
+"I think to myself, 'Now my hair is a glorious black, black as the raven's wing.'",0.6369,0.244,0.0,0.756,positive,Anne of Green Gables
+But all the time I know it is just plain red and it breaks my heart.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+It will be my lifelong sorrow.,-0.5267,0.0,0.405,0.595,negative,Anne of Green Gables
+I read of a girl once in a novel who had a lifelong sorrow but it wasn't red hair.,-0.1406,0.098,0.131,0.772,negative,Anne of Green Gables
+Her hair was pure gold rippling back from her alabaster brow.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+What is an alabaster brow?,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I never could find out.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Can you tell me?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well now, I'm afraid I can't,"" said Matthew, who was getting a little dizzy.",0.1263,0.153,0.117,0.73,positive,Anne of Green Gables
+He felt as he had once felt in his rash youth when another boy had enticed him on the merry-go-round at a picnic.,-0.4019,0.0,0.114,0.886,negative,Anne of Green Gables
+"""Well, whatever it was it must have been something nice because she was divinely beautiful.",0.891,0.469,0.0,0.531,positive,Anne of Green Gables
+"Have you ever imagined what it must feel like to be divinely beautiful?""",0.7506,0.368,0.0,0.632,positive,Anne of Green Gables
+"""Well now, no, I haven't,"" confessed Matthew ingenuously.",-0.0258,0.226,0.237,0.538,neutral,Anne of Green Gables
+"""I have, often.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Which would you rather be if you had the choice--divinely beautiful or dazzlingly clever or angelically good?""",0.7845,0.315,0.0,0.685,positive,Anne of Green Gables
+"""Well now, I--I don't know exactly.""",0.2732,0.296,0.0,0.704,positive,Anne of Green Gables
+"""Neither do I. I can never decide.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+But it doesn't make much real difference for it isn't likely I'll ever be either.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+It's certain I'll never be angelically good.,-0.0788,0.221,0.253,0.526,negative,Anne of Green Gables
+"Mrs. Spencer says--oh, Mr. Cuthbert!",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Oh, Mr.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Cuthbert!!,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Oh, Mr.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Cuthbert!!!""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+That was not what Mrs. Spencer had said; neither had the child tumbled out of the buggy nor had Matthew done anything astonishing.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"They had simply rounded a curve in the road and found themselves in the ""Avenue.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"The ""Avenue,"" so called by the Newbridge people, was a stretch of road four or five hundred yards long, completely arched over with huge, wide-spreading apple-trees, planted years ago by an eccentric old farmer.",0.3182,0.067,0.0,0.933,positive,Anne of Green Gables
+Overhead was one long canopy of snowy fragrant bloom.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Below the boughs the air was full of a purple twilight and far ahead a glimpse of painted sunset sky shone like a great rose window at the end of a cathedral aisle.,0.765,0.196,0.0,0.804,positive,Anne of Green Gables
+Its beauty seemed to strike the child dumb.,0.0,0.279,0.353,0.368,neutral,Anne of Green Gables
+"She leaned back in the buggy, her thin hands clasped before her, her face lifted rapturously to the white splendor above.",0.6124,0.167,0.0,0.833,positive,Anne of Green Gables
+Even when they had passed out and were driving down the long slope to Newbridge she never moved or spoke.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Still with rapt face she gazed afar into the sunset west, with eyes that saw visions trooping splendidly across that glowing background.",0.6124,0.2,0.0,0.8,positive,Anne of Green Gables
+"Through Newbridge, a bustling little village where dogs barked at them and small boys hooted and curious faces peered from the windows, they drove, still in silence.",0.3182,0.084,0.0,0.916,positive,Anne of Green Gables
+When three more miles had dropped away behind them the child had not spoken.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"She could keep silence, it was evident, as energetically as she could talk.",0.4215,0.189,0.0,0.811,positive,Anne of Green Gables
+"""I guess you're feeling pretty tired and hungry,"" Matthew ventured to say at last, accounting for her long visitation of dumbness with the only reason he could think of.",-0.2732,0.132,0.163,0.704,negative,Anne of Green Gables
+"""But we haven't very far to go now--only another mile.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"She came out of her reverie with a deep sigh and looked at him with the dreamy gaze of a soul that had been wondering afar, star-led.",0.0258,0.044,0.0,0.956,neutral,Anne of Green Gables
+"""Oh, Mr. Cuthbert,"" she whispered, ""that place we came through--that white place--what was it?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well now, you must mean the Avenue,"" said Matthew after a few moments' profound reflection.",0.2732,0.139,0.0,0.861,positive,Anne of Green Gables
+"""It is a kind of pretty place.""",0.4417,0.368,0.0,0.632,positive,Anne of Green Gables
+"""Pretty?",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Oh, pretty doesn't seem the right word to use.",0.4939,0.286,0.0,0.714,positive,Anne of Green Gables
+"Nor beautiful, either.",-0.4847,0.0,0.611,0.389,negative,Anne of Green Gables
+They don't go far enough.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Oh, it was wonderful--wonderful.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+It's the first thing I ever saw that couldn't be improved upon by imagination.,-0.3724,0.0,0.175,0.825,negative,Anne of Green Gables
+"It just satisfied me here""--she put one hand on her breast--""it made a queer funny ache and yet it was a pleasant ache.",0.7906,0.377,0.16,0.463,positive,Anne of Green Gables
+"Did you ever have an ache like that, Mr.",-0.0258,0.207,0.215,0.579,neutral,Anne of Green Gables
+"Cuthbert?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well now, I just can't recollect that I ever had.""",0.2732,0.231,0.0,0.769,positive,Anne of Green Gables
+"""I have it lots of times--whenever I see anything royally beautiful.",0.5994,0.302,0.0,0.698,positive,Anne of Green Gables
+But they shouldn't call that lovely place the Avenue.,-0.6259,0.0,0.339,0.661,negative,Anne of Green Gables
+There is no meaning in a name like that.,0.0772,0.234,0.206,0.561,positive,Anne of Green Gables
+They should call it--let me see--the White Way of Delight.,0.5994,0.302,0.0,0.698,positive,Anne of Green Gables
+Isn't that a nice imaginative name?,-0.3252,0.0,0.368,0.632,negative,Anne of Green Gables
+When I don't like the name of a place or a person I always imagine a new one and always think of them so.,-0.2755,0.0,0.105,0.895,negative,Anne of Green Gables
+"There was a girl at the asylum whose name was Hepzibah Jenkins, but I always imagined her as Rosalia DeVere.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Other people may call that place the Avenue, but I shall always call it the White Way of Delight.",0.7469,0.239,0.0,0.761,positive,Anne of Green Gables
+Have we really only another mile to go before we get home?,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I'm glad and I'm sorry.,0.4019,0.411,0.178,0.411,positive,Anne of Green Gables
+I'm sorry because this drive has been so pleasant and I'm always sorry when pleasant things end.,0.8352,0.352,0.108,0.54,positive,Anne of Green Gables
+"Something still pleasanter may come after, but you can never be sure.",-0.1761,0.123,0.172,0.705,negative,Anne of Green Gables
+And it's so often the case that it isn't pleasanter.,-0.2755,0.0,0.19,0.81,negative,Anne of Green Gables
+That has been my experience anyhow.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+But I'm glad to think of getting home.,0.6124,0.364,0.0,0.636,positive,Anne of Green Gables
+"You see, I've never had a real home since I can remember.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+It gives me that pleasant ache again just to think of coming to a really truly home.,0.5984,0.294,0.118,0.588,positive,Anne of Green Gables
+"Oh, isn't that pretty!""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+They had driven over the crest of a hill.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Below them was a pond, looking almost like a river so long and winding was it.",0.2975,0.145,0.0,0.855,positive,Anne of Green Gables
+"A bridge spanned it midway and from there to its lower end, where an amber-hued belt of sand-hills shut it in from the dark blue gulf beyond, the water was a glory of many shifting hues--the most spiritual shadings of crocus and rose and ethereal green, with other elusive tintings for which no name has ever been found.",0.0258,0.057,0.072,0.87,neutral,Anne of Green Gables
+Above the bridge the pond ran up into fringing groves of fir and maple and lay all darkly translucent in their wavering shadows.,-0.1531,0.0,0.068,0.932,negative,Anne of Green Gables
+Here and there a wild plum leaned out from the bank like a white-clad girl tiptoeing to her own reflection.,0.3612,0.128,0.0,0.872,positive,Anne of Green Gables
+"From the marsh at the head of the pond came the clear, mournfully-sweet chorus of the frogs.",0.3818,0.14,0.0,0.86,positive,Anne of Green Gables
+"There was a little gray house peering around a white apple orchard on a slope beyond and, although it was not yet quite dark, a light was shining from one of its windows.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""That's Barry's pond,"" said Matthew.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Oh, I don't like that name, either.",-0.2755,0.0,0.297,0.703,negative,Anne of Green Gables
+I shall call it--let me see--the Lake of Shining Waters.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Yes, that is the right name for it.",0.4019,0.278,0.0,0.722,positive,Anne of Green Gables
+I know because of the thrill.,0.3612,0.385,0.0,0.615,positive,Anne of Green Gables
+When I hit on a name that suits exactly it gives me a thrill.,0.3612,0.2,0.0,0.8,positive,Anne of Green Gables
+"Do things ever give you a thrill?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Matthew ruminated.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well now, yes.",0.5859,0.828,0.0,0.172,positive,Anne of Green Gables
+It always kind of gives me a thrill to see them ugly white grubs that spade up in the cucumber beds.,-0.2023,0.105,0.139,0.756,negative,Anne of Green Gables
+"I hate the look of them.""",-0.5719,0.0,0.481,0.519,negative,Anne of Green Gables
+"""Oh, I don't think that can be exactly the same kind of a thrill.",0.2975,0.167,0.0,0.833,positive,Anne of Green Gables
+Do you think it can?,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"There doesn't seem to be much connection between grubs and lakes of shining waters, does there?",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"But why do other people call it Barry's pond?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""I reckon because Mr. Barry lives up there in that house.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Orchard Slope's the name of his place.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+If it wasn't for that big bush behind it you could see Green Gables from here.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"But we have to go over the bridge and round by the road, so it's near half a mile further.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Has Mr. Barry any little girls?",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Well, not so very little either--about my size.""",0.2732,0.231,0.0,0.769,positive,Anne of Green Gables
+"""He's got one about eleven.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Her name is Diana.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Oh!""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+with a long indrawing of breath.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""What a perfectly lovely name!""",0.8516,0.806,0.0,0.194,positive,Anne of Green Gables
+"""Well now, I dunno.",0.2732,0.512,0.0,0.488,positive,Anne of Green Gables
+"There's something dreadful heathenish about it, seems to me.",-0.4404,0.0,0.266,0.734,negative,Anne of Green Gables
+I'd ruther Jane or Mary or some sensible name like that.,0.3612,0.2,0.0,0.8,positive,Anne of Green Gables
+"But when Diana was born there was a schoolmaster boarding there and they gave him the naming of her and he called her Diana.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""I wish there had been a schoolmaster like that around when I was born, then.",0.6369,0.321,0.0,0.679,positive,Anne of Green Gables
+"Oh, here we are at the bridge.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I'm going to shut my eyes tight.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I'm always afraid going over bridges.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I can't help imagining that perhaps, just as we get to the middle, they'll crumple up like a jack-knife and nip us.",0.0624,0.11,0.099,0.791,positive,Anne of Green Gables
+So I shut my eyes.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+But I always have to open them for all when I think we're getting near the middle.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Because, you see, if the bridge did crumple up I'd want to see it crumple.",0.0772,0.085,0.0,0.915,positive,Anne of Green Gables
+What a jolly rumble it makes!,0.5562,0.473,0.0,0.527,positive,Anne of Green Gables
+I always like the rumble part of it.,0.3612,0.294,0.0,0.706,positive,Anne of Green Gables
+Isn't it splendid there are so many things to like in this world?,-0.1461,0.151,0.185,0.664,negative,Anne of Green Gables
+"There, we're over.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Now I'll look back.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Good night, dear Lake of Shining Waters.",0.6705,0.524,0.0,0.476,positive,Anne of Green Gables
+"I always say good night to the things I love, just as I would to people.",0.7964,0.392,0.0,0.608,positive,Anne of Green Gables
+I think they like it.,0.3612,0.455,0.0,0.545,positive,Anne of Green Gables
+"That water looks as if it was smiling at me.""",0.4588,0.25,0.0,0.75,positive,Anne of Green Gables
+"When they had driven up the further hill and around a corner Matthew said: ""We're pretty near home now.",0.4939,0.158,0.0,0.842,positive,Anne of Green Gables
+"That's Green Gables over--"" ""Oh, don't tell me,"" she interrupted breathlessly, catching at his partially raised arm and shutting her eyes that she might not see his gesture.",-0.296,0.0,0.075,0.925,negative,Anne of Green Gables
+"""Let me guess.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I'm sure I'll guess right.""",0.3182,0.365,0.0,0.635,positive,Anne of Green Gables
+She opened her eyes and looked about her.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+They were on the crest of a hill.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"The sun had set some time since, but the landscape was still clear in the mellow afterlight.",0.5267,0.175,0.0,0.825,positive,Anne of Green Gables
+To the west a dark church spire rose up against a marigold sky.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Below was a little valley and beyond a long, gently-rising slope with snug farmsteads scattered along it.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"From one to another the child's eyes darted, eager and wistful.",0.3612,0.2,0.0,0.8,positive,Anne of Green Gables
+"At last they lingered on one away to the left, far back from the road, dimly white with blossoming trees in the twilight of the surrounding woods.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Over it, in the stainless southwest sky, a great crystal-white star was shining like a lamp of guidance and promise.",0.836,0.372,0.0,0.628,positive,Anne of Green Gables
+"""That's it, isn't it?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"she said, pointing.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Matthew slapped the reins on the sorrel's back delightedly.,0.5267,0.298,0.0,0.702,positive,Anne of Green Gables
+"""Well now, you've guessed it!",0.3382,0.374,0.0,0.626,positive,Anne of Green Gables
+"But I reckon Mrs. Spencer described it so's you could tell.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""No, she didn't--really she didn't.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+All she said might just as well have been about most of those other places.,0.2732,0.13,0.0,0.87,positive,Anne of Green Gables
+I hadn't any real idea what it looked like.,0.3612,0.263,0.0,0.737,positive,Anne of Green Gables
+But just as soon as I saw it I felt it was home.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Oh, it seems as if I must be in a dream.",0.25,0.2,0.0,0.8,positive,Anne of Green Gables
+"Do you know, my arm must be black and blue from the elbow up, for I've pinched myself so many times today.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Every little while a horrible sickening feeling would come over me and I'd be so afraid it was all a dream.,-0.5938,0.141,0.256,0.603,negative,Anne of Green Gables
+Then I'd pinch myself to see if it was real--until suddenly I remembered that even supposing it was only a dream I'd better go on dreaming as long as I could; so I stopped pinching.,0.3418,0.138,0.07,0.791,positive,Anne of Green Gables
+"But it is real and we're nearly home.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+With a sigh of rapture she relapsed into silence.,0.1779,0.31,0.0,0.69,positive,Anne of Green Gables
+Matthew stirred uneasily.,-0.34,0.0,0.545,0.455,negative,Anne of Green Gables
+He felt glad that it would be Marilla and not he who would have to tell this waif of the world that the home she longed for was not to be hers after all.,0.4588,0.083,0.0,0.917,positive,Anne of Green Gables
+"They drove over Lynde's Hollow, where it was already quite dark, but not so dark that Mrs. Rachel could not see them from her window vantage, and up the hill and into the long lane of Green Gables.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+By the time they arrived at the house Matthew was shrinking from the approaching revelation with an energy he did not understand.,0.2732,0.091,0.0,0.909,positive,Anne of Green Gables
+"It was not of Marilla or himself he was thinking or of the trouble this mistake was probably going to make for them, but of the child's disappointment.",-0.8006,0.0,0.246,0.754,negative,Anne of Green Gables
+When he thought of that rapt light being quenched in her eyes he had an uncomfortable feeling that he was going to assist at murdering something--much the same feeling that came over him when he had to kill a lamb or calf or any other innocent little creature.,-0.8481,0.093,0.2,0.707,negative,Anne of Green Gables
+The yard was quite dark as they turned into it and the poplar leaves were rustling silkily all round it.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Listen to the trees talking in their sleep,"" she whispered, as he lifted her to the ground.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""What nice dreams they must have!""",0.6996,0.592,0.0,0.408,positive,Anne of Green Gables
+"Then, holding tightly to the carpet-bag which contained ""all her worldly goods,"" she followed him into the house.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Marilla Cuthbert Is Surprised M ARILLA came briskly forward as Matthew opened the door.,0.2263,0.137,0.0,0.863,positive,Anne of Green Gables
+"But when her eyes fell on the odd little figure in the stiff, ugly dress, with the long braids of red hair and the eager, luminous eyes, she stopped short in amazement.",-0.1901,0.179,0.218,0.603,negative,Anne of Green Gables
+"""Matthew Cuthbert, who's that?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+she ejaculated.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Where is the boy?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""There wasn't any boy,"" said Matthew wretchedly.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""There was only her .""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"He nodded at the child, remembering that he had never even asked her name.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""No boy!",-0.3595,0.0,0.714,0.286,negative,Anne of Green Gables
+"But there must have been a boy,"" insisted Marilla.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""We sent word to Mrs. Spencer to bring a boy.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Well, she didn't.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+She brought her .,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I asked the stationmaster.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+And I had to bring her home.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"She couldn't be left there, no matter where the mistake had come in.""",-0.5423,0.07,0.293,0.637,negative,Anne of Green Gables
+"""Well, this is a pretty piece of business!""",0.5411,0.368,0.0,0.632,positive,Anne of Green Gables
+ejaculated Marilla.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"During this dialogue the child had remained silent, her eyes roving from one to the other, all the animation fading out of her face.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Suddenly she seemed to grasp the full meaning of what had been said.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Dropping her precious carpet-bag she sprang forward a step and clasped her hands.,0.5719,0.252,0.0,0.748,positive,Anne of Green Gables
+"""You don't want me!""",-0.1316,0.0,0.335,0.665,negative,Anne of Green Gables
+she cried.,-0.3818,0.0,0.722,0.278,negative,Anne of Green Gables
+"""You don't want me because I'm not a boy!",-0.1316,0.0,0.178,0.822,negative,Anne of Green Gables
+I might have expected it.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Nobody ever did want me.,0.0772,0.245,0.0,0.755,positive,Anne of Green Gables
+I might have known it was all too beautiful to last.,0.5994,0.302,0.0,0.698,positive,Anne of Green Gables
+I might have known nobody really did want me.,0.1477,0.184,0.0,0.816,positive,Anne of Green Gables
+"Oh, what shall I do?",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I'm going to burst into tears!""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Burst into tears she did.,-0.2263,0.0,0.322,0.678,negative,Anne of Green Gables
+"Sitting down on a chair by the table, flinging her arms out upon it, and burying her face in them, she proceeded to cry stormily.",-0.4767,0.0,0.119,0.881,negative,Anne of Green Gables
+Marilla and Matthew looked at each other deprecatingly across the stove.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Neither of them knew what to say or do.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Finally Marilla stepped lamely into the breach.,-0.4588,0.0,0.333,0.667,negative,Anne of Green Gables
+"""Well, well, there's no need to cry so about it.""",-0.4939,0.146,0.368,0.486,negative,Anne of Green Gables
+"""Yes, there is need!""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"The child raised her head quickly, revealing a tear-stained face and trembling lips. """,-0.3612,0.0,0.185,0.815,negative,Anne of Green Gables
+"You would cry, too, if you were an orphan and had come to a place you thought was going to be home and found that they didn't want you because you weren't a boy.",-0.5142,0.0,0.126,0.874,negative,Anne of Green Gables
+"Oh, this is the most tragical thing that ever happened to me!""",-0.6105,0.0,0.266,0.734,negative,Anne of Green Gables
+"Something like a reluctant smile, rather rusty from long disuse, mellowed Marilla's grim expression.",-0.1779,0.254,0.289,0.457,negative,Anne of Green Gables
+"""Well, don't cry any more.",0.3724,0.39,0.0,0.61,positive,Anne of Green Gables
+We're not going to turn you out-of-doors tonight.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+You'll have to stay here until we investigate this affair.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"What's your name?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+The child hesitated for a moment.,-0.3182,0.0,0.365,0.635,negative,Anne of Green Gables
+"""Will you please call me Cordelia?""",0.3182,0.315,0.0,0.685,positive,Anne of Green Gables
+"she said eagerly. """,0.3818,0.565,0.0,0.435,positive,Anne of Green Gables
+Call you Cordelia?,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Is that your name?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""No-o-o, it's not exactly my name, but I would love to be called Cordelia.",0.7783,0.326,0.0,0.674,positive,Anne of Green Gables
+"It's such a perfectly elegant name.""",0.8074,0.709,0.0,0.291,positive,Anne of Green Gables
+"""I don't know what on earth you mean.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"If Cordelia isn't your name, what is?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Anne Shirley,"" reluctantly faltered forth the owner of that name, ""but, oh, please do call me Cordelia.",0.2263,0.123,0.075,0.802,positive,Anne of Green Gables
+"It can't matter much to you what you call me if I'm only going to be here a little while, can it?",-0.0191,0.0,0.051,0.949,neutral,Anne of Green Gables
+"And Anne is such an unromantic name.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Unromantic fiddlesticks!""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+said the unsympathetic Marilla.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Anne is a real good plain sensible name.",0.4404,0.326,0.0,0.674,positive,Anne of Green Gables
+"You've no need to be ashamed of it.""",-0.6486,0.0,0.469,0.531,negative,Anne of Green Gables
+"""Oh, I'm not ashamed of it,"" explained Anne, ""only I like Cordelia better.",0.7878,0.469,0.0,0.531,positive,Anne of Green Gables
+"I've always imagined that my name was Cordelia--at least, I always have of late years.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"When I was young I used to imagine it was Geraldine, but I like Cordelia better now.",0.7964,0.372,0.0,0.628,positive,Anne of Green Gables
+"But if you call me Anne please call me Anne spelled with an E."" ""What difference does it make how it's spelled?""",0.4497,0.123,0.0,0.877,positive,Anne of Green Gables
+asked Marilla with another rusty smile as she picked up the teapot.,0.3612,0.185,0.0,0.815,positive,Anne of Green Gables
+"""Oh, it makes such a difference.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+It looks so much nicer.,0.4902,0.443,0.0,0.557,positive,Anne of Green Gables
+"When you hear a name pronounced can't you always see it in your mind, just as if it was printed out?",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I can; and A-n-n looks dreadful, but A-n-n-e looks so much more distinguished.",-0.2382,0.0,0.151,0.849,negative,Anne of Green Gables
+"If you'll only call me Anne spelled with an E I shall try to reconcile myself to not being called Cordelia.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""Very well, then, Anne spelled with an E, can you tell us how this mistake came to be made?",-0.0918,0.108,0.124,0.768,negative,Anne of Green Gables
+We sent word to Mrs. Spencer to bring us a boy.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Were there no boys at the asylum?""",-0.296,0.0,0.268,0.732,negative,Anne of Green Gables
+"""Oh, yes, there was an abundance of them.",0.4019,0.278,0.0,0.722,positive,Anne of Green Gables
+But Mrs. Spencer said distinctly that you wanted a girl about eleven years old.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+And the matron said she thought I would do.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+You don't know how delighted I was.,-0.4023,0.0,0.351,0.649,negative,Anne of Green Gables
+I couldn't sleep all last night for joy.,0.5859,0.388,0.0,0.612,positive,Anne of Green Gables
+"Oh,"" she added reproachfully, turning to Matthew, ""why didn't you tell me at the station that you didn't want me and leave me there?",-0.1083,0.0,0.099,0.901,negative,Anne of Green Gables
+"If I hadn't seen the White Way of Delight and the Lake of Shining Waters it wouldn't be so hard.""",0.5994,0.178,0.0,0.822,positive,Anne of Green Gables
+"""What on earth does she mean?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"demanded Marilla, staring at Matthew.",-0.2263,0.0,0.322,0.678,negative,Anne of Green Gables
+"""She--she's just referring to some conversation we had on the road,"" said Matthew hastily.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""I'm going out to put the mare in, Marilla.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"Have tea ready when I come back.""",0.3612,0.333,0.0,0.667,positive,Anne of Green Gables
+"""Did Mrs. Spencer bring anybody over besides you?""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+continued Marilla when Matthew had gone out.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""She brought Lily Jones for herself.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Lily is only five years old and she is very beautiful and had nut-brown hair.,0.6361,0.23,0.0,0.77,positive,Anne of Green Gables
+"If I was very beautiful and had nut-brown hair would you keep me?""",0.6361,0.276,0.0,0.724,positive,Anne of Green Gables
+"""No.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+We want a boy to help Matthew on the farm.,0.4588,0.364,0.0,0.636,positive,Anne of Green Gables
+A girl would be of no use to us.,-0.296,0.0,0.239,0.761,negative,Anne of Green Gables
+Take off your hat.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"I'll lay it and your bag on the hall table.""",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Anne took off her hat meekly.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+Matthew came back presently and they sat down to supper.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+But Anne could not eat.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+In vain she nibbled at the bread and butter and pecked at the crab-apple preserve out of the little scalloped glass dish by her plate.,-0.4215,0.0,0.104,0.896,negative,Anne of Green Gables
+She did not really make any headway at all.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""You're not eating anything,"" said Marilla sharply, eying her as if it were a serious shortcoming.",-0.0772,0.0,0.085,0.915,negative,Anne of Green Gables
+Anne sighed.,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+"""I can't.",0.0,0.0,0.0,1.0,neutral,Anne of Green Gables
+I'm in the depths of despa,0.0,0.0,0.0,1.0,neutral,Anne of Green Gables

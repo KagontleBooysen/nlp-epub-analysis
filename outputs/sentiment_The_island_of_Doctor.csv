@@ -1,0 +1,615 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The island of Doctor Moreau This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.065,0.102,0.833,negative,The island of Doctor Moreau
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The island of Doctor Moreau
+"Title : The island of Doctor Moreau Author : H. G. Wells Release date : October 14, 2004 [eBook #159] Most recently updated: June 28, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/159 Credits : Judith Boss and Andrew Sly *** START OF THE PROJECT GUTENBERG EBOOK THE ISLAND OF DOCTOR MOREAU *** The Island of Doctor Moreau by H. G. Wells Contents INTRODUCTION I.",0.6705,0.101,0.0,0.899,positive,The island of Doctor Moreau
+"IN THE DINGEY OF THE ""LADY VAIN"" II.",-0.4215,0.0,0.286,0.714,negative,The island of Doctor Moreau
+THE MAN WHO WAS GOING NOWHERE III.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE STRANGE FACE IV.,-0.2023,0.0,0.375,0.625,negative,The island of Doctor Moreau
+AT THE SCHOONER'S RAIL V. THE MAN WHO HAD NOWHERE TO GO VI.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE EVIL-LOOKING BOATMEN VII.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE LOCKED DOOR VIII.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE CRYING OF THE PUMA IX.,-0.4767,0.0,0.383,0.617,negative,The island of Doctor Moreau
+THE THING IN THE FOREST X.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE CRYING OF THE MAN XI.,-0.4767,0.0,0.383,0.617,negative,The island of Doctor Moreau
+THE HUNTING OF THE MAN XII.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE SAYERS OF THE LAW XIII.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+A PARLEY XIV.,-0.1027,0.0,0.583,0.417,negative,The island of Doctor Moreau
+DOCTOR MOREAU EXPLAINS XV.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+CONCERNING THE BEAST FOLK XVI.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+HOW THE BEAST FOLK TASTE BLOOD XVII.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+A CATASTROPHE XVIII.,-0.6597,0.0,0.815,0.185,negative,The island of Doctor Moreau
+THE FINDING OF MOREAU XIX.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"MONTGOMERY'S ""BANK HOLIDAY"" XX.",0.4019,0.474,0.0,0.526,positive,The island of Doctor Moreau
+ALONE WITH THE BEAST FOLK XXI.,-0.25,0.0,0.286,0.714,negative,The island of Doctor Moreau
+THE REVERSION OF THE BEAST FOLK XXII.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE MAN ALONE INTRODUCTION.,-0.25,0.0,0.4,0.6,negative,The island of Doctor Moreau
+"On February the First 1887, the Lady Vain was lost by collision with a derelict when about the latitude 1° S. and longitude 107° W. On January the Fifth, 1888--that is eleven months and four days after--my uncle, Edward Prendick, a private gentleman, who certainly went aboard the Lady Vain at Callao, and who had been considered drowned, was picked up in latitude 5° 3′ S. and longitude 101° W. in a small open boat of which the name was illegible, but which is supposed to have belonged to the missing schooner Ipecacuanha .",-0.8271,0.028,0.128,0.844,negative,The island of Doctor Moreau
+He gave such a strange account of himself that he was supposed demented.,-0.2023,0.0,0.141,0.859,negative,The island of Doctor Moreau
+Subsequently he alleged that his mind was a blank from the moment of his escape from the Lady Vain .,-0.2732,0.083,0.137,0.78,negative,The island of Doctor Moreau
+His case was discussed among psychologists at the time as a curious instance of the lapse of memory consequent upon physical and mental stress.,-0.128,0.088,0.107,0.805,negative,The island of Doctor Moreau
+"The following narrative was found among his papers by the undersigned, his nephew and heir, but unaccompanied by any definite request for publication.",0.3919,0.108,0.0,0.892,positive,The island of Doctor Moreau
+"The only island known to exist in the region in which my uncle was picked up is Noble's Isle, a small volcanic islet and uninhabited.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+It was visited in 1891 by H. M. S. Scorpion .,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"A party of sailors then landed, but found nothing living thereon except certain curious white moths, some hogs and rabbits, and some rather peculiar rats.",0.81,0.319,0.0,0.681,positive,The island of Doctor Moreau
+So that this narrative is without confirmation in its most essential particular.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"With that understood, there seems no harm in putting this strange story before the public in accordance, as I believe, with my uncle's intentions.",-0.7717,0.0,0.278,0.722,negative,The island of Doctor Moreau
+"There is at least this much in its behalf: my uncle passed out of human knowledge about latitude 5° S. and longitude 105° E., and reappeared in the same part of the ocean after a space of eleven months.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+In some way he must have lived during the interval.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"And it seems that a schooner called the Ipecacuanha with a drunken captain, John Davies, did start from Africa with a puma and certain other animals aboard in January, 1887, that the vessel was well known at several ports in the South Pacific, and that it finally disappeared from those seas (with a considerable amount of copra aboard), sailing to its unknown fate from Bayna in December, 1887, a date that tallies entirely with my uncle's story.",0.34,0.07,0.025,0.904,positive,The island of Doctor Moreau
+C HARLES E DWARD P RENDICK .,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The Island of Doctor Moreau (The Story written by Edward Prendick.),0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"IN THE DINGEY OF THE ""LADY VAIN.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I do not propose to add anything to what has already been written concerning the loss of the Lady Vain .,-0.6249,0.0,0.231,0.769,negative,The island of Doctor Moreau
+"As everyone knows, she collided with a derelict when ten days out from Callao.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The longboat, with seven of the crew, was picked up eighteen days after by H. M. gunboat Myrtle , and the story of their terrible privations has become quite as well known as the far more horrible Medusa case.",-0.672,0.054,0.156,0.791,negative,The island of Doctor Moreau
+"But I have to add to the published story of the Lady Vain another, possibly as horrible and far stranger.",-0.8573,0.0,0.332,0.668,negative,The island of Doctor Moreau
+"It has hitherto been supposed that the four men who were in the dingey perished, but this is incorrect.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I have the best of evidence for this assertion: I was one of the four men.,0.6369,0.244,0.0,0.756,positive,The island of Doctor Moreau
+"But in the first place I must state that there never were four men in the dingey,--the number was three.",0.1154,0.075,0.0,0.925,positive,The island of Doctor Moreau
+"Constans, who was ""seen by the captain to jump into the gig,"" [1] luckily for us and unluckily for himself did not reach us.",0.4983,0.125,0.041,0.834,positive,The island of Doctor Moreau
+"He came down out of the tangle of ropes under the stays of the smashed bowsprit, some small rope caught his heel as he let go, and he hung for a moment head downward, and then fell and struck a block or spar floating in the water.",-0.5994,0.0,0.102,0.898,negative,The island of Doctor Moreau
+"We pulled towards him, but he never came up.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"[1] Daily News , March 17, 1887.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I say luckily for us he did not reach us, and I might almost say luckily for himself; for we had only a small beaker of water and some soddened ship's biscuits with us, so sudden had been the alarm, so unprepared the ship for any disaster.",0.0067,0.124,0.142,0.733,neutral,The island of Doctor Moreau
+"We thought the people on the launch would be better provisioned (though it seems they were not), and we tried to hail them.",0.4939,0.167,0.0,0.833,positive,The island of Doctor Moreau
+"They could not have heard us, and the next morning when the drizzle cleared,--which was not until past midday,--we could see nothing of them.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"We could not stand up to look about us, because of the pitching of the boat.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The two other men who had escaped so far with me were a man named Helmar, a passenger like myself, and a seaman whose name I don't know,--a short sturdy man, with a stammer.",0.1531,0.08,0.061,0.86,positive,The island of Doctor Moreau
+"We drifted famishing, and, after our water had come to an end, tormented by an intolerable thirst, for eight days altogether.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+After the second day the sea subsided slowly to a glassy calm.,0.3182,0.187,0.0,0.813,positive,The island of Doctor Moreau
+It is quite impossible for the ordinary reader to imagine those eight days.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He has not, luckily for himself, anything in his memory to imagine with.",-0.4023,0.0,0.184,0.816,negative,The island of Doctor Moreau
+"After the first day we said little to one another, and lay in our places in the boat and stared at the horizon, or watched, with eyes that grew larger and more haggard every day, the misery and weakness gaining upon our companions.",-0.5719,0.057,0.132,0.811,negative,The island of Doctor Moreau
+The sun became pitiless.,-0.4215,0.0,0.483,0.517,negative,The island of Doctor Moreau
+"The water ended on the fourth day, and we were already thinking strange things and saying them with our eyes; but it was, I think, the sixth before Helmar gave voice to the thing we had all been thinking.",-0.1027,0.0,0.036,0.964,negative,The island of Doctor Moreau
+"I remember our voices were dry and thin, so that we bent towards one another and spared our words.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I stood out against it with all my might, was rather for scuttling the boat and perishing together among the sharks that followed us; but when Helmar said that if his proposal was accepted we should have drink, the sailor came round to him.",0.3919,0.059,0.0,0.941,positive,The island of Doctor Moreau
+"I would not draw lots however, and in the night the sailor whispered to Helmar again and again, and I sat in the bows with my clasp-knife in my hand, though I doubt if I had the stuff in me to fight; and in the morning I agreed to Helmar's proposal, and we handed halfpence to find the odd man.",-0.2732,0.085,0.118,0.797,negative,The island of Doctor Moreau
+"The lot fell upon the sailor; but he was the strongest of us and would not abide by it, and attacked Helmar with his hands.",-0.0387,0.125,0.13,0.746,neutral,The island of Doctor Moreau
+They grappled together and almost stood up.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I crawled along the boat to them, intending to help Helmar by grasping the sailor's leg; but the sailor stumbled with the swaying of the boat, and the two fell upon the gunwale and rolled overboard together.",0.2144,0.05,0.0,0.95,positive,The island of Doctor Moreau
+They sank like stones.,0.3612,0.455,0.0,0.545,positive,The island of Doctor Moreau
+"I remember laughing at that, and wondering why I laughed.",0.7351,0.508,0.0,0.492,positive,The island of Doctor Moreau
+The laugh caught me suddenly like a thing from without.,0.7269,0.466,0.0,0.534,positive,The island of Doctor Moreau
+"I lay across one of the thwarts for I know not how long, thinking that if I had the strength I would drink sea-water and madden myself to die quickly.",-0.2732,0.102,0.168,0.73,negative,The island of Doctor Moreau
+"And even as I lay there I saw, with no more interest than if it had been a picture, a sail come up towards me over the sky-line.",0.2716,0.12,0.08,0.8,positive,The island of Doctor Moreau
+"My mind must have been wandering, and yet I remember all that happened, quite distinctly.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I remember how my head swayed with the seas, and the horizon with the sail above it danced up and down; but I also remember as distinctly that I had a persuasion that I was dead, and that I thought what a jest it was that they should come too late by such a little to catch me in my body.",-0.7876,0.0,0.103,0.897,negative,The island of Doctor Moreau
+"For an endless period, as it seemed to me, I lay with my head on the thwart watching the schooner (she was a little ship, schooner-rigged fore and aft) come up out of the sea.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"She kept tacking to and fro in a widening compass, for she was sailing dead into the wind.",-0.6486,0.0,0.212,0.788,negative,The island of Doctor Moreau
+"It never entered my head to attempt to attract attention, and I do not remember anything distinctly after the sight of her side until I found myself in a little cabin aft.",0.3612,0.082,0.0,0.918,positive,The island of Doctor Moreau
+"There's a dim half-memory of being lifted up to the gangway, and of a big round countenance covered with freckles and surrounded with red hair staring at me over the bulwarks.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I also had a disconnected impression of a dark face, with extraordinary eyes, close to mine; but that I thought was a nightmare, until I met it again.",0.1154,0.065,0.0,0.935,positive,The island of Doctor Moreau
+I fancy I recollect some stuff being poured in between my teeth; and that is all.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+II.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE MAN WHO WAS GOING NOWHERE.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The cabin in which I found myself was small and rather untidy.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"A youngish man with flaxen hair, a bristly straw-coloured moustache, and a dropping nether lip, was sitting and holding my wrist.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+For a minute we stared at each other without speaking.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He had watery grey eyes, oddly void of expression.",0.0516,0.13,0.0,0.87,positive,The island of Doctor Moreau
+"Then just overhead came a sound like an iron bedstead being knocked about, and the low angry growling of some large animal.",-0.4404,0.097,0.208,0.695,negative,The island of Doctor Moreau
+At the same time the man spoke.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He repeated his question,--""How do you feel now?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I think I said I felt all right.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I could not recollect how I had got there.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He must have seen the question in my face, for my voice was inaccessible to me.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""You were picked up in a boat, starving.",-0.4215,0.0,0.318,0.682,negative,The island of Doctor Moreau
+"The name on the boat was the Lady Vain , and there were spots of blood on the gunwale.""",-0.4215,0.0,0.141,0.859,negative,The island of Doctor Moreau
+"At the same time my eye caught my hand, so thin that it looked like a dirty skin-purse full of loose bones, and all the business of the boat came back to me.",0.128,0.147,0.134,0.72,positive,The island of Doctor Moreau
+"""Have some of this,"" said he, and gave me a dose of some scarlet stuff, iced.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"It tasted like blood, and made me feel stronger.",0.6249,0.421,0.0,0.579,positive,The island of Doctor Moreau
+"""You were in luck,"" said he, ""to get picked up by a ship with a medical man aboard.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He spoke with a slobbering articulation, with the ghost of a lisp.",-0.3182,0.0,0.204,0.796,negative,The island of Doctor Moreau
+"""What ship is this?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I said slowly, hoarse from my long silence.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""It's a little trader from Arica and Callao.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I never asked where she came from in the beginning,--out of the land of born fools, I guess.",-0.4939,0.0,0.176,0.824,negative,The island of Doctor Moreau
+"I'm a passenger myself, from Arica.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The silly ass who owns her,--he's captain too, named Davies,--he's lost his certificate, or something.",-0.6908,0.058,0.307,0.635,negative,The island of Doctor Moreau
+"You know the kind of man,--calls the thing the Ipecacuanha , of all silly, infernal names; though when there's much of a sea without any wind, she certainly acts according.""",0.3612,0.119,0.0,0.881,positive,The island of Doctor Moreau
+"(Then the noise overhead began again, a snarling growl and the voice of a human being together.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Then another voice, telling some ""Heaven-forsaken idiot"" to desist.)",-0.5106,0.0,0.292,0.708,negative,The island of Doctor Moreau
+"""You were nearly dead,"" said my interlocutor.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""It was a very near thing, indeed.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+But I've put some stuff into you now.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Notice your arm's sore?,-0.3612,0.0,0.455,0.545,negative,The island of Doctor Moreau
+Injections.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"You've been insensible for nearly thirty hours.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I thought slowly.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+(I was distracted now by the yelping of a number of dogs.),-0.2732,0.102,0.189,0.709,negative,The island of Doctor Moreau
+"""Am I eligible for solid food?""",0.1531,0.286,0.0,0.714,positive,The island of Doctor Moreau
+I asked.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Thanks to me,"" he said.",0.4404,0.42,0.0,0.58,positive,The island of Doctor Moreau
+"""Even now the mutton is boiling.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Yes,"" I said with assurance; ""I could eat some mutton.""",0.34,0.231,0.0,0.769,positive,The island of Doctor Moreau
+"""But,"" said he with a momentary hesitation, ""you know I'm dying to hear of how you came to be alone in that boat.",-0.4767,0.0,0.17,0.83,negative,The island of Doctor Moreau
+"Damn that howling !""",-0.4574,0.0,0.499,0.501,negative,The island of Doctor Moreau
+I thought I detected a certain suspicion in his eyes.,-0.128,0.216,0.268,0.515,negative,The island of Doctor Moreau
+"He suddenly left the cabin, and I heard him in violent controversy with some one, who seemed to me to talk gibberish in response to him.",-0.5994,0.0,0.14,0.86,negative,The island of Doctor Moreau
+"The matter sounded as though it ended in blows, but in that I thought my ears were mistaken.",-0.4939,0.054,0.168,0.777,negative,The island of Doctor Moreau
+"Then he shouted at the dogs, and returned to the cabin.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Well?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+said he in the doorway.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""You were just beginning to tell me.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I told him my name, Edward Prendick, and how I had taken to Natural History as a relief from the dulness of my comfortable independence.",0.836,0.319,0.0,0.681,positive,The island of Doctor Moreau
+He seemed interested in this.,0.4019,0.403,0.0,0.597,positive,The island of Doctor Moreau
+"""I've done some science myself.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I did my Biology at University College,--getting out the ovary of the earthworm and the radula of the snail, and all that.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Lord!,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+It's ten years ago.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+But go on!,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+go on!,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"tell me about the boat.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He was evidently satisfied with the frankness of my story, which I told in concise sentences enough, for I felt horribly weak; and when it was finished he reverted at once to the topic of Natural History and his own biological studies.",-0.2023,0.136,0.132,0.732,negative,The island of Doctor Moreau
+He began to question me closely about Tottenham Court Road and Gower Street.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Is Caplatzi still flourishing?",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"What a shop that was!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He had evidently been a very ordinary medical student, and drifted incontinently to the topic of the music halls.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+He told me some anecdotes.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Left it all,"" he said, ""ten years ago.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+How jolly it all used to be!,0.5562,0.374,0.0,0.626,positive,The island of Doctor Moreau
+"But I made a young ass of myself,--played myself out before I was twenty-one.",-0.6956,0.0,0.322,0.678,negative,The island of Doctor Moreau
+I daresay it's all different now.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"But I must look up that ass of a cook, and see what he's done to your mutton.""",-0.6956,0.0,0.241,0.759,negative,The island of Doctor Moreau
+"The growling overhead was renewed, so suddenly and with so much savage anger that it startled me.",-0.8378,0.0,0.39,0.61,negative,The island of Doctor Moreau
+"""What's that?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I called after him, but the door had closed.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He came back again with the boiled mutton, and I was so excited by the appetising smell of it that I forgot the noise of the beast that had troubled me.",0.03,0.094,0.091,0.815,neutral,The island of Doctor Moreau
+"After a day of alternate sleep and feeding I was so far recovered as to be able to get from my bunk to the scuttle, and see the green seas trying to keep pace with us.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I judged the schooner was running before the wind.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Montgomery--that was the name of the flaxen-haired man--came in again as I stood there, and I asked him for some clothes.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He lent me some duck things of his own, for those I had worn in the boat had been thrown overboard.",-0.296,0.0,0.104,0.896,negative,The island of Doctor Moreau
+"They were rather loose for me, for he was large and long in his limbs.",-0.3182,0.0,0.141,0.859,negative,The island of Doctor Moreau
+He told me casually that the captain was three-parts drunk in his own cabin.,-0.1779,0.106,0.149,0.745,negative,The island of Doctor Moreau
+"As I assumed the clothes, I began asking him some questions about the destination of the ship.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He said the ship was bound to Hawaii, but that it had to land him first.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Where?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+said I.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""It's an island, where I live.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"So far as I know, it hasn't got a name.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He stared at me with his nether lip dropping, and looked so wilfully stupid of a sudden that it came into my head that he desired to avoid my questions.",-0.5829,0.062,0.173,0.765,negative,The island of Doctor Moreau
+I had the discretion to ask no more.,-0.296,0.0,0.268,0.732,negative,The island of Doctor Moreau
+III.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE STRANGE FACE.,-0.2023,0.0,0.474,0.526,negative,The island of Doctor Moreau
+We left the cabin and found a man at the companion obstructing our way.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He was standing on the ladder with his back to us, peering over the combing of the hatchway.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He was, I could see, a misshapen man, short, broad, and clumsy, with a crooked back, a hairy neck, and a head sunk between his shoulders.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He was dressed in dark-blue serge, and had peculiarly thick, coarse, black hair.",-0.1027,0.0,0.104,0.896,negative,The island of Doctor Moreau
+"I heard the unseen dogs growl furiously, and forthwith he ducked back,--coming into contact with the hand I put out to fend him off from myself.",0.0772,0.114,0.103,0.783,positive,The island of Doctor Moreau
+He turned with animal swiftness.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+In some indefinable way the black face thus flashed upon me shocked me profoundly.,-0.3182,0.0,0.15,0.85,negative,The island of Doctor Moreau
+It was a singularly deformed one.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The facial part projected, forming something dimly suggestive of a muzzle, and the huge half-open mouth showed as big white teeth as I had ever seen in a human mouth.",0.3182,0.081,0.0,0.919,positive,The island of Doctor Moreau
+"His eyes were blood-shot at the edges, with scarcely a rim of white round the hazel pupils.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+There was a curious glow of excitement in his face.,0.6705,0.44,0.0,0.56,positive,The island of Doctor Moreau
+"""Confound you!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+said Montgomery.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Why the devil don't you get out of the way?""",-0.6597,0.0,0.328,0.672,negative,The island of Doctor Moreau
+The black-faced man started aside without a word.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I went on up the companion, staring at him instinctively as I did so.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Montgomery stayed at the foot for a moment.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""You have no business here, you know,"" he said in a deliberate tone.",-0.296,0.0,0.167,0.833,negative,The island of Doctor Moreau
+"""Your place is forward.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The black-faced man cowered.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""They--won't have me forward.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He spoke slowly, with a queer, hoarse quality in his voice.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Won't have you forward!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"said Montgomery, in a menacing voice.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""But I tell you to go!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He was on the brink of saying something further, then looked up at me suddenly and followed me up the ladder.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I had paused half way through the hatchway, looking back, still astonished beyond measure at the grotesque ugliness of this black-faced creature.",-0.2732,0.103,0.146,0.751,negative,The island of Doctor Moreau
+"I had never beheld such a repulsive and extraordinary face before, and yet--if the contradiction is credible--I experienced at the same time an odd feeling that in some way I had already encountered exactly the features and gestures that now amazed me.",0.1027,0.107,0.098,0.795,positive,The island of Doctor Moreau
+Afterwards it occurred to me that probably I had seen him as I was lifted aboard; and yet that scarcely satisfied my suspicion of a previous acquaintance.,0.0697,0.134,0.087,0.779,positive,The island of Doctor Moreau
+"Yet how one could have set eyes on so singular a face and yet have forgotten the precise occasion, passed my imagination.",-0.2263,0.0,0.087,0.913,negative,The island of Doctor Moreau
+"Montgomery's movement to follow me released my attention, and I turned and looked about me at the flush deck of the little schooner.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I was already half prepared by the sounds I had heard for what I saw.,0.2263,0.147,0.0,0.853,positive,The island of Doctor Moreau
+Certainly I never beheld a deck so dirty.,-0.3272,0.237,0.369,0.394,negative,The island of Doctor Moreau
+"It was littered with scraps of carrot, shreds of green stuff, and indescribable filth.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Fastened by chains to the mainmast were a number of grisly staghounds, who now began leaping and barking at me, and by the mizzen a huge puma was cramped in a little iron cage far too small even to give it turning room.",0.3818,0.087,0.0,0.913,positive,The island of Doctor Moreau
+"Farther under the starboard bulwark were some big hutches containing a number of rabbits, and a solitary llama was squeezed in a mere box of a cage forward.",0.0772,0.053,0.0,0.947,positive,The island of Doctor Moreau
+The dogs were muzzled by leather straps.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The only human being on deck was a gaunt and silent sailor at the wheel.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The patched and dirty spankers were tense before the wind, and up aloft the little ship seemed carrying every sail she had.",-0.6486,0.0,0.209,0.791,negative,The island of Doctor Moreau
+"The sky was clear, the sun midway down the western sky; long waves, capped by the breeze with froth, were running with us.",0.3818,0.106,0.0,0.894,positive,The island of Doctor Moreau
+"We went past the steersman to the taffrail, and saw the water come foaming under the stern and the bubbles go dancing and vanishing in her wake.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I turned and surveyed the unsavoury length of the ship.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Is this an ocean menagerie?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+said I.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Looks like it,"" said Montgomery.",0.3612,0.385,0.0,0.615,positive,The island of Doctor Moreau
+"""What are these beasts for?",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Merchandise, curios?",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Does the captain think he is going to sell them somewhere in the South Seas?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""It looks like it, doesn't it?""",0.3612,0.333,0.0,0.667,positive,The island of Doctor Moreau
+"said Montgomery, and turned towards the wake again.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Suddenly we heard a yelp and a volley of furious blasphemy from the companion hatchway, and the deformed man with the black face came up hurriedly.",-0.5719,0.0,0.139,0.861,negative,The island of Doctor Moreau
+He was immediately followed by a heavy red-haired man in a white cap.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"At the sight of the former the staghounds, who had all tired of barking at me by this time, became furiously excited, howling and leaping against their chains.",-0.5267,0.072,0.175,0.753,negative,The island of Doctor Moreau
+"The black hesitated before them, and this gave the red-haired man time to come up with him and deliver a tremendous blow between the shoulder-blades.",-0.3182,0.0,0.091,0.909,negative,The island of Doctor Moreau
+"The poor devil went down like a felled ox, and rolled in the dirt among the furiously excited dogs.",-0.836,0.165,0.431,0.404,negative,The island of Doctor Moreau
+It was lucky for him that they were muzzled.,0.4215,0.259,0.0,0.741,positive,The island of Doctor Moreau
+"The red-haired man gave a yawp of exultation and stood staggering, and as it seemed to me in serious danger of either going backwards down the companion hatchway or forwards upon his victim.",-0.7003,0.0,0.19,0.81,negative,The island of Doctor Moreau
+"So soon as the second man had appeared, Montgomery had started forward.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Steady on there!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"he cried, in a tone of remonstrance.",-0.3818,0.0,0.342,0.658,negative,The island of Doctor Moreau
+A couple of sailors appeared on the forecastle.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The black-faced man, howling in a singular voice rolled about under the feet of the dogs.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+No one attempted to help him.,0.128,0.303,0.247,0.449,positive,The island of Doctor Moreau
+"The brutes did their best to worry him, butting their muzzles at him.",0.3182,0.232,0.16,0.608,positive,The island of Doctor Moreau
+"There was a quick dance of their lithe grey-figured bodies over the clumsy, prostrate figure.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The sailors forward shouted, as though it was admirable sport.",0.5574,0.286,0.0,0.714,positive,The island of Doctor Moreau
+"Montgomery gave an angry exclamation, and went striding down the deck, and I followed him.",-0.5106,0.0,0.202,0.798,negative,The island of Doctor Moreau
+"The black-faced man scrambled up and staggered forward, going and leaning over the bulwark by the main shrouds, where he remained, panting and glaring over his shoulder at the dogs.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The red-haired man laughed a satisfied laugh.,0.8555,0.758,0.0,0.242,positive,The island of Doctor Moreau
+"""Look here, Captain,"" said Montgomery, with his lisp a little accentuated, gripping the elbows of the red-haired man, ""this won't do!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I stood behind Montgomery.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The captain came half round, and regarded him with the dull and solemn eyes of a drunken man.",-0.4588,0.0,0.211,0.789,negative,The island of Doctor Moreau
+"""Wha' won't do?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"he said, and added, after looking sleepily into Montgomery's face for a minute, ""Blasted Sawbones!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"With a sudden movement he shook his arms free, and after two ineffectual attempts stuck his freckled fists into his side pockets.",-0.0772,0.127,0.216,0.656,negative,The island of Doctor Moreau
+"""That man's a passenger,"" said Montgomery.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""I'd advise you to keep your hands off him.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Go to hell!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"said the captain, loudly.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+He suddenly turned and staggered towards the side.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Do what I like on my own ship,"" he said.",0.3612,0.238,0.0,0.762,positive,The island of Doctor Moreau
+"I think Montgomery might have left him then, seeing the brute was drunk; but he only turned a shade paler, and followed the captain to the bulwarks.",-0.1779,0.0,0.066,0.934,negative,The island of Doctor Moreau
+"""Look you here, Captain,"" he said; ""that man of mine is not to be ill-treated.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He has been hazed ever since he came aboard.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"For a minute, alcoholic fumes kept the captain speechless.",-0.0258,0.0,0.136,0.864,neutral,The island of Doctor Moreau
+"""Blasted Sawbones!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+was all he considered necessary.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I could see that Montgomery had one of those slow, pertinacious tempers that will warm day after day to a white heat, and never again cool to forgiveness; and I saw too that this quarrel had been some time growing.",0.1124,0.136,0.102,0.763,positive,The island of Doctor Moreau
+"""The man's drunk,"" said I, perhaps officiously; ""you'll do no good.""",-0.296,0.0,0.18,0.82,negative,The island of Doctor Moreau
+Montgomery gave an ugly twist to his dropping lip.,-0.5106,0.0,0.292,0.708,negative,The island of Doctor Moreau
+"""He's always drunk.",-0.34,0.0,0.545,0.455,negative,The island of Doctor Moreau
+"Do you think that excuses his assaulting his passengers?""",-0.5106,0.0,0.292,0.708,negative,The island of Doctor Moreau
+"""My ship,"" began the captain, waving his hand unsteadily towards the cages, ""was a clean ship.",0.7096,0.312,0.0,0.688,positive,The island of Doctor Moreau
+"Look at it now!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+It was certainly anything but clean.,0.6428,0.568,0.0,0.432,positive,The island of Doctor Moreau
+"""Crew,"" continued the captain, ""clean, respectable crew.""",0.4404,0.326,0.0,0.674,positive,The island of Doctor Moreau
+"""You agreed to take the beasts.""",0.2732,0.296,0.0,0.704,positive,The island of Doctor Moreau
+"""I wish I'd never set eyes on your infernal island.",0.4019,0.231,0.0,0.769,positive,The island of Doctor Moreau
+What the devil--want beasts for on an island like that?,0.3612,0.217,0.0,0.783,positive,The island of Doctor Moreau
+"Then, that man of yours--understood he was a man.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+He's a lunatic; and he hadn't no business aft.,-0.3208,0.17,0.289,0.541,negative,The island of Doctor Moreau
+"Do you think the whole damned ship belongs to you?""",-0.3818,0.0,0.224,0.776,negative,The island of Doctor Moreau
+"""Your sailors began to haze the poor devil as soon as he came aboard.""",-0.8176,0.0,0.385,0.615,negative,The island of Doctor Moreau
+"""That's just what he is--he's a devil!",-0.69,0.0,0.484,0.516,negative,The island of Doctor Moreau
+an ugly devil!,-0.8398,0.0,0.889,0.111,negative,The island of Doctor Moreau
+My men can't stand him.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I can't stand him.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+None of us can't stand him.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Nor you either!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Montgomery turned away. """,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"You leave that man alone, anyhow,"" he said, nodding his head as he spoke.",-0.296,0.0,0.211,0.789,negative,The island of Doctor Moreau
+But the captain meant to quarrel now.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+He raised his voice.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""If he comes this end of the ship again I'll cut his insides out, I tell you.",-0.2732,0.0,0.123,0.877,negative,The island of Doctor Moreau
+Cut out his blasted insides!,-0.3382,0.0,0.374,0.626,negative,The island of Doctor Moreau
+"Who are you , to tell me what I'm to do?",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I tell you I'm captain of this ship,--captain and owner.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I'm the law here, I tell you,--the law and the prophets.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I bargained to take a man and his attendant to and from Arica, and bring back some animals.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I never bargained to carry a mad devil and a silly Sawbones, a--"" Well, never mind what he called Montgomery.",-0.7506,0.134,0.319,0.546,negative,The island of Doctor Moreau
+"I saw the latter take a step forward, and interposed.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""He's drunk,"" said I.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The captain began some abuse even fouler than the last.,-0.6369,0.0,0.318,0.682,negative,The island of Doctor Moreau
+"""Shut up!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I said, turning on him sharply, for I had seen danger in Montgomery's white face.",-0.5267,0.0,0.221,0.779,negative,The island of Doctor Moreau
+With that I brought the downpour on myself.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"However, I was glad to avert what was uncommonly near a scuffle, even at the price of the captain's drunken ill-will.",0.3182,0.138,0.078,0.783,positive,The island of Doctor Moreau
+"I do not think I have ever heard quite so much vile language come in a continuous stream from any man's lips before, though I have frequented eccentric company enough.",-0.6851,0.0,0.157,0.843,negative,The island of Doctor Moreau
+"I found some of it hard to endure, though I am a mild-tempered man; but, certainly, when I told the captain to ""shut up"" I had forgotten that I was merely a bit of human flotsam, cut off from my resources and with my fare unpaid; a mere casual dependant on the bounty, or speculative enterprise, of the ship.",0.1779,0.119,0.107,0.775,positive,The island of Doctor Moreau
+He reminded me of it with considerable vigour; but at any rate I prevented a fight.,-0.4215,0.153,0.2,0.647,negative,The island of Doctor Moreau
+IV.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+AT THE SCHOONER'S RAIL.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"That night land was sighted after sundown, and the schooner hove to.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Montgomery intimated that was his destination.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+It was too far to see any details; it seemed to me then simply a low-lying patch of dim blue in the uncertain blue-grey sea.,-0.296,0.0,0.087,0.913,negative,The island of Doctor Moreau
+An almost vertical streak of smoke went up from it into the sky.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The captain was not on deck when it was sighted.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"After he had vented his wrath on me he had staggered below, and I understand he went to sleep on the floor of his own cabin.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The mate practically assumed the command.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He was the gaunt, taciturn individual we had seen at the wheel.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Apparently he was in an evil temper with Montgomery.,-0.802,0.0,0.507,0.493,negative,The island of Doctor Moreau
+He took not the slightest notice of either of us.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"We dined with him in a sulky silence, after a few ineffectual efforts on my part to talk.",-0.4588,0.0,0.222,0.778,negative,The island of Doctor Moreau
+It struck me too that the men regarded my companion and his animals in a singularly unfriendly manner.,-0.5423,0.0,0.231,0.769,negative,The island of Doctor Moreau
+"I found Montgomery very reticent about his purpose with these creatures, and about his destination; and though I was sensible of a growing curiosity as to both, I did not press him.",0.1779,0.059,0.0,0.941,positive,The island of Doctor Moreau
+We remained talking on the quarter deck until the sky was thick with stars.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Except for an occasional sound in the yellow-lit forecastle and a movement of the animals now and then, the night was very still.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The puma lay crouched together, watching us with shining eyes, a black heap in the corner of its cage.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Montgomery produced some cigars.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He talked to me of London in a tone of half-painful reminiscence, asking all kinds of questions about changes that had taken place.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He spoke like a man who had loved his life there, and had been suddenly and irrevocably cut off from it.",0.6486,0.251,0.082,0.667,positive,The island of Doctor Moreau
+I gossiped as well as I could of this and that.,0.0,0.188,0.188,0.625,neutral,The island of Doctor Moreau
+"All the time the strangeness of him was shaping itself in my mind; and as I talked I peered at his odd, pallid face in the dim light of the binnacle lantern behind me.",-0.3182,0.0,0.069,0.931,negative,The island of Doctor Moreau
+"Then I looked out at the darkling sea, where in the dimness his little island was hidden.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"This man, it seemed to me, had come out of Immensity merely to save my life.",0.4939,0.176,0.0,0.824,positive,The island of Doctor Moreau
+"To-morrow he would drop over the side, and vanish again out of my existence.",-0.2732,0.0,0.139,0.861,negative,The island of Doctor Moreau
+"Even had it been under commonplace circumstances, it would have made me a trifle thoughtful; but in the first place was the singularity of an educated man living on this unknown little island, and coupled with that the extraordinary nature of his luggage.",0.2023,0.042,0.0,0.958,positive,The island of Doctor Moreau
+I found myself repeating the captain's question.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+What did he want with the beasts?,0.0772,0.178,0.0,0.822,positive,The island of Doctor Moreau
+"Why, too, had he pretended they were not his when I had remarked about them at first?",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Then, again, in his personal attendant there was a bizarre quality which had impressed me profoundly.",0.2023,0.168,0.125,0.707,positive,The island of Doctor Moreau
+These circumstances threw a haze of mystery round the man.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"They laid hold of my imagination, and hampered my tongue.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Towards midnight our talk of London died away, and we stood side by side leaning over the bulwarks and staring dreamily over the silent, starlit sea, each pursuing his own thoughts.",-0.5574,0.0,0.107,0.893,negative,The island of Doctor Moreau
+"It was the atmosphere for sentiment, and I began upon my gratitude.",0.5106,0.248,0.0,0.752,positive,The island of Doctor Moreau
+"""If I may say it,"" said I, after a time, ""you have saved my life.""",0.4215,0.189,0.0,0.811,positive,The island of Doctor Moreau
+"""Chance,"" he answered.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Just chance.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""I prefer to make my thanks to the accessible agent.""",0.4404,0.244,0.0,0.756,positive,The island of Doctor Moreau
+"""Thank no one.",0.0772,0.439,0.386,0.175,positive,The island of Doctor Moreau
+"You had the need, and I had the knowledge; and I injected and fed you much as I might have collected a specimen.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I was bored and wanted something to do.,-0.2732,0.0,0.259,0.741,negative,The island of Doctor Moreau
+"If I'd been jaded that day, or hadn't liked your face, well--it's a curious question where you would have been now!""",-0.4449,0.094,0.213,0.693,negative,The island of Doctor Moreau
+This damped my mood a little.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""At any rate,"" I began.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""It's a chance, I tell you,"" he interrupted, ""as everything is in a man's life.",-0.0516,0.141,0.155,0.704,negative,The island of Doctor Moreau
+Only the asses won't see it!,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Why am I here now, an outcast from civilisation, instead of being a happy man enjoying all the pleasures of London?",0.875,0.385,0.0,0.615,positive,The island of Doctor Moreau
+"Simply because eleven years ago--I lost my head for ten minutes on a foggy night.""",-0.3182,0.0,0.15,0.85,negative,The island of Doctor Moreau
+He stopped.,-0.2263,0.0,0.655,0.345,negative,The island of Doctor Moreau
+"""Yes?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+said I.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""That's all.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+We relapsed into silence.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Presently he laughed.,0.4588,0.6,0.0,0.4,positive,The island of Doctor Moreau
+"""There's something in this starlight that loosens one's tongue.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I'm an ass, and yet somehow I would like to tell you.""",-0.25,0.167,0.233,0.6,negative,The island of Doctor Moreau
+"""Whatever you tell me, you may rely upon my keeping to myself--if that's it.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He was on the point of beginning, and then shook his head, doubtfully.",-0.3818,0.0,0.247,0.753,negative,The island of Doctor Moreau
+"""Don't,"" said I.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""It is all the same to me.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"After all, it is better to keep your secret.",0.4404,0.266,0.0,0.734,positive,The island of Doctor Moreau
+There's nothing gained but a little relief if I respect your confidence.,0.9066,0.611,0.082,0.308,positive,The island of Doctor Moreau
+"If I don't--well?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+He grunted undecidedly.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I felt I had him at a disadvantage, had caught him in the mood of indiscretion; and to tell the truth I was not curious to learn what might have driven a young medical student out of London.",-0.3532,0.062,0.128,0.809,negative,The island of Doctor Moreau
+I have an imagination.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I shrugged my shoulders and turned away.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Over the taffrail leant a silent black figure, watching the stars.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+It was Montgomery's strange attendant.,-0.2023,0.0,0.31,0.69,negative,The island of Doctor Moreau
+"It looked over its shoulder quickly with my movement, then looked away again.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"It may seem a little thing to you, perhaps, but it came like a sudden blow to me.",0.5023,0.178,0.0,0.822,positive,The island of Doctor Moreau
+The only light near us was a lantern at the wheel.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The creature's face was turned for one brief instant out of the dimness of the stern towards this illumination, and I saw that the eyes that glanced at me shone with a pale-green light.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I did not know then that a reddish luminosity, at least, is not uncommon in human eyes.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The thing came to me as stark inhumanity.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"That black figure with its eyes of fire struck down through all my adult thoughts and feelings, and for a moment the forgotten horrors of childhood came back to my mind.",-0.8402,0.0,0.278,0.722,negative,The island of Doctor Moreau
+Then the effect passed as it had come.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"An uncouth black figure of a man, a figure of no particular import, hung over the taffrail against the starlight, and I found Montgomery was speaking to me.",-0.296,0.0,0.084,0.916,negative,The island of Doctor Moreau
+"""I'm thinking of turning in, then,"" said he, ""if you've had enough of this.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I answered him incongruously.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"We went below, and he wished me good-night at the door of my cabin.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+That night I had some very unpleasant dreams.,-0.1065,0.262,0.298,0.44,negative,The island of Doctor Moreau
+The waning moon rose late.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Its light struck a ghostly white beam across my cabin, and made an ominous shape on the planking by my bunk.",-0.5267,0.0,0.196,0.804,negative,The island of Doctor Moreau
+"Then the staghounds woke, and began howling and baying; so that I dreamt fitfully, and scarcely slept until the approach of dawn.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+V. THE MAN WHO HAD NOWHERE TO GO.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"In the early morning (it was the second morning after my recovery, and I believe the fourth after I was picked up), I awoke through an avenue of tumultuous dreams,--dreams of guns and howling mobs,--and became sensible of a hoarse shouting above me.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I rubbed my eyes and lay listening to the noise, doubtful for a little while of my whereabouts.",-0.34,0.0,0.138,0.862,negative,The island of Doctor Moreau
+"Then came a sudden pattering of bare feet, the sound of heavy objects being thrown about, a violent creaking and the rattling of chains.",-0.5994,0.0,0.157,0.843,negative,The island of Doctor Moreau
+"I heard the swish of the water as the ship was suddenly brought round, and a foamy yellow-green wave flew across the little round window and left it streaming.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I jumped into my clothes and went on deck.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"As I came up the ladder I saw against the flushed sky--for the sun was just rising--the broad back and red hair of the captain, and over his shoulder the puma spinning from a tackle rigged on to the mizzen spanker-boom.",-0.3612,0.0,0.063,0.937,negative,The island of Doctor Moreau
+"The poor brute seemed horribly scared, and crouched in the bottom of its little cage.",-0.8555,0.0,0.439,0.561,negative,The island of Doctor Moreau
+"""Overboard with 'em!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+bawled the captain.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Overboard with 'em!",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"We'll have a clean ship soon of the whole bilin' of 'em.""",0.4019,0.213,0.0,0.787,positive,The island of Doctor Moreau
+"He stood in my way, so that I had perforce to tap his shoulder to come on deck.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He came round with a start, and staggered back a few paces to stare at me.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+It needed no expert eye to tell that the man was still drunk.,-0.5574,0.0,0.295,0.705,negative,The island of Doctor Moreau
+"""Hullo!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"said he, stupidly; and then with a light coming into his eyes, ""Why, it's Mister--Mister?""",-0.4588,0.0,0.188,0.812,negative,The island of Doctor Moreau
+"""Prendick,"" said I.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Prendick be damned!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+said he.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Shut-up,--that's your name.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Mister Shut-up.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+It was no good answering the brute; but I certainly did not expect his next move.,0.5346,0.271,0.086,0.643,positive,The island of Doctor Moreau
+"He held out his hand to the gangway by which Montgomery stood talking to a massive grey-haired man in dirty-blue flannels, who had apparently just come aboard.",0.5106,0.152,0.0,0.848,positive,The island of Doctor Moreau
+"""That way, Mister Blasted Shut-up!",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"that way!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+roared the captain.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Montgomery and his companion turned as he spoke.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""What do you mean?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I said.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""That way, Mister Blasted Shut-up,--that's what I mean!",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Overboard, Mister Shut-up,--and sharp!",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"We're cleaning the ship out,--cleaning the whole blessed ship out; and overboard you go!""",0.636,0.244,0.0,0.756,positive,The island of Doctor Moreau
+I stared at him dumfounded.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Then it occurred to me that it was exactly the thing I wanted.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The lost prospect of a journey as sole passenger with this quarrelsome sot was not one to mourn over.,0.3031,0.208,0.105,0.687,positive,The island of Doctor Moreau
+I turned towards Montgomery.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Can't have you,"" said Montgomery's companion, concisely.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""You can't have me!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"said I, aghast.",-0.4404,0.0,0.592,0.408,negative,The island of Doctor Moreau
+He had the squarest and most resolute face I ever set eyes upon.,0.3384,0.179,0.0,0.821,positive,The island of Doctor Moreau
+"""Look here,"" I began, turning to the captain.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Overboard!""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+said the captain.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""This ship aint for beasts and cannibals and worse than beasts, any more.",-0.4767,0.0,0.205,0.795,negative,The island of Doctor Moreau
+"Overboard you go, Mister Shut-up.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"If they can't have you, you goes overboard.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"But, anyhow, you go--with your friends.",0.631,0.454,0.0,0.546,positive,The island of Doctor Moreau
+"I've done with this blessed island for evermore, amen!",0.7111,0.381,0.0,0.619,positive,The island of Doctor Moreau
+"I've had enough of it.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""But, Montgomery,"" I appealed.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He distorted his lower lip, and nodded his head hopelessly at the grey-haired man beside him, to indicate his powerlessness to help me.",-0.6597,0.091,0.272,0.638,negative,The island of Doctor Moreau
+"""I'll see to you , presently,"" said the captain.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Then began a curious three-cornered altercation.,0.3182,0.365,0.0,0.635,positive,The island of Doctor Moreau
+"Alternately I appealed to one and another of the three men,--first to the grey-haired man to let me land, and then to the drunken captain to keep me aboard.",0.0258,0.039,0.0,0.961,neutral,The island of Doctor Moreau
+I even bawled entreaties to the sailors.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Montgomery said never a word, only shook his head.",0.0762,0.156,0.0,0.844,positive,The island of Doctor Moreau
+"""You're going overboard, I tell you,"" was the captain's refrain.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Law be damned!",-0.4389,0.0,0.591,0.409,negative,The island of Doctor Moreau
+"I'm king here.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+At last I must confess my voice suddenly broke in the middle of a vigorous threat.,-0.7351,0.0,0.341,0.659,negative,The island of Doctor Moreau
+"I felt a gust of hysterical petulance, and went aft and stared dismally at nothing.",-0.0258,0.0,0.084,0.916,neutral,The island of Doctor Moreau
+Meanwhile the sailors progressed rapidly with the task of unshipping the packages and caged animals.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"A large launch, with two standing lugs, lay under the lee of the schooner; and into this the strange assortment of goods were swung.",-0.2023,0.0,0.076,0.924,negative,The island of Doctor Moreau
+"I did not then see the hands from the island that were receiving the packages, for the hull of the launch was hidden from me by the side of the schooner.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Neither Montgomery nor his companion took the slightest notice of me, but busied themselves in assisting and directing the four or five sailors who were unloading the goods.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The captain went forward interfering rather than assisting.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I was alternately despairful and desperate.,-0.3182,0.0,0.365,0.635,negative,The island of Doctor Moreau
+"Once or twice as I stood waiting there for things to accomplish themselves, I could not resist an impulse to laugh at my miserable quandary.",0.4939,0.216,0.108,0.676,positive,The island of Doctor Moreau
+I felt all the wretcheder for the lack of a breakfast.,-0.3182,0.0,0.223,0.777,negative,The island of Doctor Moreau
+Hunger and a lack of blood-corpuscles take all the manhood from a man.,-0.5106,0.0,0.323,0.677,negative,The island of Doctor Moreau
+"I perceived pretty clearly that I had not the stamina either to resist what the captain chose to do to expel me, or to force myself upon Montgomery and his companion.",0.276,0.165,0.134,0.701,positive,The island of Doctor Moreau
+So I waited passively upon fate; and the work of transferring Montgomery's possessions to the launch went on as if I did not exist.,-0.2449,0.0,0.086,0.914,negative,The island of Doctor Moreau
+"Presently that work was finished, and then came a struggle.",-0.3182,0.0,0.223,0.777,negative,The island of Doctor Moreau
+"I was hauled, resisting weakly enough, to the gangway.",-0.4215,0.0,0.286,0.714,negative,The island of Doctor Moreau
+"Even then I noticed the oddness of the brown faces of the men who were with Montgomery in the launch; but the launch was now fully laden, and was shoved off hastily.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"A broadening gap of green water appeared under me, and I pushed back with all my strength to avoid falling headlong.",0.1027,0.139,0.165,0.696,positive,The island of Doctor Moreau
+"The hands in the launch shouted derisively, and I heard Montgomery curse at them; and then the captain, the mate, and one of the seamen helping him, ran me aft towards the stern.",-0.3182,0.062,0.098,0.84,negative,The island of Doctor Moreau
+"The dingey of the Lady Vain had been towing behind; it was half full of water, had no oars, and was quite unvictualled.",-0.6124,0.0,0.192,0.808,negative,The island of Doctor Moreau
+"I refused to go aboard her, and flung myself full length on the deck.",-0.2732,0.077,0.154,0.769,negative,The island of Doctor Moreau
+"In the end, they swung me into her by a rope (for they had no stern ladder), and then they cut me adrift.",-0.5106,0.0,0.177,0.823,negative,The island of Doctor Moreau
+I drifted slowly from the schooner.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"In a kind of stupor I watched all hands take to the rigging, and slowly but surely she came round to the wind; the sails fluttered, and then bellied out as the wind came into them.",0.5927,0.104,0.0,0.896,positive,The island of Doctor Moreau
+I stared at her weather-beaten side heeling steeply towards me; and then she passed out of my range of view.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I did not turn my head to follow her.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+At first I could scarcely believe what had happened.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I crouched in the bottom of the dingey, stunned, and staring blankly at the vacant, oily sea.",-0.1027,0.0,0.085,0.915,negative,The island of Doctor Moreau
+"Then I realised that I was in that little hell of mine again, now half swamped; and looking back over the gunwale, I saw the schooner standing away from me, with the red-haired captain mocking at me over the taffrail, and turning towards the island saw the launch growing smaller as she approached the beach.",-0.7436,0.029,0.121,0.849,negative,The island of Doctor Moreau
+Abruptly the cruelty of this desertion became clear to me.,-0.3182,0.179,0.269,0.552,negative,The island of Doctor Moreau
+I had no means of reaching the land unless I should chance to drift there.,0.1531,0.237,0.138,0.625,positive,The island of Doctor Moreau
+"I was still weak, you must remember, from my exposure in the boat; I was empty and very faint, or I should have had more heart.",-0.5719,0.0,0.183,0.817,negative,The island of Doctor Moreau
+"But as it was I suddenly began to sob and weep, as I had never done since I was a little child.",-0.8201,0.0,0.321,0.679,negative,The island of Doctor Moreau
+The tears ran down my face.,-0.2263,0.0,0.275,0.725,negative,The island of Doctor Moreau
+"In a passion of despair I struck with my fists at the water in the bottom of the boat, and kicked savagely at the gunwale.",-0.5423,0.102,0.254,0.644,negative,The island of Doctor Moreau
+I prayed aloud for God to let me die.,-0.4215,0.175,0.325,0.5,negative,The island of Doctor Moreau
+VI.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE EVIL-LOOKING BOATMEN.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"But the islanders, seeing that I was really adrift, took pity on me.",-0.4932,0.0,0.225,0.775,negative,The island of Doctor Moreau
+"I drifted very slowly to the eastward, approaching the island slantingly; and presently I saw, with hysterical relief, the launch come round and return towards me.",0.4588,0.118,0.042,0.84,positive,The island of Doctor Moreau
+"She was heavily laden, and I could make out as she drew nearer Montgomery's white-haired, broad-shouldered companion sitting cramped up with the dogs and several packing-cases in the stern sheets.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+This individual stared fixedly at me without moving or speaking.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The black-faced cripple was glaring at me as fixedly in the bows near the puma.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"There were three other men besides,--three strange brutish-looking fellows, at whom the staghounds were snarling savagely.",-0.6124,0.0,0.263,0.737,negative,The island of Doctor Moreau
+"Montgomery, who was steering, brought the boat by me, and rising, caught and fastened my painter to the tiller to tow me, for there was no room aboard.",-0.2732,0.038,0.075,0.887,negative,The island of Doctor Moreau
+"I had recovered from my hysterical phase by this time and answered his hail, as he approached, bravely enough.",0.5423,0.222,0.053,0.725,positive,The island of Doctor Moreau
+"I told him the dingey was nearly swamped, and he reached me a piggin.",0.1027,0.113,0.0,0.887,positive,The island of Doctor Moreau
+I was jerked back as the rope tightened between the boats.,-0.2023,0.0,0.167,0.833,negative,The island of Doctor Moreau
+For some time I was busy baling.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+It was not until I had got the water under (for the water in the dingey had been shipped; the boat was perfectly sound) that I had leisure to look at the people in the launch again.,0.6369,0.11,0.0,0.89,positive,The island of Doctor Moreau
+"The white-haired man I found was still regarding me steadfastly, but with an expression, as I now fancied, of some perplexity.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"When my eyes met his, he looked down at the staghound that sat between his knees.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He was a powerfully-built man, as I have said, with a fine forehead and rather heavy features; but his eyes had that odd drooping of the skin above the lids which often comes with advancing years, and the fall of his heavy mouth at the corners gave him an expression of pugnacious resolution.",-0.3716,0.027,0.056,0.917,negative,The island of Doctor Moreau
+He talked to Montgomery in a tone too low for me to hear.,-0.2732,0.0,0.16,0.84,negative,The island of Doctor Moreau
+From him my eyes travelled to his three men; and a strange crew they were.,-0.2023,0.0,0.122,0.878,negative,The island of Doctor Moreau
+"I saw only their faces, yet there was something in their faces--I knew not what--that gave me a queer spasm of disgust.",-0.5994,0.0,0.17,0.83,negative,The island of Doctor Moreau
+"I looked steadily at them, and the impression did not pass, though I failed to see what had occasioned it.",0.5577,0.223,0.0,0.777,positive,The island of Doctor Moreau
+"They seemed to me then to be brown men; but their limbs were oddly swathed in some thin, dirty, white stuff down even to the fingers and feet: I have never seen men so wrapped up before, and women so only in the East.",-0.5927,0.0,0.084,0.916,negative,The island of Doctor Moreau
+"They wore turbans too, and thereunder peered out their elfin faces at me,--faces with protruding lower-jaws and bright eyes.",0.4404,0.139,0.0,0.861,positive,The island of Doctor Moreau
+"They had lank black hair, almost like horsehair, and seemed as they sat to exceed in stature any race of men I have seen.",0.2975,0.091,0.0,0.909,positive,The island of Doctor Moreau
+"The white-haired man, who I knew was a good six feet in height, sat a head below any one of the three.",0.4404,0.139,0.0,0.861,positive,The island of Doctor Moreau
+"I found afterwards that really none were taller than myself; but their bodies were abnormally long, and the thigh-part of the leg short and curiously twisted.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"At any rate, they were an amazingly ugly gang, and over the heads of them under the forward lug peered the black face of the man whose eyes were luminous in the dark.",-0.5563,0.0,0.101,0.899,negative,The island of Doctor Moreau
+"As I stared at them, they met my gaze; and then first one and then another turned away from my direct stare, and looked at me in an odd, furtive manner.",-0.3182,0.0,0.073,0.927,negative,The island of Doctor Moreau
+"It occurred to me that I was perhaps annoying them, and I turned my attention to the island we were approaching.",-0.4019,0.0,0.13,0.87,negative,The island of Doctor Moreau
+"It was low, and covered with thick vegetation,--chiefly a kind of palm, that was new to me.",-0.2732,0.0,0.123,0.877,negative,The island of Doctor Moreau
+"From one point a thin white thread of vapour rose slantingly to an immense height, and then frayed out like a down feather.",0.3612,0.111,0.0,0.889,positive,The island of Doctor Moreau
+We were now within the embrace of a broad bay flanked on either hand by a low promontory.,0.5267,0.267,0.102,0.631,positive,The island of Doctor Moreau
+"The beach was of dull-grey sand, and sloped steeply up to a ridge, perhaps sixty or seventy feet above the sea-level, and irregularly set with trees and undergrowth.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Half way up was a square enclosure of some greyish stone, which I found subsequently was built partly of coral and partly of pumiceous lava.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Two thatched roofs peeped from within this enclosure.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+A man stood awaiting us at the water's edge.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I fancied while we were still far off that I saw some other and very grotesque-looking creatures scuttle into the bushes upon the slope; but I saw nothing of these as we drew nearer.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"This man was of a moderate size, and with a black negroid face.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He had a large, almost lipless, mouth, extraordinary lank arms, long thin feet, and bow-legs, and stood with his heavy face thrust forward staring at us.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He was dressed like Montgomery and his white-haired companion, in jacket and trousers of blue serge.",0.3612,0.143,0.0,0.857,positive,The island of Doctor Moreau
+"As we came still nearer, this individual began to run to and fro on the beach, making the most grotesque movements.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"At a word of command from Montgomery, the four men in the launch sprang up, and with singularly awkward gestures struck the lugs.",-0.3818,0.0,0.153,0.847,negative,The island of Doctor Moreau
+Montgomery steered us round and into a narrow little dock excavated in the beach.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+Then the man on the beach hastened towards us.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"This dock, as I call it, was really a mere ditch just long enough at this phase of the tide to take the longboat.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I heard the bows ground in the sand, staved the dingey off the rudder of the big boat with my piggin, and freeing the painter, landed.",0.4767,0.114,0.0,0.886,positive,The island of Doctor Moreau
+"The three muffled men, with the clumsiest movements, scrambled out upon the sand, and forthwith set to landing the cargo, assisted by the man on the beach.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I was struck especially by the curious movements of the legs of the three swathed and bandaged boatmen,--not stiff they were, but distorted in some odd way, almost as if they were jointed in the wrong place.",-0.8852,0.04,0.27,0.69,negative,The island of Doctor Moreau
+"The dogs were still snarling, and strained at their chains after these men, as the white-haired man landed with them.",-0.4019,0.0,0.124,0.876,negative,The island of Doctor Moreau
+"The three big fellows spoke to one another in odd guttural tones, and the man who had waited for us on the beach began chattering to them excitedly--a foreign language, as I fancied--as they laid hands on some bales piled near the stern.",-0.3182,0.0,0.053,0.947,negative,The island of Doctor Moreau
+"Somewhere I had heard such a voice before, and I could not think where.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The white-haired man stood, holding in a tumult of six dogs, and bawling orders over their din.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Montgomery, having unshipped the rudder, landed likewise, and all set to work at unloading.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I was too faint, what with my long fast and the sun beating down on my bare head, to offer any assistance.",-0.4588,0.0,0.13,0.87,negative,The island of Doctor Moreau
+"Presently the white-haired man seemed to recollect my presence, and came up to me.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""You look,"" said he, ""as though you had scarcely breakfasted.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+His little eyes were a brilliant black under his heavy brows.,0.5478,0.282,0.0,0.718,positive,The island of Doctor Moreau
+"""I must apologise for that.",0.3818,0.394,0.0,0.606,positive,The island of Doctor Moreau
+"Now you are our guest, we must make you comfortable,--though you are uninvited, you know.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+He looked keenly into my face.,0.25,0.286,0.0,0.714,positive,The island of Doctor Moreau
+"""Montgomery says you are an educated man, Mr. Prendick; says you know something of science.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"May I ask what that signifies?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I told him I had spent some years at the Royal College of Science, and had done some researches in biology under Huxley.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+He raised his eyebrows slightly at that.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""That alters the case a little, Mr. Prendick,"" he said, with a trifle more respect in his manner.",0.5256,0.184,0.0,0.816,positive,The island of Doctor Moreau
+"""As it happens, we are biologists here.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"This is a biological station--of a sort.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"His eye rested on the men in white who were busily hauling the puma, on rollers, towards the walled yard.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""I and Montgomery, at least,"" he added.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Then, ""When you will be able to get away, I can't say.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+We're off the track to anywhere.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"We see a ship once in a twelve-month or so.""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"He left me abruptly, and went up the beach past this group, and I think entered the enclosure.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The other two men were with Montgomery, erecting a pile of smaller packages on a low-wheeled truck.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+The llama was still on the launch with the rabbit hutches; the staghounds were still lashed to the thwarts.,-0.1027,0.0,0.072,0.928,negative,The island of Doctor Moreau
+"The pile of things completed, all three men laid hold of the truck and began shoving the ton-weight or so upon it after the puma.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Presently Montgomery left them, and coming back to me held out his hand.",0.4939,0.211,0.0,0.789,positive,The island of Doctor Moreau
+"""I'm glad,"" said he, ""for my own part.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+That captain was a silly ass.,-0.5267,0.145,0.461,0.395,negative,The island of Doctor Moreau
+"He'd have made things lively for you.""",0.4404,0.326,0.0,0.674,positive,The island of Doctor Moreau
+"""It was you,"" said I, ""that saved me again.""",0.4215,0.259,0.0,0.741,positive,The island of Doctor Moreau
+"""That depends.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"You'll find this island an infernally rum place, I promise you.",0.3182,0.204,0.0,0.796,positive,The island of Doctor Moreau
+"I'd watch my goings carefully, if I were you.",0.128,0.176,0.0,0.824,positive,The island of Doctor Moreau
+"He --"" He hesitated, and seemed to alter his mind about what was on his lips.",-0.3182,0.0,0.133,0.867,negative,The island of Doctor Moreau
+"""I wish you'd help me with these rabbits,"" he said.",0.6597,0.403,0.0,0.597,positive,The island of Doctor Moreau
+His procedure with the rabbits was singular.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I waded in with him, and helped him lug one of the hutches ashore.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"No sooner was that done than he opened the door of it, and tilting the thing on one end turned its living contents out on the ground.",-0.296,0.0,0.078,0.922,negative,The island of Doctor Moreau
+They fell in a struggling heap one on the top of the other.,-0.25,0.123,0.192,0.685,negative,The island of Doctor Moreau
+"He clapped his hands, and forthwith they went off with that hopping run of theirs, fifteen or twenty of them I should think, up the beach.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Increase and multiply, my friends,"" said Montgomery.",0.3182,0.277,0.0,0.723,positive,The island of Doctor Moreau
+"""Replenish the island.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Hitherto we've had a certain lack of meat here.""",-0.0516,0.202,0.221,0.577,negative,The island of Doctor Moreau
+"As I watched them disappearing, the white-haired man returned with a brandy-flask and some biscuits.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""Something to go on with, Prendick,"" said he, in a far more familiar tone than before.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I made no ado, but set to work on the biscuits at once, while the white-haired man helped Montgomery to release about a score more of the rabbits.",-0.1531,0.0,0.06,0.94,negative,The island of Doctor Moreau
+"Three big hutches, however, went up to the house with the puma.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The brandy I did not touch, for I have been an abstainer from my birth.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+VII.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+THE LOCKED DOOR.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The reader will perhaps understand that at first everything was so strange about me, and my position was the outcome of such unexpected adventures, that I had no discernment of the relative strangeness of this or that thing.",-0.2883,0.059,0.111,0.83,negative,The island of Doctor Moreau
+"I followed the llama up the beach, and was overtaken by Montgomery, who asked me not to enter the stone enclosure.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+I noticed then that the puma in its cage and the pile of packages had been placed outside the entrance to this quadrangle.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"I turned and saw that the launch had now been unloaded, run out again, and was being beached, and the white-haired man was walking towards us.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+He addressed Montgomery.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""And now comes the problem of this uninvited guest.",-0.4019,0.0,0.252,0.748,negative,The island of Doctor Moreau
+"What are we to do with him?""",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""He knows something of science,"" said Montgomery.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""I'm itching to get to work again--with this new stuff,"" said the white-haired man, nodding towards the enclosure.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+His eyes grew brighter.,0.3818,0.464,0.0,0.536,positive,The island of Doctor Moreau
+"""I daresay you are,"" said Montgomery, in anything but a cordial tone.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""We can't send him over there, and we can't spare the time to build him a new shanty; and we certainly can't take him into our confidence just yet.""",0.6908,0.18,0.0,0.82,positive,The island of Doctor Moreau
+"""I'm in your hands,"" said I. I had no idea of what he meant by ""over there.""",-0.296,0.0,0.128,0.872,negative,The island of Doctor Moreau
+"""I've been thinking of the same things,"" Montgomery answered.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""There's my room with the outer door--"" ""That's it,"" said the elder man, promptly, looking at Montgomery; and all three of us went towards the enclosure.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"""I'm sorry to make a mystery, Mr. Prendick; but you'll remember you're uninvited.",-0.0387,0.0,0.095,0.905,neutral,The island of Doctor Moreau
+"Our little establishment here contains a secret or so, is a kind of Blue-Beard's chamber, in fact.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"Nothing very dreadful, really, to a sane man; but just now, as we don't know you--"" ""Decidedly,"" said I, ""I should be a fool to take offence at any want of confidence.""",-0.6585,0.091,0.185,0.724,negative,The island of Doctor Moreau
+"He twisted his heavy mouth into a faint smile--he was one of those saturnine people who smile with the corners of the mouth down,--and bowed his acknowledgment of my complaisance.",0.3612,0.082,0.0,0.918,positive,The island of Doctor Moreau
+"The main entrance to the enclosure was passed; it was a heavy wooden gate, framed in iron and locked, with the cargo of the launch piled outside it, and at the corner we came to a small doorway I had not previously observed.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"The white-haired man produced a bundle of keys from the pocket of his greasy blue jacket, opened this door, and entered.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"His keys, and the elaborate locking-up of the place even while it was still under his eye, struck me as peculiar.",-0.1027,0.071,0.088,0.841,negative,The island of Doctor Moreau
+"I followed him, and found myself in a small apartment, plainly but not uncomfortably furnished and with its inner door, which was slightly ajar, opening into a paved courtyard.",0.438,0.104,0.0,0.896,positive,The island of Doctor Moreau
+This inner door Montgomery at once closed.,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"A hammock was slung across the darker corner of the room, and a small unglazed window defended by an iron bar looked out towards the sea.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+"This the white-haired man told me was to be my apartment; and the inner door, which ""for fear of accidents,"" he said, he would lock on the other side, was my limit inward.",-0.4939,0.0,0.091,0.909,negative,The island of Doctor Moreau
+"He called my attention to a convenient deck-chair before the window, and to an array of old books, chiefly, I found, surgical works and editions of the Latin and Greek classics (languages I cannot read with any comfort), on a shelf near the hammock.",0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau
+He left the roo,0.0,0.0,0.0,1.0,neutral,The island of Doctor Moreau

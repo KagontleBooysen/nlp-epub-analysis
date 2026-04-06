@@ -1,0 +1,380 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Insectivorous Plants This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.07,0.109,0.821,negative,Insectivorous Plants
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Insectivorous Plants
+"Title : Insectivorous Plants Author : Charles Darwin Release date : May 1, 2004 [eBook #5765] Most recently updated: December 28, 2021 Language : English Other information and formats : www.gutenberg.org/ebooks/5765 Credits : Sue Asscher and David Widger *** START OF THE PROJECT GUTENBERG EBOOK INSECTIVOROUS PLANTS *** INSECTIVOROUS PLANTS By Charles Darwin CONTENTS DETAILED TABLE OF CONTENTS.",0.3612,0.047,0.0,0.953,positive,Insectivorous Plants
+INSECTIVOROUS PLANTS.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"CHAPTER I. DROSERA ROTUNDIFOLIA, OR THE COMMON SUN-DEW.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE MOVEMENTS OF THE TENTACLES FROM THE CONTACT OF SOLID BODIES.,0.1531,0.138,0.0,0.862,positive,Insectivorous Plants
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+AGGREGATION OF THE PROTOPLASM WITHIN THE CELLS OF THE TENTACLES.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE EFFECTS OF HEAT ON THE LEAVES.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER V. THE EFFECTS OF NON-NITROGENOUS AND NITROGENOUS ORGANIC FLUIDS ON THE LEAVES.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE DIGESTIVE POWER OF THE SECRETION OF DROSERA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER VII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE EFFECTS OF SALTS OF AMMONIA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER VIII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE EFFECTS OF VARIOUS OTHER SALTS AND ACIDS ON THE LEAVES.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"THE EFFECTS OF CERTAIN ALKALOID POISONS, OTHER SUBSTANCES AND VAPOURS.",-0.3818,0.152,0.268,0.58,negative,Insectivorous Plants
+CHAPTER X.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"ON THE SENSITIVENESS OF THE LEAVES, AND ON THE LINES OF TRANSMISSION OF THE MOTOR IMPULSE.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XI.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+RECAPITULATION OF THE CHIEF OBSERVATIONS ON DROSERA ROTUNDIFOLIA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+ON THE STRUCTURE AND MOVEMENTS OF SOME OTHER SPECIES OF DROSERA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XIII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+DIONAEA MUSCIPULA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XIV.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+ALDROVANDA VESICULOSA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XV.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+DROSOPHYLLUM--RORIDULA--BYBLIS--GLANDULAR HAIRS OF OTHER PLANTS--CONCLUDING REMARKS ON THE DROSERACEÆ.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XVI.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+PINGUICULA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XVII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+UTRICULARIA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XVIII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+UTRICULARIA (continued).,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CONCLUSION.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+INDEX.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+DETAILED TABLE OF CONTENTS.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"CHAPTER I. DROSERA ROTUNDIFOLIA, OR THE COMMON SUN-DEW.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Number of insects captured--Description of the leaves and their appendages or tentacles-- Preliminary sketch of the action of the various parts, and of the manner in which insects are captured--Duration of the inflection of the tentacles--Nature of the secretion--Manner in which insects are carried to the centre of the leaf--Evidence that the glands have the power of absorption--Small size of the roots.",0.0772,0.021,0.0,0.979,positive,Insectivorous Plants
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE MOVEMENTS OF THE TENTACLES FROM THE CONTACT OF SOLID BODIES.,0.1531,0.138,0.0,0.862,positive,Insectivorous Plants
+"Inflection of the exterior tentacles owing to the glands of the disc being excited by repeated touches, or by objects left in contact with them--Difference in the action of bodies yielding and not yielding soluble nitrogenous matter--Inflection of the exterior tentacles directly caused by objects left in contact with their glands--Periods of commencing inflection and of subsequent re-expansion--Extreme minuteness of the particles causing inflection--Action under water--Inflection of the exterior tentacles when their glands are excited by repeated touches--Falling drops of water do not cause inflection.",0.5859,0.055,0.0,0.945,positive,Insectivorous Plants
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+AGGREGATION OF THE PROTOPLASM WITHIN THE CELLS OF THE TENTACLES.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Nature of the contents of the cells before aggregation--Various causes which excite aggregation--The process commences within the glands and travels down the tentacles-- Description of the aggregated masses and of their spontaneous movements--Currents of protoplasm along the walls of the cells--Action of carbonate of ammonia--The granules in the protoplasm which flows along the walls coalesce with the central masses--Minuteness of the quantity of carbonate of ammonia causing aggregation--Action of other salts of ammonia--Of other substances, organic fluids, &c.--Of water--Of heat--Redissolution of the aggregated masses--Proximate causes of the aggregation of the protoplasm--Summary and concluding remarks--Supplementary observations on aggregation in the roots of plants.",0.4767,0.03,0.0,0.97,positive,Insectivorous Plants
+CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE EFFECTS OF HEAT ON THE LEAVES.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Nature of the experiments--Effects of boiling water--Warm water causes rapid inflection-- Water at a higher temperature does not cause immediate inflection, but does not kill the leaves, as shown by their subsequent re-expansion and by the aggregation of the protoplasm-- A still higher temperature kills the leaves and coagulates the albuminous contents of the glands.",0.0918,0.084,0.078,0.838,positive,Insectivorous Plants
+CHAPTER V. THE EFFECTS OF NON-NITROGENOUS AND NITROGENOUS ORGANIC FLUIDS ON THE LEAVES.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Non-nitrogenous fluids--Solutions of gum arabic--Sugar--Starch--Diluted alcohol--Olive oil-- Infusion and decoction of tea--Nitrogenous fluids--Milk--Urine--Liquid albumen--Infusion of raw meat--Impure mucus--Saliva--Solution of isinglass--Difference in the action of these two sets of fluids--Decoction of green peas--Decoction and infusion of cabbage--Decoction of grass leaves.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE DIGESTIVE POWER OF THE SECRETION OF DROSERA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The secretion rendered acid by the direct and indirect excitement of the glands--Nature of the acid--Digestible substances--Albumen, its digestion arrested by alkalies, recommences by the addition of an acid--Meat--Fibrin--Syntonin--Areolar tissue--Cartilage--Fibro-cartilage-- Bone--Enamel and dentine--Phosphate of lime--Fibrous basis of bone--Gelatine--Chondrin-- Milk, casein and cheese--Gluten--Legumin--Pollen--Globulin--Haematin--Indigestible substances--Epidermic productions--Fibro-elastic tissue--Mucin--Pepsin--Urea--Chitine-- Cellulose--Gun-cotton--Chlorophyll--Fat and oil--Starch--Action of the secretion on living seeds--Summary and concluding remarks.",0.0258,0.052,0.051,0.897,neutral,Insectivorous Plants
+CHAPTER VII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE EFFECTS OF SALTS OF AMMONIA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Manner of performing the experiments--Action of distilled water in comparison with the solutions--Carbonate of ammonia, absorbed by the roots--The vapour absorbed by the glands--Drops on the disc--Minute drops applied to separate glands--Leaves immersed in weak solutions--Minuteness of the doses which induce aggregation of the protoplasm--Nitrate of ammonia, analogous experiments with--Phosphate of ammonia, analogous experiments with--Other salts of ammonia--Summary and concluding remarks on the action of salts of ammonia.",-0.4404,0.0,0.041,0.959,negative,Insectivorous Plants
+CHAPTER VIII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"THE EFFECTS OF VARIOUS OTHER SALTS, AND ACIDS, ON THE LEAVES.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Salts of sodium, potassium, and other alkaline, earthy, and metallic salts--Summary on the action of these salts--Various acids--Summary on their action.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"THE EFFECTS OF CERTAIN ALKALOID POISONS, OTHER SUBSTANCES AND VAPOURS.",-0.3818,0.152,0.268,0.58,negative,Insectivorous Plants
+"Strychnine, salts of--Quinine, sulphate of, does not soon arrest the movement of the protoplasm--Other salts of quinine--Digitaline--Nicotine--Atropine--Veratrine-- Colchicine-- Theine--Curare--Morphia--Hyoscyamus--Poison of the cobra, apparently accelerates the movements of the protoplasm--Camphor, a powerful stimulant, its vapour narcotic--Certain essential oils excite movement--Glycerine--Water and certain solutions retard or prevent the subsequent action of phosphate of ammonia--Alcohol innocuous, its vapour narcotic and poisonous--Chloroform, sulphuric and nitric ether, their stimulant, poisonous, and narcotic power--Carbonic acid narcotic, not quickly poisonous--Concluding remarks.",0.409,0.151,0.084,0.765,positive,Insectivorous Plants
+CHAPTER X.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"ON THE SENSITIVENESS OF THE LEAVES, AND ON THE LINES OF TRANSMISSION OF THE MOTOR IMPULSE.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Glands and summits of the tentacles alone sensitive--Transmission of the motor impulse down the pedicels of the tentacles, and across the blade of the leaf--Aggregation of the protoplasm, a reflex action--First discharge of the motor impulse sudden--Direction of the movements of the tentacles--Motor impulse transmitted through the cellular tissue-- Mechanism of the movements--Nature of the motor impulse--Re-expansion of the tentacles.",-0.25,0.0,0.033,0.967,negative,Insectivorous Plants
+CHAPTER XI.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+RECAPITULATION OF THE CHIEF OBSERVATIONS ON DROSERA ROTUNDIFOLIA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+ON THE STRUCTURE AND MOVEMENTS OF SOME OTHER SPECIES OF DROSERA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Drosera anglica--Drosera intermedia--Drosera capensis--Drosera spathulata--Drosera filiformis--Drosera binata--Concluding remarks.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XIII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+DIONAEA MUSCIPULA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Structure of the leaves--Sensitiveness of the filaments--Rapid movement of the lobes caused by irritation of the filaments--Glands, their power of secretion--Slow movement caused by the absorption of animal matter--Evidence of absorption from the aggregated condition of the glands--Digestive power of the secretion--Action of chloroform, ether, and hydrocyanic acid--The manner in which insects are captured--Use of the marginal spikes--Kinds of insects captured--The transmission of the motor impulse and mechanism of the movements-- Re-expansion of the lobes.",-0.5106,0.0,0.043,0.957,negative,Insectivorous Plants
+CHAPTER XIV.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+ALDROVANDA VESICULOSA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Captures crustaceans--Structure of the leaves in comparison with those of Dionaea--Absorption by the glands, by the quadrifid processes, and points on the infolded margins--Aldrovanda vesiculosa, var.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"australis--Captures prey--Absorption of animal matter--Aldrovanda vesiculosa, var.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+verticillata--Concluding remarks.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XV.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+DROSOPHYLLUM--RORIDULA--BYBLIS--GLANDULAR HAIRS OF OTHER PLANTS-- CONCLUDING REMARKS ON THE DROSERACEÆ.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Drosophyllum--Structure of leaves--Nature of the secretion--Manner of catching insects-- Power of absorption--Digestion of animal substances--Summary on Drosophyllum--Roridula--Byblis--Glandular hairs of other plants, their power of absorption--Saxifraga--Primula-- Pelargonium--Erica--Mirabilis--Nicotiana--Summary on glandular hairs--Concluding remarks on the Droseraceae.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+CHAPTER XVI.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+PINGUICULA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Pinguicula vulgaris--Structure of leaves--Number of insects and other objects caught--Movement of the margins of the leaves--Uses of this movement--Secretion, digestion, and absorption--Action of the secretion on various animal and vegetable substances--The effects of substances not containing soluble nitrogenous matter on the glands--Pinguicula grandiflora--Pinguicula lusitanica, catches insects--Movement of the leaves, secretion and digestion.",0.0258,0.021,0.0,0.979,neutral,Insectivorous Plants
+CHAPTER XVII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+UTRICULARIA.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Utricularia neglecta--Structure of the bladder--The uses of the several parts--Number of imprisoned animals--Manner of capture--The bladders cannot digest animal matter, but absorb the products of its decay--Experiments on the absorption of certain fluids by the quadrifid processes--Absorption by the glands--Summary of the observation on absorption-- Development of the bladders--Utricularia vulgaris--Utricularia minor--Utricularia clandestina.",0.1563,0.048,0.056,0.896,positive,Insectivorous Plants
+CHAPTER XVIII.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+UTRICULARIA (continued).,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Utricularia montana--Description of the bladders on the subterranean rhizomes--Prey captured by the bladders of plants under culture and in a state of nature--Absorption by the quadrifid processes and glands--Tubers serving as reservoirs for water--Various other species of Utricularia--Polypompholyx--Genlisea, different nature of the trap for capturing prey-- Diversified methods by which plants are nourished.",-0.3182,0.0,0.043,0.957,negative,Insectivorous Plants
+INSECTIVOROUS PLANTS.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"CHAPTER I. DROSERA ROTUNDIFOLIA, OR THE COMMON SUN-DEW.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Number of insects captured--Description of the leaves and their appendages or tentacles-- Preliminary sketch of the action of the various parts, and of the manner in which insects are captured--Duration of the inflection of the tentacles--Nature of the secretion--Manner in which insects are carried to the centre of the leaf--Evidence that the glands have the power of absorption--Small size of the roots.",0.0772,0.021,0.0,0.979,positive,Insectivorous Plants
+"During the summer of 1860, I was surprised by finding how large a number of insects were caught by the leaves of the common sun-dew (Drosera rotundifolia) on a heath in Sussex.",0.296,0.106,0.0,0.894,positive,Insectivorous Plants
+"I had heard that insects were thus caught, but knew nothing further on the subject.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+* I * As Dr. Nitschke has given ('Bot.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Zeitung,' 1860, p. 229) the bibliography of Drosera, I need not here go into details.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Most of the notices published before 1860 are brief and unimportant.,-0.3182,0.0,0.187,0.813,negative,Insectivorous Plants
+"The oldest paper seems to have been one of the most valuable, namely, by Dr. Roth, in 1782.",0.5256,0.166,0.0,0.834,positive,Insectivorous Plants
+"There is also an interesting though short account of the habits of Drosera by Dr. Milde, in the 'Bot.",0.4019,0.13,0.0,0.87,positive,Insectivorous Plants
+"Zeitung,' 1852, p. 540.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"In 1855, in the 'Annales des Sc.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+nat.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+bot.',0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+tom.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+iii.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+pp.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"297 and 304, MM.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Groenland and Trcul each published papers, with figures, on the structure of the leaves; but M. Trcul went so far as to doubt whether they possessed any power of movement.",-0.5023,0.0,0.101,0.899,negative,Insectivorous Plants
+Dr. Nitschke's papers in the 'Bot.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Zeitung' for 1860 and 1861 are by far the most important ones which have been published, both on the habits and structure of this plant; and I shall frequently have occasion to quote from them.",0.2716,0.06,0.0,0.94,positive,Insectivorous Plants
+"His discussions on several points, for instance on the transmission of an excitement from one part of the leaf to another, are excellent.",0.7845,0.247,0.0,0.753,positive,Insectivorous Plants
+"On December 11, 1862, Mr. J. Scott read a paper before the Botanical Society of Edinburgh, [[page 2]] which was published in the 'Gardeners' Chronicle,' 1863, p. 30.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Mr. Scott shows that gentle irritation of the hairs, as well as insects placed on the disc of the leaf, cause the hairs to bend inwards.",0.1779,0.16,0.105,0.735,positive,Insectivorous Plants
+Mr. A.W.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Bennett also gave another interesting account of the movements of the leaves before the British Association for 1873.,0.4019,0.137,0.0,0.863,positive,Insectivorous Plants
+"In this same year Dr. Warming published an essay, in which he describes the structure of the so-called hairs, entitled, ""Sur la Diffrence entre les Trichomes,"" &c., extracted from the proceedings of the Soc.",0.4019,0.104,0.0,0.896,positive,Insectivorous Plants
+d'Hist.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Nat.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+de Copenhague.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+I shall also have occasion hereafter to refer to a paper by Mrs.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Treat, of New Jersey, on some American species of Drosera.",0.4019,0.231,0.0,0.769,positive,Insectivorous Plants
+"Dr. Burdon Sanderson delivered a lecture on Dionaea, before the Royal Institution published in 'Nature,' June 14, 1874, in which a short account of my observations on the power of true digestion possessed by Drosera and Dionaea first appeared.",0.4215,0.072,0.0,0.928,positive,Insectivorous Plants
+"Prof. Asa Gray has done good service by calling attention to Drosera, and to other plants having similar habits, in 'The Nation' (1874, pp.",0.4404,0.112,0.0,0.888,positive,Insectivorous Plants
+"261 and 232), and in other publications.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Dr. Hooker, also, in his important address on Carnivorous Plants (Brit.",0.2023,0.153,0.0,0.847,positive,Insectivorous Plants
+"Assoc., Belfast, 1874), has given a history of the subject.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"[page 2] gathered by chance a dozen plants, bearing fifty-six fully expanded leaves, and on thirty-one of these dead insects or remnants of them adhered; and, no doubt, many more would have been caught afterwards by these same leaves, and still more by those as yet not expanded.",-0.7906,0.037,0.167,0.796,negative,Insectivorous Plants
+On one plant all six leaves had caught their prey; and on several plants very many leaves had caught more than a single insect.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+On one large leaf I found the remains of thirteen distinct insects.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Flies (Diptera) are captured much oftener than other insects.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+The largest kind which I have seen caught was a small butterfly (Caenonympha pamphilus); but the Rev.,0.296,0.136,0.0,0.864,positive,Insectivorous Plants
+H.M. Wilkinson informs me that he found a large living dragon-fly with its body firmly held by two leaves.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"As this plant is extremely common in some districts, the number of insects thus annually slaughtered must be prodigious.",0.0772,0.067,0.0,0.933,positive,Insectivorous Plants
+"Many plants cause the death of insects, for instance the sticky buds of the horse-chestnut (Aesculus hippocastanum), without thereby receiving, as far as we can perceive, any advantage; but it was soon evident that Drosera was [page 3] excellently adapted for the special purpose of catching insects, so that the subject seemed well worthy of investigation.",0.9408,0.247,0.035,0.718,positive,Insectivorous Plants
+"The results have proved highly remarkable; the more important ones being--firstly, the extraordinary FIG.",0.7172,0.333,0.0,0.667,positive,Insectivorous Plants
+1.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+* (Drosera rotundifolia.),0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Leaf viewed from above; enlarged four times.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"sensitiveness of the glands to slight pressure and to minute doses of certain nitrogenous fluids, as shown by the movements of the so-called hairs or tentacles; * The drawings of Drosera and Dionaea, given in this work, were made for me by my son George Darwin; those of Aldrovanda, and of the several species of Utricularia, by my son Francis.",-0.0258,0.034,0.036,0.93,neutral,Insectivorous Plants
+"They have been excellently reproduced on wood by Mr. Cooper, 188 Strand.",0.6249,0.272,0.0,0.728,positive,Insectivorous Plants
+"[page 4] secondly, the power possessed by the leaves of rendering soluble or digesting nitrogenous substances, and of afterwards absorbing them; thirdly, the changes which take place within the cells of the tentacles, when the glands are excited in various ways.",0.34,0.057,0.0,0.943,positive,Insectivorous Plants
+"It is necessary, in the first place, to describe briefly the plant.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"It bears from two or three to five or six leaves, generally extended more or less horizontally, but sometimes standing vertically upwards.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The shape and general appearance of a leaf is shown, as seen from above, in fig.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"1, and as seen laterally, in fig.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+2.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The leaves are commonly a little broader than long, FIG.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+2.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+(Drosera rotundifolia.),0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Old leaf viewed laterally; enlarged about five times.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+but this was not the case in the one here figured.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The whole upper surface is covered with gland-bearing filaments, or tentacles, as I shall call them, from their manner of acting.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The glands were counted on thirty-one leaves, but many of these were of unusually large size, and the average number was 192; the greatest number being 260, and the least 130.",0.8271,0.237,0.0,0.763,positive,Insectivorous Plants
+"The glands are each surrounded by large drops of extremely viscid secretion, which, glittering in the sun, have given rise to the plant's poetical name of the sun-dew.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"[The tentacles on the central part of the leaf or disc are short and stand upright, and their pedicels are green.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Towards the margin they become longer and longer and more inclined [page 5] outwards, with their pedicels of a purple colour.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Those on the extreme margin project in the same plane with the leaf, or more commonly (see fig.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+2) are considerably reflexed.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"A few tentacles spring from the base of the footstalk or petiole, and these are the longest of all, being sometimes nearly 1/4 of an inch in length.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"On a leaf bearing altogether 252 tentacles, the short ones on the disc, having green pedicels, were in number to the longer submarginal and marginal tentacles, having purple pedicels, as nine to sixteen.",0.0772,0.04,0.0,0.96,positive,Insectivorous Plants
+"A tentacle consists of a thin, straight, hair-like pedicel, carrying a gland on the summit.",0.2263,0.147,0.0,0.853,positive,Insectivorous Plants
+"The pedicel is somewhat flattened, and is formed of several rows of elongated cells, filled with purple fluid or granular matter.",0.0258,0.052,0.0,0.948,neutral,Insectivorous Plants
+"* There is, however, a narrow zone close beneath the glands of the longer tentacles, and a broader zone near their bases, of a green tint.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Spiral vessels, accompanied by simple vascular tissue, branch off from the vascular bundles in the blade of the leaf, and run up all the tentacles into the glands.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Several eminent physiologists have discussed the homological nature of these appendages or tentacles, that is, whether they ought to be considered as hairs (trichomes) or prolongations of the leaf.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Nitschke has shown that they include all the elements proper to the blade of a leaf; and the fact of their including vascular tissue was formerly thought to prove that they were prolongations of the leaf, but it is now known that vessels sometimes enter true hairs.",0.5719,0.076,0.0,0.924,positive,Insectivorous Plants
+** The power of movement which they possess is a strong argument against their being viewed as hairs.,0.2023,0.159,0.12,0.721,positive,Insectivorous Plants
+The conclusion which seems to me the most probable will be given in Chap.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"XV., namely that they existed primordially as glandular hairs, or mere epidermic formations, and that their upper part should still be so considered; but that their lower * According to Nitschke ('Bot.",-0.4215,0.0,0.085,0.915,negative,Insectivorous Plants
+"Zeitung,' 1861, p. 224) the purple fluid results from the metamorphosis of chlorophyll.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Mr. Sorby examined the colouring matter with the spectroscope, and informs me that it consists of the commonest species of erythrophyll, ""which is often met with in leaves with low vitality, and in parts, like the petioles, which carry on leaf-functions in a very imperfect manner.",0.0534,0.117,0.093,0.791,positive,Insectivorous Plants
+"All that can be said, therefore, is that the hairs (or tentacles) are coloured like parts of a leaf which do not fulfil their proper office.""",0.3612,0.094,0.0,0.906,positive,Insectivorous Plants
+** Dr. Nitschke has discussed this subject in 'Bot.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Zeitung,' 1861, p. 241 &c. See also Dr. Warming ('Sur la Diffrence entre les Trichomes' &c., 1873), who gives references to various publications.",0.1531,0.068,0.0,0.932,positive,Insectivorous Plants
+See also Groenland and Trcul 'Annal.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+des Sc.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+nat.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+bot.',0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"(4th series), tom.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+iii.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"1855, pp.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+297 and 303.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"[page 6] part, which alone is capable of movement, consists of a prolongation of the leaf; the spiral vessels being extended from this to the uppermost part.",0.1531,0.091,0.07,0.839,positive,Insectivorous Plants
+We shall hereafter see that the terminal tentacles of the divided leaves of Roridula are still in an intermediate condition.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The glands, with the exception of those borne by the extreme FIG.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+3.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+(Drosera rotundifolia.),0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Longitudinal section of a gland; greatly magnified.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+From Dr. Warming.,0.1531,0.444,0.0,0.556,positive,Insectivorous Plants
+"marginal tentacles, are oval, and of nearly uniform size, viz.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+about 4/500 of an inch in length.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Their structure is remarkable, and their functions complex, for they secrete, absorb, and are acted on by various stimulants.",0.5574,0.167,0.0,0.833,positive,Insectivorous Plants
+"They consist of an outer layer of small polygonal cells, containing purple granular matter or fluid, and with the walls thicker than those of the pedicels.",0.0258,0.042,0.0,0.958,neutral,Insectivorous Plants
+"[page 7] Within this layer of cells there is an inner one of differently shaped ones, likewise filled with purple fluid, but of a slightly different tint, and differently affected by chloride of gold.",-0.2263,0.0,0.056,0.944,negative,Insectivorous Plants
+These two layers are sometimes well seen when a gland has been crushed or boiled in caustic potash.,-0.1779,0.106,0.141,0.754,negative,Insectivorous Plants
+"According to Dr. Warming, there is still another layer of much more elongated cells, as shown in the accompanying section (fig.",0.1531,0.074,0.0,0.926,positive,Insectivorous Plants
+"3) copied from his work; but these cells were not seen by Nitschke, nor by me.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"In the centre there is a group of elongated, cylindrical cells of unequal lengths, bluntly pointed at their upper ends, truncated or rounded at their lower ends, closely pressed together, and remarkable from being surrounded by a spiral line, which can be separated as a distinct fibre.",0.0,0.073,0.093,0.833,neutral,Insectivorous Plants
+"These latter cells are filled with limpid fluid, which after long immersion in alcohol deposits much brown matter.",0.0258,0.061,0.0,0.939,neutral,Insectivorous Plants
+"I presume that they are actually connected with the spiral vessels which run up the tentacles, for on several occasions the latter were seen to divide into two or three excessively thin branches, which could be traced close up to the spiriferous cells.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Their development has been described by Dr. Warming.,0.1531,0.186,0.0,0.814,positive,Insectivorous Plants
+"Cells of the same kind have been observed in other plants, as I hear from Dr. Hooker, and were seen by me in the margins of the leaves of Pinguicula.",0.5267,0.108,0.0,0.892,positive,Insectivorous Plants
+"Whatever their function may be, they are not necessary for the secretion of a digestive fluid, or for absorption, or for the communication of a motor impulse to other parts of the leaf, as we may infer from the structure of the glands in some other genera of the Droseraceae.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+The extreme marginal tentacles differ slightly from the others.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Their bases are broader, and besides their own vessels, they receive a fine branch from those which enter the tentacles on each side.",0.2023,0.079,0.0,0.921,positive,Insectivorous Plants
+"Their glands are much elongated, and lie embedded on the upper surface of the pedicel, instead of standing at the apex.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"In other respects they do not differ essentially from the oval ones, and in one specimen I found every possible transition between the two states.",0.3182,0.091,0.0,0.909,positive,Insectivorous Plants
+In another specimen there were no long-headed glands.,-0.296,0.0,0.239,0.761,negative,Insectivorous Plants
+"These marginal tentacles lose their irritability earlier than the others; and when a stimulus is applied to the centre of the leaf, they are excited into action after the others.",-0.4019,0.072,0.152,0.776,negative,Insectivorous Plants
+"When cut-off leaves are immersed in water, they alone often become inflected.",-0.25,0.0,0.154,0.846,negative,Insectivorous Plants
+The purple fluid or granular matter which fills the cells of the glands differs to a certain extent from that within the cells of the pedicels.,0.296,0.122,0.0,0.878,positive,Insectivorous Plants
+"For when a leaf is placed in hot water or in certain acids, the glands become quite white and opaque, whereas [page 8] the cells of the pedicels are rendered of a bright red, with the exception of those close beneath the glands.",0.6124,0.114,0.0,0.886,positive,Insectivorous Plants
+"These latter cells lose their pale red tint; and the green matter which they, as well as the basal cells, contain, becomes of a brighter green.",0.2732,0.197,0.092,0.712,positive,Insectivorous Plants
+"The petioles bear many multicellular hairs, some of which near the blade are surmounted, according to Nitschke, by a few rounded cells, which appear to be rudimentary glands.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Both surfaces of the leaf, the pedicels of the tentacles, especially the lower sides of the outer ones, and the petioles, are studded with minute papillae (hairs or trichomes), having a conical basis, and bearing on their summits two, and occasionally three or even four, rounded cells, containing much protoplasm.",-0.3566,0.0,0.049,0.951,negative,Insectivorous Plants
+"These papillae are generally colourless, but sometimes include a little purple fluid.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"They vary in development, and graduate, as Nitschke* states, and as I repeatedly observed, into the long multicellular hairs.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The latter, as well as the papillae, are probably rudiments of formerly existing tentacles.",0.2732,0.139,0.0,0.861,positive,Insectivorous Plants
+"I may here add, in order not to recur to the papillae, that they do not secrete, but are easily permeated by various fluids: thus when living or dead leaves are immersed in a solution of one part of chloride of gold, or of nitrate of silver, to 437 of water, they are quickly blackened, and the discoloration soon spreads to the surrounding tissue.",-0.2263,0.085,0.084,0.831,negative,Insectivorous Plants
+The long multicellular hairs are not so quickly affected.,0.1655,0.171,0.0,0.829,positive,Insectivorous Plants
+"After a leaf had been left in a weak infusion of raw meat for 10 hours, the cells of the papillae had evidently absorbed animal matter, for instead of limpid fluid they now contained small aggregated masses of protoplasm, which slowly and incessantly changed their forms.",-0.4215,0.024,0.063,0.913,negative,Insectivorous Plants
+"A similar result followed from an immersion of only 15 minutes in a solution of one part of carbonate of ammonia to 218 of water, and the adjoining cells of the tentacles, on which the papillae were seated, now likewise contained aggregated masses of protoplasm.",0.3182,0.052,0.0,0.948,positive,Insectivorous Plants
+"We may therefore conclude that when a leaf has closely clasped a captured insect in the manner immediately to be described, the papillae, which project from the upper surface of the leaf and of the tentacles, probably absorb some of the animal matter dissolved in the secretion; but this cannot be the case with the papillae on the backs of the leaves or on the petioles.]",-0.0644,0.016,0.02,0.963,negative,Insectivorous Plants
+"* Nitschke has elaborately described and figured these papillae, 'Bot.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Zeitung,' 1861, pp.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"234, 253, 254.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"[page 9] Preliminary Sketch of the Action of the several Parts, and of the Manner in which Insects are Captured.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"If a small organic or inorganic object be placed on the glands in the centre of a leaf, these transmit a motor impulse to the marginal tentacles.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The nearer ones are first affected and slowly bend towards the centre, and then those farther off, until at last all become closely inflected over the object.",-0.1531,0.0,0.058,0.942,negative,Insectivorous Plants
+This takes place in from one hour to four or five or more hours.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The difference in the time required depends on many circumstances; namely on the size of the object and on its nature, that is, whether it contains soluble matter of the proper kind; on the vigour and age of the leaf; whether it has lately been in action; and, according to Nitschke,* on the temperature of the day, as likewise seemed to me to be the case.",0.6597,0.092,0.0,0.908,positive,Insectivorous Plants
+"A living insect is a more efficient object than a dead one, as in struggling it presses against the glands of many tentacles.",-0.6133,0.114,0.261,0.625,negative,Insectivorous Plants
+"An insect, such as a fly, with thin integuments, through which animal matter in solution can readily pass into the surrounding dense secretion, is more efficient in causing prolonged inflection than an insect with a thick coat, such as a beetle.",0.6697,0.156,0.0,0.844,positive,Insectivorous Plants
+The inflection of the tentacles takes place indifferently in the light and darkness; and the plant is not subject to any nocturnal movement of so-called sleep.,-0.25,0.0,0.074,0.926,negative,Insectivorous Plants
+"If the glands on the disc are repeatedly touched or brushed, although no object is left on them, the marginal tentacles curve inwards.",-0.296,0.0,0.091,0.909,negative,Insectivorous Plants
+"So again, if drops of various fluids, for instance of saliva or of a solution of any salt of ammonia, are placed on the central glands, the same result quickly follows, sometimes in under half an hour.",0.3182,0.062,0.0,0.938,positive,Insectivorous Plants
+* 'Bot.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Zeitung,' 1860, p. 246.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"[page 10] The tentacles in the act of inflection sweep through a wide space; thus a marginal tentacle, extended in the same plane with the blade, moves through an angle of 180o; and I have seen the much reflected tentacles of a leaf which stood upright move through an angle of not less than 270o.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+The bending part is almost confined to a short space near the base; but a rather larger portion of the elongated exterior tentacles FIG.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+4.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+(Drosera rotundifolia.),0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Leaf (enlarged) with all the tentacles closely inflected, from immersion in a solution of phosphate of ammonia (one part to 87,500 of water.)",0.3182,0.099,0.0,0.901,positive,Insectivorous Plants
+FIG.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+5.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+(Drosera rotundifolia.),0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Leaf (enlarged) with the tentacles on one side inflected over a bit of meat placed on the disc.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+becomes slightly incurved; the distal half in all cases remaining straight.,0.2263,0.16,0.0,0.84,positive,Insectivorous Plants
+"The short tentacles in the centre of the disc when directly excited, do not become inflected; but they are capable of inflection if excited by a motor impulse received from other glands at a distance.",0.802,0.215,0.0,0.785,positive,Insectivorous Plants
+"Thus, if a leaf is immersed in an infusion of raw meat, or in a weak solution of ammonia (if the [page 11] solution is at all strong, the leaf is paralysed), all the exterior tentacles bend inwards (see fig.",0.6124,0.176,0.065,0.759,positive,Insectivorous Plants
+"4), excepting those near the centre, which remain upright; but these bend towards any exciting object placed on one side of the disc, as shown in fig.",0.6486,0.142,0.0,0.858,positive,Insectivorous Plants
+5.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+The glands in fig.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"4 may be seen to form a dark ring round the centre; and this follows from the exterior tentacles increasing in length in due proportion, as they stand nearer to the circumference.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+The kind of inflection which the tentacles undergo is best shown when the gland of one of the long exterior FIG.,0.6369,0.174,0.0,0.826,positive,Insectivorous Plants
+6.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+(Drosera rotundifolia.),0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+Diagram showing one of the exterior tentacles closely inflected; the two adjoining ones in their ordinary position.),0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+tentacles is in any way excited; for the surrounding ones remain unaffected.,0.34,0.179,0.0,0.821,positive,Insectivorous Plants
+In the accompanying outline (fig.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"6) we see one tentacle, on which a particle of meat had been placed, thus bent towards the centre of the leaf, with two others retaining their original position.",0.3182,0.078,0.0,0.922,positive,Insectivorous Plants
+"A gland may be excited by being simply touched three or four times, or by prolonged contact with organic or inorganic objects, and various fluids.",0.34,0.094,0.0,0.906,positive,Insectivorous Plants
+"I have distinctly seen, through a lens, a tentacle beginning to bend in ten seconds, after an object had been [page 12] placed on its gland; and I have often seen strongly pronounced inflection in under one minute.",0.2732,0.06,0.0,0.94,positive,Insectivorous Plants
+"It is surprising how minute a particle of any substance, such as a bit of thread or hair or splinter of glass, if placed in actual contact with the surface of a gland, suffices to cause the tentacle to bend.",0.2732,0.055,0.0,0.945,positive,Insectivorous Plants
+"If the object, which has been carried by this movement to the centre, be not very small, or if it contains soluble nitrogenous matter, it acts on the central glands; and these transmit a motor impulse to the exterior tentacles, causing them to bend inwards.",0.0258,0.025,0.0,0.975,neutral,Insectivorous Plants
+"Not only the tentacles, but the blade of the leaf often, but by no means always, becomes much incurved, when any strongly exciting substance or fluid is placed on the disc.",0.631,0.184,0.074,0.742,positive,Insectivorous Plants
+Drops of milk and of a solution of nitrate of ammonia or soda are particularly apt to produce this effect.,0.3182,0.113,0.0,0.887,positive,Insectivorous Plants
+The blade is thus converted into a little cup.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+The manner in which it bends varies greatly.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Sometimes the apex alone, sometimes one side, and sometimes both sides, become incurved.",-0.25,0.0,0.143,0.857,negative,Insectivorous Plants
+"For instance, I placed bits of hard-boiled egg on three leaves; one had the apex bent towards the base; the second had both distal margins much incurved, so that it became almost triangular in outline, and this perhaps is the commonest case; whilst the third blade was not at all affected, though the tentacles were as closely inflected as in the two previous cases.",0.1139,0.023,0.0,0.977,positive,Insectivorous Plants
+"The whole blade also generally rises or bends upwards, and thus forms a smaller angle with the footstalk than it did before.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"This appears at first sight a distinct kind of movement, but it results from the incurvation of that part of the margin which is attached to the footstalk, causing the blade, as a whole, to curve or move upwards.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The length of time during which the tentacles as [page 13] well as the blade remain inflected over an object placed on the disc, depends on various circumstances; namely on the vigour and age of the leaf, and, according to Dr. Nitschke, on the temperature, for during cold weather when the leaves are inactive, they re-expand at an earlier period than when the weather is warm.",0.5994,0.086,0.0,0.914,positive,Insectivorous Plants
+"But the nature of the object is by far the most important circumstance; I have repeatedly found that the tentacles remain clasped for a much longer average time over objects which yield soluble nitrogenous matter than over those, whether organic or inorganic, which yield no such matter.",0.036,0.101,0.057,0.841,neutral,Insectivorous Plants
+"After a period varying from one to seven days, the tentacles and blade re-expand, and are then ready to act again.",0.3612,0.116,0.0,0.884,positive,Insectivorous Plants
+I have seen the same leaf inflected three successive times over insects placed on the disc; and it would probably have acted a greater number of times.,0.5994,0.211,0.0,0.789,positive,Insectivorous Plants
+"The secretion from the glands is extremely viscid, so that it can be drawn out into long threads.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"It appears colourless, but stains little balls of paper pale pink.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"An object of any kind placed on a gland always causes it, as I believe, to secrete more freely; but the mere presence of the object renders this difficult to ascertain.",-0.1321,0.126,0.112,0.762,negative,Insectivorous Plants
+"In some cases, however, the effect was strongly marked, as when particles of sugar were added; but the result in this case is probably due merely to exosmose.",0.1406,0.054,0.0,0.946,positive,Insectivorous Plants
+"Particles of carbonate and phosphate of ammonia and of some other salts, for instance sulphate of zinc, likewise increase the secretion.",0.3182,0.103,0.0,0.897,positive,Insectivorous Plants
+"Immersion in a solution of one part of chloride of gold, or of some other salts, to 437 of water, excites the glands to largely increased secretion; on the other hand, tartrate of antimony produces no such effect.",0.8176,0.238,0.049,0.713,positive,Insectivorous Plants
+"Immersion in many acids (of the strength of one part to 437 of water) likewise causes a wonderful amount of [page 14] secretion, so that when the leaves are lifted out, long ropes of extremely viscid fluid hang from them.",0.7845,0.157,0.0,0.843,positive,Insectivorous Plants
+"Some acids, on the other hand, do not act in this manner.",0.4939,0.225,0.0,0.775,positive,Insectivorous Plants
+"Increased secretion is not necessarily dependent on the inflection of the tentacle, for particles of sugar and of sulphate of zinc cause no movement.",-0.0258,0.08,0.084,0.837,neutral,Insectivorous Plants
+"It is a much more remarkable fact that when an object, such as a bit of meat or an insect, is placed on the disc of a leaf, as soon as the surrounding tentacles become considerably inflected, their glands pour forth an increased amount of secretion.",0.7178,0.128,0.0,0.872,positive,Insectivorous Plants
+"I ascertained this by selecting leaves with equal-sized drops on the two sides, and by placing bits of meat on one side of the disc; and as soon as the tentacles on this side became much inflected, but before the glands touched the meat, the drops of secretion became larger.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"This was repeatedly observed, but a record was kept of only thirteen cases, in nine of which increased secretion was plainly observed; the four failures being due either to the leaves being rather torpid, or to the bits of meat being too small to cause much inflection.",-0.3291,0.052,0.079,0.869,negative,Insectivorous Plants
+"We must therefore conclude that the central glands, when strongly excited, transmit some influence to the glands of the circumferential tentacles, causing them to secrete more copiously.",0.5423,0.153,0.0,0.847,positive,Insectivorous Plants
+"It is a still more important fact (as we shall see more fully when we treat of the digestive power of the secretion) that when the tentacles become inflected, owing to the central glands having been stimulated mechanically, or by contact with animal matter, the secretion not only increases in quantity, but changes its nature and becomes acid; and this occurs before the glands have touched the object on the centre of the leaf.",0.4639,0.08,0.0,0.92,positive,Insectivorous Plants
+This acid is of a different nature from that contained in the tissue of the leaves.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"As long as the [page 15] tentacles remain closely inflected, the glands continue to secrete, and the secretion is acid; so that, if neutralised by carbonate of soda, it again becomes acid after a few hours.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"I have observed the same leaf with the tentacles closely inflected over rather indigestible substances, such as chemically prepared casein, pouring forth acid secretion for eight successive days, and over bits of bone for ten successive days.",0.6249,0.156,0.0,0.844,positive,Insectivorous Plants
+"The secretion seems to possess, like the gastric juice of the higher animals, some antiseptic power.",0.3612,0.143,0.0,0.857,positive,Insectivorous Plants
+"During very warm weather I placed close together two equal-sized bits of raw meat, one on a leaf of the Drosera, and the other surrounded by wet moss.",0.2944,0.081,0.0,0.919,positive,Insectivorous Plants
+"They were thus left for 48 hrs., and then examined.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The bit on the moss swarmed with infusoria, and was so much decayed that the transverse striae on the muscular fibres could no longer be clearly distinguished; whilst the bit on the leaf, which was bathed by the secretion, was free from infusoria, and its striae were perfectly distinct in the central and undissolved portion.",0.7287,0.156,0.078,0.766,positive,Insectivorous Plants
+"In like manner small cubes of albumen and cheese placed on wet moss became threaded with filaments of mould, and had their surfaces slightly discoloured and disintegrated; whilst those on the leaves of Drosera remained clean, the albumen being changed into transparent fluid.",0.6369,0.113,0.0,0.887,positive,Insectivorous Plants
+"As soon as tentacles, which have remained closely inflected during several days over an object, begin to re-expand, their glands secrete less freely, or cease to secrete, and are left dry.",0.3832,0.08,0.0,0.92,positive,Insectivorous Plants
+"In this state they are covered with a film of whitish, semi-fibrous matter, which was held in solution by the secretion.",0.34,0.159,0.0,0.841,positive,Insectivorous Plants
+The drying of the glands during the act of re-expansion is of some little service to the plant; for I have often observed that objects adhering to the leaves [page 16] could then be blown away by a breath of air; the leaves being thus left unencumbered and free for future action.,0.5106,0.063,0.0,0.937,positive,Insectivorous Plants
+"Nevertheless, it often happens that all the glands do not become completely dry; and in this case delicate objects, such as fragile insects, are sometimes torn by the re-expansion of the tentacles into fragments, which remain scattered all over the leaf.",-0.2023,0.028,0.047,0.924,negative,Insectivorous Plants
+"After the re-expansion is complete, the glands quickly begin to re-secrete, and as soon as full-sized drops are formed, the tentacles are ready to clasp a new object.",0.3612,0.088,0.0,0.912,positive,Insectivorous Plants
+"When an insect alights on the central disc, it is instantly entangled by the viscid secretion, and the surrounding tentacles after a time begin to bend, and ultimately clasp it on all sides.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Insects are generally killed, according to Dr. Nitschke, in about a quarter of an hour, owing to their tracheae being closed by the secretion.",-0.6705,0.0,0.17,0.83,negative,Insectivorous Plants
+"If an insect adheres to only a few of the glands of the exterior tentacles, these soon become inflected and carry their prey to the tentacles next succeeding them inwards; these then bend inwards, and so onwards; until the insect is ultimately carried by a curious sort of rolling movement to the centre of the leaf.",0.6705,0.096,0.0,0.904,positive,Insectivorous Plants
+"Then, after an interval, the tentacles on all sides become inflected and bathe their prey with their secretion, in the same manner as if the insect had first alighted on the central disc.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"It is surprising how minute an insect suffices to cause this action: for instance, I have seen one of the smallest species of gnats (Culex), which had just settled with its excessively delicate feet on the glands of the outermost tentacles, and these were already beginning to curve inwards, though not a single gland had as yet touched the body of the insect.",0.3182,0.053,0.0,0.947,positive,Insectivorous Plants
+"Had I not interfered, this minute gnat would [page 17] assuredly have been carried to the centre of the leaf and been securely clasped on all sides.",0.6124,0.172,0.0,0.828,positive,Insectivorous Plants
+We shall hereafter see what excessively small doses of certain organic fluids and saline solutions cause strongly marked inflection.,0.5994,0.269,0.0,0.731,positive,Insectivorous Plants
+"Whether insects alight on the leaves by mere chance, as a resting place, or are attracted by the odour of the secretion, I know not.",0.5859,0.186,0.0,0.814,positive,Insectivorous Plants
+"I suspect from the number of insects caught by the English species of Drosera, and from what I have observed with some exotic species kept in my greenhouse, that the odour is attractive.",0.25,0.122,0.064,0.814,positive,Insectivorous Plants
+"In this latter case the leaves may be compared with a baited trap; in the former case with a trap laid in a run frequented by game, but without any bait.",-0.3182,0.0,0.113,0.887,negative,Insectivorous Plants
+"That the glands possess the power of absorption, is shown by their almost instantaneously becoming dark-coloured when given a minute quantity of carbonate of ammonia; the change of colour being chiefly or exclusively due to the rapid aggregation of their contents.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"When certain other fluids are added, they become pale-coloured.",0.2732,0.208,0.0,0.792,positive,Insectivorous Plants
+"Their power of absorption is, however, best shown by the widely different results which follow, from placing drops of various nitrogenous and non-nitrogenous fluids of the same density on the glands of the disc, or on a single marginal gland; and likewise by the very different lengths of time during which the tentacles remain inflected over objects, which yield or do not yield soluble nitrogenous matter.",0.6486,0.078,0.0,0.922,positive,Insectivorous Plants
+"This same conclusion might indeed have been inferred from the structure and movements of the leaves, which are so admirably adapted for capturing insects.",0.6696,0.163,0.0,0.837,positive,Insectivorous Plants
+"The absorption of animal matter from captured insects explains how Drosera can flourish in extremely poor peaty soil,--in some cases where nothing but [page 18] sphagnum moss grows, and mosses depend altogether on the atmosphere for their nourishment.",-0.2838,0.027,0.056,0.917,negative,Insectivorous Plants
+"Although the leaves at a hasty glance do not appear green, owing to the purple colour of the tentacles, yet the upper and lower surfaces of the blade, the pedicels of the central tentacles, and the petioles contain chlorophyll, so that, no doubt, the plant obtains and assimilates carbonic acid from the air.",-0.7537,0.0,0.132,0.868,negative,Insectivorous Plants
+"Nevertheless, considering the nature of the soil where it grows, the supply of nitrogen would be extremely limited, or quite deficient, unless the plant had the power of obtaining this important element from captured insects.",-0.0498,0.054,0.059,0.887,neutral,Insectivorous Plants
+We can thus understand how it is that the roots are so poorly developed.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"These usually consist of only two or three slightly divided branches, from half to one inch in length, furnished with absorbent hairs.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"It appears, therefore, that the roots serve only to imbibe water; though, no doubt, they would absorb nutritious matter if present in the soil; for as we shall hereafter see, they absorb a weak solution of carbonate of ammonia.",-0.6369,0.077,0.173,0.75,negative,Insectivorous Plants
+"A plant of Drosera, with the edges of its leaves curled inwards, so as to form a temporary stomach, with the glands of the closely inflected tentacles pouring forth their acid secretion, which dissolves animal matter, afterwards to be absorbed, may be said to feed like an animal.",0.3818,0.076,0.0,0.924,positive,Insectivorous Plants
+"But, differently from an animal, it drinks by means of its roots; and it must drink largely, so as to retain many drops of viscid fluid round the glands, sometimes as many as 260, exposed during the whole day to a glaring sun.",-0.1154,0.0,0.034,0.966,negative,Insectivorous Plants
+[page 19] CHAPTER II.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+THE MOVEMENTS OF THE TENTACLES FROM THE CONTACT OF SOLID BODIES.,0.1531,0.138,0.0,0.862,positive,Insectivorous Plants
+"Inflection of the exterior tentacles owing to the glands of the disc being excited by repeated touches, or by objects left in contact with them--Difference in the action of bodies yielding and not yielding soluble nitrogenous matter--Inflection of the exterior tentacles directly caused by objects left in contact with their glands--Periods of commencing inflection and of subsequent re-expansion--Extreme minuteness of the particles causing inflection--Action under water--Inflection of the exterior tentacles when their glands are excited by repeated touches--Falling drops of water do not cause inflection.",0.5859,0.055,0.0,0.945,positive,Insectivorous Plants
+"I will give in this and the following chapters some of the many experiments made, which best illustrate the manner and rate of movement of the tentacles, when excited in various ways.",0.765,0.185,0.0,0.815,positive,Insectivorous Plants
+The glands alone in all ordinary cases are susceptible to excitement.,0.296,0.225,0.141,0.634,positive,Insectivorous Plants
+"When excited, they do not themselves move or change form, but transmit a motor impulse to the bending part of their own and adjoining tentacles, and are thus carried towards the centre of the leaf.",0.1779,0.049,0.0,0.951,positive,Insectivorous Plants
+"Strictly speaking, the glands ought to be called irritable, as the term sensitive generally implies consciousness; but no one supposes that the Sensitive-plant is conscious, and as I have found the term convenient, I shall use it without scruple.",-0.5927,0.0,0.122,0.878,negative,Insectivorous Plants
+"I will commence with the movements of the exterior tentacles, when indirectly excited by stimulants applied to the glands of the short tentacles on the disc.",0.34,0.091,0.0,0.909,positive,Insectivorous Plants
+"The exterior tentacles may be said in this case to be indirectly excited, because their own glands are not directly acted on.",0.34,0.103,0.0,0.897,positive,Insectivorous Plants
+"The stimulus proceeding from the glands of the disc acts on the bending part of the [page 20] exterior tentacles, near their bases, and does not (as will hereafter be proved) first travel up the pedicels to the glands, to be then reflected back to the bending place.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Nevertheless, some influence does travel up to the glands, causing them to secrete more copiously, and the secretion to become acid.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"This latter fact is, I believe, quite new in the physiology of plants; it has indeed only recently been established that in the animal kingdom an influence can be transmitted along the nerves to glands, modifying their power of secretion, independently of the state of the blood-vessels.",-0.1027,0.0,0.03,0.97,negative,Insectivorous Plants
+"The Inflection of the Exterior Tentacles from the Glands of the Disc being excited by Repeated Touches, or by Objects left in Contact with them.",0.34,0.091,0.0,0.909,positive,Insectivorous Plants
+"The central glands of a leaf were irritated with a small stiff camel-hair brush, and in 70 m. (minutes) several of the outer tentacles were inflected; in 5 hrs.",-0.4588,0.0,0.107,0.893,negative,Insectivorous Plants
+(hours) all the sub-marginal tentacles were inflected; next morning after an interval of about 22 hrs.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+they were fully re-expanded.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+In all the following cases the period is reckoned from the time of first irritation.,-0.5106,0.0,0.191,0.809,negative,Insectivorous Plants
+Another leaf treated in the same manner had a few tentacles inflected in 20 m.; in 4 hrs.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"all the submarginal and some of the extreme marginal tentacles, as well as the edge of the leaf itself, were inflected; in 17 hrs.",0.2732,0.084,0.0,0.916,positive,Insectivorous Plants
+"they had recovered their proper, expanded position.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"I then put a dead fly in the centre of the last-mentioned leaf, and next morning it was closely clasped; five days afterwards the leaf re-expanded, and the tentacles, with their glands surrounded by secretion, were ready to act again.",-0.4215,0.058,0.1,0.841,negative,Insectivorous Plants
+"Particles of meat, dead flies, bits of paper, wood, dried moss, sponge, cinders, glass, &c., were repeatedly [page 21] placed on leaves, and these objects were well embraced in various periods from one hr.",-0.4939,0.055,0.112,0.833,negative,Insectivorous Plants
+"to as long as 24 hrs., and set free again, with the leaf fully re-expanded, in from one or two, to seven or even ten days, according to the nature of the object.",0.5106,0.093,0.0,0.907,positive,Insectivorous Plants
+"On a leaf which had naturally caught two flies, and therefore had already closed and reopened either once or more probably twice, I put a fresh fly: in 7 hrs.",0.3182,0.084,0.0,0.916,positive,Insectivorous Plants
+"it was moderately, and in 21 hrs.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"thoroughly well, clasped, with the edges of the leaf inflected.",0.3384,0.21,0.0,0.79,positive,Insectivorous Plants
+"In two days and a half the leaf had nearly re-expanded; as the exciting object was an insect, this unusually short period of inflection was, no doubt, due to the leaf having recently been in action.",-0.128,0.08,0.118,0.802,negative,Insectivorous Plants
+"Allowing this same leaf to rest for only a single day, I put on another fly, and it again closed, but now very slowly; nevertheless, in less than two days it succeeded in thoroughly clasping the fly.",0.5719,0.098,0.0,0.902,positive,Insectivorous Plants
+"When a small object is placed on the glands of the disc, on one side of a leaf, as near as possible to its circumference, the tentacles on this side are first affected, those on the opposite side much later, or, as often occurred, not at all.",-0.1531,0.0,0.035,0.965,negative,Insectivorous Plants
+"This was repeatedly proved by trials with bits of meat; but I will here give only the case of a minute fly, naturally caught and still alive, which I found adhering by its delicate feet to the glands on the extreme left side of the central disc.",0.5719,0.101,0.0,0.899,positive,Insectivorous Plants
+"The marginal tentacles on this side closed inwards and killed the fly, and after a time the edge of the leaf on this side also became inflected, and thus remained for several days, whilst neither the tentacles nor the edge on the opposite side were in the least affected.",-0.6194,0.028,0.087,0.886,negative,Insectivorous Plants
+"If young and active leaves are selected, inorganic particles not larger than the head of a small pin, placed on the central glands, sometimes cause the [page 22] outer tentacles to bend inwards.",0.4019,0.08,0.0,0.92,positive,Insectivorous Plants
+"But this follows much more surely and quickly, if the object contains nitrogenous matter which can be dissolved by the secretion.",0.664,0.223,0.0,0.777,positive,Insectivorous Plants
+On one occasion I observed the following unusual circumstance.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"Small bits of raw meat (which acts more energetically than any other substance), of paper, dried moss, and of the quill of a pen were placed on several leaves, and they were all embraced equally well in about 2 hrs.",0.6361,0.126,0.0,0.874,positive,Insectivorous Plants
+"On other occasions the above-named substances, or more commonly particles of glass, coal-cinder (taken from the fire), stone, gold-leaf, dried grass, cork, blotting-paper, cotton-wool, and hair rolled up into little balls, were used, and these substances, though they were sometimes well embraced, often caused no movement whatever in the outer tentacles, or an extremely slight and slow movement.",-0.0258,0.035,0.036,0.929,neutral,Insectivorous Plants
+"Yet these same leaves were proved to be in an active condition, as they were excited to move by substances yielding soluble nitrogenous matter, such as bits of raw or roast meat, the yolk or white of boiled eggs, fragments of insects of all orders, spiders, &c. I will give only two instances.",0.6369,0.112,0.0,0.888,positive,Insectivorous Plants
+"Minute flies were placed on the discs of several leaves, and on others balls of paper, bits of moss and quill of about the same size as the flies, and the latter were well embraced in a few hours; whereas after 25 hrs.",0.2732,0.049,0.0,0.951,positive,Insectivorous Plants
+only a very few tentacles were inflected over the other objects.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+"The bits of paper, moss, and quill were then removed from these leaves, and bits of raw meat placed on them; and now all the tentacles were soon energetically inflected.",0.4215,0.088,0.0,0.912,positive,Insectivorous Plants
+"Again, particles of coal-cinder (weighing rather more than the flies used in the last experiment) were placed on the centres of three leaves: after an interval of 19 hrs.",0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+one of the particles was tolerably well embraced; [page 23] a second by a very few tentacles; and a third by none.,0.2732,0.104,0.0,0.896,positive,Insectivorous Plants
+"I then removed the particles from the two latter leaves, and put on them recently killed flies.",-0.6705,0.0,0.231,0.769,negative,Insectivorous Plants
+These were fairly well embraced in 7 1/2 hrs.,0.2732,0.231,0.0,0.769,positive,Insectivorous Plants
+and thoroughly after 20 1/2 hrs.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+; the tentacles remaining inflected for many subsequent days.,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
+On th,0.0,0.0,0.0,1.0,neutral,Insectivorous Plants
