@@ -1,0 +1,498 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Pragmatism: A New Name for Some Old Ways of Thinking This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.059,0.093,0.847,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Title : Pragmatism: A New Name for Some Old Ways of Thinking Author : William James Release date : February 1, 2004 [eBook #5116] Most recently updated: July 2, 2013 Language : English Other information and formats : www.gutenberg.org/ebooks/5116 Credits : Text file produced by Steve Harris, Charles Franks and the Online Distributed Proofreading Team HTML file produced by David Widger *** START OF THE PROJECT GUTENBERG EBOOK PRAGMATISM: A NEW NAME FOR SOME OLD WAYS OF THINKING *** PRAGMATISM A New Name for Some Old Ways of Thinking By William James To the Memory of John Stuart Mill from whom I first learned the pragmatic openness of mind and whom my fancy likes to picture as our leader were he alive to-day.",0.8519,0.086,0.0,0.914,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Preface The lectures that follow were delivered at the Lowell Institute in Boston in November and December, 1906, and in January, 1907, at Columbia University, in New York.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"They are printed as delivered, without developments or notes.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"The pragmatic movement, so-called--I do not like the name, but apparently it is too late to change it--seems to have rather suddenly precipitated itself out of the air.",-0.1419,0.0,0.054,0.946,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"A number of tendencies that have always existed in philosophy have all at once become conscious of themselves collectively, and of their combined mission; and this has occurred in so many countries, and from so many different points of view, that much unconcerted statement has resulted.",0.0772,0.029,0.0,0.971,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"I have sought to unify the picture as it presents itself to my own eyes, dealing in broad strokes, and avoiding minute controversy.",-0.34,0.0,0.103,0.897,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Much futile controversy might have been avoided, I believe, if our critics had been willing to wait until we got our message fairly out.",-0.7579,0.0,0.273,0.727,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"If my lectures interest any reader in the general subject, he will doubtless wish to read farther.",0.765,0.352,0.0,0.648,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+I therefore give him a few references.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"In America, John Dewey's 'Studies in Logical Theory' are the foundation.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Read also by Dewey the articles in the Philosophical Review, vol.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"xv, pp.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"113 and 465, in Mind, vol.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"xv, p. 293, and in the Journal of Philosophy, vol.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"iv, p. 197.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Probably the best statements to begin with however, are F. C. S. Schiller's in his 'Studies in Humanism,' especially the essays numbered i, v, vi, vii, xviii and xix.",0.6369,0.13,0.0,0.87,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+His previous essays and in general the polemic literature of the subject are fully referred to in his footnotes.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Furthermore, see G. Milhaud: le Rationnel, 1898, and the fine articles by Le Roy in the Revue de Metaphysique, vols.",0.2023,0.087,0.0,0.913,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"7, 8 and 9.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Also articles by Blondel and de Sailly in the Annales de Philosophie Chretienne, 4me Serie, vols.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+2 and 3.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Papini announces a book on Pragmatism, in the French language, to be published very soon.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"To avoid one misunderstanding at least, let me say that there is no logical connexion between pragmatism, as I understand it, and a doctrine which I have recently set forth as 'radical empiricism.'",-0.7351,0.0,0.211,0.789,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+The latter stands on its own feet.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+One may entirely reject it and still be a pragmatist.,-0.4576,0.0,0.272,0.728,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Harvard University, April, 1907.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+CONTENTS Preface EXPANDED CONTENTS PRAGMATISM Lecture I.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+-- The Present Dilemma in Philosophy Lecture II.,-0.1779,0.0,0.195,0.805,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+-- What Pragmatism Means Lecture III.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+-- Some Metaphysical Problems Pragmatically Considered Lecture IV.,-0.4019,0.0,0.278,0.722,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+-- The One and the Many Lecture V. -- Pragmatism and Common Sense Lecture VI.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+-- Pragmatism's Conception of Truth Lecture VII.,0.3182,0.277,0.0,0.723,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+-- Pragmatism and Humanism Lecture VIII.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+-- Pragmatism and Religion CONTENTS Lecture I The Present Dilemma in Philosophy Chesterton quoted.,-0.1779,0.0,0.124,0.876,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Everyone has a philosophy.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Temperament is a factor in all philosophizing.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalists and empiricists.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The tender-minded and the tough-minded.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Most men wish both facts and religion.,0.4549,0.332,0.0,0.668,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Empiricism gives facts without religion.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalism gives religion without facts.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The layman's dilemma.,-0.1779,0.0,0.459,0.541,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+The unreality in rationalistic systems.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Leibnitz on the damned, as an example.",-0.3818,0.0,0.302,0.698,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+M. I.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Swift on the optimism of idealists.,0.7184,0.7,0.0,0.3,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Pragmatism as a mediating system.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+An objection.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Reply: philosophies have characters like men, and are liable to as summary judgments.",0.3612,0.172,0.0,0.828,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Spencer as an example.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Lecture II What Pragmatism Means The squirrel.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Pragmatism as a method.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+History of the method.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Its character and affinities.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+How it contrasts with rationalism and intellectualism.,0.4939,0.348,0.0,0.652,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+A 'corridor theory.',0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Pragmatism as a theory of truth, equivalent to 'humanism.'",0.3182,0.247,0.0,0.753,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Earlier views of mathematical, logical, and natural truth.",0.5859,0.444,0.0,0.556,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+More recent views.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Schiller's and Dewey's 'instrumental' view.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The formation of new beliefs.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Older truth always has to be kept account of.,0.3182,0.223,0.0,0.777,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Older truth arose similarly.,0.3182,0.434,0.0,0.566,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The 'humanistic' doctrine.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalistic criticisms of it.,-0.2263,0.0,0.388,0.612,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Pragmatism as mediator between empiricism and religion.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Barrenness of transcendental idealism.,0.4019,0.474,0.0,0.526,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+How far the concept of the Absolute must be called true.,0.4215,0.219,0.0,0.781,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The true is the good in the way of belief.,0.6908,0.416,0.0,0.584,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The clash of truths.,0.4215,0.483,0.0,0.517,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Pragmatism unstiffens discussion.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Lecture III Some Metaphysical Problems Pragmatically Considered The problem of substance.,-0.6597,0.0,0.375,0.625,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+The Eucharist.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Berkeley's pragmatic treatment of material substance.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Locke's of personal identity.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The problem of materialism.,-0.4019,0.0,0.474,0.526,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalistic treatment of it.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Pragmatic treatment.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"'God' is no better than 'Matter' as a principle, unless he promise more.",0.4588,0.317,0.134,0.549,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Pragmatic comparison of the two principles.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The problem of design.,-0.4019,0.0,0.474,0.526,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+'Design' per se is barren.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The question is WHAT design.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The problem of 'free-will.',-0.4019,0.0,0.474,0.526,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Its relations to 'accountability.',0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Free-will a cosmological theory.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The pragmatic issue at stake in all these problems is what do the alternatives PROMISE.,0.0857,0.162,0.144,0.694,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Lecture IV The One and the Many Total reflection.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Philosophy seeks not only unity, but totality.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalistic feeling about unity.,0.128,0.333,0.0,0.667,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Pragmatically considered, the world is one in many ways.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+One time and space.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+One subject of discourse.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Its parts interact.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Its oneness and manyness are co-ordinate.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Question of one origin.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Generic oneness.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+One purpose.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+One story.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+One knower.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Value of pragmatic method.,0.34,0.444,0.0,0.556,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Absolute monism.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Vivekananda.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Various types of union discussed.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Conclusion: We must oppose monistic dogmatism and follow empirical findings.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Lecture V Pragmatism and Common Sense Noetic pluralism.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+How our knowledge grows.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Earlier ways of thinking remain.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Prehistoric ancestors DISCOVERED the common sense concepts.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+List of them.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+They came gradually into use.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Space and time.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+'Things.',0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Kinds.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+'Cause' and 'law.',0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Common sense one stage in mental evolution, due to geniuses.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"The 'critical' stages: 1) scientific and 2) philosophic, compared with common sense.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Impossible to say which is the more 'true.',0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Lecture VI Pragmatism's Conception of Truth The polemic situation.,0.3182,0.223,0.0,0.777,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+What does agreement with reality mean?,0.4939,0.39,0.0,0.61,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+It means verifiability.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Verifiability means ability to guide us prosperously through experience.,0.3182,0.223,0.0,0.777,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Completed verifications seldom needful.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+'Eternal' truths.,0.4215,0.737,0.0,0.263,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Consistency, with language, with previous truths.",0.4215,0.359,0.0,0.641,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalist objections.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Truth is a good, like health, wealth, etc.",0.872,0.784,0.0,0.216,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+It is expedient thinking.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The past.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Truth grows.,0.3182,0.697,0.0,0.303,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalist objections.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Reply to them.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Lecture VII Pragmatism and Humanism The notion of THE Truth.,0.3182,0.204,0.0,0.796,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Schiller on 'Humanism.',0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Three sorts of reality of which any new truth must take account.,0.3182,0.173,0.0,0.827,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+To 'take account' is ambiguous.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Absolutely independent reality is hard to find.,-0.1027,0.0,0.189,0.811,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+The human contribution is ubiquitous and builds out the given.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Essence of pragmatism's contrast with rationalism.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalism affirms a transempirical world.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Motives for this.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Tough-mindedness rejects them.,-0.4939,0.0,0.615,0.385,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+A genuine alternative.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Pragmatism mediates.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Lecture VIII Pragmatism and Religion Utility of the Absolute.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Whitman's poem 'To You.',0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Two ways of taking it.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+My friend's letter.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Necessities versus possibilities.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+'Possibility' defined.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Three views of the world's salvation.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Pragmatism is melioristic.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+We may create reality.,0.2732,0.412,0.0,0.588,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Why should anything BE?,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Supposed choice before creation.,0.2732,0.412,0.0,0.588,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The healthy and the morbid reply.,0.4019,0.351,0.0,0.649,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The 'tender' and the 'tough' types of religion.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Pragmatism mediates.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+PRAGMATISM Lecture I.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"-- The Present Dilemma in Philosophy In the preface to that admirable collection of essays of his called 'Heretics,' Mr. Chesterton writes these words: ""There are some people--and I am one of them--who think that the most practical and important thing about a man is still his view of the universe.",0.6077,0.106,0.032,0.862,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"We think that for a landlady considering a lodger, it is important to know his income, but still more important to know his philosophy.",0.3818,0.153,0.0,0.847,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"We think that for a general about to fight an enemy, it is important to know the enemy's numbers, but still more important to know the enemy's philosophy.",-0.1154,0.117,0.132,0.75,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"We think the question is not whether the theory of the cosmos affects matters, but whether, in the long run, anything else affects them.""",0.0129,0.044,0.0,0.956,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+I think with Mr. Chesterton in this matter.,0.0323,0.158,0.0,0.842,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"I know that you, ladies and gentlemen, have a philosophy, each and all of you, and that the most interesting and important thing about you is the way in which it determines the perspective in your several worlds.",0.6195,0.129,0.0,0.871,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+You know the same of me.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+And yet I confess to a certain tremor at the audacity of the enterprise which I am about to begin.,0.2732,0.116,0.0,0.884,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+For the philosophy which is so important in each of us is not a technical matter; it is our more or less dumb sense of what life honestly and deeply means.,0.255,0.15,0.122,0.728,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+It is only partly got from books; it is our individual way of just seeing and feeling the total push and pressure of the cosmos.,-0.1779,0.056,0.082,0.861,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"I have no right to assume that many of you are students of the cosmos in the class-room sense, yet here I stand desirous of interesting you in a philosophy which to no small extent has to be technically treated.",0.1531,0.118,0.104,0.778,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"I wish to fill you with sympathy with a contemporaneous tendency in which I profoundly believe, and yet I have to talk like a professor to you who are not students.",0.7717,0.251,0.0,0.749,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Whatever universe a professor believes in must at any rate be a universe that lends itself to lengthy discourse.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+A universe definable in two sentences is something for which the professorial intellect has no use.,0.25,0.228,0.12,0.652,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+No faith in anything of that cheap kind!,0.6476,0.474,0.161,0.365,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"I have heard friends and colleagues try to popularize philosophy in this very hall, but they soon grew dry, and then technical, and the results were only partially encouraging.",0.8074,0.249,0.0,0.751,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+So my enterprise is a bold one.,0.3818,0.342,0.0,0.658,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The founder of pragmatism himself recently gave a course of lectures at the Lowell Institute with that very word in its title-flashes of brilliant light relieved against Cimmerian darkness!,0.69,0.199,0.059,0.742,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"None of us, I fancy, understood ALL that he said--yet here I stand, making a very similar venture.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+I risk it because the very lectures I speak of DREW--they brought good audiences.,0.2023,0.193,0.14,0.667,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"There is, it must be confessed, a curious fascination in hearing deep things talked about, even tho neither we nor the disputants understand them.",0.6705,0.208,0.0,0.792,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"We get the problematic thrill, we feel the presence of the vastness.",-0.1027,0.162,0.188,0.649,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Let a controversy begin in a smoking-room anywhere, about free-will or God's omniscience, or good and evil, and see how everyone in the place pricks up his ears.",-0.5267,0.09,0.196,0.714,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Philosophy's results concern us all most vitally, and philosophy's queerest arguments tickle agreeably our sense of subtlety and ingenuity.",0.3167,0.211,0.114,0.675,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Believing in philosophy myself devoutly, and believing also that a kind of new dawn is breaking upon us philosophers, I feel impelled, per fas aut nefas, to try to impart to you some news of the situation.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Philosophy is at once the most sublime and the most trivial of human pursuits.,-0.101,0.0,0.097,0.903,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+It works in the minutest crannies and it opens out the widest vistas.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It 'bakes no bread,' as has been said, but it can inspire our souls with courage; and repugnant as its manners, its doubting and challenging, its quibbling and dialectics, often are to common people, no one of us can get along without the far-flashing beams of light it sends over the world's perspectives.",0.6956,0.171,0.114,0.715,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"These illuminations at least, and the contrast-effects of darkness and mystery that accompany them, give to what it says an interest that is much more than professional.",0.25,0.1,0.067,0.833,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The history of philosophy is to a great extent that of a certain clash of human temperaments.,0.7351,0.323,0.0,0.677,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Undignified as such a treatment may seem to some of my colleagues, I shall have to take account of this clash and explain a good many of the divergencies of philosophers by it.",0.4404,0.091,0.0,0.909,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Of whatever temperament a professional philosopher is, he tries when philosophizing to sink the fact of his temperament.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Temperament is no conventionally recognized reason, so he urges impersonal reasons only for his conclusions.",-0.5809,0.0,0.268,0.732,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Yet his temperament really gives him a stronger bias than any of his more strictly objective premises.,0.3535,0.157,0.077,0.767,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"It loads the evidence for him one way or the other, making for a more sentimental or a more hard-hearted view of the universe, just as this fact or that principle would.",0.3804,0.082,0.0,0.918,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+He trusts his temperament.,0.4767,0.508,0.0,0.492,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Wanting a universe that suits it, he believes in any representation of the universe that does suit it.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"He feels men of opposite temper to be out of key with the world's character, and in his heart considers them incompetent and 'not in it,' in the philosophic business, even tho they may far excel him in dialectical ability.",-0.1531,0.112,0.125,0.763,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Yet in the forum he can make no claim, on the bare ground of his temperament, to superior discernment or authority.",0.3818,0.192,0.088,0.72,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+There arises thus a certain insincerity in our philosophic discussions: the potentest of all our premises is never mentioned.,-0.0772,0.102,0.117,0.78,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"I am sure it would contribute to clearness if in these lectures we should break this rule and mention it, and I accordingly feel free to do so.",0.6808,0.189,0.0,0.811,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Of course I am talking here of very positively marked men, men of radical idiosyncracy, who have set their stamp and likeness on philosophy and figure in its history.",0.5709,0.12,0.0,0.88,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Plato, Locke, Hegel, Spencer, are such temperamental thinkers.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Most of us have, of course, no very definite intellectual temperament, we are a mixture of opposite ingredients, each one present very moderately.",0.5819,0.22,0.081,0.699,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"We hardly know our own preferences in abstract matters; some of us are easily talked out of them, and end by following the fashion or taking up with the beliefs of the most impressive philosopher in our neighborhood, whoever he may be.",0.7264,0.154,0.0,0.846,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"But the one thing that has COUNTED so far in philosophy is that a man should see things, see them straight in his own peculiar way, and be dissatisfied with any opposite way of seeing them.",-0.0387,0.107,0.086,0.807,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+There is no reason to suppose that this strong temperamental vision is from now onward to count no longer in the history of man's beliefs.,0.3559,0.188,0.141,0.671,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Now the particular difference of temperament that I have in mind in making these remarks is one that has counted in literature, art, government and manners as well as in philosophy.",0.2732,0.068,0.0,0.932,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+In manners we find formalists and free-and-easy persons.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"In government, authoritarians and anarchists.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"In literature, purists or academicals, and realists.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"In art, classics and romantics.",0.4404,0.42,0.0,0.58,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"You recognize these contrasts as familiar; well, in philosophy we have a very similar contrast expressed in the pair of terms 'rationalist' and 'empiricist,' 'empiricist' meaning your lover of facts in all their crude variety, 'rationalist' meaning your devotee to abstract and eternal principles.",0.5859,0.166,0.072,0.762,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"No one can live an hour without both facts and principles, so it is a difference rather of emphasis; yet it breeds antipathies of the most pungent character between those who lay the emphasis differently; and we shall find it extraordinarily convenient to express a certain contrast in men's ways of taking their universe, by talking of the 'empiricist' and of the 'rationalist' temper.",-0.4404,0.032,0.076,0.893,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+These terms make the contrast simple and massive.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+More simple and massive than are usually the men of whom the terms are predicated.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"For every sort of permutation and combination is possible in human nature; and if I now proceed to define more fully what I have in mind when I speak of rationalists and empiricists, by adding to each of those titles some secondary qualifying characteristics, I beg you to regard my conduct as to a certain extent arbitrary.",0.2732,0.04,0.0,0.96,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"I select types of combination that nature offers very frequently, but by no means uniformly, and I select them solely for their convenience in helping me to my ulterior purpose of characterizing pragmatism.",0.0,0.081,0.081,0.838,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Historically we find the terms 'intellectualism' and 'sensationalism' used as synonyms of 'rationalism' and 'empiricism.',0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Well, nature seems to combine most frequently with intellectualism an idealistic and optimistic tendency.",0.8646,0.516,0.0,0.484,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Empiricists on the other hand are not uncommonly materialistic, and their optimism is apt to be decidedly conditional and tremulous.",0.6637,0.258,0.087,0.655,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalism is always monistic.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It starts from wholes and universals, and makes much of the unity of things.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Empiricism starts from the parts, and makes of the whole a collection-is not averse therefore to calling itself pluralistic.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Rationalism usually considers itself more religious than empiricism, but there is much to say about this claim, so I merely mention it.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is a true claim when the individual rationalist is what is called a man of feeling, and when the individual empiricist prides himself on being hard-headed.",0.5106,0.158,0.0,0.842,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"In that case the rationalist will usually also be in favor of what is called free-will, and the empiricist will be a fatalist--I use the terms most popularly current.",0.6997,0.182,0.0,0.818,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"The rationalist finally will be of dogmatic temper in his affirmations, while the empiricist may be more sceptical and open to discussion.",-0.6478,0.0,0.209,0.791,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+I will write these traits down in two columns.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+I think you will practically recognize the two types of mental make-up that I mean if I head the columns by the titles 'tender-minded' and 'tough-minded' respectively.,0.34,0.094,0.0,0.906,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"THE TENDER-MINDED Rationalistic (going by 'principles'), Intellectualistic, Idealistic, Optimistic, Religious, Free-willist, Monistic, Dogmatical.",0.7506,0.425,0.0,0.575,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"THE TOUGH-MINDED Empiricist (going by 'facts'), Sensationalistic, Materialistic, Pessimistic, Irreligious, Fatalistic, Pluralistic, Sceptical.",-0.6908,0.0,0.401,0.599,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Pray postpone for a moment the question whether the two contrasted mixtures which I have written down are each inwardly coherent and self-consistent or not--I shall very soon have a good deal to say on that point.,0.552,0.142,0.05,0.808,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"It suffices for our immediate purpose that tender-minded and tough-minded people, characterized as I have written them down, do both exist.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Each of you probably knows some well-marked example of each type, and you know what each example thinks of the example on the other side of the line.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+They have a low opinion of each other.,-0.2732,0.0,0.259,0.741,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Their antagonism, whenever as individuals their temperaments have been intense, has formed in all ages a part of the philosophic atmosphere of the time.",-0.3818,0.052,0.115,0.833,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+It forms a part of the philosophic atmosphere to-day.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The tough think of the tender as sentimentalists and soft-heads.,0.0516,0.152,0.134,0.714,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"The tender feel the tough to be unrefined, callous, or brutal.",-0.6808,0.0,0.384,0.616,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Their mutual reaction is very much like that that takes place when Bostonian tourists mingle with a population like that of Cripple Creek.,0.6764,0.217,0.0,0.783,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Each type believes the other to be inferior to itself; but disdain in the one case is mingled with amusement, in the other it has a dash of fear.",-0.7935,0.087,0.274,0.639,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Now, as I have already insisted, few of us are tender-foot Bostonians pure and simple, and few are typical Rocky Mountain toughs, in philosophy.",-0.2023,0.0,0.076,0.924,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Most of us have a hankering for the good things on both sides of the line.,0.4404,0.172,0.0,0.828,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Facts are good, of course--give us lots of facts.",0.4404,0.266,0.0,0.734,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Principles are good--give us plenty of principles.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"The world is indubitably one if you look at it in one way, but as indubitably is it many, if you look at it in another.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+It is both one and many--let us adopt a sort of pluralistic monism.,0.1779,0.134,0.0,0.866,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Everything of course is necessarily determined, and yet of course our wills are free: a sort of free-will determinism is the true philosophy.",0.8176,0.309,0.0,0.691,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The evil of the parts is undeniable; but the whole can't be evil: so practical pessimism may be combined with metaphysical optimism.,-0.8279,0.135,0.354,0.511,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"And so forth--your ordinary philosophic layman never being a radical, never straightening out his system, but living vaguely in one plausible compartment of it or another to suit the temptations of successive hours.",0.3919,0.079,0.0,0.921,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+But some of us are more than mere laymen in philosophy.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"We are worthy of the name of amateur athletes, and are vexed by too much inconsistency and vacillation in our creed.",0.4404,0.127,0.0,0.873,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+We cannot preserve a good intellectual conscience so long as we keep mixing incompatibles from opposite sides of the line.,-0.6259,0.0,0.231,0.769,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+And now I come to the first positively important point which I wish to make.,0.7845,0.441,0.0,0.559,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Never were as many men of a decidedly empiricist proclivity in existence as there are at the present day.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Our children, one may say, are almost born scientific.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+But our esteem for facts has not neutralized in us all religiousness.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+It is itself almost religious.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Our scientific temper is devout.,-0.4215,0.0,0.412,0.588,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Now take a man of this type, and let him be also a philosophic amateur, unwilling to mix a hodge-podge system after the fashion of a common layman, and what does he find his situation to be, in this blessed year of our Lord 1906?",0.6833,0.104,0.0,0.896,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+He wants facts; he wants science; but he also wants a religion.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+And being an amateur and not an independent originator in philosophy he naturally looks for guidance to the experts and professionals whom he finds already in the field.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"A very large number of you here present, possibly a majority of you, are amateurs of just this sort.",0.1477,0.09,0.0,0.91,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Now what kinds of philosophy do you find actually offered to meet your need?,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"You find an empirical philosophy that is not religious enough, and a religious philosophy that is not empirical enough for your purpose.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"If you look to the quarter where facts are most considered you find the whole tough-minded program in operation, and the 'conflict between science and religion' in full blast.",-0.3182,0.0,0.076,0.924,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Either it is that Rocky Mountain tough of a Haeckel with his materialistic monism, his ether-god and his jest at your God as a 'gaseous vertebrate'; or it is Spencer treating the world's history as a redistribution of matter and motion solely, and bowing religion politely out at the front door:--she may indeed continue to exist, but she must never show her face inside the temple.",0.09,0.041,0.02,0.94,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+For a hundred and fifty years past the progress of science has seemed to mean the enlargement of the material universe and the diminution of man's importance.,0.6486,0.181,0.0,0.819,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The result is what one may call the growth of naturalistic or positivistic feeling.,0.7184,0.389,0.0,0.611,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Man is no law-giver to nature, he is an absorber.",-0.296,0.0,0.196,0.804,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+She it is who stands firm; he it is who must accommodate himself.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Let him record truth, inhuman tho it be, and submit to it!",0.3802,0.191,0.0,0.809,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"The romantic spontaneity and courage are gone, the vision is materialistic and depressing.",0.6486,0.405,0.133,0.462,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Ideals appear as inert by-products of physiology; what is higher is explained by what is lower and treated forever as a case of 'nothing but'--nothing but something else of a quite inferior sort.,-0.6357,0.04,0.16,0.8,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"You get, in short, a materialistic universe, in which only the tough-minded find themselves congenially at home.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"If now, on the other hand, you turn to the religious quarter for consolation, and take counsel of the tender-minded philosophies, what do you find?",0.4939,0.118,0.0,0.882,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Religious philosophy in our day and generation is, among us English-reading people, of two main types.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"One of these is more radical and aggressive, the other has more the air of fighting a slow retreat.",-0.3744,0.085,0.206,0.709,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"By the more radical wing of religious philosophy I mean the so-called transcendental idealism of the Anglo-Hegelian school, the philosophy of such men as Green, the Cairds, Bosanquet, and Royce.",0.4019,0.088,0.0,0.912,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+This philosophy has greatly influenced the more studious members of our protestant ministry.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is pantheistic, and undoubtedly it has already blunted the edge of the traditional theism in protestantism at large.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"That theism remains, however.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is the lineal descendant, through one stage of concession after another, of the dogmatic scholastic theism still taught rigorously in the seminaries of the catholic church.",-0.1027,0.0,0.051,0.949,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+For a long time it used to be called among us the philosophy of the Scottish school.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+It is what I meant by the philosophy that has the air of fighting a slow retreat.,-0.1779,0.104,0.145,0.751,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Between the encroachments of the hegelians and other philosophers of the 'Absolute,' on the one hand, and those of the scientific evolutionists and agnostics, on the other, the men that give us this kind of a philosophy, James Martineau, Professor Bowne, Professor Ladd and others, must feel themselves rather tightly squeezed.",0.4939,0.061,0.0,0.939,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Fair-minded and candid as you like, this philosophy is not radical in temper.",0.5903,0.305,0.0,0.695,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is eclectic, a thing of compromises, that seeks a modus vivendi above all things.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It accepts the facts of darwinism, the facts of cerebral physiology, but it does nothing active or enthusiastic with them.",-0.6887,0.066,0.253,0.681,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+It lacks the victorious and aggressive note.,-0.1531,0.0,0.211,0.789,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+It lacks prestige in consequence; whereas absolutism has a certain prestige due to the more radical style of it.,0.2732,0.11,0.0,0.89,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+These two systems are what you have to choose between if you turn to the tender-minded school.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"And if you are the lovers of facts I have supposed you to be, you find the trail of the serpent of rationalism, of intellectualism, over everything that lies on that side of the line.",0.5859,0.163,0.069,0.767,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+You escape indeed the materialism that goes with the reigning empiricism; but you pay for your escape by losing contact with the concrete parts of life.,-0.3818,0.112,0.164,0.724,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+The more absolutistic philosophers dwell on so high a level of abstraction that they never even try to come down.,0.1935,0.089,0.0,0.911,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"The absolute mind which they offer us, the mind that makes our universe by thinking it, might, for aught they show us to the contrary, have made any one of a million other universes just as well as this.",0.2732,0.054,0.0,0.946,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+You can deduce no single actual particular from the notion of it.,-0.296,0.0,0.167,0.833,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+It is compatible with any state of things whatever being true here below.,0.4215,0.189,0.0,0.811,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+And the theistic God is almost as sterile a principle.,0.2732,0.208,0.0,0.792,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+You have to go to the world which he has created to get any inkling of his actual character: he is the kind of god that has once for all made that kind of a world.,0.4228,0.103,0.0,0.897,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The God of the theistic writers lives on as purely abstract heights as does the Absolute.,0.2732,0.123,0.0,0.877,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Absolutism has a certain sweep and dash about it, while the usual theism is more insipid, but both are equally remote and vacuous.",-0.1522,0.065,0.091,0.844,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"What you want is a philosophy that will not only exercise your powers of intellectual abstraction, but that will make some positive connexion with this actual world of finite human lives.",0.802,0.233,0.0,0.767,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"You want a system that will combine both things, the scientific loyalty to facts and willingness to take account of them, the spirit of adaptation and accommodation, in short, but also the old confidence in human values and the resultant spontaneity, whether of the religious or of the romantic type.",0.9418,0.298,0.0,0.702,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+And this is then your dilemma: you find the two parts of your quaesitum hopelessly separated.,-0.5994,0.0,0.259,0.741,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"You find empiricism with inhumanism and irreligion; or else you find a rationalistic philosophy that indeed may call itself religious, but that keeps out of all definite touch with concrete facts and joys and sorrows.",0.5499,0.168,0.082,0.75,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"I am not sure how many of you live close enough to philosophy to realize fully what I mean by this last reproach, so I will dwell a little longer on that unreality in all rationalistic systems by which your serious believer in facts is so apt to feel repelled.",-0.1239,0.037,0.068,0.895,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+I wish that I had saved the first couple of pages of a thesis which a student handed me a year or two ago.,0.6705,0.244,0.0,0.756,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+They illustrated my point so clearly that I am sorry I cannot read them to you now.,0.4924,0.196,0.073,0.731,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"This young man, who was a graduate of some Western college, began by saying that he had always taken for granted that when you entered a philosophic class-room you had to open relations with a universe entirely distinct from the one you left behind you in the street.",0.25,0.043,0.0,0.957,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"The two were supposed, he said, to have so little to do with each other, that you could not possibly occupy your mind with them at the same time.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"The world of concrete personal experiences to which the street belongs is multitudinous beyond imagination, tangled, muddy, painful and perplexed.",-0.6369,0.0,0.224,0.776,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"The world to which your philosophy-professor introduces you is simple, clean and noble.",0.6908,0.341,0.0,0.659,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The contradictions of real life are absent from it.,-0.3182,0.0,0.223,0.777,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Its architecture is classic.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Principles of reason trace its outlines, logical necessities cement its parts.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Purity and dignity are what it most expresses.,0.4019,0.278,0.0,0.722,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+It is a kind of marble temple shining on a hill.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"In point of fact it is far less an account of this actual world than a clear addition built upon it, a classic sanctuary in which the rationalist fancy may take refuge from the intolerably confused and gothic character which mere facts present.",0.0772,0.059,0.052,0.888,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is no EXPLANATION of our concrete universe, it is another thing altogether, a substitute for it, a remedy, a way of escape.",-0.128,0.078,0.1,0.822,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Its temperament, if I may use the word temperament here, is utterly alien to the temperament of existence in the concrete.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+REFINEMENT is what characterizes our intellectualist philosophies.,0.4588,0.333,0.0,0.667,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+They exquisitely satisfy that craving for a refined object of contemplation which is so powerful an appetite of the mind.,0.7661,0.28,0.0,0.72,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"But I ask you in all seriousness to look abroad on this colossal universe of concrete facts, on their awful bewilderments, their surprises and cruelties, on the wildness which they show, and then to tell me whether 'refined' is the one inevitable descriptive adjective that springs to your lips.",-0.8126,0.042,0.174,0.784,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Refinement has its place in things, true enough.",0.4215,0.286,0.0,0.714,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+But a philosophy that breathes out nothing but refinement will never satisfy the empiricist temper of mind.,-0.7858,0.0,0.331,0.669,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+It will seem rather a monument of artificiality.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"So we find men of science preferring to turn their backs on metaphysics as on something altogether cloistered and spectral, and practical men shaking philosophy's dust off their feet and following the call of the wild.",-0.2263,0.0,0.079,0.921,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Truly there is something a little ghastly in the satisfaction with which a pure but unreal system will fill a rationalist mind.,0.4404,0.187,0.0,0.813,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Leibnitz was a rationalist mind, with infinitely more interest in facts than most rationalist minds can show.",0.5095,0.18,0.0,0.82,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Yet if you wish for superficiality incarnate, you have only to read that charmingly written 'Theodicee' of his, in which he sought to justify the ways of God to man, and to prove that the world we live in is the best of possible worlds.",0.9042,0.229,0.0,0.771,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Let me quote a specimen of what I mean.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Among other obstacles to his optimistic philosophy, it falls to Leibnitz to consider the number of the eternally damned.",-0.3818,0.151,0.218,0.63,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"That it is infinitely greater, in our human case, than that of those saved he assumes as a premise from the theologians, and then proceeds to argue in this way.",0.4404,0.157,0.071,0.772,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Even then, he says: ""The evil will appear as almost nothing in comparison with the good, if we once consider the real magnitude of the City of God.",-0.1027,0.145,0.128,0.727,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Coelius Secundus Curio has written a little book, 'De Amplitudine Regni Coelestis,' which was reprinted not long ago.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+But he failed to compass the extent of the kingdom of the heavens.,-0.2263,0.187,0.234,0.579,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+The ancients had small ideas of the works of God.,0.2732,0.189,0.0,0.811,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+...,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It seemed to them that only our earth had inhabitants, and even the notion of our antipodes gave them pause.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The rest of the world for them consisted of some shining globes and a few crystalline spheres.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"But to-day, whatever be the limits that we may grant or refuse to the Universe we must recognize in it a countless number of globes, as big as ours or bigger, which have just as much right as it has to support rational inhabitants, tho it does not follow that these need all be men.",0.6652,0.135,0.046,0.819,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Our earth is only one among the six principal satellites of our sun.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"As all the fixed stars are suns, one sees how small a place among visible things our earth takes up, since it is only a satellite of one among them.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Now all these suns MAY be inhabited by none but happy creatures; and nothing obliges us to believe that the number of damned persons is very great; for a VERY FEW INSTANCES AND SAMPLES SUFFICE FOR THE UTILITY WHICH GOOD DRAWS FROM EVIL.,-0.478,0.198,0.231,0.571,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Moreover, since there is no reason to suppose that there are stars everywhere, may there not be a great space beyond the region of the stars?",-0.6698,0.0,0.193,0.807,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"And this immense space, surrounding all this region, ... may be replete with happiness and glory.",0.7964,0.336,0.0,0.664,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+... What now becomes of the consideration of our Earth and of its denizens?,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Does it not dwindle to something incomparably less than a physical point, since our Earth is but a point compared with the distance of the fixed stars.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Thus the part of the Universe which we know, being almost lost in nothingness compared with that which is unknown to us, but which we are yet obliged to admit; and all the evils that we know lying in this almost-nothing; it follows that the evils may be almost-nothing in comparison with the goods that the Universe contains.""",-0.9433,0.031,0.227,0.742,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Leibnitz continues elsewhere: ""There is a kind of justice which aims neither at the amendment of the criminal, nor at furnishing an example to others, nor at the reparation of the injury.",-0.4754,0.083,0.166,0.751,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"This justice is founded in pure fitness, which finds a certain satisfaction in the expiation of a wicked deed.",0.7269,0.405,0.131,0.463,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"The Socinians and Hobbes objected to this punitive justice, which is properly vindictive justice and which God has reserved for himself at many junctures.",0.6155,0.272,0.118,0.61,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+...,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is always founded in the fitness of things, and satisfies not only the offended party, but all wise lookers-on, even as beautiful music or a fine piece of architecture satisfies a well-constituted mind.",0.9641,0.479,0.0,0.521,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is thus that the torments of the damned continue, even tho they serve no longer to turn anyone away from sin, and that the rewards of the blest continue, even tho they confirm no one in good ways.",-0.5574,0.121,0.214,0.665,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"The damned draw to themselves ever new penalties by their continuing sins, and the blest attract ever fresh joys by their unceasing progress in good.",0.7964,0.367,0.15,0.483,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Both facts are founded on the principle of fitness, ... for God has made all things harmonious in perfection as I have already said.""",0.872,0.365,0.0,0.635,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Leibnitz's feeble grasp of reality is too obvious to need comment from me.,-0.296,0.0,0.155,0.845,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+It is evident that no realistic image of the experience of a damned soul had ever approached the portals of his mind.,-0.5859,0.0,0.202,0.798,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Nor had it occurred to him that the smaller is the number of 'samples' of the genus 'lost-soul' whom God throws as a sop to the eternal fitness, the more unequitably grounded is the glory of the blest.",0.7906,0.214,0.0,0.786,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"What he gives us is a cold literary exercise, whose cheerful substance even hell-fire does not warm.",0.428,0.183,0.087,0.73,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+And do not tell me that to show the shallowness of rationalist philosophizing I have had to go back to a shallow wigpated age.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The optimism of present-day rationalism sounds just as shallow to the fact-loving mind.,0.5423,0.226,0.0,0.774,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"The actual universe is a thing wide open, but rationalism makes systems, and systems must be closed.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+For men in practical life perfection is something far off and still in process of achievement.,0.5719,0.198,0.0,0.802,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+This for rationalism is but the illusion of the finite and relative: the absolute ground of things is a perfection eternally complete.,0.7227,0.202,0.0,0.798,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+I find a fine example of revolt against the airy and shallow optimism of current religious philosophy in a publication of that valiant anarchistic writer Morrison I.,0.6486,0.194,0.0,0.806,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Swift.,0.2023,1.0,0.0,0.0,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Mr.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Swift's anarchism goes a little farther than mine does, but I confess that I sympathize a good deal, and some of you, I know, will sympathize heartily with his dissatisfaction with the idealistic optimisms now in vogue.",0.8047,0.263,0.098,0.639,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"He begins his pamphlet on 'Human Submission' with a series of city reporter's items from newspapers (suicides, deaths from starvation and the like) as specimens of our civilized regime.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"For instance: ""'After trudging through the snow from one end of the city to the other in the vain hope of securing employment, and with his wife and six children without food and ordered to leave their home in an upper east side tenement house because of non-payment of rent, John Corcoran, a clerk, to-day ended his life by drinking carbolic acid.",0.296,0.079,0.06,0.861,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Corcoran lost his position three weeks ago through illness, and during the period of idleness his scanty savings disappeared.",-0.7096,0.0,0.301,0.699,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Yesterday he obtained work with a gang of city snow shovelers, but he was too weak from illness and was forced to quit after an hour's trial with the shovel.",-0.9081,0.0,0.305,0.695,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Then the weary task of looking for employment was again resumed.,-0.2732,0.0,0.174,0.826,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Thoroughly discouraged, Corcoran returned to his home late last night to find his wife and children without food and the notice of dispossession on the door.'",-0.4576,0.0,0.107,0.893,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+On the following morning he drank the poison.,-0.5423,0.0,0.333,0.667,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"""The records of many more such cases lie before me [Mr.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Swift goes on]; an encyclopedia might easily be filled with their kind.,0.765,0.458,0.0,0.542,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+These few I cite as an interpretation of the universe.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"'We are aware of the presence of God in His world,' says a writer in a recent English Review.",0.2732,0.116,0.0,0.884,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"[The very presence of ill in the temporal order is the condition of the perfection of the eternal order, writes Professor Royce ('The World and the Individual,' II, 385).]",0.1621,0.11,0.091,0.8,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"'The Absolute is the richer for every discord, and for all diversity which it embraces,' says F. H. Bradley (Appearance and Reality, 204).",0.1779,0.125,0.1,0.775,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"He means that these slain men make the universe richer, and that is Philosophy.",0.5267,0.207,0.0,0.793,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"But while Professors Royce and Bradley and a whole host of guileless thoroughfed thinkers are unveiling Reality and the Absolute and explaining away evil and pain, this is the condition of the only beings known to us anywhere in the universe with a developed consciousness of what the universe is.",-0.9109,0.0,0.187,0.813,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+What these people experience IS Reality.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+It gives us an absolute phase of the universe.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is the personal experience of those most qualified in all our circle of knowledge to HAVE experience, to tell us WHAT is.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Now, what does THINKING ABOUT the experience of these persons come to compared with directly, personally feeling it, as they feel it?",0.128,0.067,0.0,0.933,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"The philosophers are dealing in shades, while those who live and feel know truth.",0.3182,0.15,0.0,0.85,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"And the mind of mankind-not yet the mind of philosophers and of the proprietary class-but of the great mass of the silently thinking and feeling men, is coming to this view.",0.6808,0.162,0.0,0.838,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+They are judging the universe as they have heretofore permitted the hierophants of religion and learning to judge THEM.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"... ""This Cleveland workingman, killing his children and himself [another of the cited cases], is one of the elemental, stupendous facts of this modern world and of this universe.",-0.6597,0.0,0.136,0.864,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"It cannot be glozed over or minimized away by all the treatises on God, and Love, and Being, helplessly existing in their haughty monumental vacuity.",0.5994,0.205,0.078,0.717,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+This is one of the simple irreducible elements of this world's life after millions of years of divine opportunity and twenty centuries of Christ.,0.7506,0.225,0.0,0.775,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is in the moral world like atoms or sub-atoms in the physical, primary, indestructible.",0.4767,0.24,0.0,0.76,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+And what it blazons to man is the ... imposture of all philosophy which does not see in such events the consummate factor of conscious experience.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+These facts invincibly prove religion a nullity.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Man will not give religion two thousand centuries or twenty centuries more to try itself and waste human time; its time is up, its probation is ended.",-0.4215,0.0,0.097,0.903,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Its own record ends it.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Mankind has not sons and eternities to spare for trying out discredited systems...."" [Footnote: Morrison I.",-0.4404,0.0,0.162,0.838,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Swift, Human Submission, Part Second, Philadelphia, Liberty Press, 1905, pp.",0.6369,0.394,0.0,0.606,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+4-10.],0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Such is the reaction of an empiricist mind upon the rationalist bill of fare.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"It is an absolute 'No, I thank you.'",0.3612,0.294,0.0,0.706,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"""Religion,"" says Mr.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Swift, ""is like a sleep-walker to whom actual things are blank.""",0.5106,0.35,0.0,0.65,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"And such, tho possibly less tensely charged with feeling, is the verdict of every seriously inquiring amateur in philosophy to-day who turns to the philosophy-professors for the wherewithal to satisfy the fulness of his nature's needs.",0.2433,0.148,0.124,0.728,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Empiricist writers give him a materialism, rationalists give him something religious, but to that religion ""actual things are blank.""",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+He becomes thus the judge of us philosophers.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Tender or tough, he finds us wanting.",-0.128,0.0,0.2,0.8,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"None of us may treat his verdicts disdainfully, for after all, his is the typically perfect mind, the mind the sum of whose demands is greatest, the mind whose criticisms and dissatisfactions are fatal in the long run.",0.5574,0.232,0.162,0.605,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+It is at this point that my own solution begins to appear.,0.3182,0.173,0.0,0.827,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+I offer the oddly-named thing pragmatism as a philosophy that can satisfy both kinds of demand.,0.3612,0.182,0.091,0.727,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"It can remain religious like the rationalisms, but at the same time, like the empiricisms, it can preserve the richest intimacy with facts.",0.8625,0.324,0.0,0.676,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+I hope I may be able to leave many of you with as favorable an opinion of it as I preserve myself.,0.7003,0.259,0.052,0.69,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Yet, as I am near the end of my hour, I will not introduce pragmatism bodily now.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+I will begin with it on the stroke of the clock next time.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+I prefer at the present moment to return a little on what I have said.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"If any of you here are professional philosophers, and some of you I know to be such, you will doubtless have felt my discourse so far to have been crude in an unpardonable, nay, in an almost incredible degree.",-0.4215,0.046,0.089,0.865,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Tender-minded and tough-minded, what a barbaric disjunction!",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"And, in general, when philosophy is all compacted of delicate intellectualities and subtleties and scrupulosities, and when every possible sort of combination and transition obtains within its bounds, what a brutal caricature and reduction of highest things to the lowest possible expression is it to represent its field of conflict as a sort of rough-and-tumble fight between two hostile temperaments!",-0.8976,0.056,0.212,0.732,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+What a childishly external view!,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"And again, how stupid it is to treat the abstractness of rationalist systems as a crime, and to damn them because they offer themselves as sanctuaries and places of escape, rather than as prolongations of the world of facts.",-0.7351,0.094,0.204,0.702,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Are not all our theories just remedies and places of escape?,0.1779,0.145,0.0,0.855,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"And, if philosophy is to be religious, how can she be anything else than a place of escape from the crassness of reality's surface?",0.1779,0.072,0.0,0.928,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"What better thing can she do than raise us out of our animal senses and show us another and a nobler home for our minds in that great framework of ideal principles subtending all reality, which the intellect divines?",0.9349,0.315,0.0,0.685,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+How can principles and general views ever be anything but abstract outlines?,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Was Cologne cathedral built without an architect's plan on paper?,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Is refinement in itself an abomination?,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Is concrete rudeness the only thing that's true?,0.0772,0.248,0.221,0.531,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Believe me, I feel the full force of the indictment.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The picture I have given is indeed monstrously over-simplified and rude.,-0.4588,0.0,0.25,0.75,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"But like all abstractions, it will prove to have its use.",0.5023,0.245,0.0,0.755,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"If philosophers can treat the life of the universe abstractly, they must not complain of an abstract treatment of the life of philosophy itself.",0.5873,0.179,0.0,0.821,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"In point of fact the picture I have given is, however coarse and sketchy, literally true.",0.4215,0.167,0.0,0.833,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Temperaments with their cravings and refusals do determine men in their philosophies, and always will.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"The details of systems may be reasoned out piecemeal, and when the student is working at a system, he may often forget the forest for the single tree.",-0.2263,0.0,0.068,0.932,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"But when the labor is accomplished, the mind always performs its big summarizing act, and the system forthwith stands over against one like a living thing, with that strange simple note of individuality which haunts our memory, like the wraith of the man, when a friend or enemy of ours is dead.",-0.1901,0.203,0.214,0.583,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Not only Walt Whitman could write ""who touches this book touches a man.""",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The books of all the great philosophers are like so many men.,0.765,0.398,0.0,0.602,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Our sense of an essential personal flavor in each one of them, typical but indescribable, is the finest fruit of our own accomplished philosophic education.",0.5927,0.138,0.0,0.862,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+What the system pretends to be is a picture of the great universe of God.,0.7003,0.333,0.075,0.591,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+What it is--and oh so flagrantly!--is the revelation of how intensely odd the personal flavor of some fellow creature is.,-0.4376,0.0,0.132,0.868,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Once reduced to these terms (and all our philosophies get reduced to them in minds made critical by learning) our commerce with the systems reverts to the informal, to the instinctive human reaction of satisfaction or dislike.",-0.25,0.069,0.117,0.813,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"We grow as peremptory in our rejection or admission, as when a person presents himself as a candidate for our favor; our verdicts are couched in as simple adjectives of praise or dispraise.",0.4767,0.199,0.092,0.709,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"We measure the total character of the universe as we feel it, against the flavor of the philosophy proffered us, and one word is enough.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"""Statt der lebendigen Natur,"" we say, ""da Gott die Menschen schuf hinein""--that nebulous concoction, that wooden, that straight-laced thing, that crabbed artificiality, that musty schoolroom product, that sick man's dream!",-0.7574,0.055,0.205,0.74,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Away with it.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Away with all of them!,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Impossible!,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Impossible!,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Our work over the details of his system is indeed what gives us our resultant impression of the philosopher, but it is on the resultant impression itself that we react.",0.4215,0.119,0.0,0.881,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"Expertness in philosophy is measured by the definiteness of our summarizing reactions, by the immediate perceptive epithet with which the expert hits such complex objects off.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+But great expertness is not necessary for the epithet to come.,0.7684,0.361,0.0,0.639,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Few people have definitely articulated philosophies of their own.,0.4019,0.252,0.0,0.748,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"But almost everyone has his own peculiar sense of a certain total character in the universe, and of the inadequacy fully to match it of the peculiar systems that he knows.",0.2263,0.179,0.099,0.722,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+They don't just cover HIS world.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"One will be too dapper, another too pedantic, a third too much of a job-lot of opinions, a fourth too morbid, and a fifth too artificial, or what not.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"At any rate he and we know offhand that such philosophies are out of plumb and out of key and out of 'whack,' and have no business to speak up in the universe's name.",-0.296,0.0,0.062,0.937,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Plato, Locke, Spinoza, Mill, Caird, Hegel--I prudently avoid names nearer home!--I am sure that to many of you, my hearers, these names are little more than reminders of as many curious personal ways of falling short.",0.2714,0.12,0.093,0.786,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+It would be an obvious absurdity if such ways of taking the universe were actually true.,0.4215,0.157,0.0,0.843,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+We philosophers have to reckon with such feelings on your part.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"In the last resort, I repeat, it will be by them that all our philosophies shall ultimately be judged.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+The finally victorious way of looking at things will be the most completely IMPRESSIVE way to the normal run of minds.,0.6813,0.187,0.0,0.813,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+One word more--namely about philosophies necessarily being abstract outlines.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"There are outlines and outlines, outlines of buildings that are FAT, conceived in the cube by their planner, and outlines of buildings invented flat on paper, with the aid of ruler and compass.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"These remain skinny and emaciated even when set up in stone and mortar, and the outline already suggests that result.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"An outline in itself is meagre, truly, but it does not necessarily suggest a meagre thing.",0.2382,0.122,0.0,0.878,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+It is the essential meagreness of WHAT IS SUGGESTED by the usual rationalistic philosophies that moves empiricists to their gesture of rejection.,-0.5423,0.0,0.143,0.857,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+The case of Herbert Spencer's system is much to the point here.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Rationalists feel his fearful array of insufficiencies.,-0.4939,0.0,0.348,0.652,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"His dry schoolmaster temperament, the hurdy-gurdy monotony of him, his preference for cheap makeshifts in argument, his lack of education even in mechanical principles, and in general the vagueness of all his fundamental ideas, his whole system wooden, as if knocked together out of cracked hemlock boards--and yet the half of England wants to bury him in Westminster Abbey.",-0.5859,0.0,0.078,0.922,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+Why?,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Why does Spencer call out so much reverence in spite of his weakness in rationalistic eyes?,-0.7351,0.0,0.307,0.693,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Why should so many educated men who feel that weakness, you and I perhaps, wish to see him in the Abbey notwithstanding?",-0.0258,0.11,0.114,0.776,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+Simply because we feel his heart to be IN THE RIGHT PLACE philosophically.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"His principles may be all skin and bone, but at any rate his books try to mould themselves upon the particular shape of this, particular world's carcase.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"The noise of facts resounds through all his chapters, the citations of fact never cease, he emphasizes facts, turns his face towards their quarter; and that is enough.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+It means the right kind of thing for the empiricist mind.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"The pragmatistic philosophy of which I hope to begin talking in my next lecture preserves as cordial a relation with facts, and, unlike Spencer's philosophy, it neither begins nor ends by turning positive religious constructions out of doors--it treats them cordially as well.",0.8225,0.185,0.0,0.815,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+I hope I may lead you to find it just the mediating way of thinking that you require.,0.4404,0.162,0.0,0.838,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+Lecture II.,0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"-- What Pragmatism Means Some years ago, being with a camping party in the mountains, I returned from a solitary ramble to find everyone engaged in a ferocious metaphysical dispute.",0.3182,0.171,0.13,0.698,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+The corpus of the dispute was a squirrel--a live squirrel supposed to be clinging to one side of a tree-trunk; while over against the tree's opposite side a human being was imagined to stand.,-0.4019,0.0,0.083,0.917,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"This human witness tries to get sight of the squirrel by moving rapidly round the tree, but no matter how fast he goes, the squirrel moves as fast in the opposite direction, and always keeps the tree between himself and the man, so that never a glimpse of him is caught.",-0.3919,0.022,0.054,0.924,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+The resultant metaphysical problem now is this: DOES THE MAN GO ROUND THE SQUIRREL OR NOT?,-0.4019,0.0,0.153,0.847,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"He goes round the tree, sure enough, and the squirrel is on the tree; but does he go round the squirrel?",0.1655,0.076,0.0,0.924,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"In the unlimited leisure of the wilderness, discussion had been worn threadbare.",-0.296,0.0,0.167,0.833,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Everyone had taken sides, and was obstinate; and the numbers on both sides were even.",-0.296,0.0,0.136,0.864,negative,Pragmatism: A New Name for Some Old Ways of Thinking
+"Each side, when I appeared, therefore appealed to me to make it a majority.",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking
+"Mindful of the scholastic adage that whenever you meet a contradiction you must make a distinction, I immediately sought and found one, as follows: ""Which party is right,"" I said, ""depends on what you PRACTICALLY MEAN by 'going round' the squirrel.",0.1779,0.068,0.05,0.882,positive,Pragmatism: A New Name for Some Old Ways of Thinking
+"If you mean passing from the north of him to the east, then to the south, then to the west, and then to the north of him again",0.0,0.0,0.0,1.0,neutral,Pragmatism: A New Name for Some Old Ways of Thinking

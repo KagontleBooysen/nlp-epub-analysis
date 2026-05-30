@@ -5,22 +5,22 @@ All chart generation for the NLP pipeline.
 Charts produced
 ---------------
   1.  sentiment_arc      – Chapter sentiment trajectory (line plot)
-  2.  sentiment_heatmap  – Mean VADER score per text (bar chart)
+  2.  sentiment_bars     – Mean VADER score per text (horizontal bar chart)
   3.  ner_bars           – Entity category distribution per text
   4.  ner_heatmap        – Entity %-heatmap across corpus
   5.  tfidf_wordcloud    – Word cloud from TF-IDF scores
   6.  tfidf_bars         – Top-10 keywords per text (horizontal bars)
   7.  lda_coherence      – K vs coherence curve
-  8.  lda_topic_heatmap  – Doc × topic probability heatmap
+  8.  lda_topic_heatmap  – Doc x topic probability heatmap
   9.  lexical_diversity  – MTLD/HD-D grouped bars
-  10. sentence_hist      – Sentence length histogram (all texts overlaid)
+  10. sentence_hist      – Sentence length bar chart
 """
 import os
 import warnings
 warnings.filterwarnings("ignore")
 
 import matplotlib
-matplotlib.use("Agg")            # non-interactive backend for saving files
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 import seaborn as sns
@@ -42,9 +42,14 @@ def _save(fig, path: str):
     print(f"  Saved → {path}")
 
 
+def _short(title: str, n: int = 35) -> str:
+    """Truncate long book titles for axis labels."""
+    return title[:n] + "…" if len(title) > n else title
+
+
 # ── 1. Sentiment arc ──────────────────────────────────────────────────────────
 
-def plot_sentiment_arc(chapter_scores: list[float],
+def plot_sentiment_arc(chapter_scores: list,
                        title: str,
                        output_path: str):
     """Line plot of VADER compound score per chapter."""
@@ -59,7 +64,8 @@ def plot_sentiment_arc(chapter_scores: list[float],
     ax.fill_between(chapters, chapter_scores, 0,
                     where=[s < 0 for s in chapter_scores],
                     alpha=0.15, color="#C0392B", label="Negative")
-    ax.set_title(f"Sentiment Arc – {title}", pad=TITLE_PAD, fontsize=13, fontweight="bold")
+    ax.set_title(f"Sentiment Arc – {title[:60]}", pad=TITLE_PAD,
+                 fontsize=13, fontweight="bold")
     ax.set_xlabel("Chapter", fontsize=11)
     ax.set_ylabel("VADER Compound Score", fontsize=11)
     ax.set_ylim(-1, 1)
@@ -70,58 +76,94 @@ def plot_sentiment_arc(chapter_scores: list[float],
 # ── 2. Corpus sentiment bar chart ─────────────────────────────────────────────
 
 def plot_sentiment_bars(stats_df: pd.DataFrame, output_path: str):
-    """Bar chart of mean VADER score per text."""
-    df = stats_df.sort_values("mean_vader_compound")
+    """Horizontal bar chart of mean VADER score per text — fixed for 99 texts."""
+    df = stats_df.copy()
+    df["short_title"] = df["title"].apply(lambda t: _short(t, 40))
+    df = df.sort_values("mean_vader_compound")
+
     colors = ["#C0392B" if v < 0 else "#2E75B6" for v in df["mean_vader_compound"]]
 
-    fig, ax = plt.subplots(figsize=(10, 5))
-    bars = ax.barh(df["title"], df["mean_vader_compound"], color=colors, edgecolor="white")
+    # Tall enough to show all 99 titles without overlap
+    fig, ax = plt.subplots(figsize=(12, max(14, len(df) * 0.28)))
+    bars = ax.barh(df["short_title"], df["mean_vader_compound"],
+                   color=colors, edgecolor="white", height=0.7)
     ax.axvline(0, color="grey", linewidth=0.8)
-    ax.set_title("Mean VADER Compound Score by Text", pad=TITLE_PAD,
-                 fontsize=13, fontweight="bold")
-    ax.set_xlabel("Compound Score (−1 = most negative, +1 = most positive)", fontsize=10)
+    ax.set_title("Mean VADER Compound Score by Text",
+                 pad=TITLE_PAD, fontsize=13, fontweight="bold")
+    ax.set_xlabel("Mean VADER Compound Score  (−1 = most negative, +1 = most positive)",
+                  fontsize=10)
+    ax.set_ylabel("Text Title", fontsize=10)
+    ax.tick_params(axis="y", labelsize=7)
+    ax.tick_params(axis="x", labelsize=9)
+
     for bar, val in zip(bars, df["mean_vader_compound"]):
-        ax.text(val + (0.005 if val >= 0 else -0.005), bar.get_y() + bar.get_height()/2,
-                f"{val:+.3f}", va="center", ha="left" if val >= 0 else "right", fontsize=8)
+        ax.text(val + (0.003 if val >= 0 else -0.003),
+                bar.get_y() + bar.get_height() / 2,
+                f"{val:+.3f}", va="center",
+                ha="left" if val >= 0 else "right", fontsize=6)
     _save(fig, output_path)
 
 
-# ── 3. NER category bars ──────────────────────────────────────────────────────
+# ── 3. NER category stacked bar ───────────────────────────────────────────────
 
 def plot_ner_bars(ner_df: pd.DataFrame, output_path: str):
-    """Stacked bar chart of NER macro-category counts per text."""
-    cats = ["PERSON", "GPE/LOC", "ORG", "DATE/TIME", "OTHER"]
-    # Use percentage columns if available
+    """
+    Horizontal stacked bar chart of NER macro-category percentages.
+    Fixed for 99 texts — uses horizontal bars so titles are readable.
+    """
+    cats     = ["PERSON", "GPE/LOC", "ORG", "DATE/TIME", "OTHER"]
     pct_cols = ["pct_PERSON", "pct_GPE_LOC", "pct_ORG", "pct_DATE_TIME", "pct_OTHER"]
     use_pct  = all(c in ner_df.columns for c in pct_cols)
     plot_cols = pct_cols if use_pct else cats
 
-    df = ner_df.set_index("title")[plot_cols]
+    df = ner_df.copy()
+    df["short_title"] = df["title"].apply(lambda t: _short(t, 40))
+    df = df.set_index("short_title")[plot_cols]
     df.columns = cats
 
-    fig, ax = plt.subplots(figsize=(12, 6))
-    df.plot(kind="bar", stacked=True, ax=ax,
-            colormap="Blues", edgecolor="white", width=0.7)
-    ax.set_title("NER Entity Distribution by Text", pad=TITLE_PAD,
-                 fontsize=13, fontweight="bold")
-    ax.set_ylabel("% of Total Entities" if use_pct else "Entity Count", fontsize=10)
-    ax.set_xlabel("")
-    ax.tick_params(axis="x", rotation=35)
-    ax.legend(loc="upper right", fontsize=9)
+    colors = ["#1F4E79", "#2E75B6", "#5BA3D0", "#A8D1E7", "#D6EAF8"]
+
+    # Tall figure — one row per text
+    fig, ax = plt.subplots(figsize=(13, max(16, len(df) * 0.28)))
+
+    left = np.zeros(len(df))
+    for col, color in zip(cats, colors):
+        vals = df[col].values
+        ax.barh(df.index, vals, left=left, color=color,
+                label=col, edgecolor="white", height=0.7)
+        left += vals
+
+    ax.set_title("NER Entity Distribution by Text",
+                 pad=TITLE_PAD, fontsize=13, fontweight="bold")
+    ax.set_xlabel("% of Total Entities" if use_pct else "Entity Count", fontsize=10)
+    ax.set_ylabel("Text Title", fontsize=10)
+    ax.tick_params(axis="y", labelsize=7)
+    ax.tick_params(axis="x", labelsize=9)
+    ax.legend(loc="lower right", fontsize=9, title="Entity Type",
+              title_fontsize=9)
+    ax.set_xlim(0, 101 if use_pct else None)
     _save(fig, output_path)
 
 
 # ── 4. NER heatmap ────────────────────────────────────────────────────────────
 
 def plot_ner_heatmap(ner_df: pd.DataFrame, output_path: str):
+    """Heatmap of NER counts — fixed label sizes for 99 texts."""
     cats = ["PERSON", "GPE/LOC", "ORG", "DATE/TIME", "OTHER"]
-    matrix = ner_df.set_index("title")[cats]
+    df = ner_df.copy()
+    df["short_title"] = df["title"].apply(lambda t: _short(t, 40))
+    matrix = df.set_index("short_title")[cats]
 
-    fig, ax = plt.subplots(figsize=(9, len(ner_df) * 0.6 + 2))
+    fig, ax = plt.subplots(figsize=(10, max(18, len(df) * 0.28)))
     sns.heatmap(matrix, annot=True, fmt=".0f", cmap="Blues",
-                linewidths=0.5, ax=ax)
-    ax.set_title("Named Entity Counts – Corpus Heatmap", pad=TITLE_PAD,
-                 fontsize=13, fontweight="bold")
+                linewidths=0.4, ax=ax,
+                annot_kws={"size": 6})
+    ax.set_title("Named Entity Counts — Corpus Heatmap",
+                 pad=TITLE_PAD, fontsize=13, fontweight="bold")
+    ax.set_xlabel("Entity Category", fontsize=10)
+    ax.set_ylabel("Text Title", fontsize=10)
+    ax.tick_params(axis="y", labelsize=7)
+    ax.tick_params(axis="x", labelsize=9)
     _save(fig, output_path)
 
 
@@ -136,34 +178,39 @@ def plot_tfidf_wordcloud(kw_dict: dict, title: str, output_path: str):
         return
 
     wc = WordCloud(width=800, height=400, background_color="white",
-                   colormap="Blues", max_words=60,
-                   prefer_horizontal=0.9)
+                   colormap="Blues", max_words=60, prefer_horizontal=0.9)
     wc.generate_from_frequencies(freq)
 
     fig, ax = plt.subplots(figsize=(10, 4))
     ax.imshow(wc, interpolation="bilinear")
     ax.axis("off")
-    ax.set_title(f"TF-IDF Word Cloud – {title}", pad=TITLE_PAD,
-                 fontsize=13, fontweight="bold")
+    ax.set_title(f"TF-IDF Word Cloud – {title[:60]}",
+                 pad=TITLE_PAD, fontsize=13, fontweight="bold")
     _save(fig, output_path)
 
 
 # ── 6. TF-IDF keyword bars ────────────────────────────────────────────────────
 
 def plot_tfidf_bars(kw_df: pd.DataFrame, title: str, output_path: str, n: int = 10):
+    """Top-N TF-IDF keywords for one text."""
     df = kw_df[kw_df["title"] == title].head(n).sort_values("tfidf_score")
 
     fig, ax = plt.subplots(figsize=(8, 4))
-    ax.barh(df["keyword"], df["tfidf_score"], color="#2E75B6", edgecolor="white")
-    ax.set_title(f"Top {n} Keywords (TF-IDF) – {title}", pad=TITLE_PAD,
-                 fontsize=12, fontweight="bold")
+    ax.barh(df["keyword"], df["tfidf_score"],
+            color="#2E75B6", edgecolor="white")
+    ax.set_title(f"Top {n} Keywords (TF-IDF) – {title[:60]}",
+                 pad=TITLE_PAD, fontsize=12, fontweight="bold")
     ax.set_xlabel("TF-IDF Score", fontsize=10)
+    ax.set_ylabel("Keyword", fontsize=10)
+    ax.tick_params(axis="y", labelsize=9)
+    ax.tick_params(axis="x", labelsize=9)
     _save(fig, output_path)
 
 
 # ── 7. LDA coherence curve ────────────────────────────────────────────────────
 
 def plot_coherence_curve(coherence_scores: dict, output_path: str):
+    """K vs C_v coherence line plot."""
     if not coherence_scores:
         return
     ks   = sorted(coherence_scores.keys())
@@ -178,6 +225,7 @@ def plot_coherence_curve(coherence_scores: dict, output_path: str):
                  pad=TITLE_PAD, fontsize=13, fontweight="bold")
     ax.set_xlabel("K (Number of Topics)", fontsize=11)
     ax.set_ylabel("C_v Coherence Score", fontsize=11)
+    ax.tick_params(axis="both", labelsize=9)
     ax.legend(fontsize=10)
     _save(fig, output_path)
 
@@ -185,47 +233,83 @@ def plot_coherence_curve(coherence_scores: dict, output_path: str):
 # ── 8. LDA topic heatmap ──────────────────────────────────────────────────────
 
 def plot_topic_heatmap(doc_topic_df: pd.DataFrame, output_path: str):
+    """Document × topic probability heatmap — fixed for 99 texts."""
     topic_cols = [c for c in doc_topic_df.columns if c.startswith("topic_")]
-    matrix = doc_topic_df.set_index("title")[topic_cols]
+    df = doc_topic_df.copy()
+    df["short_title"] = df["title"].apply(lambda t: _short(t, 35))
+    matrix = df.set_index("short_title")[topic_cols]
 
-    fig, ax = plt.subplots(figsize=(max(10, len(topic_cols)), len(doc_topic_df) * 0.6 + 2))
-    sns.heatmap(matrix, annot=True, fmt=".2f", cmap="Blues",
-                linewidths=0.4, ax=ax, vmin=0, vmax=0.5)
-    ax.set_title("Document–Topic Probability Matrix (LDA)", pad=TITLE_PAD,
-                 fontsize=13, fontweight="bold")
+    fig, ax = plt.subplots(figsize=(max(12, len(topic_cols) * 0.8),
+                                    max(18, len(df) * 0.28)))
+    sns.heatmap(matrix, annot=False, cmap="Blues",
+                linewidths=0.3, ax=ax, vmin=0, vmax=0.5)
+    ax.set_title("Document–Topic Probability Matrix (LDA)",
+                 pad=TITLE_PAD, fontsize=13, fontweight="bold")
+    ax.set_xlabel("Topic", fontsize=10)
+    ax.set_ylabel("Text Title", fontsize=10)
+    ax.tick_params(axis="y", labelsize=7)
+    ax.tick_params(axis="x", labelsize=9)
     _save(fig, output_path)
 
 
 # ── 9. Lexical diversity bars ─────────────────────────────────────────────────
 
 def plot_lexical_diversity(stats_df: pd.DataFrame, output_path: str):
-    df = stats_df[["title", "mtld", "hdd"]].dropna().set_index("title")
+    """
+    Two horizontal bar charts side by side — MTLD and HD-D.
+    Fixed for 99 texts: tall figure, readable y-axis labels.
+    """
+    df = stats_df[["title", "mtld", "hdd"]].dropna().copy()
+    df["short_title"] = df["title"].apply(lambda t: _short(t, 38))
+    df = df.sort_values("mtld")
 
-    fig, axes = plt.subplots(1, 2, figsize=(14, 5), sharey=True)
-    for ax, col, label in zip(axes, ["mtld", "hdd"],
-                               ["MTLD Score", "HD-D Score"]):
-        vals = df[col].sort_values()
-        ax.barh(vals.index, vals.values, color="#2E75B6", edgecolor="white")
-        ax.set_title(label, fontsize=12, fontweight="bold")
-        ax.set_xlabel(label, fontsize=10)
+    # Tall enough for all 99 titles
+    fig, axes = plt.subplots(1, 2, figsize=(18, max(16, len(df) * 0.28)))
 
-    fig.suptitle("Lexical Diversity Metrics", fontsize=14, fontweight="bold", y=1.01)
+    for ax, col, label, xlabel in zip(
+        axes,
+        ["mtld", "hdd"],
+        ["MTLD Score", "HD-D Score"],
+        ["MTLD Score (higher = more lexically diverse)",
+         "HD-D Score (0–1, higher = more diverse)"]
+    ):
+        vals = df.set_index("short_title")[col]
+        ax.barh(vals.index, vals.values,
+                color="#2E75B6", edgecolor="white", height=0.7)
+        ax.set_title(label, fontsize=12, fontweight="bold", pad=8)
+        ax.set_xlabel(xlabel, fontsize=9)
+        ax.set_ylabel("Text Title", fontsize=9)
+        ax.tick_params(axis="y", labelsize=7)
+        ax.tick_params(axis="x", labelsize=8)
+
+    fig.suptitle("Lexical Diversity Metrics — All 99 Texts",
+                 fontsize=14, fontweight="bold", y=1.01)
+    plt.tight_layout()
     _save(fig, output_path)
 
 
-# ── 10. Sentence length histogram ─────────────────────────────────────────────
+# ── 10. Sentence length bar chart ─────────────────────────────────────────────
 
 def plot_sentence_histogram(stats_df: pd.DataFrame, output_path: str):
-    """Compare mean sentence length across texts."""
-    df = stats_df[["title", "mean_sent_len", "stdev_sent_len"]].dropna()
+    """
+    Horizontal bar chart of mean sentence length per text.
+    Fixed for 99 texts: tall figure, readable labels, proper axis labels.
+    """
+    df = stats_df[["title", "mean_sent_len", "stdev_sent_len"]].dropna().copy()
+    df["short_title"] = df["title"].apply(lambda t: _short(t, 38))
     df = df.sort_values("mean_sent_len")
 
-    fig, ax = plt.subplots(figsize=(10, 5))
-    ax.barh(df["title"], df["mean_sent_len"], xerr=df["stdev_sent_len"],
-            color="#2E75B6", edgecolor="white", capsize=4, error_kw={"elinewidth": 1})
-    ax.set_title("Mean Sentence Length (tokens ± 1 SD)", pad=TITLE_PAD,
-                 fontsize=13, fontweight="bold")
-    ax.set_xlabel("Tokens per Sentence", fontsize=10)
+    fig, ax = plt.subplots(figsize=(12, max(16, len(df) * 0.28)))
+    ax.barh(df["short_title"], df["mean_sent_len"],
+            xerr=df["stdev_sent_len"],
+            color="#2E75B6", edgecolor="white",
+            capsize=3, error_kw={"elinewidth": 0.8})
+    ax.set_title("Mean Sentence Length per Text (tokens ± 1 SD)",
+                 pad=TITLE_PAD, fontsize=13, fontweight="bold")
+    ax.set_xlabel("Mean Tokens per Sentence", fontsize=10)
+    ax.set_ylabel("Text Title", fontsize=10)
+    ax.tick_params(axis="y", labelsize=7)
+    ax.tick_params(axis="x", labelsize=9)
     _save(fig, output_path)
 
 

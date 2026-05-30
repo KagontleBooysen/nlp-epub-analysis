@@ -1,0 +1,173 @@
+"""
+compute_agreement.py
+Computes inter-rater reliability and VADER-human correlation.
+
+Run AFTER all three raters have completed their ratings and
+you have pasted them into gold_standard_MASTER.xlsx:
+    python compute_agreement.py
+"""
+
+import pandas as pd
+import numpy as np
+from scipy.stats import pearsonr
+from sklearn.metrics import mean_absolute_error
+import warnings
+warnings.filterwarnings('ignore')
+
+# ── Load master sheet ──────────────────────────────────────────────────────────
+print("Loading ratings from gold_standard_MASTER.xlsx...")
+try:
+    df = pd.read_excel('gold_standard_MASTER.xlsx',
+                       sheet_name='MASTER (Researcher Only)',
+                       header=1)
+    df.columns = df.columns.str.strip()
+except Exception as e:
+    print(f"ERROR loading file: {e}")
+    print("Make sure gold_standard_MASTER.xlsx is in the same folder.")
+    exit()
+
+# Rename columns
+col_map = {
+    df.columns[0]: 'ID',
+    df.columns[1]: 'Genre',
+    df.columns[2]: 'Title',
+    df.columns[3]: 'Sentence',
+    df.columns[4]: 'VADER',
+    df.columns[5]: 'R1',
+    df.columns[6]: 'R2',
+    df.columns[7]: 'R3',
+}
+df = df.rename(columns=col_map)
+df = df.dropna(subset=['R1', 'R2', 'R3', 'VADER'])
+df[['VADER','R1','R2','R3']] = df[['VADER','R1','R2','R3']].apply(pd.to_numeric, errors='coerce')
+df = df.dropna(subset=['R1', 'R2', 'R3', 'VADER'])
+df['Mean_Human'] = df[['R1','R2','R3']].mean(axis=1)
+
+print(f"Valid rated sentences: {len(df)}")
+print()
+
+# ── Fleiss' Kappa ──────────────────────────────────────────────────────────────
+def fleiss_kappa(ratings_matrix):
+    """
+    Compute Fleiss' kappa for categorical ratings.
+    ratings_matrix: rows = items, cols = raters, values = categories
+    """
+    n_items, n_raters = ratings_matrix.shape
+    categories = sorted(set(ratings_matrix.flatten().tolist()))
+    n_cats = len(categories)
+
+    cat_map = {c: i for i, c in enumerate(categories)}
+    mat = np.zeros((n_items, n_cats))
+    for i in range(n_items):
+        for j in range(n_raters):
+            cat = ratings_matrix[i, j]
+            if cat in cat_map:
+                mat[i, cat_map[cat]] += 1
+
+    # P_i = proportion of agreeing pairs for each item
+    P_i = (np.sum(mat**2, axis=1) - n_raters) / (n_raters * (n_raters - 1))
+    P_bar = P_i.mean()
+
+    # P_j = proportion of ratings in each category
+    P_j = mat.sum(axis=0) / (n_items * n_raters)
+    P_e_bar = np.sum(P_j**2)
+
+    if P_e_bar == 1:
+        return 1.0
+
+    kappa = (P_bar - P_e_bar) / (1 - P_e_bar)
+    return round(kappa, 4)
+
+
+ratings_matrix = df[['R1','R2','R3']].round(0).astype(int).values
+kappa = fleiss_kappa(ratings_matrix)
+
+print("=" * 55)
+print("  INTER-RATER RELIABILITY")
+print("=" * 55)
+print(f"  Fleiss' κ = {kappa}")
+if kappa >= 0.80:
+    print("  Interpretation: Almost perfect agreement (κ ≥ 0.80)")
+elif kappa >= 0.60:
+    print("  Interpretation: Substantial agreement (κ ≥ 0.60) ✓ PASSES THRESHOLD")
+elif kappa >= 0.40:
+    print("  Interpretation: Moderate agreement (κ 0.40–0.60) ⚠ BELOW THRESHOLD")
+else:
+    print("  Interpretation: Fair/Poor agreement (κ < 0.40) ✗ FAILS THRESHOLD")
+print()
+
+# ── Pearson r — overall ────────────────────────────────────────────────────────
+r_overall, p_overall = pearsonr(df['VADER'], df['Mean_Human'])
+mae_overall = mean_absolute_error(df['VADER'], df['Mean_Human'])
+
+print("=" * 55)
+print("  VADER vs HUMAN CORRELATION — OVERALL")
+print("=" * 55)
+print(f"  Pearson r  = {r_overall:.4f}")
+print(f"  p-value    = {p_overall:.4f} {'(significant)' if p_overall < 0.05 else '(not significant)'}")
+print(f"  MAE        = {mae_overall:.4f}")
+print()
+
+# ── Pearson r — by genre ───────────────────────────────────────────────────────
+print("=" * 55)
+print("  VADER vs HUMAN CORRELATION — BY GENRE")
+print("=" * 55)
+
+genre_results = []
+for genre in sorted(df['Genre'].unique()):
+    sub = df[df['Genre'] == genre]
+    if len(sub) < 5:
+        continue
+    r, p = pearsonr(sub['VADER'], sub['Mean_Human'])
+    mae = mean_absolute_error(sub['VADER'], sub['Mean_Human'])
+    genre_results.append({
+        'Genre': genre,
+        'N': len(sub),
+        'Pearson_r': round(r, 4),
+        'p_value': round(p, 4),
+        'MAE': round(mae, 4),
+        'Significant': 'Yes' if p < 0.05 else 'No'
+    })
+    print(f"  {genre:<25} r={r:+.4f}  MAE={mae:.4f}  p={'<0.05' if p<0.05 else f'{p:.3f}'}")
+
+print()
+
+# ── Pearson r — by text ────────────────────────────────────────────────────────
+print("=" * 55)
+print("  VADER vs HUMAN CORRELATION — KEY TEXTS")
+print("=" * 55)
+
+key_texts = ['Frankenstein', 'Dracula', 'Peter Pan', 'Faust', 
+             'Carmilla', 'The Secret Garden', 'Germinal']
+
+for text in key_texts:
+    sub = df[df['Title'].str.contains(text[:15], case=False, na=False)]
+    if len(sub) >= 5:
+        r, p = pearsonr(sub['VADER'], sub['Mean_Human'])
+        mae = mean_absolute_error(sub['VADER'], sub['Mean_Human'])
+        print(f"  {text:<30} r={r:+.4f}  MAE={mae:.4f}  n={len(sub)}")
+
+print()
+
+# ── Save results ───────────────────────────────────────────────────────────────
+genre_df = pd.DataFrame(genre_results)
+genre_df.to_csv('gold_standard_results.csv', index=False)
+
+summary = pd.DataFrame([{
+    'Fleiss_Kappa': kappa,
+    'Kappa_Threshold': '≥ 0.60',
+    'Kappa_Pass': 'Yes' if kappa >= 0.60 else 'No',
+    'Overall_Pearson_r': round(r_overall, 4),
+    'Overall_p_value': round(p_overall, 4),
+    'Overall_MAE': round(mae_overall, 4),
+    'N_sentences': len(df),
+}])
+summary.to_csv('gold_standard_summary.csv', index=False)
+
+print("=" * 55)
+print("  FILES SAVED")
+print("=" * 55)
+print("  gold_standard_results.csv   — by-genre correlations")
+print("  gold_standard_summary.csv   — overall statistics")
+print()
+print("  Use these numbers in Section 6 of your report.")
