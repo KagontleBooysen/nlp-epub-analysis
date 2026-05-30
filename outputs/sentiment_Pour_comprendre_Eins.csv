@@ -1,0 +1,360 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Pour comprendre Einstein This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.068,0.107,0.825,negative,Pour comprendre Einstein
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Pour comprendre Einstein
+"Title : Pour comprendre Einstein Author : Théophile Moreux Release date : March 7, 2026 [eBook #78128] Language : French Original publication : Paris: Gaston Doin, 1922 Other information and formats : www.gutenberg.org/ebooks/78128 Credits : Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced from images made available by the HathiTrust Digital Library and the Internet Archive.)",0.5859,0.083,0.0,0.917,positive,Pour comprendre Einstein
+*** START OF THE PROJECT GUTENBERG EBOOK POUR COMPRENDRE EINSTEIN *** Pour comprendre EINSTEIN… PAR l'Abbé Th.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"MOREUX DIRECTEUR DE L'OBSERVATOIRE DE BOURGES Avec figures dans le texte PARIS LIBRAIRIE OCTAVE DOIN GASTON DOIN, ÉDITEUR 8, PLACE DE L'ODÉON , 8 1922 Tous droits réservés Copyright by Gaston Doin, 1922 DU MÊME AUTEUR A LA MÊME LIBRAIRIE Bibliothèque d'Éducation scientifique : Pour comprendre l'Arithmétique , un vol.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"in-16 de 216 pages avec figures, cartonné 8 fr.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"» Pour comprendre l'Algèbre , un vol.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"in-16 de 252 pages avec figures, cartonné 8 fr.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"» Pour comprendre la Géométrie plane , un vol.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"in-16 de 252 pages avec 218 figures, cartonné 8 fr.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"» Les Énigmes de la Science , un vol.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+in-16 de 304 pages avec fig.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+dans le texte et 8 pl.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+hors texte 8 fr.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"» Origine et Formation des Mondes , un volume in-8 de 416 pages avec 124 figures dans le texte et 18 planches hors texte 25 fr.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"» L'Étude de la Lune, avec Dictionnaire sélénographique , nouvelle édition, un volume in-16 de 168 pages 6 fr.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"» Petit Formulaire mathématique ( Tables de logarithmes, des lignes trigonométriques, des carrés et des cubes, des racines carrées et cubiques, de la mortalité, etc., etc.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"), un vol.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"in-16 de 96 pages, cartonné 5 fr.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+» Les autres Mondes sont-ils habités ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"un volume in-16 ( Nouvelle édition, sous presse ).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"POUR COMPRENDRE EINSTEIN… INTRODUCTION Peu de théories, en ces dernières années, ont suscité autant de conversations et de controverses que les doctrines de la relativité : Confinées tout d'abord en un cénacle fort restreint de savants, elles ont peu à peu gagné les salons, la presse, le grand public.",0.3612,0.061,0.03,0.909,positive,Pour comprendre Einstein
+"Lors de son dernier passage à Paris, Einstein lui-même se demandait les raisons d'un tel engouement pour un sujet de pure science et dont la discussion, en raison des difficultés d'ordre mathématique qu'elle comporte, ne saurait être fructueuse en dehors des initiés.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Or, il suffit d'être en contact permanent avec ce même public pour saisir les causes profondes de son émoi.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Non certes que les Traités sérieux sur la Relativité, s'étalant aux vitrines des éditeurs, aient pu, malgré leur multiplicité, pénétrer tous les milieux, mais simplement parce que nous avons assisté en ces derniers mois, à la glose de la doctrine, par des vulgarisateurs dont la plupart, ayant à peine saisi les nuances si subtiles des théories en jeu, n'ont pas craint d'en dénaturer les conclusions.",-0.2732,0.0,0.033,0.967,negative,Pour comprendre Einstein
+"Dans une sphère plus élevée, des physiciens qui, depuis plusieurs années, professent l'exposé des nouveaux principes, ont su piquer l'intérêt de leurs élèves en énonçant des corollaires paradoxaux déduits, avec toutes les apparences de la logique, de théorèmes paraissant désormais acquis à la science.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"En soulignant la relativité du temps, certains auteurs n'ont pas manqué de pénétrer sur le terrain de la philosophie pour nous inviter à méditer à nouveau sur la brièveté de la vie humaine, qu'un mouvement rapide, ont-ils ajouté, pourrait singulièrement allonger ; d'autres ont fait miroiter à nos yeux la possibilité d'une éternelle jeunesse entrevue grâce aux effarants principes déduits de la théorie.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"M. P. Langevin, l'éminent professeur du Collège de France, est allé plus loin : imitant ces prédicateurs en quête d'une fin de sermon, il nous a conviés « à travailler en communion de pensée avec Einstein qui dans l'Histoire aura le mérite essentiel d'avoir ouvert toute grande aux hommes une nouvelle fenêtre sur l'éternité ».",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Du coup les plus indifférents aux conclusions de la science dans les champs les plus variés, ont pris intérêt à l'exploration d'un territoire auquel ils étaient demeurés étrangers depuis la fin de leurs études, et les acquisitions des cinquante dernières années, qui auparavant n'avaient pas su retenir leur attention, furent pour eux la révélation subite d'horizons inconnus.",0.4215,0.048,0.0,0.952,positive,Pour comprendre Einstein
+"Au milieu de cette abondance de faits, de découvertes et de théories, comment un profane ne se trouverait-il pas déconcerté ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Quel jugement portera-t-il sur l'œuvre d'Einstein, s'il n'a pas suivi la marche et le progrès des idées scientifiques depuis un demi-siècle pour le moins.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Car, en fait, pour comprendre la doctrine actuelle de la Relativité, il faut pouvoir embrasser d'un seul regard les domaines étroitement liés entre eux de la Physique et de la Chimie moléculaire, avoir présente à l'esprit la vieille querelle de l'éther, avoir assisté, ne serait-ce que d'une façon rétrospective, à la lente découverte des secrets de la nature encore mystérieuse de la matière ; bref, posséder des idées nettes sur les efforts et les luttes engagées par les physiciens depuis Newton, pour arriver, après de fantastiques chevauchées et parfois de retentissants échecs, à la conquête de quelques propositions en apparence solidement établies, bien que souvent contradictoires.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"C'est qu'en réalité, au lieu de se fondre en un tout harmonieux et bien équilibré, les différentes parties de la Physique et de la Mécanique, au seuil du XX e siècle, apparaissaient de plus en plus étrangères l'une à l'autre et les expériences célèbres de Fizeau et de Michelson sur la vitesse de la lumière n'avaient fait récemment qu'accentuer les hiatus et souligner les antinomies.",0.296,0.041,0.023,0.936,positive,Pour comprendre Einstein
+"La considération et l'application d'une formule mathématique opérant une sorte de synthèse satisfaisant à la fois le monde infiniment petit de l'atome et l'incommensurablement grand, en un mot adéquate aux phénomènes de la Physique moléculaire comme aux lois de la Mécanique céleste, une formule synthétique, même acquise en posant quelques postulats proches de la vérité, voilà ce qu'a cherché Einstein.",0.4588,0.049,0.0,0.951,positive,Pour comprendre Einstein
+Le système qu'il nous propose est-il définitif ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Évidemment non.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Les meilleures théories, l'Histoire nous l'apprend, ne sont que fragile échafaudage et le Temps, ce tremplin d'Einstein, en a plus ou moins vite raison.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Au surplus, la question est de tout autre ordre : il s'agit simplement de savoir si les principes posés par Einstein, aidé de son professeur Minkowski, seront de quelque utilité pour l'avancement de la science ?",-0.128,0.0,0.043,0.957,negative,Pour comprendre Einstein
+La réponse diffère suivant les points de vue.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Une hypothèse même négative constitue toujours un progrès ; la théorie de la Relativité, n'en doutons aucunement, exercera sur l'évolution des idées une action bienfaisante.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Mais jouera-t-elle le rôle envisagé par ses promoteurs, c'est-à-dire celui de relier les faits actuellement connus ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Voilà le point particulier que nous étudierons.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Parmi ceux qui ont vulgarisé l'œuvre du physicien germano-suisse, il s'est trouvé des commentateurs trop zélés qui n'ont pas craint d'attribuer à Einstein des acquisitions fort nombreuses que les physiciens modernes avaient depuis longtemps classées au rang des dogmes scientifiques.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"A vrai dire, ces acquisitions étaient quelque peu disparates et, faut-il l'avouer, plutôt éparses dans le domaine de la science ; on y eût souhaité un peu plus d'ordre et d'enchaînement et c'est alors que survint Einstein, dont l'ambition fut celle d'être un « homme de liaison » ne se contentant pas de ranger et de classer suivant les étiquettes, mais indiquant, autant que possible, la raison d'un ordre logique, en apparence assez satisfaisant.",-0.4588,0.0,0.042,0.958,negative,Pour comprendre Einstein
+"Pour juger de l'œuvre accomplie, il faut donc de toute nécessité jeter un coup d'œil sur le terrain exploré par les physiciens à la fin du siècle précédent, nous rendre compte de leurs positions stratégiques et enfin situer l'emplacement de la forteresse qu'il s'agissait d'enlever.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"CHAPITRE PREMIER LA SCIENCE AVANT EINSTEIN On avait l'habitude autrefois de considérer l'atome comme une matière inerte, simple support d'énergie pour ainsi dire, réceptacle d'une force mystérieuse et inconnue ; l'atome, en outre, restait insécable… quoique étendu.",-0.0772,0.068,0.076,0.856,negative,Pour comprendre Einstein
+"On a beau répéter le mot de Bacon : « Physique, garde-toi de la Métaphysique », lorsqu'un physicien nous expose ses idées, nous avons le droit de lui demander des précisions ; nous avons beau faire, nous cherchons, malgré nous, à y voir clair et à classer nos notions nouvelles dans un ordre logique, soucieux toujours d'éviter les contradictions.",-0.4404,0.0,0.072,0.928,negative,Pour comprendre Einstein
+"C'est qu'en fait, il n'y a pas deux façons de raisonner, l'une pour l'homme de science, l'autre pour le philosophe.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Parmi ces derniers, ceux qui font appel à l'intuition finissent toujours par ne rien expliquer ; quant aux autres, je veux parler des savants, s'ils constatent, je les comparerai sous un certain rapport aux premiers ; il ne suffit pas à notre esprit avide de savoir, d'enregistrer des faits sans lien apparent.",0.2732,0.043,0.0,0.957,positive,Pour comprendre Einstein
+"Découvrir une cause en jeu derrière le phénomène, puis remonter la série enchaînée des causes, voilà ce que j'appelle faire de la vraie science… et aussi de la Métaphysique, quoi qu'on dise.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Et la preuve, c'est que les philosophes sont restés des siècles à discuter sur la nature de l'espace et de l'étendue sans aboutir à autre chose qu'à des sophismes et à des contradictions ; il a fallu l'intervention du physicien pour que nous commencions à entrevoir le mot de l'énigme.",-0.3182,0.0,0.051,0.949,negative,Pour comprendre Einstein
+"Ainsi, malgré lui et inconsciemment, le savant se laisse entraîner par une pente insensible vers la Métaphysique.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+La conquête d'une partie des secrets de l'atome est l'exemple le plus typique peut-être de cette collaboration étroite d'esprits orientés vers des directions diverses.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Les savants, depuis les travaux de Lorentz, de Larmor, de Zeeman, auxquels se sont ajoutés ceux de Curie, de Perrin, de Bohr et de tant d'autres, ont mis en évidence la composition extraordinairement complexe de l'atome.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Lorsque par une belle nuit, l'astronome, l'œil au télescope, résout en étoiles distinctes les plages phosphorescentes de la Voie lactée, rien ne lui laisse encore supposer qu'autour de ces milliers d'astres tournent des planètes analogues à celles qui gravitent dans notre système, près du Soleil.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"A l'œil nu, il n'y a devant lui qu'une tache blanchâtre et ses moyens optiques l'avertissent que c'est là une illusion ; la tache est en réalité formée d'une discontinuité de points brillants et si ses instruments étaient plus puissants, nul doute que chaque étoile se résoudrait encore, dans la plupart des cas, en système planétaire.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Fig.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+1.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+-- Comment les physiciens se représentent la structure d'un atome : autour d'un noyau positif tournent des électrons chargés d'électricité négative.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Or, ce que nous contemplons sur la voûte céleste n'est que l'image agrandie de ce qui se passe plus près de nous.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Le papier sur lequel j'écris n'est qu'un assemblage fantastique de milliers de milliards d'atomes représentant chacun pour son propre compte les étoiles de l'univers, avec cette différence toutefois qu'ici, l'agitation est caractérisée par des vitesses bien supérieures aux mouvements propres des étoiles.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Les lacunes entre atomes sont de même ordre de grandeur et toute matière tombant sous nos sens est prodigieusement discontinue .,0.5267,0.152,0.0,0.848,positive,Pour comprendre Einstein
+Ce résultat est quelque peu déconcertant lorsqu'on ajoute qu'une tête d'épingle renferme au moins 8 sextillions de parties distinctes.,0.4019,0.137,0.0,0.863,positive,Pour comprendre Einstein
+"Penchons-nous maintenant sur l'atome lui-même ; nous allons, à notre stupéfaction, découvrir en lui le modèle d'un véritable système solaire.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Autour d'un noyau chargé d'électricité positive ( ion ), circulent des corps d'une extrême ténuité : ce sont les électrons chargés négativement et qui décrivent de vraies orbites à la façon des planètes [1] .",0.5574,0.107,0.0,0.893,positive,Pour comprendre Einstein
+"Les atomes de chaque substance ont un noyau différent, mais leurs électrons, tous identiques, paraissent varier en nombre et forment ainsi, avec leur noyau central, la caractéristique du corps [2] .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"[1] Pour de plus amples détails V. J. Perrin : Les Atomes , p. 259, 7 e éd.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"(Alcan, Paris, 1914).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[2] Max Born .,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"-- La Constitution de la Matière , p. 3 (A. Blanchard, Paris, 1922).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+La quantité d'électrons circulant dans la moindre portion de matière est donc considérable : prenons comme exemple une petite sphère d'hydrogène de 1/2 millimètre de diamètre seulement ; imaginez-vous combien il vous faudrait d'années pour en détacher les électrons à raison de un par seconde ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Pas moins de un million de siècles !,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Et cependant, au sein du corps le plus dur, ces éléments ne se touchent pas ; le diamètre des noyaux est de l'ordre de grandeur de un trillionième de millimètre et l'électron s'en trouve toujours éloigné dans son mouvement de circulation ; le rayon de son orbite, dans le cas de l'hydrogène, est de 53 milliardièmes de millimètre en moyenne.",0.5267,0.056,0.0,0.944,positive,Pour comprendre Einstein
+"Trajectoire et mouvement y paraissent régis par des lois analogues à celles de Képler pour les corps célestes, mais ici les vitesses sont fantastiques [3] .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[3] N. Bohr .,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+-- Phil.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Mag.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"26, pp.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"1, 476 (1913).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Dans notre système, Mercure, la planète la plus proche du Soleil, accomplit sa révolution en 88 jours, à raison de 48 kilomètres en moyenne par seconde, tandis que dans l'atome d'hydrogène, notre électron parcourt un espace de 2 000 kilomètres à chaque seconde et trouve le moyen, pendant ce faible laps de temps, d'accomplir 620 000 milliards de révolutions autour de son soleil [4] .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"[4] W. Nernst : Traité de Chimie Générale , 2 e éd.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"(Hermann, Paris, 1922).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Voilà ce que nous apprennent sur la structure de l'atome, les travaux réalisés dans la dernière décade et l'on comprend mieux maintenant et l'incroyable énergie renfermée dans les édifices atomiques et les difficultés rencontrées lorsqu'on essaie de les dissocier.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Généralement, en effet, en raison de la stabilité de l'atome, cette énergie interne est latente, cachée pour ainsi dire, mais si nous arrivions à l'utiliser, nous accomplirions des travaux de géants.",-0.4588,0.0,0.094,0.906,negative,Pour comprendre Einstein
+"C'est ainsi que 20 kilogrammes de charbon dissociés complètement, fourniraient à la France le même résultat que les 60 millions de tonnes de houille dont nous avons besoin chaque année pour alimenter notre industrie et nos foyers.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Cette énergie latente se montre au moment de la désagrégation de l'atome, et celle-ci est toujours spontanée dans les substances très radioactives qui émettent alors des particules libérées à des vitesses énormes atteignant jusqu'à 290 000 kilomètres par seconde, presque la vitesse de la lumière.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Cette particularité a donné l'idée à Rutherford d'employer des corpuscules de ce genre pour bombarder d'autres atomes et essayer de leur soustraire quelques électrons.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Et ce fut ainsi qu'après avoir lancé un faisceau de rayons alpha dans une enceinte renfermant de l'azote, il eut la joie d'obtenir la dissociation d'une partie de ce dernier gaz en atomes d'hydrogène.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"A côté de ces expériences que le savant anglais continue sans relâche, avec l'espoir, nous disait-il récemment, de faire encore mieux, d'ingénieux physiciens MM.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Wendt et Iron en ont imaginé d'un autre genre.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Nous savons depuis longtemps que les étoiles chaudes sont loin de renfermer tous les corps prétendus simples que nous connaissons ; ceux-ci doivent donc être dissociés par la chaleur, ramenés à un état plus primordial et plus proche de l'hydrogène qui forme l'étoffe même de tous les éléments.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Tout le problème revient donc à trouver des sources calorifiques supérieures à celles dont nous disposons.,-0.128,0.0,0.103,0.897,negative,Pour comprendre Einstein
+"Et c'est ce qu'a fourni la décharge brusque de condensateurs à grande capacité : un fil de tungstène put être ainsi porté à une température de 30 000° et sa volatilisation donna comme résidu, des atomes d'hélium proche parent de l'hydrogène [5] .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"[5] V. Revue du Ciel , juin 1922.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Nous arrivons donc à la réalisation de cette chimère caressée pendant si longtemps par les vieux alchimistes : la transmutation des métaux.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Et voilà nos modernes physiciens rejoignant sans le vouloir ceux dont ils se sont tant moqués : les métaphysiciens d'antan.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Mais l'étude de l'atome nous réservait bien d'autres surprises.,0.2263,0.192,0.0,0.808,positive,Pour comprendre Einstein
+"Depuis longtemps, Faraday avait été conduit par ses expériences, à soupçonner la nature discontinue de l'électricité et peu à peu on en était venu à admettre l'existence dans les phénomènes électriques, d'une sorte d'unité naturelle qu'on nomma l'électron .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Ainsi, par un détour inattendu, l'électron des physiciens rejoignait celui des chimistes : tous deux n'étaient au fond qu'un même objet, une simple charge électrique.",0.4404,0.112,0.0,0.888,positive,Pour comprendre Einstein
+"Mais alors, une autre question se posait : sur quoi reposait cette charge, car enfin, il fallait un support à cette unité de quantité électrique, un substrat, une substance en un mot, une masse pondérable comme disaient les contemporains de Galilée.",0.4019,0.066,0.0,0.934,positive,Pour comprendre Einstein
+"Mais ici, nous allons pénétrer dans un domaine tellement extraordinaire qu'il nous faut exposer de nouveaux faits et nous livrer à une digression nécessaire.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Aussi impressionnantes que soient les théories relativistes actuelles, elles n'ont, à tout prendre, révélé aux physiciens avertis, rien de bien nouveau.",-0.128,0.0,0.073,0.927,negative,Pour comprendre Einstein
+"Il suffit en effet de jeter un coup d'œil rétrospectif sur l'histoire de la science depuis deux cents ans, pour voir que la doctrine de la relativité a envahi tous les domaines au fur et à mesure de nos acquisitions.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"La substance ne se manifeste vraiment que par les effets qu'elle exerce sur notre moi : elle y provoque des états de conscience qui, en aucun cas, ne sauraient nous donner une représentation adéquate du monde extérieur.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+C'est aujourd'hui vérité banale que d'affirmer la non-identité de la sensation avec la cause qui la fait naître.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+La couleur d'un corps n'est pas en dehors de moi comme elle est en moi ; il en est de même du son ; il faut distinguer l'objectif du subjectif et tous les deux ne se ressemblent pas.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Objectivement, le son et la lumière ne sont que des vibrations ; celles-ci excitent mes sens et me procurent des états de conscience différents.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Voilà comment je prends contact avec le monde extérieur.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Les qualités de couleur et de sonorité que je prête à un corps répondent évidemment à quelque chose, mais ce quelque chose est loin de ressembler à ce que me fournit la sensation.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Peu importe au fond ; cela n'entrave aucunement les progrès de ma connaissance, puisqu'il y a correspondance constante entre la sensation et sa cause extérieure.",0.4404,0.121,0.0,0.879,positive,Pour comprendre Einstein
+"Lors donc que je regarde une orange, ce n'est pas précisément le fruit que je vois, mais la façon dont quelque chose réagit sur les vibrations lumineuses ; supprimez la couleur, le fruit n'en subsiste pas moins ; de même l'odeur n'est pas nécessaire ; et l'élasticité ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Pas davantage.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Derrière toutes ces qualités, il y a cependant un support ; c'est ce que nous appelons la substance.",0.4019,0.162,0.0,0.838,positive,Pour comprendre Einstein
+"Pour un homme privé de l'odorat, sourd et aveugle, ce qui resterait de l'orange, ce serait l'impression tactile et, mieux encore, la résistance que le corps opposerait au sien ; en un mot, le corps pesant un certain poids, notre sujet dirait que le fruit possède une certaine masse.",0.2732,0.043,0.0,0.957,positive,Pour comprendre Einstein
+"Ainsi raisonnaient d'ailleurs implicitement les physiciens depuis Galilée : pour eux, la substance, en dernière analyse, était représentée par la masse , quantité constante, tangible, objet de science parce que mesurable .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"En fait, l'appréciation de la masse en Mécanique -- qu'il ne faut pas confondre avec le poids -- ne souffrait aucune difficulté.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Supposons une poussée équivalente à un kilogramme et appliquons-la à une bille ; notons aussitôt la vitesse ainsi communiquée, soit 2 mètres par seconde ; je constaterai peu après qu'une force double, c'est-à-dire de 2 kilogrammes, donnera à la bille une vitesse double de la première, soit 4 mètres par seconde.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Il y a donc une relation entre la force appliquée à un corps et la vitesse communiquée.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Pourquoi ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Évidemment parce que le corps oppose toujours la même résistance au déplacement et que cette résistance dépend de la quantité de matière en présence, de sa masse qui mesure ainsi ce qu'on appelait autrefois son inertie.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Si donc, j'appliquais la force de un kilogramme à une bille nouvelle et si la vitesse obtenue n'était que de un mètre par seconde, je serais en droit de conclure que ma bille contient deux fois moins de matière que dans le premier cas, donc que la masse est exactement la moitié de la première.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Cette fois, pouvaient prétendre les physiciens, nous nous dégagions du phénomène subjectif pour atteindre vraiment le réel, nous tenions l'absolu [6] car la masse, en réalité, c'était la substance.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Hélas !,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+la quiétude fut de courte durée dès qu'on eut le moyen d'apprécier les vitesses des atomes et surtout celles des électrons.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Ceux-ci sont en effet expulsés dans quelques-unes de nos expériences, nous l'avons vu, à des vitesses fantastiques : 100 000 kilomètres à la seconde dans les ampoules de Crookes ; 280 000 kilomètres et davantage pour les rayons Bêta du radium.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Or, les mesures mille fois répétées ont montré que, loin d'être invariable et indépendante de la vitesse, la masse apparaît toujours comme une fonction de cette vitesse.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"En d'autres termes, un même corps n'offrirait pas toujours la même résistance aux actions extérieures : l'inertie de la matière serait un mot vide de sens ; la masse, ce dernier refuge de la substance, ne serait elle-même qu'un accident comme la couleur, une modalité de la substance, et, qui mieux est, elle serait tout entière d'ordre électrique.",-0.5574,0.0,0.078,0.922,negative,Pour comprendre Einstein
+"[6] Le mot absolu offre des sens très différents suivant les cas : ici, il est simplement opposé au mot relatif .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Voilà d'ailleurs ce qu'avaient déjà annoncé Max Abraham et Lorentz d'après la théorie, mais la première idée du fait est due à J.-J.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Thomson qui l'avait émise dès 1881 [7] .,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[7] Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+J.-J.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Thomson : Philos.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Mag.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"5 e série, t. XI, 1881, p. 229 ; Max Abraham , Dynamique de l'électron dans Ann.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+der Phys.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+t. X.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+1903 pp.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"105 à 179 ; H. A. Lorentz , Sur la Théorie des Électrons dans Ions, Électrons, Corpuscules , édité par la Soc.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+de Phys.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"de France (Gauthier-Villars, Paris).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Les auteurs qui attribuent cette trouvaille à Einstein exagèrent quelque peu « la pratique de la relativité » puisqu'à cette époque, notre futur physicien était dans sa deuxième année !",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Au reste, n'est-ce pas rendre un bien mauvais service à un savant que de lui attribuer faussement ce qu'il n'a pas découvert.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Einstein, j'imagine, n'a nul besoin de cette inopportune réclame ; avant d'être le théoricien que nous savons, il avait à son actif d'importants travaux sur la physique moléculaire et plus tard cela suffira peut-être à sa renommée [8] .",-0.5423,0.0,0.093,0.907,negative,Pour comprendre Einstein
+[8] Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Ann.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+der Phys.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"t. XVII, 1905 et t. XIX, 1906.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Quoi qu'il en soit de ces considérations, nous allons voir comment les physiciens furent peu à peu acculés, c'est le mot, à jeter par dessus bord l'ancienne notion de la masse.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Supposons une petite masse électrisée, notre électron, lancée avec force dans une certaine direction.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Il est facile de démontrer que cette petite masse chargée d'électricité est équivalente à un courant proportionnel à sa vitesse.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Mais toute apparition d'un courant donne naissance à un champ magnétique d'intensité également proportionnelle à cette même vitesse.,0.4767,0.171,0.0,0.829,positive,Pour comprendre Einstein
+"Pour maintenir notre électron en mouvement, nous sommes donc obligés de lui communiquer une quantité d'énergie plus grande que s'il s'agissait d'un mobile non électrisé.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Ne sait-on pas en effet que la naissance d'un champ magnétique a pour conséquence l'apparition d'un phénomène de self-induction qui s'oppose au courant et, dans le cas particulier que nous considérons, au mouvement de l'électron.",0.4767,0.086,0.0,0.914,positive,Pour comprendre Einstein
+"Tout se passe donc comme si, par le fait qu'elle est électrisée, notre petite sphère avait vu sa masse s'augmenter.",-0.128,0.0,0.073,0.927,negative,Pour comprendre Einstein
+"A la masse ordinaire, peut-on dire, s'est ajoutée une masse de nature magnéto-électrique.",-0.4588,0.0,0.214,0.786,negative,Pour comprendre Einstein
+"On démontra ensuite que cette masse apparente, variable avec la vitesse, croît indéfiniment lorsque la vitesse de l'électron tend vers celle de la lumière ; d'où cette conséquence, à tout le moins inattendue, que le travail nécessaire pour communiquer à un électron cette vitesse de 300 000 kilomètres à la seconde devrait être infini.",-0.128,0.0,0.03,0.97,negative,Pour comprendre Einstein
+"Il apparaissait donc impossible, déjà à cette époque, que nous puissions jamais obtenir des vitesses supérieures à celle de la lumière.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Encore une assertion qu'on a attribuée à tort à Einstein !,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Il est bien vrai que ceci peut être regardé comme une conséquence de sa théorie, mais quel que soit le sort de cette dernière, le fait n'en restera pas moins tel qu'il était auparavant et indépendant de toute hypothèse.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Un nouveau pas fut franchi bientôt : M. Kaufmann ayant opéré sur des électrons animés de grandes vitesses, parvint à prouver que, conformément aux vues de Max Abraham, la masse totale apparente était égale à la masse électro-magnétique ; cela voulait dire en bon français, qu'ainsi s'évanouissait ce que nous appelions autrefois la masse mécanique ; la masse matérielle de l'électron est nulle ; sa vraie masse, celle que nous mesurons, est d'origine purement électrique [9] .",-0.4588,0.0,0.042,0.958,negative,Pour comprendre Einstein
+[9] Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+W. Kaufmann dans Gott.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Nachr.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"1903, pp.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+90 à 103.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Ainsi disparaissait pour toujours cette cloison étanche que les anciens matérialistes nous avaient constamment opposée, le rempart qui séparait Force et Matière.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"A tous les points de vue, ce n'était pas dommage : notre Mécanique classique était un amas de contradictions.",-0.3182,0.0,0.126,0.874,negative,Pour comprendre Einstein
+Qu'était-ce en effet qu'une force appliquée à une substance inerte ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Ce qui était capable, nous répondait-on, de faire passer un corps de l'état de repos à l'état de mouvement ou de modifier le mouvement existant ; mais vraiment c'était ne rien définir ou prendre l'effet pour la cause.",0.3818,0.069,0.0,0.931,positive,Pour comprendre Einstein
+Cette cause qu'est-elle en soi ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Comment une force peut-elle se superposer à la matière, s'ajouter à une substance ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Le mot inertie lui-même était vide de sens ; aucune matière n'est inerte : tout est changement dans l'univers, donc mouvement ; donc la cause n'est qu'un aspect de la substance qui devient ainsi la force, seule réalité accessible à nos sens et qui manifeste la substance elle-même.",-0.128,0.0,0.034,0.966,negative,Pour comprendre Einstein
+"-- Métaphysique pure, direz-vous.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"-- Je le nie formellement ; constatation des faits plutôt ; ce sont au contraire les savants d'autrefois, Galilée en tête, qui, en nous imposant une distinction entre force et matière, en posant comme postulat l'inertie obligée de toute matière, nous avaient conviés à un cours de mauvaise métaphysique.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Tous ces corollaires sont acquis définitivement à la science, et nous ne les devons aucunement à la théorie de la relativité, ainsi qu'on a essayé de le faire croire aux non-initiés.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Mes lecteurs que ces questions intéressent pourront en suivre les développements et les conséquences dans mon livre Que deviendrons nous après la Mort ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"[10] qui vient d'atteindre sa quarante septième édition et qui parut en 1913, époque à laquelle Einstein commença ses travaux sur la Relativité généralisée.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[10] Th.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Moreux.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+-- Que deviendrons-nous après la Mort ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+(Edit.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Scientifica, Paris 1913).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Depuis longtemps d'ailleurs, la relativité était à l'ordre du jour ; Lorentz l'avait mise à la mode ; les signaux optiques, le retard des horloges, le temps local qu'il avait imaginés, servaient déjà de base aux discussions entre savants.",-0.5267,0.0,0.091,0.909,negative,Pour comprendre Einstein
+"Henri Poincaré m'en avait parlé plusieurs fois lorsque nous arpentions, certains soirs, la rue de Médicis qui longe le jardin du Luxembourg.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Plus tard, bien plus tard, il lui consacra des pages dans sa Valeur de la Science [11] ; il faut les relire et se pénétrer aussi de ses idées sur les notions de simultanéité, sur le mouvement relatif et le mouvement absolu, dans La Science et l'Hypothèse [12] avant d'aborder les théories actuelles de la Relativité.",-0.7906,0.0,0.117,0.883,negative,Pour comprendre Einstein
+Vous verrez que celles-ci n'ont guère changé depuis.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Einstein a essayé comme Weyl, de les enchaîner, d'en codifier les règles, mais il n'en a pas inventé les principes et son rôle nous apparaît ainsi bien diminué.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[11] H. Poincaré.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"-- La valeur de la Science , p. 185 (Flammarion, Paris).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[12] H. Poincaré.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"-- La Science et l'hypothèse , p. 135 et suiv.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"(Flammarion, Paris).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Mais n'anticipons pas et revenons à la faillite de la vieille Mécanique.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+La nouvelle dynamique de l'électron n'intéresse que de très loin le mécanicien et l'industriel terrestre… pour cette bonne raison que les vitesses de nos machines resteront toujours très faibles vis-à-vis de celle de la lumière.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"C'est ainsi qu'un train pesant 1 250 tonnes et faisant du 108 kilomètres à l'heure, ce qui serait déjà fort remarquable, ne verrait sa masse s'augmenter que de 27 cent-millionièmes de milligramme [13] .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Ce résultat montre bien que pratiquement nous pouvons garder les anciennes formules.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Les nouvelles, qui sont d'ailleurs indépendantes de la théorie de la relativité d'Einstein , n'intéressent que l'homme de science et le philosophe.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[13] Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Gaston Moch .,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"-- La Relativité des Phénomènes , p. 176 (Flammarion, Paris, 1921).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Au moment même où s'élaboraient les nouveaux principes sur la masse, fonction de la vitesse, la Physique allait s'enrichir d'une découverte moins importante en apparence, mais de nature, comme la première, à bouleverser encore d'anciennes notions.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Dès 1873, Maxwell avait déduit de sa théorie électro-magnétique de la lumière que cette dernière doit exercer une pression sur les corps.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Cette proposition fut confirmée presque en même temps par Bartholi qui la retrouva en partant des équations de la Thermodynamique.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Depuis, cette pression de la lumière a été appelée pression de Maxwell-Bartholi ou pression de radiation .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"A la réflexion, l'effet n'a rien que très naturel : dès lors que l'énergie, la force, est quelque chose en soi, et que la lumière est une émission d'énergie, le rayon lumineux doit être doué de masse ; si nous le projetons sur un corps, il agira à la façon de l'obus qui fait reculer le canon et qui exerce une poussée sur l'obstacle contre lequel il vient buter.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Voilà ce qu'indiquait nettement la théorie ; il y avait bien encore quelques obscurités ; on objectait qu'au cas où la lumière continue indéfiniment sa marche sans rencontrer d'écran, c'en était fait du fameux principe de l'action et de la réaction, mais H. Poincaré intervint et il montra que dans tous les cas imaginables, la théorie explique les faits et le principe est conservé, dont Lorentz annonçait déjà la faillite [14] .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[14] Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+H. Poincaré .,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+-- La théorie de Lorentz et le principe de réaction dans Arch.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Néerland.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+des Sc.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+1900.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Or, Poincaré démontrait tout cela en 1900, cinq années avant qu'Einstein ait eu l'idée de s'occuper de la relativité appliquée au temps.",-0.128,0.0,0.067,0.933,negative,Pour comprendre Einstein
+"Pendant ces discussions, les expérimentateurs n'étaient pas restés les bras croisés ; ils avaient hâté le dénouement, peut-on dire, de la plus heureuse façon.",-0.4588,0.0,0.12,0.88,negative,Pour comprendre Einstein
+"Si la lumière exerçait véritablement une pression, on devait pouvoir mettre le phénomène en évidence par un procédé de laboratoire.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"C'est ce que réalisèrent Lebedeff, dès 1892, puis Nichols et Hull en 1901 [15] : après avoir dirigé la lumière d'une puissante lampe à arc sur un jet de poussières extrêmement fines, ils virent le jet s'incurver en arrière comme sous la poussée d'un vent régulier.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[15] Lebedeff .,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+-- Wied.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Ann.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"45, 1892 ; 62, 1897.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Phys.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Zeit.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"4, 1902 ; Nichols et Hull .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+-- Phys.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Rev.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"13, 1901 ; Astrophys.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Journ.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"t. XVII, XVIII, 1903.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Oh !,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+l'expérience ne se fit pas sans difficultés ; il fallut opérer dans le vide.,0.3612,0.172,0.0,0.828,positive,Pour comprendre Einstein
+"Après avoir essayé sans résultat toutes les poussières connues, nos physiciens désespéraient de réaliser le phénomène entrevu mathématiquement, lorsqu'il leur vint l'idée d'employer la poussière, sorte de fumée impalpable, contenue dans le vulgaire champignon appelé communément vesse de loup [16] .",0.1027,0.035,0.0,0.965,positive,Pour comprendre Einstein
+Les particules étaient encore trop grossières et il fallut rôtir et pulvériser cette première poussière pour réussir l'expérience.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[16] Champignon du genre Lycoperdon .,0.1027,0.259,0.0,0.741,positive,Pour comprendre Einstein
+A peine les résultats furent-ils connus que les astronomes en profitèrent pour expliquer la formation de ce long panache que les comètes traînent derrière elles.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"On avait bien jusque-là admis une force répulsive émanée du Soleil, mais personne n'avait pu fixer la nature de cette force mystérieuse.",-0.2732,0.0,0.091,0.909,negative,Pour comprendre Einstein
+"En fait, au fur et à mesure qu'une comète approche du Soleil, la chaleur de l'astre y développe une sorte d'atmosphère assez raréfiée qui commence par entourer le noyau.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Les particules paraissent tout d'abord attirées vers l'astre central qui détermine dans la masse comme une sorte de marée ; mais bientôt, tandis que l'attraction s'exerce suivant les masses, alors que la pression de radiation ne tient compte que des surfaces, cette dernière finit par l'emporter, et des enveloppes concentriques entourant le noyau, on voit fuser en arrière une partie des matériaux.",-0.128,0.0,0.024,0.976,negative,Pour comprendre Einstein
+"Ceux-ci conservent leur vitesse propre qui se compose avec la gravité et c'est ainsi qu'est obtenue cette courbe rappelant celle de la parabole ou de l'hyperbole, propre aux apparences des queues cométaires [17] .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[17] Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Th.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Moreux .,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"-- Où en est l'Astronomie , p. 220 (Gauthier-Villars, Paris, 1920).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"La courbure générale, en arrière de l'astre, tiendrait, suivant Brédikine, à la valeur de la pression de radiation, valeur variable suivant la nature des gaz éjectés.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Poynting a en effet calculé les forces ainsi mises en jeu et il a trouvé des chiffres tout à fait suggestifs : la lumière que nous envoie le Soleil exerce sur la Terre, à chaque instant, une pression de 70 000 tonnes.",-0.128,0.0,0.04,0.96,negative,Pour comprendre Einstein
+"C'est beaucoup, dira-t-on ; oui, dans l'ensemble, mais, en réalité, l'effet réparti sur tout un hémisphère se réduit finalement à un demi-milligramme par mètre carré.",-0.128,0.0,0.064,0.936,negative,Pour comprendre Einstein
+"A la distance où nous sommes du Soleil, pour que la répulsion l'emporte sur l'attraction, une particule sphérique doit avoir moins de 3 dixièmes de micron [18] .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[18] Le micron vaut un millième de millimètre ; on le représente par la lettre grecque μ; c'est l'unité de longueur employée en micrographie.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+pour la pression de radiation : Poynting : Arch.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+de phys.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+nat.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"t. XVII, 1904 ; Philos.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Mag.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"6, t. IX, 1905.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Dès cette époque, on aurait dû prévoir que si la lumière est pesante et probablement assimilable à une procession de projectiles, il n'y a rien d'étonnant que ces myriades de corpuscules soient attirés en passant vers le Soleil.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"En d'autres termes, sous l'influence de la masse attirante solaire, les trajectoires de nos boulets microscopiques seront courbées, absolument de la même façon que les trajets de nos obus s'infléchissent vers le sol, mais cette fois, ces trajectoires, ainsi qu'on le calcule aisément, seront, non des paraboles, mais des hyperboles extrêmement tendues.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Voilà ce qu'on aurait pu vérifier en mainte occasion depuis plus de trente ans, mais personne n'eut l'idée de le faire et il faut reconnaître que le mérite d'Einstein consista précisément à imaginer un dispositif pour tenter cette vérification.",-0.2732,0.0,0.054,0.946,negative,Pour comprendre Einstein
+J'ai dit « on aurait pu vérifier » ; d'où vient qu'on n'ait pas essayé ?,-0.2732,0.0,0.16,0.84,negative,Pour comprendre Einstein
+J'imagine que ce doit être pour des raisons d'ordre purement théorique et c'est là que nous touchons du doigt l'influence de l'hypothèse scientifique sur les expérimentateurs.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"On se rappelle que Newton professait la doctrine de l'émission ; dans sa pensée, la lumière n'était qu'un jet de particules lancées par l'objet lumineux.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+L'auteur des lois immortelles de la gravitation eut même l'idée première de la courbure d'un rayon de lumière passant près d'une masse pesante [19] .,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Mais, depuis, les théories ont changé ; l'émission s'est trouvée impuissante à expliquer le phénomène connu en Optique sous le nom de diffraction .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"On a donc opté pour l'hypothèse des ondulations due à Fresnel, ce qui écartait définitivement l'assimilation du rayon lumineux à un chapelet de projectiles ; l'incurvation, dans la dernière hypothèse admise, n'était donc plus à envisager.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"[19] Newton admettait qu'une particule lumineuse décrit sous l'influence de la gravitation un arc de parabole, tel un projectile.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Newton : Les Principes mathématiques de la Philosophie naturelle .,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Liv.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"I, XIV e S. Les idées nouvelles sur la nature de l'atome et de l'électron semblent maintenant nous ramener aux théories newtoniennes et nous voilà dans une impasse.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Je m'explique : nous avons vu que l'électron tourne à grande vitesse autour d'un noyau central.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Sous des influences diverses, il peut quitter son orbite primitive et sauter sur une autre où la vitesse n'est plus la même.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Ces sortes de changements sont toujours accompagnés d'une absorption ou d'une libération d'énergie et, dans ce dernier cas, il y a émission de lumière ; mais ce qu'il y a de plus curieux, c'est que chaque atome ne peut absorber ou émettre qu'un nombre entier de grains d'énergie et c'est ce qui explique pourquoi le phénomène a lieu par sauts brusques bien définis où nous retrouvons encore la discontinuité qui semble bien accompagner tous les phénomènes physiques sans exception.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Ce sont ces faits singuliers qui ont conduit Planck à sa fameuse théorie des Quanta [20] d'énergie.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"[20] Quanta , pluriel de quantum (en latin) : mot indiquant que l'énergie est émise ou absorbée par des quantités toujours multiples d'une unité commune d'énergie ; v. à ce sujet J. Perrin : Les Atomes et Louis Rougier : La Matière et l'Energie selon la théorie de la Relativité et la théorie des Quanta (Gauthier-Villars, 1921).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Dans la nouvelle hypothèse « le rayonnement est une forme d'énergie qui n'apparaît plus comme propagée sous l'espèce d'ondes continues par un milieu hypothétique (l'éther), mais comme expulsée sous forme d'unités discrètes (et de façon discontinue) dans l'espace vide de matière, avec la vitesse de la lumière [21] .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+» [21] Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Louis Rougier op.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+j. cit.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+", p. 107.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Mais alors il faut expliquer ce que c'est que l'Espace.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Qu'est-ce qu'un espace sans les corps, et un espace vide de matière ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Et puis comment envisager le mécanisme de la diffraction, avec nos projectiles qui nous ramènent à l'émission ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"En introduisant de nouveau, peut-être, la notion de cet éther qu'on avait jeté par-dessus bord comme un objet trop encombrant.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Ce sont bien d'ailleurs les tendances qui apparaissent maintenant dans la nouvelle école einsteinienne.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Après avoir brisé l'idole qu'on avait adorée, on va donc la reconstituer tout en gardant la nouvelle ; ainsi opèrent parfois les savants à l'instar des politiciens.",-0.128,0.0,0.059,0.941,negative,Pour comprendre Einstein
+"Après avoir oscillé entre les deux extrêmes, l'hypothèse scientifique cherche une position intermédiaire jusqu'au moment où des faits nouveaux renversent un échafaudage qu'on ne saurait plus décemment étayer.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Et les naïfs seuls croient encore au mot de Renan nous affirmant sérieusement que la Science a été créée « pour nous donner le mot des choses !,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"» Quoi qu'il en soit, la nature ne semble guère s'inquiéter de nos théories ; elle nous présente des faits simplement ; seules, les contradictions que nous trouvons dans leur interprétation, nous avertissent que nous faisons fausse route.",-0.3182,0.0,0.063,0.937,negative,Pour comprendre Einstein
+"Nous mettons parfois un temps bien long à nous en apercevoir et parfois aussi, par une singulière ironie, nos expériences nous ramènent dans des sentiers depuis longtemps délaissés.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+La pesanteur de la lumière en est la meilleure preuve.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Après avoir abandonné l'hypothèse de l'émission qui avait rendu de longs services, nous y voici ramenés, non seulement en vertu de la théorie, mais en raison de la méthode expérimentale.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"On a pu constater en effet, lors de l'éclipse totale de Soleil du 29 mai 1919, une déviation des rayons lumineux émanés de quelques étoiles proches du disque solaire.",-0.2732,0.0,0.072,0.928,negative,Pour comprendre Einstein
+Fig.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+2.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+-- Montrant qu'un rayon émané d'une étoile se courbe en passant près du Soleil.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Pour un observateur terrestre, l'étoile est aperçue en 2 (position apparente) au lieu d'être vue en 1 (position réelle).",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"En lui-même, le fait est extrêmement intéressant et ne peut guère s'expliquer autrement que par l'attraction de la masse du Soleil, s'exerçant sur les rayons lumineux qui passent dans son voisinage.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+On en a déduit immédiatement une confirmation éclatante des théories de la relativité.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"C'était aller un peu vite, puisque le phénomène, compatible avec la vieille théorie de l'émission proposée par Newton, aurait pu être constaté depuis bien des années.",-0.2732,0.0,0.077,0.923,negative,Pour comprendre Einstein
+"« Il faut tenir pour bonne, a-t-on ajouté, une hypothèse qui permet de prévoir.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"» Encore une erreur formidable de logique, dénoncée par l'histoire de la science.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"La plupart de nos lois ne sont qu'empiriques dans leur expression, souvent même purement statistiques ; elles donnent rarement la raison cachée de la loi ; avant l'invention de la Thermodynamique, on expliquait la chaleur par une qualité occulte ; vint ensuite le règne des fluides, puis celui de l'agitation moléculaire ; or, constatation surprenante, chaque génération de savants s'est contentée des explications mises à sa disposition.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Ces vieux schémas nous font sourire ; nous les contemplons avec un état d'esprit analogue à celui d'un préhistorien étudiant les outils en silex taillé de nos ancêtres ; et cependant, sans nous en douter, c'est un arsenal où nous puisons à l'occasion, tellement pauvre est l'imagination humaine.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Ajoutons aussi pour être juste que la tâche du vrai savant est autrement difficile que celle du manœuvre de la science ; le rôle de ce dernier consiste surtout à amasser des faits qu'une technique de plus en plus perfectionnée lui fournit avec une incroyable prodigalité.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Tout autre est l'occupation du théoricien auquel incombe le classement ; chaque fait nouveau lui montre l'étroitesse des cadres mis à sa disposition et c'est ainsi que nombre de phénomènes font antichambre et attendent leur tour d'incorporation ; mais, règle générale, tout se passe comme dans la société, ce sont les plus récalcitrants et ceux qui réclament bruyamment qui passent les premiers.",-0.25,0.0,0.05,0.95,negative,Pour comprendre Einstein
+Les expériences sur la vitesse de la lumière sont là pour illustrer cette thèse.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Pour expliquer la nature de la lumière qui se transmet à raison de 300 000 kilomètres par seconde, les physiciens, nous le savons, avaient été naguère acculés, avec Young et Fresnel à la théorie des ondulations ; mais qui dit ondulations , sous-entend milieu qui ondule : de là, l'hypothèse de l'éther.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Personne n'a jamais pu définir l'éther et aucun physicien n'est parvenu à nous décrire ses propriétés.,-0.2732,0.0,0.13,0.87,negative,Pour comprendre Einstein
+"Celles-ci sont d'ailleurs contradictoires : l'éther doit être le plus subtil des éléments et la vitesse de la lumière lui impose une densité infinitésimale ; mais, d'autre part, il doit être l'un des plus solides pour propager les ondulations transversales et l'un des plus résistants à la tension pour supporter les forces gravitationnelles ; alors, comment les corps célestes peuvent-ils s'y mouvoir sans résistance apparente ?",-0.34,0.033,0.07,0.898,negative,Pour comprendre Einstein
+"On n'explique rien en faisant intervenir des champs électro-magnétiques, ou des champs de gravitation ; ceux-ci ne sont qu'une modalité de l'énergie ; or l'énergie elle-même, nous l'avons dit, n'est autre que la substance vue sous un certain jour.",0.7717,0.185,0.0,0.815,positive,Pour comprendre Einstein
+"Entre les astres, si nous voulons éviter l'action à distance, il y a donc des supports d'énergie et nous voilà ramenés à l'éther.",0.3612,0.122,0.0,0.878,positive,Pour comprendre Einstein
+"-- Pas du tout, il n'y a rien, disent les Einsteiniens.",-0.128,0.0,0.143,0.857,negative,Pour comprendre Einstein
+"-- Mais alors, dites-nous ce qu'est l'espace en dehors des corps ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Y aurait-il donc un espace en soi ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Évidemment non !,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"L'ancien éther mécanique est décédé d'inanition [22] ; soit, mais l'éther pur et simple a résisté, pour la bonne raison que si personne ne peut le définir, personne ne peut s'en passer.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Son existence est un fait logique, pour ainsi dire, mais on désirerait davantage, on voudrait qu'il fût d'ordre expérimental.",-0.4588,0.0,0.143,0.857,negative,Pour comprendre Einstein
+Pouvons-nous caresser ce dernier espoir ?,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Peut-être ; et par un moyen assez simple en apparence.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[22] Cf.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+P. G. Nutting : Sur l'éther dans Rev.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Gén.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+des Sc.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Août 1922.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Lorsque nous nous déplaçons dans l'atmosphère, notre vitesse se traduit par une impression très sensible.",0.2263,0.119,0.0,0.881,positive,Pour comprendre Einstein
+"A moins de nous trouver en ballon libre et d'être transportés avec la couche d'air, nous sentons le vent nous fouetter le visage ; n'en serait-il pas de même pour l'éther dans lequel nous sommes plongés ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"La Terre, en effet, n'est pas fixe dans l'espace ; alors, de deux choses l'une : ou bien l'éther participe à notre mouvement et est entraîné avec nous, en partie ou en totalité ; ou bien il est immobile par rapport à nous qui marchons et, dans les deux cas, nous pouvons imaginer des expériences qui nous fixeront à ce sujet.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Lorsque vous êtes dans un train avançant à une vitesse de 60 kilomètres à l'heure, si vous rencontrez un express marchant à 100 kilomètres, et venant en sens inverse, ce dernier passera à vos côtés comme s'il faisait du 160 à l'heure : les vitesses s'ajoutent ; elles se retrancheraient si l'express, venant derrière vous, dépassait votre convoi ; vous auriez la sensation d'un train omnibus filant à la vitesse de 40 kilomètres.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Le même raisonnement semble valable pour le globe terrestre qui avance dans l'espace à raison de 30 kilomètres par seconde.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Si nous nous dirigeons en effet vers un point bien repéré, la vitesse de la lumière venue de cette direction, devrait augmenter de 30 kilomètres en apparence ; de même, nous devrions constater une diminution pour le mouvement de la lumière qui nous rattrape en cours de route.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Voilà ce qu'indique la théorie.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Et l'expérience, que nous dit-elle ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Exactement le contraire.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Des mesures minutieuses et d'une exactitude extrême, faites par Michelson en 1881 et en 1887, ont démontré que, quelles que soient la direction, la vitesse de la Terre et du rayon lumineux, tout se passe comme si nous n'avançions pas.",-0.128,0.0,0.037,0.963,negative,Pour comprendre Einstein
+"Depuis ces constatations, vous pensez bien que les explications n'ont pas fait défaut ; comme le disait malicieusement Henri Poincaré, on en trouve toujours ; les hypothèses, c'est le fonds qui manque le moins.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Fizeau proposa d'admettre que l'éther, dans nos expériences, était entraîné en partie par notre mouvement ; Stokes voulait un entraînement total.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Les physiciens, par de nouvelles expériences, les renvoyèrent dos à dos.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"C'est alors que Fitzgerald et Lorentz conçurent une idée bizarre, afin de sauver les principes de notre Mécanique.",-0.3182,0.0,0.119,0.881,negative,Pour comprendre Einstein
+"D'après eux, l'éther reste bien immobile, mais lorsque la Terre avance dans une direction, tous les corps se contractent dans le sens du mouvement.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Oh !,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"la contraction est très faible ; néanmoins, sa mesure n'est pas en dehors de nos moyens ; malheureusement le double-décimètre qui nous servirait à la déceler se contracte, lui aussi, et voilà pourquoi nous ne pouvons nous en apercevoir.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Le calcul de cet effet de contraction est assez simple, mais pour notre but, il nous suffira ici d'indiquer les résultats.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"On démontre en effet que dans les conditions énoncées, chaque unité de longueur, au lieu de valoir 1 exactement (soit un mètre), vaut la racine carrée de (1 moins une fraction) et c'est précisément la valeur de cette dernière qui fait tout l'intérêt du problème.",-0.128,0.0,0.034,0.966,negative,Pour comprendre Einstein
+"Cette fraction a pour numérateur le carré de la vitesse de la Terre , soit 30 × 30 = 900 kilomètres, et pour dénominateur, le carré de la vitesse de la lumière , soit 300 000 × 300 000 = 90 milliards ; on aurait donc pour valeur de la fraction 300/(30 milliards) soit, en simplifiant : 1/100 000 000, ou 1 divisé par cent millions ; c'est cette valeur qu'il faut d'abord retrancher de 1 dans la formule [23] ; si l'on effectue toutes les opérations, on voit qu'à la vitesse de 30 kilomètres par seconde, notre mètre se raccourcit de 5 millionièmes de millimètre ; pour le diamètre du globe terrestre, on trouverait 6 centimètres 4 millimètres.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+[23] Si l'on désigne par v la vitesse de la règle en mouvement (mètre par ex.),0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"et par c la vitesse de la lumière, la règle-unité, au lieu de valoir 1, vaut √ 1 − v 2 / c 2 ; c'est de la fraction v 2 / c 2 qu'il s'agit dans le texte.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"On voit immédiatement que si v = c , la valeur de la fraction v 2 / c 2 est égale à 1.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"La quantité sous le radical devient donc √ 1 − 1 = 0 ; si v était plus grand que c , la fraction v 2 / c 2 aurait une valeur supérieure à 1 et la quantité sous le radical deviendrait imaginaire.",0.4588,0.107,0.0,0.893,positive,Pour comprendre Einstein
+"Ainsi, la contraction est très faible, mais ce résultat tient à ce que notre vitesse n'est que de 30 kilomètres à la seconde.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Si celle-ci était aussi forte que celle de la lumière, que se passerait-il ?",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"Le numérateur de notre fraction au lieu de 900, vaudrait 90 milliards, c'est-à-dire que numérateur et dénominateur seraient égaux ; or tout le monde sait que, dans ces conditions, une fraction représente l'unité.",-0.128,0.0,0.046,0.954,negative,Pour comprendre Einstein
+"Ainsi, au lieu d'avoir dans la formule : 1 moins une fraction, nous aurions : 1 moins 1, c'est-à-dire zéro .",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Ce qui veut dire que la contraction serait tellement accusée que la longueur de notre mètre serait réduite à zéro.,-0.4588,0.0,0.143,0.857,negative,Pour comprendre Einstein
+"La conclusion est valable pour un corps quelconque, pour la Terre par exemple, qui serait infiniment aplatie et prendrait la forme d'un disque sans épaisseur.",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Voilà pourquoi les physiciens avaient conclu que la vitesse d'un corps quelconque ne pouvait dépasser celle de la lumière.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+Cette vitesse de 300 000 kilomètres par seconde est donc la dernière limite des possibilités.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+J'ai insisté sur cette particularité parce que nous retrouverons bientôt cette même formule dans la théorie de la relativité.,0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein
+"La contraction lorentzienne -- ainsi fut-elle appelée -- suscita les plus vives discussions ; on la traita de deux ex machina ; cette compensation exacte des effets du mouvement avait l'air d'une intervention providentielle ; et puis, si la contraction se produit dans le sens de la marche de la Terre sur son orbite, je ne vois pas pourquoi elle ne se produirait pas dans le sens de la translation du système solaire, puisqu'en fait, la Terre participe à ce mouvement qui atteint une vingtaine de kilomètres à la seconde ; d'autre part, notre Voie lactée ne paraît pas fixe dans l'Univers et quelques astronomes pensent, non sans raison, que nous volons avec elle dans la direc",0.0,0.0,0.0,1.0,neutral,Pour comprendre Einstein

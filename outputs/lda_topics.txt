@@ -1,0 +1,12 @@
+Topic  0: gland, tentacle, lily, margaret, helen, cell, secretion, inflection, acid, fluid
+Topic  1: der, und, den, ich, fang, er, nicht, das, mit, thou
+Topic  2: alexandra, marie, oscar, maybe, wagon, orchard, barn, hawk, bohemian, prairie
+Topic  3: que, la, el, en, se, los, con, un, su, las
+Topic  4: philosophy, polly, mr, universe, philosopher, religious, warren, scientific, poet, mrs
+Topic  5: la, le, et, les, en, il, des, que, un, une
+Topic  6: jimmy, holmes, aunt, higgins, franklin, mary, sergeant, antony, madame, diamond
+Topic  7: peter, grandfather, grandmother, clara, relativity, goat, co, sebastian, herr, velocity
+Topic  8: barry, thou, mary, louis, zarathustra, ye, clyde, thee, thy, hath
+Topic  9: peter, anne, toad, darling, rat, diana, cabin, minister, johnson, matthew
+Topic 10: specie, selection, lucy, archer, van, rome, differ, roman, variation, greek
+Topic 11: herbert, engineer, owen, cyrus, crass, sylvia, joe, negro, granite, hull

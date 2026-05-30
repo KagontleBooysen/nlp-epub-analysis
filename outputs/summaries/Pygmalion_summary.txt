@@ -1,0 +1,5 @@
+TITLE : Pygmalion
+AUTHOR: Bernard Shaw
+METHOD: textrank
+
+HIGGINS [to Pickering] Let's have her up. I always been a good girl; and I never offered to say a word to him; and I don't owe him nothing; and I don't care; and I won't be put upon; and I have my feelings the same as anyone else-- Mrs. Pearce shuts the door; and Eliza's plaints are no longer audible. Mr. Higgins: will you please be very particular what you say before the girl? HIGGINS [troubled] I don't know what to do, Pickering. MRS. PEARCE [at the door] Now, Mr. Higgins, please don't say anything to make the girl conceited about herself. I don't want never to see him again, I don't. I'm sure you don't mean that, Mr. Higgins. [To Higgins] Have I said anything I oughtn't? Higgins and Pickering, speaking together: HIGGINS. I assure you, my dear Mrs. Higgins, that girl HIGGINS.

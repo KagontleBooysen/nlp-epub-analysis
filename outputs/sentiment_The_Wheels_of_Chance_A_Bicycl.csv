@@ -1,0 +1,607 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Wheels of Chance: A Bicycling Idyll This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,0.1027,0.106,0.097,0.796,positive,The Wheels of Chance: A Bicycling Idyll
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Wheels of Chance: A Bicycling Idyll
+"Title : The Wheels of Chance: A Bicycling Idyll Author : H. G. Wells Release date : April 1, 1998 [eBook #1264] Most recently updated: October 29, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/1264 Credits : Dianne Bean *** START OF THE PROJECT GUTENBERG EBOOK THE WHEELS OF CHANCE: A BICYCLING IDYLL *** THE WHEELS OF CHANCE; A BICYCLING IDYLL By H.G.",0.874,0.19,0.0,0.81,positive,The Wheels of Chance: A Bicycling Idyll
+Wells 1896 To MY DEAR MOTHER CONTENTS CHAPTER I.,0.6523,0.432,0.0,0.568,positive,The Wheels of Chance: A Bicycling Idyll
+THE PRINCIPAL CHARACTER IN THE STORY CHAPTER II CHAPTER III CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE RIDING FORTH OF MR. HOOPDRIVER CHAPTER V. THE SHAMEFUL EPISODE OF THE YOUNG LADY IN GREY CHAPTER VI.,-0.4588,0.056,0.15,0.794,negative,The Wheels of Chance: A Bicycling Idyll
+ON THE ROAD TO RIPLEY CHAPTER VII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER VIII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+HOW MR. HOOPDRIVER WAS HAUNTED CHAPTER X.,-0.4767,0.0,0.341,0.659,negative,The Wheels of Chance: A Bicycling Idyll
+THE IMAGININGS OF MR. HOOPDRIVER'S HEART CHAPTER XI.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+OMISSIONS CHAPTER XII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE DREAMS OF MR. HOOPDRIVER CHAPTER XIII.,0.4019,0.31,0.0,0.69,positive,The Wheels of Chance: A Bicycling Idyll
+HOW MR. HOOPDRIVER WENT TO HASLEMERE CHAPTER XIV.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+HOW MR. HOOPDRIVER REACHED MIDHURST CHAPTER XV.,0.1027,0.189,0.0,0.811,positive,The Wheels of Chance: A Bicycling Idyll
+AN INTERLUDE CHAPTER XVI.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"OF THE ARTIFICIAL IN MAN, AND OF THE ZEITGEIST CHAPTER XVII.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE ENCOUNTER AT MIDHURST CHAPTER XVIII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XIX.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XX.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE PURSUIT CHAPTER XXI.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+AT BOGNOR CHAPTER XXII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XXIII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XXIV.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE MOONLIGHT RIDE CHAPTER XXV.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XXVI.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE SURBITON INTERLUDE CHAPTER XXVII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE AWAKENING OF MR. HOOPDRIVER CHAPTER XXVIII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE DEPARTURE FROM CHICHESTER CHAPTER XXIX.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE UNEXPECTED ANECDOTE OF THE LION CHAPTER XXX.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE RESCUE EXPEDITION CHAPTER XXXI.,0.5106,0.452,0.0,0.548,positive,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XXXII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"MR. HOOPDRIVER, KNIGHT ERRANT CHAPTER XXXIII.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE ABASEMENT OF MR. HOOPDRIVER CHAPTER XXXIV.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XXXV.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XXXVI.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XXXVII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+IN THE NEW FOREST CHAPTER XXXVIII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+AT THE RUFUS STONE CHAPTER XXXIX.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XL.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+CHAPTER XLI.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+THE ENVOY I.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"THE PRINCIPAL CHARACTER IN THE STORY If you (presuming you are of the sex that does such things)--if you had gone into the Drapery Emporium--which is really only magnificent for shop--of Messrs. Antrobus & Co.--a perfectly fictitious ""Co.,"" by the bye--of Putney, on the 14th of August, 1895, had turned to the right-hand side, where the blocks of white linen and piles of blankets rise up to the rail from which the pink and blue prints depend, you might have been served by the central figure of this story that is now beginning.",0.8166,0.084,0.019,0.896,positive,The Wheels of Chance: A Bicycling Idyll
+"He would have come forward, bowing and swaying, he would have extended two hands with largish knuckles and enormous cuffs over the counter, and he would have asked you, protruding a pointed chin and without the slightest anticipation of pleasure in his manner, what he might have the pleasure of showing you.",0.7966,0.131,0.023,0.847,positive,The Wheels of Chance: A Bicycling Idyll
+"Under certain circumstances--as, for instance, hats, baby linen, gloves, silks, lace, or curtains--he would simply have bowed politely, and with a drooping expression, and making a kind of circular sweep, invited you to ""step this way,"" and so led you beyond his ken; but under other and happier conditions,--huckaback, blankets, dimity, cretonne, linen, calico, are cases in point,--he would have requested you to take a seat, emphasising the hospitality by leaning over the counter and gripping a chair back in a spasmodic manner, and so proceeded to obtain, unfold, and exhibit his goods for your consideration.",0.7311,0.065,0.0,0.935,positive,The Wheels of Chance: A Bicycling Idyll
+Under which happier circumstances you might--if of an observing turn of mind and not too much of a housewife to be inhuman--have given the central figure of this story less cursory attention.,0.5267,0.102,0.0,0.898,positive,The Wheels of Chance: A Bicycling Idyll
+"Now if you had noticed anything about him, it would have been chiefly to notice how little he was noticeable.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He wore the black morning coat, the black tie, and the speckled grey nether parts (descending into shadow and mystery below the counter) of his craft.",0.0516,0.046,0.0,0.954,positive,The Wheels of Chance: A Bicycling Idyll
+"He was of a pallid complexion, hair of a kind of dirty fairness, greyish eyes, and a skimpy, immature moustache under his peaked indeterminate nose.",-0.4927,0.0,0.132,0.868,negative,The Wheels of Chance: A Bicycling Idyll
+"His features were all small, but none ill-shaped.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+A rosette of pins decorated the lappel of his coat.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"His remarks, you would observe, were entirely what people used to call cliché , formulae not organic to the occasion, but stereotyped ages ago and learnt years since by heart.",-0.4215,0.0,0.091,0.909,negative,The Wheels of Chance: A Bicycling Idyll
+"""This, madam,"" he would say, ""is selling very well.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""We are doing a very good article at four three a yard.""",0.4927,0.262,0.0,0.738,positive,The Wheels of Chance: A Bicycling Idyll
+"""We could show you something better, of course.""",0.4404,0.293,0.0,0.707,positive,The Wheels of Chance: A Bicycling Idyll
+"""No trouble, madam, I assure you.""",-0.3612,0.258,0.527,0.215,negative,The Wheels of Chance: A Bicycling Idyll
+Such were the simple counters of his intercourse.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"So, I say, he would have presented himself to your superficial observation.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He would have danced about behind the counter, have neatly refolded the goods he had shown you, have put on one side those you selected, extracted a little book with a carbon leaf and a tinfoil sheet from a fixture, made you out a little bill in that weak flourishing hand peculiar to drapers, and have bawled ""Sayn!""",0.5562,0.126,0.049,0.825,positive,The Wheels of Chance: A Bicycling Idyll
+"Then a puffy little shop-walker would have come into view, looked at the bill for a second, very hard (showing you a parting down the middle of his head meanwhile), have scribbled a still more flourishing J. M. all over the document, have asked you if there was nothing more, have stood by you--supposing that you were paying cash--until the central figure of this story reappeared with the change.",-0.1761,0.0,0.026,0.974,negative,The Wheels of Chance: A Bicycling Idyll
+"One glance more at him, and the puffy little shop-walker would have been bowing you out, with fountains of civilities at work all about you.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+And so the interview would have terminated.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"But real literature, as distinguished from anecdote, does not concern itself with superficial appearances alone.",-0.3612,0.0,0.152,0.848,negative,The Wheels of Chance: A Bicycling Idyll
+Literature is revelation.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Modern literature is indecorous revelation.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+It is the duty of the earnest author to tell you what you would not have seen--even at the cost of some blushes.,0.5106,0.13,0.0,0.87,positive,The Wheels of Chance: A Bicycling Idyll
+"And the thing that you would not have seen about this young man, and the thing of the greatest moment to this story, the thing that must be told if the book is to be written, was--let us face it bravely--the Remarkable Condition of this Young Man's Legs.",0.8316,0.145,0.0,0.855,positive,The Wheels of Chance: A Bicycling Idyll
+Let us approach the business with dispassionate explicitness.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Let us assume something of the scientific spirit, the hard, almost professorial tone of the conscientious realist.",0.0772,0.094,0.077,0.829,positive,The Wheels of Chance: A Bicycling Idyll
+"Let us treat this young man's legs as a mere diagram, and indicate the points of interest with the unemotional precision of a lecturer's pointer.",0.6908,0.213,0.0,0.787,positive,The Wheels of Chance: A Bicycling Idyll
+And so to our revelation.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"On the internal aspect of the right ankle of this young man you would have observed, ladies and gentlemen, a contusion and an abrasion; on the internal aspect of the left ankle a contusion also; on its external aspect a large yellowish bruise.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"On his left shin there were two bruises, one a leaden yellow graduating here and there into purple, and another, obviously of more recent date, of a blotchy red--tumid and threatening.",-0.5267,0.0,0.108,0.892,negative,The Wheels of Chance: A Bicycling Idyll
+"Proceeding up the left leg in a spiral manner, an unnatural hardness and redness would have been discovered on the upper aspect of the calf, and above the knee and on the inner side, an extraordinary expanse of bruised surface, a kind of closely stippled shading of contused points.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"The right leg would be found to be bruised in a marvellous manner all about and under the knee, and particularly on the interior aspect of the knee.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+So far we may proceed with our details.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Fired by these discoveries, an investigator might perhaps have pursued his inquiries further--to bruises on the shoulders, elbows, and even the finger joints, of the central figure of our story.",-0.5574,0.0,0.11,0.89,negative,The Wheels of Chance: A Bicycling Idyll
+He had indeed been bumped and battered at an extraordinary number of points.,0.0772,0.098,0.0,0.902,positive,The Wheels of Chance: A Bicycling Idyll
+"But enough of realistic description is as good as a feast, and we have exhibited enough for our purpose.",0.5927,0.185,0.0,0.815,positive,The Wheels of Chance: A Bicycling Idyll
+Even in literature one must know where to draw the line.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Now the reader may be inclined to wonder how a respectable young shopman should have got his legs, and indeed himself generally, into such a dreadful condition.",0.0,0.101,0.101,0.799,neutral,The Wheels of Chance: A Bicycling Idyll
+"One might fancy that he had been sitting with his nether extremities in some complicated machinery, a threshing-machine, say, or one of those hay-making furies.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+But Sherlock Holmes (now happily dead) would have fancied nothing of the kind.,0.304,0.25,0.187,0.562,positive,The Wheels of Chance: A Bicycling Idyll
+"He would have recognised at once that the bruises on the internal aspect of the left leg, considered in the light of the distribution of the other abrasions and contusions, pointed unmistakably to the violent impact of the Mounting Beginner upon the bicycling saddle, and that the ruinous state of the right knee was equally eloquent of the concussions attendant on that person's hasty, frequently causeless, and invariably ill-conceived descents.",-0.8225,0.0,0.101,0.899,negative,The Wheels of Chance: A Bicycling Idyll
+"One large bruise on the shin is even more characteristic of the 'prentice cyclist, for upon every one of them waits the jest of the unexpected treadle.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"You try at least to walk your machine in an easy manner, and whack!--you are rubbing your shin.",0.4926,0.158,0.0,0.842,positive,The Wheels of Chance: A Bicycling Idyll
+So out of innocence we ripen.,0.4336,0.364,0.0,0.636,positive,The Wheels of Chance: A Bicycling Idyll
+"Two bruises on that place mark a certain want of aptitude in learning, such as one might expect in a person unused to muscular exercise.",0.34,0.139,0.0,0.861,positive,The Wheels of Chance: A Bicycling Idyll
+Blisters on the hands are eloquent of the nervous clutch of the wavering rider.,-0.4019,0.0,0.236,0.764,negative,The Wheels of Chance: A Bicycling Idyll
+"And so forth, until Sherlock is presently explaining, by the help of the minor injuries, that the machine ridden is an old-fashioned affair with a fork instead of the diamond frame, a cushioned tire, well worn on the hind wheel, and a gross weight all on of perhaps three-and-forty pounds.",0.2263,0.132,0.097,0.771,positive,The Wheels of Chance: A Bicycling Idyll
+The revelation is made.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Behind the decorous figure of the attentive shopman that I had the honour of showing you at first, rises a vision of a nightly struggle, of two dark figures and a machine in a dark road,--the road, to be explicit, from Roehampton to Putney Hill,--and with this vision is the sound of a heel spurning the gravel, a gasping and grunting, a shouting of ""Steer, man, steer!""",0.636,0.121,0.058,0.821,positive,The Wheels of Chance: A Bicycling Idyll
+"a wavering unsteady flight, a spasmodic turning of the missile edifice of man and machine, and a collapse.",-0.5859,0.0,0.27,0.73,negative,The Wheels of Chance: A Bicycling Idyll
+"Then you descry dimly through the dusk the central figure of this story sitting by the roadside and rubbing his leg at some new place, and his friend, sympathetic (but by no means depressed), repairing the displacement of the handle-bar.",0.6486,0.142,0.048,0.81,positive,The Wheels of Chance: A Bicycling Idyll
+"Thus even in a shop assistant does the warmth of manhood assert itself, and drive him against all the conditions of his calling, against the counsels of prudence and the restrictions of his means, to seek the wholesome delights of exertion and danger and pain.",-0.1779,0.114,0.127,0.759,negative,The Wheels of Chance: A Bicycling Idyll
+And our first examination of the draper reveals beneath his draperies--the man!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+To which initial fact (among others) we shall come again in the end.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+II But enough of these revelations.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"The central figure of our story is now going along behind the counter, a draper indeed, with your purchases in his arms, to the warehouse, where the various articles you have selected will presently be packed by the senior porter and sent to you.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Returning thence to his particular place, he lays hands on a folded piece of gingham, and gripping the corners of the folds in his hands, begins to straighten them punctiliously.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Near him is an apprentice, apprenticed to the same high calling of draper's assistant, a ruddy, red-haired lad in a very short tailless black coat and a very high collar, who is deliberately unfolding and refolding some patterns of cretonne.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"By twenty-one he too may hope to be a full-blown assistant, even as Mr. Hoopdriver.",0.4404,0.182,0.0,0.818,positive,The Wheels of Chance: A Bicycling Idyll
+"Prints depend from the brass rails above them, behind are fixtures full of white packages containing, as inscriptions testify, Lino, Hd Bk , and Mull .",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+You might imagine to see them that the two were both intent upon nothing but smoothness of textile and rectitude of fold.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"But to tell the truth, neither is thinking of the mechanical duties in hand.",0.8047,0.377,0.0,0.623,positive,The Wheels of Chance: A Bicycling Idyll
+The assistant is dreaming of the delicious time--only four hours off now--when he will resume the tale of his bruises and abrasions.,0.5719,0.15,0.0,0.85,positive,The Wheels of Chance: A Bicycling Idyll
+"The apprentice is nearer the long long thoughts of boyhood, and his imagination rides cap-à-pie through the chambers of his brain, seeking some knightly quest in honour of that Fair Lady, the last but one of the girl apprentices to the dress-making upstairs.",0.4588,0.089,0.0,0.911,positive,The Wheels of Chance: A Bicycling Idyll
+He inclines rather to street fighting against revolutionaries--because then she could see him from the window.,-0.3612,0.0,0.143,0.857,negative,The Wheels of Chance: A Bicycling Idyll
+"Jerking them back to the present comes the puffy little shop-walker, with a paper in his hand.",0.4939,0.176,0.0,0.824,positive,The Wheels of Chance: A Bicycling Idyll
+The apprentice becomes extremely active.,0.4576,0.428,0.0,0.572,positive,The Wheels of Chance: A Bicycling Idyll
+The shopwalker eyes the goods in hand.,0.4939,0.348,0.0,0.652,positive,The Wheels of Chance: A Bicycling Idyll
+"""Hoopdriver,"" he says, ""how's that line of g-sez-x ginghams?""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Hoopdriver returns from an imaginary triumph over the uncertainties of dismounting.,0.1779,0.214,0.166,0.621,positive,The Wheels of Chance: A Bicycling Idyll
+"""They're going fairly well, sir.",0.2732,0.344,0.0,0.656,positive,The Wheels of Chance: A Bicycling Idyll
+"But the larger checks seem hanging.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The shop-walker brings up parallel to the counter.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Any particular time when you want your holidays?""",0.0772,0.157,0.0,0.843,positive,The Wheels of Chance: A Bicycling Idyll
+he asks.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Hoopdriver pulls at his skimpy moustache.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""No--Don't want them too late, sir, of course.""",-0.0572,0.0,0.149,0.851,negative,The Wheels of Chance: A Bicycling Idyll
+"""How about this day week?""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Hoopdriver becomes rigidly meditative, gripping the corners of the gingham folds in his hands.",0.1779,0.149,0.106,0.745,positive,The Wheels of Chance: A Bicycling Idyll
+His face is eloquent of conflicting considerations.,-0.4019,0.0,0.31,0.69,negative,The Wheels of Chance: A Bicycling Idyll
+Can he learn it in a week?,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+That's the question.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Otherwise Briggs will get next week, and he will have to wait until September--when the weather is often uncertain.",-0.296,0.0,0.109,0.891,negative,The Wheels of Chance: A Bicycling Idyll
+He is naturally of a sanguine disposition.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"All drapers have to be, or else they could never have the faith they show in the beauty, washability, and unfading excellence of the goods they sell you.",0.7627,0.224,0.066,0.71,positive,The Wheels of Chance: A Bicycling Idyll
+The decision comes at last.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""That'll do me very well,"" said Mr. Hoopdriver, terminating the pause.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The die is cast.,-0.5994,0.0,0.565,0.435,negative,The Wheels of Chance: A Bicycling Idyll
+"The shop-walker makes a note of it and goes on to Briggs in the ""dresses,"" the next in the strict scale of precedence of the Drapery Emporium.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Mr. Hoopdriver in alternating spasms anon straightens his gingham and anon becomes meditative, with his tongue in the hollow of his decaying wisdom tooth.",0.4767,0.197,0.092,0.712,positive,The Wheels of Chance: A Bicycling Idyll
+"III At supper that night, holiday talk held undisputed sway.",0.4019,0.231,0.0,0.769,positive,The Wheels of Chance: A Bicycling Idyll
+"Mr. Pritchard spoke of ""Scotland,"" Miss Isaacs clamoured of Bettws-y-Coed, Mr. Judson displayed a proprietary interest in the Norfolk Broads. """,0.34,0.139,0.074,0.787,positive,The Wheels of Chance: A Bicycling Idyll
+"I? """,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+said Hoopdriver when the question came to him.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Why, cycling, of course.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""You're never going to ride that dreadful machine of yours, day after day?""",-0.4404,0.0,0.195,0.805,negative,The Wheels of Chance: A Bicycling Idyll
+said Miss Howe of the Costume Department.,-0.1531,0.0,0.211,0.789,negative,The Wheels of Chance: A Bicycling Idyll
+"""I am,"" said Hoopdriver as calmly as possible, pulling at the insufficient moustache.",0.3182,0.161,0.0,0.839,positive,The Wheels of Chance: A Bicycling Idyll
+"""I'm going for a Cycling Tour.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Along the South Coast.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Well, all I hope, Mr. Hoopdriver, is that you'll get fine weather,"" said Miss Howe.",0.4767,0.272,0.092,0.636,positive,The Wheels of Chance: A Bicycling Idyll
+"""And not come any nasty croppers.""",0.4449,0.369,0.0,0.631,positive,The Wheels of Chance: A Bicycling Idyll
+"""And done forget some tinscher of arnica in yer bag,"" said the junior apprentice in the very high collar.",-0.2263,0.0,0.095,0.905,negative,The Wheels of Chance: A Bicycling Idyll
+(He had witnessed one of the lessons at the top of Putney Hill.),0.2023,0.13,0.0,0.87,positive,The Wheels of Chance: A Bicycling Idyll
+"""You stow it,"" said Mr. Hoopdriver, looking hard and threateningly at the junior apprentice, and suddenly adding in a tone of bitter contempt,--""Jampot.""",-0.7506,0.0,0.28,0.72,negative,The Wheels of Chance: A Bicycling Idyll
+"""I'm getting fairly safe upon it now,"" he told Miss Howe.",0.3182,0.215,0.119,0.667,positive,The Wheels of Chance: A Bicycling Idyll
+"At other times Hoopdriver might have further resented the satirical efforts of the apprentice, but his mind was too full of the projected Tour to admit any petty delicacies of dignity.",0.4118,0.156,0.109,0.735,positive,The Wheels of Chance: A Bicycling Idyll
+"He left the supper table early, so that he might put in a good hour at the desperate gymnastics up the Roehampton Road before it would be time to come back for locking up.",0.1531,0.08,0.064,0.856,positive,The Wheels of Chance: A Bicycling Idyll
+"When the gas was turned off for the night he was sitting on the edge of his bed, rubbing arnica into his knee--a new and very big place--and studying a Road Map of the South of England.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Briggs of the ""dresses,"" who shared the room with him, was sitting up in bed and trying to smoke in the dark.",0.34,0.103,0.0,0.897,positive,The Wheels of Chance: A Bicycling Idyll
+"Briggs had never been on a cycle in his life, but he felt Hoopdriver's inexperience and offered such advice as occurred to him.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Have the machine thoroughly well oiled,"" said Briggs, ""carry one or two lemons with you, don't tear yourself to death the first day, and sit upright.",-0.3626,0.079,0.129,0.792,negative,The Wheels of Chance: A Bicycling Idyll
+"Never lose control of the machine, and always sound the bell on every possible opportunity.",0.6197,0.28,0.0,0.72,positive,The Wheels of Chance: A Bicycling Idyll
+"You mind those things, and nothing very much can't happen to you, Hoopdriver--you take my word.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He would lapse into silence for a minute, save perhaps for a curse or so at his pipe, and then break out with an entirely different set of tips.",-0.0772,0.101,0.11,0.789,negative,The Wheels of Chance: A Bicycling Idyll
+"""Avoid running over dogs, Hoopdriver, whatever you do.",-0.296,0.0,0.239,0.761,negative,The Wheels of Chance: A Bicycling Idyll
+It's one of the worst things you can do to run over a dog.,-0.6249,0.0,0.255,0.745,negative,The Wheels of Chance: A Bicycling Idyll
+"Never let the machine buckle--there was a man killed only the other day through his wheel buckling--don't scorch, don't ride on the foot-path, keep your own side of the road, and if you see a tramline, go round the corner at once, and hurry off into the next county--and always light up before dark.",-0.6705,0.0,0.081,0.919,negative,The Wheels of Chance: A Bicycling Idyll
+"You mind just a few little things like that, Hoopdriver, and nothing much can't happen to you--you take my word.""",0.3008,0.11,0.0,0.89,positive,The Wheels of Chance: A Bicycling Idyll
+"""Right you are!""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+said Hoopdriver.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Good-night, old man.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Good-night,"" said Briggs, and there was silence for a space, save for the succulent respiration of the pipe.",0.4939,0.167,0.0,0.833,positive,The Wheels of Chance: A Bicycling Idyll
+"Hoopdriver rode off into Dreamland on his machine, and was scarcely there before he was pitched back into the world of sense again.--Something--what was it?",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Never oil the steering.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"It's fatal,"" a voice that came from round a fitful glow of light, was saying.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""And clean the chain daily with black-lead.",0.4019,0.31,0.0,0.69,positive,The Wheels of Chance: A Bicycling Idyll
+"You mind just a few little things like that--"" ""Lord love us!""",0.7726,0.427,0.0,0.573,positive,The Wheels of Chance: A Bicycling Idyll
+"said Hoopdriver, and pulled the bedclothes over his ears.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+IV.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"THE RIDING FORTH OF MR. HOOPDRIVER Only those who toil six long days out of the seven, and all the year round, save for one brief glorious fortnight or ten days in the summer time, know the exquisite sensations of the First Holiday Morning.",0.8779,0.198,0.0,0.802,positive,The Wheels of Chance: A Bicycling Idyll
+"All the dreary, uninteresting routine drops from you suddenly, your chains fall about your feet.",-0.34,0.0,0.146,0.854,negative,The Wheels of Chance: A Bicycling Idyll
+"All at once you are Lord of yourself, Lord of every hour in the long, vacant day; you may go where you please, call none Sir or Madame, have a lappel free of pins, doff your black morning coat, and wear the colour of your heart, and be a Man.",0.6808,0.109,0.0,0.891,positive,The Wheels of Chance: A Bicycling Idyll
+"You grudge sleep, you grudge eating, and drinking even, their intrusion on those exquisite moments.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"There will be no more rising before breakfast in casual old clothing, to go dusting and getting ready in a cheerless, shutter-darkened, wrappered-up shop, no more imperious cries of, ""Forward, Hoopdriver,"" no more hasty meals, and weary attendance on fitful old women, for ten blessed days.",-0.6344,0.14,0.245,0.615,negative,The Wheels of Chance: A Bicycling Idyll
+"The first morning is by far the most glorious, for you hold your whole fortune in your hands.",0.6697,0.209,0.0,0.791,positive,The Wheels of Chance: A Bicycling Idyll
+"Thereafter, every night, comes a pang, a spectre, that will not be exorcised--the premonition of the return.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"The shadow of going back, of being put in the cage again for another twelve months, lies blacker and blacker across the sunlight.",-0.4215,0.0,0.113,0.887,negative,The Wheels of Chance: A Bicycling Idyll
+"But on the first morning of the ten the holiday has no past, and ten days seems as good as infinity.",0.6808,0.262,0.099,0.638,positive,The Wheels of Chance: A Bicycling Idyll
+"And it was fine, full of a promise of glorious days, a deep blue sky with dazzling piles of white cloud here and there, as though celestial haymakers had been piling the swathes of last night's clouds into cocks for a coming cartage.",0.8074,0.183,0.0,0.817,positive,The Wheels of Chance: A Bicycling Idyll
+"There were thrushes in the Richmond Road, and a lark on Putney Heath.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The freshness of dew was in the air; dew or the relics of an overnight shower glittered on the leaves and grass.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Hoopdriver had breakfasted early by Mrs. Gunn's complaisance.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He wheeled his machine up Putney Hill, and his heart sang within him.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Halfway up, a dissipated-looking black cat rushed home across the road and vanished under a gate.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"All the big red-brick houses behind the variegated shrubs and trees had their blinds down still, and he would not have changed places with a soul in any one of them for a hundred pounds.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He had on his new brown cycling suit--a handsome Norfolk jacket thing for 30/(sp.),0.4939,0.198,0.0,0.802,positive,The Wheels of Chance: A Bicycling Idyll
+"--and his legs--those martyr legs--were more than consoled by thick chequered stockings, ""thin in the foot, thick in the leg,"" for all they had endured.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"A neat packet of American cloth behind the saddle contained his change of raiment, and the bell and the handle-bar and the hubs and lamp, albeit a trifle freckled by wear, glittered blindingly in the rising sunlight.",0.4588,0.081,0.0,0.919,positive,The Wheels of Chance: A Bicycling Idyll
+"And at the top of the hill, after only one unsuccessful attempt, which, somehow, terminated on the green, Hoopdriver mounted, and with a stately and cautious restraint in his pace, and a dignified curvature of path, began his great Cycling Tour along the Southern Coast.",0.7351,0.178,0.076,0.745,positive,The Wheels of Chance: A Bicycling Idyll
+"There is only one phrase to describe his course at this stage, and that is--voluptuous curves.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He did not ride fast, he did not ride straight, an exacting critic might say he did not ride well--but he rode generously, opulently, using the whole road and even nibbling at the footpath.",0.0088,0.075,0.1,0.825,neutral,The Wheels of Chance: A Bicycling Idyll
+The excitement never flagged.,0.4939,0.516,0.0,0.484,positive,The Wheels of Chance: A Bicycling Idyll
+"So far he had never passed or been passed by anything, but as yet the day was young and the road was clear.",0.5267,0.134,0.0,0.866,positive,The Wheels of Chance: A Bicycling Idyll
+"He doubted his steering so much that, for the present, he had resolved to dismount at the approach of anything else upon wheels.",-0.1027,0.069,0.085,0.847,negative,The Wheels of Chance: A Bicycling Idyll
+"The shadows of the trees lay very long and blue across the road, the morning sunlight was like amber fire.",0.0258,0.109,0.105,0.786,neutral,The Wheels of Chance: A Bicycling Idyll
+"At the cross-roads at the top of West Hill, where the cattle trough stands, he turned towards Kingston and set himself to scale the little bit of ascent.",0.2023,0.062,0.0,0.938,positive,The Wheels of Chance: A Bicycling Idyll
+"An early heath-keeper, in his velveteen jacket, marvelled at his efforts.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"And while he yet struggled, the head of a carter rose over the brow.",-0.34,0.0,0.167,0.833,negative,The Wheels of Chance: A Bicycling Idyll
+"At the sight of him Mr. Hoopdriver, according to his previous determination, resolved to dismount.",0.5267,0.253,0.0,0.747,positive,The Wheels of Chance: A Bicycling Idyll
+"He tightened the brake, and the machine stopped dead.",-0.7351,0.0,0.47,0.53,negative,The Wheels of Chance: A Bicycling Idyll
+He was trying to think what he did with his right leg whilst getting off.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He gripped the handles and released the brake, standing on the left pedal and waving his right foot in the air.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Then--these things take so long in the telling--he found the machine was falling over to the right.,-0.1531,0.0,0.091,0.909,negative,The Wheels of Chance: A Bicycling Idyll
+"While he was deciding upon a plan of action, gravitation appears to have been busy.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He was still irresolute when he found the machine on the ground, himself kneeling upon it, and a vague feeling in his mind that again Providence had dealt harshly with his shin.",-0.3182,0.045,0.114,0.841,negative,The Wheels of Chance: A Bicycling Idyll
+This happened when he was just level with the heath-keeper.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"The man in the approaching cart stood up to see the ruins better. """,0.0,0.173,0.173,0.655,neutral,The Wheels of Chance: A Bicycling Idyll
+"That ain't the way to get off,"" said the heath-keeper.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Mr. Hoopdriver picked up the machine.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The handle was twisted askew again.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He said something under his breath.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He would have to unscrew the beastly thing. """,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"That ain't the way to get off,"" repeated the heath-keeper, after a silence. """,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"I know that,"" said Mr. Hoopdriver, testily, determined to overlook the new specimen on his shin at any cost.",0.34,0.124,0.0,0.876,positive,The Wheels of Chance: A Bicycling Idyll
+"He unbuckled the wallet behind the saddle, to get out a screw hammer.",-0.1027,0.0,0.113,0.887,negative,The Wheels of Chance: A Bicycling Idyll
+"""If you know it ain't the way to get off--whaddyer do it for?""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"said the heath-keeper, in a tone of friendly controversy.",0.4939,0.314,0.0,0.686,positive,The Wheels of Chance: A Bicycling Idyll
+Mr. Hoopdriver got out his screw hammer and went to the handle.,-0.1027,0.0,0.113,0.887,negative,The Wheels of Chance: A Bicycling Idyll
+He was annoyed.,-0.3818,0.0,0.565,0.435,negative,The Wheels of Chance: A Bicycling Idyll
+"""That's my business, I suppose,"" he said, fumbling with the screw.",-0.1027,0.0,0.135,0.865,negative,The Wheels of Chance: A Bicycling Idyll
+The unusual exertion had made his hands shake frightfully.,-0.5267,0.0,0.386,0.614,negative,The Wheels of Chance: A Bicycling Idyll
+"The heath-keeper became meditative, and twisted his stick in his hands behind his back.",0.34,0.156,0.0,0.844,positive,The Wheels of Chance: A Bicycling Idyll
+"""You've broken yer 'andle, ain't yer?""",-0.4767,0.0,0.383,0.617,negative,The Wheels of Chance: A Bicycling Idyll
+he said presently.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Just then the screw hammer slipped off the nut.,-0.1027,0.0,0.149,0.851,negative,The Wheels of Chance: A Bicycling Idyll
+"Mr. Hoopdriver used a nasty, low word.",-0.6908,0.0,0.588,0.412,negative,The Wheels of Chance: A Bicycling Idyll
+"""They're trying things, them bicycles,"" said the heath-keeper, charitably.",0.34,0.231,0.0,0.769,positive,The Wheels of Chance: A Bicycling Idyll
+"""Very trying.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Mr. Hoopdriver gave the nut a vicious turn and suddenly stood up--he was holding the front wheel between his knees.,-0.3612,0.0,0.122,0.878,negative,The Wheels of Chance: A Bicycling Idyll
+"""I wish,"" said he, with a catch in his voice, ""I wish you'd leave off staring at me.""",0.3612,0.143,0.063,0.794,positive,The Wheels of Chance: A Bicycling Idyll
+"Then with the air of one who has delivered an ultimatum, he began replacing the screw hammer in the wallet.",-0.1027,0.0,0.069,0.931,negative,The Wheels of Chance: A Bicycling Idyll
+The heath-keeper never moved.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Possibly he raised his eyebrows, and certainly he stared harder than he did before.",0.34,0.156,0.0,0.844,positive,The Wheels of Chance: A Bicycling Idyll
+"""You're pretty unsociable,"" he said slowly, as Mr. Hoopdriver seized the handles and stood ready to mount as soon as the cart had passed.",0.6908,0.206,0.0,0.794,positive,The Wheels of Chance: A Bicycling Idyll
+The indignation gathered slowly but surely.,0.3919,0.383,0.219,0.398,positive,The Wheels of Chance: A Bicycling Idyll
+"""Why don't you ride on a private road of your own if no one ain't to speak to you?""",-0.296,0.0,0.115,0.885,negative,The Wheels of Chance: A Bicycling Idyll
+"asked the heath-keeper, perceiving more and more clearly the bearing of the matter.",0.5198,0.284,0.0,0.716,positive,The Wheels of Chance: A Bicycling Idyll
+"""Can't no one make a passin' remark to you, Touchy?",0.2235,0.191,0.0,0.809,positive,The Wheels of Chance: A Bicycling Idyll
+Ain't I good enough to speak to you?,-0.3412,0.0,0.286,0.714,negative,The Wheels of Chance: A Bicycling Idyll
+"Been struck wooden all of a sudden?""",-0.25,0.0,0.286,0.714,negative,The Wheels of Chance: A Bicycling Idyll
+Mr. Hoopdriver stared into the Immensity of the Future.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He was rigid with emotion.,-0.128,0.0,0.273,0.727,negative,The Wheels of Chance: A Bicycling Idyll
+It was like abusing the Lions in Trafalgar Square.,-0.128,0.2,0.24,0.56,negative,The Wheels of Chance: A Bicycling Idyll
+But the heath-keeper felt his honour was at stake.,0.7227,0.387,0.0,0.613,positive,The Wheels of Chance: A Bicycling Idyll
+"""Don't you make no remarks to ' im ,"" said the keeper as the carter came up broadside to them.",0.2235,0.095,0.0,0.905,positive,The Wheels of Chance: A Bicycling Idyll
+"""'E's a bloomin' dook, 'e is.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+'E don't converse with no one under a earl.,0.2235,0.212,0.0,0.788,positive,The Wheels of Chance: A Bicycling Idyll
+"'E's off to Windsor, 'e is; that's why 'e's stickin' his be'ind out so haughty.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Pride!,0.4003,1.0,0.0,0.0,positive,The Wheels of Chance: A Bicycling Idyll
+"Why, 'e's got so much of it, 'e has to carry some of it in that there bundle there, for fear 'e'd bust if 'e didn't ease hisself a bit--' E --"" But Mr. Hoopdriver heard no more.",-0.6657,0.0,0.164,0.836,negative,The Wheels of Chance: A Bicycling Idyll
+"He was hopping vigorously along the road, in a spasmodic attempt to remount.",0.128,0.12,0.0,0.88,positive,The Wheels of Chance: A Bicycling Idyll
+"He missed the treadle once and swore viciously, to the keeper's immense delight.",0.1027,0.212,0.245,0.543,positive,The Wheels of Chance: A Bicycling Idyll
+"""Nar!",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Nar!""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+said the heath-keeper.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"In another moment Mr. Hoopdriver was up, and after one terrific lurch of the machine, the heath-keeper dropped out of earshot.",0.4767,0.134,0.0,0.866,positive,The Wheels of Chance: A Bicycling Idyll
+"Mr. Hoopdriver would have liked to look back at his enemy, but he usually twisted round and upset if he tried that.",-0.5789,0.072,0.213,0.716,negative,The Wheels of Chance: A Bicycling Idyll
+He had to imagine the indignant heath-keeper telling the carter all about it.,-0.4215,0.0,0.189,0.811,negative,The Wheels of Chance: A Bicycling Idyll
+He tried to infuse as much disdain as possible into his retreating aspect.,-0.4767,0.0,0.205,0.795,negative,The Wheels of Chance: A Bicycling Idyll
+"He drove on his sinuous way down the dip by the new mere and up the little rise to the crest of the hill that drops into Kingston Vale; and so remarkable is the psychology of cycling, that he rode all the straighter and easier because the emotions the heath-keeper had aroused relieved his mind of the constant expectation of collapse that had previously unnerved him.",0.7793,0.133,0.043,0.824,positive,The Wheels of Chance: A Bicycling Idyll
+To ride a bicycle properly is very like a love affair--chiefly it is a matter of faith.,0.8799,0.528,0.0,0.472,positive,The Wheels of Chance: A Bicycling Idyll
+"Believe you do it, and the thing is done; doubt, and, for the life of you, you cannot.",-0.3612,0.0,0.128,0.872,negative,The Wheels of Chance: A Bicycling Idyll
+"Now you may perhaps imagine that as he rode on, his feelings towards the heath-keeper were either vindictive or remorseful,--vindictive for the aggravation or remorseful for his own injudicious display of ill temper.",-0.7579,0.0,0.2,0.8,negative,The Wheels of Chance: A Bicycling Idyll
+"As a matter of fact, they were nothing of the sort.",0.0258,0.109,0.0,0.891,neutral,The Wheels of Chance: A Bicycling Idyll
+"A sudden, a wonderful gratitude, possessed him.",0.7906,0.7,0.0,0.3,positive,The Wheels of Chance: A Bicycling Idyll
+The Glory of the Holidays had resumed its sway with a sudden accession of splendour.,0.8519,0.458,0.0,0.542,positive,The Wheels of Chance: A Bicycling Idyll
+"At the crest of the hill he put his feet upon the footrests, and now riding moderately straight, went, with a palpitating brake, down that excellent descent.",0.6808,0.189,0.0,0.811,positive,The Wheels of Chance: A Bicycling Idyll
+"A new delight was in his eyes, quite over and above the pleasure of rushing through the keen, sweet, morning air.",0.9201,0.45,0.0,0.55,positive,The Wheels of Chance: A Bicycling Idyll
+He reached out his thumb and twanged his bell out of sheer happiness.,0.6124,0.312,0.0,0.688,positive,The Wheels of Chance: A Bicycling Idyll
+"""'He's a bloomin' Dook--he is!'""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"said Mr. Hoopdriver to himself, in a soft undertone, as he went soaring down the hill, and again, ""'He's a bloomin' Dook!""'",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He opened his mouth in a silent laugh.,0.5574,0.375,0.0,0.625,positive,The Wheels of Chance: A Bicycling Idyll
+It was having a decent cut did it.,-0.2732,0.0,0.259,0.741,negative,The Wheels of Chance: A Bicycling Idyll
+His social superiority had been so evident that even a man like that noticed it.,0.5994,0.29,0.0,0.71,positive,The Wheels of Chance: A Bicycling Idyll
+No more Manchester Department for ten days!,-0.3595,0.0,0.293,0.707,negative,The Wheels of Chance: A Bicycling Idyll
+"Out of Manchester, a Man.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"The draper Hoopdriver, the Hand, had vanished from existence.",0.4939,0.286,0.0,0.714,positive,The Wheels of Chance: A Bicycling Idyll
+"Instead was a gentleman, a man of pleasure, with a five-pound note, two sovereigns, and some silver at various convenient points of his person.",0.5719,0.156,0.0,0.844,positive,The Wheels of Chance: A Bicycling Idyll
+"At any rate as good as a Dook, if not precisely in the peerage.",0.4404,0.195,0.0,0.805,positive,The Wheels of Chance: A Bicycling Idyll
+"Involuntarily at the thought of his funds Hoopdriver's right hand left the handle and sought his breast pocket, to be immediately recalled by a violent swoop of the machine towards the cemetery.",-0.1779,0.089,0.108,0.803,negative,The Wheels of Chance: A Bicycling Idyll
+Whirroo!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Just missed that half-brick!,-0.3595,0.0,0.454,0.546,negative,The Wheels of Chance: A Bicycling Idyll
+Mischievous brutes there were in the world to put such a thing in the road.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Some blooming 'Arry or other!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Ought to prosecute a few of these roughs, and the rest would know better.",0.0516,0.175,0.163,0.663,positive,The Wheels of Chance: A Bicycling Idyll
+That must be the buckle of the wallet was rattling on the mud-guard.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+How cheerfully the wheels buzzed!,0.5255,0.459,0.0,0.541,positive,The Wheels of Chance: A Bicycling Idyll
+"The cemetery was very silent and peaceful, but the Vale was waking, and windows rattled and squeaked up, and a white dog came out of one of the houses and yelped at him.",0.3031,0.067,0.0,0.933,positive,The Wheels of Chance: A Bicycling Idyll
+"He got off, rather breathless, at the foot of Kingston Hill, and pushed up.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Halfway up, an early milk chariot rattled by him; two dirty men with bundles came hurrying down.",-0.4404,0.0,0.153,0.847,negative,The Wheels of Chance: A Bicycling Idyll
+"Hoopdriver felt sure they were burglars, carrying home the swag.",0.3182,0.204,0.0,0.796,positive,The Wheels of Chance: A Bicycling Idyll
+"It was up Kingston Hill that he first noticed a peculiar feeling, a slight tightness at his knees; but he noticed, too, at the top that he rode straighter than he did before.",0.4118,0.145,0.0,0.855,positive,The Wheels of Chance: A Bicycling Idyll
+The pleasure of riding straight blotted out these first intimations of fatigue.,0.5574,0.337,0.12,0.542,positive,The Wheels of Chance: A Bicycling Idyll
+"A man on horseback appeared; Hoopdriver, in a tumult of soul at his own temerity, passed him.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Then down the hill into Kingston, with the screw hammer, behind in the wallet, rattling against the oil can.",-0.1027,0.0,0.072,0.928,negative,The Wheels of Chance: A Bicycling Idyll
+"He passed, without misadventure, a fruiterer's van and a sluggish cartload of bricks.",-0.4019,0.0,0.213,0.787,negative,The Wheels of Chance: A Bicycling Idyll
+"And in Kingston Hoopdriver, with the most exquisite sensations, saw the shutters half removed from a draper's shop, and two yawning youths, in dusty old black jackets and with dirty white comforters about their necks, clearing up the planks and boxes and wrappers in the window, preparatory to dressing it out.",-0.1779,0.041,0.055,0.904,negative,The Wheels of Chance: A Bicycling Idyll
+Even so had Hoopdriver been on the previous day.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"But now, was he not a bloomin' Dook, palpably in the sight of common men?",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Then round the corner to the right--bell banged furiously--and so along the road to Surbiton.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Whoop for Freedom and Adventure!,0.7777,0.694,0.0,0.306,positive,The Wheels of Chance: A Bicycling Idyll
+"Every now and then a house with an expression of sleepy surprise would open its eye as he passed, and to the right of him for a mile or so the weltering Thames flashed and glittered.",0.2732,0.06,0.0,0.94,positive,The Wheels of Chance: A Bicycling Idyll
+Talk of your joie de vivre!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Albeit with a certain cramping sensation about the knees and calves slowly forcing itself upon his attention.,0.2732,0.123,0.0,0.877,positive,The Wheels of Chance: A Bicycling Idyll
+V. THE SHAMEFUL EPISODE OF THE YOUNG LADY IN GREY Now you must understand that Mr. Hoopdriver was not one of your fast young men.,-0.4588,0.067,0.136,0.797,negative,The Wheels of Chance: A Bicycling Idyll
+"If he had been King Lemuel, he could not have profited more by his mother's instructions.",-0.2411,0.0,0.116,0.884,negative,The Wheels of Chance: A Bicycling Idyll
+He regarded the feminine sex as something to bow to and smirk at from a safe distance.,0.4404,0.162,0.0,0.838,positive,The Wheels of Chance: A Bicycling Idyll
+Years of the intimate remoteness of a counter leave their mark upon a man.,-0.0516,0.0,0.098,0.902,negative,The Wheels of Chance: A Bicycling Idyll
+It was an adventure for him to take one of the Young Ladies of the establishment to church on a Sunday.,0.3182,0.108,0.0,0.892,positive,The Wheels of Chance: A Bicycling Idyll
+"Few modern young men could have merited less the epithet ""Dorg.""",0.34,0.194,0.0,0.806,positive,The Wheels of Chance: A Bicycling Idyll
+But I have thought at times that his machine may have had something of the blade in its metal.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Decidedly it was a machine with a past.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Mr. Hoopdriver had bought it second-hand from Hare's in Putney, and Hare said it had had several owners.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Second-hand was scarcely the word for it, and Hare was mildly puzzled that he should be selling such an antiquity.",-0.1779,0.0,0.082,0.918,negative,The Wheels of Chance: A Bicycling Idyll
+"He said it was perfectly sound, if a little old-fashioned, but he was absolutely silent about its moral character.",0.3818,0.133,0.0,0.867,positive,The Wheels of Chance: A Bicycling Idyll
+"It may even have begun its career with a poet, say, in his glorious youth.",0.6369,0.244,0.0,0.756,positive,The Wheels of Chance: A Bicycling Idyll
+It may have been the bicycle of a Really Bad Man.,-0.5849,0.0,0.296,0.704,negative,The Wheels of Chance: A Bicycling Idyll
+No one who has ever ridden a cycle of any kind but will witness that the things are unaccountably prone to pick up bad habits--and keep them.,-0.631,0.07,0.201,0.729,negative,The Wheels of Chance: A Bicycling Idyll
+It is undeniable that it became convulsed with the most violent emotions directly the Young Lady in Grey appeared.,-0.6115,0.054,0.187,0.759,negative,The Wheels of Chance: A Bicycling Idyll
+It began an absolutely unprecedented Wabble--unprecedented so far as Hoopdriver's experience went.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"It ""showed off""--the most decadent sinuosity.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+It left a track like one of Beardsley's feathers.,0.3612,0.263,0.0,0.737,positive,The Wheels of Chance: A Bicycling Idyll
+"He suddenly realised, too, that his cap was loose on his head and his breath a mere remnant.",-0.3182,0.0,0.126,0.874,negative,The Wheels of Chance: A Bicycling Idyll
+The Young Lady in Grey was also riding a bicycle.,0.0516,0.13,0.0,0.87,positive,The Wheels of Chance: A Bicycling Idyll
+"She was dressed in a beautiful bluish-gray, and the sun behind her drew her outline in gold and left the rest in shadow.",0.5994,0.157,0.0,0.843,positive,The Wheels of Chance: A Bicycling Idyll
+"Hoopdriver was dimly aware that she was young, rather slender, dark, and with a bright colour and bright eyes.",0.7003,0.266,0.0,0.734,positive,The Wheels of Chance: A Bicycling Idyll
+Strange doubts possessed him as to the nature of her nether costume.,-0.4588,0.0,0.286,0.714,negative,The Wheels of Chance: A Bicycling Idyll
+He had heard of such things of course.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"French, perhaps.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Her handles glittered; a jet of sunlight splashed off her bell blindingly.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+She was approaching the high road along an affluent from the villas of Surbiton.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The roads converged slantingly.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+She was travelling at about the same pace as Mr. Hoopdriver.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The appearances pointed to a meeting at the fork of the roads.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Hoopdriver was seized with a horrible conflict of doubts.,-0.7906,0.0,0.615,0.385,negative,The Wheels of Chance: A Bicycling Idyll
+By contrast with her he rode disgracefully.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Had he not better get off at once and pretend something was wrong with his treadle?,-0.7101,0.0,0.347,0.653,negative,The Wheels of Chance: A Bicycling Idyll
+Yet even the end of getting off was an uncertainty.,-0.34,0.0,0.211,0.789,negative,The Wheels of Chance: A Bicycling Idyll
+That last occasion on Putney Heath!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"On the other hand, what would happen if he kept on?",0.4939,0.242,0.0,0.758,positive,The Wheels of Chance: A Bicycling Idyll
+To go very slow seemed the abnegation of his manhood.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+To crawl after a mere schoolgirl!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Besides, she was not riding very fast.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"On the other hand, to thrust himself in front of her, consuming the road in his tendril-like advance, seemed an incivility--greed.",0.4939,0.138,0.0,0.862,positive,The Wheels of Chance: A Bicycling Idyll
+He would leave her such a very little.,-0.0516,0.0,0.167,0.833,negative,The Wheels of Chance: A Bicycling Idyll
+His business training made him prone to bow and step aside.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"If only one could take one's hands off the handles, one might pass with a silent elevation of the hat, of course.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+But even that was a little suggestive of a funeral.,-0.4319,0.0,0.29,0.71,negative,The Wheels of Chance: A Bicycling Idyll
+Meanwhile the roads converged.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+She was looking at him.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"She was flushed, a little thin, and had very bright eyes.",0.4927,0.262,0.0,0.738,positive,The Wheels of Chance: A Bicycling Idyll
+Her red lips fell apart.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"She may have been riding hard, but it looked uncommonly like a faint smile.",0.743,0.367,0.068,0.565,positive,The Wheels of Chance: A Bicycling Idyll
+And the things were--yes!-- rationals!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Suddenly an impulse to bolt from the situation became clamorous.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Mr. Hoopdriver pedalled convulsively, intending to pass her.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He jerked against some tin thing on the road, and it flew up between front wheel and mud-guard.",-0.2023,0.0,0.096,0.904,negative,The Wheels of Chance: A Bicycling Idyll
+He twisted round towards her.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Had the machine a devil?,-0.6597,0.0,0.595,0.405,negative,The Wheels of Chance: A Bicycling Idyll
+At that supreme moment it came across him that he would have done wiser to dismount.,0.7003,0.293,0.0,0.707,positive,The Wheels of Chance: A Bicycling Idyll
+"He gave a frantic 'whoop' and tried to get round, then, as he seemed falling over, he pulled the handles straight again and to the left by an instinctive motion, and shot behind her hind wheel, missing her by a hair's breadth.",-0.5859,0.043,0.15,0.807,negative,The Wheels of Chance: A Bicycling Idyll
+The pavement kerb awaited him.,-0.0258,0.0,0.216,0.784,neutral,The Wheels of Chance: A Bicycling Idyll
+"He tried to recover, and found himself jumped up on the pavement and riding squarely at a neat wooden paling.",0.4588,0.143,0.0,0.857,positive,The Wheels of Chance: A Bicycling Idyll
+He struck this with a terrific impact and shot forward off his saddle into a clumsy entanglement.,0.2732,0.171,0.11,0.718,positive,The Wheels of Chance: A Bicycling Idyll
+"Then he began to tumble over sideways, and completed the entire figure in a sitting position on the gravel, with his feet between the fork and the stay of the machine.",-0.128,0.0,0.049,0.951,negative,The Wheels of Chance: A Bicycling Idyll
+The concussion on the gravel shook his entire being.,-0.2263,0.0,0.293,0.707,negative,The Wheels of Chance: A Bicycling Idyll
+"He remained in that position, wishing that he had broken his neck, wishing even more heartily that he had never been born.",-0.0772,0.147,0.12,0.734,negative,The Wheels of Chance: A Bicycling Idyll
+The glory of life had departed.,0.5423,0.412,0.0,0.588,positive,The Wheels of Chance: A Bicycling Idyll
+"Bloomin' Dook, indeed!",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+These unwomanly women!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"There was a soft whirr, the click of a brake, two footfalls, and the Young Lady in Grey stood holding her machine.",0.0516,0.059,0.0,0.941,positive,The Wheels of Chance: A Bicycling Idyll
+She had turned round and come back to him.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The warm sunlight now was in her face.,0.2263,0.213,0.0,0.787,positive,The Wheels of Chance: A Bicycling Idyll
+"""Are you hurt?""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+she said.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"She had a pretty, clear, girlish voice.",0.7003,0.592,0.0,0.408,positive,The Wheels of Chance: A Bicycling Idyll
+"She was really very young--quite a girl, in fact.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+And rode so well!,0.4648,0.503,0.0,0.497,positive,The Wheels of Chance: A Bicycling Idyll
+It was a bitter draught.,-0.4215,0.0,0.483,0.517,negative,The Wheels of Chance: A Bicycling Idyll
+Mr. Hoopdriver stood up at once.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Not a bit,"" he said, a little ruefully.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He became painfully aware that large patches of gravel scarcely improve the appearance of a Norfolk suit.,-0.3167,0.127,0.239,0.634,negative,The Wheels of Chance: A Bicycling Idyll
+"""I'm very sorry indeed--"" ""It's my fault,"" she said, interrupting and so saving him on the very verge of calling her 'Miss.'",-0.4201,0.0,0.159,0.841,negative,The Wheels of Chance: A Bicycling Idyll
+"(He knew 'Miss' was wrong, but it was deep-seated habit with him.)",-0.2617,0.0,0.157,0.843,negative,The Wheels of Chance: A Bicycling Idyll
+"""I tried to pass you on the wrong side.""",-0.4767,0.0,0.279,0.721,negative,The Wheels of Chance: A Bicycling Idyll
+Her face and eyes seemed all alive.,0.3818,0.302,0.0,0.698,positive,The Wheels of Chance: A Bicycling Idyll
+"""It's my place to be sorry.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""But it was my steering--"" ""I ought to have seen you were a Novice""--with a touch of superiority.",0.4767,0.171,0.0,0.829,positive,The Wheels of Chance: A Bicycling Idyll
+"""But you rode so straight coming along there!""",0.5467,0.335,0.0,0.665,positive,The Wheels of Chance: A Bicycling Idyll
+She really was--dashed pretty.,0.539,0.537,0.0,0.463,positive,The Wheels of Chance: A Bicycling Idyll
+Mr. Hoopdriver's feelings passed the nadir.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+When he spoke again there was the faintest flavour of the aristocratic in his voice.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""It's my first ride, as a matter of fact.",0.0258,0.136,0.0,0.864,neutral,The Wheels of Chance: A Bicycling Idyll
+But that's no excuse for my ah!,-0.3903,0.152,0.324,0.524,negative,The Wheels of Chance: A Bicycling Idyll
+"blundering--"" ""Your finger's bleeding,"" she said, abruptly.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He saw his knuckle was barked.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""I didn't feel it,"" he said, feeling manly.",0.128,0.176,0.0,0.824,positive,The Wheels of Chance: A Bicycling Idyll
+"""You don't at first.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Have you any sticking-plaster?,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"If not--"" She balanced her machine against herself.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"She had a little side pocket, and she whipped out a small packet of sticking-plaster with a pair of scissors in a sheath at the side, and cut off a generous portion.",0.296,0.109,0.069,0.822,positive,The Wheels of Chance: A Bicycling Idyll
+He had a wild impulse to ask her to stick it on for him.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Controlled.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Thank you,"" he said.",0.3612,0.455,0.0,0.545,positive,The Wheels of Chance: A Bicycling Idyll
+"""Machine all right?""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"she asked, looking past him at the prostrate vehicle, her hands on her handle-bar.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+For the first time Hoopdriver did not feel proud of his machine.,-0.3724,0.0,0.188,0.812,negative,The Wheels of Chance: A Bicycling Idyll
+He turned and began to pick up the fallen fabric.,-0.3612,0.0,0.217,0.783,negative,The Wheels of Chance: A Bicycling Idyll
+"He looked over his shoulder, and she was gone, turned his head over the other shoulder down the road, and she was riding off. """,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Orf! """,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+said Mr. Hoopdriver.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Well, I'm blowed!--Talk about Slap Up!""",0.2924,0.304,0.0,0.696,positive,The Wheels of Chance: A Bicycling Idyll
+(His aristocratic refinement rarely adorned his speech in his private soliloquies.),-0.1511,0.0,0.137,0.863,negative,The Wheels of Chance: A Bicycling Idyll
+His mind was whirling.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+One fact was clear.,0.3818,0.464,0.0,0.536,positive,The Wheels of Chance: A Bicycling Idyll
+A most delightful and novel human being had flashed across his horizon and was going out of his life again.,0.7688,0.281,0.0,0.719,positive,The Wheels of Chance: A Bicycling Idyll
+The Holiday madness was in his blood.,-0.0516,0.255,0.274,0.472,negative,The Wheels of Chance: A Bicycling Idyll
+She looked round!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"At that he rushed his machine into the road, and began a hasty ascent.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Unsuccessful.,-0.3612,0.0,1.0,0.0,negative,The Wheels of Chance: A Bicycling Idyll
+Try again.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Confound it, will he never be able to get up on the thing again?",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+She will be round the corner in a minute.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Once more.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Ah!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Pedal!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Wabble!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+No!,-0.3595,0.0,1.0,0.0,negative,The Wheels of Chance: A Bicycling Idyll
+Right this time!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He gripped the handles and put his head down.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He would overtake her.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The situation was primordial.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"The Man beneath prevailed for a moment over the civilised superstructure, the Draper.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He pushed at the pedals with archaic violence.,-0.6249,0.0,0.369,0.631,negative,The Wheels of Chance: A Bicycling Idyll
+So Palaeolithic man may have ridden his simple bicycle of chipped flint in pursuit of his exogamous affinity.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+She vanished round the corner.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+His effort was Titanic.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+What should he say when he overtook her?,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+That scarcely disturbed him at first.,-0.3197,0.0,0.316,0.684,negative,The Wheels of Chance: A Bicycling Idyll
+"How fine she had looked, flushed with the exertion of riding, breathing a little fast, but elastic and active!",0.6419,0.247,0.0,0.753,positive,The Wheels of Chance: A Bicycling Idyll
+"Talk about your ladylike, homekeeping girls with complexions like cold veal!",0.4199,0.218,0.0,0.782,positive,The Wheels of Chance: A Bicycling Idyll
+But what should he say to her?,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+That was a bother.,-0.34,0.0,0.545,0.455,negative,The Wheels of Chance: A Bicycling Idyll
+And he could not lift his cap without risking a repetition of his previous ignominy.,0.2411,0.131,0.0,0.869,positive,The Wheels of Chance: A Bicycling Idyll
+She was a real Young Lady.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+No mistake about that!,-0.5983,0.0,0.71,0.29,negative,The Wheels of Chance: A Bicycling Idyll
+None of your blooming shop girls.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"(There is no greater contempt in the world than that of shop men for shop girls, unless it be that of shop girls for shop men.)",-0.5423,0.079,0.19,0.73,negative,The Wheels of Chance: A Bicycling Idyll
+Phew!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+This was work.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+A certain numbness came and went at his knees.,0.0,0.206,0.206,0.588,neutral,The Wheels of Chance: A Bicycling Idyll
+"""May I ask to whom I am indebted?""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"he panted to himself, trying it over.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+That might do.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Lucky he had a card case!,0.4753,0.436,0.0,0.564,positive,The Wheels of Chance: A Bicycling Idyll
+A hundred a shilling--while you wait.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He was getting winded.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The road was certainly a bit uphill.,0.34,0.324,0.0,0.676,positive,The Wheels of Chance: A Bicycling Idyll
+"He turned the corner and saw a long stretch of road, and a grey dress vanishing.",0.0516,0.085,0.0,0.915,positive,The Wheels of Chance: A Bicycling Idyll
+He set his teeth.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Had he gained on her at all?,0.3818,0.302,0.0,0.698,positive,The Wheels of Chance: A Bicycling Idyll
+"""Monkey on a gridiron!""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+yelped a small boy.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Hoopdriver redoubled his efforts.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"His breath became audible, his steering unsteady, his pedalling positively ferocious.",0.4588,0.246,0.101,0.652,positive,The Wheels of Chance: A Bicycling Idyll
+"A drop of perspiration ran into his eye, irritant as acid.",-0.6597,0.0,0.403,0.597,negative,The Wheels of Chance: A Bicycling Idyll
+The road really was uphill beyond dispute.,-0.4019,0.0,0.31,0.69,negative,The Wheels of Chance: A Bicycling Idyll
+All his physiology began to cry out at him.,-0.4767,0.0,0.279,0.721,negative,The Wheels of Chance: A Bicycling Idyll
+"A last tremendous effort brought him to the corner and showed yet another extent of shady roadway, empty save for a baker's van.",0.34,0.133,0.075,0.792,positive,The Wheels of Chance: A Bicycling Idyll
+His front wheel suddenly shrieked aloud.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Oh Lord!""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"said Hoopdriver, relaxing.",0.4939,0.615,0.0,0.385,positive,The Wheels of Chance: A Bicycling Idyll
+Anyhow she was not in sight.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He got off unsteadily, and for a moment his legs felt like wisps of cotton.",0.3612,0.161,0.0,0.839,positive,The Wheels of Chance: A Bicycling Idyll
+He balanced his machine against the grassy edge of the path and sat down panting.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"His hands were gnarled with swollen veins and shaking palpably, his breath came viscid.",-0.1779,0.0,0.116,0.884,negative,The Wheels of Chance: A Bicycling Idyll
+"""I'm hardly in training yet,"" he remarked.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+His legs had gone leaden.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""I don't feel as though I'd had a mouthful of breakfast.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Presently he slapped his side pocket and produced therefrom a brand-new cigarette case and a packet of Vansittart's Red Herring cigarettes.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He filled the case.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Then his eye fell with a sudden approval on the ornamental chequering of his new stockings.,0.4767,0.181,0.0,0.819,positive,The Wheels of Chance: A Bicycling Idyll
+The expression in his eyes faded slowly to abstract meditation.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""She was a stunning girl,"" he said.",0.3818,0.342,0.0,0.658,positive,The Wheels of Chance: A Bicycling Idyll
+"""I wonder if I shall ever set eyes on her again.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"And she knew how to ride, too!",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Wonder what she thought of me.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The phrase 'bloomin' Dook' floated into his mind with a certain flavour of comfort.,0.5574,0.295,0.0,0.705,positive,The Wheels of Chance: A Bicycling Idyll
+"He lit a cigarette, and sat smoking and meditating.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He did not even look up when vehicles passed.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+It was perhaps ten minutes before he roused himself.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""What rot it is!",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"What's the good of thinking such things,"" he said.",0.4404,0.266,0.0,0.734,positive,The Wheels of Chance: A Bicycling Idyll
+"""I'm only a blessed draper's assistant.""",0.5994,0.494,0.0,0.506,positive,The Wheels of Chance: A Bicycling Idyll
+"(To be exact, he did not say blessed.",-0.4847,0.0,0.31,0.69,negative,The Wheels of Chance: A Bicycling Idyll
+"The service of a shop may polish a man's exterior ways, but the 'prentices' dormitory is an indifferent school for either manners or morals.)",-0.296,0.0,0.095,0.905,negative,The Wheels of Chance: A Bicycling Idyll
+He stood up and began wheeling his machine towards Esher.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"It was going to be a beautiful day, and the hedges and trees and the open country were all glorious to his town-tired eyes.",0.8442,0.278,0.0,0.722,positive,The Wheels of Chance: A Bicycling Idyll
+But it was a little different from the elation of his start.,0.5023,0.245,0.0,0.755,positive,The Wheels of Chance: A Bicycling Idyll
+"""Look at the gentleman wizzer bicitle,"" said a nursemaid on the path to a personage in a perambulator.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+That healed him a little.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""'Gentleman wizzer bicitle,'--'bloomin' Dook'--I can't look so very seedy,"" he said to himself.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""I wonder --I should just like to know--"" There was something very comforting in the track of her pneumatic running straight and steady along the road before him.",0.7501,0.228,0.0,0.772,positive,The Wheels of Chance: A Bicycling Idyll
+It must be hers.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+No other pneumatic had been along the road that morning.,-0.296,0.0,0.196,0.804,negative,The Wheels of Chance: A Bicycling Idyll
+"It was just possible, of course, that he might see her once more--coming back.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Should he try and say something smart?,0.4019,0.31,0.0,0.69,positive,The Wheels of Chance: A Bicycling Idyll
+He speculated what manner of girl she might be.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Probably she was one of these here New Women.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He had a persuasion the cult had been maligned.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Anyhow she was a Lady.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"And rich people, too!",0.5983,0.565,0.0,0.435,positive,The Wheels of Chance: A Bicycling Idyll
+Her machine couldn't have cost much under twenty pounds.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+His mind came round and dwelt some time on her visible self.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Rational dress didn't look a bit unwomanly.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"However, he disdained to be one of your fortune-hunters.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Then his thoughts drove off at a tangent.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+He would certainly have to get something to eat at the next public house.,0.34,0.156,0.0,0.844,positive,The Wheels of Chance: A Bicycling Idyll
+VI.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"ON THE ROAD TO RIPLEY In the fulness of time, Mr. Hoopdriver drew near the Marquis of Granby at Esher, and as he came under the railway arch and saw the inn in front of him, he mounted his machine again and rode bravely up to the doorway.",0.5106,0.066,0.0,0.934,positive,The Wheels of Chance: A Bicycling Idyll
+"Burton and biscuit and cheese he had, which, indeed, is Burton in its proper company; and as he was eating there came a middleaged man in a drab cycling suit, very red and moist and angry in the face, and asked bitterly for a lemon squash.",-0.743,0.0,0.133,0.867,negative,The Wheels of Chance: A Bicycling Idyll
+And he sat down upon the seat in the bar and mopped his face.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+But scarcely had he sat down before he got up again and stared out of the doorway.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Damn!""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+said he.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Then, ""Damned Fool!""",-0.4389,0.0,0.591,0.409,negative,The Wheels of Chance: A Bicycling Idyll
+"""Eigh?""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"said Mr. Hoopdriver, looking round suddenly with a piece of cheese in his cheek.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The man in drab faced him.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""I called myself a Damned Fool, sir.",-0.6705,0.0,0.579,0.421,negative,The Wheels of Chance: A Bicycling Idyll
+"Have you any objections?""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""Oh!--None.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"None,"" said Mr. Hoopdriver.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""I thought you spoke to me.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"I didn't hear what you said.""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"""To have a contemplative disposition and an energetic temperament, sir, is hell.",-0.4019,0.176,0.279,0.545,negative,The Wheels of Chance: A Bicycling Idyll
+"Hell, I tell you.",-0.6808,0.0,0.697,0.303,negative,The Wheels of Chance: A Bicycling Idyll
+"A contemplative disposition and a phlegmatic temperament, all very well.",0.3384,0.255,0.0,0.745,positive,The Wheels of Chance: A Bicycling Idyll
+"But energy and philosophy--!""",0.4482,0.495,0.0,0.505,positive,The Wheels of Chance: A Bicycling Idyll
+"Mr. Hoopdriver looked as intelligent as he could, but said nothing.",0.25,0.167,0.0,0.833,positive,The Wheels of Chance: A Bicycling Idyll
+"""There's no hurry, sir, none whatever.",-0.296,0.0,0.306,0.694,negative,The Wheels of Chance: A Bicycling Idyll
+"I came out for exercise, gentle exercise, and to notice the scenery and to botanise.",0.4404,0.182,0.0,0.818,positive,The Wheels of Chance: A Bicycling Idyll
+"And no sooner do I get on the accursed machine, than off I go hammer and tongs; I never look to right or left, never notice a flower, never see a view, get hot, juicy, red,--like a grilled chop.",-0.296,0.0,0.064,0.936,negative,The Wheels of Chance: A Bicycling Idyll
+"Here I am, sir.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Come from Guildford in something under the hour.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"why , sir?""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Mr. Hoopdriver shook his head.,-0.1027,0.0,0.259,0.741,negative,The Wheels of Chance: A Bicycling Idyll
+"""Because I'm a damned fool, sir.",-0.6705,0.0,0.647,0.353,negative,The Wheels of Chance: A Bicycling Idyll
+"Because I've reservoirs and reservoirs of muscular energy, and one or other of them is always leaking.",0.2732,0.116,0.0,0.884,positive,The Wheels of Chance: A Bicycling Idyll
+"It's a most interesting road, birds and trees, I've no doubt, and wayside flowers, and there's nothing I should enjoy more than watching them.",-0.5163,0.106,0.259,0.636,negative,The Wheels of Chance: A Bicycling Idyll
+But I can't.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Get me on that machine, and I have to go.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"Get me on anything, and I have to go.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+And I don't want to go a bit.,-0.0572,0.0,0.196,0.804,negative,The Wheels of Chance: A Bicycling Idyll
+"Why should a man rush about like a rocket, all pace and fizzle?",0.3612,0.2,0.0,0.8,positive,The Wheels of Chance: A Bicycling Idyll
+Why?,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+It makes me furious.,-0.5719,0.0,0.552,0.448,negative,The Wheels of Chance: A Bicycling Idyll
+"I can assure you, sir, I go scorching along the road, and cursing aloud at myself for doing it.",0.34,0.13,0.0,0.87,positive,The Wheels of Chance: A Bicycling Idyll
+"A quiet, dignified, philosophical man, that's what I am--at bottom; and here I am dancing with rage and swearing like a drunken tinker at a perfect stranger-- ""But my day's wasted.",-0.4404,0.181,0.236,0.583,negative,The Wheels of Chance: A Bicycling Idyll
+"I've lost all that country road, and now I'm on the fringe of London.",-0.3182,0.0,0.15,0.85,negative,The Wheels of Chance: A Bicycling Idyll
+And I might have loitered all the morning!,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Ugh!,-0.4753,0.0,1.0,0.0,negative,The Wheels of Chance: A Bicycling Idyll
+"Thank Heaven, sir, you have not the irritable temperament, that you are not goaded to madness by your endogenous sneers, by the eternal wrangling of an uncomfortable soul and body.",0.7998,0.281,0.068,0.652,positive,The Wheels of Chance: A Bicycling Idyll
+"I tell you, I lead a cat and dog life--But what is the use of talking?--It's all of a piece!""",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He tossed his head with unspeakable self-disgust, pitched the lemon squash into his mouth, paid for it, and without any further remark strode to the door.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+Mr. Hoopdriver was still wondering what to say when his interlocutor vanished.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"There was a noise of a foot spurning the gravel, and when Mr. Hoopdriver reached the doorway, the man in drab was a score of yards Londonward.",-0.0258,0.056,0.06,0.884,neutral,The Wheels of Chance: A Bicycling Idyll
+He had already gathered pace.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"He pedalled with ill-suppressed anger, and his head was going down.",-0.5719,0.0,0.27,0.73,negative,The Wheels of Chance: A Bicycling Idyll
+"In another moment he flew swiftly out of sight under the railway arch, and Mr. Hoopdriver saw him no more.",0.0,0.098,0.098,0.804,neutral,The Wheels of Chance: A Bicycling Idyll
+VII.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"After this whirlwind Mr. Hoopdriver paid his reckoning and--being now a little rested about the muscles of the knees--resumed his saddle and rode on in the direction of Ripley, along an excellent but undulating road.",0.3291,0.066,0.0,0.934,positive,The Wheels of Chance: A Bicycling Idyll
+He was pleased to find his command over his machine already sensibly increased.,0.6124,0.312,0.0,0.688,positive,The Wheels of Chance: A Bicycling Idyll
+He set himself little exercises as he went along and performed them with variable success.,0.5719,0.209,0.0,0.791,positive,The Wheels of Chance: A Bicycling Idyll
+"There was, for instance, steering in between a couple of stones, say a foot apart, a deed of little difficulty as far as the front wheel is concerned.",-0.2748,0.0,0.081,0.919,negative,The Wheels of Chance: A Bicycling Idyll
+"But the back wheel, not being under the sway of the human eye, is apt to take a vicious jump over the obstacle, which sends a violent concussion all along the spine to the skull, and will even jerk a loosely fastened hat over the eyes, and so lead to much confusion.",-0.9568,0.0,0.287,0.713,negative,The Wheels of Chance: A Bicycling Idyll
+"And again, there was taking the hand or hands off the handlebar, a thing simple in itself, but complex in its consequences.",0.2732,0.095,0.0,0.905,positive,The Wheels of Chance: A Bicycling Idyll
+"This particularly was a feat Mr. Hoopdriver desired to do, for several divergent reasons; but at present it simply led to convulsive balancings and novel and inelegant modes of dismounting.",0.5423,0.143,0.0,0.857,positive,The Wheels of Chance: A Bicycling Idyll
+"The human nose is, at its best, a needless excrescence.",0.6369,0.344,0.0,0.656,positive,The Wheels of Chance: A Bicycling Idyll
+"There are those who consider it ornamental, and would regard a face deprived of its assistance with pity or derision; but it is doubtful whether our esteem is dictated so much by a sense of its absolute beauty as by the vitiating effect of a universally prevalent fashion.",-0.0387,0.097,0.156,0.747,neutral,The Wheels of Chance: A Bicycling Idyll
+"In the case of bicycle students, as in the young of both sexes, its inutility is aggravated by its persistent annoyance--it requires constant attention.",-0.4404,0.0,0.112,0.888,negative,The Wheels of Chance: A Bicycling Idyll
+"Until one can ride with one hand, and search for, secure, and use a pocket handkerchief with the other, cycling is necessarily a constant series of descents.",0.6808,0.196,0.0,0.804,positive,The Wheels of Chance: A Bicycling Idyll
+"Nothing can be further from the author's ambition than a wanton realism, but Mr. Hoopdriver's nose is a plain and salient fact, and face it we must.",0.3919,0.099,0.0,0.901,positive,The Wheels of Chance: A Bicycling Idyll
+"And, in addition to this inconvenience, there are flies.",-0.4357,0.0,0.264,0.736,negative,The Wheels of Chance: A Bicycling Idyll
+"Until the cyclist can steer with one hand, his face is given over to Beelzebub.",0.4939,0.186,0.0,0.814,positive,The Wheels of Chance: A Bicycling Idyll
+"Contemplative flies stroll over it, and trifle absently with its most sensitive surfaces.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+The only way to dislodge them is to shake the head forcibly and to writhe one's features violently.,-0.6705,0.0,0.256,0.744,negative,The Wheels of Chance: A Bicycling Idyll
+"This is not only a lengthy and frequently ineffectual method, but one exceedingly terrifying to foot passengers.",-0.7684,0.0,0.322,0.678,negative,The Wheels of Chance: A Bicycling Idyll
+"And again, sometimes the beginner rides for a space with one eye closed by perspiration, giving him a waggish air foreign to his mood and ill calculated to overawe the impertinent.",-0.1027,0.075,0.087,0.839,negative,The Wheels of Chance: A Bicycling Idyll
+"However, you will appreciate now the motive of Mr. Hoopdriver's experiments.",0.4019,0.213,0.0,0.787,positive,The Wheels of Chance: A Bicycling Idyll
+"He presently attained sufficient dexterity to slap himself smartly and violently in the face with his right hand, without certainly overturning the machine; but his pocket handkerchief might have been in California for any good it was to him while he was in the saddle.",0.6227,0.173,0.075,0.751,positive,The Wheels of Chance: A Bicycling Idyll
+"Yet you must not think that because Mr. Hoopdriver was a little uncomfortable, he was unhappy in the slightest degree.",-0.6258,0.0,0.231,0.769,negative,The Wheels of Chance: A Bicycling Idyll
+"In the background of his consciousness was the sense that about this time Briggs would be half-way through his window dressing, and Gosling, the apprentice, busy, with a chair turned down over the counter and his ears very red, trying to roll a piece of huckaback--only those who have rolled pieces of huckaback know quite how detestable huckaback is to roll--and the shop would be dusty and, perhaps, the governor about and snappy.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"And here was quiet and greenery, and one mucked about as the desire took one, without a soul to see, and here was no wailing of ""Sayn,"" no folding of remnants, no voice to shout, ""Hoopdriver, forward!""",-0.4926,0.065,0.166,0.769,negative,The Wheels of Chance: A Bicycling Idyll
+"And once he almost ran over something wonderful, a little, low, red beast with a yellowish tail, that went rushing across the road before him.",0.4391,0.14,0.068,0.792,positive,The Wheels of Chance: A Bicycling Idyll
+It was the first weasel he had ever seen in his cockney life.,0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"There were miles of this, scores of miles of this before him, pinewood and oak forest, purple, heathery moorland and grassy down, lush meadows, where shining rivers wound their lazy way, villages with square-towered, flint churches, and rambling, cheap, and hearty inns, clean, white, country towns, long downhill stretches, where one might ride at one's ease (overlooking a jolt or so), and far away, at the end of it all,--the sea.",0.4019,0.07,0.033,0.897,positive,The Wheels of Chance: A Bicycling Idyll
+What mattered a fly or so in the dawn of these delights?,0.4588,0.231,0.0,0.769,positive,The Wheels of Chance: A Bicycling Idyll
+"Perhaps he had been dashed a minute by the shameful episode of the Young Lady in Grey, and perhaps the memory of it was making itself a little lair in a corner of his brain from which it could distress him in the retrospect by suggesting that he looked like a fool; but for the present that trouble was altogether in abeyance.",-0.7876,0.044,0.152,0.804,negative,The Wheels of Chance: A Bicycling Idyll
+"The man in drab--evidently a swell--had spoken to him as his equal, and the knees of his brown suit and the chequered stockings were ever before his eyes.",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll
+"(Or, rather, you could see the stocki",0.0,0.0,0.0,1.0,neutral,The Wheels of Chance: A Bicycling Idyll

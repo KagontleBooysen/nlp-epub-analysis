@@ -1,0 +1,627 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of White Fang This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.07,0.109,0.821,negative,White Fang
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,White Fang
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,White Fang
+"Title : White Fang Author : Jack London Release date : May 1, 1997 [eBook #910] Most recently updated: August 4, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/910 Credits : Credits: David Price *** START OF THE PROJECT GUTENBERG EBOOK WHITE FANG *** WHITE FANG by Jack London Contents PART I CHAPTER I THE TRAIL OF THE MEAT CHAPTER II THE SHE-WOLF CHAPTER III THE HUNGER CRY PART II CHAPTER I THE BATTLE OF THE FANGS CHAPTER II THE LAIR CHAPTER III THE GREY CUB CHAPTER IV THE WALL OF THE WORLD CHAPTER V THE LAW OF MEAT PART III CHAPTER I THE MAKERS OF FIRE CHAPTER II THE BONDAGE CHAPTER III THE OUTCAST CHAPTER IV THE TRAIL OF THE GODS CHAPTER V THE COVENANT CHAPTER VI THE FAMINE PART IV CHAPTER I THE ENEMY OF HIS KIND CHAPTER II THE MAD GOD CHAPTER III THE REIGN OF HATE CHAPTER IV THE CLINGING DEATH CHAPTER V THE INDOMITABLE CHAPTER VI THE LOVE-MASTER PART V CHAPTER I THE LONG TRAIL CHAPTER II THE SOUTHLAND CHAPTER III THE GOD'S DOMAIN CHAPTER IV THE CALL OF KIND CHAPTER V THE SLEEPING WOLF PART I CHAPTER I THE TRAIL OF THE MEAT Dark spruce forest frowned on either side the frozen waterway.",-0.9352,0.08,0.134,0.787,negative,White Fang
+"The trees had been stripped by a recent wind of their white covering of frost, and they seemed to lean towards each other, black and ominous, in the fading light.",-0.34,0.0,0.079,0.921,negative,White Fang
+A vast silence reigned over the land.,0.0,0.0,0.0,1.0,neutral,White Fang
+"The land itself was a desolation, lifeless, without movement, so lone and cold that the spirit of it was not even that of sadness.",-0.6048,0.062,0.206,0.731,negative,White Fang
+"There was a hint in it of laughter, but of a laughter more terrible than any sadness--a laughter that was mirthless as the smile of the sphinx, a laughter cold as the frost and partaking of the grimness of infallibility.",0.9093,0.332,0.123,0.545,positive,White Fang
+It was the masterful and incommunicable wisdom of eternity laughing at the futility of life and the effort of life.,0.765,0.268,0.0,0.732,positive,White Fang
+"It was the Wild, the savage, frozen-hearted Northland Wild.",-0.4588,0.0,0.273,0.727,negative,White Fang
+"But there was life, abroad in the land and defiant.",-0.3291,0.0,0.207,0.793,negative,White Fang
+Down the frozen waterway toiled a string of wolfish dogs.,0.0,0.0,0.0,1.0,neutral,White Fang
+Their bristly fur was rimed with frost.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Their breath froze in the air as it left their mouths, spouting forth in spumes of vapour that settled upon the hair of their bodies and formed into crystals of frost.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Leather harness was on the dogs, and leather traces attached them to a sled which dragged along behind.",-0.0516,0.0,0.07,0.93,negative,White Fang
+The sled was without runners.,0.0,0.0,0.0,1.0,neutral,White Fang
+"It was made of stout birch-bark, and its full surface rested on the snow.",0.1779,0.116,0.0,0.884,positive,White Fang
+"The front end of the sled was turned up, like a scroll, in order to force down and under the bore of soft snow that surged like a wave before it.",0.4588,0.152,0.061,0.788,positive,White Fang
+"On the sled, securely lashed, was a long and narrow oblong box.",0.34,0.194,0.0,0.806,positive,White Fang
+"There were other things on the sled--blankets, an axe, and a coffee-pot and frying-pan; but prominent, occupying most of the space, was the long and narrow oblong box.",0.4118,0.101,0.041,0.858,positive,White Fang
+"In advance of the dogs, on wide snowshoes, toiled a man.",0.0,0.0,0.0,1.0,neutral,White Fang
+At the rear of the sled toiled a second man.,0.0,0.0,0.0,1.0,neutral,White Fang
+"On the sled, in the box, lay a third man whose toil was over,--a man whom the Wild had conquered and beaten down until he would never move nor struggle again.",-0.5441,0.0,0.139,0.861,negative,White Fang
+It is not the way of the Wild to like movement.,0.3612,0.2,0.0,0.8,positive,White Fang
+"Life is an offence to it, for life is movement; and the Wild aims always to destroy movement.",-0.6908,0.0,0.263,0.737,negative,White Fang
+"It freezes the water to prevent it running to the sea; it drives the sap out of the trees till they are frozen to their mighty hearts; and most ferociously and terribly of all does the Wild harry and crush into submission man--man who is the most restless of life, ever in revolt against the dictum that all movement must in the end come to the cessation of movement.",-0.85,0.015,0.15,0.835,negative,White Fang
+"But at front and rear, unawed and indomitable, toiled the two men who were not yet dead.",0.6871,0.226,0.0,0.774,positive,White Fang
+Their bodies were covered with fur and soft-tanned leather.,0.0,0.0,0.0,1.0,neutral,White Fang
+Eyelashes and cheeks and lips were so coated with the crystals from their frozen breath that their faces were not discernible.,0.0,0.0,0.0,1.0,neutral,White Fang
+"This gave them the seeming of ghostly masques, undertakers in a spectral world at the funeral of some ghost.",-0.5859,0.0,0.231,0.769,negative,White Fang
+"But under it all they were men, penetrating the land of desolation and mockery and silence, puny adventurers bent on colossal adventure, pitting themselves against the might of a world as remote and alien and pulseless as the abysses of space.",0.3291,0.117,0.065,0.818,positive,White Fang
+"They travelled on without speech, saving their breath for the work of their bodies.",0.0,0.0,0.0,1.0,neutral,White Fang
+"On every side was the silence, pressing upon them with a tangible presence.",0.0,0.0,0.0,1.0,neutral,White Fang
+It affected their minds as the many atmospheres of deep water affect the body of the diver.,-0.1531,0.0,0.091,0.909,negative,White Fang
+It crushed them with the weight of unending vastness and unalterable decree.,-0.4215,0.0,0.203,0.797,negative,White Fang
+"It crushed them into the remotest recesses of their own minds, pressing out of them, like juices from the grape, all the false ardours and exaltations and undue self-values of the human soul, until they perceived themselves finite and small, specks and motes, moving with weak cunning and little wisdom amidst the play and inter-play of the great blind elements and forces.",0.5729,0.16,0.111,0.728,positive,White Fang
+"An hour went by, and a second hour.",0.0,0.0,0.0,1.0,neutral,White Fang
+"The pale light of the short sunless day was beginning to fade, when a faint far cry arose on the still air.",-0.4767,0.0,0.134,0.866,negative,White Fang
+"It soared upward with a swift rush, till it reached its topmost note, where it persisted, palpitant and tense, and then slowly died away.",-0.5859,0.113,0.213,0.674,negative,White Fang
+"It might have been a lost soul wailing, had it not been invested with a certain sad fierceness and hungry eagerness.",-0.1531,0.19,0.214,0.595,negative,White Fang
+The front man turned his head until his eyes met the eyes of the man behind.,0.0,0.0,0.0,1.0,neutral,White Fang
+"And then, across the narrow oblong box, each nodded to the other.",0.0,0.0,0.0,1.0,neutral,White Fang
+"A second cry arose, piercing the silence with needle-like shrillness.",-0.4767,0.0,0.279,0.721,negative,White Fang
+Both men located the sound.,0.0,0.0,0.0,1.0,neutral,White Fang
+"It was to the rear, somewhere in the snow expanse they had just traversed.",0.0,0.0,0.0,1.0,neutral,White Fang
+"A third and answering cry arose, also to the rear and to the left of the second cry.",-0.7351,0.0,0.292,0.708,negative,White Fang
+"""They're after us, Bill,"" said the man at the front.",0.0,0.0,0.0,1.0,neutral,White Fang
+"His voice sounded hoarse and unreal, and he had spoken with apparent effort.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Meat is scarce,"" answered his comrade.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I ain't seen a rabbit sign for days.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Thereafter they spoke no more, though their ears were keen for the hunting-cries that continued to rise behind them.",0.0772,0.115,0.101,0.783,positive,White Fang
+At the fall of darkness they swung the dogs into a cluster of spruce trees on the edge of the waterway and made a camp.,-0.25,0.0,0.083,0.917,negative,White Fang
+"The coffin, at the side of the fire, served for seat and table.",-0.34,0.0,0.167,0.833,negative,White Fang
+"The wolf-dogs, clustered on the far side of the fire, snarled and bickered among themselves, but evinced no inclination to stray off into the darkness.",-0.7184,0.0,0.241,0.759,negative,White Fang
+"""Seems to me, Henry, they're stayin' remarkable close to camp,"" Bill commented.",0.5574,0.247,0.0,0.753,positive,White Fang
+"Henry, squatting over the fire and settling the pot of coffee with a piece of ice, nodded.",-0.34,0.0,0.138,0.862,negative,White Fang
+Nor did he speak till he had taken his seat on the coffin and begun to eat.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""They know where their hides is safe,"" he said.",-0.1779,0.0,0.175,0.825,negative,White Fang
+"""They'd sooner eat grub than be grub.",0.0,0.0,0.0,1.0,neutral,White Fang
+"They're pretty wise, them dogs.""",0.743,0.677,0.0,0.323,positive,White Fang
+Bill shook his head.,-0.1027,0.0,0.318,0.682,negative,White Fang
+"""Oh, I don't know.""",0.0,0.0,0.0,1.0,neutral,White Fang
+His comrade looked at him curiously.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""First time I ever heard you say anything about their not bein' wise.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Henry,"" said the other, munching with deliberation the beans he was eating, ""did you happen to notice the way them dogs kicked up when I was a-feedin' 'em?""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""They did cut up more'n usual,"" Henry acknowledged.",-0.2732,0.0,0.231,0.769,negative,White Fang
+"""How many dogs 've we got, Henry?""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Six.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Well, Henry .",0.0,0.0,0.0,1.0,neutral,White Fang
+.,0.0,0.0,0.0,0.0,neutral,White Fang
+". """,0.0,0.0,0.0,0.0,neutral,White Fang
+"Bill stopped for a moment, in order that his words might gain greater significance.",0.7269,0.423,0.101,0.476,positive,White Fang
+"""As I was sayin', Henry, we've got six dogs.",0.0,0.0,0.0,1.0,neutral,White Fang
+I took six fish out of the bag.,0.0,0.0,0.0,1.0,neutral,White Fang
+"I gave one fish to each dog, an', Henry, I was one fish short.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""You counted wrong.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""We've got six dogs,"" the other reiterated dispassionately.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I took out six fish.",0.0,0.0,0.0,1.0,neutral,White Fang
+One Ear didn't get no fish.,0.2235,0.274,0.0,0.726,positive,White Fang
+"I came back to the bag afterward an' got 'm his fish.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""We've only got six dogs,"" Henry said.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Henry,"" Bill went on.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I won't say they was all dogs, but there was seven of 'm that got fish.""",0.0,0.0,0.0,1.0,neutral,White Fang
+Henry stopped eating to glance across the fire and count the dogs.,-0.5106,0.0,0.301,0.699,negative,White Fang
+"""There's only six now,"" he said.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I saw the other one run off across the snow,"" Bill announced with cool positiveness.",0.6808,0.301,0.0,0.699,positive,White Fang
+"""I saw seven.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Henry looked at him commiseratingly, and said, ""I'll be almighty glad when this trip's over.""",0.4588,0.176,0.0,0.824,positive,White Fang
+"""What d'ye mean by that?""",0.0,0.0,0.0,1.0,neutral,White Fang
+Bill demanded.,-0.2263,0.0,0.655,0.345,negative,White Fang
+"""I mean that this load of ourn is gettin' on your nerves, an' that you're beginnin' to see things.""",-0.1027,0.0,0.072,0.928,negative,White Fang
+"""I thought of that,"" Bill answered gravely.",-0.3612,0.0,0.294,0.706,negative,White Fang
+"""An' so, when I saw it run off across the snow, I looked in the snow an' saw its tracks.",0.0,0.0,0.0,1.0,neutral,White Fang
+Then I counted the dogs an' there was still six of 'em.,0.0,0.0,0.0,1.0,neutral,White Fang
+The tracks is there in the snow now.,0.0,0.0,0.0,1.0,neutral,White Fang
+D'ye want to look at 'em?,0.0772,0.206,0.0,0.794,positive,White Fang
+"I'll show 'em to you.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Henry did not reply, but munched on in silence, until, the meal finished, he topped it with a final cup of coffee.",0.0,0.0,0.0,1.0,neutral,White Fang
+"He wiped his mouth with the back of his hand and said: ""Then you're thinkin' as it was--"" A long wailing cry, fiercely sad, from somewhere in the darkness, had interrupted him.",-0.7351,0.081,0.263,0.657,negative,White Fang
+"He stopped to listen to it, then he finished his sentence with a wave of his hand toward the sound of the cry, ""--one of them?""",-0.128,0.148,0.164,0.689,negative,White Fang
+Bill nodded.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""I'd a blame sight sooner think that than anything else.",-0.34,0.0,0.231,0.769,negative,White Fang
+"You noticed yourself the row the dogs made.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Cry after cry, and answering cries, were turning the silence into a bedlam.",-0.836,0.0,0.497,0.503,negative,White Fang
+"From every side the cries arose, and the dogs betrayed their fear by huddling together and so close to the fire that their hair was scorched by the heat.",-0.9062,0.0,0.33,0.67,negative,White Fang
+"Bill threw on more wood, before lighting his pipe.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I'm thinking you're down in the mouth some,"" Henry said.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Henry .",0.0,0.0,0.0,1.0,neutral,White Fang
+.,0.0,0.0,0.0,0.0,neutral,White Fang
+". """,0.0,0.0,0.0,0.0,neutral,White Fang
+He sucked meditatively at his pipe for some time before he went on.,-0.4588,0.0,0.2,0.8,negative,White Fang
+"""Henry, I was a-thinkin' what a blame sight luckier he is than you an' me'll ever be.""",0.128,0.158,0.131,0.71,positive,White Fang
+He indicated the third person by a downward thrust of the thumb to the box on which they sat.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""You an' me, Henry, when we die, we'll be lucky if we get enough stones over our carcases to keep the dogs off of us.""",-0.2732,0.094,0.131,0.774,negative,White Fang
+"""But we ain't got people an' money an' all the rest, like him,"" Henry rejoined.",0.5023,0.188,0.0,0.812,positive,White Fang
+"""Long-distance funerals is somethin' you an' me can't exactly afford.""",-0.3818,0.0,0.224,0.776,negative,White Fang
+"""What gets me, Henry, is what a chap like this, that's a lord or something in his own country, and that's never had to bother about grub nor blankets; why he comes a-buttin' round the Godforsaken ends of the earth--that's what I can't exactly see.""",0.5478,0.102,0.0,0.898,positive,White Fang
+"""He might have lived to a ripe old age if he'd stayed at home,"" Henry agreed.",0.2732,0.13,0.0,0.87,positive,White Fang
+"Bill opened his mouth to speak, but changed his mind.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Instead, he pointed towards the wall of darkness that pressed about them from every side.",-0.25,0.0,0.125,0.875,negative,White Fang
+There was no suggestion of form in the utter blackness; only could be seen a pair of eyes gleaming like live coals.,0.0772,0.105,0.093,0.802,positive,White Fang
+"Henry indicated with his head a second pair, and a third.",0.0,0.0,0.0,1.0,neutral,White Fang
+A circle of the gleaming eyes had drawn about their camp.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Now and again a pair of eyes moved, or disappeared to appear again a moment later.",-0.2263,0.0,0.128,0.872,negative,White Fang
+"The unrest of the dogs had been increasing, and they stampeded, in a surge of sudden fear, to the near side of the fire, cringing and crawling about the legs of the men.",-0.6808,0.0,0.157,0.843,negative,White Fang
+"In the scramble one of the dogs had been overturned on the edge of the fire, and it had yelped with pain and fright as the smell of its singed coat possessed the air.",-0.8074,0.0,0.211,0.789,negative,White Fang
+"The commotion caused the circle of eyes to shift restlessly for a moment and even to withdraw a bit, but it settled down again as the dogs became quiet.",-0.1779,0.0,0.061,0.939,negative,White Fang
+"""Henry, it's a blame misfortune to be out of ammunition.""",-0.34,0.0,0.231,0.769,negative,White Fang
+Bill had finished his pipe and was helping his companion to spread the bed of fur and blanket upon the spruce boughs which he had laid over the snow before supper.,0.296,0.068,0.0,0.932,positive,White Fang
+"Henry grunted, and began unlacing his moccasins.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""How many cartridges did you say you had left?""",0.0,0.0,0.0,1.0,neutral,White Fang
+he asked.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""Three,"" came the answer.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""An' I wisht 'twas three hundred.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Then I'd show 'em what for, damn 'em!""",-0.4574,0.0,0.299,0.701,negative,White Fang
+"He shook his fist angrily at the gleaming eyes, and began securely to prop his moccasins before the fire.",-0.4939,0.1,0.275,0.625,negative,White Fang
+"""An' I wisht this cold snap'd break,"" he went on.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""It's ben fifty below for two weeks now.",0.0,0.0,0.0,1.0,neutral,White Fang
+"An' I wisht I'd never started on this trip, Henry.",0.0,0.0,0.0,1.0,neutral,White Fang
+I don't like the looks of it.,-0.2755,0.0,0.297,0.703,negative,White Fang
+"I don't feel right, somehow.",0.0,0.0,0.0,1.0,neutral,White Fang
+"An' while I'm wishin', I wisht the trip was over an' done with, an' you an' me a-sittin' by the fire in Fort McGurry just about now an' playing cribbage--that's what I wisht.""",-0.1531,0.054,0.072,0.873,negative,White Fang
+Henry grunted and crawled into bed.,0.0,0.0,0.0,1.0,neutral,White Fang
+As he dozed off he was aroused by his comrade's voice.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""Say, Henry, that other one that come in an' got a fish--why didn't the dogs pitch into it?",0.0,0.0,0.0,1.0,neutral,White Fang
+"That's what's botherin' me.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""You're botherin' too much, Bill,"" came the sleepy response.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""You was never like this before.",-0.2755,0.0,0.297,0.703,negative,White Fang
+"You jes' shut up now, an' go to sleep, an' you'll be all hunkydory in the mornin'.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Your stomach's sour, that's what's botherin' you.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"The men slept, breathing heavily, side by side, under the one covering.",0.0,0.0,0.0,1.0,neutral,White Fang
+"The fire died down, and the gleaming eyes drew closer the circle they had flung about the camp.",-0.7184,0.0,0.273,0.727,negative,White Fang
+"The dogs clustered together in fear, now and again snarling menacingly as a pair of eyes drew close.",-0.4939,0.0,0.167,0.833,negative,White Fang
+Once their uproar became so loud that Bill woke up.,0.0,0.0,0.0,1.0,neutral,White Fang
+"He got out of bed carefully, so as not to disturb the sleep of his comrade, and threw more wood on the fire.",0.092,0.144,0.092,0.765,positive,White Fang
+"As it began to flame up, the circle of eyes drew farther back.",0.0,0.0,0.0,1.0,neutral,White Fang
+He glanced casually at the huddling dogs.,0.1779,0.221,0.0,0.779,positive,White Fang
+He rubbed his eyes and looked at them more sharply.,0.0,0.0,0.0,1.0,neutral,White Fang
+Then he crawled back into the blankets.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""Henry,"" he said.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Oh, Henry.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Henry groaned as he passed from sleep to waking, and demanded, ""What's wrong now?""",-0.6124,0.0,0.294,0.706,negative,White Fang
+"""Nothin',"" came the answer; ""only there's seven of 'em again.",0.0,0.0,0.0,1.0,neutral,White Fang
+"I just counted.""",0.0,0.0,0.0,1.0,neutral,White Fang
+Henry acknowledged receipt of the information with a grunt that slid into a snore as he drifted back into sleep.,0.0,0.0,0.0,1.0,neutral,White Fang
+In the morning it was Henry who awoke first and routed his companion out of bed.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Daylight was yet three hours away, though it was already six o'clock; and in the darkness Henry went about preparing breakfast, while Bill rolled the blankets and made the sled ready for lashing.",0.128,0.07,0.056,0.873,positive,White Fang
+"""Say, Henry,"" he asked suddenly, ""how many dogs did you say we had?""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Six.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Wrong,"" Bill proclaimed triumphantly.",0.5106,0.524,0.0,0.476,positive,White Fang
+"""Seven again?""",0.0,0.0,0.0,1.0,neutral,White Fang
+Henry queried.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""No, five; one's gone.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""The hell!""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Henry cried in wrath, leaving the cooking to come and count the dogs.",-0.3818,0.0,0.178,0.822,negative,White Fang
+"""You're right, Bill,"" he concluded.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Fatty's gone.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""An' he went like greased lightnin' once he got started.",0.3612,0.217,0.0,0.783,positive,White Fang
+"Couldn't 've seen 'm for smoke.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""No chance at all,"" Henry concluded.",-0.0516,0.244,0.268,0.488,negative,White Fang
+"""They jes' swallowed 'm alive.",0.3818,0.394,0.0,0.606,positive,White Fang
+"I bet he was yelpin' as he went down their throats, damn 'em!""",-0.4574,0.0,0.214,0.786,negative,White Fang
+"""He always was a fool dog,"" said Bill.",-0.4404,0.0,0.326,0.674,negative,White Fang
+"""But no fool dog ought to be fool enough to go off an' commit suicide that way.""",-0.9428,0.089,0.531,0.38,negative,White Fang
+He looked over the remainder of the team with a speculative eye that summed up instantly the salient traits of each animal.,0.3612,0.156,0.0,0.844,positive,White Fang
+"""I bet none of the others would do it.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Couldn't drive 'em away from the fire with a club,"" Bill agreed.",-0.0772,0.156,0.178,0.667,negative,White Fang
+"""I always did think there was somethin' wrong with Fatty anyway.""",-0.4767,0.0,0.237,0.763,negative,White Fang
+"And this was the epitaph of a dead dog on the Northland trail--less scant than the epitaph of many another dog, of many a man.",-0.6486,0.0,0.163,0.837,negative,White Fang
+"CHAPTER II THE SHE-WOLF Breakfast eaten and the slim camp-outfit lashed to the sled, the men turned their backs on the cheery fire and launched out into the darkness.",0.128,0.147,0.161,0.692,positive,White Fang
+At once began to rise the cries that were fiercely sad--cries that called through the darkness and cold to one another and answered back.,-0.5719,0.0,0.176,0.824,negative,White Fang
+Conversation ceased.,0.0,0.0,0.0,1.0,neutral,White Fang
+Daylight came at nine o'clock.,0.0,0.0,0.0,1.0,neutral,White Fang
+"At midday the sky to the south warmed to rose-colour, and marked where the bulge of the earth intervened between the meridian sun and the northern world.",0.2732,0.075,0.0,0.925,positive,White Fang
+But the rose-colour swiftly faded.,0.4215,0.412,0.0,0.588,positive,White Fang
+"The grey light of day that remained lasted until three o'clock, when it, too, faded, and the pall of the Arctic night descended upon the lone and silent land.",-0.2263,0.04,0.069,0.891,negative,White Fang
+"As darkness came on, the hunting-cries to right and left and rear drew closer--so close that more than once they sent surges of fear through the toiling dogs, throwing them into short-lived panics.",-0.7964,0.0,0.213,0.787,negative,White Fang
+"At the conclusion of one such panic, when he and Henry had got the dogs back in the traces, Bill said: ""I wisht they'd strike game somewheres, an' go away an' leave us alone.""",-0.6124,0.0,0.162,0.838,negative,White Fang
+"""They do get on the nerves horrible,"" Henry sympathised.",-0.1027,0.0,0.149,0.851,negative,White Fang
+They spoke no more until camp was made.,-0.296,0.0,0.239,0.761,negative,White Fang
+"Henry was bending over and adding ice to the babbling pot of beans when he was startled by the sound of a blow, an exclamation from Bill, and a sharp snarling cry of pain from among the dogs.",-0.7964,0.0,0.197,0.803,negative,White Fang
+He straightened up in time to see a dim form disappearing across the snow into the shelter of the dark.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Then he saw Bill, standing amid the dogs, half triumphant, half crestfallen, in one hand a stout club, in the other the tail and part of the body of a sun-cured salmon.",0.5859,0.22,0.093,0.688,positive,White Fang
+"""It got half of it,"" he announced; ""but I got a whack at it jes' the same.",0.0,0.0,0.0,1.0,neutral,White Fang
+"D'ye hear it squeal?""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""What'd it look like?""",0.0,0.0,0.0,1.0,neutral,White Fang
+Henry asked.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""Couldn't see.",0.0,0.0,0.0,1.0,neutral,White Fang
+"But it had four legs an' a mouth an' hair an' looked like any dog.""",0.5023,0.2,0.0,0.8,positive,White Fang
+"""Must be a tame wolf, I reckon.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""It's damned tame, whatever it is, comin' in here at feedin' time an' gettin' its whack of fish.""",-0.3818,0.0,0.133,0.867,negative,White Fang
+"That night, when supper was finished and they sat on the oblong box and pulled at their pipes, the circle of gleaming eyes drew in even closer than before.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I wisht they'd spring up a bunch of moose or something, an' go away an' leave us alone,"" Bill said.",-0.0516,0.0,0.062,0.938,negative,White Fang
+"Henry grunted with an intonation that was not all sympathy, and for a quarter of an hour they sat on in silence, Henry staring at the fire, and Bill at the circle of eyes that burned in the darkness just beyond the firelight.",-0.6715,0.0,0.143,0.857,negative,White Fang
+"""I wisht we was pullin' into McGurry right now,"" he began again.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Shut up your wishin' and your croakin',"" Henry burst out angrily.",-0.4215,0.0,0.219,0.781,negative,White Fang
+"""Your stomach's sour.",0.0,0.0,0.0,1.0,neutral,White Fang
+That's what's ailin' you.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Swallow a spoonful of sody, an' you'll sweeten up wonderful an' be more pleasant company.""",0.807,0.378,0.0,0.622,positive,White Fang
+In the morning Henry was aroused by fervid blasphemy that proceeded from the mouth of Bill.,0.128,0.091,0.0,0.909,positive,White Fang
+"Henry propped himself up on an elbow and looked to see his comrade standing among the dogs beside the replenished fire, his arms raised in objurgation, his face distorted with passion.",-0.2732,0.083,0.141,0.776,negative,White Fang
+"""Hello!""",0.0,0.0,0.0,1.0,neutral,White Fang
+Henry called.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""What's up now?""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Frog's gone,"" came the answer.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""No.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I tell you yes.""",0.0,0.0,0.0,1.0,neutral,White Fang
+Henry leaped out of the blankets and to the dogs.,0.0,0.0,0.0,1.0,neutral,White Fang
+"He counted them with care, and then joined his partner in cursing the power of the Wild that had robbed them of another dog.",0.4939,0.122,0.0,0.878,positive,White Fang
+"""Frog was the strongest dog of the bunch,"" Bill pronounced finally.",0.4404,0.225,0.0,0.775,positive,White Fang
+"""An' he was no fool dog neither,"" Henry added.",-0.6249,0.0,0.421,0.579,negative,White Fang
+And so was recorded the second epitaph in two days.,0.0,0.0,0.0,1.0,neutral,White Fang
+"A gloomy breakfast was eaten, and the four remaining dogs were harnessed to the sled.",-0.1531,0.0,0.11,0.89,negative,White Fang
+The day was a repetition of the days that had gone before.,0.0,0.0,0.0,1.0,neutral,White Fang
+The men toiled without speech across the face of the frozen world.,0.0,0.0,0.0,1.0,neutral,White Fang
+"The silence was unbroken save by the cries of their pursuers, that, unseen, hung upon their rear.",0.128,0.153,0.129,0.718,positive,White Fang
+"With the coming of night in the mid-afternoon, the cries sounded closer as the pursuers drew in according to their custom; and the dogs grew excited and frightened, and were guilty of panics that tangled the traces and further depressed the two men.",-0.9042,0.044,0.27,0.685,negative,White Fang
+"""There, that'll fix you fool critters,"" Bill said with satisfaction that night, standing erect at completion of his task.",0.0,0.127,0.127,0.746,neutral,White Fang
+Henry left the cooking to come and see.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Not only had his partner tied the dogs up, but he had tied them, after the Indian fashion, with sticks.",0.0,0.0,0.0,1.0,neutral,White Fang
+About the neck of each dog he had fastened a leather thong.,0.0,0.0,0.0,1.0,neutral,White Fang
+"To this, and so close to the neck that the dog could not get his teeth to it, he had tied a stout stick four or five feet in length.",0.1779,0.057,0.0,0.943,positive,White Fang
+"The other end of the stick, in turn, was made fast to a stake in the ground by means of a leather thong.",0.0,0.0,0.0,1.0,neutral,White Fang
+The dog was unable to gnaw through the leather at his own end of the stick.,0.0,0.0,0.0,1.0,neutral,White Fang
+The stick prevented him from getting at the leather that fastened the other end.,0.0258,0.078,0.0,0.922,neutral,White Fang
+Henry nodded his head approvingly.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""It's the only contraption that'll ever hold One Ear,"" he said.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""He can gnaw through leather as clean as a knife an' jes' about half as quick.",0.4019,0.162,0.0,0.838,positive,White Fang
+"They all'll be here in the mornin' hunkydory.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""You jes' bet they will,"" Bill affirmed.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""If one of em' turns up missin', I'll go without my coffee.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""They jes' know we ain't loaded to kill,"" Henry remarked at bed-time, indicating the gleaming circle that hemmed them in.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""If we could put a couple of shots into 'em, they'd be more respectful.",0.5095,0.215,0.0,0.785,positive,White Fang
+They come closer every night.,0.0,0.0,0.0,1.0,neutral,White Fang
+Get the firelight out of your eyes an' look hard--there!,0.0,0.0,0.0,1.0,neutral,White Fang
+"Did you see that one?""",0.0,0.0,0.0,1.0,neutral,White Fang
+For some time the two men amused themselves with watching the movement of vague forms on the edge of the firelight.,0.34,0.121,0.06,0.819,positive,White Fang
+"By looking closely and steadily at where a pair of eyes burned in the darkness, the form of the animal would slowly take shape.",-0.25,0.0,0.083,0.917,negative,White Fang
+They could even see these forms move at times.,0.0,0.0,0.0,1.0,neutral,White Fang
+A sound among the dogs attracted the men's attention.,0.4215,0.286,0.0,0.714,positive,White Fang
+"One Ear was uttering quick, eager whines, lunging at the length of his stick toward the darkness, and desisting now and again in order to make frantic attacks on the stick with his teeth.",-0.7964,0.059,0.252,0.689,negative,White Fang
+"""Look at that, Bill,"" Henry whispered.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Full into the firelight, with a stealthy, sidelong movement, glided a doglike animal.",-0.0258,0.0,0.099,0.901,neutral,White Fang
+"It moved with commingled mistrust and daring, cautiously observing the men, its attention fixed on the dogs.",0.3612,0.135,0.0,0.865,positive,White Fang
+One Ear strained the full length of the stick toward the intruder and whined with eagerness.,-0.2263,0.133,0.227,0.64,negative,White Fang
+"""That fool One Ear don't seem scairt much,"" Bill said in a low tone.",-0.6124,0.0,0.312,0.688,negative,White Fang
+"""It's a she-wolf,"" Henry whispered back, ""an' that accounts for Fatty an' Frog.",0.0,0.0,0.0,1.0,neutral,White Fang
+She's the decoy for the pack.,0.0,0.0,0.0,1.0,neutral,White Fang
+"She draws out the dog an' then all the rest pitches in an' eats 'm up.""",0.0,0.0,0.0,1.0,neutral,White Fang
+The fire crackled.,-0.34,0.0,0.545,0.455,negative,White Fang
+A log fell apart with a loud spluttering noise.,0.0,0.0,0.0,1.0,neutral,White Fang
+At the sound of it the strange animal leaped back into the darkness.,-0.4215,0.0,0.257,0.743,negative,White Fang
+"""Henry, I'm a-thinkin',"" Bill announced.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Thinkin' what?""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I'm a-thinkin' that was the one I lambasted with the club.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Ain't the slightest doubt in the world,"" was Henry's response.",0.2755,0.19,0.0,0.81,positive,White Fang
+"""An' right here I want to remark,"" Bill went on, ""that that animal's familyarity with campfires is suspicious an' immoral.""",-0.296,0.062,0.12,0.817,negative,White Fang
+"""It knows for certain more'n a self-respectin' wolf ought to know,"" Henry agreed.",0.4939,0.296,0.0,0.704,positive,White Fang
+"""A wolf that knows enough to come in with the dogs at feedin' time has had experiences.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Ol' Villan had a dog once that run away with the wolves,"" Bill cogitates aloud.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I ought to know.",0.0,0.0,0.0,1.0,neutral,White Fang
+I shot it out of the pack in a moose pasture over 'on Little Stick.,0.0,0.0,0.0,1.0,neutral,White Fang
+An' Ol' Villan cried like a baby.,-0.0258,0.275,0.286,0.44,neutral,White Fang
+"Hadn't seen it for three years, he said.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Ben with the wolves all that time.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I reckon you've called the turn, Bill.",0.0,0.0,0.0,1.0,neutral,White Fang
+"That wolf's a dog, an' it's eaten fish many's the time from the hand of man.""",0.4939,0.186,0.0,0.814,positive,White Fang
+"""An if I get a chance at it, that wolf that's a dog'll be jes' meat,"" Bill declared.",0.25,0.125,0.0,0.875,positive,White Fang
+"""We can't afford to lose no more animals.""",0.015,0.216,0.21,0.574,neutral,White Fang
+"""But you've only got three cartridges,"" Henry objected.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I'll wait for a dead sure shot,"" was the reply.",-0.4588,0.169,0.316,0.515,negative,White Fang
+In the morning Henry renewed the fire and cooked breakfast to the accompaniment of his partner's snoring.,-0.34,0.0,0.13,0.87,negative,White Fang
+"""You was sleepin' jes' too comfortable for anything,"" Henry told him, as he routed him out for breakfast.",0.5106,0.163,0.0,0.837,positive,White Fang
+"""I hadn't the heart to rouse you.""",0.0,0.0,0.0,1.0,neutral,White Fang
+Bill began to eat sleepily.,0.0,0.0,0.0,1.0,neutral,White Fang
+He noticed that his cup was empty and started to reach for the pot.,-0.1779,0.074,0.121,0.805,negative,White Fang
+But the pot was beyond arm's length and beside Henry.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""Say, Henry,"" he chided gently, ""ain't you forgot somethin'?""",0.4588,0.273,0.0,0.727,positive,White Fang
+Henry looked about with great carefulness and shook his head.,0.7717,0.458,0.09,0.452,positive,White Fang
+Bill held up the empty cup.,-0.2023,0.0,0.265,0.735,negative,White Fang
+"""You don't get no coffee,"" Henry announced.",0.2235,0.239,0.0,0.761,positive,White Fang
+"""Ain't run out?""",0.0,0.0,0.0,1.0,neutral,White Fang
+Bill asked anxiously.,-0.2263,0.0,0.487,0.513,negative,White Fang
+"""Nope.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Ain't thinkin' it'll hurt my digestion?""",0.4168,0.357,0.0,0.643,positive,White Fang
+"""Nope.""",0.0,0.0,0.0,1.0,neutral,White Fang
+A flush of angry blood pervaded Bill's face.,-0.5106,0.0,0.355,0.645,negative,White Fang
+"""Then it's jes' warm an' anxious I am to be hearin' you explain yourself,"" he said.",-0.0258,0.112,0.118,0.769,neutral,White Fang
+"""Spanker's gone,"" Henry answered.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Without haste, with the air of one resigned to misfortune Bill turned his head, and from where he sat counted the dogs.",-0.25,0.0,0.087,0.913,negative,White Fang
+"""How'd it happen?""",0.0,0.0,0.0,1.0,neutral,White Fang
+he asked apathetically.,-0.1027,0.0,0.412,0.588,negative,White Fang
+Henry shrugged his shoulders.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""Don't know.",0.0,0.0,0.0,1.0,neutral,White Fang
+Unless One Ear gnawed 'm loose.,-0.3182,0.0,0.315,0.685,negative,White Fang
+"He couldn't a-done it himself, that's sure.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""The darned cuss.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Bill spoke gravely and slowly, with no hint of the anger that was raging within.",-0.8957,0.0,0.518,0.482,negative,White Fang
+"""Jes' because he couldn't chew himself loose, he chews Spanker loose.""",0.2411,0.164,0.0,0.836,positive,White Fang
+"""Well, Spanker's troubles is over anyway; I guess he's digested by this time an' cavortin' over the landscape in the bellies of twenty different wolves,"" was Henry's epitaph on this, the latest lost dog.",-0.6486,0.0,0.146,0.854,negative,White Fang
+"""Have some coffee, Bill.""",0.0,0.0,0.0,1.0,neutral,White Fang
+But Bill shook his head.,-0.1531,0.0,0.286,0.714,negative,White Fang
+"""Go on,"" Henry pleaded, elevating the pot.",0.0,0.0,0.0,1.0,neutral,White Fang
+Bill shoved his cup aside.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""I'll be ding-dong-danged if I do.",0.0,0.0,0.0,1.0,neutral,White Fang
+"I said I wouldn't if ary dog turned up missin', an' I won't.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""It's darn good coffee,"" Henry said enticingly.",0.4404,0.326,0.0,0.674,positive,White Fang
+"But Bill was stubborn, and he ate a dry breakfast washed down with mumbled curses at One Ear for the trick he had played.",-0.1901,0.111,0.174,0.716,negative,White Fang
+"""I'll tie 'em up out of reach of each other to-night,"" Bill said, as they took the trail.",0.0258,0.061,0.0,0.939,neutral,White Fang
+"They had travelled little more than a hundred yards, when Henry, who was in front, bent down and picked up something with which his snowshoe had collided.",0.0,0.0,0.0,1.0,neutral,White Fang
+"It was dark, and he could not see it, but he recognised it by the touch.",0.0,0.0,0.0,1.0,neutral,White Fang
+"He flung it back, so that it struck the sled and bounced along until it fetched up on Bill's snowshoes.",-0.3102,0.0,0.106,0.894,negative,White Fang
+"""Mebbe you'll need that in your business,"" Henry said.",0.0,0.0,0.0,1.0,neutral,White Fang
+Bill uttered an exclamation.,0.0,0.0,0.0,1.0,neutral,White Fang
+It was all that was left of Spanker--the stick with which he had been tied.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""They ate 'm hide an' all,"" Bill announced.",-0.1779,0.0,0.195,0.805,negative,White Fang
+"""The stick's as clean as a whistle.",0.4019,0.351,0.0,0.649,positive,White Fang
+They've ate the leather offen both ends.,0.0,0.0,0.0,1.0,neutral,White Fang
+"They're damn hungry, Henry, an' they'll have you an' me guessin' before this trip's over.""",-0.4019,0.0,0.162,0.838,negative,White Fang
+Henry laughed defiantly.,0.4588,0.6,0.0,0.4,positive,White Fang
+"""I ain't been trailed this way by wolves before, but I've gone through a whole lot worse an' kept my health.",-0.631,0.0,0.179,0.821,negative,White Fang
+"Takes more'n a handful of them pesky critters to do for yours truly, Bill, my son.""",0.1779,0.16,0.122,0.718,positive,White Fang
+"""I don't know, I don't know,"" Bill muttered ominously.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Well, you'll know all right when we pull into McGurry.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""I ain't feelin' special enthusiastic,"" Bill persisted.",-0.3089,0.0,0.273,0.727,negative,White Fang
+"""You're off colour, that's what's the matter with you,"" Henry dogmatised.",0.0258,0.099,0.0,0.901,neutral,White Fang
+"""What you need is quinine, an' I'm goin' to dose you up stiff as soon as we make McGurry.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Bill grunted his disagreement with the diagnosis, and lapsed into silence.",-0.3612,0.0,0.2,0.8,negative,White Fang
+The day was like all the days.,0.3612,0.294,0.0,0.706,positive,White Fang
+Light came at nine o'clock.,0.0,0.0,0.0,1.0,neutral,White Fang
+"At twelve o'clock the southern horizon was warmed by the unseen sun; and then began the cold grey of afternoon that would merge, three hours later, into night.",0.3182,0.113,0.0,0.887,positive,White Fang
+"It was just after the sun's futile effort to appear, that Bill slipped the rifle from under the sled-lashings and said: ""You keep right on, Henry, I'm goin' to see what I can see.""",-0.4404,0.0,0.083,0.917,negative,White Fang
+"""You'd better stick by the sled,"" his partner protested.",0.34,0.254,0.132,0.614,positive,White Fang
+"""You've only got three cartridges, an' there's no tellin' what might happen.""",-0.296,0.0,0.167,0.833,negative,White Fang
+"""Who's croaking now?""",0.0,0.0,0.0,1.0,neutral,White Fang
+Bill demanded triumphantly.,0.34,0.532,0.306,0.161,positive,White Fang
+"Henry made no reply, and plodded on alone, though often he cast anxious glances back into the grey solitude where his partner had disappeared.",-0.7096,0.042,0.286,0.671,negative,White Fang
+"An hour later, taking advantage of the cut-offs around which the sled had to go, Bill arrived.",0.25,0.111,0.0,0.889,positive,White Fang
+"""They're scattered an' rangin' along wide,"" he said: ""keeping up with us an' lookin' for game at the same time.",0.0,0.0,0.0,1.0,neutral,White Fang
+"You see, they're sure of us, only they know they've got to wait to get us.",0.3182,0.133,0.0,0.867,positive,White Fang
+"In the meantime they're willin' to pick up anything eatable that comes handy.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""You mean they think they're sure of us,"" Henry objected pointedly.",0.3182,0.187,0.0,0.813,positive,White Fang
+But Bill ignored him.,-0.4497,0.0,0.496,0.504,negative,White Fang
+"""I seen some of them.",0.0,0.0,0.0,1.0,neutral,White Fang
+They're pretty thin.,0.4939,0.615,0.0,0.385,positive,White Fang
+"They ain't had a bite in weeks I reckon, outside of Fatty an' Frog an' Spanker; an' there's so many of 'em that that didn't go far.",0.0,0.0,0.0,1.0,neutral,White Fang
+They're remarkable thin.,0.5574,0.643,0.0,0.357,positive,White Fang
+"Their ribs is like wash-boards, an' their stomachs is right up against their backbones.",0.3612,0.161,0.0,0.839,positive,White Fang
+"They're pretty desperate, I can tell you.",0.2263,0.337,0.242,0.421,positive,White Fang
+"They'll be goin' mad, yet, an' then watch out.""",-0.4939,0.0,0.286,0.714,negative,White Fang
+"A few minutes later, Henry, who was now travelling behind the sled, emitted a low, warning whistle.",-0.5423,0.0,0.257,0.743,negative,White Fang
+"Bill turned and looked, then quietly stopped the dogs.",-0.2263,0.0,0.192,0.808,negative,White Fang
+"To the rear, from around the last bend and plainly into view, on the very trail they had just covered, trotted a furry, slinking form.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Its nose was to the trail, and it trotted with a peculiar, sliding, effortless gait.",0.1531,0.11,0.0,0.89,positive,White Fang
+"When they halted, it halted, throwing up its head and regarding them steadily with nostrils that twitched as it caught and studied the scent of them.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""It's the she-wolf,"" Bill answered.",0.0,0.0,0.0,1.0,neutral,White Fang
+"The dogs had lain down in the snow, and he walked past them to join his partner in the sled.",0.296,0.104,0.0,0.896,positive,White Fang
+Together they watched the strange animal that had pursued them for days and that had already accomplished the destruction of half their dog-team.,-0.3818,0.102,0.194,0.704,negative,White Fang
+"After a searching scrutiny, the animal trotted forward a few steps.",0.0,0.0,0.0,1.0,neutral,White Fang
+"This it repeated several times, till it was a short hundred yards away.",0.0,0.0,0.0,1.0,neutral,White Fang
+"It paused, head up, close by a clump of spruce trees, and with sight and scent studied the outfit of the watching men.",0.0,0.0,0.0,1.0,neutral,White Fang
+"It looked at them in a strangely wistful way, after the manner of a dog; but in its wistfulness there was none of the dog affection.",0.6124,0.163,0.057,0.78,positive,White Fang
+"It was a wistfulness bred of hunger, as cruel as its own fangs, as merciless as the frost itself.",-0.7003,0.0,0.266,0.734,negative,White Fang
+"It was large for a wolf, its gaunt frame advertising the lines of an animal that was among the largest of its kind.",0.5267,0.139,0.0,0.861,positive,White Fang
+"""Stands pretty close to two feet an' a half at the shoulders,"" Henry commented.",0.4939,0.211,0.0,0.789,positive,White Fang
+"""An' I'll bet it ain't far from five feet long.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Kind of strange colour for a wolf,"" was Bill's criticism.",-0.5719,0.0,0.402,0.598,negative,White Fang
+"""I never seen a red wolf before.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Looks almost cinnamon to me.""",0.0,0.0,0.0,1.0,neutral,White Fang
+The animal was certainly not cinnamon-coloured.,0.34,0.324,0.0,0.676,positive,White Fang
+Its coat was the true wolf-coat.,0.4215,0.359,0.0,0.641,positive,White Fang
+"The dominant colour was grey, and yet there was to it a faint reddish hue--a hue that was baffling, that appeared and disappeared, that was more like an illusion of the vision, now grey, distinctly grey, and again giving hints and glints of a vague redness of colour not classifiable in terms of ordinary experience.",0.6697,0.183,0.056,0.762,positive,White Fang
+"""Looks for all the world like a big husky sled-dog,"" Bill said.",0.3612,0.2,0.0,0.8,positive,White Fang
+"""I wouldn't be s'prised to see it wag its tail.""",-0.0516,0.0,0.118,0.882,negative,White Fang
+"""Hello, you husky!""",0.0,0.0,0.0,1.0,neutral,White Fang
+he called.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""Come here, you whatever-your-name-is.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Ain't a bit scairt of you,"" Henry laughed.",0.4588,0.333,0.0,0.667,positive,White Fang
+Bill waved his hand at it threateningly and shouted loudly; but the animal betrayed no fear.,-0.9274,0.076,0.529,0.396,negative,White Fang
+The only change in it that they could notice was an accession of alertness.,0.0,0.0,0.0,1.0,neutral,White Fang
+It still regarded them with the merciless wistfulness of hunger.,-0.25,0.0,0.182,0.818,negative,White Fang
+"They were meat, and it was hungry; and it would like to go in and eat them if it dared.",0.3612,0.116,0.0,0.884,positive,White Fang
+"""Look here, Henry,"" Bill said, unconsciously lowering his voice to a whisper because of what he imitated.",-0.25,0.0,0.118,0.882,negative,White Fang
+"""We've got three cartridges.",0.0,0.0,0.0,1.0,neutral,White Fang
+But it's a dead shot.,-0.7876,0.0,0.665,0.335,negative,White Fang
+Couldn't miss it.,0.1139,0.419,0.0,0.581,positive,White Fang
+"It's got away with three of our dogs, an' we oughter put a stop to it.",-0.296,0.0,0.136,0.864,negative,White Fang
+"What d'ye say?""",0.0,0.0,0.0,1.0,neutral,White Fang
+Henry nodded his consent.,0.2263,0.388,0.0,0.612,positive,White Fang
+Bill cautiously slipped the gun from under the sled-lashing.,-0.34,0.0,0.231,0.769,negative,White Fang
+"The gun was on the way to his shoulder, but it never got there.",-0.1779,0.0,0.116,0.884,negative,White Fang
+For in that instant the she-wolf leaped sidewise from the trail into the clump of spruce trees and disappeared.,-0.2263,0.0,0.095,0.905,negative,White Fang
+The two men looked at each other.,0.0,0.0,0.0,1.0,neutral,White Fang
+Henry whistled long and comprehendingly.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""I might have knowed it,"" Bill chided himself aloud as he replaced the gun.",-0.34,0.0,0.156,0.844,negative,White Fang
+"""Of course a wolf that knows enough to come in with the dogs at feedin' time, 'd know all about shooting-irons.",0.0,0.0,0.0,1.0,neutral,White Fang
+"I tell you right now, Henry, that critter's the cause of all our trouble.",-0.4019,0.0,0.184,0.816,negative,White Fang
+"We'd have six dogs at the present time, 'stead of three, if it wasn't for her.",0.0,0.0,0.0,1.0,neutral,White Fang
+"An' I tell you right now, Henry, I'm goin' to get her.",0.0,0.0,0.0,1.0,neutral,White Fang
+She's too smart to be shot in the open.,0.4019,0.252,0.0,0.748,positive,White Fang
+But I'm goin' to lay for her.,0.0,0.0,0.0,1.0,neutral,White Fang
+"I'll bushwhack her as sure as my name is Bill.""",0.3182,0.204,0.0,0.796,positive,White Fang
+"""You needn't stray off too far in doin' it,"" his partner admonished.",-0.4404,0.0,0.209,0.791,negative,White Fang
+"""If that pack ever starts to jump you, them three cartridges'd be wuth no more'n three whoops in hell.",-0.7783,0.0,0.286,0.714,negative,White Fang
+"Them animals is damn hungry, an' once they start in, they'll sure get you, Bill.""",-0.1027,0.128,0.15,0.722,negative,White Fang
+They camped early that night.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Three dogs could not drag the sled so fast nor for so long hours as could six, and they were showing unmistakable signs of playing out.",0.354,0.126,0.0,0.874,positive,White Fang
+"And the men went early to bed, Bill first seeing to it that the dogs were tied out of gnawing-reach of one another.",0.0,0.0,0.0,1.0,neutral,White Fang
+"But the wolves were growing bolder, and the men were aroused more than once from their sleep.",0.5927,0.244,0.0,0.756,positive,White Fang
+"So near did the wolves approach, that the dogs became frantic with terror, and it was necessary to replenish the fire from time to time in order to keep the adventurous marauders at safer distance.",-0.5423,0.118,0.198,0.683,negative,White Fang
+"""I've hearn sailors talk of sharks followin' a ship,"" Bill remarked, as he crawled back into the blankets after one such replenishing of the fire.",-0.34,0.0,0.094,0.906,negative,White Fang
+"""Well, them wolves is land sharks.",0.0,0.0,0.0,1.0,neutral,White Fang
+"They know their business better'n we do, an' they ain't a-holdin' our trail this way for their health.",0.0,0.0,0.0,1.0,neutral,White Fang
+They're goin' to get us.,0.0,0.0,0.0,1.0,neutral,White Fang
+"They're sure goin' to get us, Henry.""",0.3182,0.277,0.0,0.723,positive,White Fang
+"""They've half got you a'ready, a-talkin' like that,"" Henry retorted sharply.",0.3612,0.2,0.0,0.8,positive,White Fang
+"""A man's half licked when he says he is.",0.0,0.0,0.0,1.0,neutral,White Fang
+"An' you're half eaten from the way you're goin' on about it.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"""They've got away with better men than you an' me,"" Bill answered.",0.4404,0.209,0.0,0.791,positive,White Fang
+"""Oh, shet up your croakin'.",0.0,0.0,0.0,1.0,neutral,White Fang
+"You make me all-fired tired.""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Henry rolled over angrily on his side, but was surprised that Bill made no similar display of temper.",-0.7227,0.095,0.339,0.566,negative,White Fang
+"This was not Bill's way, for he was easily angered by sharp words.",-0.2263,0.144,0.198,0.659,negative,White Fang
+"Henry thought long over it before he went to sleep, and as his eyelids fluttered down and he dozed off, the thought in his mind was: ""There's no mistakin' it, Bill's almighty blue.",-0.296,0.0,0.064,0.936,negative,White Fang
+"I'll have to cheer him up to-morrow.""",0.5106,0.355,0.0,0.645,positive,White Fang
+CHAPTER III THE HUNGER CRY The day began auspiciously.,-0.7626,0.0,0.484,0.516,negative,White Fang
+"They had lost no dogs during the night, and they swung out upon the trail and into the silence, the darkness, and the cold with spirits that were fairly light.",-0.6705,0.0,0.194,0.806,negative,White Fang
+"Bill seemed to have forgotten his forebodings of the previous night, and even waxed facetious with the dogs when, at midday, they overturned the sled on a bad piece of trail.",-0.6597,0.0,0.162,0.838,negative,White Fang
+It was an awkward mix-up.,-0.1531,0.0,0.286,0.714,negative,White Fang
+"The sled was upside down and jammed between a tree-trunk and a huge rock, and they were forced to unharness the dogs in order to straighten out the tangle.",-0.1779,0.076,0.099,0.825,negative,White Fang
+"The two men were bent over the sled and trying to right it, when Henry observed One Ear sidling away.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""Here, you, One Ear!""",0.0,0.0,0.0,1.0,neutral,White Fang
+"he cried, straightening up and turning around on the dog.",-0.3818,0.0,0.224,0.776,negative,White Fang
+"But One Ear broke into a run across the snow, his traces trailing behind him.",-0.5719,0.0,0.222,0.778,negative,White Fang
+"And there, out in the snow of their back track, was the she-wolf waiting for him.",0.0,0.0,0.0,1.0,neutral,White Fang
+"As he neared her, he became suddenly cautious.",-0.1027,0.0,0.167,0.833,negative,White Fang
+He slowed down to an alert and mincing walk and then stopped.,0.0772,0.156,0.135,0.709,positive,White Fang
+"He regarded her carefully and dubiously, yet desirefully.",0.128,0.176,0.0,0.824,positive,White Fang
+"She seemed to smile at him, showing her teeth in an ingratiating rather than a menacing way.",0.3612,0.143,0.0,0.857,positive,White Fang
+"She moved toward him a few steps, playfully, and then halted.",0.3818,0.224,0.0,0.776,positive,White Fang
+"One Ear drew near to her, still alert and cautious, his tail and ears in the air, his head held high.",0.2023,0.097,0.062,0.841,positive,White Fang
+"He tried to sniff noses with her, but she retreated playfully and coyly.",0.5267,0.221,0.0,0.779,positive,White Fang
+Every advance on his part was accompanied by a corresponding retreat on her part.,0.2023,0.13,0.0,0.87,positive,White Fang
+Step by step she was luring him away from the security of his human companionship.,0.34,0.146,0.0,0.854,positive,White Fang
+"Once, as though a warning had in vague ways flitted through his intelligence, he turned his head and looked back at the overturned sled, at his team-mates, and at the two men who were calling to him.",0.0772,0.078,0.095,0.827,positive,White Fang
+"But whatever idea was forming in his mind, was dissipated by the she-wolf, who advanced upon him, sniffed noses with him for a fleeting instant, and then resumed her coy retreat before his renewed advances.",0.5719,0.128,0.0,0.872,positive,White Fang
+"In the meantime, Bill had bethought himself of the rifle.",0.0,0.0,0.0,1.0,neutral,White Fang
+"But it was jammed beneath the overturned sled, and by the time Henry had helped him to right the load, One Ear and the she-wolf were too close together and the distance too great to risk a shot.",0.6124,0.13,0.061,0.808,positive,White Fang
+Too late One Ear learned his mistake.,-0.34,0.0,0.286,0.714,negative,White Fang
+"Before they saw the cause, the two men saw him turn and start to run back toward them.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Then, approaching at right angles to the trail and cutting off his retreat they saw a dozen wolves, lean and grey, bounding across the snow.",0.128,0.118,0.059,0.824,positive,White Fang
+"On the instant, the she-wolf's coyness and playfulness disappeared.",0.0772,0.198,0.171,0.631,positive,White Fang
+With a snarl she sprang upon One Ear.,0.0,0.0,0.0,1.0,neutral,White Fang
+"He thrust her off with his shoulder, and, his retreat cut off and still intent on regaining the sled, he altered his course in an attempt to circle around to it.",-0.0772,0.055,0.064,0.881,negative,White Fang
+More wolves were appearing every moment and joining in the chase.,0.0,0.0,0.0,1.0,neutral,White Fang
+The she-wolf was one leap behind One Ear and holding her own.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""Where are you goin'?""",0.0,0.0,0.0,1.0,neutral,White Fang
+"Henry suddenly demanded, laying his hand on his partner's arm.",0.3182,0.244,0.145,0.611,positive,White Fang
+Bill shook it off.,-0.1027,0.0,0.318,0.682,negative,White Fang
+"""I won't stand it,"" he said.",0.0,0.0,0.0,1.0,neutral,White Fang
+"""They ain't a-goin' to get any more of our dogs if I can help it.""",0.4019,0.172,0.0,0.828,positive,White Fang
+"Gun in hand, he plunged into the underbrush that lined the side of the trail.",0.2023,0.172,0.129,0.699,positive,White Fang
+His intention was apparent enough.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Taking the sled as the centre of the circle that One Ear was making, Bill planned to tap that circle at a point in advance of the pursuit.",0.0,0.0,0.0,1.0,neutral,White Fang
+"With his rifle, in the broad daylight, it might be possible for him to awe the wolves and save the dog.",0.4939,0.138,0.0,0.862,positive,White Fang
+"""Say, Bill!""",0.0,0.0,0.0,1.0,neutral,White Fang
+Henry called after him.,0.0,0.0,0.0,1.0,neutral,White Fang
+"""Be careful!",0.2244,0.654,0.0,0.346,positive,White Fang
+"Don't take no chances!""",0.2914,0.421,0.0,0.579,positive,White Fang
+Henry sat down on the sled and watched.,0.0,0.0,0.0,1.0,neutral,White Fang
+There was nothing else for him to do.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Bill had already gone from sight; but now and again, appearing and disappearing amongst the underbrush and the scattered clumps of spruce, could be seen One Ear.",0.0,0.0,0.0,1.0,neutral,White Fang
+Henry judged his case to be hopeless.,-0.4588,0.0,0.333,0.667,negative,White Fang
+"The dog was thoroughly alive to its danger, but it was running on the outer circle while the wolf-pack was running on the inner and shorter circle.",-0.0653,0.067,0.075,0.858,negative,White Fang
+It was vain to think of One Ear so outdistancing his pursuers as to be able to cut across their circle in advance of them and to regain the sled.,-0.5994,0.0,0.149,0.851,negative,White Fang
+The different lines were rapidly approaching a point.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Somewhere out there in the snow, screened from his sight by trees and thickets, Henry knew that the wolf-pack, One Ear, and Bill were coming together.",0.0,0.0,0.0,1.0,neutral,White Fang
+"All too quickly, far more quickly than he had expected, it happened.",0.0,0.0,0.0,1.0,neutral,White Fang
+"He heard a shot, then two shots, in rapid succession, and he knew that Bill's ammunition was gone.",0.2023,0.101,0.0,0.899,positive,White Fang
+Then he heard a great outcry of snarls and yelps.,0.2023,0.285,0.229,0.486,positive,White Fang
+"He recognised One Ear's yell of pain and terror, and he heard a wolf-cry that bespoke a stricken animal.",-0.875,0.0,0.417,0.583,negative,White Fang
+And that was all.,0.0,0.0,0.0,1.0,neutral,White Fang
+The snarls ceased.,0.0,0.0,0.0,1.0,neutral,White Fang
+The yelping died away.,-0.5574,0.0,0.545,0.455,negative,White Fang
+Silence settled down again over the lonely land.,-0.3612,0.0,0.263,0.737,negative,White Fang
+He sat for a long while upon the sled.,0.0,0.0,0.0,1.0,neutral,White Fang
+There was no need for him to go and see what had happened.,-0.296,0.0,0.155,0.845,negative,White Fang
+He knew it as though it had taken place before his eyes.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Once, he roused with a start and hastily got the axe out from underneath the lashings.",-0.1027,0.0,0.091,0.909,negative,White Fang
+"But for some time longer he sat and brooded, the two remaining dogs crouching and trembling at his feet.",-0.5023,0.0,0.153,0.847,negative,White Fang
+"At last he arose in a weary manner, as though all the resilience had gone out of his body, and proceeded to fasten the dogs to the sled.",-0.2732,0.0,0.075,0.925,negative,White Fang
+"He passed a rope over his shoulder, a man-trace, and pulled with the dogs.",0.0,0.0,0.0,1.0,neutral,White Fang
+He did not go far.,0.0,0.0,0.0,1.0,neutral,White Fang
+"At the first hint of darkness he hastened to make a camp, and he saw to it that he had a generous supply of firewood.",0.3182,0.125,0.076,0.798,positive,White Fang
+"He fed the dogs, cooked and ate his supper, and made his bed close to the fire.",-0.34,0.0,0.13,0.87,negative,White Fang
+But he was not destined to enjoy that bed.,-0.5334,0.0,0.301,0.699,negative,White Fang
+Before his eyes closed the wolves had drawn too near for safety.,0.4215,0.203,0.0,0.797,positive,White Fang
+It no longer required an effort of the vision to see them.,-0.0516,0.141,0.155,0.704,negative,White Fang
+"They were all about him and the fire, in a narrow circle, and he could see them plainly in the firelight lying down, sitting up, crawling forward on their bellies, or slinking back and forth.",-0.7003,0.0,0.153,0.847,negative,White Fang
+They even slept.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Here and there he could see one curled up in the snow like a dog, taking the sleep that was now denied himself.",-0.1027,0.098,0.114,0.787,negative,White Fang
+"He kept the fire brightly blazing, for he knew that it alone intervened between the flesh of his body and their hungry fangs.",-0.2263,0.093,0.164,0.743,negative,White Fang
+"His two dogs stayed close by him, one on either side, leaning against him for protection, crying and whimpering, and at times snarling desperately when a wolf approached a little closer than usual.",-0.6908,0.0,0.164,0.836,negative,White Fang
+"At such moments, when his dogs snarled, the whole circle would be agitated, the wolves coming to their feet and pressing tentatively forward, a chorus of snarls and eager yelps rising about him.",-0.128,0.07,0.085,0.845,negative,White Fang
+"Then the circle would lie down again, and here and there a wolf would resume its broken nap.",-0.4767,0.0,0.162,0.838,negative,White Fang
+But this circle had a continuous tendency to draw in upon him.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Bit by bit, an inch at a time, with here a wolf bellying forward, and there a wolf bellying forward, the circle would narrow until the brutes were almost within springing distance.",0.0,0.0,0.0,1.0,neutral,White Fang
+Then he would seize brands from the fire and hurl them into the pack.,-0.34,0.0,0.156,0.844,negative,White Fang
+"A hasty drawing back always resulted, accompanied by angry yelps and frightened snarls when a well-aimed brand struck and scorched a too daring animal.",-0.6908,0.09,0.296,0.614,negative,White Fang
+"Morning found the man haggard and worn, wide-eyed from want of sleep.",-0.2263,0.096,0.163,0.741,negative,White Fang
+"He cooked breakfast in the darkness, and at nine o'clock, when, with the coming of daylight, the wolf-pack drew back, he set about the task he had planned through the long hours of the night.",-0.25,0.0,0.056,0.944,negative,White Fang
+"Chopping down young saplings, he made them cross-bars of a scaffold by lashing them high up to the trunks of standing trees.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Using the sled-lashing for a heaving rope, and with the aid of the dogs, he hoisted the coffin to the top of the scaffold.",0.2023,0.076,0.0,0.924,positive,White Fang
+"""They got Bill, an' they may get me, but they'll sure never get you, young man,"" he said, addressing the dead body in its tree-sepulchre.",-0.6124,0.092,0.187,0.721,negative,White Fang
+"Then he took the trail, the lightened sled bounding along behind the willing dogs; for they, too, knew that safety lay open in the gaining of Fort McGurry.",0.6808,0.177,0.0,0.823,positive,White Fang
+"The wolves were now more open in their pursuit, trotting sedately behind and ranging along on either side, their red tongues lolling out, their lean sides showing the undulating ribs with every movement.",0.0,0.0,0.0,1.0,neutral,White Fang
+"They were very lean, mere skin-bags stretched over bony frames, with strings for muscles--so lean that Henry found it in his mind to marvel that they still kept their feet and did not collapse forthright in the snow.",0.6628,0.131,0.0,0.869,positive,White Fang
+He did not dare travel until dark.,0.0,0.0,0.0,1.0,neutral,White Fang
+"At midday, not only did the sun warm the southern horizon, but it even thrust its upper rim, pale and golden, above the sky-line.",0.1154,0.059,0.0,0.941,positive,White Fang
+He received it as a sign.,0.0,0.0,0.0,1.0,neutral,White Fang
+The days were growing longer.,0.1779,0.298,0.0,0.702,positive,White Fang
+The sun was returning.,0.0,0.0,0.0,1.0,neutral,White Fang
+"But scarcely had the cheer of its light departed, than he went into camp.",0.6192,0.238,0.0,0.762,positive,White Fang
+"There were still several hours of grey daylight and sombre twilight, and he utilised them in chopping an enormous supply of fire-wood.",0.0516,0.054,0.0,0.946,positive,White Fang
+With night came horror.,-0.5719,0.0,0.552,0.448,negative,White Fang
+"Not only were the starving wolves growing bolder, but lack of sleep was telling upon Henry.",-0.4404,0.149,0.245,0.606,negative,White Fang
+"He dozed despite himself, crouching by the fire, the blankets about his shoulders, the axe between his knees, and on either side a dog pressing close against him.",-0.4215,0.0,0.132,0.868,negative,White Fang
+"He awoke once and saw in front of him, not a dozen feet away, a big grey wolf, one of the largest of the pack.",0.0516,0.052,0.0,0.948,positive,White Fang
+"And even as he looked, the brute deliberately stretched himself after the manner of a lazy dog, yawning full in his face and looking upon him with a possessive eye, as if, in truth, he were merely a delayed meal that was soon to be eaten.",-0.4588,0.048,0.132,0.819,negative,White Fang
+This certitude was shown by the whole pack.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Fully a score he could count, staring hungrily at him or calmly sleeping in the snow.",0.3182,0.141,0.0,0.859,positive,White Fang
+They reminded him of children gathered about a spread table and awaiting permission to begin to eat.,0.0,0.0,0.0,1.0,neutral,White Fang
+And he was the food they were to eat!,0.0,0.0,0.0,1.0,neutral,White Fang
+He wondered how and when the meal would begin.,0.0,0.0,0.0,1.0,neutral,White Fang
+As he piled wood on the fire he discovered an appreciation of his own body which he had never felt before.,0.2263,0.134,0.097,0.769,positive,White Fang
+He watched his moving muscles and was interested in the cunning mechanism of his fingers.,0.4019,0.162,0.0,0.838,positive,White Fang
+"By the light of the fire he crooked his fingers slowly and repeatedly now one at a time, now all together, spreading them wide or making quick gripping movements.",-0.34,0.0,0.082,0.918,negative,White Fang
+"He studied the nail-formation, and prodded the finger-tips, now sharply, and again softly, gauging the while the nerve-sensations produced.",0.0,0.0,0.0,1.0,neutral,White Fang
+"It fascinated him, and he grew suddenly fond of this subtle flesh of his that worked so beautifully and smoothly and delicately.",0.9143,0.414,0.0,0.586,positive,White Fang
+"Then he would cast a glance of fear at the wolf-circle drawn expectantly about him, and like a blow the realisation would strike him that this wonderful body of his, this living flesh, was no more than so much meat, a quest of ravenous animals, to be torn and slashed by their hungry fangs, to be sustenance to them as the moose and the rabbit had often been sustenance to him.",-0.2323,0.087,0.137,0.775,negative,White Fang
+"He came out of a doze that was half nightmare, to see the red-hued she-wolf before him.",0.0,0.0,0.0,1.0,neutral,White Fang
+She was not more than half a dozen feet away sitting in the snow and wistfully regarding him.,0.0,0.0,0.0,1.0,neutral,White Fang
+"The two dogs were whimpering and snarling at his feet, but she took no notice of them.",-0.4215,0.0,0.149,0.851,negative,White Fang
+"She was looking at the man, and for some time he returned her look.",0.0,0.0,0.0,1.0,neutral,White Fang
+There was nothing threatening about her.,0.4168,0.357,0.0,0.643,positive,White Fang
+"She looked at him merely with a great wistfulness, but he knew it to be the wistfulness of an equally great hunger.",0.7717,0.286,0.087,0.627,positive,White Fang
+"He was the food, and the sight of him excited in her the gustatory sensations.",0.34,0.146,0.0,0.854,positive,White Fang
+"Her mouth opened, the saliva drooled forth, and she licked her chops with the pleasure of anticipation.",0.6249,0.254,0.0,0.746,positive,White Fang
+A spasm of fear went through him.,-0.4939,0.0,0.39,0.61,negative,White Fang
+He reached hastily for a brand to throw at her.,0.1027,0.149,0.0,0.851,positive,White Fang
+"But even as he reached, and before his fingers had closed on the missile, she sprang back into safety; and he knew that she was used to having things thrown at her.",0.6486,0.15,0.0,0.85,positive,White Fang
+"She had snarled as she sprang away, baring her white fangs to their roots, all her wistfulness vanishing, being replaced by a carnivorous malignity that made him shudder.",0.0,0.0,0.0,1.0,neutral,White Fang
+"He glanced at the hand that held the brand, noticing the cunning delicacy of the fingers that gripped it, how they adjusted themselves to all the inequalities of the surface, curling over and under and about the rough wood, and one little finger, too close to the burning portion of the brand, sensitively and automatically writhing back from the hurtful heat to a cooler gripping-place; and in the same instant he seemed to see a vision of those same sensitive and delicate fingers being crushed and torn by the white teeth of the she-wolf.",-0.4215,0.064,0.082,0.855,negative,White Fang
+Never had he been so fond of this body of his as now when his tenure of it was so precarious.,0.5777,0.158,0.0,0.842,positive,White Fang
+"All night, with burning brands, he fought off the hungry pack.",-0.3182,0.0,0.187,0.813,negative,White Fang
+"When he dozed despite himself, the whimpering and snarling of the dogs aroused him.",0.0,0.0,0.0,1.0,neutral,White Fang
+"Morning came, but for the first time the light of day failed to scatter the wolves.",-0.6652,0.0,0.229,0.771,negative,White Fang
+The man waited in vain for them to go.,-0.4215,0.0,0.259,0.741,negative,White Fang
+"They remained in a circle about him and his fire, displaying an arrogance of possession that shook his courage born of the morning light.",-0.4588,0.109,0.245,0.646,negative,White Fang
+He made one desperate attempt to pull out on the trail.,-0.3182,0.0,0.187,0.813,negative,White Fang
+"But the moment he left the protection of the fire, the boldest wolf leaped for him, but leaped short.",0.0772,0.145,0.132,0.723,positive,White Fang
+"He saved himself by springing back, the jaws snapping together a scant six inches from his thigh.",0.4215,0.157,0.0,0.843,positive,White Fang
+"The rest of the pack was now up and surging upon him, and a throwing of firebrands right and left was necessary to drive them back to a respectful distance.",0.4588,0.1,0.0,0.9,positive,White Fang
+Even in the daylight he did not dare leave the fire to chop fresh wood.,0.0124,0.193,0.134,0.672,neutral,White Fang
+Twenty feet away towered a huge dead spruce.,-0.4588,0.198,0.371,0.431,negative,White Fang
+"He spent half the day extending his campfire to the tree, at any moment a half dozen burning faggots ready at hand to fling at his enemies.",-0.4019,0.162,0.211,0.627,negative,White Fang
+"Once at the tree, he studied the surrounding forest in order to fell the tree in the direction of the most firewood.",0.0,0.0,0.0,1.0,neutral,White Fang
+"The night was a repetition of the night before, save that the need for sleep was becoming overpowering.",0.4939,0.167,0.0,0.833,positive,White Fang
+The snarling of his dogs was losing its efficacy.,-0.3818,0.0,0.245,0.755,negative,White Fang
+"Besides, they were snarling all the time, and his benumbed and drowsy senses no longer took note of changing pitch and intensity.",-0.296,0.0,0.095,0.905,negative,White Fang
+He awoke with a start.,0.0,0.0,0.0,1.0,neutral,White Fang
+The she-wolf was less than a yard from him.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Mechanically, at short range, without letting go of it, he thrust a brand full into her open and snarling mouth.",0.0,0.0,0.0,1.0,neutral,White Fang
+"She sprang away, yelling with pain, and while he took delight in the smell of burning flesh and hair, he watched her shaking her head and growling wrathfully a score of feet away.",-0.0258,0.103,0.132,0.765,neutral,White Fang
+"But this time, before he dozed again, he tied a burning pine-knot to his right hand.",0.6486,0.235,0.0,0.765,positive,White Fang
+His eyes were closed but few minutes when the burn of the flame on his flesh awakened him.,0.0,0.0,0.0,1.0,neutral,White Fang
+For several hours he adhered to this programme.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Every time he was thus awakened he drove back the wolves with flying brands, replenished the fire, and rearranged the pine-knot on his hand.",0.2023,0.116,0.087,0.797,positive,White Fang
+"All worked well, but there came a time when he fastened the pine-knot insecurely.",-0.3716,0.099,0.198,0.703,negative,White Fang
+As his eyes closed it fell away from his hand.,0.4939,0.262,0.0,0.738,positive,White Fang
+He dreamed.,0.0,0.0,0.0,1.0,neutral,White Fang
+It seemed to him that he was in Fort McGurry.,0.0,0.0,0.0,1.0,neutral,White Fang
+"It was warm and comfortable, and he was playing cribbage with the Factor.",0.7184,0.412,0.0,0.588,positive,White Fang
+"Also, it seemed to him that the fort was besieged by wolves.",0.0,0.0,0.0,1.0,neutral,White Fang
+"They were howling at the very gates, and sometimes he and the Factor paused from the game to listen and laugh at the futile efforts of the wolves to get in.",0.1779,0.101,0.082,0.817,positive,White Fang
+"And then, so strange was the dream, there was a crash.",-0.4707,0.142,0.36,0.498,negative,White Fang
+The door was burst open.,0.0,0.0,0.0,1.0,neutral,White Fang
+He could see the wolves flooding into the big living-room of the fort.,0.0,0.0,0.0,1.0,neutral,White Fang
+They were leaping straight for him and the Factor.,0.2263,0.192,0.0,0.808,positive,White Fang
+"With the bursting open of the door, the noise of their howling had increased tremendously.",0.2732,0.13,0.0,0.87,positive,White Fang
+This howling now bothered him.,-0.3182,0.0,0.365,0.635,negative,White Fang
+"His dream was merging into something else--he knew not what; but through it all, following him, persisted the howling.",0.128,0.077,0.0,0.923,positive,White Fang
+And then he awoke to find the howling real.,0.0,0.0,0.0,1.0,neutral,White Fang
+There was a great snarling and yelping.,0.6249,0.451,0.0,0.549,positive,White Fang
+The wolves were rushing him.,0.0,0.0,0.0,1.0,neutral,White Fang
+They were all about him and upon him.,0.0,0.0,0.0,1.0,neutral,White Fang
+The teeth of one had closed upon his arm.,0.0,0.0,0.0,1.0,neutral,White Fang
+"Instinctively he leaped into the fire, and as he leaped, he felt the sharp slash of teeth that tore through the flesh of his leg.",-0.5423,0.0,0.164,0.836,negative,White Fang
+Then began a fire fight.,-0.6124,0.0,0.714,0.286,negative,White Fang
+"His stout mittens temporarily protected his hands, and he scooped live coals into the air in all directions, until the campfire took on the semblance of a volcano.",0.5574,0.155,0.0,0.845,positive,White Fang
+But it could not last long.,0.0,0.0,0.0,1.0,neutral,White Fang
+"His face was blistering in the heat, his eyebrows and lashes were singed off, and the heat was becoming unbearable to his feet.",0.0,0.0,0.0,1.0,neutral,White Fang
+"With a flaming brand in each hand, he sprang to the edge of the fire.",0.2023,0.182,0.136,0.682,positive,White Fang
+The wolves had been driven back.,0.0,0.0,0.0,1.0,neutral,White Fang
+"On every side, wherever the live coals had fallen, the snow was sizzling, and every little while a retiring wolf, with wild leap and snort and snarl, announced that one such live coal had been stepped upon.",-0.3612,0.0,0.067,0.933,negative,White Fang
+"Flinging his brands at the nearest of his enemies, the man thrust his smouldering mitte",-0.4939,0.0,0.186,0.814,negative,White Fang

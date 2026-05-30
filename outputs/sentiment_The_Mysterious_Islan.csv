@@ -1,0 +1,476 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Mysterious Island This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.068,0.107,0.825,negative,The Mysterious Island
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Mysterious Island
+"Title : The Mysterious Island Author : Jules Verne Translator : Agnes Kinloch Kingston Release date : April 1, 1998 [eBook #1268] Most recently updated: October 29, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/1268 Credits : Anthony Matonak *** START OF THE PROJECT GUTENBERG EBOOK THE MYSTERIOUS ISLAND *** THE MYSTERIOUS ISLAND by Jules Verne 1874 CONTENTS PART 1.",0.3612,0.044,0.0,0.956,positive,The Mysterious Island
+DROPPED FROM THE CLOUDS Chapter 1 Chapter 2 Chapter 3 Chapter 4 Chapter 5 Chapter 6 Chapter 7 Chapter 8 Chapter 9 Chapter 10 Chapter 11 Chapter 12 Chapter 13 Chapter 14 Chapter 15 Chapter 16 Chapter 17 Chapter 18 Chapter 19 Chapter 20 Chapter 21 Chapter 22 PART 2.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+ABANDONED Chapter 1 Chapter 2 Chapter 3 Chapter 4 Chapter 5 Chapter 6 Chapter 7 Chapter 8 Chapter 9 Chapter 10 Chapter 11 Chapter 12 Chapter 13 Chapter 14 Chapter 15 Chapter 16 Chapter 17 Chapter 18 Chapter 19 Chapter 20 PART 3.,-0.5766,0.0,0.102,0.898,negative,The Mysterious Island
+"THE SECRET OF THE ISLAND Chapter 1 Chapter 2 Chapter 3 Chapter 4 Chapter 5 Chapter 6 Chapter 7 Chapter 8 Chapter 9 Chapter 10 Chapter 11 Chapter 12 Chapter 13 Chapter 14 Chapter 15 Chapter 16 Chapter 17 Chapter 18 Chapter 19 Chapter 20 PART 1--DROPPED FROM THE CLOUDS Chapter 1 ""Are we rising again?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""No.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"On the contrary.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Are we descending?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Worse than that, captain!",-0.5255,0.0,0.531,0.469,negative,The Mysterious Island
+"we are falling!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""For Heaven's sake heave out the ballast!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""There!",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"the last sack is empty!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Does the balloon rise?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""No!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""I hear a noise like the dashing of waves.",0.3612,0.263,0.0,0.737,positive,The Mysterious Island
+The sea is below the car!,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It cannot be more than 500 feet from us!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Overboard with every weight!",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+...,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"everything!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Such were the loud and startling words which resounded through the air, above the vast watery desert of the Pacific, about four o'clock in the evening of the 23rd of March, 1865.",0.0772,0.04,0.0,0.96,positive,The Mysterious Island
+"Few can possibly have forgotten the terrible storm from the northeast, in the middle of the equinox of that year.",-0.6124,0.0,0.217,0.783,negative,The Mysterious Island
+The tempest raged without intermission from the 18th to the 26th of March.,-0.4588,0.0,0.2,0.8,negative,The Mysterious Island
+"Its ravages were terrible in America, Europe, and Asia, covering a distance of eighteen hundred miles, and extending obliquely to the equator from the thirty-fifth north parallel to the fortieth south parallel.",-0.4767,0.0,0.094,0.906,negative,The Mysterious Island
+"Towns were overthrown, forests uprooted, coasts devastated by the mountains of water which were precipitated on them, vessels cast on the shore, which the published accounts numbered by hundreds, whole districts leveled by waterspouts which destroyed everything they passed over, several thousand people crushed on land or drowned at sea; such were the traces of its fury, left by this devastating tempest.",-0.9742,0.0,0.289,0.711,negative,The Mysterious Island
+"It surpassed in disasters those which so frightfully ravaged Havana and Guadalupe, one on the 25th of October, 1810, the other on the 26th of July, 1825.",-0.7959,0.0,0.221,0.779,negative,The Mysterious Island
+"But while so many catastrophes were taking place on land and at sea, a drama not less exciting was being enacted in the agitated air.",-0.7973,0.0,0.244,0.756,negative,The Mysterious Island
+"In fact, a balloon, as a ball might be carried on the summit of a waterspout, had been taken into the circling movement of a column of air and had traversed space at the rate of ninety miles an hour, turning round and round as if seized by some aerial maelstrom.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Beneath the lower point of the balloon swung a car, containing five passengers, scarcely visible in the midst of the thick vapor mingled with spray which hung over the surface of the ocean.",-0.296,0.0,0.066,0.934,negative,The Mysterious Island
+"Whence, it may be asked, had come that plaything of the tempest?",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+From what part of the world did it rise?,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+It surely could not have started during the storm.,0.4404,0.266,0.0,0.734,positive,The Mysterious Island
+"But the storm had raged five days already, and the first symptoms were manifested on the 18th.",-0.6124,0.0,0.2,0.8,negative,The Mysterious Island
+"It cannot be doubted that the balloon came from a great distance, for it could not have traveled less than two thousand miles in twenty-four hours.",0.7108,0.205,0.0,0.795,positive,The Mysterious Island
+"At any rate the passengers, destitute of all marks for their guidance, could not have possessed the means of reckoning the route traversed since their departure.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It was a remarkable fact that, although in the very midst of the furious tempest, they did not suffer from it.",0.4118,0.238,0.136,0.626,positive,The Mysterious Island
+"They were thrown about and whirled round and round without feeling the rotation in the slightest degree, or being sensible that they were removed from a horizontal position.",-0.0951,0.0,0.05,0.95,negative,The Mysterious Island
+Their eyes could not pierce through the thick mist which had gathered beneath the car.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Dark vapor was all around them.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Such was the density of the atmosphere that they could not be certain whether it was day or night.,-0.2057,0.0,0.092,0.908,negative,The Mysterious Island
+"No reflection of light, no sound from inhabited land, no roaring of the ocean could have reached them, through the obscurity, while suspended in those elevated zones.",-0.8074,0.042,0.293,0.665,negative,The Mysterious Island
+Their rapid descent alone had informed them of the dangers which they ran from the waves.,-0.6369,0.0,0.271,0.729,negative,The Mysterious Island
+"However, the balloon, lightened of heavy articles, such as ammunition, arms, and provisions, had risen into the higher layers of the atmosphere, to a height of 4,500 feet.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The voyagers, after having discovered that the sea extended beneath them, and thinking the dangers above less dreadful than those below, did not hesitate to throw overboard even their most useful articles, while they endeavored to lose no more of that fluid, the life of their enterprise, which sustained them above the abyss.",-0.6908,0.08,0.171,0.749,negative,The Mysterious Island
+The night passed in the midst of alarms which would have been death to less energetic souls.,-0.5256,0.115,0.265,0.619,negative,The Mysterious Island
+Again the day appeared and with it the tempest began to moderate.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"From the beginning of that day, the 24th of March, it showed symptoms of abating.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"At dawn, some of the lighter clouds had risen into the more lofty regions of the air.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"In a few hours the wind had changed from a hurricane to a fresh breeze, that is to say, the rate of the transit of the atmospheric layers was diminished by half.",0.3182,0.076,0.0,0.924,positive,The Mysterious Island
+"It was still what sailors call ""a close-reefed topsail breeze,"" but the commotion in the elements had none the less considerably diminished.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Towards eleven o'clock, the lower region of the air was sensibly clearer.",-0.296,0.0,0.167,0.833,negative,The Mysterious Island
+The atmosphere threw off that chilly dampness which is felt after the passage of a great meteor.,0.6249,0.215,0.0,0.785,positive,The Mysterious Island
+The storm did not seem to have gone farther to the west.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+It appeared to have exhausted itself.,-0.3612,0.0,0.333,0.667,negative,The Mysterious Island
+"Could it have passed away in electric sheets, as is sometimes the case with regard to the typhoons of the Indian Ocean?",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"But at the same time, it was also evident that the balloon was again slowly descending with a regular movement.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It appeared as if it were, little by little, collapsing, and that its case was lengthening and extending, passing from a spherical to an oval form.",-0.1639,0.0,0.064,0.936,negative,The Mysterious Island
+"Towards midday the balloon was hovering above the sea at a height of only 2,000 feet.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It contained 50,000 cubic feet of gas, and, thanks to its capacity, it could maintain itself a long time in the air, although it should reach a great altitude or might be thrown into a horizontal position.",0.7964,0.207,0.0,0.793,positive,The Mysterious Island
+"Perceiving their danger, the passengers cast away the last articles which still weighed down the car, the few provisions they had kept, everything, even to their pocket-knives, and one of them, having hoisted himself on to the circles which united the cords of the net, tried to secure more firmly the lower point of the balloon.",-0.1689,0.082,0.093,0.825,negative,The Mysterious Island
+"It was, however, evident to the voyagers that the gas was failing, and that the balloon could no longer be sustained in the higher regions.",-0.6705,0.0,0.193,0.807,negative,The Mysterious Island
+They must infallibly perish!,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"There was not a continent, nor even an island, visible beneath them.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The watery expanse did not present a single speck of land, not a solid surface upon which their anchor could hold.",-0.1139,0.0,0.074,0.926,negative,The Mysterious Island
+"It was the open sea, whose waves were still dashing with tremendous violence!",-0.6588,0.0,0.268,0.732,negative,The Mysterious Island
+"It was the ocean, without any visible limits, even for those whose gaze, from their commanding position, extended over a radius of forty miles.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The vast liquid plain, lashed without mercy by the storm, appeared as if covered with herds of furious chargers, whose white and disheveled crests were streaming in the wind.",-0.7013,0.0,0.177,0.823,negative,The Mysterious Island
+"No land was in sight, not a solitary ship could be seen.",-0.296,0.0,0.18,0.82,negative,The Mysterious Island
+"It was necessary at any cost to arrest their downward course, and to prevent the balloon from being engulfed in the waves.",-0.3182,0.047,0.102,0.851,negative,The Mysterious Island
+The voyagers directed all their energies to this urgent work.,0.4019,0.316,0.0,0.684,positive,The Mysterious Island
+"But, notwithstanding their efforts, the balloon still fell, and at the same time shifted with the greatest rapidity, following the direction of the wind, that is to say, from the northeast to the southwest.",0.7783,0.149,0.0,0.851,positive,The Mysterious Island
+Frightful indeed was the situation of these unfortunate men.,-0.743,0.0,0.474,0.526,negative,The Mysterious Island
+They were evidently no longer masters of the machine.,-0.296,0.0,0.216,0.784,negative,The Mysterious Island
+All their attempts were useless.,-0.4215,0.0,0.412,0.588,negative,The Mysterious Island
+The case of the balloon collapsed more and more.,-0.2732,0.0,0.208,0.792,negative,The Mysterious Island
+The gas escaped without any possibility of retaining it.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Their descent was visibly accelerated, and soon after midday the car hung within 600 feet of the ocean.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It was impossible to prevent the escape of gas, which rushed through a large rent in the silk.",0.2023,0.157,0.0,0.843,positive,The Mysterious Island
+"By lightening the car of all the articles which it contained, the passengers had been able to prolong their suspension in the air for a few hours.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"But the inevitable catastrophe could only be retarded, and if land did not appear before night, voyagers, car, and balloon must to a certainty vanish beneath the waves.",-0.8922,0.066,0.296,0.637,negative,The Mysterious Island
+They now resorted to the only remaining expedient.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"They were truly dauntless men, who knew how to look death in the face.",0.3182,0.294,0.185,0.521,positive,The Mysterious Island
+Not a single murmur escaped from their lips.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"They were determined to struggle to the last minute, to do anything to retard their fall.",-0.5106,0.114,0.27,0.616,negative,The Mysterious Island
+"The car was only a sort of willow basket, unable to float, and there was not the slightest possibility of maintaining it on the surface of the sea.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Two more hours passed and the balloon was scarcely 400 feet above the water.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"At that moment a loud voice, the voice of a man whose heart was inaccessible to fear, was heard.",-0.4939,0.0,0.167,0.833,negative,The Mysterious Island
+To this voice responded others not less determined.,-0.2069,0.0,0.206,0.794,negative,The Mysterious Island
+"""Is everything thrown out?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""No, here are still 2,000 dollars in gold.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+A heavy bag immediately plunged into the sea.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Does the balloon rise?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""A little, but it will not be long before it falls again.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""What still remains to be thrown out?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Nothing.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Yes!",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"the car!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Let us catch hold of the net, and into the sea with the car.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"This was, in fact, the last and only mode of lightening the balloon.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The ropes which held the car were cut, and the balloon, after its fall, mounted 2,000 feet.",-0.2732,0.0,0.116,0.884,negative,The Mysterious Island
+"The five voyagers had hoisted themselves into the net, and clung to the meshes, gazing at the abyss.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+The delicate sensibility of balloons is well known.,0.3182,0.355,0.0,0.645,positive,The Mysterious Island
+It is sufficient to throw out the lightest article to produce a difference in its vertical position.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+The apparatus in the air is like a balance of mathematical precision.,0.3612,0.2,0.0,0.8,positive,The Mysterious Island
+It can be thus easily understood that when it is lightened of any considerable weight its movement will be impetuous and sudden.,0.34,0.103,0.0,0.897,positive,The Mysterious Island
+So it happened on this occasion.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"But after being suspended for an instant aloft, the balloon began to redescend, the gas escaping by the rent which it was impossible to repair.",-0.5927,0.046,0.146,0.808,negative,The Mysterious Island
+The men had done all that men could do.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+No human efforts could save them now.,0.25,0.308,0.212,0.481,positive,The Mysterious Island
+They must trust to the mercy of Him who rules the elements.,0.7003,0.367,0.0,0.633,positive,The Mysterious Island
+At four o'clock the balloon was only 500 feet above the surface of the water.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+A loud barking was heard.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"A dog accompanied the voyagers, and was held pressed close to his master in the meshes of the net.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Top has seen something,"" cried one of the men.",-0.2023,0.158,0.228,0.614,negative,The Mysterious Island
+"Then immediately a loud voice shouted,-- ""Land!",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"land!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The balloon, which the wind still drove towards the southwest, had since daybreak gone a considerable distance, which might be reckoned by hundreds of miles, and a tolerably high land had, in fact, appeared in that direction.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+But this land was still thirty miles off.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It would not take less than an hour to get to it, and then there was the chance of falling to leeward.",0.1027,0.085,0.068,0.847,positive,The Mysterious Island
+An hour!,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Might not the balloon before that be emptied of all the fluid it yet retained?,-0.1531,0.07,0.108,0.823,negative,The Mysterious Island
+Such was the terrible question!,-0.5255,0.0,0.459,0.541,negative,The Mysterious Island
+The voyagers could distinctly see that solid spot which they must reach at any cost.,0.1779,0.172,0.0,0.828,positive,The Mysterious Island
+"They were ignorant of what it was, whether an island or a continent, for they did not know to what part of the world the hurricane had driven them.",-0.2732,0.0,0.072,0.928,negative,The Mysterious Island
+"But they must reach this land, whether inhabited or desolate, whether hospitable or not.",0.0387,0.081,0.0,0.919,neutral,The Mysterious Island
+It was evident that the balloon could no longer support itself!,0.2003,0.211,0.155,0.634,positive,The Mysterious Island
+"Several times already had the crests of the enormous billows licked the bottom of the net, making it still heavier, and the balloon only half rose, like a bird with a wounded wing.",0.3612,0.077,0.0,0.923,positive,The Mysterious Island
+"Half an hour later the land was not more than a mile off, but the balloon, exhausted, flabby, hanging in great folds, had gas in its upper part alone.",0.2263,0.155,0.158,0.687,positive,The Mysterious Island
+"The voyagers, clinging to the net, were still too heavy for it, and soon, half plunged into the sea, they were beaten by the furious waves.",-0.7579,0.0,0.213,0.787,negative,The Mysterious Island
+"The balloon-case bulged out again, and the wind, taking it, drove it along like a vessel.",0.3612,0.152,0.0,0.848,positive,The Mysterious Island
+Might it not possibly thus reach the land?,-0.0191,0.0,0.133,0.867,neutral,The Mysterious Island
+"But, when only two fathoms off, terrible cries resounded from four pairs of lungs at once.",-0.8271,0.0,0.355,0.645,negative,The Mysterious Island
+"The balloon, which had appeared as if it would never again rise, suddenly made an unexpected bound, after having been struck by a tremendous sea.",-0.25,0.0,0.08,0.92,negative,The Mysterious Island
+"As if it had been at that instant relieved of a new part of its weight, it mounted to a height of 1,500 feet, and here it met a current of wind, which instead of taking it directly to the coast, carried it in a nearly parallel direction.",0.3818,0.057,0.0,0.943,positive,The Mysterious Island
+"At last, two minutes later, it reproached obliquely, and finally fell on a sandy beach, out of the reach of the waves.",0.0258,0.052,0.0,0.948,neutral,The Mysterious Island
+"The voyagers, aiding each other, managed to disengage themselves from the meshes of the net.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The balloon, relieved of their weight, was taken by the wind, and like a wounded bird which revives for an instant, disappeared into space.",0.7003,0.269,0.066,0.664,positive,The Mysterious Island
+"But the car had contained five passengers, with a dog, and the balloon only left four on the shore.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The missing person had evidently been swept off by the sea, which had just struck the net, and it was owing to this circumstance that the lightened balloon rose the last time, and then soon after reached the land.",-0.4215,0.034,0.101,0.865,negative,The Mysterious Island
+"Scarcely had the four castaways set foot on firm ground, than they all, thinking of the absent one, simultaneously exclaimed, ""Perhaps he will try to swim to land!",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Let us save him!,0.5411,0.538,0.0,0.462,positive,The Mysterious Island
+"let us save him!""",0.5411,0.538,0.0,0.462,positive,The Mysterious Island
+Chapter 2 Those whom the hurricane had just thrown on this coast were neither aeronauts by profession nor amateurs.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+They were prisoners of war whose boldness had induced them to escape in this extraordinary manner.,-0.6124,0.179,0.308,0.513,negative,The Mysterious Island
+A hundred times they had almost perished!,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+A hundred times had they almost fallen from their torn balloon into the depths of the ocean.,-0.4951,0.0,0.231,0.769,negative,The Mysterious Island
+"But Heaven had reserved them for a strange destiny, and after having, on the 20th of March, escaped from Richmond, besieged by the troops of General Ulysses Grant, they found themselves seven thousand miles from the capital of Virginia, which was the principal stronghold of the South, during the terrible War of Secession.",-0.5023,0.141,0.174,0.685,negative,The Mysterious Island
+Their aerial voyage had lasted five days.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The curious circumstances which led to the escape of the prisoners were as follows: That same year, in the month of February, 1865, in one of the coups de main by which General Grant attempted, though in vain, to possess himself of Richmond, several of his officers fell into the power of the enemy and were detained in the town.",-0.7783,0.091,0.171,0.738,negative,The Mysterious Island
+One of the most distinguished was Captain Cyrus Harding.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"He was a native of Massachusetts, a first-class engineer, to whom the government had confided, during the war, the direction of the railways, which were so important at that time.",-0.3682,0.073,0.121,0.806,negative,The Mysterious Island
+"A true Northerner, thin, bony, lean, about forty-five years of age; his close-cut hair and his beard, of which he only kept a thick mustache, were already getting gray.",0.4215,0.097,0.0,0.903,positive,The Mysterious Island
+"He had one-of those finely-developed heads which appear made to be struck on a medal, piercing eyes, a serious mouth, the physiognomy of a clever man of the military school.",0.5859,0.188,0.102,0.71,positive,The Mysterious Island
+"He was one of those engineers who began by handling the hammer and pickaxe, like generals who first act as common soldiers.",0.3612,0.106,0.0,0.894,positive,The Mysterious Island
+"Besides mental power, he also possessed great manual dexterity.",0.6249,0.339,0.0,0.661,positive,The Mysterious Island
+His muscles exhibited remarkable proofs of tenacity.,0.5574,0.375,0.0,0.625,positive,The Mysterious Island
+"A man of action as well as a man of thought, all he did was without effort to one of his vigorous and sanguine temperament.",0.2732,0.087,0.0,0.913,positive,The Mysterious Island
+"Learned, clear-headed, and practical, he fulfilled in all emergencies those three conditions which united ought to insure human success--activity of mind and body, impetuous wishes, and powerful will.",0.8402,0.294,0.0,0.706,positive,The Mysterious Island
+"He might have taken for his motto that of William of Orange in the 17th century: ""I can undertake and persevere even without hope of success.""",-0.3412,0.0,0.088,0.912,negative,The Mysterious Island
+Cyrus Harding was courage personified.,0.4939,0.444,0.0,0.556,positive,The Mysterious Island
+He had been in all the battles of that war.,-0.7579,0.0,0.448,0.552,negative,The Mysterious Island
+"After having begun as a volunteer at Illinois, under Ulysses Grant, he fought at Paducah, Belmont, Pittsburg Landing, at the siege of Corinth, Port Gibson, Black River, Chattanooga, the Wilderness, on the Potomac, everywhere and valiantly, a soldier worthy of the general who said, ""I never count my dead!""",0.5255,0.109,0.044,0.846,positive,The Mysterious Island
+"And hundreds of times Captain Harding had almost been among those who were not counted by the terrible Grant; but in these combats where he never spared himself, fortune favored him till the moment when he was wounded and taken prisoner on the field of battle near Richmond.",-0.7876,0.091,0.207,0.702,negative,The Mysterious Island
+At the same time and on the same day another important personage fell into the hands of the Southerners.,0.2023,0.091,0.0,0.909,positive,The Mysterious Island
+"This was no other than Gideon Spilett, a reporter for the New York Herald, who had been ordered to follow the changes of the war in the midst of the Northern armies.",-0.7269,0.0,0.174,0.826,negative,The Mysterious Island
+"Gideon Spilett was one of that race of indomitable English or American chroniclers, like Stanley and others, who stop at nothing to obtain exact information, and transmit it to their journal in the shortest possible time.",0.0772,0.065,0.057,0.879,positive,The Mysterious Island
+"The newspapers of the Union, such as the New York Herald, are genuine powers, and their reporters are men to be reckoned with.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Gideon Spilett ranked among the first of those reporters: a man of great merit, energetic, prompt and ready for anything, full of ideas, having traveled over the whole world, soldier and artist, enthusiastic in council, resolute in action, caring neither for trouble, fatigue, nor danger, when in pursuit of information, for himself first, and then for his journal, a perfect treasury of knowledge on all sorts of curious subjects, of the unpublished, of the unknown, and of the impossible.",0.9853,0.356,0.0,0.644,positive,The Mysterious Island
+"He was one of those intrepid observers who write under fire, ""reporting"" among bullets, and to whom every danger is welcome.",-0.4215,0.112,0.216,0.672,negative,The Mysterious Island
+"He also had been in all the battles, in the first rank, revolver in one hand, note-book in the other; grape-shot never made his pencil tremble.",-0.128,0.104,0.152,0.744,negative,The Mysterious Island
+"He did not fatigue the wires with incessant telegrams, like those who speak when they have nothing to say, but each of his notes, short, decisive, and clear, threw light on some important point.",0.843,0.276,0.0,0.724,positive,The Mysterious Island
+"Besides, he was not wanting in humor.",-0.2057,0.0,0.232,0.768,negative,The Mysterious Island
+"It was he who, after the affair of the Black River, determined at any cost to keep his place at the wicket of the telegraph office, and after having announced to his journal the result of the battle, telegraphed for two hours the first chapters of the Bible.",-0.0516,0.047,0.051,0.902,negative,The Mysterious Island
+"It cost the New York Herald two thousand dollars, but the New York Herald published the first intelligence.",0.631,0.196,0.0,0.804,positive,The Mysterious Island
+Gideon Spilett was tall.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+He was rather more than forty years of age.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Light whiskers bordering on red surrounded his face.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"His eye was steady, lively, rapid in its changes.",0.4404,0.266,0.0,0.734,positive,The Mysterious Island
+It was the eye of a man accustomed to take in at a glance all the details of a scene.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Well built, he was inured to all climates, like a bar of steel hardened in cold water.",0.5574,0.247,0.0,0.753,positive,The Mysterious Island
+"For ten years Gideon Spilett had been the reporter of the New York Herald, which he enriched by his letters and drawings, for he was as skilful in the use of the pencil as of the pen.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"When he was captured, he was in the act of making a description and sketch of the battle.",-0.3818,0.0,0.14,0.86,negative,The Mysterious Island
+"The last words in his note-book were these: ""A Southern rifleman has just taken aim at me, but--"" The Southerner notwithstanding missed Gideon Spilett, who, with his usual fortune, came out of this affair without a scratch.",-0.296,0.0,0.059,0.941,negative,The Mysterious Island
+"Cyrus Harding and Gideon Spilett, who did not know each other except by reputation, had both been carried to Richmond.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The engineer's wounds rapidly healed, and it was during his convalescence that he made acquaintance with the reporter.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+The two men then learned to appreciate each other.,0.4019,0.252,0.0,0.748,positive,The Mysterious Island
+"Soon their common aim had but one object, that of escaping, rejoining Grant's army, and fighting together in the ranks of the Federals.",-0.4497,0.051,0.127,0.822,negative,The Mysterious Island
+"The two Americans had from the first determined to seize every chance; but although they were allowed to wander at liberty in the town, Richmond was so strictly guarded, that escape appeared impossible.",0.8338,0.254,0.0,0.746,positive,The Mysterious Island
+In the meanwhile Captain Harding was rejoined by a servant who was devoted to him in life and in death.,-0.296,0.114,0.165,0.72,negative,The Mysterious Island
+"This intrepid fellow was a Negro born on the engineer's estate, of a slave father and mother, but to whom Cyrus, who was an Abolitionist from conviction and heart, had long since given his freedom.",0.7783,0.153,0.0,0.847,positive,The Mysterious Island
+"The once slave, though free, would not leave his master.",0.5343,0.357,0.0,0.643,positive,The Mysterious Island
+He would have died for him.,-0.5574,0.0,0.419,0.581,negative,The Mysterious Island
+"He was a man of about thirty, vigorous, active, clever, intelligent, gentle, and calm, sometimes naive, always merry, obliging, and honest.",0.9559,0.595,0.06,0.345,positive,The Mysterious Island
+"His name was Nebuchadnezzar, but he only answered to the familiar abbreviation of Neb.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"When Neb heard that his master had been made prisoner, he left Massachusetts without hesitating an instant, arrived before Richmond, and by dint of stratagem and shrewdness, after having risked his life twenty times over, managed to penetrate into the besieged town.",-0.521,0.044,0.116,0.84,negative,The Mysterious Island
+"The pleasure of Harding on seeing his servant, and the joy of Neb at finding his master, can scarcely be described.",0.8176,0.283,0.0,0.717,positive,The Mysterious Island
+"But though Neb had been able to make his way into Richmond, it was quite another thing to get out again, for the Northern prisoners were very strictly watched.",-0.6652,0.0,0.137,0.863,negative,The Mysterious Island
+"Some extraordinary opportunity was needed to make the attempt with any chance of success, and this opportunity not only did not present itself, but was very difficult to find.",0.2407,0.216,0.104,0.679,positive,The Mysterious Island
+Meanwhile Grant continued his energetic operations.,0.6597,0.574,0.0,0.426,positive,The Mysterious Island
+The victory of Petersburg had been very dearly bought.,0.4754,0.279,0.0,0.721,positive,The Mysterious Island
+"His forces, united to those of Butler, had as yet been unsuccessful before Richmond, and nothing gave the prisoners any hope of a speedy deliverance.",0.7097,0.272,0.081,0.647,positive,The Mysterious Island
+"The reporter, to whom his tedious captivity did not offer a single incident worthy of note, could stand it no longer.",0.1779,0.126,0.095,0.779,positive,The Mysterious Island
+His usually active mind was occupied with one sole thought--how he might get out of Richmond at any cost.,0.4019,0.13,0.0,0.87,positive,The Mysterious Island
+"Several times had he even made the attempt, but was stopped by some insurmountable obstacle.",-0.6808,0.0,0.301,0.699,negative,The Mysterious Island
+"However, the siege continued; and if the prisoners were anxious to escape and join Grant's army, certain of the besieged were no less anxious to join the Southern forces.",-0.3182,0.212,0.245,0.543,negative,The Mysterious Island
+"Among them was one Jonathan Forster, a determined Southerner.",0.34,0.255,0.0,0.745,positive,The Mysterious Island
+"The truth was, that if the prisoners of the Secessionists could not leave the town, neither could the Secessionists themselves while the Northern army invested it.",-0.2148,0.116,0.111,0.773,negative,The Mysterious Island
+"The Governor of Richmond for a long time had been unable to communicate with General Lee, and he very much wished to make known to him the situation of the town, so as to hasten the march of the army to their relief.",0.4767,0.07,0.0,0.93,positive,The Mysterious Island
+"Thus Jonathan Forster accordingly conceived the idea of rising in a balloon, so as to pass over the besieging lines, and in that way reach the Secessionist camp.",0.0258,0.041,0.0,0.959,neutral,The Mysterious Island
+The Governor authorized the attempt.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"A balloon was manufactured and placed at the disposal of Forster, who was to be accompanied by five other persons.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"They were furnished with arms in case they might have to defend themselves when they alighted, and provisions in the event of their aerial voyage being prolonged.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+The departure of the balloon was fixed for the 18th of March.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It should be effected during the night, with a northwest wind of moderate force, and the aeronauts calculated that they would reach General Lee's camp in a few hours.",0.0258,0.041,0.0,0.959,neutral,The Mysterious Island
+But this northwest wind was not a simple breeze.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+From the 18th it was evident that it was changing to a hurricane.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The tempest soon became such that Forster's departure was deferred, for it was impossible to risk the balloon and those whom it carried in the midst of the furious elements.",-0.7003,0.0,0.172,0.828,negative,The Mysterious Island
+"The balloon, inflated on the great square of Richmond, was ready to depart on the first abatement of the wind, and, as may be supposed, the impatience among the besieged to see the storm moderate was very great.",0.836,0.225,0.059,0.716,positive,The Mysterious Island
+"The 18th, the 19th of March passed without any alteration in the weather.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"There was even great difficulty in keeping the balloon fastened to the ground, as the squalls dashed it furiously about.",-0.0516,0.155,0.201,0.644,negative,The Mysterious Island
+"The night of the 19th passed, but the next morning the storm blew with redoubled force.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+The departure of the balloon was impossible.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"On that day the engineer, Cyrus Harding, was accosted in one of the streets of Richmond by a person whom he did not in the least know.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"This was a sailor named Pencroft, a man of about thirty-five or forty years of age, strongly built, very sunburnt, and possessed of a pair of bright sparkling eyes and a remarkably good physiognomy.",0.8553,0.286,0.0,0.714,positive,The Mysterious Island
+"Pencroft was an American from the North, who had sailed all the ocean over, and who had gone through every possible and almost impossible adventure that a being with two feet and no wings would encounter.",-0.046,0.054,0.059,0.887,neutral,The Mysterious Island
+"It is needless to say that he was a bold, dashing fellow, ready to dare anything and was astonished at nothing.",0.7717,0.312,0.0,0.688,positive,The Mysterious Island
+"Pencroft at the beginning of the year had gone to Richmond on business, with a young boy of fifteen from New Jersey, son of a former captain, an orphan, whom he loved as if he had been his own child.",0.5994,0.095,0.0,0.905,positive,The Mysterious Island
+"Not having been able to leave the town before the first operations of the siege, he found himself shut up, to his great disgust; but, not accustomed to succumb to difficulties, he resolved to escape by some means or other.",0.0772,0.141,0.135,0.723,positive,The Mysterious Island
+He knew the engineer-officer by reputation; he knew with what impatience that determined man chafed under his restraint.,-0.1027,0.113,0.132,0.755,negative,The Mysterious Island
+"On this day he did not, therefore, hesitate to accost him, saying, without circumlocution, ""Have you had enough of Richmond, captain?""",0.2057,0.083,0.0,0.917,positive,The Mysterious Island
+"The engineer looked fixedly at the man who spoke, and who added, in a low voice,-- ""Captain Harding, will you try to escape?""",-0.2732,0.0,0.091,0.909,negative,The Mysterious Island
+"""When?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"asked the engineer quickly, and it was evident that this question was uttered without consideration, for he had not yet examined the stranger who addressed him.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"But after having with a penetrating eye observed the open face of the sailor, he was convinced that he had before him an honest man.",0.8402,0.267,0.0,0.733,positive,The Mysterious Island
+"""Who are you?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+he asked briefly.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Pencroft made himself known.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Well,"" replied Harding, ""and in what way do you propose to escape?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""By that lazy balloon which is left there doing nothing, and which looks to me as if it was waiting on purpose for us--"" There was no necessity for the sailor to finish his sentence.",-0.5267,0.034,0.124,0.842,negative,The Mysterious Island
+The engineer understood him at once.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"He seized Pencroft by the arm, and dragged him to his house.",-0.0516,0.0,0.098,0.902,negative,The Mysterious Island
+"There the sailor developed his project, which was indeed extremely simple.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+They risked nothing but their lives in its execution.,-0.1154,0.0,0.153,0.847,negative,The Mysterious Island
+"The hurricane was in all its violence, it is true, but so clever and daring an engineer as Cyrus Harding knew perfectly well how to manage a balloon.",0.9508,0.439,0.061,0.5,positive,The Mysterious Island
+"Had he himself been as well acquainted with the art of sailing in the air as he was with the navigation of a ship, Pencroft would not have hesitated to set out, of course taking his young friend Herbert with him; for, accustomed to brave the fiercest tempests of the ocean, he was not to be hindered on account of the hurricane.",0.8645,0.158,0.0,0.842,positive,The Mysterious Island
+"Captain Harding had listened to the sailor without saying a word, but his eyes shone with satisfaction.",0.5927,0.204,0.0,0.796,positive,The Mysterious Island
+Here was the long-sought-for opportunity--he was not a man to let it pass.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The plan was feasible, though, it must be confessed, dangerous in the extreme.",-0.4767,0.0,0.205,0.795,negative,The Mysterious Island
+"In the night, in spite of their guards, they might approach the balloon, slip into the car, and then cut the cords which held it.",-0.6705,0.0,0.193,0.807,negative,The Mysterious Island
+"There was no doubt that they might be killed, but on the other hand they might succeed, and without this storm!--Without this storm the balloon would have started already and the looked-for opportunity would not have then presented itself.",0.8588,0.244,0.118,0.638,positive,The Mysterious Island
+"""I am not alone!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+said Harding at last.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""How many people do you wish to bring with you?""",0.4019,0.231,0.0,0.769,positive,The Mysterious Island
+asked the sailor.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Two; my friend Spilett, and my servant Neb.""",0.4939,0.314,0.0,0.686,positive,The Mysterious Island
+"""That will be three,"" replied Pencroft; ""and with Herbert and me five.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"But the balloon will hold six--"" ""That will be enough, we will go,"" answered Harding in a firm voice.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"This ""we"" included Spilett, for the reporter, as his friend well knew, was not a man to draw back, and when the project was communicated to him he approved of it unreservedly.",0.7964,0.224,0.0,0.776,positive,The Mysterious Island
+"What astonished him was, that so simple an idea had not occurred to him before.",0.3818,0.157,0.0,0.843,positive,The Mysterious Island
+"As to Neb, he followed his master wherever his master wished to go.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""This evening, then,"" said Pencroft, ""we will all meet out there.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""This evening, at ten o'clock,"" replied Captain Harding; ""and Heaven grant that the storm does not abate before our departure.""",0.7003,0.244,0.0,0.756,positive,The Mysterious Island
+"Pencroft took leave of the two friends, and returned to his lodging, where young Herbert Brown had remained.",0.4404,0.153,0.059,0.788,positive,The Mysterious Island
+"The courageous boy knew of the sailor's plan, and it was not without anxiety that he awaited the result of the proposal being made to the engineer.",0.4435,0.114,0.083,0.803,positive,The Mysterious Island
+Thus five determined persons were about to abandon themselves to the mercy of the tempestuous elements!,0.3164,0.246,0.137,0.616,positive,The Mysterious Island
+No!,-0.3595,0.0,1.0,0.0,negative,The Mysterious Island
+"the storm did not abate, and neither Jonathan Forster nor his companions dreamed of confronting it in that frail car.",-0.1531,0.0,0.078,0.922,negative,The Mysterious Island
+It would be a terrible journey.,-0.4767,0.0,0.437,0.563,negative,The Mysterious Island
+"The engineer only feared one thing; it was that the balloon, held to the ground and dashed about by the wind, would be torn into shreds.",-0.6369,0.0,0.178,0.822,negative,The Mysterious Island
+"For several hours he roamed round the nearly-deserted square, surveying the apparatus.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Pencroft did the same on his side, his hands in his pockets, yawning now and then like a man who did not know how to kill the time, but really dreading, like his friend, either the escape or destruction of the balloon.",-0.5558,0.195,0.222,0.583,negative,The Mysterious Island
+Evening arrived.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+The night was dark in the extreme.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Thick mists passed like clouds close to the ground.,0.3612,0.238,0.0,0.762,positive,The Mysterious Island
+"Rain fell mingled with snow, it was very cold.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+A mist hung over Richmond.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It seemed as if the violent storm had produced a truce between the besiegers and the besieged, and that the cannon were silenced by the louder detonations of the storm.",-0.5994,0.0,0.122,0.878,negative,The Mysterious Island
+The streets of the town were deserted.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It had not even appeared necessary in that horrible weather to place a guard in the square, in the midst of which plunged the balloon.",-0.5423,0.0,0.132,0.868,negative,The Mysterious Island
+"Everything favored the departure of the prisoners, but what might possibly be the termination of the hazardous voyage they contemplated in the midst of the furious elements?-- ""Dirty weather!""",-0.8871,0.05,0.297,0.654,negative,The Mysterious Island
+"exclaimed Pencroft, fixing his hat firmly on his head with a blow of his fist; ""but pshaw, we shall succeed all the same!""",0.68,0.179,0.0,0.821,positive,The Mysterious Island
+"At half-past nine, Harding and his companions glided from different directions into the square, which the gas-lamps, extinguished by the wind, had left in total obscurity.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Even the enormous balloon, almost beaten to the ground, could not be seen.",-0.3626,0.0,0.173,0.827,negative,The Mysterious Island
+"Independently of the sacks of ballast, to which the cords of the net were fastened, the car was held by a strong cable passed through a ring in the pavement.",0.5106,0.109,0.0,0.891,positive,The Mysterious Island
+The five prisoners met by the car.,-0.5106,0.0,0.355,0.645,negative,The Mysterious Island
+"They had not been perceived, and such was the darkness that they could not even see each other.",-0.25,0.0,0.105,0.895,negative,The Mysterious Island
+"Without speaking a word, Harding, Spilett, Neb, and Herbert took their places in the car, while Pencroft by the engineer's order detached successively the bags of ballast.",0.1027,0.069,0.055,0.876,positive,The Mysterious Island
+"It was the work of a few minutes only, and the sailor rejoined his companions.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The balloon was then only held by the cable, and the engineer had nothing to do but to give the word.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+At that moment a dog sprang with a bound into the car.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It was Top, a favorite of the engineer.",0.5859,0.49,0.0,0.51,positive,The Mysterious Island
+"The faithful creature, having broken his chain, had followed his master.",-0.0516,0.193,0.207,0.6,negative,The Mysterious Island
+"He, however, fearing that its additional weight might impede their ascent, wished to send away the animal.",-0.5719,0.0,0.188,0.812,negative,The Mysterious Island
+"""One more will make but little difference, poor beast!""",-0.6155,0.0,0.335,0.665,negative,The Mysterious Island
+"exclaimed Pencroft, heaving out two bags of sand, and as he spoke letting go the cable; the balloon ascending in an oblique direction, disappeared, after having dashed the car against two chimneys, which it threw down as it swept by them.",-0.2263,0.0,0.045,0.955,negative,The Mysterious Island
+"Then, indeed, the full rage of the hurricane was exhibited to the voyagers.",-0.5574,0.0,0.231,0.769,negative,The Mysterious Island
+"During the night the engineer could not dream of descending, and when day broke, even a glimpse of the earth below was intercepted by fog.",-0.5484,0.0,0.171,0.829,negative,The Mysterious Island
+"Five days had passed when a partial clearing allowed them to see the wide extending ocean beneath their feet, now lashed into the maddest fury by the gale.",-0.8176,0.0,0.231,0.769,negative,The Mysterious Island
+Our readers will recollect what befell these five daring individuals who set out on their hazardous expedition in the balloon on the 20th of March.,0.3612,0.094,0.0,0.906,positive,The Mysterious Island
+"Five days afterwards four of them were thrown on a desert coast, seven thousand miles from their country!",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"But one of their number was missing, the man who was to be their guide, their leading spirit, the engineer, Captain Harding!",-0.1511,0.148,0.109,0.742,negative,The Mysterious Island
+"The instant they had recovered their feet, they all hurried to the beach in the hopes of rendering him assistance.",0.4215,0.128,0.0,0.872,positive,The Mysterious Island
+"Chapter 3 The engineer, the meshes of the net having given way, had been carried off by a wave.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+His dog also had disappeared.,-0.2263,0.0,0.322,0.678,negative,The Mysterious Island
+The faithful animal had voluntarily leaped out to help his master.,0.6808,0.384,0.0,0.616,positive,The Mysterious Island
+"""Forward,"" cried the reporter; and all four, Spilett, Herbert, Pencroft, and Neb, forgetting their fatigue, began their search.",-0.5574,0.0,0.223,0.777,negative,The Mysterious Island
+"Poor Neb shed bitter tears, giving way to despair at the thought of having lost the only being he loved on earth.",-0.6249,0.187,0.368,0.445,negative,The Mysterious Island
+Only two minutes had passed from the time when Cyrus Harding disappeared to the moment when his companions set foot on the ground.,-0.2263,0.0,0.079,0.921,negative,The Mysterious Island
+They had hopes therefore of arriving in time to save him.,0.7184,0.4,0.0,0.6,positive,The Mysterious Island
+"""Let us look for him!",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"let us look for him!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+cried Neb.,-0.3818,0.0,0.722,0.278,negative,The Mysterious Island
+"""Yes, Neb,"" replied Gideon Spilett, ""and we will find him too!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Living, I trust!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Still living!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Can he swim?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+asked Pencroft.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Yes,"" replied Neb, ""and besides, Top is there.""",0.2023,0.205,0.0,0.795,positive,The Mysterious Island
+"The sailor, observing the heavy surf on the shore, shook his head.",-0.1027,0.0,0.113,0.887,negative,The Mysterious Island
+"The engineer had disappeared to the north of the shore, and nearly half a mile from the place where the castaways had landed.",-0.2263,0.0,0.083,0.917,negative,The Mysterious Island
+The nearest point of the beach he could reach was thus fully that distance off.,0.0258,0.073,0.0,0.927,neutral,The Mysterious Island
+It was then nearly six o'clock.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+A thick fog made the night very dark.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The castaways proceeded toward the north of the land on which chance had thrown them, an unknown region, the geographical situation of which they could not even guess.",0.25,0.069,0.0,0.931,positive,The Mysterious Island
+"They were walking upon a sandy soil, mingled with stones, which appeared destitute of any sort of vegetation.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The ground, very unequal and rough, was in some places perfectly riddled with holes, making walking extremely painful.",-0.1744,0.167,0.235,0.598,negative,The Mysterious Island
+"From these holes escaped every minute great birds of clumsy flight, which flew in all directions.",0.6249,0.215,0.0,0.785,positive,The Mysterious Island
+"Others, more active, rose in flocks and passed in clouds over their heads.",0.4576,0.2,0.0,0.8,positive,The Mysterious Island
+"The sailor thought he recognized gulls and cormorants, whose shrill cries rose above the roaring of the sea.",-0.4019,0.0,0.137,0.863,negative,The Mysterious Island
+"From time to time the castaways stopped and shouted, then listened for some response from the ocean, for they thought that if the engineer had landed, and they had been near to the place, they would have heard the barking of the dog Top, even should Harding himself have been unable to give any sign of existence.",-0.0258,0.031,0.032,0.937,neutral,The Mysterious Island
+"They stopped to listen, but no sound arose above the roaring of the waves and the dashing of the surf.",-0.5023,0.0,0.191,0.809,negative,The Mysterious Island
+"The little band then continued their march forward, searching into every hollow of the shore.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"After walking for twenty minutes, the four castaways were suddenly brought to a standstill by the sight of foaming billows close to their feet.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+The solid ground ended here.,0.1531,0.286,0.0,0.714,positive,The Mysterious Island
+They found themselves at the extremity of a sharp point on which the sea broke furiously.,-0.6908,0.0,0.305,0.695,negative,The Mysterious Island
+"""It is a promontory,"" said the sailor; ""we must retrace our steps, holding towards the right, and we shall thus gain the mainland.""",0.5267,0.139,0.0,0.861,positive,The Mysterious Island
+"""But if he is there,"" said Neb, pointing to the ocean, whose waves shone of a snowy white in the darkness.",-0.3612,0.0,0.116,0.884,negative,The Mysterious Island
+"""Well, let us call again,"" and all uniting their voices, they gave a vigorous shout, but there came no reply.",-0.4215,0.0,0.135,0.865,negative,The Mysterious Island
+"They waited for a lull, then began again; still no reply.",-0.296,0.0,0.196,0.804,negative,The Mysterious Island
+"The castaways accordingly returned, following the opposite side of the promontory, over a soil equally sandy and rugged.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"However, Pencroft observed that the shore was more equal, that the ground rose, and he declared that it was joined by a long slope to a hill, whose massive front he thought that he could see looming indistinctly through the mist.",-0.128,0.0,0.038,0.962,negative,The Mysterious Island
+"The birds were less numerous on this part of the shore; the sea was also less tumultuous, and they observed that the agitation of the waves was diminished.",-0.25,0.0,0.069,0.931,negative,The Mysterious Island
+The noise of the surf was scarcely heard.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"This side of the promontory evidently formed a semicircular bay, which the sharp point sheltered from the breakers of the open sea.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"But to follow this direction was to go south, exactly opposite to that part of the coast where Harding might have landed.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"After a walk of a mile and a half, the shore presented no curve which would permit them to return to the north.",-0.296,0.0,0.104,0.896,negative,The Mysterious Island
+"This promontory, of which they had turned the point, must be attached to the mainland.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The castaways, although their strength was nearly exhausted, still marched courageously forward, hoping every moment to meet with a sudden angle which would set them in the first direction.",0.7783,0.26,0.07,0.67,positive,The Mysterious Island
+"What was their disappointment, when, after trudging nearly two miles, having reached an elevated point composed of slippery rocks, they found themselves again stopped by the sea.",-0.5859,0.046,0.17,0.784,negative,The Mysterious Island
+"""We are on an islet,"" said Pencroft, ""and we have surveyed it from one extremity to the other.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The sailor was right; they had been thrown, not on a continent, not even on an island, but on an islet which was not more than two miles in length, with even a less breadth.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Was this barren spot the desolate refuge of sea-birds, strewn with stones and destitute of vegetation, attached to a more important archipelago?",0.2716,0.095,0.0,0.905,positive,The Mysterious Island
+It was impossible to say.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"When the voyagers from their car saw the land through the mist, they had not been able to reconnoiter it sufficiently.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"However, Pencroft, accustomed with his sailor eyes to piece through the gloom, was almost certain that he could clearly distinguish in the west confused masses which indicated an elevated coast.",-0.3384,0.124,0.162,0.714,negative,The Mysterious Island
+"But they could not in the dark determine whether it was a single island, or connected with others.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"They could not leave it either, as the sea surrounded them; they must therefore put off till the next day their search for the engineer, from whom, alas!",-0.3058,0.039,0.081,0.88,negative,The Mysterious Island
+not a single cry had reached them to show that he was still in existence.,0.4504,0.248,0.0,0.752,positive,The Mysterious Island
+"""The silence of our friend proves nothing,"" said the reporter.",0.4939,0.262,0.0,0.738,positive,The Mysterious Island
+"""Perhaps he has fainted or is wounded, and unable to reply directly, so we will not despair.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The reporter then proposed to light a fire on a point of the islet, which would serve as a signal to the engineer.",-0.34,0.0,0.112,0.888,negative,The Mysterious Island
+But they searched in vain for wood or dry brambles; nothing but sand and stones were to be found.,-0.5719,0.0,0.171,0.829,negative,The Mysterious Island
+"The grief of Neb and his companions, who were all strongly attached to the intrepid Harding, can be better pictured than described.",0.2023,0.184,0.118,0.699,positive,The Mysterious Island
+It was too evident that they were powerless to help him.,-0.128,0.181,0.215,0.604,negative,The Mysterious Island
+They must wait with what patience they could for daylight.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Either the engineer had been able to save himself, and had already found a refuge on some point of the coast, or he was lost for ever!",0.2942,0.117,0.077,0.806,positive,The Mysterious Island
+The long and painful hours passed by.,-0.4404,0.0,0.326,0.674,negative,The Mysterious Island
+The cold was intense.,0.0772,0.302,0.0,0.698,positive,The Mysterious Island
+"The castaways suffered cruelly, but they scarcely perceived it.",-0.5423,0.0,0.391,0.609,negative,The Mysterious Island
+They did not even think of taking a minute's rest.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Forgetting everything but their chief, hoping or wishing to hope on, they continued to walk up and down on this sterile spot, always returning to its northern point, where they could approach nearest to the scene of the catastrophe.",0.4215,0.194,0.12,0.686,positive,The Mysterious Island
+"They listened, they called, and then uniting their voices, they endeavored to raise even a louder shout than before, which would be transmitted to a great distance.",0.6249,0.146,0.0,0.854,positive,The Mysterious Island
+"The wind had now fallen almost to a calm, and the noise of the sea began also to subside.",-0.1226,0.099,0.122,0.78,negative,The Mysterious Island
+One of Neb's shouts even appeared to produce an echo.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Herbert directed Pencroft's attention to it, adding, ""That proves that there is a coast to the west, at no great distance.""",0.4404,0.169,0.091,0.741,positive,The Mysterious Island
+"The sailor nodded; besides, his eyes could not deceive him.",0.3089,0.201,0.0,0.799,positive,The Mysterious Island
+"If he had discovered land, however indistinct it might appear, land was sure to be there.",0.3182,0.133,0.0,0.867,positive,The Mysterious Island
+"But that distant echo was the only response produced by Neb's shouts, while a heavy gloom hung over all the part east of the island.",-0.7096,0.0,0.176,0.824,negative,The Mysterious Island
+"Meanwhile, the sky was clearing little by little.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Towards midnight the stars shone out, and if the engineer had been there with his companions he would have remarked that these stars did not belong to the Northern Hemisphere.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The Polar Star was not visible, the constellations were not those which they had been accustomed to see in the United States; the Southern Cross glittered brightly in the sky.",0.6486,0.159,0.0,0.841,positive,The Mysterious Island
+The night passed away.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Towards five o'clock in the morning of the 25th of March, the sky began to lighten; the horizon still remained dark, but with daybreak a thick mist rose from the sea, so that the eye could scarcely penetrate beyond twenty feet or so from where they stood.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+At length the fog gradually unrolled itself in great heavily moving waves.,0.6249,0.272,0.0,0.728,positive,The Mysterious Island
+"It was unfortunate, however, that the castaways could distinguish nothing around them.",-0.4588,0.0,0.214,0.786,negative,The Mysterious Island
+"While the gaze of the reporter and Neb were cast upon the ocean, the sailor and Herbert looked eagerly for the coast in the west.",0.3818,0.098,0.0,0.902,positive,The Mysterious Island
+But not a speck of land was visible.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Never mind,"" said Pencroft, ""though I do not see the land, I feel it... it is there... there... as sure as the fact that we are no longer at Richmond.""",0.0258,0.075,0.072,0.852,neutral,The Mysterious Island
+But the fog was not long in rising.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+It was only a fine-weather mist.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+A hot sun soon penetrated to the surface of the island.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"About half-past six, three-quarters of an hour after sunrise, the mist became more transparent.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It grew thicker above, but cleared away below.",0.1531,0.186,0.0,0.814,positive,The Mysterious Island
+"Soon the isle appeared as if it had descended from a cloud, then the sea showed itself around them, spreading far away towards the east, but bounded on the west by an abrupt and precipitous coast.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Yes!,0.4574,1.0,0.0,0.0,positive,The Mysterious Island
+the land was there.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Their safety was at least provisionally insured.,0.4215,0.318,0.0,0.682,positive,The Mysterious Island
+"The islet and the coast were separated by a channel about half a mile in breadth, through which rushed an extremely rapid current.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"However, one of the castaways, following the impulse of his heart, immediately threw himself into the current, without consulting his companions, without saying a single word.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+It was Neb.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"He was in haste to be on the other side, and to climb towards the north.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+It had been impossible to hold him back.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Pencroft called him in vain.,-0.4215,0.0,0.412,0.588,negative,The Mysterious Island
+"The reporter prepared to follow him, but Pencroft stopped him.",-0.2263,0.123,0.199,0.678,negative,The Mysterious Island
+"""Do you want to cross the channel?""",0.0772,0.178,0.0,0.822,positive,The Mysterious Island
+he asked.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Yes,"" replied Spilett.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""All right!""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"said the seaman; ""wait a bit; Neb is well able to carry help to his master.",0.5859,0.27,0.0,0.73,positive,The Mysterious Island
+"If we venture into the channel, we risk being carried into the open sea by the current, which is running very strong; but, if I'm not wrong, it is ebbing.",0.6221,0.165,0.045,0.79,positive,The Mysterious Island
+"See, the tide is going down over the sand.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Let us have patience, and at low water it is possible we may find a fordable passage.""",-0.2732,0.0,0.123,0.877,negative,The Mysterious Island
+"""You are right,"" replied the reporter, ""we will not separate more than we can help.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+During this time Neb was struggling vigorously against the current.,-0.3182,0.122,0.228,0.65,negative,The Mysterious Island
+He was crossing in an oblique direction.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+His black shoulders could be seen emerging at each stroke.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"He was carried down very quickly, but he also made way towards the shore.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It took more than half an hour to cross from the islet to the land, and he reached the shore several hundred feet from the place which was opposite to the point from which he had started.",0.1027,0.037,0.0,0.963,positive,The Mysterious Island
+"Landing at the foot of a high wall of granite, he shook himself vigorously; and then, setting off running, soon disappeared behind a rocky point, which projected to nearly the height of the northern extremity of the islet.",-0.2023,0.04,0.087,0.873,negative,The Mysterious Island
+"Neb's companions had watched his daring attempt with painful anxiety, and when he was out of sight, they fixed their attention on the land where their hope of safety lay, while eating some shell-fish with which the sand was strewn.",0.5574,0.172,0.096,0.732,positive,The Mysterious Island
+"It was a wretched repast, but still it was better than nothing.",0.5927,0.278,0.0,0.722,positive,The Mysterious Island
+"The opposite coast formed one vast bay, terminating on the south by a very sharp point, which was destitute of all vegetation, and was of a very wild aspect.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+This point abutted on the shore in a grotesque outline of high granite rocks.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Towards the north, on the contrary, the bay widened, and a more rounded coast appeared, trending from the southwest to the northeast, and terminating in a slender cape.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The distance between these two extremities, which made the bow of the bay, was about eight miles.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Half a mile from the shore rose the islet, which somewhat resembled the carcass of a gigantic whale.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+Its extreme breadth was not more than a quarter of a mile.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Opposite the islet, the beach consisted first of sand, covered with black stones, which were now appearing little by little above the retreating tide.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The second level was separated by a perpendicular granite cliff, terminated at the top by an unequal edge at a height of at least 300 feet.",-0.1531,0.069,0.092,0.84,negative,The Mysterious Island
+"It continued thus for a length of three miles, ending suddenly on the right with a precipice which looked as if cut by the hand of man.",0.2732,0.113,0.074,0.813,positive,The Mysterious Island
+"On the left, above the promontory, this irregular and jagged cliff descended by a long slope of conglomerated rocks till it mingled with the ground of the southern point.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+On the upper plateau of the coast not a tree appeared.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It was a flat tableland like that above Cape Town at the Cape of Good Hope, but of reduced proportions; at least so it appeared seen from the islet.",0.5647,0.184,0.0,0.816,positive,The Mysterious Island
+"However, verdure was not wanting to the right beyond the precipice.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"They could easily distinguish a confused mass of great trees, which extended beyond the limits of their view.",0.6369,0.285,0.101,0.614,positive,The Mysterious Island
+"This verdure relieved the eye, so long wearied by the continued ranges of granite.",0.3818,0.167,0.0,0.833,positive,The Mysterious Island
+"Lastly, beyond and above the plateau, in a northwesterly direction and at a distance of at least seven miles, glittered a white summit which reflected the sun's rays.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"It was that of a lofty mountain, capped with snow.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"The question could not at present be decided whether this land formed an island, or whether it belonged to a continent.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"But on beholding the convulsed masses heaped up on the left, no geologist would have hesitated to give them a volcanic origin, for they were unquestionably the work of subterranean convulsions.",-0.6956,0.0,0.17,0.83,negative,The Mysterious Island
+"Gideon Spilett, Pencroft, and Herbert attentively examined this land, on which they might perhaps have to live many long years; on which indeed they might even die, should it be out of the usual track of vessels, as was likely to be the case.",-0.5994,0.0,0.083,0.917,negative,The Mysterious Island
+"""Well,"" asked Herbert, ""what do you say, Pencroft?""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""There is some good and some bad, as in everything,"" replied the sailor.",-0.1531,0.167,0.201,0.632,negative,The Mysterious Island
+"""We shall see.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+But now the ebb is evidently making.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"In three hours we will attempt the passage, and once on the other side, we will try to get out of this scrape, and I hope may find the captain.""",0.4404,0.094,0.0,0.906,positive,The Mysterious Island
+Pencroft was not wrong in his anticipations.,0.3724,0.299,0.0,0.701,positive,The Mysterious Island
+"Three hours later at low tide, the greater part of the sand forming the bed of the channel was uncovered.",0.1027,0.111,0.093,0.796,positive,The Mysterious Island
+Between the islet and the coast there only remained a narrow channel which would no doubt be easy to cross.,-0.2023,0.123,0.199,0.678,negative,The Mysterious Island
+"About ten o'clock, Gideon Spilett and his companions stripped themselves of their clothes, which they placed in bundles on their heads, and then ventured into the water, which was not more than five feet deep.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Herbert, for whom it was too deep, swam like a fish, and got through capitally.",0.3612,0.161,0.0,0.839,positive,The Mysterious Island
+All three arrived without difficulty on the opposite shore.,0.2584,0.203,0.0,0.797,positive,The Mysterious Island
+"Quickly drying themselves in the sun, they put on their clothes, which they had preserved from contact with the water, and sat down to take counsel together what to do next.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Chapter 4 All at once the reporter sprang up, and telling the sailor that he would rejoin them at that same place, he climbed the cliff in the direction which the Negro Neb had taken a few hours before.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Anxiety hastened his steps, for he longed to obtain news of his friend, and he soon disappeared round an angle of the cliff.",0.1531,0.119,0.134,0.746,positive,The Mysterious Island
+Herbert wished to accompany him.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Stop here, my boy,"" said the sailor; ""we have to prepare an encampment, and to try and find rather better grub than these shell-fish.",0.1779,0.107,0.081,0.812,positive,The Mysterious Island
+Our friends will want something when they come back.,0.5267,0.386,0.0,0.614,positive,The Mysterious Island
+"There is work for everybody.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""I am ready,"" replied Herbert.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""All right,"" said the sailor; ""that will do.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+We must set about it regularly.,0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"We are tired, cold, and hungry; therefore we must have shelter, fire, and food.",-0.6486,0.0,0.306,0.694,negative,The Mysterious Island
+"There is wood in the forest, and eggs in nests; we have only to find a house.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"""Very well,"" returned Herbert, ""I will look for a cave among the rocks, and I shall be sure to discover some hole into which we can creep.""",0.3182,0.087,0.0,0.913,positive,The Mysterious Island
+"""All right,"" said Pencroft; ""go on, my boy.""",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"They both walked to the foot of the enormous wall over the beach, far from which the tide had now retreated; but instead of going towards the north, they went southward.",0.0,0.0,0.0,1.0,neutral,The Mysterious Island
+"Pencroft had remarked, several hundred feet from the place at which they landed, a narrow cutting, out of which he thought a river or stream might issue.",-0.128,0.0,0.059,0.941,negative,The Mysterious Island
+"Now, on the one hand it was important to settle themselves in the neighborhood of a good stream of water, and on the other it was possible that the current had thrown Cyrus Harding on the shore there.",0.7845,0.189,0.0,0.811,positive,The Mysterious Island
+"The cliff, as has been said, rose to a height of three hundred feet, but the mass was unbroken throughout, and even at its base, scarcely washed by the sea, it did not offer the smallest fissure which would serve as a dwelling.",0.0387,0.028,0.0,0.972,neutral,The Mysterious Island
+"It was a perpendicular wall of very hard granite, which even the waves had not worn away.",0.0503,0.107,0.096,0.796,positive,The Mysterious Island
+"Towards the summit fluttered myriads of sea-fowl, and especially t",0.0,0.0,0.0,1.0,neutral,The Mysterious Island

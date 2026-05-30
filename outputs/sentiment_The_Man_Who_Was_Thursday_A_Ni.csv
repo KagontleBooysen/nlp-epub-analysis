@@ -1,0 +1,585 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Man Who Was Thursday: A Nightmare This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.063,0.1,0.837,negative,The Man Who Was Thursday: A Nightmare
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Man Who Was Thursday: A Nightmare
+"Title : The Man Who Was Thursday: A Nightmare Author : G. K. Chesterton Release date : April 1, 1999 [eBook #1695] Most recently updated: February 5, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/1695 Credits : Harry Plantinga and David Widger *** START OF THE PROJECT GUTENBERG EBOOK THE MAN WHO WAS THURSDAY: A NIGHTMARE *** The Man Who Was Thursday A Nightmare by G. K. Chesterton Contents A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE THE MAN WHO WAS THURSDAY CHAPTER I.",0.25,0.072,0.047,0.881,positive,The Man Who Was Thursday: A Nightmare
+THE TWO POETS OF SAFFRON PARK CHAPTER II.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE SECRET OF GABRIEL SYME CHAPTER III.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE MAN WHO WAS THURSDAY CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE TALE OF A DETECTIVE CHAPTER V. THE FEAST OF FEAR CHAPTER VI.,-0.4939,0.0,0.225,0.775,negative,The Man Who Was Thursday: A Nightmare
+THE EXPOSURE CHAPTER VII.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS CHAPTER VIII.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE PROFESSOR EXPLAINS CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE MAN IN SPECTACLES CHAPTER X.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE DUEL CHAPTER XI.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE CRIMINALS CHASE THE POLICE CHAPTER XII.,-0.5719,0.0,0.381,0.619,negative,The Man Who Was Thursday: A Nightmare
+THE EARTH IN ANARCHY CHAPTER XIII.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE PURSUIT OF THE PRESIDENT CHAPTER XIV.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+THE SIX PHILOSOPHERS CHAPTER XV.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"THE ACCUSER A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE It is very difficult to classify THE MAN WHO WAS THURSDAY.",-0.5095,0.126,0.248,0.626,negative,The Man Who Was Thursday: A Nightmare
+It is possible to say that it is a gripping adventure story of murderous criminals and brilliant policemen; but it was to be expected that the author of the Father Brown stories should tell a detective story like no-one else.,0.3291,0.161,0.109,0.729,positive,The Man Who Was Thursday: A Nightmare
+"On this level, therefore, THE MAN WHO WAS THURSDAY succeeds superbly; if nothing else, it is a magnificent tour-de-force of suspense-writing.",0.7964,0.283,0.0,0.717,positive,The Man Who Was Thursday: A Nightmare
+"However, the reader will soon discover that it is much more than that.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Carried along on the boisterous rush of the narrative by Chesterton's wonderful high-spirited style, he will soon see that he is being carried into much deeper waters than he had planned on; and the totally unforeseeable denouement will prove for the modern reader, as it has for thousands of others since 1908 when the book was first published, an inevitable and moving experience, as the investigators finally discover who Sunday is.",0.5719,0.05,0.0,0.95,positive,The Man Who Was Thursday: A Nightmare
+"THE MAN WHO WAS THURSDAY A NIGHTMARE To Edmund Clerihew Bentley A cloud was on the mind of men, and wailing went the weather, Yea, a sick cloud upon the soul when we were boys together.",-0.5106,0.0,0.093,0.907,negative,The Man Who Was Thursday: A Nightmare
+"Science announced nonentity and art admired decay; The world was old and ended: but you and I were gay; Round us in antic order their crippled vices came-- Lust that had lost its laughter, fear that had lost its shame.",-0.8674,0.118,0.296,0.586,negative,The Man Who Was Thursday: A Nightmare
+"Like the white lock of Whistler, that lit our aimless gloom, Men showed their own white feather as proudly as a plume.",0.3612,0.22,0.13,0.65,positive,The Man Who Was Thursday: A Nightmare
+"Life was a fly that faded, and death a drone that stung; The world was very old indeed when you and I were young.",-0.5994,0.0,0.163,0.837,negative,The Man Who Was Thursday: A Nightmare
+They twisted even decent sin to shapes not to be named: Men were ashamed of honour; but we were not ashamed.,-0.7311,0.084,0.305,0.61,negative,The Man Who Was Thursday: A Nightmare
+"Weak if we were and foolish, not thus we failed, not thus; When that black Baal blocked the heavens he had no hymns from us Children we were--our forts of sand were even as weak as we, High as they went we piled them up to break that bitter sea.",-0.8224,0.087,0.24,0.673,negative,The Man Who Was Thursday: A Nightmare
+"Fools as we were in motley, all jangling and absurd, When all church bells were silent our cap and bells were heard.",-0.4939,0.0,0.132,0.868,negative,The Man Who Was Thursday: A Nightmare
+"Not all unhelped we held the fort, our tiny flags unfurled; Some giants laboured in that cloud to lift it from the world.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"I find again the book we found, I feel the hour that flings Far out of fish-shaped Paumanok some cry of cleaner things; And the Green Carnation withered, as in forest fires that pass, Roared in the wind of all the world ten million leaves of grass; Or sane and sweet and sudden as a bird sings in the rain-- Truth out of Tusitala spoke and pleasure out of pain.",0.5106,0.137,0.082,0.781,positive,The Man Who Was Thursday: A Nightmare
+"Yea, cool and clear and sudden as a bird sings in the grey, Dunedin to Samoa spoke, and darkness unto day.",0.4767,0.253,0.083,0.664,positive,The Man Who Was Thursday: A Nightmare
+But we were young; we lived to see God break their bitter charms.,0.4215,0.322,0.183,0.495,positive,The Man Who Was Thursday: A Nightmare
+"God and the good Republic come riding back in arms: We have seen the City of Mansoul, even as it rocked, relieved-- Blessed are they who did not see, but being blind, believed.",0.1027,0.155,0.092,0.753,positive,The Man Who Was Thursday: A Nightmare
+"This is a tale of those old fears, even of those emptied hells, And none but you shall understand the true thing that it tells-- Of what colossal gods of shame could cow men and yet crash, Of what huge devils hid the stars, yet fell at a pistol flash.",-0.8735,0.104,0.274,0.623,negative,The Man Who Was Thursday: A Nightmare
+"The doubts that were so plain to chase, so dreadful to withstand-- Oh, who shall understand but you; yea, who shall understand?",-0.4535,0.0,0.166,0.834,negative,The Man Who Was Thursday: A Nightmare
+"The doubts that drove us through the night as we two talked amain, And day had broken on the streets e'er it broke upon the brain.",-0.7964,0.0,0.26,0.74,negative,The Man Who Was Thursday: A Nightmare
+"Between us, by the peace of God, such truth can now be told; Yea, there is strength in striking root and good in growing old.",0.9287,0.452,0.0,0.548,positive,The Man Who Was Thursday: A Nightmare
+"We have found common things at last and marriage and a creed, And I may safely write it now, and you may safely read.",0.7506,0.242,0.0,0.758,positive,The Man Who Was Thursday: A Nightmare
+G. K. C. CHAPTER I.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"THE TWO POETS OF SAFFRON PARK The suburb of Saffron Park lay on the sunset side of London, as red and ragged as a cloud of sunset.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"It was built of a bright brick throughout; its sky-line was fantastic, and even its ground plan was wild.",0.7579,0.289,0.0,0.711,positive,The Man Who Was Thursday: A Nightmare
+"It had been the outburst of a speculative builder, faintly tinged with art, who called its architecture sometimes Elizabethan and sometimes Queen Anne, apparently under the impression that the two sovereigns were identical.",0.3182,0.099,0.0,0.901,positive,The Man Who Was Thursday: A Nightmare
+"It was described with some justice as an artistic colony, though it never in any definable way produced any art.",0.5267,0.152,0.0,0.848,positive,The Man Who Was Thursday: A Nightmare
+"But although its pretensions to be an intellectual centre were a little vague, its pretensions to be a pleasant place were quite indisputable.",0.867,0.317,0.041,0.641,positive,The Man Who Was Thursday: A Nightmare
+The stranger who looked for the first time at the quaint red houses could only think how very oddly shaped the people must be who could fit in to them.,0.3612,0.079,0.0,0.921,positive,The Man Who Was Thursday: A Nightmare
+Nor when he met the people was he disappointed in this respect.,0.0,0.191,0.191,0.617,neutral,The Man Who Was Thursday: A Nightmare
+"The place was not only pleasant, but perfect, if once he could regard it not as a deception but rather as a dream.",0.8692,0.361,0.063,0.576,positive,The Man Who Was Thursday: A Nightmare
+"Even if the people were not ""artists,"" the whole was nevertheless artistic.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"That young man with the long, auburn hair and the impudent face--that young man was not really a poet; but surely he was a poem.",0.6423,0.162,0.0,0.838,positive,The Man Who Was Thursday: A Nightmare
+"That old gentleman with the wild, white beard and the wild, white hat--that venerable humbug was not really a philosopher; but at least he was the cause of philosophy in others.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"That scientific gentleman with the bald, egg-like head and the bare, bird-like neck had no real right to the airs of science that he assumed.",-0.296,0.0,0.084,0.916,negative,The Man Who Was Thursday: A Nightmare
+He had not discovered anything new in biology; but what biological creature could he have discovered more singular than himself?,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Thus, and thus only, the whole place had properly to be regarded; it had to be considered not so much as a workshop for artists, but as a frail but finished work of art.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+A man who stepped into its social atmosphere felt as if he had stepped into a written comedy.,0.3612,0.143,0.0,0.857,positive,The Man Who Was Thursday: A Nightmare
+"More especially this attractive unreality fell upon it about nightfall, when the extravagant roofs were dark against the afterglow and the whole insane village seemed as separate as a drifting cloud.",0.3297,0.117,0.078,0.806,positive,The Man Who Was Thursday: A Nightmare
+"This again was more strongly true of the many nights of local festivity, when the little gardens were often illuminated, and the big Chinese lanterns glowed in the dwarfish trees like some fierce and monstrous fruit.",0.8799,0.259,0.0,0.741,positive,The Man Who Was Thursday: A Nightmare
+"And this was strongest of all on one particular evening, still vaguely remembered in the locality, of which the auburn-haired poet was the hero.",0.7579,0.228,0.0,0.772,positive,The Man Who Was Thursday: A Nightmare
+It was not by any means the only evening of which he was the hero.,0.5574,0.205,0.0,0.795,positive,The Man Who Was Thursday: A Nightmare
+"On many nights those passing by his little back garden might hear his high, didactic voice laying down the law to men and particularly to women.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+The attitude of women in such cases was indeed one of the paradoxes of the place.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Most of the women were of the kind vaguely called emancipated, and professed some protest against male supremacy.",0.3818,0.213,0.093,0.694,positive,The Man Who Was Thursday: A Nightmare
+"Yet these new women would always pay to a man the extravagant compliment which no ordinary woman ever pays to him, that of listening while he is talking.",0.128,0.101,0.117,0.782,positive,The Man Who Was Thursday: A Nightmare
+"And Mr. Lucian Gregory, the red-haired poet, was really (in some sense) a man worth listening to, even if one only laughed at the end of it.",0.5994,0.17,0.0,0.83,positive,The Man Who Was Thursday: A Nightmare
+He put the old cant of the lawlessness of art and the art of lawlessness with a certain impudent freshness which gave at least a momentary pleasure.,0.7003,0.201,0.0,0.799,positive,The Man Who Was Thursday: A Nightmare
+"He was helped in some degree by the arresting oddity of his appearance, which he worked, as the phrase goes, for all it was worth.",0.2263,0.073,0.0,0.927,positive,The Man Who Was Thursday: A Nightmare
+"His dark red hair parted in the middle was literally like a woman's, and curved into the slow curls of a virgin in a pre-Raphaelite picture.",0.3612,0.102,0.0,0.898,positive,The Man Who Was Thursday: A Nightmare
+"From within this almost saintly oval, however, his face projected suddenly broad and brutal, the chin carried forward with a look of cockney contempt.",-0.836,0.0,0.273,0.727,negative,The Man Who Was Thursday: A Nightmare
+This combination at once tickled and terrified the nerves of a neurotic population.,-0.7783,0.0,0.464,0.536,negative,The Man Who Was Thursday: A Nightmare
+"He seemed like a walking blasphemy, a blend of the angel and the ape.",0.3612,0.185,0.0,0.815,positive,The Man Who Was Thursday: A Nightmare
+"This particular evening, if it is remembered for nothing else, will be remembered in that place for its strange sunset.",-0.2023,0.0,0.087,0.913,negative,The Man Who Was Thursday: A Nightmare
+It looked like the end of the world.,0.3612,0.263,0.0,0.737,positive,The Man Who Was Thursday: A Nightmare
+"All the heaven seemed covered with a quite vivid and palpable plumage; you could only say that the sky was full of feathers, and of feathers that almost brushed the face.",0.5106,0.102,0.0,0.898,positive,The Man Who Was Thursday: A Nightmare
+"Across the great part of the dome they were grey, with the strangest tints of violet and mauve and an unnatural pink or pale green; but towards the west the whole grew past description, transparent and passionate, and the last red-hot plumes of it covered up the sun like something too good to be seen.",0.9366,0.235,0.0,0.765,positive,The Man Who Was Thursday: A Nightmare
+"The whole was so close about the earth, as to express nothing but a violent secrecy.",0.6392,0.232,0.0,0.768,positive,The Man Who Was Thursday: A Nightmare
+The very empyrean seemed to be a secret.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+It expressed that splendid smallness which is the soul of local patriotism.,0.5859,0.257,0.0,0.743,positive,The Man Who Was Thursday: A Nightmare
+The very sky seemed small.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+I say that there are some inhabitants who may remember the evening if only by that oppressive sky.,-0.4019,0.0,0.144,0.856,negative,The Man Who Was Thursday: A Nightmare
+There are others who may remember it because it marked the first appearance in the place of the second poet of Saffron Park.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+For a long time the red-haired revolutionary had reigned without a rival; it was upon the night of the sunset that his solitude suddenly ended.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"The new poet, who introduced himself by the name of Gabriel Syme was a very mild-looking mortal, with a fair, pointed beard and faint, yellow hair.",0.3182,0.091,0.0,0.909,positive,The Man Who Was Thursday: A Nightmare
+But an impression grew that he was less meek than he looked.,0.3291,0.176,0.0,0.824,positive,The Man Who Was Thursday: A Nightmare
+"He signalised his entrance by differing with the established poet, Gregory, upon the whole nature of poetry.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"He said that he (Syme) was poet of law, a poet of order; nay, he said he was a poet of respectability.",0.5267,0.152,0.0,0.848,positive,The Man Who Was Thursday: A Nightmare
+So all the Saffron Parkers looked at him as if he had that moment fallen out of that impossible sky.,-0.3612,0.0,0.116,0.884,negative,The Man Who Was Thursday: A Nightmare
+"In fact, Mr. Lucian Gregory, the anarchic poet, connected the two events.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""It may well be,"" he said, in his sudden lyrical manner, ""it may well be on such a night of clouds and cruel colours that there is brought forth upon the earth such a portent as a respectable poet.",0.3182,0.166,0.089,0.746,positive,The Man Who Was Thursday: A Nightmare
+You say you are a poet of law; I say you are a contradiction in terms.,-0.25,0.0,0.143,0.857,negative,The Man Who Was Thursday: A Nightmare
+"I only wonder there were not comets and earthquakes on the night you appeared in this garden.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"The man with the meek blue eyes and the pale, pointed beard endured these thunders with a certain submissive solemnity.",-0.3182,0.093,0.196,0.711,negative,The Man Who Was Thursday: A Nightmare
+"The third party of the group, Gregory's sister Rosamond, who had her brother's braids of red hair, but a kindlier face underneath them, laughed with such mixture of admiration and disapproval as she gave commonly to the family oracle.",0.891,0.232,0.0,0.768,positive,The Man Who Was Thursday: A Nightmare
+Gregory resumed in high oratorical good humour.,0.7184,0.545,0.0,0.455,positive,The Man Who Was Thursday: A Nightmare
+"""An artist is identical with an anarchist,"" he cried.",-0.3818,0.0,0.245,0.755,negative,The Man Who Was Thursday: A Nightmare
+"""You might transpose the words anywhere.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+An anarchist is an artist.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"The man who throws a bomb is an artist, because he prefers a great moment to everything.",0.2263,0.202,0.158,0.64,positive,The Man Who Was Thursday: A Nightmare
+"He sees how much more valuable is one burst of blazing light, one peal of perfect thunder, than the mere common bodies of a few shapeless policemen.",0.796,0.228,0.0,0.772,positive,The Man Who Was Thursday: A Nightmare
+"An artist disregards all governments, abolishes all conventions.",-0.34,0.0,0.255,0.745,negative,The Man Who Was Thursday: A Nightmare
+The poet delights in disorder only.,0.0772,0.309,0.278,0.412,positive,The Man Who Was Thursday: A Nightmare
+"If it were not so, the most poetical thing in the world would be the Underground Railway.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""So it is,"" said Mr. Syme.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Nonsense!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"said Gregory, who was very rational when anyone else attempted paradox.",-0.1027,0.0,0.123,0.877,negative,The Man Who Was Thursday: A Nightmare
+"""Why do all the clerks and navvies in the railway trains look so sad and tired, so very sad and tired?",-0.9361,0.0,0.457,0.543,negative,The Man Who Was Thursday: A Nightmare
+I will tell you.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+It is because they know that the train is going right.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+It is because they know that whatever place they have taken a ticket for that place they will reach.,0.0258,0.061,0.0,0.939,neutral,The Man Who Was Thursday: A Nightmare
+"It is because after they have passed Sloane Square they know that the next station must be Victoria, and nothing but Victoria.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Oh, their wild rapture!",0.2244,0.387,0.0,0.613,positive,The Man Who Was Thursday: A Nightmare
+"oh, their eyes like stars and their souls again in Eden, if the next station were unaccountably Baker Street!""",0.4199,0.134,0.0,0.866,positive,The Man Who Was Thursday: A Nightmare
+"""It is you who are unpoetical,"" replied the poet Syme.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""If what you say of clerks is true, they can only be as prosaic as your poetry.",0.4215,0.149,0.0,0.851,positive,The Man Who Was Thursday: A Nightmare
+"The rare, strange thing is to hit the mark; the gross, obvious thing is to miss it.",-0.6705,0.0,0.317,0.683,negative,The Man Who Was Thursday: A Nightmare
+We feel it is epical when man with one wild arrow strikes a distant bird.,-0.3612,0.0,0.161,0.839,negative,The Man Who Was Thursday: A Nightmare
+Is it not also epical when man with one wild engine strikes a distant station?,-0.3612,0.0,0.161,0.839,negative,The Man Who Was Thursday: A Nightmare
+"Chaos is dull; because in chaos the train might indeed go anywhere, to Baker Street or to Bagdad.",-0.8779,0.0,0.402,0.598,negative,The Man Who Was Thursday: A Nightmare
+"But man is a magician, and his whole magic is in this, that he does say Victoria, and lo!",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+it is Victoria.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"No, take your books of mere poetry and prose; let me read a time table, with tears of pride.",-0.1779,0.112,0.191,0.698,negative,The Man Who Was Thursday: A Nightmare
+"Take your Byron, who commemorates the defeats of man; give me Bradshaw, who commemorates his victories.",-0.3182,0.0,0.133,0.867,negative,The Man Who Was Thursday: A Nightmare
+"Give me Bradshaw, I say!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Must you go?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+inquired Gregory sarcastically.,-0.2732,0.0,0.512,0.488,negative,The Man Who Was Thursday: A Nightmare
+"""I tell you,"" went on Syme with passion, ""that every time a train comes in I feel that it has broken past batteries of besiegers, and that man has won a battle against chaos.",-0.4019,0.159,0.223,0.618,negative,The Man Who Was Thursday: A Nightmare
+You say contemptuously that when one has left Sloane Square one must come to Victoria.,-0.5267,0.0,0.195,0.805,negative,The Man Who Was Thursday: A Nightmare
+"I say that one might do a thousand things instead, and that whenever I really come there I have the sense of hairbreadth escape.",0.1779,0.082,0.0,0.918,positive,The Man Who Was Thursday: A Nightmare
+"And when I hear the guard shout out the word 'Victoria,' it is not an unmeaning word.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+It is to me the cry of a herald announcing conquest.,-0.4767,0.0,0.256,0.744,negative,The Man Who Was Thursday: A Nightmare
+"It is to me indeed 'Victoria'; it is the victory of Adam.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Gregory wagged his heavy, red head with a slow and sad smile.",-0.1531,0.171,0.212,0.616,negative,The Man Who Was Thursday: A Nightmare
+"""And even then,"" he said, ""we poets always ask the question, 'And what is Victoria now that you have got there?'",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+You think Victoria is like the New Jerusalem.,0.3612,0.263,0.0,0.737,positive,The Man Who Was Thursday: A Nightmare
+We know that the New Jerusalem will only be like Victoria.,0.3612,0.2,0.0,0.8,positive,The Man Who Was Thursday: A Nightmare
+"Yes, the poet will be discontented even in the streets of heaven.",0.4939,0.337,0.157,0.506,positive,The Man Who Was Thursday: A Nightmare
+"The poet is always in revolt.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""There again,"" said Syme irritably, ""what is there poetical about being in revolt?",-0.4215,0.0,0.189,0.811,negative,The Man Who Was Thursday: A Nightmare
+You might as well say that it is poetical to be sea-sick.,0.2732,0.16,0.0,0.84,positive,The Man Who Was Thursday: A Nightmare
+Being sick is a revolt.,-0.5106,0.0,0.524,0.476,negative,The Man Who Was Thursday: A Nightmare
+Both being sick and being rebellious may be the wholesome thing on certain desperate occasions; but I'm hanged if I can see why they are poetical.,-0.431,0.055,0.193,0.751,negative,The Man Who Was Thursday: A Nightmare
+Revolt in the abstract is--revolting.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"It's mere vomiting.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"The girl winced for a flash at the unpleasant word, but Syme was too hot to heed her.",-0.2617,0.0,0.114,0.886,negative,The Man Who Was Thursday: A Nightmare
+"""It is things going right,"" he cried, ""that is poetical!",-0.4389,0.0,0.243,0.757,negative,The Man Who Was Thursday: A Nightmare
+"Our digestions, for instance, going sacredly and silently right, that is the foundation of all poetry.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Yes, the most poetical thing, more poetical than the flowers, more poetical than the stars--the most poetical thing in the world is not being sick.""",0.4019,0.101,0.0,0.899,positive,The Man Who Was Thursday: A Nightmare
+"""Really,"" said Gregory superciliously, ""the examples you choose--"" ""I beg your pardon,"" said Syme grimly, ""I forgot we had abolished all conventions.""",-0.3182,0.0,0.099,0.901,negative,The Man Who Was Thursday: A Nightmare
+For the first time a red patch appeared on Gregory's forehead.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""You don't expect me,"" he said, ""to revolutionise society on this lawn?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+Syme looked straight into his eyes and smiled sweetly.,0.8176,0.586,0.0,0.414,positive,The Man Who Was Thursday: A Nightmare
+"""No, I don't,"" he said; ""but I suppose that if you were serious about your anarchism, that is exactly what you would do.""",-0.1154,0.0,0.068,0.932,negative,The Man Who Was Thursday: A Nightmare
+"Gregory's big bull's eyes blinked suddenly like those of an angry lion, and one could almost fancy that his red mane rose.",-0.2023,0.097,0.128,0.775,negative,The Man Who Was Thursday: A Nightmare
+"""Don't you think, then,"" he said in a dangerous voice, ""that I am serious about my anarchism?""",-0.5267,0.0,0.253,0.747,negative,The Man Who Was Thursday: A Nightmare
+"""I beg your pardon?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+said Syme.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Am I not serious about my anarchism?""",0.0572,0.196,0.0,0.804,positive,The Man Who Was Thursday: A Nightmare
+"cried Gregory, with knotted fists.",-0.3818,0.0,0.394,0.606,negative,The Man Who Was Thursday: A Nightmare
+"""My dear fellow!""",0.4389,0.591,0.0,0.409,positive,The Man Who Was Thursday: A Nightmare
+"said Syme, and strolled away.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"With surprise, but with a curious pleasure, he found Rosamond Gregory still in his company.",0.8608,0.465,0.0,0.535,positive,The Man Who Was Thursday: A Nightmare
+"""Mr. Syme,"" she said, ""do the people who talk like you and my brother often mean what they say?",0.3612,0.122,0.0,0.878,positive,The Man Who Was Thursday: A Nightmare
+"Do you mean what you say now?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+Syme smiled.,0.5423,0.778,0.0,0.222,positive,The Man Who Was Thursday: A Nightmare
+"""Do you?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+he asked.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""What do you mean?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"asked the girl, with grave eyes.",-0.3818,0.0,0.342,0.658,negative,The Man Who Was Thursday: A Nightmare
+"""My dear Miss Gregory,"" said Syme gently, ""there are many kinds of sincerity and insincerity.",0.3818,0.272,0.194,0.534,positive,The Man Who Was Thursday: A Nightmare
+"When you say 'thank you' for the salt, do you mean what you say?",0.3612,0.161,0.0,0.839,positive,The Man Who Was Thursday: A Nightmare
+No.,-0.296,0.0,1.0,0.0,negative,The Man Who Was Thursday: A Nightmare
+"When you say 'the world is round,' do you mean what you say?",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+No.,-0.296,0.0,1.0,0.0,negative,The Man Who Was Thursday: A Nightmare
+"It is true, but you don't mean it.",0.2263,0.213,0.0,0.787,positive,The Man Who Was Thursday: A Nightmare
+"Now, sometimes a man like your brother really finds a thing he does mean.",0.3612,0.185,0.0,0.815,positive,The Man Who Was Thursday: A Nightmare
+"It may be only a half-truth, quarter-truth, tenth-truth; but then he says more than he means--from sheer force of meaning it.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"She was looking at him from under level brows; her face was grave and open, and there had fallen upon it the shadow of that unreasoning responsibility which is at the bottom of the most frivolous woman, the maternal watch which is as old as the world.",-0.6249,0.0,0.102,0.898,negative,The Man Who Was Thursday: A Nightmare
+"""Is he really an anarchist, then?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+she asked.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Only in that sense I speak of,"" replied Syme; ""or if you prefer it, in that nonsense.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"She drew her broad brows together and said abruptly-- ""He wouldn't really use--bombs or that sort of thing?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Syme broke into a great laugh, that seemed too large for his slight and somewhat dandified figure.",0.7096,0.328,0.119,0.553,positive,The Man Who Was Thursday: A Nightmare
+"""Good Lord, no!""",0.4926,0.615,0.0,0.385,positive,The Man Who Was Thursday: A Nightmare
+"he said, ""that has to be done anonymously.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"And at that the corners of her own mouth broke into a smile, and she thought with a simultaneous pleasure of Gregory's absurdity and of his safety.",0.7351,0.274,0.085,0.64,positive,The Man Who Was Thursday: A Nightmare
+"Syme strolled with her to a seat in the corner of the garden, and continued to pour out his opinions.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"For he was a sincere man, and in spite of his superficial airs and graces, at root a humble one.",0.2263,0.224,0.143,0.633,positive,The Man Who Was Thursday: A Nightmare
+And it is always the humble man who talks too much; the proud man watches himself too closely.,0.4767,0.154,0.0,0.846,positive,The Man Who Was Thursday: A Nightmare
+He defended respectability with violence and exaggeration.,-0.1779,0.272,0.328,0.4,negative,The Man Who Was Thursday: A Nightmare
+He grew passionate in his praise of tidiness and propriety.,0.7906,0.467,0.0,0.533,positive,The Man Who Was Thursday: A Nightmare
+All the time there was a smell of lilac all round him.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Once he heard very faintly in some distant street a barrel-organ begin to play, and it seemed to him that his heroic words were moving to a tiny tune from under or beyond the world.",0.7184,0.162,0.0,0.838,positive,The Man Who Was Thursday: A Nightmare
+"He stared and talked at the girl's red hair and amused face for what seemed to be a few minutes; and then, feeling that the groups in such a place should mix, rose to his feet.",0.5106,0.118,0.0,0.882,positive,The Man Who Was Thursday: A Nightmare
+"To his astonishment, he discovered the whole garden empty.",-0.2023,0.0,0.184,0.816,negative,The Man Who Was Thursday: A Nightmare
+"Everyone had gone long ago, and he went himself with a rather hurried apology.",0.0516,0.091,0.0,0.909,positive,The Man Who Was Thursday: A Nightmare
+"He left with a sense of champagne in his head, which he could not afterwards explain.",0.296,0.136,0.0,0.864,positive,The Man Who Was Thursday: A Nightmare
+In the wild events which were to follow this girl had no part at all; he never saw her again until all his tale was over.,-0.296,0.0,0.081,0.919,negative,The Man Who Was Thursday: A Nightmare
+"And yet, in some indescribable way, she kept recurring like a motive in music through all his mad adventures afterwards, and the glory of her strange hair ran like a red thread through those dark and ill-drawn tapestries of the night.",0.7096,0.223,0.102,0.675,positive,The Man Who Was Thursday: A Nightmare
+"For what followed was so improbable, that it might well have been a dream.",0.4767,0.272,0.0,0.728,positive,The Man Who Was Thursday: A Nightmare
+"When Syme went out into the starlit street, he found it for the moment empty.",-0.2023,0.0,0.114,0.886,negative,The Man Who Was Thursday: A Nightmare
+Then he realised (in some odd way) that the silence was rather a living silence than a dead one.,-0.765,0.0,0.306,0.694,negative,The Man Who Was Thursday: A Nightmare
+"Directly outside the door stood a street lamp, whose gleam gilded the leaves of the tree that bent out over the fence behind him.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+About a foot from the lamp-post stood a figure almost as rigid and motionless as the lamp-post itself.,-0.0571,0.0,0.075,0.925,negative,The Man Who Was Thursday: A Nightmare
+"The tall hat and long frock coat were black; the face, in an abrupt shadow, was almost as dark.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Only a fringe of fiery hair against the light, and also something aggressive in the attitude, proclaimed that it was the poet Gregory.",-0.4588,0.0,0.167,0.833,negative,The Man Who Was Thursday: A Nightmare
+He had something of the look of a masked bravo waiting sword in hand for his foe.,0.0772,0.159,0.144,0.697,positive,The Man Who Was Thursday: A Nightmare
+"He made a sort of doubtful salute, which Syme somewhat more formally returned.",-0.4005,0.0,0.197,0.803,negative,The Man Who Was Thursday: A Nightmare
+"""I was waiting for you,"" said Gregory.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Might I have a moment's conversation?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Certainly.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"About what?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+asked Syme in a sort of weak wonder.,-0.4927,0.0,0.347,0.653,negative,The Man Who Was Thursday: A Nightmare
+"Gregory struck out with his stick at the lamp-post, and then at the tree.",-0.25,0.0,0.133,0.867,negative,The Man Who Was Thursday: A Nightmare
+"""About this and this ,"" he cried; ""about order and anarchy.",-0.3818,0.0,0.206,0.794,negative,The Man Who Was Thursday: A Nightmare
+"There is your precious order, that lean, iron lamp, ugly and barren; and there is anarchy, rich, living, reproducing itself--there is anarchy, splendid in green and gold.""",0.8316,0.297,0.088,0.615,positive,The Man Who Was Thursday: A Nightmare
+"""All the same,"" replied Syme patiently, ""just at present you only see the tree by the light of the lamp.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"I wonder when you would ever see the lamp by the light of the tree.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Then after a pause he said, ""But may I ask if you have been standing out here in the dark only to resume our little argument?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""No,"" cried out Gregory, in a voice that rang down the street, ""I did not stand here to resume our argument, but to end it for ever.""",-0.3716,0.0,0.129,0.871,negative,The Man Who Was Thursday: A Nightmare
+"The silence fell again, and Syme, though he understood nothing, listened instinctively for something serious.",-0.0772,0.0,0.085,0.915,negative,The Man Who Was Thursday: A Nightmare
+Gregory began in a smooth voice and with a rather bewildering smile.,0.3612,0.217,0.0,0.783,positive,The Man Who Was Thursday: A Nightmare
+"""Mr. Syme,"" he said, ""this evening you succeeded in doing something rather remarkable.",0.7506,0.368,0.0,0.632,positive,The Man Who Was Thursday: A Nightmare
+"You did something to me that no man born of woman has ever succeeded in doing before.""",0.1531,0.14,0.11,0.75,positive,The Man Who Was Thursday: A Nightmare
+"""Indeed!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Now I remember,"" resumed Gregory reflectively, ""one other person succeeded in doing it.",0.4215,0.203,0.0,0.797,positive,The Man Who Was Thursday: A Nightmare
+The captain of a penny steamer (if I remember correctly) at Southend.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"You have irritated me.""",-0.4588,0.0,0.5,0.5,negative,The Man Who Was Thursday: A Nightmare
+"""I am very sorry,"" replied Syme with gravity.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I am afraid my fury and your insult are too shocking to be wiped out even with an apology,"" said Gregory very calmly.",-0.7968,0.083,0.31,0.607,negative,The Man Who Was Thursday: A Nightmare
+"""No duel could wipe it out.",-0.296,0.0,0.306,0.694,negative,The Man Who Was Thursday: A Nightmare
+If I struck you dead I could not wipe it out.,-0.743,0.0,0.474,0.526,negative,The Man Who Was Thursday: A Nightmare
+"There is only one way by which that insult can be erased, and that way I choose.",-0.5106,0.0,0.18,0.82,negative,The Man Who Was Thursday: A Nightmare
+"I am going, at the possible sacrifice of my life and honour, to prove to you that you were wrong in what you said.""",0.1531,0.133,0.112,0.755,positive,The Man Who Was Thursday: A Nightmare
+"""In what I said?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""You said I was not serious about being an anarchist.""",0.0572,0.133,0.0,0.867,positive,The Man Who Was Thursday: A Nightmare
+"""There are degrees of seriousness,"" replied Syme.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I have never doubted that you were perfectly sincere in this sense, that you thought what you said well worth saying, that you thought a paradox might wake men up to a neglected truth.""",0.7854,0.299,0.113,0.588,positive,The Man Who Was Thursday: A Nightmare
+Gregory stared at him steadily and painfully.,-0.5267,0.0,0.362,0.638,negative,The Man Who Was Thursday: A Nightmare
+"""And in no other sense,"" he asked, ""you think me serious?",-0.3612,0.0,0.28,0.72,negative,The Man Who Was Thursday: A Nightmare
+You think me a flâneur who lets fall occasional truths.,0.4215,0.259,0.0,0.741,positive,The Man Who Was Thursday: A Nightmare
+"You do not think that in a deeper, a more deadly sense, I am serious.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+Syme struck his stick violently on the stones of the road.,-0.7003,0.0,0.392,0.608,negative,The Man Who Was Thursday: A Nightmare
+"""Serious!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+he cried.,-0.3818,0.0,0.722,0.278,negative,The Man Who Was Thursday: A Nightmare
+"""Good Lord!",0.4926,0.761,0.0,0.239,positive,The Man Who Was Thursday: A Nightmare
+is this street serious?,-0.0772,0.0,0.302,0.698,negative,The Man Who Was Thursday: A Nightmare
+Are these damned Chinese lanterns serious?,-0.4404,0.0,0.494,0.506,negative,The Man Who Was Thursday: A Nightmare
+Is the whole caboodle serious?,-0.0772,0.0,0.245,0.755,negative,The Man Who Was Thursday: A Nightmare
+"One comes here and talks a pack of bosh, and perhaps some sense as well, but I should think very little of a man who didn't keep something in the background of his life that was more serious than all this talking--something more serious, whether it was religion or only drink.""",-0.3025,0.031,0.075,0.894,negative,The Man Who Was Thursday: A Nightmare
+"""Very well,"" said Gregory, his face darkening, ""you shall see something more serious than either drink or religion.""",-0.1513,0.0,0.086,0.914,negative,The Man Who Was Thursday: A Nightmare
+Syme stood waiting with his usual air of mildness until Gregory again opened his lips.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""You spoke just now of having a religion.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Is it really true that you have one?""",0.4754,0.306,0.0,0.694,positive,The Man Who Was Thursday: A Nightmare
+"""Oh,"" said Syme with a beaming smile, ""we are all Catholics now.""",0.3612,0.2,0.0,0.8,positive,The Man Who Was Thursday: A Nightmare
+"""Then may I ask you to swear by whatever gods or saints your religion involves that you will not reveal what I am now going to tell you to any son of Adam, and especially not to the police?",-0.0516,0.0,0.032,0.968,negative,The Man Who Was Thursday: A Nightmare
+Will you swear that!,-0.126,0.0,0.332,0.668,negative,The Man Who Was Thursday: A Nightmare
+"If you will take upon yourself this awful abnegation if you will consent to burden your soul with a vow that you should never make and a knowledge you should never dream about, I will promise you in return--"" ""You will promise me in return?""",-0.3899,0.128,0.161,0.711,negative,The Man Who Was Thursday: A Nightmare
+"inquired Syme, as the other paused.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I will promise you a very entertaining evening.""",0.6697,0.523,0.0,0.477,positive,The Man Who Was Thursday: A Nightmare
+Syme suddenly took off his hat.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Your offer,"" he said, ""is far too idiotic to be declined.",-0.5574,0.0,0.265,0.735,negative,The Man Who Was Thursday: A Nightmare
+You say that a poet is always an anarchist.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+I disagree; but I hope at least that he is always a sportsman.,0.4678,0.282,0.132,0.586,positive,The Man Who Was Thursday: A Nightmare
+"Permit me, here and now, to swear as a Christian, and promise as a good comrade and a fellow-artist, that I will not report anything of this, whatever it is, to the police.",0.6124,0.16,0.037,0.802,positive,The Man Who Was Thursday: A Nightmare
+"And now, in the name of Colney Hatch, what is it?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I think,"" said Gregory, with placid irrelevancy, ""that we will call a cab.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"He gave two long whistles, and a hansom came rattling down the road.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+The two got into it in silence.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+Gregory gave through the trap the address of an obscure public-house on the Chiswick bank of the river.,-0.3182,0.0,0.119,0.881,negative,The Man Who Was Thursday: A Nightmare
+"The cab whisked itself away again, and in it these two fantastics quitted their fantastic town.",0.5574,0.194,0.0,0.806,positive,The Man Who Was Thursday: A Nightmare
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"THE SECRET OF GABRIEL SYME The cab pulled up before a particularly dreary and greasy beershop, into which Gregory rapidly conducted his companion.",-0.4005,0.0,0.114,0.886,negative,The Man Who Was Thursday: A Nightmare
+"They seated themselves in a close and dim sort of bar-parlour, at a stained wooden table with one wooden leg.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"The room was so small and dark, that very little could be seen of the attendant who was summoned, beyond a vague and dark impression of something bulky and bearded.",0.128,0.063,0.046,0.891,positive,The Man Who Was Thursday: A Nightmare
+"""Will you take a little supper?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+asked Gregory politely.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""The pâté de foie gras is not good here, but I can recommend the game.""",0.3709,0.192,0.1,0.708,positive,The Man Who Was Thursday: A Nightmare
+"Syme received the remark with stolidity, imagining it to be a joke.",0.296,0.18,0.0,0.82,positive,The Man Who Was Thursday: A Nightmare
+"Accepting the vein of humour, he said, with a well-bred indifference-- ""Oh, bring me some lobster mayonnaise.""",0.6908,0.289,0.0,0.711,positive,The Man Who Was Thursday: A Nightmare
+"To his indescribable astonishment, the man only said ""Certainly, sir!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+and went away apparently to get it.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""What will you drink?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"resumed Gregory, with the same careless yet apologetic air.",-0.3612,0.0,0.238,0.762,negative,The Man Who Was Thursday: A Nightmare
+"""I shall only have a crême de menthe myself; I have dined.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+But the champagne can really be trusted.,0.8109,0.596,0.0,0.404,positive,The Man Who Was Thursday: A Nightmare
+"Do let me start you with a half-bottle of Pommery at least?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Thank you!""",0.4199,0.736,0.0,0.264,positive,The Man Who Was Thursday: A Nightmare
+said the motionless Syme.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""You are very good.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"His further attempts at conversation, somewhat disorganised in themselves, were cut short finally as by a thunderbolt by the actual appearance of the lobster.",-0.2732,0.0,0.087,0.913,negative,The Man Who Was Thursday: A Nightmare
+"Syme tasted it, and found it particularly good.",0.4927,0.313,0.0,0.687,positive,The Man Who Was Thursday: A Nightmare
+Then he suddenly began to eat with great rapidity and appetite.,0.6249,0.291,0.0,0.709,positive,The Man Who Was Thursday: A Nightmare
+"""Excuse me if I enjoy myself rather obviously!""",0.5848,0.489,0.0,0.511,positive,The Man Who Was Thursday: A Nightmare
+"he said to Gregory, smiling.",0.4588,0.429,0.0,0.571,positive,The Man Who Was Thursday: A Nightmare
+"""I don't often have the luck to have a dream like this.",0.7579,0.484,0.0,0.516,positive,The Man Who Was Thursday: A Nightmare
+It is new to me for a nightmare to lead to a lobster.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"It is commonly the other way.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""You are not asleep, I assure you,"" said Gregory.",-0.2584,0.0,0.225,0.775,negative,The Man Who Was Thursday: A Nightmare
+"""You are, on the contrary, close to the most actual and rousing moment of your existence.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Ah, here comes your champagne!",0.3595,0.384,0.0,0.616,positive,The Man Who Was Thursday: A Nightmare
+"I admit that there may be a slight disproportion, let us say, between the inner arrangements of this excellent hotel and its simple and unpretentious exterior.",0.7331,0.219,0.0,0.781,positive,The Man Who Was Thursday: A Nightmare
+But that is all our modesty.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"We are the most modest men that ever lived on earth.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""And who are we? """,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"asked Syme, emptying his champagne glass.",0.1531,0.282,0.205,0.513,positive,The Man Who Was Thursday: A Nightmare
+"""It is quite simple,"" replied Gregory. """,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"We are the serious anarchists, in whom you do not believe.""",-0.0772,0.0,0.115,0.885,negative,The Man Who Was Thursday: A Nightmare
+"""Oh!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+said Syme shortly.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""You do yourselves well in drinks.""",0.2732,0.296,0.0,0.704,positive,The Man Who Was Thursday: A Nightmare
+"""Yes, we are serious about everything,"" answered Gregory.",-0.0772,0.0,0.157,0.843,negative,The Man Who Was Thursday: A Nightmare
+"Then after a pause he added-- ""If in a few moments this table begins to turn round a little, don't put it down to your inroads into the champagne.",0.296,0.081,0.0,0.919,positive,The Man Who Was Thursday: A Nightmare
+"I don't wish you to do yourself an injustice.""",-0.3089,0.0,0.244,0.756,negative,The Man Who Was Thursday: A Nightmare
+"""Well, if I am not drunk, I am mad,"" replied Syme with perfect calm; ""but I trust I can behave like a gentleman in either condition.",0.9046,0.452,0.0,0.548,positive,The Man Who Was Thursday: A Nightmare
+"May I smoke?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Certainly!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"said Gregory, producing a cigar-case.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Try one of mine.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Syme took the cigar, clipped the end off with a cigar-cutter out of his waistcoat pocket, put it in his mouth, lit it slowly, and let out a long cloud of smoke.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"It is not a little to his credit that he performed these rites with so much composure, for almost before he had begun them the table at which he sat had begun to revolve, first slowly, and then rapidly, as if at an insane seance.",-0.0935,0.05,0.057,0.893,negative,The Man Who Was Thursday: A Nightmare
+"""You must not mind it,"" said Gregory; ""it's a kind of screw.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Quite so,"" said Syme placidly, ""a kind of screw.",-0.1761,0.0,0.175,0.825,negative,The Man Who Was Thursday: A Nightmare
+"How simple that is!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"The next moment the smoke of his cigar, which had been wavering across the room in snaky twists, went straight up as if from a factory chimney, and the two, with their chairs and table, shot down through the floor as if the earth had swallowed them.",0.0772,0.04,0.034,0.926,positive,The Man Who Was Thursday: A Nightmare
+"They went rattling down a kind of roaring chimney as rapidly as a lift cut loose, and they came with an abrupt bump to the bottom.",-0.5267,0.0,0.167,0.833,negative,The Man Who Was Thursday: A Nightmare
+"But when Gregory threw open a pair of doors and let in a red subterranean light, Syme was still smoking with one leg thrown over the other, and had not turned a yellow hair.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Gregory led him down a low, vaulted passage, at the end of which was the red light.",-0.2732,0.0,0.123,0.877,negative,The Man Who Was Thursday: A Nightmare
+"It was an enormous crimson lantern, nearly as big as a fireplace, fixed over a small but heavy iron door.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"In the door there was a sort of hatchway or grating, and on this Gregory struck five times.",-0.34,0.0,0.185,0.815,negative,The Man Who Was Thursday: A Nightmare
+A heavy voice with a foreign accent asked him who he was.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"To this he gave the more or less unexpected reply, ""Mr. Joseph Chamberlain.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+The heavy hinges began to move; it was obviously some kind of password.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+Inside the doorway the passage gleamed as if it were lined with a network of steel.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"On a second glance, Syme saw that the glittering pattern was really made up of ranks and ranks of rifles and revolvers, closely packed or interlocked.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I must ask you to forgive me all these formalities,"" said Gregory; ""we have to be very strict here.""",0.2732,0.104,0.0,0.896,positive,The Man Who Was Thursday: A Nightmare
+"""Oh, don't apologise,"" said Syme.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I know your passion for law and order,"" and he stepped into the passage lined with the steel weapons.",0.0258,0.131,0.127,0.742,neutral,The Man Who Was Thursday: A Nightmare
+"With his long, fair hair and rather foppish frock-coat, he looked a singularly frail and fanciful figure as he walked down that shining avenue of death.",-0.3818,0.079,0.134,0.788,negative,The Man Who Was Thursday: A Nightmare
+"They passed through several such passages, and came out at last into a queer steel chamber with curved walls, almost spherical in shape, but presenting, with its tiers of benches, something of the appearance of a scientific lecture-theatre.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"There were no rifles or pistols in this apartment, but round the walls of it were hung more dubious and dreadful shapes, things that looked like the bulbs of iron plants, or the eggs of iron birds.",-0.7419,0.071,0.208,0.721,negative,The Man Who Was Thursday: A Nightmare
+"They were bombs, and the very room itself seemed like the inside of a bomb.",-0.1779,0.141,0.181,0.678,negative,The Man Who Was Thursday: A Nightmare
+"Syme knocked his cigar ash off against the wall, and went in.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""And now, my dear Mr. Syme,"" said Gregory, throwing himself in an expansive manner on the bench under the largest bomb, ""now we are quite cosy, so let us talk properly.",-0.1531,0.075,0.092,0.833,negative,The Man Who Was Thursday: A Nightmare
+Now no human words can give you any notion of why I brought you here.,-0.296,0.0,0.145,0.855,negative,The Man Who Was Thursday: A Nightmare
+"It was one of those quite arbitrary emotions, like jumping off a cliff or falling in love.",0.7479,0.323,0.074,0.603,positive,The Man Who Was Thursday: A Nightmare
+"Suffice it to say that you were an inexpressibly irritating fellow, and, to do you justice, you are still.",0.1027,0.145,0.128,0.726,positive,The Man Who Was Thursday: A Nightmare
+I would break twenty oaths of secrecy for the pleasure of taking you down a peg.,0.5719,0.222,0.0,0.778,positive,The Man Who Was Thursday: A Nightmare
+That way you have of lighting a cigar would make a priest break the seal of confession.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Well, you said that you were quite certain I was not a serious anarchist.",0.574,0.388,0.0,0.612,positive,The Man Who Was Thursday: A Nightmare
+"Does this place strike you as being serious?""",-0.128,0.0,0.176,0.824,negative,The Man Who Was Thursday: A Nightmare
+"""It does seem to have a moral under all its gaiety,"" assented Syme; ""but may I ask you two questions?",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"You need not fear to give me information, because, as you remember, you very wisely extorted from me a promise not to tell the police, a promise I shall certainly keep.",0.8938,0.356,0.0,0.644,positive,The Man Who Was Thursday: A Nightmare
+So it is in mere curiosity that I make my queries.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"First of all, what is it really all about?",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+What is it you object to?,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"You want to abolish Government?""",0.0772,0.245,0.0,0.755,positive,The Man Who Was Thursday: A Nightmare
+"""To abolish God!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"said Gregory, opening the eyes of a fanatic.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""We do not only want to upset a few despotisms and police regulations; that sort of anarchism does exist, but it is a mere branch of the Nonconformists.",-0.229,0.0,0.108,0.892,negative,The Man Who Was Thursday: A Nightmare
+We dig deeper and we blow you higher.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"We wish to deny all those arbitrary distinctions of vice and virtue, honour and treachery, upon which mere rebels base themselves.",0.7184,0.313,0.143,0.544,positive,The Man Who Was Thursday: A Nightmare
+The silly sentimentalists of the French Revolution talked of the Rights of Man!,0.2714,0.219,0.0,0.781,positive,The Man Who Was Thursday: A Nightmare
+We hate Rights as we hate Wrongs.,-0.8126,0.0,0.597,0.403,negative,The Man Who Was Thursday: A Nightmare
+"We have abolished Right and Wrong.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""And Right and Left,"" said Syme with a simple eagerness, ""I hope you will abolish them too.",0.6808,0.286,0.0,0.714,positive,The Man Who Was Thursday: A Nightmare
+"They are much more troublesome to me.""",-0.5563,0.0,0.375,0.625,negative,The Man Who Was Thursday: A Nightmare
+"""You spoke of a second question,"" snapped Gregory.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""With pleasure,"" resumed Syme.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""In all your present acts and surroundings there is a scientific attempt at secrecy.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"I have an aunt who lived over a shop, but this is the first time I have found people living from preference under a public-house.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+You have a heavy iron door.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+You cannot pass it without submitting to the humiliation of calling yourself Mr. Chamberlain.,-0.5719,0.0,0.222,0.778,negative,The Man Who Was Thursday: A Nightmare
+"You surround yourself with steel instruments which make the place, if I may say so, more impressive than homelike.",0.5956,0.185,0.0,0.815,positive,The Man Who Was Thursday: A Nightmare
+"May I ask why, after taking all this trouble to barricade yourselves in the bowels of the earth, you then parade your whole secret by talking about anarchism to every silly woman in Saffron Park?""",-0.4633,0.03,0.086,0.883,negative,The Man Who Was Thursday: A Nightmare
+Gregory smiled.,0.5423,0.778,0.0,0.222,positive,The Man Who Was Thursday: A Nightmare
+"""The answer is simple,"" he said.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I told you I was a serious anarchist, and you did not believe me.",-0.0772,0.0,0.106,0.894,negative,The Man Who Was Thursday: A Nightmare
+Nor do they believe me.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Unless I took them into this infernal room they would not believe me.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Syme smoked thoughtfully, and looked at him with interest.",0.6908,0.449,0.0,0.551,positive,The Man Who Was Thursday: A Nightmare
+Gregory went on.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""The history of the thing might amuse you,"" he said.",0.4019,0.231,0.0,0.769,positive,The Man Who Was Thursday: A Nightmare
+"""When first I became one of the New Anarchists I tried all kinds of respectable disguises.",0.2263,0.172,0.118,0.71,positive,The Man Who Was Thursday: A Nightmare
+I dressed up as a bishop.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"I read up all about bishops in our anarchist pamphlets, in Superstition the Vampire and Priests of Prey .",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+I certainly understood from them that bishops are strange and terrible old men keeping a cruel secret from mankind.,-0.743,0.1,0.361,0.539,negative,The Man Who Was Thursday: A Nightmare
+I was misinformed.,-0.3818,0.0,0.722,0.278,negative,The Man Who Was Thursday: A Nightmare
+"When on my first appearing in episcopal gaiters in a drawing-room I cried out in a voice of thunder, 'Down!",-0.4389,0.0,0.153,0.847,negative,The Man Who Was Thursday: A Nightmare
+down!,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+presumptuous human reason!',0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+they found out in some way that I was not a bishop at all.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+I was nabbed at once.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+Then I made up as a millionaire; but I defended Capital with so much intelligence that a fool could see that I was quite poor.,-0.5956,0.152,0.281,0.567,negative,The Man Who Was Thursday: A Nightmare
+Then I tried being a major.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Now I am a humanitarian myself, but I have, I hope, enough intellectual breadth to understand the position of those who, like Nietzsche, admire violence--the proud, mad war of Nature and all that, you know.",0.8807,0.371,0.18,0.449,positive,The Man Who Was Thursday: A Nightmare
+I threw myself into the major.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+I drew my sword and waved it constantly.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+I called out 'Blood!',0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"abstractedly, like a man calling for wine.",0.3612,0.333,0.0,0.667,positive,The Man Who Was Thursday: A Nightmare
+"I often said, 'Let the weak perish; it is the Law.'",-0.4404,0.0,0.244,0.756,negative,The Man Who Was Thursday: A Nightmare
+"Well, well, it seems majors don't do this.",0.4939,0.412,0.0,0.588,positive,The Man Who Was Thursday: A Nightmare
+I was nabbed again.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"At last I went in despair to the President of the Central Anarchist Council, who is the greatest man in Europe.""",0.4404,0.171,0.094,0.735,positive,The Man Who Was Thursday: A Nightmare
+"""What is his name?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+asked Syme.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""You would not know it,"" answered Gregory.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""That is his greatness.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Caesar and Napoleon put all their genius into being heard of, and they were heard of.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"He puts all his genius into not being heard of, and he is not heard of.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"But you cannot be for five minutes in the room with him without feeling that Caesar and Napoleon would have been children in his hands.""",-0.1419,0.0,0.061,0.939,negative,The Man Who Was Thursday: A Nightmare
+"He was silent and even pale for a moment, and then resumed-- ""But whenever he gives advice it is always something as startling as an epigram, and yet as practical as the Bank of England.",0.1154,0.042,0.0,0.958,positive,The Man Who Was Thursday: A Nightmare
+"I said to him, 'What disguise will hide me from the world?",-0.4019,0.0,0.291,0.709,negative,The Man Who Was Thursday: A Nightmare
+What can I find more respectable than bishops and majors?',0.4927,0.285,0.0,0.715,positive,The Man Who Was Thursday: A Nightmare
+He looked at me with his large but indecipherable face.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"'You want a safe disguise, do you?",0.296,0.457,0.217,0.326,positive,The Man Who Was Thursday: A Nightmare
+You want a dress which will guarantee you harmless; a dress in which no one would ever look for a bomb?',0.2732,0.247,0.102,0.651,positive,The Man Who Was Thursday: A Nightmare
+I nodded.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+He suddenly lifted his lion's voice.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"'Why, then, dress up as an anarchist , you fool!'",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+he roared so that the room shook.,-0.1027,0.0,0.189,0.811,negative,The Man Who Was Thursday: A Nightmare
+'Nobody will ever expect you to do anything dangerous then.',-0.4767,0.0,0.256,0.744,negative,The Man Who Was Thursday: A Nightmare
+And he turned his broad back on me without another word.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"I took his advice, and have never regretted it.",0.2924,0.238,0.0,0.762,positive,The Man Who Was Thursday: A Nightmare
+"I preached blood and murder to those women day and night, and--by God!--they would let me wheel their perambulators.""",-0.7177,0.0,0.227,0.773,negative,The Man Who Was Thursday: A Nightmare
+"Syme sat watching him with some respect in his large, blue eyes.",0.4767,0.22,0.0,0.78,positive,The Man Who Was Thursday: A Nightmare
+"""You took me in,"" he said.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""It is really a smart dodge.""",0.4576,0.428,0.0,0.572,positive,The Man Who Was Thursday: A Nightmare
+"Then after a pause he added-- ""What do you call this tremendous President of yours?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""We generally call him Sunday,"" replied Gregory with simplicity.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""You see, there are seven members of the Central Anarchist Council, and they are named after days of the week.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"He is called Sunday, by some of his admirers Bloody Sunday.",-0.0516,0.185,0.199,0.616,negative,The Man Who Was Thursday: A Nightmare
+"It is curious you should mention the matter, because the very night you have dropped in (if I may so express it) is the night on which our London branch, which assembles in this room, has to elect its own deputy to fill a vacancy in the Council.",0.34,0.072,0.0,0.928,positive,The Man Who Was Thursday: A Nightmare
+"The gentleman who has for some time past played, with propriety and general applause, the difficult part of Thursday, has died quite suddenly.",-0.2263,0.172,0.201,0.627,negative,The Man Who Was Thursday: A Nightmare
+"Consequently, we have called a meeting this very evening to elect a successor.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+He got to his feet and strolled across the room with a sort of smiling embarrassment.,-0.1245,0.143,0.169,0.688,negative,The Man Who Was Thursday: A Nightmare
+"""I feel somehow as if you were my mother, Syme,"" he continued casually.",0.1779,0.124,0.0,0.876,positive,The Man Who Was Thursday: A Nightmare
+"""I feel that I can confide anything to you, as you have promised to tell nobody.",0.3612,0.152,0.0,0.848,positive,The Man Who Was Thursday: A Nightmare
+"In fact, I will confide to you something that I would not say in so many words to the anarchists who will be coming to the room in about ten minutes.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"We shall, of course, go through a form of election; but I don't mind telling you that it is practically certain what the result will be.""",0.3919,0.103,0.0,0.897,positive,The Man Who Was Thursday: A Nightmare
+He looked down for a moment modestly.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""It is almost a settled thing that I am to be Thursday.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""My dear fellow.""",0.3818,0.565,0.0,0.435,positive,The Man Who Was Thursday: A Nightmare
+"said Syme heartily, ""I congratulate you.",0.4939,0.39,0.0,0.61,positive,The Man Who Was Thursday: A Nightmare
+"A great career!""",0.6588,0.815,0.0,0.185,positive,The Man Who Was Thursday: A Nightmare
+"Gregory smiled in deprecation, and walked across the room, talking rapidly.",0.5423,0.259,0.0,0.741,positive,The Man Who Was Thursday: A Nightmare
+"""As a matter of fact, everything is ready for me on this table,"" he said, ""and the ceremony will probably be the shortest possible.""",0.3818,0.146,0.0,0.854,positive,The Man Who Was Thursday: A Nightmare
+"Syme also strolled across to the table, and found lying across it a walking-stick, which turned out on examination to be a sword-stick, a large Colt's revolver, a sandwich case, and a formidable flask of brandy.",-0.5267,0.0,0.102,0.898,negative,The Man Who Was Thursday: A Nightmare
+"Over the chair, beside the table, was thrown a heavy-looking cape or cloak.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I have only to get the form of election finished,"" continued Gregory with animation, ""then I snatch up this cloak and stick, stuff these other things into my pocket, step out of a door in this cavern, which opens on the river, where there is a steam-tug already waiting for me, and then--then--oh, the wild joy of being Thursday!""",0.6239,0.069,0.0,0.931,positive,The Man Who Was Thursday: A Nightmare
+And he clasped his hands.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Syme, who had sat down once more with his usual insolent languor, got to his feet with an unusual air of hesitation.",-0.2732,0.0,0.091,0.909,negative,The Man Who Was Thursday: A Nightmare
+"""Why is it,"" he asked vaguely, ""that I think you are quite a decent fellow?",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Why do I positively like you, Gregory?""",0.7096,0.596,0.0,0.404,positive,The Man Who Was Thursday: A Nightmare
+"He paused a moment, and then added with a sort of fresh curiosity, ""Is it because you are such an ass?""",0.2516,0.1,0.0,0.9,positive,The Man Who Was Thursday: A Nightmare
+"There was a thoughtful silence again, and then he cried out-- ""Well, damn it all!",-0.4574,0.135,0.291,0.573,negative,The Man Who Was Thursday: A Nightmare
+"this is the funniest situation I have ever been in in my life, and I am going to act accordingly.",0.5574,0.175,0.0,0.825,positive,The Man Who Was Thursday: A Nightmare
+"Gregory, I gave you a promise before I came into this place.",0.3182,0.223,0.0,0.777,positive,The Man Who Was Thursday: A Nightmare
+That promise I would keep under red-hot pincers.,0.3182,0.277,0.0,0.723,positive,The Man Who Was Thursday: A Nightmare
+"Would you give me, for my own safety, a little promise of the same kind?""",0.5868,0.286,0.0,0.714,positive,The Man Who Was Thursday: A Nightmare
+"""A promise?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"asked Gregory, wondering.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Yes,"" said Syme very seriously, ""a promise.",0.1458,0.268,0.209,0.523,positive,The Man Who Was Thursday: A Nightmare
+I swore before God that I would not tell your secret to the police.,0.2732,0.16,0.0,0.84,positive,The Man Who Was Thursday: A Nightmare
+"Will you swear by Humanity, or whatever beastly thing you believe in, that you will not tell my secret to the anarchists?""",-0.0516,0.0,0.054,0.946,negative,The Man Who Was Thursday: A Nightmare
+"""Your secret?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+asked the staring Gregory.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Have you got a secret?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Yes,"" said Syme, ""I have a secret.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Then after a pause, ""Will you swear?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Gregory glared at him gravely for a few moments, and then said abruptly-- ""You must have bewitched me, but I feel a furious curiosity about you.",-0.7783,0.0,0.245,0.755,negative,The Man Who Was Thursday: A Nightmare
+"Yes, I will swear not to tell the anarchists anything you tell me.",0.3612,0.194,0.086,0.719,positive,The Man Who Was Thursday: A Nightmare
+"But look sharp, for they will be here in a couple of minutes.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Syme rose slowly to his feet and thrust his long, white hands into his long, grey trousers' pockets.",0.0516,0.066,0.0,0.934,positive,The Man Who Was Thursday: A Nightmare
+"Almost as he did so there came five knocks on the outer grating, proclaiming the arrival of the first of the conspirators.",-0.1027,0.0,0.062,0.938,negative,The Man Who Was Thursday: A Nightmare
+"""Well,"" said Syme slowly, ""I don't know how to tell you the truth more shortly than by saying that your expedient of dressing up as an aimless poet is not confined to you or your President.",0.3182,0.062,0.0,0.938,positive,The Man Who Was Thursday: A Nightmare
+"We have known the dodge for some time at Scotland Yard.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Gregory tried to spring up straight, but he swayed thrice.",0.1154,0.139,0.0,0.861,positive,The Man Who Was Thursday: A Nightmare
+"""What do you say?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+he asked in an inhuman voice.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Yes,"" said Syme simply, ""I am a police detective.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"But I think I hear your friends coming.""",0.631,0.454,0.0,0.546,positive,The Man Who Was Thursday: A Nightmare
+"From the doorway there came a murmur of ""Mr. Joseph Chamberlain.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"It was repeated twice and thrice, and then thirty times, and the crowd of Joseph Chamberlains (a solemn thought) could be heard trampling down the corridor.",-0.0772,0.0,0.049,0.951,negative,The Man Who Was Thursday: A Nightmare
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"THE MAN WHO WAS THURSDAY Before one of the fresh faces could appear at the doorway, Gregory's stunned surprise had fallen from him.",0.128,0.161,0.143,0.696,positive,The Man Who Was Thursday: A Nightmare
+"He was beside the table with a bound, and a noise in his throat like a wild beast.",0.3612,0.152,0.0,0.848,positive,The Man Who Was Thursday: A Nightmare
+He caught up the Colt's revolver and took aim at Syme.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Syme did not flinch, but he put up a pale and polite hand.",0.6486,0.281,0.0,0.719,positive,The Man Who Was Thursday: A Nightmare
+"""Don't be such a silly man,"" he said, with the effeminate dignity of a curate.",0.3871,0.183,0.073,0.745,positive,The Man Who Was Thursday: A Nightmare
+"""Don't you see it's not necessary?",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+Don't you see that we're both in the same boat?,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Yes, and jolly sea-sick.""",0.7184,0.75,0.0,0.25,positive,The Man Who Was Thursday: A Nightmare
+"Gregory could not speak, but he could not fire either, and he looked his question.",0.3724,0.154,0.0,0.846,positive,The Man Who Was Thursday: A Nightmare
+"""Don't you see we've checkmated each other?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+cried Syme.,-0.3818,0.0,0.722,0.278,negative,The Man Who Was Thursday: A Nightmare
+"""I can't tell the police you are an anarchist.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+You can't tell the anarchists I'm a policeman.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"I can only watch you, knowing what you are; you can only watch me, knowing what I am.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"In short, it's a lonely, intellectual duel, my head against yours.",0.2023,0.239,0.181,0.58,positive,The Man Who Was Thursday: A Nightmare
+I'm a policeman deprived of the help of the police.,-0.1027,0.211,0.242,0.547,negative,The Man Who Was Thursday: A Nightmare
+"You, my poor fellow, are an anarchist deprived of the help of that law and organisation which is so essential to anarchy.",-0.5423,0.097,0.222,0.681,negative,The Man Who Was Thursday: A Nightmare
+The one solitary difference is in your favour.,0.4404,0.293,0.0,0.707,positive,The Man Who Was Thursday: A Nightmare
+You are not surrounded by inquisitive policemen; I am surrounded by inquisitive anarchists.,-0.2584,0.0,0.233,0.767,negative,The Man Who Was Thursday: A Nightmare
+"I cannot betray you, but I might betray myself.",0.7741,0.574,0.0,0.426,positive,The Man Who Was Thursday: A Nightmare
+"Come, come!",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+wait and see me betray myself.,-0.6369,0.0,0.457,0.543,negative,The Man Who Was Thursday: A Nightmare
+"I shall do it so nicely.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Gregory put the pistol slowly down, still staring at Syme as if he were a sea-monster.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I don't believe in immortality,"" he said at last, ""but if, after all this, you were to break your word, God would make a hell only for you, to howl in for ever.""",-0.6956,0.068,0.164,0.768,negative,The Man Who Was Thursday: A Nightmare
+"""I shall not break my word,"" said Syme sternly, ""nor will you break yours.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Here are your friends.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"The mass of the anarchists entered the room heavily, with a slouching and somewhat weary gait; but one little man, with a black beard and glasses--a man somewhat of the type of Mr. Tim Healy--detached himself, and bustled forward with some papers in his hand.",0.5989,0.092,0.03,0.878,positive,The Man Who Was Thursday: A Nightmare
+"""Comrade Gregory,"" he said, ""I suppose this man is a delegate?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Gregory, taken by surprise, looked down and muttered the name of Syme; but Syme replied almost pertly-- ""I am glad to see that your gate is well enough guarded to make it hard for anyone to be here who was not a delegate.""",0.765,0.172,0.033,0.795,positive,The Man Who Was Thursday: A Nightmare
+"The brow of the little man with the black beard was, however, still contracted with something like suspicion.",-0.0258,0.118,0.123,0.758,neutral,The Man Who Was Thursday: A Nightmare
+"""What branch do you represent?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+he asked sharply.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I should hardly call it a branch,"" said Syme, laughing; ""I should call it at the very least a root.""",0.4939,0.158,0.0,0.842,positive,The Man Who Was Thursday: A Nightmare
+"""What do you mean?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""The fact is,"" said Syme serenely, ""the truth is I am a Sabbatarian.",0.3182,0.187,0.0,0.813,positive,The Man Who Was Thursday: A Nightmare
+"I have been specially sent here to see that you show a due observance of Sunday.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"The little man dropped one of his papers, and a flicker of fear went over all the faces of the group.",-0.4939,0.0,0.144,0.856,negative,The Man Who Was Thursday: A Nightmare
+"Evidently the awful President, whose name was Sunday, did sometimes send down such irregular ambassadors to such branch meetings.",-0.4588,0.0,0.143,0.857,negative,The Man Who Was Thursday: A Nightmare
+"""Well, comrade,"" said the man with the papers after a pause, ""I suppose we'd better give you a seat in the meeting?""",0.4404,0.132,0.0,0.868,positive,The Man Who Was Thursday: A Nightmare
+"""If you ask my advice as a friend,"" said Syme with severe benevolence, ""I think you'd better.""",0.0258,0.14,0.135,0.725,neutral,The Man Who Was Thursday: A Nightmare
+"When Gregory heard the dangerous dialogue end, with a sudden safety for his rival, he rose abruptly and paced the floor in painful thought.",-0.4939,0.097,0.208,0.694,negative,The Man Who Was Thursday: A Nightmare
+"He was, indeed, in an agony of diplomacy.",-0.4215,0.0,0.286,0.714,negative,The Man Who Was Thursday: A Nightmare
+It was clear that Syme's inspired impudence was likely to bring him out of all merely accidental dilemmas.,0.6705,0.262,0.059,0.679,positive,The Man Who Was Thursday: A Nightmare
+Little was to be hoped from them.,0.3818,0.302,0.0,0.698,positive,The Man Who Was Thursday: A Nightmare
+"He could not himself betray Syme, partly from honour, but partly also because, if he betrayed him and for some reason failed to destroy him, the Syme who escaped would be a Syme freed from all obligation of secrecy, a Syme who would simply walk to the nearest police station.",-0.8675,0.123,0.227,0.65,negative,The Man Who Was Thursday: A Nightmare
+"After all, it was only one night's discussion, and only one detective who would know of it.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"He would let out as little as possible of their plans that night, and then let Syme go, and chance it.",0.25,0.091,0.0,0.909,positive,The Man Who Was Thursday: A Nightmare
+"He strode across to the group of anarchists, which was already distributing itself along the benches.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""I think it is time we began,"" he said; ""the steam-tug is waiting on the river already.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"I move that Comrade Buttons takes the chair.""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"This being approved by a show of hands, the little man with the papers slipped into the presidential seat.",0.4215,0.141,0.0,0.859,positive,The Man Who Was Thursday: A Nightmare
+"""Comrades,"" he began, as sharp as a pistol-shot, ""our meeting tonight is important, though it need not be long.",0.2023,0.096,0.0,0.904,positive,The Man Who Was Thursday: A Nightmare
+This branch has always had the honour of electing Thursdays for the Central European Council.,0.5719,0.209,0.0,0.791,positive,The Man Who Was Thursday: A Nightmare
+We have elected many and splendid Thursdays.,0.5859,0.388,0.0,0.612,positive,The Man Who Was Thursday: A Nightmare
+We all lament the sad decease of the heroic worker who occupied the post until last week.,-0.3612,0.152,0.257,0.591,negative,The Man Who Was Thursday: A Nightmare
+"As you know, his services to the cause were considerable.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"He organised the great dynamite coup of Brighton which, under happier circumstances, ought to have killed everybody on the pier.",0.5719,0.31,0.152,0.539,positive,The Man Who Was Thursday: A Nightmare
+"As you also know, his death was as self-denying as his life, for he died through his faith in a hygienic mixture of chalk and water as a substitute for milk, which beverage he regarded as barbaric, and as involving cruelty to the cow.",-0.8625,0.054,0.218,0.728,negative,The Man Who Was Thursday: A Nightmare
+"Cruelty, or anything approaching to cruelty, revolted him always.",-0.8316,0.0,0.527,0.473,negative,The Man Who Was Thursday: A Nightmare
+"But it is not to acclaim his virtues that we are met, but for a harder task.",0.5023,0.178,0.0,0.822,positive,The Man Who Was Thursday: A Nightmare
+"It is difficult properly to praise his qualities, but it is more difficult to replace them.",-0.4019,0.113,0.246,0.64,negative,The Man Who Was Thursday: A Nightmare
+"Upon you, comrades, it devolves this evening to choose out of the company present the man who shall be Thursday.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+If any comrade suggests a name I will put it to the vote.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"If no comrade suggests a name, I can only tell myself that that dear dynamiter, who is gone from us, has carried into the unknowable abysses the last secret of his virtue and his innocence.""",0.25,0.139,0.113,0.747,positive,The Man Who Was Thursday: A Nightmare
+"There was a stir of almost inaudible applause, such as is sometimes heard in church.",0.3657,0.162,0.0,0.838,positive,The Man Who Was Thursday: A Nightmare
+"Then a large old man, with a long and venerable white beard, perhaps the only real working-man present, rose lumberingly and said-- ""I move that Comrade Gregory be elected Thursday,"" and sat lumberingly down again.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Does anyone second?""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+asked the chairman.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+A little man with a velvet coat and pointed beard seconded.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Before I put the matter to the vote,"" said the chairman, ""I will call on Comrade Gregory to make a statement.""",0.0258,0.058,0.0,0.942,neutral,The Man Who Was Thursday: A Nightmare
+Gregory rose amid a great rumble of applause.,0.7845,0.58,0.0,0.42,positive,The Man Who Was Thursday: A Nightmare
+"His face was deadly pale, so that by contrast his queer red hair looked almost scarlet.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+But he was smiling and altogether at ease.,0.8047,0.547,0.0,0.453,positive,The Man Who Was Thursday: A Nightmare
+"He had made up his mind, and he saw his best policy quite plain in front of him like a white road.",0.7717,0.261,0.0,0.739,positive,The Man Who Was Thursday: A Nightmare
+"His best chance was to make a softened and ambiguous speech, such as would leave on the detective's mind the impression that the anarchist brotherhood was a very mild affair after all.",0.7845,0.229,0.034,0.737,positive,The Man Who Was Thursday: A Nightmare
+"He believed in his own literary power, his capacity for suggesting fine shades and picking perfect words.",0.6705,0.268,0.0,0.732,positive,The Man Who Was Thursday: A Nightmare
+"He thought that with care he could succeed, in spite of all the people around him, in conveying an impression of the institution, subtly and delicately false.",0.7096,0.289,0.095,0.616,positive,The Man Who Was Thursday: A Nightmare
+"Syme had once thought that anarchists, under all their bravado, were only playing the fool.",-0.2732,0.102,0.164,0.734,negative,The Man Who Was Thursday: A Nightmare
+"Could he not now, in the hour of peril, make Syme think so again?",-0.4019,0.0,0.172,0.828,negative,The Man Who Was Thursday: A Nightmare
+"""Comrades,"" began Gregory, in a low but penetrating voice, ""it is not necessary for me to tell you what is my policy, for it is your policy also.",-0.1406,0.0,0.056,0.944,negative,The Man Who Was Thursday: A Nightmare
+"Our belief has been slandered, it has been disfigured, it has been utterly confused and concealed, but it has never been altered.",-0.2014,0.0,0.079,0.921,negative,The Man Who Was Thursday: A Nightmare
+"Those who talk about anarchism and its dangers go everywhere and anywhere to get their information, except to us, except to the fountain head.",-0.4939,0.0,0.122,0.878,negative,The Man Who Was Thursday: A Nightmare
+They learn about anarchists from sixpenny novels; they learn about anarchists from tradesmen's newspapers; they learn about anarchists from Ally Sloper's Half-Holiday and the Sporting Times .,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+They never learn about anarchists from anarchists.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+We have no chance of denying the mountainous slanders which are heaped upon our heads from one end of Europe to another.,-0.3818,0.078,0.18,0.742,negative,The Man Who Was Thursday: A Nightmare
+The man who has always heard that we are walking plagues has never heard our reply.,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"I know that he will not hear it tonight, though my passion were to rend the roof.",0.4588,0.167,0.0,0.833,positive,The Man Who Was Thursday: A Nightmare
+"For it is deep, deep under the earth that the persecuted are permitted to assemble, as the Christians assembled in the Catacombs.",-0.3182,0.0,0.099,0.901,negative,The Man Who Was Thursday: A Nightmare
+"But if, by some incredible accident, there were here tonight a man who all his life had thus immensely misunderstood us, I would put this question to him: 'When those Christians met in those Catacombs, what sort of moral reputation had they in the streets above?",-0.8047,0.0,0.147,0.853,negative,The Man Who Was Thursday: A Nightmare
+What tales were told of their atrocities by one educated Roman to another?,0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Suppose' (I would say to him), 'suppose that we are only repeating that still mysterious paradox of history.",-0.1027,0.0,0.076,0.924,negative,The Man Who Was Thursday: A Nightmare
+Suppose we seem as shocking as the Christians because we are really as harmless as the Christians.,-0.1082,0.114,0.135,0.751,negative,The Man Who Was Thursday: A Nightmare
+"Suppose we seem as mad as the Christians because we are really as meek.""'",-0.4939,0.0,0.198,0.802,negative,The Man Who Was Thursday: A Nightmare
+"The applause that had greeted the opening sentences had been gradually growing fainter, and at the last word it stopped suddenly.",0.5994,0.304,0.074,0.623,positive,The Man Who Was Thursday: A Nightmare
+"In the abrupt silence, the man with the velvet jacket said, in a high, squeaky voice-- ""I'm not meek!""",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"""Comrade Witherspoon tells us,"" resumed Gregory, ""that he is not meek.",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"Ah, how little he knows himself!",0.0,0.0,0.0,1.0,neutral,The Man Who Was Thursday: A Nightmare
+"His words are, indeed, extravagant; his appearance is ferocious, and even (to an ordinary taste) unattractive.",-0.5106,0.0,0.235,0.765,negative,The Man Who Was Thursday: A Nightmare
+"But only the eye of a friendship as deep and delicate as mine can perceive the deep foundation of solid meekness which lies at the base of him, too deep even for himself to see.",0.3291,0.173,0.091,0.736,positive,The Man Who Was Thursday: A Nightmare
+"I repeat, we are the true early Christians, on",0.4215,0.286,0.0,0.714,positive,The Man Who Was Thursday: A Nightmare

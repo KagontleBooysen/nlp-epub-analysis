@@ -1,0 +1,468 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The House of Mirth This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,0.4588,0.143,0.098,0.759,positive,The House of Mirth
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The House of Mirth
+"Title : The House of Mirth Author : Edith Wharton Release date : June 1, 1995 [eBook #284] Most recently updated: February 2, 2023 Language : English Other information and formats : www.gutenberg.org/ebooks/284 *** START OF THE PROJECT GUTENBERG EBOOK THE HOUSE OF MIRTH *** Chapter 1 Selden paused in surprise.",0.876,0.193,0.0,0.807,positive,The House of Mirth
+In the afternoon rush of the Grand Central Station his eyes had been refreshed by the sight of Miss Lily Bart.,0.34,0.127,0.068,0.805,positive,The House of Mirth
+"It was a Monday in early September, and he was returning to his work from a hurried dip into the country; but what was Miss Bart doing in town at that season?",-0.2263,0.0,0.061,0.939,negative,The House of Mirth
+"If she had appeared to be catching a train, he might have inferred that he had come on her in the act of transition between one and another of the country houses which disputed her presence after the close of the Newport season; but her desultory air perplexed him.",-0.5647,0.0,0.092,0.908,negative,The House of Mirth
+"She stood apart from the crowd, letting it drift by her to the platform or the street, and wearing an air of irresolution which might, as he surmised, be the mask of a very definite purpose.",0.3384,0.066,0.0,0.934,positive,The House of Mirth
+"It struck him at once that she was waiting for some one, but he hardly knew why the idea arrested him.",-0.6858,0.0,0.229,0.771,negative,The House of Mirth
+"There was nothing new about Lily Bart, yet he could never see her without a faint movement of interest: it was characteristic of her that she always roused speculation, that her simplest acts seemed the result of far-reaching intentions.",0.4588,0.075,0.0,0.925,positive,The House of Mirth
+"An impulse of curiosity made him turn out of his direct line to the door, and stroll past her.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+He knew that if she did not wish to be seen she would contrive to elude him; and it amused him to think of putting her skill to the test.,0.1386,0.085,0.068,0.847,positive,The House of Mirth
+"""Mr. Selden--what good luck!""",0.4926,0.516,0.0,0.484,positive,The House of Mirth
+"She came forward smiling, eager almost, in her resolve to intercept him.",0.7806,0.465,0.0,0.535,positive,The House of Mirth
+"One or two persons, in brushing past them, lingered to look; for Miss Bart was a figure to arrest even the suburban traveller rushing to his last train.",-0.4588,0.0,0.138,0.862,negative,The House of Mirth
+Selden had never seen her more radiant.,0.5256,0.361,0.0,0.639,positive,The House of Mirth
+"Her vivid head, relieved against the dull tints of the crowd, made her more conspicuous than in a ball-room, and under her dark hat and veil she regained the girlish smoothness, the purity of tint, that she was beginning to lose after eleven years of late hours and indefatigable dancing.",-0.4215,0.048,0.1,0.852,negative,The House of Mirth
+"Was it really eleven years, Selden found himself wondering, and had she indeed reached the nine-and-twentieth birthday with which her rivals credited her?",0.4404,0.157,0.0,0.843,positive,The House of Mirth
+"""What luck!""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+she repeated.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""How nice of you to come to my rescue!""",0.4753,0.279,0.0,0.721,positive,The House of Mirth
+"He responded joyfully that to do so was his mission in life, and asked what form the rescue was to take.",0.7783,0.264,0.0,0.736,positive,The House of Mirth
+"""Oh, almost any--even to sitting on a bench and talking to me.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+One sits out a cotillion--why not sit out a train?,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"It isn't a bit hotter here than in Mrs. Van Osburgh's conservatory--and some of the women are not a bit uglier.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She broke off, laughing, to explain that she had come up to town from Tuxedo, on her way to the Gus Trenors' at Bellomont, and had missed the three-fifteen train to Rhinebeck.",-0.2023,0.086,0.134,0.78,negative,The House of Mirth
+"""And there isn't another till half-past five.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She consulted the little jewelled watch among her laces.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Just two hours to wait.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+And I don't know what to do with myself.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"My maid came up this morning to do some shopping for me, and was to go on to Bellomont at one o'clock, and my aunt's house is closed, and I don't know a soul in town.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She glanced plaintively about the station.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""It IS hotter than Mrs. Van Osburgh's, after all.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"If you can spare the time, do take me somewhere for a breath of air.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+He declared himself entirely at her disposal: the adventure struck him as diverting.,0.0772,0.15,0.131,0.719,positive,The House of Mirth
+"As a spectator, he had always enjoyed Lily Bart; and his course lay so far out of her orbit that it amused him to be drawn for a moment into the sudden intimacy which her proposal implied.",0.7269,0.156,0.0,0.844,positive,The House of Mirth
+"""Shall we go over to Sherry's for a cup of tea?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She smiled assentingly, and then made a slight grimace.",0.3612,0.304,0.174,0.522,positive,The House of Mirth
+"""So many people come up to town on a Monday--one is sure to meet a lot of bores.",0.0,0.124,0.124,0.753,neutral,The House of Mirth
+"I'm as old as the hills, of course, and it ought not to make any difference; but if I'M old enough, you're not,"" she objected gaily.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I'm dying for tea--but isn't there a quieter place?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"He answered her smile, which rested on him vividly.",0.3612,0.238,0.0,0.762,positive,The House of Mirth
+Her discretions interested him almost as much as her imprudences: he was so sure that both were part of the same carefully-elaborated plan.,0.6899,0.213,0.0,0.787,positive,The House of Mirth
+"In judging Miss Bart, he had always made use of the ""argument from design.""",-0.4767,0.0,0.255,0.745,negative,The House of Mirth
+"""The resources of New York are rather meagre,"" he said; ""but I'll find a hansom first, and then we'll invent something.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"He led her through the throng of returning holiday-makers, past sallow-faced girls in preposterous hats, and flat-chested women struggling with paper bundles and palm-leaf fans.",-0.4215,0.0,0.104,0.896,negative,The House of Mirth
+Was it possible that she belonged to the same race?,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"The dinginess, the crudity of this average section of womanhood made him feel how highly specialized she was.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"A rapid shower had cooled the air, and clouds still hung refreshingly over the moist street.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""How delicious!",0.6114,0.8,0.0,0.2,positive,The House of Mirth
+"Let us walk a little,"" she said as they emerged from the station.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+They turned into Madison Avenue and began to stroll northward.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"As she moved beside him, with her long light step, Selden was conscious of taking a luxurious pleasure in her nearness: in the modelling of her little ear, the crisp upward wave of her hair--was it ever so slightly brightened by art?--and the thick planting of her straight black lashes.",0.8265,0.159,0.0,0.841,positive,The House of Mirth
+"Everything about her was at once vigorous and exquisite, at once strong and fine.",0.6249,0.298,0.0,0.702,positive,The House of Mirth
+"He had a confused sense that she must have cost a great deal to make, that a great many dull and ugly people must, in some mysterious way, have been sacrificed to produce her.",0.2263,0.193,0.195,0.612,positive,The House of Mirth
+He was aware that the qualities distinguishing her from the herd of her sex were chiefly external: as though a fine glaze of beauty and fastidiousness had been applied to vulgar clay.,0.6808,0.162,0.0,0.838,positive,The House of Mirth
+"Yet the analogy left him unsatisfied, for a coarse texture will not take a high finish; and was it not possible that the material was fine, but that circumstance had fashioned it into a futile shape?",-0.6486,0.038,0.154,0.809,negative,The House of Mirth
+"As he reached this point in his speculations the sun came out, and her lifted parasol cut off his enjoyment.",0.4404,0.207,0.087,0.705,positive,The House of Mirth
+A moment or two later she paused with a sigh.,0.0258,0.136,0.0,0.864,neutral,The House of Mirth
+"""Oh, dear, I'm so hot and thirsty--and what a hideous place New York is!""",0.4389,0.194,0.0,0.806,positive,The House of Mirth
+She looked despairingly up and down the dreary thoroughfare.,-0.6808,0.0,0.444,0.556,negative,The House of Mirth
+"""Other cities put on their best clothes in summer, but New York seems to sit in its shirtsleeves.""",0.3818,0.133,0.0,0.867,positive,The House of Mirth
+Her eyes wandered down one of the side streets.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Someone has had the humanity to plant a few trees over there.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Let us go into the shade.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I am glad my street meets with your approval,"" said Selden as they turned the corner.",0.4588,0.167,0.0,0.833,positive,The House of Mirth
+"""Your street?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Do you live here?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She glanced with interest along the new brick and limestone house-fronts, fantastically varied in obedience to the American craving for novelty, but fresh and inviting with their awnings and flower-boxes.",0.7845,0.226,0.0,0.774,positive,The House of Mirth
+"""Ah, yes--to be sure: THE BENEDICK.",0.3182,0.315,0.0,0.685,positive,The House of Mirth
+What a nice-looking building!,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"I don't think I've ever seen it before.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She looked across at the flat-house with its marble porch and pseudo-Georgian facade.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Which are your windows?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Those with the awnings down?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""On the top floor--yes.""",0.2023,0.375,0.0,0.625,positive,The House of Mirth
+"""And that nice little balcony is yours?",0.4215,0.318,0.0,0.682,positive,The House of Mirth
+"How cool it looks up there!""",0.3802,0.341,0.0,0.659,positive,The House of Mirth
+He paused a moment.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Come up and see,"" he suggested.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I can give you a cup of tea in no time--and you won't meet any bores.""",-0.296,0.0,0.136,0.864,negative,The House of Mirth
+Her colour deepened--she still had the art of blushing at the right time--but she took the suggestion as lightly as it was made.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Why not?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"It's too tempting--I'll take the risk,"" she declared.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Oh, I'm not dangerous,"" he said in the same key.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"In truth, he had never liked her as well as at that moment.",0.2658,0.263,0.139,0.598,positive,The House of Mirth
+"He knew she had accepted without afterthought: he could never be a factor in her calculations, and there was a surprise, a refreshment almost, in the spontaneity of her consent.",0.6249,0.203,0.0,0.797,positive,The House of Mirth
+"On the threshold he paused a moment, feeling for his latchkey.",0.128,0.143,0.0,0.857,positive,The House of Mirth
+"""There's no one here; but I have a servant who is supposed to come in the mornings, and it's just possible he may have put out the tea-things and provided some cake.""",-0.1531,0.0,0.052,0.948,negative,The House of Mirth
+He ushered her into a slip of a hall hung with old prints.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She noticed the letters and notes heaped on the table among his gloves and sticks; then she found herself in a small library, dark but cheerful, with its walls of books, a pleasantly faded Turkey rug, a littered desk and, as he had foretold, a tea-tray on a low table near the window.",0.8047,0.157,0.047,0.796,positive,The House of Mirth
+"A breeze had sprung up, swaying inward the muslin curtains, and bringing a fresh scent of mignonette and petunias from the flower-box on the balcony.",0.3182,0.095,0.0,0.905,positive,The House of Mirth
+Lily sank with a sigh into one of the shabby leather chairs.,0.0258,0.099,0.0,0.901,neutral,The House of Mirth
+"""How delicious to have a place like this all to one's self!",0.7574,0.419,0.0,0.581,positive,The House of Mirth
+"What a miserable thing it is to be a woman.""",-0.4939,0.0,0.314,0.686,negative,The House of Mirth
+She leaned back in a luxury of discontent.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+Selden was rummaging in a cupboard for the cake.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Even women,"" he said, ""have been known to enjoy the privileges of a flat.""",0.7003,0.345,0.0,0.655,positive,The House of Mirth
+"""Oh, governesses--or widows.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"But not girls--not poor, miserable, marriageable girls!""",0.7944,0.586,0.0,0.414,positive,The House of Mirth
+"""I even know a girl who lives in a flat.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She sat up in surprise.,0.2732,0.344,0.0,0.656,positive,The House of Mirth
+"""You do?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I do,"" he assured her, emerging from the cupboard with the sought-for cake.",0.3612,0.172,0.0,0.828,positive,The House of Mirth
+"""Oh, I know--you mean Gerty Farish.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She smiled a little unkindly.,0.5423,0.538,0.0,0.462,positive,The House of Mirth
+"""But I said MARRIAGEABLE--and besides, she has a horrid little place, and no maid, and such queer things to eat.",-0.7995,0.0,0.309,0.691,negative,The House of Mirth
+Her cook does the washing and the food tastes of soap.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"I should hate that, you know.""",-0.5719,0.0,0.481,0.519,negative,The House of Mirth
+"""You shouldn't dine with her on wash-days,"" said Selden, cutting the cake.",-0.128,0.0,0.12,0.88,negative,The House of Mirth
+"They both laughed, and he knelt by the table to light the lamp under the kettle, while she measured out the tea into a little tea-pot of green glaze.",0.4588,0.1,0.0,0.9,positive,The House of Mirth
+"As he watched her hand, polished as a bit of old ivory, with its slender pink nails, and the sapphire bracelet slipping over her wrist, he was struck with the irony of suggesting to her such a life as his cousin Gertrude Farish had chosen.",0.25,0.069,0.069,0.862,positive,The House of Mirth
+"She was so evidently the victim of the civilization which had produced her, that the links of her bracelet seemed like manacles chaining her to her fate.",0.0352,0.084,0.079,0.837,neutral,The House of Mirth
+She seemed to read his thought.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""It was horrid of me to say that of Gerty,"" she said with charming compunction.",0.0772,0.187,0.172,0.64,positive,The House of Mirth
+"""I forgot she was your cousin.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"But we're so different, you know: she likes being good, and I like being happy.",0.9505,0.613,0.0,0.387,positive,The House of Mirth
+"And besides, she is free and I am not.",0.5106,0.32,0.0,0.68,positive,The House of Mirth
+"If I were, I daresay I could manage to be happy even in her flat.",0.5719,0.252,0.0,0.748,positive,The House of Mirth
+"It must be pure bliss to arrange the furniture just as one likes, and give all the horrors to the ash-man.",0.4215,0.23,0.131,0.638,positive,The House of Mirth
+"If I could only do over my aunt's drawing-room I know I should be a better woman.""",0.4404,0.195,0.0,0.805,positive,The House of Mirth
+"""Is it so very bad?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+he asked sympathetically.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She smiled at him across the tea-pot which she was holding up to be filled.,0.5423,0.2,0.0,0.8,positive,The House of Mirth
+"""That shows how seldom you come there.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Why don't you come oftener?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""When I do come, it's not to look at Mrs. Peniston's furniture.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Nonsense,"" she said.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""You don't come at all--and yet we get on so well when we meet.""",0.4101,0.174,0.0,0.826,positive,The House of Mirth
+"""Perhaps that's the reason,"" he answered promptly.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I'm afraid I haven't any cream, you know--shall you mind a slice of lemon instead?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I shall like it better.""",0.3612,0.385,0.0,0.615,positive,The House of Mirth
+She waited while he cut the lemon and dropped a thin disk into her cup.,-0.2732,0.0,0.139,0.861,negative,The House of Mirth
+"""But that is not the reason,"" she insisted.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""The reason for what?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""For your never coming.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She leaned forward with a shade of perplexity in her charming eyes.,0.5859,0.275,0.0,0.725,positive,The House of Mirth
+"""I wish I knew--I wish I could make you out.",0.6597,0.474,0.0,0.526,positive,The House of Mirth
+Of course I know there are men who don't like me--one can tell that at a glance.,-0.2755,0.0,0.131,0.869,negative,The House of Mirth
+"And there are others who are afraid of me: they think I want to marry them.""",0.0772,0.085,0.0,0.915,positive,The House of Mirth
+She smiled up at him frankly.,0.5423,0.412,0.0,0.588,positive,The House of Mirth
+"""But I don't think you dislike me--and you can't possibly think I want to marry you.""",0.3491,0.172,0.083,0.745,positive,The House of Mirth
+"""No--I absolve you of that,"" he agreed.",0.5106,0.462,0.0,0.538,positive,The House of Mirth
+"""Well, then----?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"He had carried his cup to the fireplace, and stood leaning against the chimney-piece and looking down on her with an air of indolent amusement.",0.3612,0.094,0.0,0.906,positive,The House of Mirth
+The provocation in her eyes increased his amusement--he had not supposed she would waste her powder on such small game; but perhaps she was only keeping her hand in; or perhaps a girl of her type had no conversation but of the personal kind.,0.775,0.197,0.088,0.715,positive,The House of Mirth
+"At any rate, she was amazingly pretty, and he had asked her to tea and must live up to his obligations.",0.5413,0.149,0.0,0.851,positive,The House of Mirth
+"""Well, then,"" he said with a plunge, ""perhaps THAT'S the reason.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""What?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""The fact that you don't want to marry me.",-0.0572,0.0,0.133,0.867,negative,The House of Mirth
+"Perhaps I don't regard it as such a strong inducement to go and see you.""",0.5106,0.216,0.0,0.784,positive,The House of Mirth
+"He felt a slight shiver down his spine as he ventured this, but her laugh reassured him.",0.8573,0.376,0.0,0.624,positive,The House of Mirth
+"""Dear Mr. Selden, that wasn't worthy of you.",0.05,0.236,0.219,0.545,positive,The House of Mirth
+"It's stupid of you to make love to me, and it isn't like you to be stupid.""",-0.0798,0.177,0.232,0.59,negative,The House of Mirth
+"She leaned back, sipping her tea with an air so enchantingly judicial that, if they had been in her aunt's drawing-room, he might almost have tried to disprove her deduction.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Don't you see,"" she continued, ""that there are men enough to say pleasant things to me, and that what I want is a friend who won't be afraid to say disagreeable ones when I need them?",0.6249,0.197,0.068,0.734,positive,The House of Mirth
+"Sometimes I have fancied you might be that friend--I don't know why, except that you are neither a prig nor a bounder, and that I shouldn't have to pretend with you or be on my guard against you.""",0.0762,0.038,0.0,0.962,positive,The House of Mirth
+"Her voice had dropped to a note of seriousness, and she sat gazing up at him with the troubled gravity of a child.",-0.4939,0.0,0.181,0.819,negative,The House of Mirth
+"""You don't know how much I need such a friend,"" she said.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""My aunt is full of copy-book axioms, but they were all meant to apply to conduct in the early fifties.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+I always feel that to live up to them would include wearing book-muslin with gigot sleeves.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"And the other women--my best friends--well, they use me or abuse me; but they don't care a straw what happens to me.",-0.5334,0.098,0.227,0.676,negative,The House of Mirth
+"I've been about too long--people are getting tired of me; they are beginning to say I ought to marry.""",-0.4404,0.0,0.146,0.854,negative,The House of Mirth
+"There was a moment's pause, during which Selden meditated one or two replies calculated to add a momentary zest to the situation; but he rejected them in favour of the simple question: ""Well, why don't you?""",-0.1531,0.096,0.11,0.794,negative,The House of Mirth
+She coloured and laughed.,0.4588,0.5,0.0,0.5,positive,The House of Mirth
+"""Ah, I see you ARE a friend after all, and that is one of the disagreeable things I was asking for.""",0.128,0.146,0.123,0.731,positive,The House of Mirth
+"""It wasn't meant to be disagreeable,"" he returned amicably.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Isn't marriage your vocation?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Isn't it what you're all brought up for?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She sighed.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I suppose so.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"What else is there?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Exactly.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"And so why not take the plunge and have it over?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She shrugged her shoulders.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""You speak as if I ought to marry the first man who came along.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I didn't mean to imply that you are as hard put to it as that.",-0.1027,0.0,0.091,0.909,negative,The House of Mirth
+"But there must be some one with the requisite qualifications.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She shook her head wearily.,-0.1027,0.0,0.259,0.741,negative,The House of Mirth
+"""I threw away one or two good chances when I first came out--I suppose every girl does; and you know I am horribly poor--and very expensive.",0.0772,0.162,0.117,0.722,positive,The House of Mirth
+"I must have a great deal of money.""",0.6249,0.451,0.0,0.549,positive,The House of Mirth
+Selden had turned to reach for a cigarette-box on the mantelpiece.,0.0258,0.109,0.0,0.891,neutral,The House of Mirth
+"""What's become of Dillworth?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+he asked.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Oh, his mother was frightened--she was afraid I should have all the family jewels reset.",0.4588,0.188,0.0,0.812,positive,The House of Mirth
+"And she wanted me to promise that I wouldn't do over the drawing-room.""",0.3182,0.173,0.0,0.827,positive,The House of Mirth
+"""The very thing you are marrying for!""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Exactly.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"So she packed him off to India.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Hard luck--but you can do better than Dillworth.""",0.3612,0.282,0.136,0.583,positive,The House of Mirth
+"He offered the box, and she took out three or four cigarettes, putting one between her lips and slipping the others into a little gold case attached to her long pearl chain.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Have I time?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Just a whiff, then.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She leaned forward, holding the tip of her cigarette to his.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"As she did so, he noted, with a purely impersonal enjoyment, how evenly the black lashes were set in her smooth white lids, and how the purplish shade beneath them melted into the pure pallor of the cheek.",0.315,0.094,0.063,0.844,positive,The House of Mirth
+"She began to saunter about the room, examining the bookshelves between the puffs of her cigarette-smoke.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Some of the volumes had the ripe tints of good tooling and old morocco, and her eyes lingered on them caressingly, not with the appreciation of the expert, but with the pleasure in agreeable tones and textures that was one of her inmost susceptibilities.",0.8705,0.204,0.035,0.761,positive,The House of Mirth
+"Suddenly her expression changed from desultory enjoyment to active conjecture, and she turned to Selden with a question.",0.743,0.296,0.0,0.704,positive,The House of Mirth
+"""You collect, don't you--you know about first editions and things?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""As much as a man may who has no money to spend.",-0.296,0.0,0.18,0.82,negative,The House of Mirth
+"Now and then I pick up something in the rubbish heap; and I go and look on at the big sales.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She had again addressed herself to the shelves, but her eyes now swept them inattentively, and he saw that she was preoccupied with a new idea.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""And Americana--do you collect Americana?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+Selden stared and laughed.,0.4588,0.5,0.0,0.5,positive,The House of Mirth
+"""No, that's rather out of my line.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"I'm not really a collector, you see; I simply like to have good editions of the books I am fond of.""",0.8074,0.356,0.0,0.644,positive,The House of Mirth
+She made a slight grimace.,-0.25,0.0,0.4,0.6,negative,The House of Mirth
+"""And Americana are horribly dull, I suppose?""",-0.7269,0.0,0.604,0.396,negative,The House of Mirth
+"""I should fancy so--except to the historian.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+But your real collector values a thing for its rarity.,0.5499,0.307,0.0,0.693,positive,The House of Mirth
+"I don't suppose the buyers of Americana sit up reading them all night--old Jefferson Gryce certainly didn't.""",0.34,0.138,0.0,0.862,positive,The House of Mirth
+She was listening with keen attention.,0.3612,0.333,0.0,0.667,positive,The House of Mirth
+"""And yet they fetch fabulous prices, don't they?",0.5267,0.327,0.0,0.673,positive,The House of Mirth
+It seems so odd to want to pay a lot for an ugly badly-printed book that one is never going to read!,-0.7521,0.059,0.301,0.64,negative,The House of Mirth
+"And I suppose most of the owners of Americana are not historians either?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""No; very few of the historians can afford to buy them.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+They have to use those in the public libraries or in private collections.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"It seems to be the mere rarity that attracts the average collector.""",0.4019,0.197,0.0,0.803,positive,The House of Mirth
+"He had seated himself on an arm of the chair near which she was standing, and she continued to question him, asking which were the rarest volumes, whether the Jefferson Gryce collection was really considered the finest in the world, and what was the largest price ever fetched by a single volume.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"It was so pleasant to sit there looking up at her, as she lifted now one book and then another from the shelves, fluttering the pages between her fingers, while her drooping profile was outlined against the warm background of old bindings, that he talked on without pausing to wonder at her sudden interest in so unsuggestive a subject.",0.8458,0.143,0.0,0.857,positive,The House of Mirth
+"But he could never be long with her without trying to find a reason for what she was doing, and as she replaced his first edition of La Bruyere and turned away from the bookcases, he began to ask himself what she had been driving at.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+Her next question was not of a nature to enlighten him.,0.5106,0.268,0.0,0.732,positive,The House of Mirth
+"She paused before him with a smile which seemed at once designed to admit him to her familiarity, and to remind him of the restrictions it imposed.",0.4588,0.15,0.045,0.804,positive,The House of Mirth
+"""Don't you ever mind,"" she asked suddenly, ""not being rich enough to buy all the books you want?""",-0.4449,0.0,0.147,0.853,negative,The House of Mirth
+"He followed her glance about the room, with its worn furniture and shabby walls.",-0.296,0.0,0.145,0.855,negative,The House of Mirth
+"""Don't I just?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Do you take me for a saint on a pillar?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""And having to work--do you mind that?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Oh, the work itself is not so bad--I'm rather fond of the law.""",0.4877,0.209,0.0,0.791,positive,The House of Mirth
+"""No; but the being tied down: the routine--don't you ever want to get away, to see new places and people?""",-0.0857,0.0,0.066,0.934,negative,The House of Mirth
+"""Horribly--especially when I see all my friends rushing to the steamer.""",0.4767,0.256,0.0,0.744,positive,The House of Mirth
+She drew a sympathetic breath.,0.5106,0.524,0.0,0.476,positive,The House of Mirth
+"""But do you mind enough--to marry to get out of it?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+Selden broke into a laugh.,0.2023,0.429,0.333,0.238,positive,The House of Mirth
+"""God forbid!""",0.3382,0.705,0.0,0.295,positive,The House of Mirth
+he declared.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She rose with a sigh, tossing her cigarette into the grate.",0.0258,0.109,0.0,0.891,neutral,The House of Mirth
+"""Ah, there's the difference--a girl must, a man may if he chooses.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She surveyed him critically.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Your coat's a little shabby--but who cares?",0.4091,0.354,0.0,0.646,positive,The House of Mirth
+It doesn't keep people from asking you to dine.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+If I were shabby no one would have me: a woman is asked out as much for her clothes as for herself.,-0.296,0.0,0.104,0.896,negative,The House of Mirth
+"The clothes are the background, the frame, if you like: they don't make success, but they are a part of it.",-0.0642,0.08,0.092,0.828,negative,The House of Mirth
+Who wants a dingy woman?,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"We are expected to be pretty and well-dressed till we drop--and if we can't keep it up alone, we have to go into partnership.""",0.296,0.118,0.074,0.809,positive,The House of Mirth
+"Selden glanced at her with amusement: it was impossible, even with her lovely eyes imploring him, to take a sentimental view of her case.",0.8225,0.301,0.0,0.699,positive,The House of Mirth
+"""Ah, well, there must be plenty of capital on the look-out for such an investment.",0.2732,0.13,0.0,0.87,positive,The House of Mirth
+"Perhaps you'll meet your fate tonight at the Trenors'.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She returned his look interrogatively.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I thought you might be going there--oh, not in that capacity!",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"But there are to be a lot of your set--Gwen Van Osburgh, the Wetheralls, Lady Cressida Raith--and the George Dorsets.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She paused a moment before the last name, and shot a query through her lashes; but he remained imperturbable.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Mrs. Trenor asked me; but I can't get away till the end of the week; and those big parties bore me.""",0.2617,0.148,0.104,0.748,positive,The House of Mirth
+"""Ah, so they do me,"" she exclaimed.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Then why go?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""It's part of the business--you forget!",-0.2942,0.0,0.305,0.695,negative,The House of Mirth
+"And besides, if I didn't, I should be playing bezique with my aunt at Richfield Springs.""",-0.1511,0.0,0.109,0.891,negative,The House of Mirth
+"""That's almost as bad as marrying Dillworth,"" he agreed, and they both laughed for pure pleasure in their sudden intimacy.",0.6786,0.314,0.115,0.571,positive,The House of Mirth
+She glanced at the clock.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Dear me!",0.4389,0.743,0.0,0.257,positive,The House of Mirth
+I must be off.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"It's after five.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She paused before the mantelpiece, studying herself in the mirror while she adjusted her veil.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"The attitude revealed the long slope of her slender sides, which gave a kind of wild-wood grace to her outline--as though she were a captured dryad subdued to the conventions of the drawing-room; and Selden reflected that it was the same streak of sylvan freedom in her nature that lent such savour to her artificiality.",0.7906,0.121,0.0,0.879,positive,The House of Mirth
+He followed her across the room to the entrance-hall; but on the threshold she held out her hand with a gesture of leave-taking.,0.6486,0.17,0.0,0.83,positive,The House of Mirth
+"""It's been delightful; and now you will have to return my visit.""",0.5859,0.257,0.0,0.743,positive,The House of Mirth
+"""But don't you want me to see you to the station?""",-0.0857,0.0,0.118,0.882,negative,The House of Mirth
+"""No; good bye here, please.""",0.4404,0.42,0.0,0.58,positive,The House of Mirth
+"She let her hand lie in his a moment, smiling up at him adorably.",0.8519,0.482,0.0,0.518,positive,The House of Mirth
+"""Good bye, then--and good luck at Bellomont!""",0.8439,0.694,0.0,0.306,positive,The House of Mirth
+"he said, opening the door for her.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+On the landing she paused to look about her.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"There were a thousand chances to one against her meeting anybody, but one could never tell, and she always paid for her rare indiscretions by a violent reaction of prudence.",-0.714,0.043,0.163,0.794,negative,The House of Mirth
+"There was no one in sight, however, but a char-woman who was scrubbing the stairs.",-0.1531,0.0,0.11,0.89,negative,The House of Mirth
+"Her own stout person and its surrounding implements took up so much room that Lily, to pass her, had to gather up her skirts and brush against the wall.",0.1779,0.057,0.0,0.943,positive,The House of Mirth
+"As she did so, the woman paused in her work and looked up curiously, resting her clenched red fists on the wet cloth she had just drawn from her pail.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She had a broad sallow face, slightly pitted with small-pox, and thin straw-coloured hair through which her scalp shone unpleasantly.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I beg your pardon,"" said Lily, intending by her politeness to convey a criticism of the other's manner.",-0.4404,0.0,0.153,0.847,negative,The House of Mirth
+"The woman, without answering, pushed her pail aside, and continued to stare as Miss Bart swept by with a murmur of silken linings.",-0.1531,0.0,0.071,0.929,negative,The House of Mirth
+Lily felt herself flushing under the look.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+What did the creature suppose?,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Could one never do the simplest, the most harmless thing, without subjecting one's self to some odious conjecture?",0.3167,0.119,0.0,0.881,positive,The House of Mirth
+"Half way down the next flight, she smiled to think that a char-woman's stare should so perturb her.",0.5423,0.179,0.0,0.821,positive,The House of Mirth
+The poor thing was probably dazzled by such an unwonted apparition.,-0.4767,0.0,0.237,0.763,negative,The House of Mirth
+But WERE such apparitions unwonted on Selden's stairs?,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Miss Bart was not familiar with the moral code of bachelors' flat-houses, and her colour rose again as it occurred to her that the woman's persistent gaze implied a groping among past associations.",-0.1531,0.0,0.049,0.951,negative,The House of Mirth
+"But she put aside the thought with a smile at her own fears, and hastened downward, wondering if she should find a cab short of Fifth Avenue.",-0.1154,0.109,0.124,0.768,negative,The House of Mirth
+"Under the Georgian porch she paused again, scanning the street for a hansom.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"None was in sight, but as she reached the sidewalk she ran against a small glossy-looking man with a gardenia in his coat, who raised his hat with a surprised exclamation.",0.4497,0.132,0.0,0.868,positive,The House of Mirth
+"""Miss Bart?",-0.1531,0.0,0.615,0.385,negative,The House of Mirth
+Well--of all people!,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"This IS luck,"" he declared; and she caught a twinkle of amused curiosity between his screwed-up lids.",0.4215,0.157,0.0,0.843,positive,The House of Mirth
+"""Oh, Mr. Rosedale--how are you?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"she said, perceiving that the irrepressible annoyance on her face was reflected in the sudden intimacy of his smile.",0.0516,0.115,0.106,0.78,positive,The House of Mirth
+Mr. Rosedale stood scanning her with interest and approval.,0.7269,0.466,0.0,0.534,positive,The House of Mirth
+"He was a plump rosy man of the blond Jewish type, with smart London clothes fitting him like upholstery, and small sidelong eyes which gave him the air of appraising people as if they were bric-a-brac.",0.6369,0.136,0.0,0.864,positive,The House of Mirth
+He glanced up interrogatively at the porch of the Benedick.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Been up to town for a little shopping, I suppose?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"he said, in a tone which had the familiarity of a touch.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Miss Bart shrank from it slightly, and then flung herself into precipitate explanations.",-0.1531,0.0,0.118,0.882,negative,The House of Mirth
+"""Yes--I came up to see my dress-maker.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"I am just on my way to catch the train to the Trenors'.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Ah--your dress-maker; just so,"" he said blandly.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""I didn't know there were any dress-makers in the Benedick.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""The Benedick?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+She looked gently puzzled.,0.3182,0.448,0.254,0.299,positive,The House of Mirth
+"""Is that the name of this building?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Yes, that's the name: I believe it's an old word for bachelor, isn't it?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"I happen to own the building--that's the way I know.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"His smile deepened as he added with increasing assurance: ""But you must let me take you to the station.",0.3506,0.169,0.0,0.831,positive,The House of Mirth
+"The Trenors are at Bellomont, of course?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+You've barely time to catch the five-forty.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"The dress-maker kept you waiting, I suppose.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+Lily stiffened under the pleasantry.,0.4588,0.429,0.0,0.571,positive,The House of Mirth
+"""Oh, thanks,"" she stammered; and at that moment her eye caught a hansom drifting down Madison Avenue, and she hailed it with a desperate gesture.",-0.3182,0.073,0.161,0.766,negative,The House of Mirth
+"""You're very kind; but I couldn't think of troubling you,"" she said, extending her hand to Mr. Rosedale; and heedless of his protestations, she sprang into the rescuing vehicle, and called out a breathless order to the driver.",0.8865,0.24,0.0,0.76,positive,The House of Mirth
+Chapter 2 In the hansom she leaned back with a sigh.,0.0258,0.121,0.0,0.879,neutral,The House of Mirth
+Why must a girl pay so dearly for her least escape from routine?,0.4016,0.233,0.188,0.579,positive,The House of Mirth
+Why could one never do a natural thing without having to screen it behind a structure of artifice?,-0.2755,0.0,0.123,0.877,negative,The House of Mirth
+"She had yielded to a passing impulse in going to Lawrence Selden's rooms, and it was so seldom that she could allow herself the luxury of an impulse!",0.2942,0.078,0.0,0.922,positive,The House of Mirth
+"This one, at any rate, was going to cost her rather more than she could afford.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She was vexed to see that, in spite of so many years of vigilance, she had blundered twice within five minutes.",-0.5267,0.0,0.145,0.855,negative,The House of Mirth
+That stupid story about her dress-maker was bad enough--it would have been so simple to tell Rosedale that she had been taking tea with Selden!,-0.8016,0.0,0.238,0.762,negative,The House of Mirth
+The mere statement of the fact would have rendered it innocuous.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"But, after having let herself be surprised in a falsehood, it was doubly stupid to snub the witness of her discomfiture.",-0.7876,0.085,0.3,0.615,negative,The House of Mirth
+"If she had had the presence of mind to let Rosedale drive her to the station, the concession might have purchased his silence.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"He had his race's accuracy in the appraisal of values, and to be seen walking down the platform at the crowded afternoon hour in the company of Miss Lily Bart would have been money in his pocket, as he might himself have phrased it.",0.2732,0.058,0.035,0.907,positive,The House of Mirth
+"He knew, of course, that there would be a large house-party at Bellomont, and the possibility of being taken for one of Mrs. Trenor's guests was doubtless included in his calculations.",0.2263,0.061,0.0,0.939,positive,The House of Mirth
+Mr. Rosedale was still at a stage in his social ascent when it was of importance to produce such impressions.,0.5267,0.206,0.0,0.794,positive,The House of Mirth
+"The provoking part was that Lily knew all this--knew how easy it would have been to silence him on the spot, and how difficult it might be to do so afterward.",-0.1027,0.082,0.122,0.795,negative,The House of Mirth
+"Mr. Simon Rosedale was a man who made it his business to know everything about every one, whose idea of showing himself to be at home in society was to display an inconvenient familiarity with the habits of those with whom he wished to be thought intimate.",-0.34,0.0,0.051,0.949,negative,The House of Mirth
+Lily was sure that within twenty-four hours the story of her visiting her dress-maker at the Benedick would be in active circulation among Mr. Rosedale's acquaintances.,0.6124,0.172,0.0,0.828,positive,The House of Mirth
+The worst of it was that she had always snubbed and ignored him.,-0.8555,0.0,0.485,0.515,negative,The House of Mirth
+"On his first appearance--when her improvident cousin, Jack Stepney, had obtained for him (in return for favours too easily guessed) a card to one of the vast impersonal Van Osburgh ""crushes""--Rosedale, with that mixture of artistic sensibility and business astuteness which characterizes his race, had instantly gravitated toward Miss Bart.",0.3182,0.096,0.072,0.832,positive,The House of Mirth
+"She understood his motives, for her own course was guided by as nice calculations.",0.4215,0.177,0.0,0.823,positive,The House of Mirth
+"Training and experience had taught her to be hospitable to newcomers, since the most unpromising might be useful later on, and there were plenty of available OUBLIETTES to swallow them if they were not.",0.4404,0.081,0.0,0.919,positive,The House of Mirth
+"But some intuitive repugnance, getting the better of years of social discipline, had made her push Mr. Rosedale into his OUBLIETTE without a trial.",0.5927,0.149,0.0,0.851,positive,The House of Mirth
+"He had left behind only the ripple of amusement which his speedy despatch had caused among her friends; and though later (to shift the metaphor) he reappeared lower down the stream, it was only in fleeting glimpses, with long submergences between.",0.5267,0.122,0.048,0.83,positive,The House of Mirth
+Hitherto Lily had been undisturbed by scruples.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"In her little set Mr. Rosedale had been pronounced ""impossible,"" and Jack Stepney roundly snubbed for his attempt to pay his debts in dinner invitations.",-0.5267,0.0,0.161,0.839,negative,The House of Mirth
+"Even Mrs. Trenor, whose taste for variety had led her into some hazardous experiments, resisted Jack's attempts to disguise Mr. Rosedale as a novelty, and declared that he was the same little Jew who had been served up and rejected at the social board a dozen times within her memory; and while Judy Trenor was obdurate there was small chance of Mr. Rosedale's penetrating beyond the outer limbo of the Van Osburgh crushes.",-0.7351,0.026,0.106,0.868,negative,The House of Mirth
+"Jack gave up the contest with a laughing ""You'll see,"" and, sticking manfully to his guns, showed himself with Rosedale at the fashionable restaurants, in company with the personally vivid if socially obscure ladies who are available for such purposes.",0.4939,0.078,0.0,0.922,positive,The House of Mirth
+"But the attempt had hitherto been vain, and as Rosedale undoubtedly paid for the dinners, the laugh remained with his debtor.",0.296,0.178,0.134,0.688,positive,The House of Mirth
+"Mr. Rosedale, it will be seen, was thus far not a factor to be feared--unless one put one's self in his power.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+And this was precisely what Miss Bart had done.,-0.1531,0.0,0.167,0.833,negative,The House of Mirth
+Her clumsy fib had let him see that she had something to conceal; and she was sure he had a score to settle with her.,0.3182,0.091,0.0,0.909,positive,The House of Mirth
+Something in his smile told her he had not forgotten.,0.4881,0.342,0.0,0.658,positive,The House of Mirth
+"She turned from the thought with a little shiver, but it hung on her all the way to the station, and dogged her down the platform with the persistency of Mr. Rosedale himself.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She had just time to take her seat before the train started; but having arranged herself in her corner with the instinctive feeling for effect which never forsook her, she glanced about in the hope of seeing some other member of the Trenors' party.",0.8462,0.182,0.0,0.818,positive,The House of Mirth
+"She wanted to get away from herself, and conversation was the only means of escape that she knew.",0.1779,0.091,0.0,0.909,positive,The House of Mirth
+"Her search was rewarded by the discovery of a very blond young man with a soft reddish beard, who, at the other end of the carriage, appeared to be dissembling himself behind an unfolded newspaper.",0.4939,0.091,0.0,0.909,positive,The House of Mirth
+"Lily's eye brightened, and a faint smile relaxed the drawn lines of her mouth.",0.8316,0.468,0.0,0.532,positive,The House of Mirth
+"She had known that Mr. Percy Gryce was to be at Bellomont, but she had not counted on the luck of having him to herself in the train; and the fact banished all perturbing thoughts of Mr. Rosedale.",0.6124,0.098,0.0,0.902,positive,The House of Mirth
+"Perhaps, after all, the day was to end more favourably than it had begun.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She began to cut the pages of a novel, tranquilly studying her prey through downcast lashes while she organized a method of attack.",-0.5423,0.158,0.281,0.561,negative,The House of Mirth
+Something in his attitude of conscious absorption told her that he was aware of her presence: no one had ever been quite so engrossed in an evening paper!,0.1421,0.089,0.071,0.84,positive,The House of Mirth
+"She guessed that he was too shy to come up to her, and that she would have to devise some means of approach which should not appear to be an advance on her part.",-0.25,0.0,0.057,0.943,negative,The House of Mirth
+"It amused her to think that any one as rich as Mr. Percy Gryce should be shy; but she was gifted with treasures of indulgence for such idiosyncrasies, and besides, his timidity might serve her purpose better than too much assurance.",0.886,0.279,0.083,0.638,positive,The House of Mirth
+"She had the art of giving self-confidence to the embarrassed, but she was not equally sure of being able to embarrass the self-confident.",-0.6478,0.061,0.253,0.686,negative,The House of Mirth
+She waited till the train had emerged from the tunnel and was racing between the ragged edges of the northern suburbs.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Then, as it lowered its speed near Yonkers, she rose from her seat and drifted slowly down the carriage.",-0.128,0.0,0.077,0.923,negative,The House of Mirth
+"As she passed Mr. Gryce, the train gave a lurch, and he was aware of a slender hand gripping the back of his chair.",0.4939,0.132,0.0,0.868,positive,The House of Mirth
+"He rose with a start, his ingenuous face looking as though it had been dipped in crimson: even the reddish tint in his beard seemed to deepen.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"The train swayed again, almost flinging Miss Bart into his arms.",-0.0828,0.0,0.117,0.883,negative,The House of Mirth
+"She steadied herself with a laugh and drew back; but he was enveloped in the scent of her dress, and his shoulder had felt her fugitive touch.",0.3182,0.084,0.0,0.916,positive,The House of Mirth
+"""Oh, Mr. Gryce, is it you?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"I'm so sorry--I was trying to find the porter and get some tea.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She held out her hand as the train resumed its level rush, and they stood exchanging a few words in the aisle.",0.4939,0.138,0.0,0.862,positive,The House of Mirth
+Yes--he was going to Bellomont.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+He had heard she was to be of the party--he blushed again as he admitted it.,0.1027,0.085,0.0,0.915,positive,The House of Mirth
+And was he to be there for a whole week?,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+How delightful!,0.6239,0.804,0.0,0.196,positive,The House of Mirth
+"But at this point one or two belated passengers from the last station forced their way into the carriage, and Lily had to retreat to her seat.",-0.4215,0.071,0.128,0.801,negative,The House of Mirth
+"""The chair next to mine is empty--do take it,"" she said over her shoulder; and Mr. Gryce, with considerable embarrassment, succeeded in effecting an exchange which enabled him to transport himself and his bags to her side.",-0.0258,0.069,0.071,0.86,neutral,The House of Mirth
+"""Ah--and here is the porter, and perhaps we can have some tea.""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She signalled to that official, and in a moment, with the ease that seemed to attend the fulfilment of all her wishes, a little table had been set up between the seats, and she had helped Mr. Gryce to bestow his encumbering properties beneath it.",0.4767,0.091,0.0,0.909,positive,The House of Mirth
+"When the tea came he watched her in silent fascination while her hands flitted above the tray, looking miraculously fine and slender in contrast to the coarse china and lumpy bread.",0.6124,0.147,0.0,0.853,positive,The House of Mirth
+It seemed wonderful to him that any one should perform with such careless ease the difficult task of making tea in public in a lurching train.,0.296,0.193,0.155,0.652,positive,The House of Mirth
+"He would never have dared to order it for himself, lest he should attract the notice of his fellow-passengers; but, secure in the shelter of her conspicuousness, he sipped the inky draught with a delicious sense of exhilaration.",0.872,0.226,0.0,0.774,positive,The House of Mirth
+"Lily, with the flavour of Selden's caravan tea on her lips, had no great fancy to drown it in the railway brew which seemed such nectar to her companion; but, rightly judging that one of the charms of tea is the fact of drinking it together, she proceeded to give the last touch to Mr. Gryce's enjoyment by smiling at him across her lifted cup.",0.9239,0.196,0.05,0.754,positive,The House of Mirth
+"""Is it quite right--I haven't made it too strong?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+she asked solicitously; and he replied with conviction that he had never tasted better tea.,-0.3412,0.0,0.147,0.853,negative,The House of Mirth
+"""I daresay it is true,"" she reflected; and her imagination was fired by the thought that Mr. Gryce, who might have sounded the depths of the most complex self-indulgence, was perhaps actually taking his first journey alone with a pretty woman.",-0.34,0.07,0.122,0.808,negative,The House of Mirth
+It struck her as providential that she should be the instrument of his initiation.,-0.25,0.0,0.133,0.867,negative,The House of Mirth
+Some girls would not have known how to manage him.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"They would have over-emphasized the novelty of the adventure, trying to make him feel in it the zest of an escapade.",0.3182,0.103,0.0,0.897,positive,The House of Mirth
+But Lily's methods were more delicate.,0.1875,0.258,0.0,0.742,positive,The House of Mirth
+"She remembered that her cousin Jack Stepney had once defined Mr. Gryce as the young man who had promised his mother never to go out in the rain without his overshoes; and acting on this hint, she resolved to impart a gently domestic air to the scene, in the hope that her companion, instead of feeling that he was doing something reckless or unusual, would merely be led to dwell on the advantage of always having a companion to make one's tea in the train.",0.8555,0.163,0.029,0.808,positive,The House of Mirth
+"But in spite of her efforts, conversation flagged after the tray had been removed, and she was driven to take a fresh measurement of Mr. Gryce's limitations.",-0.3919,0.094,0.146,0.761,negative,The House of Mirth
+"It was not, after all, opportunity but imagination that he lacked: he had a mental palate which would never learn to distinguish between railway tea and nectar.",-0.1695,0.0,0.062,0.938,negative,The House of Mirth
+"There was, however, one topic she could rely on: one spring that she had only to touch to set his simple machinery in motion.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"She had refrained from touching it because it was a last resource, and she had relied on other arts to stimulate other sensations; but as a settled look of dulness began to creep over his candid features, she saw that extreme measures were necessary.",0.1154,0.034,0.0,0.966,positive,The House of Mirth
+"""And how,"" she said, leaning forward, ""are you getting on with your Americana?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"His eye became a degree less opaque: it was as though an incipient film had been removed from it, and she felt the pride of a skilful operator.",0.34,0.088,0.0,0.912,positive,The House of Mirth
+"""I've got a few new things,"" he said, suffused with pleasure, but lowering his voice as though he feared his fellow-passengers might be in league to despoil him.",-0.6652,0.071,0.205,0.724,negative,The House of Mirth
+"She returned a sympathetic enquiry, and gradually he was drawn on to talk of his latest purchases.",0.5106,0.18,0.0,0.82,positive,The House of Mirth
+"It was the one subject which enabled him to forget himself, or allowed him, rather, to remember himself without constraint, because he was at home in it, and could assert a superiority that there were few to dispute.",-0.296,0.059,0.112,0.829,negative,The House of Mirth
+"Hardly any of his acquaintances cared for Americana, or knew anything about them; and the consciousness of this ignorance threw Mr. Gryce's knowledge into agreeable relief.",0.7027,0.259,0.086,0.655,positive,The House of Mirth
+"The only difficulty was to introduce the topic and to keep it to the front; most people showed no desire to have their ignorance dispelled, and Mr. Gryce was like a merchant whose warehouses are crammed with an unmarketable commodity.",-0.2878,0.112,0.158,0.73,negative,The House of Mirth
+"But Miss Bart, it appeared, really did want to know about Americana; and moreover, she was already sufficiently informed to make the task of farther instruction as easy as it was agreeable.",0.8185,0.24,0.048,0.712,positive,The House of Mirth
+"She questioned him intelligently, she heard him submissively; and, prepared for the look of lassitude which usually crept over his listeners' faces, he grew eloquent under her receptive gaze.",0.3612,0.147,0.102,0.751,positive,The House of Mirth
+"The ""points"" she had had the presence of mind to glean from Selden, in anticipation of this very contingency, were serving her to such good purpose that she began to think her visit to him had been the luckiest incident of the day.",0.802,0.17,0.0,0.83,positive,The House of Mirth
+"She had once more shown her talent for profiting by the unexpected, and dangerous theories as to the advisability of yielding to impulse were germinating under the surface of smiling attention which she continued to present to her companion.",0.6771,0.185,0.066,0.748,positive,The House of Mirth
+"Mr. Gryce's sensations, if less definite, were equally agreeable.",0.5584,0.397,0.0,0.603,positive,The House of Mirth
+"He felt the confused titillation with which the lower organisms welcome the gratification of their needs, and all his senses floundered in a vague well-being, through which Miss Bart's personality was dimly but pleasantly perceptible.",0.6369,0.195,0.141,0.663,positive,The House of Mirth
+Mr. Gryce's interest in Americana had not originated with himself: it was impossible to think of him as evolving any taste of his own.,0.4588,0.115,0.0,0.885,positive,The House of Mirth
+"An uncle had left him a collection already noted among bibliophiles; the existence of the collection was the only fact that had ever shed glory on the name of Gryce, and the nephew took as much pride in his inheritance as though it had been his own work.",0.7096,0.116,0.0,0.884,positive,The House of Mirth
+"Indeed, he gradually came to regard it as such, and to feel a sense of personal complacency when he chanced on any reference to the Gryce Americana.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Anxious as he was to avoid personal notice, he took, in the printed mention of his name, a pleasure so exquisite and excessive that it seemed a compensation for his shrinking from publicity.",0.128,0.103,0.117,0.78,positive,The House of Mirth
+"To enjoy the sensation as often as possible, he subscribed to all the reviews dealing with book-collecting in general, and American history in particular, and as allusions to his library abounded in the pages of these journals, which formed his only reading, he came to regard himself as figuring prominently in the public eye, and to enjoy the thought of the interest which would be excited if the persons he met in the street, or sat among in travelling, were suddenly to be told that he was the possessor of the Gryce Americana.",0.8957,0.117,0.0,0.883,positive,The House of Mirth
+"Most timidities have such secret compensations, and Miss Bart was discerning enough to know that the inner vanity is generally in proportion to the outer self-depreciation.",-0.5413,0.0,0.193,0.807,negative,The House of Mirth
+"With a more confident person she would not have dared to dwell so long on one topic, or to show such exaggerated interest in it; but she had rightly guessed that Mr. Gryce's egoism was a thirsty soil, requiring constant nurture from without.",0.7504,0.188,0.026,0.786,positive,The House of Mirth
+Miss Bart had the gift of following an undercurrent of thought while she appeared to be sailing on the surface of conversation; and in this case her mental excursion took the form of a rapid survey of Mr. Percy Gryce's future as combined with her own.,0.3182,0.061,0.034,0.905,positive,The House of Mirth
+"The Gryces were from Albany, and but lately introduced to the metropolis, where the mother and son had come, after old Jefferson Gryce's death, to take possession of his house in Madison Avenue--an appalling house, all brown stone without and black walnut within, with the Gryce library in a fire-proof annex that looked like a mausoleum.",-0.7469,0.052,0.137,0.811,negative,The House of Mirth
+"Lily, however, knew all about them: young Mr. Gryce's arrival had fluttered the maternal breasts of New York, and when a girl has no mother to palpitate for her she must needs be on the alert for herself.",0.0,0.056,0.056,0.888,neutral,The House of Mirth
+"Lily, therefore, had not only contrived to put herself in the young man's way, but had made the acquaintance of Mrs. Gryce, a monumental woman with the voice of a pulpit orator and a mind preoccupied with the iniquities of her servants, who came sometimes to sit with Mrs. Peniston and learn from that lady how she managed to prevent the kitchen-maid's smuggling groceries out of the house.",-0.6124,0.017,0.061,0.922,negative,The House of Mirth
+"Mrs. Gryce had a kind of impersonal benevolence: cases of individual need she regarded with suspicion, but she subscribed to Institutions when their annual reports showed an impressive surplus.",0.5724,0.186,0.106,0.708,positive,The House of Mirth
+"Her domestic duties were manifold, for they extended from furtive inspections of the servants' bedrooms to unannounced descents to the cellar; but she had never allowed herself many pleasures.",0.5927,0.121,0.0,0.879,positive,The House of Mirth
+"Once, however, she had had a special edition of the Sarum Rule printed in rubric and presented to every clergyman in the diocese; and the gilt album in which their letters of thanks were pasted formed the chief ornament of her drawing-room table.",0.6808,0.123,0.0,0.877,positive,The House of Mirth
+Percy had been brought up in the principles which so excellent a woman was sure to inculcate.,0.793,0.335,0.0,0.665,positive,The House of Mirth
+"Every form of prudence and suspicion had been grafted on a nature originally reluctant and cautious, with the result that it would have seemed hardly needful for Mrs. Gryce to extract his promise about the overshoes, so little likely was he to hazard himself abroad in the rain.",-0.4019,0.045,0.117,0.838,negative,The House of Mirth
+"After attaining his majority, and coming into the fortune which the late Mr. Gryce had made out of a patent device for excluding fresh air from hotels, the young man continued to live with his mother in Albany; but on Jefferson Gryce's death, when another large property passed into her son's hands, Mrs. Gryce thought that what she called his ""interests"" demanded his presence in New York.",-0.7935,0.023,0.106,0.871,negative,The House of Mirth
+"She accordingly installed herself in the Madison Avenue house, and Percy, whose sense of duty was not inferior to his mother's, spent all his week days in the handsome Broad Street office where a batch of pale men on small salaries had grown grey in the management of the Gryce estate, and where he was initiated with becoming reverence into every detail of the art of accumulation.",0.6866,0.096,0.0,0.904,positive,The House of Mirth
+"As far as Lily could learn, this had hitherto been Mr. Gryce's only occupation, and she might have been pardoned for thinking it not too hard a task to interest a young man who had been kept on such low diet.",0.476,0.143,0.049,0.808,positive,The House of Mirth
+"At any rate, she felt herself so completely in command of the situation that she yielded to a sense of security in which all fear of Mr. Rosedale, and of the difficulties on which that fear was contingent, vanished beyond the edge of thought.",-0.7351,0.048,0.172,0.78,negative,The House of Mirth
+"The stopping of the train at Garrisons would not have distracted her from these thoughts, had she not caught a sudden look of distress in her companion's eye.",-0.4523,0.066,0.161,0.773,negative,The House of Mirth
+"His seat faced toward the door, and she guessed that he had been perturbed by the approach of an acquaintance; a fact confirmed by the turning of heads and general sense of commotion which her own entrance into a railway-carriage was apt to produce.",-0.34,0.0,0.055,0.945,negative,The House of Mirth
+"She knew the symptoms at once, and was not surprised to be hailed by the high notes of a pretty woman, who entered the train accompanied by a maid, a bull-terrier, and a footman staggering under a load of bags and dressing-cases.",0.5321,0.125,0.041,0.834,positive,The House of Mirth
+"""Oh, Lily--are you going to Bellomont?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Then you can't let me have your seat, I suppose?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"But I MUST have a seat in this carriage--porter, you must find me a place at once.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+Can't some one be put somewhere else?,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+I want to be with my friends.,0.5267,0.524,0.0,0.476,positive,The House of Mirth
+"Oh, how do you do, Mr. Gryce?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Do please make him understand that I must have a seat next to you and Lily.""",0.3182,0.15,0.0,0.85,positive,The House of Mirth
+"Mrs. George Dorset, regardless of the mild efforts of a traveller with a carpet-bag, who was doing his best to make room for her by getting out of the train, stood in the middle of the aisle, diffusing about her that general sense of exasperation which a pretty woman on her travels not infrequently creates.",0.764,0.127,0.031,0.842,positive,The House of Mirth
+"She was smaller and thinner than Lily Bart, with a restless pliability of pose, as if she could have been crumpled up and run through a ring, like the sinuous draperies she affected.",-0.0516,0.073,0.108,0.819,negative,The House of Mirth
+"Her small pale face seemed the mere setting of a pair of dark exaggerated eyes, of which the visionary gaze contrasted curiously with her self-assertive tone and gestures; so that, as one of her friends observed, she was like a disembodied spirit who took up a great deal of room.",0.9246,0.259,0.024,0.717,positive,The House of Mirth
+"Having finally discovered that the seat adjoining Miss Bart's was at her disposal, she possessed herself of it with a farther displacement of her surroundings, explaining meanwhile that she had come across from Mount Kisco in her motor-car that morning, and had been kicking her heels for an hour at Garrisons, without even the alleviation of a cigarette, her brute of a husband having neglected to replenish her case before they parted that morning.",-0.6124,0.0,0.068,0.932,negative,The House of Mirth
+"""And at this hour of the day I don't suppose you've a single one left, have you, Lily?""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+she plaintively concluded.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Miss Bart caught the startled glance of Mr. Percy Gryce, whose own lips were never defiled by tobacco.",-0.3182,0.0,0.171,0.829,negative,The House of Mirth
+"""What an absurd question, Bertha!""",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"she exclaimed, blushing at the thought of the store she had laid in at Lawrence Selden's.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"""Why, don't you smoke?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+Since when have you given it up?,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"What--you never---- And you don't either, Mr. Gryce?",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"Ah, of course--how stupid of me--I understand.""",-0.5267,0.0,0.362,0.638,negative,The House of Mirth
+And Mrs. Dorset leaned back against her travelling cushions with a smile which made Lily wish there had been no vacant seat beside her own.,0.4588,0.183,0.077,0.739,positive,The House of Mirth
+Chapter 3 Bridge at Bellomont usually lasted till the small hours; and when Lily went to bed that night she had played too long for her own good.,0.6486,0.175,0.0,0.825,positive,The House of Mirth
+"Feeling no desire for the self-communion which awaited her in her room, she lingered on the broad stairway, looking down into the hall below, where the last card-players were grouped about the tray of tall glasses and silver-collared decanters which the butler had just placed on a low table near the fire.",-0.3818,0.074,0.137,0.789,negative,The House of Mirth
+"The hall was arcaded, with a gallery supported on columns of pale yellow marble.",0.3182,0.161,0.0,0.839,positive,The House of Mirth
+Tall clumps of flowering plants were grouped against a background of dark foliage in the angles of the walls.,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"On the crimson carpet a deer-hound and two or three spaniels dozed luxuriously before the fire, and the light from the great central lantern overhead shed a brightness on the women's hair and struck sparks from their jewels as they moved.",0.743,0.202,0.091,0.707,positive,The House of Mirth
+"There were moments when such scenes delighted Lily, when they gratified her sense of beauty and her craving for the external finish of life; there were others when they gave a sharper edge to the meagreness of her own opportunities.",0.9062,0.26,0.0,0.74,positive,The House of Mirth
+"This was one of the moments when the sense of contrast was uppermost, and she turned away impatiently as Mrs. George Dorset, glittering in serpentine spangles, drew Percy Gryce in her wake to a confidential nook beneath the gallery.",-0.4019,0.0,0.068,0.932,negative,The House of Mirth
+It was not that Miss Bart was afraid of losing her newly-acquired hold over Mr. Gryce.,-0.286,0.08,0.144,0.776,negative,The House of Mirth
+"Mrs. Dorset might startle or dazzle him, but she had neither the skill nor the patience to effect his capture.",-0.1655,0.0,0.08,0.92,negative,The House of Mirth
+"She was too self-engrossed to penetrate the recesses of his shyness, and besides, why should she care to give herself the trouble?",-0.2023,0.118,0.184,0.699,negative,The House of Mirth
+"At most it might amuse her to make sport of his simplicity for an evening--after that he would be merely a burden to her, and knowing this, she was far too experienced to encourage him.",0.5209,0.156,0.072,0.772,positive,The House of Mirth
+"But the mere thought of that other woman, who could take a man up and toss him aside as she willed, without having to regard him as a possible factor in her plans, filled Lily Bart with envy.",-0.3919,0.0,0.07,0.93,negative,The House of Mirth
+"She had been bored all the afternoon by Percy Gryce--the mere thought seemed to waken an echo of his droning voice--but she could not ignore him on the morrow, she must follow up her success, must submit to more boredom, must be ready with fresh compliances and adaptabilities, and all on the bare chance that he might ultimately decide to do her the honour of boring her for life.",0.8525,0.196,0.084,0.72,positive,The House of Mirth
+It was a hateful fate--but how escape from it?,-0.3612,0.156,0.294,0.55,negative,The House of Mirth
+What choice had she?,0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"To be herself, or a Gerty Farish.",0.0,0.0,0.0,1.0,neutral,The House of Mirth
+"As she entered her bedroom, with its softly-shaded lights, her lace dressing-gown lying across the silken bedspread, her little embroidered slippers before the fire, a vase of carnations filling the air with perfume, and the last novels and magazines lying uncut on a table beside the reading-lamp, she had a vision of Miss Farish's cramped flat, with its cheap conveniences and hideous wall-papers.",-0.8316,0.029,0.159,0.811,negative,The House of Mirth
+No; she was not made for mean and shabby surround,-0.296,0.0,0.196,0.804,negative,The House of Mirth

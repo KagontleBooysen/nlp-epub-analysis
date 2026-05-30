@@ -1,0 +1,415 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Dracula This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Dracula
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Dracula
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Dracula
+"Title : Dracula Author : Bram Stoker Release date : October 1, 1995 [eBook #345] Most recently updated: September 24, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/345 Credits : Chuck Greif and the Online Distributed Proofreading Team *** START OF THE PROJECT GUTENBERG EBOOK DRACULA *** D R A C U L A by Bram Stoker NEW YORK GROSSET & DUNLAP Publishers Copyright, 1897, in the United States of America, according to Act of Congress, by Bram Stoker [ All rights reserved. ]",0.6486,0.072,0.0,0.928,positive,Dracula
+"PRINTED IN THE UNITED STATES AT THE COUNTRY LIFE PRESS, GARDEN CITY, N.Y. TO MY DEAR FRIEND HOMMY-BEG Contents CHAPTER I. Jonathan Harker's Journal CHAPTER II.",0.8956,0.32,0.0,0.68,positive,Dracula
+Jonathan Harker's Journal CHAPTER III.,0.0,0.0,0.0,1.0,neutral,Dracula
+Jonathan Harker's Journal CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,Dracula
+Jonathan Harker's Journal CHAPTER V. Letters--Lucy and Mina CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,Dracula
+Mina Murray's Journal CHAPTER VII.,0.0,0.0,0.0,1.0,neutral,Dracula
+"Cutting from ""The Dailygraph,"" 8 August CHAPTER VIII.",-0.128,0.0,0.2,0.8,negative,Dracula
+Mina Murray's Journal CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,Dracula
+Mina Murray's Journal CHAPTER X. Mina Murray's Journal CHAPTER XI.,0.0,0.0,0.0,1.0,neutral,Dracula
+Lucy Westenra's Diary CHAPTER XII.,0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XIII.,0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XIV.,0.0,0.0,0.0,1.0,neutral,Dracula
+Mina Harker's Journal CHAPTER XV.,0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XVI.,0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XVII.,0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XVIII.,0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XIX.,0.0,0.0,0.0,1.0,neutral,Dracula
+Jonathan Harker's Journal CHAPTER XX.,0.0,0.0,0.0,1.0,neutral,Dracula
+Jonathan Harker's Journal CHAPTER XXI.,0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XXII.,0.0,0.0,0.0,1.0,neutral,Dracula
+Jonathan Harker's Journal CHAPTER XXIII.,0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XXIV.,0.0,0.0,0.0,1.0,neutral,Dracula
+"Dr. Seward's Phonograph Diary, spoken by Van Helsing CHAPTER XXV.",0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XXVI.,0.0,0.0,0.0,1.0,neutral,Dracula
+Dr. Seward's Diary CHAPTER XXVII.,0.0,0.0,0.0,1.0,neutral,Dracula
+Mina Harker's Journal How these papers have been placed in sequence will be made manifest in the reading of them.,0.0,0.0,0.0,1.0,neutral,Dracula
+"All needless matters have been eliminated, so that a history almost at variance with the possibilities of later-day belief may stand forth as simple fact.",0.0258,0.046,0.0,0.954,neutral,Dracula
+"There is throughout no statement of past things wherein memory may err, for all the records chosen are exactly contemporary, given from the standpoints and within the range of knowledge of those who made them.",-0.296,0.0,0.061,0.939,negative,Dracula
+D R A C U L A CHAPTER I JONATHAN HARKER'S JOURNAL ( Kept in shorthand. ),0.0,0.0,0.0,1.0,neutral,Dracula
+3 May.,0.0,0.0,0.0,1.0,neutral,Dracula
+Bistritz.,0.0,0.0,0.0,1.0,neutral,Dracula
+"--Left Munich at 8:35 P. M. , on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train and the little I could walk through the streets.",0.5719,0.15,0.0,0.85,positive,Dracula
+"I feared to go very far from the station, as we had arrived late and would start as near the correct time as possible.",-0.4939,0.0,0.127,0.873,negative,Dracula
+"The impression I had was that we were leaving the West and entering the East; the most western of splendid bridges over the Danube, which is here of noble width and depth, took us among the traditions of Turkish rule.",0.8387,0.199,0.0,0.801,positive,Dracula
+"We left in pretty good time, and came after nightfall to Klausenburgh.",0.7269,0.379,0.0,0.621,positive,Dracula
+Here I stopped for the night at the Hotel Royale.,-0.2263,0.0,0.192,0.808,negative,Dracula
+"I had for dinner, or rather supper, a chicken done up some way with red pepper, which was very good but thirsty.",0.2724,0.099,0.0,0.901,positive,Dracula
+( Mem.,0.0,0.0,0.0,1.0,neutral,Dracula
+", get recipe for Mina.)",0.0,0.0,0.0,1.0,neutral,Dracula
+"I asked the waiter, and he said it was called ""paprika hendl,"" and that, as it was a national dish, I should be able to get it anywhere along the Carpathians.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I found my smattering of German very useful here; indeed, I don't know how I should be able to get on without it.",0.4927,0.144,0.0,0.856,positive,Dracula
+"Having had some time at my disposal when in London, I had visited the British Museum, and made search among the books and maps in the library regarding Transylvania; it had struck me that some foreknowledge of the country could hardly fail to have some importance in dealing with a nobleman of that country.",-0.4033,0.044,0.092,0.864,negative,Dracula
+"I find that the district he named is in the extreme east of the country, just on the borders of three states, Transylvania, Moldavia and Bukovina, in the midst of the Carpathian mountains; one of the wildest and least known portions of Europe.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I was not able to light on any map or work giving the exact locality of the Castle Dracula, as there are no maps of this country as yet to compare with our own Ordnance Survey maps; but I found that Bistritz, the post town named by Count Dracula, is a fairly well-known place.",0.0258,0.033,0.031,0.937,neutral,Dracula
+"I shall enter here some of my notes, as they may refresh my memory when I talk over my travels with Mina.",0.0,0.0,0.0,1.0,neutral,Dracula
+"In the population of Transylvania there are four distinct nationalities: Saxons in the South, and mixed with them the Wallachs, who are the descendants of the Dacians; Magyars in the West, and Szekelys in the East and North.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I am going among the latter, who claim to be descended from Attila and the Huns.",0.0,0.0,0.0,1.0,neutral,Dracula
+"This may be so, for when the Magyars conquered the country in the eleventh century they found the Huns settled in it.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I read that every known superstition in the world is gathered into the horseshoe of the Carpathians, as if it were the centre of some sort of imaginative whirlpool; if so my stay may be very interesting.",0.4576,0.079,0.0,0.921,positive,Dracula
+( Mem.,0.0,0.0,0.0,1.0,neutral,Dracula
+", I must ask the Count all about them.)",0.0,0.0,0.0,1.0,neutral,Dracula
+"I did not sleep well, though my bed was comfortable enough, for I had all sorts of queer dreams.",0.6353,0.275,0.083,0.642,positive,Dracula
+"There was a dog howling all night under my window, which may have had something to do with it; or it may have been the paprika, for I had to drink up all the water in my carafe, and was still thirsty.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Towards morning I slept and was wakened by the continuous knocking at my door, so I guess I must have been sleeping soundly then.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I had for breakfast more paprika, and a sort of porridge of maize flour which they said was ""mamaliga,"" and egg-plant stuffed with forcemeat, a very excellent dish, which they call ""impletata.""",0.6115,0.125,0.0,0.875,positive,Dracula
+( Mem.,0.0,0.0,0.0,1.0,neutral,Dracula
+", get recipe for this also.)",0.0,0.0,0.0,1.0,neutral,Dracula
+"I had to hurry breakfast, for the train started a little before eight, or rather it ought to have done so, for after rushing to the station at 7:30 I had to sit in the carriage for more than an hour before we began to move.",0.0,0.0,0.0,1.0,neutral,Dracula
+It seems to me that the further east you go the more unpunctual are the trains.,0.0,0.0,0.0,1.0,neutral,Dracula
+What ought they to be in China?,0.0,0.0,0.0,1.0,neutral,Dracula
+All day long we seemed to dawdle through a country which was full of beauty of every kind.,0.802,0.324,0.0,0.676,positive,Dracula
+Sometimes we saw little towns or castles on the top of steep hills such as we see in old missals; sometimes we ran by rivers and streams which seemed from the wide stony margin on each side of them to be subject to great floods.,0.7096,0.121,0.0,0.879,positive,Dracula
+"It takes a lot of water, and running strong, to sweep the outside edge of a river clear.",0.7096,0.296,0.0,0.704,positive,Dracula
+"At every station there were groups of people, sometimes crowds, and in all sorts of attire.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Some of them were just like the peasants at home or those I saw coming through France and Germany, with short jackets and round hats and home-made trousers; but others were very picturesque.",0.6798,0.157,0.0,0.843,positive,Dracula
+"The women looked pretty, except when you got near them, but they were very clumsy about the waist.",0.2732,0.11,0.0,0.89,positive,Dracula
+"They had all full white sleeves of some kind or other, and most of them had big belts with a lot of strips of something fluttering from them like the dresses in a ballet, but of course there were petticoats under them.",0.4497,0.094,0.0,0.906,positive,Dracula
+"The strangest figures we saw were the Slovaks, who were more barbarian than the rest, with their big cow-boy hats, great baggy dirty-white trousers, white linen shirts, and enormous heavy leather belts, nearly a foot wide, all studded over with brass nails.",0.6249,0.093,0.0,0.907,positive,Dracula
+"They wore high boots, with their trousers tucked into them, and had long black hair and heavy black moustaches.",0.0,0.0,0.0,1.0,neutral,Dracula
+"They are very picturesque, but do not look prepossessing.",0.2374,0.196,0.0,0.804,positive,Dracula
+On the stage they would be set down at once as some old Oriental band of brigands.,0.0,0.0,0.0,1.0,neutral,Dracula
+"They are, however, I am told, very harmless and rather wanting in natural self-assertion.",0.5849,0.303,0.0,0.697,positive,Dracula
+"It was on the dark side of twilight when we got to Bistritz, which is a very interesting old place.",0.4576,0.143,0.0,0.857,positive,Dracula
+"Being practically on the frontier--for the Borgo Pass leads from it into Bukovina--it has had a very stormy existence, and it certainly shows marks of it.",0.34,0.091,0.0,0.909,positive,Dracula
+"Fifty years ago a series of great fires took place, which made terrible havoc on five separate occasions.",-0.4404,0.163,0.279,0.558,negative,Dracula
+"At the very beginning of the seventeenth century it underwent a siege of three weeks and lost 13,000 people, the casualties of war proper being assisted by famine and disease.",-0.7351,0.0,0.187,0.813,negative,Dracula
+"Count Dracula had directed me to go to the Golden Krone Hotel, which I found, to my great delight, to be thoroughly old-fashioned, for of course I wanted to see all I could of the ways of the country.",0.8402,0.19,0.0,0.81,positive,Dracula
+"I was evidently expected, for when I got near the door I faced a cheery-looking elderly woman in the usual peasant dress--white undergarment with long double apron, front, and back, of coloured stuff fitting almost too tight for modesty.",0.0,0.0,0.0,1.0,neutral,Dracula
+"When I came close she bowed and said, ""The Herr Englishman?""",0.0,0.0,0.0,1.0,neutral,Dracula
+"""Yes,"" I said, ""Jonathan Harker.""",0.0,0.0,0.0,1.0,neutral,Dracula
+"She smiled, and gave some message to an elderly man in white shirt-sleeves, who had followed her to the door.",0.5423,0.156,0.0,0.844,positive,Dracula
+"He went, but immediately returned with a letter:-- ""My Friend.--Welcome to the Carpathians.",0.0,0.0,0.0,1.0,neutral,Dracula
+I am anxiously expecting you.,-0.2263,0.0,0.388,0.612,negative,Dracula
+Sleep well to-night.,0.2732,0.512,0.0,0.488,positive,Dracula
+At three to-morrow the diligence will start for Bukovina; a place on it is kept for you.,0.0,0.0,0.0,1.0,neutral,Dracula
+At the Borgo Pass my carriage will await you and will bring you to me.,0.1027,0.091,0.0,0.909,positive,Dracula
+"I trust that your journey from London has been a happy one, and that you will enjoy your stay in my beautiful land.",0.9337,0.453,0.0,0.547,positive,Dracula
+"""Your friend, "" Dracula .""",0.4939,0.516,0.0,0.484,positive,Dracula
+4 May.,0.0,0.0,0.0,1.0,neutral,Dracula
+"--I found that my landlord had got a letter from the Count, directing him to secure the best place on the coach for me; but on making inquiries as to details he seemed somewhat reticent, and pretended that he could not understand my German.",0.5106,0.095,0.0,0.905,positive,Dracula
+"This could not be true, because up to then he had understood it perfectly; at least, he answered my questions exactly as if he did.",0.4344,0.142,0.079,0.779,positive,Dracula
+"He and his wife, the old lady who had received me, looked at each other in a frightened sort of way.",-0.4404,0.0,0.132,0.868,negative,Dracula
+"He mumbled out that the money had been sent in a letter, and that was all he knew.",0.0,0.0,0.0,1.0,neutral,Dracula
+"When I asked him if he knew Count Dracula, and could tell me anything of his castle, both he and his wife crossed themselves, and, saying that they knew nothing at all, simply refused to speak further.",-0.296,0.0,0.059,0.941,negative,Dracula
+"It was so near the time of starting that I had no time to ask any one else, for it was all very mysterious and not by any means comforting.",0.128,0.085,0.069,0.846,positive,Dracula
+"Just before I was leaving, the old lady came up to my room and said in a very hysterical way: ""Must you go?",-0.101,0.0,0.065,0.935,negative,Dracula
+Oh!,0.0,0.0,0.0,1.0,neutral,Dracula
+"young Herr, must you go?""",0.0,0.0,0.0,1.0,neutral,Dracula
+"She was in such an excited state that she seemed to have lost her grip of what German she knew, and mixed it all up with some other language which I did not know at all.",0.0258,0.064,0.061,0.875,neutral,Dracula
+I was just able to follow her by asking many questions.,0.0,0.0,0.0,1.0,neutral,Dracula
+"When I told her that I must go at once, and that I was engaged on important business, she asked again: ""Do you know what day it is?""",0.5423,0.164,0.0,0.836,positive,Dracula
+I answered that it was the fourth of May.,0.0,0.0,0.0,1.0,neutral,Dracula
+"She shook her head as she said again: ""Oh, yes!",0.3802,0.241,0.113,0.646,positive,Dracula
+I know that!,0.0,0.0,0.0,1.0,neutral,Dracula
+"I know that, but do you know what day it is?""",0.0,0.0,0.0,1.0,neutral,Dracula
+"On my saying that I did not understand, she went on: ""It is the eve of St. George's Day.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Do you not know that to-night, when the clock strikes midnight, all the evil things in the world will have full sway?",-0.7845,0.0,0.257,0.743,negative,Dracula
+"Do you know where you are going, and what you are going to?""",0.0,0.0,0.0,1.0,neutral,Dracula
+"She was in such evident distress that I tried to comfort her, but without effect.",-0.1154,0.11,0.138,0.752,negative,Dracula
+Finally she went down on her knees and implored me not to go; at least to wait a day or two before starting.,0.0,0.0,0.0,1.0,neutral,Dracula
+It was all very ridiculous but I did not feel comfortable.,-0.6651,0.0,0.405,0.595,negative,Dracula
+"However, there was business to be done, and I could allow nothing to interfere with it.",0.2263,0.119,0.0,0.881,positive,Dracula
+"I therefore tried to raise her up, and said, as gravely as I could, that I thanked her, but my duty was imperative, and that I must go.",0.0516,0.076,0.068,0.856,positive,Dracula
+"She then rose and dried her eyes, and taking a crucifix from her neck offered it to me.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I did not know what to do, for, as an English Churchman, I have been taught to regard such things as in some measure idolatrous, and yet it seemed so ungracious to refuse an old lady meaning so well and in such a state of mind.",0.0715,0.059,0.053,0.887,positive,Dracula
+"She saw, I suppose, the doubt in my face, for she put the rosary round my neck, and said, ""For your mother's sake,"" and went out of the room.",-0.3612,0.0,0.085,0.915,negative,Dracula
+"I am writing up this part of the diary whilst I am waiting for the coach, which is, of course, late; and the crucifix is still round my neck.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Whether it is the old lady's fear, or the many ghostly traditions of this place, or the crucifix itself, I do not know, but I am not feeling nearly as easy in my mind as usual.",0.2948,0.1,0.095,0.805,positive,Dracula
+"If this book should ever reach Mina before I do, let it bring my good-bye.",0.0258,0.078,0.0,0.922,neutral,Dracula
+Here comes the coach!,0.0,0.0,0.0,1.0,neutral,Dracula
+5 May.,0.0,0.0,0.0,1.0,neutral,Dracula
+The Castle.,0.0,0.0,0.0,1.0,neutral,Dracula
+"--The grey of the morning has passed, and the sun is high over the distant horizon, which seems jagged, whether with trees or hills I know not, for it is so far off that big things and little are mixed.",0.0516,0.031,0.0,0.969,positive,Dracula
+"I am not sleepy, and, as I am not to be called till I awake, naturally I write till sleep comes.",0.0,0.0,0.0,1.0,neutral,Dracula
+"There are many odd things to put down, and, lest who reads them may fancy that I dined too well before I left Bistritz, let me put down my dinner exactly.",-0.0516,0.067,0.073,0.86,negative,Dracula
+"I dined on what they called ""robber steak""--bits of bacon, onion, and beef, seasoned with red pepper, and strung on sticks and roasted over the fire, in the simple style of the London cat's meat!",-0.7424,0.0,0.164,0.836,negative,Dracula
+"The wine was Golden Mediasch, which produces a queer sting on the tongue, which is, however, not disagreeable.",0.3089,0.124,0.0,0.876,positive,Dracula
+"I had only a couple of glasses of this, and nothing else.",0.0,0.0,0.0,1.0,neutral,Dracula
+"When I got on the coach the driver had not taken his seat, and I saw him talking with the landlady.",0.0,0.0,0.0,1.0,neutral,Dracula
+"They were evidently talking of me, for every now and then they looked at me, and some of the people who were sitting on the bench outside the door--which they call by a name meaning ""word-bearer""--came and listened, and then looked at me, most of them pityingly.",-0.3102,0.0,0.048,0.952,negative,Dracula
+"I could hear a lot of words often repeated, queer words, for there were many nationalities in the crowd; so I quietly got my polyglot dictionary from my bag and looked them out.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I must say they were not cheering to me, for amongst them were ""Ordog""--Satan, ""pokol""--hell, ""stregoica""--witch, ""vrolok"" and ""vlkoslak""--both of which mean the same thing, one being Slovak and the other Servian for something that is either were-wolf or vampire.",-0.4023,0.0,0.066,0.934,negative,Dracula
+( Mem.,0.0,0.0,0.0,1.0,neutral,Dracula
+", I must ask the Count about these superstitions) When we started, the crowd round the inn door, which had by this time swelled to a considerable size, all made the sign of the cross and pointed two fingers towards me.",0.0,0.0,0.0,1.0,neutral,Dracula
+"With some difficulty I got a fellow-passenger to tell me what they meant; he would not answer at first, but on learning that I was English, he explained that it was a charm or guard against the evil eye.",-0.6428,0.082,0.18,0.738,negative,Dracula
+"This was not very pleasant for me, just starting for an unknown place to meet an unknown man; but every one seemed so kind-hearted, and so sorrowful, and so sympathetic that I could not but be touched.",-0.4106,0.107,0.168,0.725,negative,Dracula
+"I shall never forget the last glimpse which I had of the inn-yard and its crowd of picturesque figures, all crossing themselves, as they stood round the wide archway, with its background of rich foliage of oleander and orange trees in green tubs clustered in the centre of the yard.",0.7824,0.149,0.0,0.851,positive,Dracula
+"Then our driver, whose wide linen drawers covered the whole front of the box-seat--""gotza"" they call them--cracked his big whip over his four small horses, which ran abreast, and we set off on our journey.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I soon lost sight and recollection of ghostly fears in the beauty of the scene as we drove along, although had I known the language, or rather languages, which my fellow-passengers were speaking, I might not have been able to throw them off so easily.",0.4246,0.138,0.102,0.76,positive,Dracula
+"Before us lay a green sloping land full of forests and woods, with here and there steep hills, crowned with clumps of trees or with farmhouses, the blank gable end to the road.",0.0,0.0,0.0,1.0,neutral,Dracula
+"There was everywhere a bewildering mass of fruit blossom--apple, plum, pear, cherry; and as we drove by I could see the green grass under the trees spangled with the fallen petals.",-0.3612,0.0,0.082,0.918,negative,Dracula
+"In and out amongst these green hills of what they call here the ""Mittel Land"" ran the road, losing itself as it swept round the grassy curve, or was shut out by the straggling ends of pine woods, which here and there ran down the hillsides like tongues of flame.",-0.0258,0.047,0.049,0.904,neutral,Dracula
+"The road was rugged, but still we seemed to fly over it with a feverish haste.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I could not understand then what the haste meant, but the driver was evidently bent on losing no time in reaching Borgo Prund.",-0.6124,0.08,0.226,0.693,negative,Dracula
+"I was told that this road is in summertime excellent, but that it had not yet been put in order after the winter snows.",0.3291,0.097,0.0,0.903,positive,Dracula
+"In this respect it is different from the general run of roads in the Carpathians, for it is an old tradition that they are not to be kept in too good order.",0.7184,0.167,0.0,0.833,positive,Dracula
+"Of old the Hospadars would not repair them, lest the Turk should think that they were preparing to bring in foreign troops, and so hasten the war which was always really at loading point.",-0.6326,0.0,0.112,0.888,negative,Dracula
+Beyond the green swelling hills of the Mittel Land rose mighty slopes of forest up to the lofty steeps of the Carpathians themselves.,0.0,0.0,0.0,1.0,neutral,Dracula
+"Right and left of us they towered, with the afternoon sun falling full upon them and bringing out all the glorious colours of this beautiful range, deep blue and purple in the shadows of the peaks, green and brown where grass and rock mingled, and an endless perspective of jagged rock and pointed crags, till these were themselves lost in the distance, where the snowy peaks rose grandly.",0.7861,0.115,0.051,0.834,positive,Dracula
+"Here and there seemed mighty rifts in the mountains, through which, as the sun began to sink, we saw now and again the white gleam of falling water.",-0.1531,0.0,0.056,0.944,negative,Dracula
+"One of my companions touched my arm as we swept round the base of a hill and opened up the lofty, snow-covered peak of a mountain, which seemed, as we wound on our serpentine way, to be right before us:-- ""Look!",0.0,0.0,0.0,1.0,neutral,Dracula
+"Isten szek!""",0.0,0.0,0.0,1.0,neutral,Dracula
+"--""God's seat!""",0.0,0.0,0.0,1.0,neutral,Dracula
+--and he crossed himself reverently.,0.0,0.0,0.0,1.0,neutral,Dracula
+"As we wound on our endless way, and the sun sank lower and lower behind us, the shadows of the evening began to creep round us.",-0.5267,0.0,0.155,0.845,negative,Dracula
+"This was emphasised by the fact that the snowy mountain-top still held the sunset, and seemed to glow out with a delicate cool pink.",0.3612,0.143,0.0,0.857,positive,Dracula
+"Here and there we passed Cszeks and Slovaks, all in picturesque attire, but I noticed that goitre was painfully prevalent.",-0.5859,0.077,0.197,0.726,negative,Dracula
+"By the roadside were many crosses, and as we swept by, my companions all crossed themselves.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Here and there was a peasant man or woman kneeling before a shrine, who did not even turn round as we approached, but seemed in the self-surrender of devotion to have neither eyes nor ears for the outer world.",0.6124,0.1,0.0,0.9,positive,Dracula
+"There were many things new to me: for instance, hay-ricks in the trees, and here and there very beautiful masses of weeping birch, their white stems shining like silver through the delicate green of the leaves.",0.6115,0.184,0.068,0.748,positive,Dracula
+"Now and again we passed a leiter-wagon--the ordinary peasant's cart--with its long, snake-like vertebra, calculated to suit the inequalities of the road.",0.0,0.0,0.0,1.0,neutral,Dracula
+"On this were sure to be seated quite a group of home-coming peasants, the Cszeks with their white, and the Slovaks with their coloured, sheepskins, the latter carrying lance-fashion their long staves, with axe at end.",0.2263,0.063,0.038,0.899,positive,Dracula
+"As the evening fell it began to get very cold, and the growing twilight seemed to merge into one dark mistiness the gloom of the trees, oak, beech, and pine, though in the valleys which ran deep between the spurs of the hills, as we ascended through the Pass, the dark firs stood out here and there against the background of late-lying snow.",-0.4404,0.026,0.054,0.92,negative,Dracula
+"Sometimes, as the road was cut through the pine woods that seemed in the darkness to be closing down upon us, great masses of greyness, which here and there bestrewed the trees, produced a peculiarly weird and solemn effect, which carried on the thoughts and grim fancies engendered earlier in the evening, when the falling sunset threw into strange relief the ghost-like clouds which amongst the Carpathians seem to wind ceaselessly through the valleys.",-0.5267,0.084,0.182,0.734,negative,Dracula
+"Sometimes the hills were so steep that, despite our driver's haste, the horses could only go slowly.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I wished to get down and walk up them, as we do at home, but the driver would not hear of it.",0.0,0.0,0.0,1.0,neutral,Dracula
+"""No, no,"" he said; ""you must not walk here; the dogs are too fierce""; and then he added, with what he evidently meant for grim pleasantry--for he looked round to catch the approving smile of the rest--""and you may have enough of such matters before you go to sleep.""",-0.2732,0.068,0.069,0.863,negative,Dracula
+The only stop he would make was a moment's pause to light his lamps.,-0.296,0.0,0.155,0.845,negative,Dracula
+"When it grew dark there seemed to be some excitement amongst the passengers, and they kept speaking to him, one after the other, as though urging him to further speed.",0.4939,0.099,0.0,0.901,positive,Dracula
+"He lashed the horses unmercifully with his long whip, and with wild cries of encouragement urged them on to further exertions.",0.0258,0.114,0.11,0.776,neutral,Dracula
+"Then through the darkness I could see a sort of patch of grey light ahead of us, as though there were a cleft in the hills.",-0.2023,0.05,0.083,0.868,negative,Dracula
+"The excitement of the passengers grew greater; the crazy coach rocked on its great leather springs, and swayed like a boat tossed on a stormy sea.",0.872,0.365,0.071,0.564,positive,Dracula
+I had to hold on.,0.0,0.0,0.0,1.0,neutral,Dracula
+"The road grew more level, and we appeared to fly along.",0.0,0.0,0.0,1.0,neutral,Dracula
+Then the mountains seemed to come nearer to us on each side and to frown down upon us; we were entering on the Borgo Pass.,0.0,0.0,0.0,1.0,neutral,Dracula
+"One by one several of the passengers offered me gifts, which they pressed upon me with an earnestness which would take no denial; these were certainly of an odd and varied kind, but each was given in simple good faith, with a kindly word, and a blessing, and that strange mixture of fear-meaning movements which I had seen outside the hotel at Bistritz--the sign of the cross and the guard against the evil eye.",0.8591,0.217,0.125,0.659,positive,Dracula
+"Then, as we flew along, the driver leaned forward, and on each side the passengers, craning over the edge of the coach, peered eagerly into the darkness.",0.1531,0.088,0.068,0.845,positive,Dracula
+"It was evident that something very exciting was either happening or expected, but though I asked each passenger, no one would give me the slightest explanation.",-0.1415,0.08,0.1,0.82,negative,Dracula
+This state of excitement kept on for some little time; and at last we saw before us the Pass opening out on the eastern side.,0.4939,0.118,0.0,0.882,positive,Dracula
+"There were dark, rolling clouds overhead, and in the air the heavy, oppressive sense of thunder.",-0.4019,0.0,0.153,0.847,negative,Dracula
+"It seemed as though the mountain range had separated two atmospheres, and that now we had got into the thunderous one.",0.0,0.0,0.0,1.0,neutral,Dracula
+I was now myself looking out for the conveyance which was to take me to the Count.,0.0,0.0,0.0,1.0,neutral,Dracula
+Each moment I expected to see the glare of lamps through the blackness; but all was dark.,0.0,0.0,0.0,1.0,neutral,Dracula
+"The only light was the flickering rays of our own lamps, in which the steam from our hard-driven horses rose in a white cloud.",0.0,0.0,0.0,1.0,neutral,Dracula
+"We could see now the sandy road lying white before us, but there was on it no sign of a vehicle.",-0.6124,0.0,0.217,0.783,negative,Dracula
+"The passengers drew back with a sigh of gladness, which seemed to mock my own disappointment.",-0.7184,0.057,0.318,0.625,negative,Dracula
+"I was already thinking what I had best do, when the driver, looking at his watch, said to the others something which I could hardly hear, it was spoken so quietly and in so low a tone; I thought it was ""An hour less than the time.""",0.3525,0.089,0.058,0.852,positive,Dracula
+"Then turning to me, he said in German worse than my own:-- ""There is no carriage here.",-0.6486,0.0,0.261,0.739,negative,Dracula
+The Herr is not expected after all.,0.0,0.0,0.0,1.0,neutral,Dracula
+"He will now come on to Bukovina, and return to-morrow or the next day; better the next day.""",0.4404,0.146,0.0,0.854,positive,Dracula
+"Whilst he was speaking the horses began to neigh and snort and plunge wildly, so that the driver had to hold them up.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Then, amongst a chorus of screams from the peasants and a universal crossing of themselves, a calèche, with four horses, drove up behind us, overtook us, and drew up beside the coach.",-0.296,0.0,0.073,0.927,negative,Dracula
+"I could see from the flash of our lamps, as the rays fell on them, that the horses were coal-black and splendid animals.",0.5859,0.153,0.0,0.847,positive,Dracula
+"They were driven by a tall man, with a long brown beard and a great black hat, which seemed to hide his face from us.",0.5267,0.159,0.066,0.775,positive,Dracula
+"I could only see the gleam of a pair of very bright eyes, which seemed red in the lamplight, as he turned to us.",0.4927,0.132,0.0,0.868,positive,Dracula
+"He said to the driver:-- ""You are early to-night, my friend.""",0.0,0.0,0.0,1.0,neutral,Dracula
+"The man stammered in reply:-- ""The English Herr was in a hurry,"" to which the stranger replied:-- ""That is why, I suppose, you wished him to go on to Bukovina.",-0.2263,0.0,0.066,0.934,negative,Dracula
+"You cannot deceive me, my friend; I know too much, and my horses are swift.""",0.666,0.313,0.0,0.687,positive,Dracula
+"As he spoke he smiled, and the lamplight fell on a hard-looking mouth, with very red lips and sharp-looking teeth, as white as ivory.",0.5423,0.137,0.0,0.863,positive,Dracula
+"One of my companions whispered to another the line from Burger's ""Lenore"":-- ""Denn die Todten reiten schnell""-- (""For the dead travel fast."")",-0.8481,0.0,0.291,0.709,negative,Dracula
+"The strange driver evidently heard the words, for he looked up with a gleaming smile.",0.1779,0.153,0.11,0.736,positive,Dracula
+"The passenger turned his face away, at the same time putting out his two fingers and crossing himself.",0.0,0.0,0.0,1.0,neutral,Dracula
+"""Give me the Herr's luggage,"" said the driver; and with exceeding alacrity my bags were handed out and put in the calèche.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Then I descended from the side of the coach, as the calèche was close alongside, the driver helping me with a hand which caught my arm in a grip of steel; his strength must have been prodigious.",0.8225,0.217,0.0,0.783,positive,Dracula
+"Without a word he shook his reins, the horses turned, and we swept into the darkness of the Pass.",-0.1788,0.067,0.104,0.829,negative,Dracula
+"As I looked back I saw the steam from the horses of the coach by the light of the lamps, and projected against it the figures of my late companions crossing themselves.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Then the driver cracked his whip and called to his horses, and off they swept on their way to Bukovina.",0.0,0.0,0.0,1.0,neutral,Dracula
+"As they sank into the darkness I felt a strange chill, and a lonely feeling came over me; but a cloak was thrown over my shoulders, and a rug across my knees, and the driver said in excellent German:-- ""The night is chill, mein Herr, and my master the Count bade me take all care of you.",0.8381,0.173,0.076,0.751,positive,Dracula
+"There is a flask of slivovitz (the plum brandy of the country) underneath the seat, if you should require it.""",0.0,0.0,0.0,1.0,neutral,Dracula
+"I did not take any, but it was a comfort to know it was there all the same.",0.5023,0.178,0.0,0.822,positive,Dracula
+"I felt a little strangely, and not a little frightened.",0.0727,0.241,0.21,0.55,positive,Dracula
+"I think had there been any alternative I should have taken it, instead of prosecuting that unknown night journey.",0.0,0.0,0.0,1.0,neutral,Dracula
+"The carriage went at a hard pace straight along, then we made a complete turn and went along another straight road.",0.34,0.179,0.066,0.755,positive,Dracula
+"It seemed to me that we were simply going over and over the same ground again; and so I took note of some salient point, and found that this was so.",0.2732,0.068,0.0,0.932,positive,Dracula
+"I would have liked to have asked the driver what this all meant, but I really feared to do so, for I thought that, placed as I was, any protest would have had no effect in case there had been an intention to delay.",-0.902,0.038,0.26,0.702,negative,Dracula
+"By-and-by, however, as I was curious to know how time was passing, I struck a match, and by its flame looked at my watch; it was within a few minutes of midnight.",0.0772,0.076,0.066,0.858,positive,Dracula
+"This gave me a sort of shock, for I suppose the general superstition about midnight was increased by my recent experiences.",-0.2006,0.095,0.132,0.773,negative,Dracula
+I waited with a sick feeling of suspense.,-0.4215,0.17,0.375,0.455,negative,Dracula
+"Then a dog began to howl somewhere in a farmhouse far down the road--a long, agonised wailing, as if from fear.",-0.7579,0.0,0.277,0.723,negative,Dracula
+"The sound was taken up by another dog, and then another and another, till, borne on the wind which now sighed softly through the Pass, a wild howling began, which seemed to come from all over the country, as far as the imagination could grasp it through the gloom of the night.",-0.5574,0.0,0.067,0.933,negative,Dracula
+"At the first howl the horses began to strain and rear, but the driver spoke to them soothingly, and they quieted down, but shivered and sweated as though after a runaway from sudden fright.",-0.5423,0.0,0.127,0.873,negative,Dracula
+"Then, far off in the distance, from the mountains on each side of us began a louder and a sharper howling--that of wolves--which affected both the horses and myself in the same way--for I was minded to jump from the calèche and run, whilst they reared again and plunged madly, so that the driver had to use all his great strength to keep them from bolting.",0.6124,0.103,0.061,0.836,positive,Dracula
+"In a few minutes, however, my own ears got accustomed to the sound, and the horses so far became quiet that the driver was able to descend and to stand before them.",0.0,0.0,0.0,1.0,neutral,Dracula
+"He petted and soothed them, and whispered something in their ears, as I have heard of horse-tamers doing, and with extraordinary effect, for under his caresses they became quite manageable again, though they still trembled.",-0.1531,0.042,0.059,0.899,negative,Dracula
+"The driver again took his seat, and shaking his reins, started off at a great pace.",0.5267,0.218,0.09,0.691,positive,Dracula
+"This time, after going to the far side of the Pass, he suddenly turned down a narrow roadway which ran sharply to the right.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Soon we were hemmed in with trees, which in places arched right over the roadway till we passed as through a tunnel; and again great frowning rocks guarded us boldly on either side.",0.6369,0.174,0.063,0.763,positive,Dracula
+"Though we were in shelter, we could hear the rising wind, for it moaned and whistled through the rocks, and the branches of the trees crashed together as we swept along.",-0.1027,0.0,0.045,0.955,negative,Dracula
+"It grew colder and colder still, and fine, powdery snow began to fall, so that soon we and all around us were covered with a white blanket.",0.2023,0.067,0.0,0.933,positive,Dracula
+"The keen wind still carried the howling of the dogs, though this grew fainter as we went on our way.",0.3612,0.116,0.0,0.884,positive,Dracula
+"The baying of the wolves sounded nearer and nearer, as though they were closing round on us from every side.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I grew dreadfully afraid, and the horses shared my fear.",-0.6705,0.157,0.451,0.392,negative,Dracula
+"The driver, however, was not in the least disturbed; he kept turning his head to left and right, but I could not see anything through the darkness.",-0.2283,0.057,0.089,0.854,negative,Dracula
+"Suddenly, away on our left, I saw a faint flickering blue flame.",0.0,0.0,0.0,1.0,neutral,Dracula
+"The driver saw it at the same moment; he at once checked the horses, and, jumping to the ground, disappeared into the darkness.",-0.4404,0.0,0.157,0.843,negative,Dracula
+"I did not know what to do, the less as the howling of the wolves grew closer; but while I wondered the driver suddenly appeared again, and without a word took his seat, and we resumed our journey.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I think I must have fallen asleep and kept dreaming of the incident, for it seemed to be repeated endlessly, and now looking back, it is like a sort of awful nightmare.",-0.4588,0.074,0.162,0.765,negative,Dracula
+"Once the flame appeared so near the road, that even in the darkness around us I could watch the driver's motions.",-0.25,0.0,0.095,0.905,negative,Dracula
+"He went rapidly to where the blue flame arose--it must have been very faint, for it did not seem to illumine the place around it at all--and gathering a few stones, formed them into some device.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Once there appeared a strange optical effect: when he stood between me and the flame he did not obstruct it, for I could see its ghostly flicker all the same.",-0.2023,0.0,0.062,0.938,negative,Dracula
+"This startled me, but as the effect was only momentary, I took it that my eyes deceived me straining through the darkness.",-0.8641,0.0,0.385,0.615,negative,Dracula
+"Then for a time there were no blue flames, and we sped onwards through the gloom, with the howling of the wolves around us, as though they were following in a moving circle.",-0.7003,0.0,0.167,0.833,negative,Dracula
+"At last there came a time when the driver went further afield than he had yet gone, and during his absence, the horses began to tremble worse than ever and to snort and scream with fright.",-0.8591,0.0,0.253,0.747,negative,Dracula
+"I could not see any cause for it, for the howling of the wolves had ceased altogether; but just then the moon, sailing through the black clouds, appeared behind the jagged crest of a beetling, pine-clad rock, and by its light I saw around us a ring of wolves, with white teeth and lolling red tongues, with long, sinewy limbs and shaggy hair.",0.0,0.0,0.0,1.0,neutral,Dracula
+They were a hundred times more terrible in the grim silence which held them than even when they howled.,-0.796,0.0,0.307,0.693,negative,Dracula
+"For myself, I felt a sort of paralysis of fear.",-0.4939,0.0,0.314,0.686,negative,Dracula
+It is only when a man feels himself face to face with such horrors that he can understand their true import.,-0.2263,0.114,0.151,0.735,negative,Dracula
+All at once the wolves began to howl as though the moonlight had had some peculiar effect on them.,0.1531,0.082,0.0,0.918,positive,Dracula
+"The horses jumped about and reared, and looked helplessly round with eyes that rolled in a way painful to see; but the living ring of terror encompassed them on every side; and they had perforce to remain within it.",-0.8047,0.0,0.191,0.809,negative,Dracula
+"I called to the coachman to come, for it seemed to me that our only chance was to try to break out through the ring and to aid his approach.",0.25,0.067,0.0,0.933,positive,Dracula
+"I shouted and beat the side of the calèche, hoping by the noise to scare the wolves from that side, so as to give him a chance of reaching the trap.",0.0258,0.183,0.152,0.665,neutral,Dracula
+"How he came there, I know not, but I heard his voice raised in a tone of imperious command, and looking towards the sound, saw him stand in the roadway.",0.0,0.0,0.0,1.0,neutral,Dracula
+"As he swept his long arms, as though brushing aside some impalpable obstacle, the wolves fell back and back further still.",-0.3612,0.0,0.111,0.889,negative,Dracula
+"Just then a heavy cloud passed across the face of the moon, so that we were again in darkness.",-0.25,0.0,0.105,0.895,negative,Dracula
+"When I could see again the driver was climbing into the calèche, and the wolves had disappeared.",-0.2263,0.0,0.112,0.888,negative,Dracula
+"This was all so strange and uncanny that a dreadful fear came upon me, and I was afraid to speak or move.",-0.816,0.0,0.332,0.668,negative,Dracula
+"The time seemed interminable as we swept on our way, now in almost complete darkness, for the rolling clouds obscured the moon.",-0.1832,0.0,0.076,0.924,negative,Dracula
+"We kept on ascending, with occasional periods of quick descent, but in the main always ascending.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Suddenly, I became conscious of the fact that the driver was in the act of pulling up the horses in the courtyard of a vast ruined castle, from whose tall black windows came no ray of light, and whose broken battlements showed a jagged line against the moonlit sky.",-0.8316,0.0,0.189,0.811,negative,Dracula
+CHAPTER II JONATHAN HARKER'S JOURNAL-- continued 5 May.,0.0,0.0,0.0,1.0,neutral,Dracula
+"--I must have been asleep, for certainly if I had been fully awake I must have noticed the approach of such a remarkable place.",0.7184,0.24,0.0,0.76,positive,Dracula
+"In the gloom the courtyard looked of considerable size, and as several dark ways led from it under great round arches, it perhaps seemed bigger than it really is.",0.128,0.118,0.104,0.778,positive,Dracula
+I have not yet been able to see it by daylight.,0.0,0.0,0.0,1.0,neutral,Dracula
+"When the calèche stopped, the driver jumped down and held out his hand to assist me to alight.",0.3182,0.152,0.09,0.758,positive,Dracula
+Again I could not but notice his prodigious strength.,0.6486,0.381,0.0,0.619,positive,Dracula
+His hand actually seemed like a steel vice that could have crushed mine if he had chosen.,0.4404,0.265,0.13,0.605,positive,Dracula
+"Then he took out my traps, and placed them on the ground beside me as I stood close to a great door, old and studded with large iron nails, and set in a projecting doorway of massive stone.",0.6249,0.108,0.0,0.892,positive,Dracula
+"I could see even in the dim light that the stone was massively carved, but that the carving had been much worn by time and weather.",-0.4215,0.0,0.104,0.896,negative,Dracula
+"As I stood, the driver jumped again into his seat and shook the reins; the horses started forward, and trap and all disappeared down one of the dark openings.",-0.5574,0.0,0.183,0.817,negative,Dracula
+"I stood in silence where I was, for I did not know what to do.",0.0,0.0,0.0,1.0,neutral,Dracula
+Of bell or knocker there was no sign; through these frowning walls and dark window openings it was not likely that my voice could penetrate.,-0.5574,0.0,0.167,0.833,negative,Dracula
+"The time I waited seemed endless, and I felt doubts and fears crowding upon me.",-0.6124,0.0,0.312,0.688,negative,Dracula
+"What sort of place had I come to, and among what kind of people?",0.0,0.0,0.0,1.0,neutral,Dracula
+What sort of grim adventure was it on which I had embarked?,-0.4563,0.134,0.266,0.6,negative,Dracula
+Was this a customary incident in the life of a solicitor's clerk sent out to explain the purchase of a London estate to a foreigner?,0.0,0.0,0.0,1.0,neutral,Dracula
+Solicitor's clerk!,0.0,0.0,0.0,1.0,neutral,Dracula
+Mina would not like that.,-0.2755,0.0,0.345,0.655,negative,Dracula
+Solicitor--for just before leaving London I got word that my examination was successful; and I am now a full-blown solicitor!,0.6239,0.204,0.0,0.796,positive,Dracula
+I began to rub my eyes and pinch myself to see if I were awake.,0.0,0.0,0.0,1.0,neutral,Dracula
+"It all seemed like a horrible nightmare to me, and I expected that I should suddenly awake, and find myself at home, with the dawn struggling in through the windows, as I had now and again felt in the morning after a day of overwork.",-0.5859,0.055,0.138,0.808,negative,Dracula
+"But my flesh answered the pinching test, and my eyes were not to be deceived.",0.4782,0.182,0.0,0.818,positive,Dracula
+I was indeed awake and among the Carpathians.,0.0,0.0,0.0,1.0,neutral,Dracula
+"All I could do now was to be patient, and to wait the coming of the morning.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Just as I had come to this conclusion I heard a heavy step approaching behind the great door, and saw through the chinks the gleam of a coming light.",0.6249,0.146,0.0,0.854,positive,Dracula
+Then there was the sound of rattling chains and the clanking of massive bolts drawn back.,0.0,0.0,0.0,1.0,neutral,Dracula
+"A key was turned with the loud grating noise of long disuse, and the great door swung back.",0.5719,0.2,0.068,0.732,positive,Dracula
+"Within, stood a tall old man, clean shaven save for a long white moustache, and clad in black from head to foot, without a single speck of colour about him anywhere.",0.7096,0.185,0.0,0.815,positive,Dracula
+"He held in his hand an antique silver lamp, in which the flame burned without chimney or globe of any kind, throwing long quivering shadows as it flickered in the draught of the open door.",0.765,0.167,0.0,0.833,positive,Dracula
+"The old man motioned me in with his right hand with a courtly gesture, saying in excellent English, but with a strange intonation:-- ""Welcome to my house!",0.7609,0.274,0.069,0.657,positive,Dracula
+"Enter freely and of your own will!""",0.4926,0.347,0.0,0.653,positive,Dracula
+"He made no motion of stepping to meet me, but stood like a statue, as though his gesture of welcome had fixed him into stone.",0.7684,0.243,0.054,0.704,positive,Dracula
+"The instant, however, that I had stepped over the threshold, he moved impulsively forward, and holding out his hand grasped mine with a strength which made me wince, an effect which was not lessened by the fact that it seemed as cold as ice--more like the hand of a dead than a living man.",0.7783,0.197,0.07,0.733,positive,Dracula
+"Again he said:-- ""Welcome to my house.",0.4588,0.333,0.0,0.667,positive,Dracula
+Come freely.,0.4404,0.744,0.0,0.256,positive,Dracula
+"Go safely; and leave something of the happiness you bring!""",0.784,0.464,0.078,0.458,positive,Dracula
+"The strength of the handshake was so much akin to that which I had noticed in the driver, whose face I had not seen, that for a moment I doubted if it were not the same person to whom I was speaking; so to make sure, I said interrogatively:-- ""Count Dracula?""",0.5667,0.116,0.042,0.842,positive,Dracula
+"He bowed in a courtly way as he replied:-- ""I am Dracula; and I bid you welcome, Mr. Harker, to my house.",0.4588,0.136,0.0,0.864,positive,Dracula
+"Come in; the night air is chill, and you must need to eat and rest.""",0.0,0.0,0.0,1.0,neutral,Dracula
+"As he was speaking, he put the lamp on a bracket on the wall, and stepping out, took my luggage; he had carried it in before I could forestall him.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I protested but he insisted:-- ""Nay, sir, you are my guest.",-0.0644,0.0,0.122,0.878,negative,Dracula
+"It is late, and my people are not available.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Let me see to your comfort myself.""",0.3612,0.294,0.0,0.706,positive,Dracula
+"He insisted on carrying my traps along the passage, and then up a great winding stair, and along another great passage, on whose stone floor our steps rang heavily.",0.8481,0.24,0.0,0.76,positive,Dracula
+"At the end of this he threw open a heavy door, and I rejoiced to see within a well-lit room in which a table was spread for supper, and on whose mighty hearth a great fire of logs, freshly replenished, flamed and flared.",0.6908,0.16,0.054,0.787,positive,Dracula
+"The Count halted, putting down my bags, closed the door, and crossing the room, opened another door, which led into a small octagonal room lit by a single lamp, and seemingly without a window of any sort.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Passing through this, he opened another door, and motioned me to enter.",0.0,0.0,0.0,1.0,neutral,Dracula
+"It was a welcome sight; for here was a great bedroom well lighted and warmed with another log fire,--also added to but lately, for the top logs were fresh--which sent a hollow roar up the wide chimney.",0.7814,0.254,0.0,0.746,positive,Dracula
+"The Count himself left my luggage inside and withdrew, saying, before he closed the door:-- ""You will need, after your journey, to refresh yourself by making your toilet.",0.0,0.0,0.0,1.0,neutral,Dracula
+I trust you will find all you wish.,0.7184,0.545,0.0,0.455,positive,Dracula
+"When you are ready, come into the other room, where you will find your supper prepared.""",0.3612,0.143,0.0,0.857,positive,Dracula
+The light and warmth and the Count's courteous welcome seemed to have dissipated all my doubts and fears.,0.6486,0.341,0.183,0.476,positive,Dracula
+"Having then reached my normal state, I discovered that I was half famished with hunger; so making a hasty toilet, I went into the other room.",-0.1531,0.06,0.085,0.855,negative,Dracula
+I found supper already laid out.,0.0,0.0,0.0,1.0,neutral,Dracula
+"My host, who stood on one side of the great fireplace, leaning against the stonework, made a graceful wave of his hand to the table, and said:-- ""I pray you, be seated and sup how you please.",0.9313,0.325,0.0,0.675,positive,Dracula
+"You will, I trust, excuse me that I do not join you; but I have dined already, and I do not sup.""",0.2158,0.167,0.073,0.76,positive,Dracula
+I handed to him the sealed letter which Mr. Hawkins had entrusted to me.,0.2023,0.13,0.0,0.87,positive,Dracula
+"He opened it and read it gravely; then, with a charming smile, he handed it to me to read.",0.5859,0.265,0.105,0.63,positive,Dracula
+"One passage of it, at least, gave me a thrill of pleasure.",0.7351,0.408,0.0,0.592,positive,Dracula
+"""I must regret that an attack of gout, from which malady I am a constant sufferer, forbids absolutely any travelling on my part for some time to come; but I am happy to say I can send a sufficient substitute, one in whom I have every possible confidence.",0.7096,0.179,0.143,0.678,positive,Dracula
+"He is a young man, full of energy and talent in his own way, and of a very faithful disposition.",0.796,0.35,0.0,0.65,positive,Dracula
+"He is discreet and silent, and has grown into manhood in my service.",0.0,0.0,0.0,1.0,neutral,Dracula
+"He shall be ready to attend on you when you will during his stay, and shall take your instructions in all matters.""",0.3612,0.106,0.0,0.894,positive,Dracula
+"The Count himself came forward and took off the cover of a dish, and I fell to at once on an excellent roast chicken.",0.5719,0.15,0.0,0.85,positive,Dracula
+"This, with some cheese and a salad and a bottle of old Tokay, of which I had two glasses, was my supper.",0.0,0.0,0.0,1.0,neutral,Dracula
+"During the time I was eating it the Count asked me many questions as to my journey, and I told him by degrees all I had experienced.",0.0,0.0,0.0,1.0,neutral,Dracula
+"By this time I had finished my supper, and by my host's desire had drawn up a chair by the fire and begun to smoke a cigar which he offered me, at the same time excusing himself that he did not smoke.",0.0772,0.064,0.057,0.879,positive,Dracula
+"I had now an opportunity of observing him, and found him of a very marked physiognomy.",0.4215,0.177,0.0,0.823,positive,Dracula
+"His face was a strong--a very strong--aquiline, with high bridge of the thin nose and peculiarly arched nostrils; with lofty domed forehead, and hair growing scantily round the temples but profusely elsewhere.",0.0387,0.043,0.038,0.919,neutral,Dracula
+"His eyebrows were very massive, almost meeting over the nose, and with bushy hair that seemed to curl in its own profusion.",0.0,0.0,0.0,1.0,neutral,Dracula
+"The mouth, so far as I could see it under the heavy moustache, was fixed and rather cruel-looking, with peculiarly sharp white teeth; these protruded over the lips, whose remarkable ruddiness showed astonishing vitality in a man of his years.",0.6705,0.139,0.033,0.827,positive,Dracula
+"For the rest, his ears were pale, and at the tops extremely pointed; the chin was broad and strong, and the cheeks firm though thin.",0.765,0.223,0.0,0.777,positive,Dracula
+The general effect was one of extraordinary pallor.,0.0,0.0,0.0,1.0,neutral,Dracula
+"Hitherto I had noticed the backs of his hands as they lay on his knees in the firelight, and they had seemed rather white and fine; but seeing them now close to me, I could not but notice that they were rather coarse--broad, with squat fingers.",0.0772,0.031,0.025,0.944,positive,Dracula
+"Strange to say, there were hairs in the centre of the palm.",-0.2023,0.0,0.141,0.859,negative,Dracula
+"The nails were long and fine, and cut to a sharp point.",-0.0772,0.14,0.163,0.698,negative,Dracula
+"As the Count leaned over me and his hands touched me, I could not repress a shudder.",0.2584,0.127,0.0,0.873,positive,Dracula
+"It may have been that his breath was rank, but a horrible feeling of nausea came over me, which, do what I would, I could not conceal.",-0.6124,0.061,0.167,0.772,negative,Dracula
+"The Count, evidently noticing it, drew back; and with a grim sort of smile, which showed more than he had yet done his protuberant teeth, sat himself down again on his own side of the fireplace.",-0.296,0.064,0.094,0.842,negative,Dracula
+We were both silent for a while; and as I looked towards the window I saw the first dim streak of the coming dawn.,0.0,0.0,0.0,1.0,neutral,Dracula
+There seemed a strange stillness over everything; but as I listened I heard as if from down below in the valley the howling of many wolves.,-0.1027,0.0,0.06,0.94,negative,Dracula
+"The Count's eyes gleamed, and he said:-- ""Listen to them--the children of the night.",0.0,0.0,0.0,1.0,neutral,Dracula
+"What music they make!""",0.0,0.0,0.0,1.0,neutral,Dracula
+"Seeing, I suppose, some expression in my face strange to him, he added:-- ""Ah, sir, you dwellers in the city cannot enter into the feelings of the hunter.""",-0.2732,0.0,0.11,0.89,negative,Dracula
+"Then he rose and said:-- ""But you must be tired.",-0.5927,0.0,0.3,0.7,negative,Dracula
+"Your bedroom is all ready, and to-morrow you shall sleep as late as you will.",0.3612,0.152,0.0,0.848,positive,Dracula
+"I have to be away till the afternoon; so sleep well and dream well!""",0.5676,0.298,0.0,0.702,positive,Dracula
+"With a courteous bow, he opened for me himself the door to the octagonal room, and I entered my bedroom....",0.5106,0.163,0.0,0.837,positive,Dracula
+I am all in a sea of wonders.,0.0,0.0,0.0,1.0,neutral,Dracula
+"I doubt; I fear; I think strange things, which I dare not confess to my own soul.",-0.7579,0.0,0.429,0.571,negative,Dracula
+"God keep me, if only for the sake of those dear to me!",0.6114,0.312,0.0,0.688,positive,Dracula
+7 May.,0.0,0.0,0.0,1.0,neutral,Dracula
+"--It is again early morning, but I have rested and enjoyed the last twenty-four hours.",0.6652,0.255,0.0,0.745,positive,Dracula
+"I slept till late in the day, and awoke of my own accord.",0.0,0.0,0.0,1.0,neutral,Dracula
+"When I had dressed myself I went into the room where we had supped, and found a cold breakfast laid out, with coffee kept hot by the pot being placed on the hearth.",0.0,0.0,0.0,1.0,neutral,Dracula
+"There was a card on the table, on which was written:-- ""I have to be absent for a while.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Do not wait for me.--D.""",0.0,0.0,0.0,1.0,neutral,Dracula
+I set to and enjoyed a hearty meal.,0.5106,0.398,0.0,0.602,positive,Dracula
+"When I had done, I looked for a bell, so that I might let the servants know I had finished; but I could not find one.",0.0,0.0,0.0,1.0,neutral,Dracula
+"There are certainly odd deficiencies in the house, considering the extraordinary evidences of wealth which are round me.",0.5106,0.245,0.1,0.655,positive,Dracula
+"The table service is of gold, and so beautifully wrought that it must be of immense value.",0.7987,0.323,0.0,0.677,positive,Dracula
+"The curtains and upholstery of the chairs and sofas and the hangings of my bed are of the costliest and most beautiful fabrics, and must have been of fabulous value when they were made, for they are centuries old, though in excellent order.",0.9286,0.26,0.0,0.74,positive,Dracula
+"I saw something like them in Hampton Court, but there they were worn and frayed and moth-eaten.",-0.2617,0.094,0.151,0.755,negative,Dracula
+But still in none of the rooms is there a mirror.,0.0,0.0,0.0,1.0,neutral,Dracula
+"There is not even a toilet glass on my table, and I had to get the little shaving glass from my bag before I could either shave or brush my hair.",0.0,0.0,0.0,1.0,neutral,Dracula
+"I have not yet seen a servant anywhere, or heard a sound near the castle except the howling of wolves.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Some time after I had finished my meal--I do not know whether to call it breakfast or dinner, for it was between five and six o'clock when I had it--I looked about for something to read, for I did not like to go about the castle until I had asked the Count's permission.",-0.2755,0.0,0.042,0.958,negative,Dracula
+"There was absolutely nothing in the room, book, newspaper, or even writing materials; so I opened another door in the room and found a sort of library.",0.0,0.0,0.0,1.0,neutral,Dracula
+"The door opposite mine I tried, but found it locked.",0.0,0.0,0.0,1.0,neutral,Dracula
+"In the library I found, to my great delight, a vast number of English books, whole shelves full of them, and bound volumes of magazines and newspapers.",0.8519,0.297,0.0,0.703,positive,Dracula
+"A table in the centre was littered with English magazines and newspapers, though none of them were of very recent date.",0.0,0.0,0.0,1.0,neutral,Dracula
+"The books were of the most varied kind--history, geography, politics, political economy, botany, geology, law--all relating to England and English life and customs and manners.",0.0,0.0,0.0,1.0,neutral,Dracula
+"There were even such books of reference as the London Directory, the ""Red"" and ""Blue"" books, Whitaker's Almanac, the Army and Navy Lists, and--it somehow gladdened my heart to see it--the Law List.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Whilst I was looking at the books, the door opened, and the Count entered.",0.0,0.0,0.0,1.0,neutral,Dracula
+"He saluted me in a hearty way, and hoped that I had had a good night's rest.",0.6705,0.314,0.0,0.686,positive,Dracula
+"Then he went on:-- ""I am glad you found your way in here, for I am sure there is much that will interest you.",0.8074,0.293,0.0,0.707,positive,Dracula
+"These companions""--and he laid his hand on some of the books--""have been good friends to me, and for some years past, ever since I had the idea of going to London, have given me many, many hours of pleasure.",0.9169,0.275,0.0,0.725,positive,Dracula
+Through them I have come to know your great England; and to know her is to love her.,0.8519,0.356,0.0,0.644,positive,Dracula
+"I long to go through the crowded streets of your mighty London, to be in the midst of the whirl and rush of humanity, to share its life, its change, its death, and all that makes it what it is.",-0.4019,0.051,0.09,0.858,negative,Dracula
+But alas!,-0.4482,0.0,0.746,0.254,negative,Dracula
+as yet I only know your tongue through books.,0.0,0.0,0.0,1.0,neutral,Dracula
+"To you, my friend, I look that I know it to speak.""",0.4939,0.262,0.0,0.738,positive,Dracula
+"""But, Count,"" I said, ""you know and speak English thoroughly!""",0.0,0.0,0.0,1.0,neutral,Dracula
+He bowed gravely.,-0.3612,0.0,0.556,0.444,negative,Dracula
+"""I thank you, my friend, for your all too-flattering estimate, but yet I fear that I am but a little way on the road I would travel.",-0.3506,0.137,0.153,0.71,negative,Dracula
+"True, I know the grammar and the words, but yet I know not how to speak them.""",0.2263,0.119,0.0,0.881,positive,Dracula
+"""Indeed,"" I said, ""you speak excellently.""",0.0,0.0,0.0,1.0,neutral,Dracula
+"""Not so,"" he answered.",0.0,0.0,0.0,1.0,neutral,Dracula
+"""Well, I know that, did I move and speak in your London, none there are who would not know me for a stranger.",0.0,0.0,0.0,1.0,neutral,Dracula
+That is not enough for me.,0.0,0.0,0.0,1.0,neutral,Dracula
+"Here I am noble; I am boyar ; the common people know me, and I am master.",0.4588,0.2,0.0,0.8,positive,Dracula
+"But a stranger in a strange land, he is no one; men know him not--and to know not is to care not for.",-0.8147,0.0,0.319,0.681,negative,Dracula
+"I am content if I am like the rest, so that no man stops if he see me, or pause in his speaking if he hear my words, 'Ha, ha!",0.2763,0.156,0.123,0.721,positive,Dracula
+a stranger!',0.0,0.0,0.0,1.0,neutral,Dracula
+I have been so long master that I would be master still--or at least that none other should be master of me.,0.0,0.0,0.0,1.0,neutral,Dracula
+"You come to me not alone as agent of my friend Peter Hawkins, of Exeter, to tell me all about my new estate in London.",0.6046,0.177,0.0,0.823,positive,Dracula
+"You shall, I trust, rest here with me awhile, so that by our talking I may learn the English intonation; and I would that you tell me when I make error, even of the smallest, in my speaking.",0.1531,0.087,0.071,0.842,positive,Dracula
+"I am sorry that I had to be away so long to-day; but you will, I know, forgive one who has so many important affairs in hand.""",0.627,0.192,0.042,0.766,positive,Dracula
+"Of course I said all I could about being willing, and asked if I might come into that room when I chose.",0.0,0.0,0.0,1.0,neutral,Dracula
+"He answered: ""Yes, certainly,"" and added:-- ""You may go anywhere you wish in the castle, except where the doors are locked, where of course you will not wish to go.",0.6597,0.162,0.0,0.838,positive,Dracula
+"There is reason that all things are as they are, and did you see with my eyes and know with my knowledge, you would perhaps better understand.""",0.4404,0.1,0.0,0.9,positive,Dracula
+"I said I was sure of this, and then he went on:-- ""We are in Transylvania; and Transylvania is not England.",0.3182,0.113,0.0,0.887,positive,Dracula
+"Our ways are not your ways, and there shall be to you many strange things.",-0.2023,0.0,0.114,0.886,negative,Dracula
+"Nay, from what you have told me of your experiences already, you know something of what strange things there may be.""",-0.2023,0.0,0.083,0.917,negative,Dracula
+"This led to much conversation; and as it was evident that he wanted to talk, if only for talking's sake, I asked him many questions regarding things that had already happened to me or come within my notice.",0.0,0.0,0.0,1.0,neutral,Dracula
+"Sometimes he sheered off the subject, or turned the conversation by pretending not to understand; but generally he answered all I asked most frankly.",0.0516,0.052,0.0,0.948,positive,Dracula
+"Then as time went on, and I had got somewhat bolder, I asked him of some of the strange things of the preceding night, as, for instance, why the coachman went to the places where he had seen the blue flames.",0.0276,0.047,0.044,0.909,neutral,Dracula
+"He then explained to me that it was commonly believed that on a certain night of the year--last night, in fact, when all evil spirits are supposed to have unchecked sway--a blue flame is seen over any place where treasure has been concealed.",-0.2732,0.09,0.092,0.818,negative,Dracula
+"""That treasure has been hidden,"" he went on, ""in the region through which you came last night, there can be but little doubt; for it was the ground fought over for centuries by the Wallachian, the Saxon, and the Turk.",-0.6322,0.036,0.13,0.834,negative,Dracula
+"Why, there is hardly a foot of soil in all this region that has not been enriched by the blood of men, patriots or invaders.",0.0,0.0,0.0,1.0,neutral,Dracula
+In old days there were sti,0.0,0.0,0.0,1.0,neutral,Dracula

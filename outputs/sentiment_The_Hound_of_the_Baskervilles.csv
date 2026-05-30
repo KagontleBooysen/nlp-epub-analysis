@@ -1,0 +1,567 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Hound of the Baskervilles This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.065,0.102,0.833,negative,The Hound of the Baskervilles
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Hound of the Baskervilles
+"Title : The Hound of the Baskervilles Author : Arthur Conan Doyle Release date : October 1, 2001 [eBook #2852] Most recently updated: August 4, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/2852 Credits : Shreevatsa R, and David Widger *** START OF THE PROJECT GUTENBERG EBOOK THE HOUND OF THE BASKERVILLES *** THE HOUND OF THE BASKERVILLES Another Adventure of Sherlock Holmes by A. Conan Doyle My dear Robinson, It was to your account of a West-Country legend that this tale owes its inception.",0.7506,0.088,0.0,0.912,positive,The Hound of the Baskervilles
+For this and for your help in the details all thanks.,0.6808,0.384,0.0,0.616,positive,The Hound of the Baskervilles
+"Yours most truly, A. Conan Doyle.",0.4927,0.39,0.0,0.61,positive,The Hound of the Baskervilles
+"Hindhead, Haslemere.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Contents Chapter 1 Mr. Sherlock Holmes Chapter 2 The Curse of the Baskervilles Chapter 3 The Problem Chapter 4 Sir Henry Baskerville Chapter 5 Three Broken Threads Chapter 6 Baskerville Hall Chapter 7 The Stapletons of Merripit House Chapter 8 First Report of Dr. Watson Chapter 9 The Light upon the Moor [Second Report of Dr. Watson] Chapter 10 Extract from the Diary of Dr. Watson Chapter 11 The Man on the Tor Chapter 12 Death on the Moor Chapter 13 Fixing the Nets Chapter 14 The Hound of the Baskervilles Chapter 15 A Retrospection Chapter 1.,-0.9217,0.0,0.137,0.863,negative,The Hound of the Baskervilles
+"Mr. Sherlock Holmes Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he was up all night, was seated at the breakfast table.",0.4939,0.094,0.0,0.906,positive,The Hound of the Baskervilles
+I stood upon the hearth-rug and picked up the stick which our visitor had left behind him the night before.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"It was a fine, thick piece of wood, bulbous-headed, of the sort which is known as a ""Penang lawyer.""",0.2023,0.101,0.0,0.899,positive,The Hound of the Baskervilles
+Just under the head was a broad silver band nearly an inch across.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""To James Mortimer, M.R.C.S., from his friends of the C.C.H.,"" was engraved upon it, with the date ""1884.""",0.4767,0.154,0.0,0.846,positive,The Hound of the Baskervilles
+"It was just such a stick as the old-fashioned family practitioner used to carry--dignified, solid, and reassuring.",0.5106,0.235,0.0,0.765,positive,The Hound of the Baskervilles
+"""Well, Watson, what do you make of it?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Holmes was sitting with his back to me, and I had given him no sign of my occupation.",-0.296,0.0,0.121,0.879,negative,The Hound of the Baskervilles
+"""How did you know what I was doing?",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"I believe you have eyes in the back of your head.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I have, at least, a well-polished, silver-plated coffee-pot in front of me,"" said he.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""But, tell me, Watson, what do you make of our visitor's stick?",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Since we have been so unfortunate as to miss him and have no notion of his errand, this accidental souvenir becomes of importance.",-0.6748,0.085,0.306,0.609,negative,The Hound of the Baskervilles
+"Let me hear you reconstruct the man by an examination of it.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I think,"" said I, following as far as I could the methods of my companion, ""that Dr. Mortimer is a successful, elderly medical man, well-esteemed since those who know him give him this mark of their appreciation.""",0.5859,0.101,0.0,0.899,positive,The Hound of the Baskervilles
+"""Good!""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+said Holmes.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Excellent!""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I think also that the probability is in favour of his being a country practitioner who does a great deal of his visiting on foot.""",0.7906,0.25,0.0,0.75,positive,The Hound of the Baskervilles
+"""Why so?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Because this stick, though originally a very handsome one has been so knocked about that I can hardly imagine a town practitioner carrying it.",0.5413,0.149,0.0,0.851,positive,The Hound of the Baskervilles
+"The thick-iron ferrule is worn down, so it is evident that he has done a great amount of walking with it.""",0.4404,0.169,0.091,0.741,positive,The Hound of the Baskervilles
+"""Perfectly sound!""",0.6696,0.818,0.0,0.182,positive,The Hound of the Baskervilles
+said Holmes.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""And then again, there is the 'friends of the C.C.H.'",0.4767,0.256,0.0,0.744,positive,The Hound of the Baskervilles
+"I should guess that to be the Something Hunt, the local hunt to whose members he has possibly given some surgical assistance, and which has made him a small presentation in return.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Really, Watson, you excel yourself,"" said Holmes, pushing back his chair and lighting a cigarette.",0.4588,0.188,0.0,0.812,positive,The Hound of the Baskervilles
+"""I am bound to say that in all the accounts which you have been so good as to give of my own small achievements you have habitually underrated your own abilities.",0.6948,0.165,0.0,0.835,positive,The Hound of the Baskervilles
+"It may be that you are not yourself luminous, but you are a conductor of light.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Some people without possessing genius have a remarkable power of stimulating it.,0.7579,0.419,0.0,0.581,positive,The Hound of the Baskervilles
+"I confess, my dear fellow, that I am very much in your debt.""",0.3818,0.206,0.0,0.794,positive,The Hound of the Baskervilles
+"He had never said as much before, and I must admit that his words gave me keen pleasure, for I had often been piqued by his indifference to my admiration and to the attempts which I had made to give publicity to his methods.",0.886,0.258,0.025,0.717,positive,The Hound of the Baskervilles
+"I was proud, too, to think that I had so far mastered his system as to apply it in a way which earned his approval.",0.7351,0.237,0.0,0.763,positive,The Hound of the Baskervilles
+He now took the stick from my hands and examined it for a few minutes with his naked eyes.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Then with an expression of interest he laid down his cigarette, and carrying the cane to the window, he looked over it again with a convex lens.",0.4588,0.107,0.0,0.893,positive,The Hound of the Baskervilles
+"""Interesting, though elementary,"" said he as he returned to his favourite corner of the settee.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""There are certainly one or two indications upon the stick.",0.34,0.211,0.0,0.789,positive,The Hound of the Baskervilles
+"It gives us the basis for several deductions.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Has anything escaped me?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+I asked with some self-importance.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I trust that there is nothing of consequence which I have overlooked?""",0.5106,0.248,0.0,0.752,positive,The Hound of the Baskervilles
+"""I am afraid, my dear Watson, that most of your conclusions were erroneous.",-0.0516,0.159,0.171,0.671,negative,The Hound of the Baskervilles
+"When I said that you stimulated me I meant, to be frank, that in noting your fallacies I was occasionally guided towards the truth.",0.4939,0.181,0.0,0.819,positive,The Hound of the Baskervilles
+Not that you are entirely wrong in this instance.,-0.5256,0.0,0.298,0.702,negative,The Hound of the Baskervilles
+The man is certainly a country practitioner.,0.34,0.324,0.0,0.676,positive,The Hound of the Baskervilles
+"And he walks a good deal.""",0.4404,0.42,0.0,0.58,positive,The Hound of the Baskervilles
+"""Then I was right.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""To that extent.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""But that was all.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""No, no, my dear Watson, not all--by no means all.",-0.2023,0.186,0.314,0.5,negative,The Hound of the Baskervilles
+"I would suggest, for example, that a presentation to a doctor is more likely to come from a hospital than from a hunt, and that when the initials 'C.C.'",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"are placed before that hospital the words 'Charing Cross' very naturally suggest themselves.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""You may be right.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""The probability lies in that direction.",-0.4215,0.0,0.359,0.641,negative,The Hound of the Baskervilles
+"And if we take this as a working hypothesis we have a fresh basis from which to start our construction of this unknown visitor.""",0.3182,0.099,0.0,0.901,positive,The Hound of the Baskervilles
+"""Well, then, supposing that 'C.C.H.'",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"does stand for 'Charing Cross Hospital,' what further inferences may we draw?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Do none suggest themselves?",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+You know my methods.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Apply them!""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I can only think of the obvious conclusion that the man has practised in town before going to the country.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I think that we might venture a little farther than this.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Look at it in this light.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+On what occasion would it be most probable that such a presentation would be made?,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+When would his friends unite to give him a pledge of their good will?,0.7184,0.353,0.0,0.647,positive,The Hound of the Baskervilles
+Obviously at the moment when Dr. Mortimer withdrew from the service of the hospital in order to start a practice for himself.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+We know there has been a presentation.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+We believe there has been a change from a town hospital to a country practice.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Is it, then, stretching our inference too far to say that the presentation was on the occasion of the change?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""It certainly seems probable.""",0.34,0.444,0.0,0.556,positive,The Hound of the Baskervilles
+"""Now, you will observe that he could not have been on the staff of the hospital, since only a man well-established in a London practice could hold such a position, and such a one would not drift into the country.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"What was he, then?",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+If he was in the hospital and yet not on the staff he could only have been a house-surgeon or a house-physician--little more than a senior student.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+And he left five years ago--the date is on the stick.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"So your grave, middle-aged family practitioner vanishes into thin air, my dear Watson, and there emerges a young fellow under thirty, amiable, unambitious, absent-minded, and the possessor of a favourite dog, which I should describe roughly as being larger than a terrier and smaller than a mastiff.""",-0.0717,0.057,0.063,0.88,negative,The Hound of the Baskervilles
+I laughed incredulously as Sherlock Holmes leaned back in his settee and blew little wavering rings of smoke up to the ceiling.,0.4005,0.129,0.056,0.815,positive,The Hound of the Baskervilles
+"""As to the latter part, I have no means of checking you,"" said I, ""but at least it is not difficult to find out a few particulars about the man's age and professional career.""",0.2651,0.078,0.047,0.876,positive,The Hound of the Baskervilles
+From my small medical shelf I took down the Medical Directory and turned up the name.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"There were several Mortimers, but only one who could be our visitor.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+I read his record aloud.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Mortimer, James, M.R.C.S., 1882, Grimpen, Dartmoor, Devon.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"House-surgeon, from 1882 to 1884, at Charing Cross Hospital.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Winner of the Jackson prize for Comparative Pathology, with essay entitled 'Is Disease a Reversion?'",0.8481,0.455,0.0,0.545,positive,The Hound of the Baskervilles
+Corresponding member of the Swedish Pathological Society.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Author of 'Some Freaks of Atavism' ( Lancet 1882).,-0.1027,0.0,0.167,0.833,negative,The Hound of the Baskervilles
+'Do We Progress?',0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"( Journal of Psychology , March, 1883).",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Medical Officer for the parishes of Grimpen, Thorsley, and High Barrow.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""No mention of that local hunt, Watson,"" said Holmes with a mischievous smile, ""but a country doctor, as you very astutely observed.",0.0387,0.082,0.075,0.843,neutral,The Hound of the Baskervilles
+I think that I am fairly justified in my inferences.,0.4019,0.278,0.0,0.722,positive,The Hound of the Baskervilles
+"As to the adjectives, I said, if I remember right, amiable, unambitious, and absent-minded.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"It is my experience that it is only an amiable man in this world who receives testimonials, only an unambitious one who abandons a London career for the country, and only an absent-minded one who leaves his stick and not his visiting-card after waiting an hour in your room.""",-0.3182,0.0,0.047,0.953,negative,The Hound of the Baskervilles
+"""And the dog?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Has been in the habit of carrying this stick behind his master.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Being a heavy stick the dog has held it tightly by the middle, and the marks of his teeth are very plainly visible.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"The dog's jaw, as shown in the space between these marks, is too broad in my opinion for a terrier and not broad enough for a mastiff.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"It may have been--yes, by Jove, it is a curly-haired spaniel.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+He had risen and paced the room as he spoke.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Now he halted in the recess of the window.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+There was such a ring of conviction in his voice that I glanced up in surprise.,0.2732,0.139,0.0,0.861,positive,The Hound of the Baskervilles
+"""My dear fellow, how can you possibly be so sure of that?""",0.6799,0.359,0.0,0.641,positive,The Hound of the Baskervilles
+"""For the very simple reason that I see the dog himself on our very door-step, and there is the ring of its owner.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Don't move, I beg you, Watson.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"He is a professional brother of yours, and your presence may be of assistance to me.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Now is the dramatic moment of fate, Watson, when you hear a step upon the stair which is walking into your life, and you know not whether for good or ill. What does Dr. James Mortimer, the man of science, ask of Sherlock Holmes, the specialist in crime?",-0.8274,0.0,0.165,0.835,negative,The Hound of the Baskervilles
+"Come in!""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"The appearance of our visitor was a surprise to me, since I had expected a typical country practitioner.",0.2732,0.13,0.0,0.87,positive,The Hound of the Baskervilles
+"He was a very tall, thin man, with a long nose like a beak, which jutted out between two keen, grey eyes, set closely together and sparkling brightly from behind a pair of gold-rimmed glasses.",0.836,0.295,0.0,0.705,positive,The Hound of the Baskervilles
+"He was clad in a professional but rather slovenly fashion, for his frock-coat was dingy and his trousers frayed.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Though young, his long back was already bowed, and he walked with a forward thrust of his head and a general air of peering benevolence.",0.4019,0.109,0.0,0.891,positive,The Hound of the Baskervilles
+"As he entered his eyes fell upon the stick in Holmes's hand, and he ran towards it with an exclamation of joy.",0.7906,0.259,0.0,0.741,positive,The Hound of the Baskervilles
+"""I am so very glad,"" said he.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I was not sure whether I had left it here or in the Shipping Office.",-0.2411,0.0,0.131,0.869,negative,The Hound of the Baskervilles
+"I would not lose that stick for the world.""",0.3089,0.244,0.0,0.756,positive,The Hound of the Baskervilles
+"""A presentation, I see,"" said Holmes.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes, sir.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""From Charing Cross Hospital?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""From one or two friends there on the occasion of my marriage.""",0.4767,0.22,0.0,0.78,positive,The Hound of the Baskervilles
+"""Dear, dear, that's bad!""",0.4389,0.491,0.0,0.509,positive,The Hound of the Baskervilles
+"said Holmes, shaking his head.",-0.1779,0.0,0.298,0.702,negative,The Hound of the Baskervilles
+Dr. Mortimer blinked through his glasses in mild astonishment.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Why was it bad?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Only that you have disarranged our little deductions.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Your marriage, you say?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes, sir.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"I married, and so left the hospital, and with it all hopes of a consulting practice.",0.4215,0.177,0.0,0.823,positive,The Hound of the Baskervilles
+"It was necessary to make a home of my own.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Come, come, we are not so far wrong, after all,"" said Holmes.",0.4137,0.201,0.0,0.799,positive,The Hound of the Baskervilles
+"""And now, Dr. James Mortimer--"" ""Mister, sir, Mister--a humble M.R.C.S.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""And a man of precise mind, evidently.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""A dabbler in science, Mr. Holmes, a picker up of shells on the shores of the great unknown ocean.",0.6249,0.194,0.0,0.806,positive,The Hound of the Baskervilles
+"I presume that it is Mr. Sherlock Holmes whom I am addressing and not--"" ""No, this is my friend Dr.",0.4939,0.158,0.0,0.842,positive,The Hound of the Baskervilles
+"Watson.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Glad to meet you, sir.",0.4588,0.429,0.0,0.571,positive,The Hound of the Baskervilles
+I have heard your name mentioned in connection with that of your friend.,0.4939,0.225,0.0,0.775,positive,The Hound of the Baskervilles
+"You interest me very much, Mr. Holmes.",0.4588,0.333,0.0,0.667,positive,The Hound of the Baskervilles
+I had hardly expected so dolichocephalic a skull or such well-marked supra-orbital development.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Would you have any objection to my running my finger along your parietal fissure?,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"A cast of your skull, sir, until the original is available, would be an ornament to any anthropological museum.",0.3182,0.119,0.0,0.881,positive,The Hound of the Baskervilles
+"It is not my intention to be fulsome, but I confess that I covet your skull.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Sherlock Holmes waved our strange visitor into a chair.,-0.2023,0.0,0.205,0.795,negative,The Hound of the Baskervilles
+"""You are an enthusiast in your line of thought, I perceive, sir, as I am in mine,"" said he.",0.3612,0.135,0.0,0.865,positive,The Hound of the Baskervilles
+"""I observe from your forefinger that you make your own cigarettes.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Have no hesitation in lighting one.""",-0.5106,0.0,0.518,0.482,negative,The Hound of the Baskervilles
+The man drew out paper and tobacco and twirled the one up in the other with surprising dexterity.,0.2732,0.11,0.0,0.89,positive,The Hound of the Baskervilles
+"He had long, quivering fingers as agile and restless as the antennæ of an insect.",-0.2732,0.0,0.13,0.87,negative,The Hound of the Baskervilles
+"Holmes was silent, but his little darting glances showed me the interest which he took in our curious companion.",0.7876,0.29,0.0,0.71,positive,The Hound of the Baskervilles
+"""I presume, sir,"" said he at last, ""that it was not merely for the purpose of examining my skull that you have done me the honour to call here last night and again today?""",0.5719,0.101,0.0,0.899,positive,The Hound of the Baskervilles
+"""No, sir, no; though I am happy to have had the opportunity of doing that as well.",0.7506,0.377,0.096,0.526,positive,The Hound of the Baskervilles
+"I came to you, Mr. Holmes, because I recognized that I am myself an unpractical man and because I am suddenly confronted with a most serious and extraordinary problem.",-0.624,0.0,0.225,0.775,negative,The Hound of the Baskervilles
+"Recognizing, as I do, that you are the second highest expert in Europe--"" ""Indeed, sir!",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"May I inquire who has the honour to be the first?""",0.5719,0.291,0.0,0.709,positive,The Hound of the Baskervilles
+asked Holmes with some asperity.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""To the man of precisely scientific mind the work of Monsieur Bertillon must always appeal strongly.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Then had you not better consult him?""",-0.3412,0.0,0.286,0.714,negative,The Hound of the Baskervilles
+"""I said, sir, to the precisely scientific mind.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+But as a practical man of affairs it is acknowledged that you stand alone.,-0.3612,0.0,0.172,0.828,negative,The Hound of the Baskervilles
+"I trust, sir, that I have not inadvertently--"" ""Just a little,"" said Holmes.",0.5106,0.268,0.0,0.732,positive,The Hound of the Baskervilles
+"""I think, Dr. Mortimer, you would do wisely if without more ado you would kindly tell me plainly what the exact nature of the problem is in which you demand my assistance.""",0.4215,0.157,0.11,0.733,positive,The Hound of the Baskervilles
+Chapter 2.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"The Curse of the Baskervilles ""I have in my pocket a manuscript,"" said Dr. James Mortimer.",-0.5423,0.0,0.2,0.8,negative,The Hound of the Baskervilles
+"""I observed it as you entered the room,"" said Holmes.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""It is an old manuscript.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Early eighteenth century, unless it is a forgery.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""How can you say that, sir?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""You have presented an inch or two of it to my examination all the time that you have been talking.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+It would be a poor expert who could not give the date of a document within a decade or so.,-0.4767,0.0,0.162,0.838,negative,The Hound of the Baskervilles
+You may possibly have read my little monograph upon the subject.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"I put that at 1730.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""The exact date is 1742.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Dr. Mortimer drew it from his breast-pocket.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""This family paper was committed to my care by Sir Charles Baskerville, whose sudden and tragic death some three months ago created so much excitement in Devonshire.",0.4364,0.279,0.178,0.543,positive,The Hound of the Baskervilles
+I may say that I was his personal friend as well as his medical attendant.,0.6486,0.325,0.0,0.675,positive,The Hound of the Baskervilles
+"He was a strong-minded man, sir, shrewd, practical, and as unimaginative as I am myself.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Yet he took this document very seriously, and his mind was prepared for just such an end as did eventually overtake him.""",-0.024,0.08,0.083,0.837,neutral,The Hound of the Baskervilles
+Holmes stretched out his hand for the manuscript and flattened it upon his knee.,0.4939,0.198,0.0,0.802,positive,The Hound of the Baskervilles
+"""You will observe, Watson, the alternative use of the long s and the short.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"It is one of several indications which enabled me to fix the date.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+I looked over his shoulder at the yellow paper and the faded script.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"At the head was written: ""Baskerville Hall,"" and below in large, scrawling figures: ""1742.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""It appears to be a statement of some sort.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes, it is a statement of a certain legend which runs in the Baskerville family.""",0.2732,0.149,0.0,0.851,positive,The Hound of the Baskervilles
+"""But I understand that it is something more modern and practical upon which you wish to consult me?""",0.5499,0.182,0.0,0.818,positive,The Hound of the Baskervilles
+"""Most modern.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"A most practical, pressing matter, which must be decided within twenty-four hours.",0.0935,0.12,0.0,0.88,positive,The Hound of the Baskervilles
+But the manuscript is short and is intimately connected with the affair.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"With your permission I will read it to you.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Holmes leaned back in his chair, placed his finger-tips together, and closed his eyes, with an air of resignation.",-0.296,0.0,0.109,0.891,negative,The Hound of the Baskervilles
+"Dr. Mortimer turned the manuscript to the light and read in a high, cracking voice the following curious, old-world narrative: ""Of the origin of the Hound of the Baskervilles there have been many statements, yet as I come in a direct line from Hugo Baskerville, and as I had the story from my father, who also had it from his, I have set it down with all belief that it occurred even as is here set forth.",0.3182,0.031,0.0,0.969,positive,The Hound of the Baskervilles
+"And I would have you believe, my sons, that the same Justice which punishes sin may also most graciously forgive it, and that no ban is so heavy but that by prayer and repentance it may be removed.",-0.265,0.139,0.186,0.675,negative,The Hound of the Baskervilles
+"Learn then from this story not to fear the fruits of the past, but rather to be circumspect in the future, that those foul passions whereby our family has suffered so grievously may not again be loosed to our undoing.",-0.6024,0.12,0.177,0.704,negative,The Hound of the Baskervilles
+"""Know then that in the time of the Great Rebellion (the history of which by the learned Lord Clarendon I most earnestly commend to your attention) this Manor of Baskerville was held by Hugo of that name, nor can it be gainsaid that he was a most wild, profane, and godless man.",0.7769,0.13,0.027,0.843,positive,The Hound of the Baskervilles
+"This, in truth, his neighbours might have pardoned, seeing that saints have never flourished in those parts, but there was in him a certain wanton and cruel humour which made his name a by-word through the West.",0.4019,0.22,0.115,0.665,positive,The Hound of the Baskervilles
+"It chanced that this Hugo came to love (if, indeed, so dark a passion may be known under so bright a name) the daughter of a yeoman who held lands near the Baskerville estate.",0.9046,0.286,0.0,0.714,positive,The Hound of the Baskervilles
+"But the young maiden, being discreet and of good repute, would ever avoid him, for she feared his evil name.",-0.8847,0.116,0.399,0.484,negative,The Hound of the Baskervilles
+"So it came to pass that one Michaelmas this Hugo, with five or six of his idle and wicked companions, stole down upon the farm and carried off the maiden, her father and brothers being from home, as he well knew.",-0.3182,0.047,0.076,0.876,negative,The Hound of the Baskervilles
+"When they had brought her to the Hall the maiden was placed in an upper chamber, while Hugo and his friends sat down to a long carouse, as was their nightly custom.",0.4767,0.094,0.0,0.906,positive,The Hound of the Baskervilles
+"Now, the poor lass upstairs was like to have her wits turned at the singing and shouting and terrible oaths which came up to her from below, for they say that the words used by Hugo Baskerville, when he was in wine, were such as might blast the man who said them.",-0.5719,0.043,0.107,0.849,negative,The Hound of the Baskervilles
+"At last in the stress of her fear she did that which might have daunted the bravest or most active man, for by the aid of the growth of ivy which covered (and still covers) the south wall she came down from under the eaves, and so homeward across the moor, there being three leagues betwixt the Hall and her father's farm.",0.4391,0.124,0.083,0.793,positive,The Hound of the Baskervilles
+"""It chanced that some little time later Hugo left his guests to carry food and drink--with other worse things, perchance--to his captive, and so found the cage empty and the bird escaped.",-0.5994,0.0,0.14,0.86,negative,The Hound of the Baskervilles
+"Then, as it would seem, he became as one that hath a devil, for, rushing down the stairs into the dining-hall, he sprang upon the great table, flagons and trenchers flying before him, and he cried aloud before all the company that he would that very night render his body and soul to the Powers of Evil if he might but overtake the wench.",-0.5647,0.037,0.105,0.858,negative,The Hound of the Baskervilles
+"And while the revellers stood aghast at the fury of the man, one more wicked or, it may be, more drunken than the rest, cried out that they should put the hounds upon her.",-0.9168,0.0,0.301,0.699,negative,The Hound of the Baskervilles
+"Whereat Hugo ran from the house, crying to his grooms that they should saddle his mare and unkennel the pack, and giving the hounds a kerchief of the maid's, he swung them to the line, and so off full cry in the moonlight over the moor.",-0.6204,0.047,0.127,0.826,negative,The Hound of the Baskervilles
+"""Now, for some space the revellers stood agape, unable to understand all that had been done in such haste.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+But anon their bemused wits awoke to the nature of the deed which was like to be done upon the moorlands.,0.5023,0.14,0.0,0.86,positive,The Hound of the Baskervilles
+"Everything was now in an uproar, some calling for their pistols, some for their horses, and some for another flask of wine.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"But at length some sense came back to their crazed minds, and the whole of them, thirteen in number, took horse and started in pursuit.",-0.0772,0.055,0.067,0.878,negative,The Hound of the Baskervilles
+"The moon shone clear above them, and they rode swiftly abreast, taking that course which the maid must needs have taken if she were to reach her own home.",0.5994,0.185,0.0,0.815,positive,The Hound of the Baskervilles
+"""They had gone a mile or two when they passed one of the night shepherds upon the moorlands, and they cried to him to know if he had seen the hunt.",-0.3818,0.0,0.082,0.918,negative,The Hound of the Baskervilles
+"And the man, as the story goes, was so crazed with fear that he could scarce speak, but at last he said that he had indeed seen the unhappy maiden, with the hounds upon her track.",-0.7527,0.0,0.184,0.816,negative,The Hound of the Baskervilles
+"'But I have seen more than that,' said he, 'for Hugo Baskerville passed me upon his black mare, and there ran mute behind him such a hound of hell as God forbid should ever be at my heels.'",-0.8271,0.059,0.208,0.733,negative,The Hound of the Baskervilles
+So the drunken squires cursed the shepherd and rode onward.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"But soon their skins turned cold, for there came a galloping across the moor, and the black mare, dabbled with white froth, went past with trailing bridle and empty saddle.",-0.296,0.0,0.073,0.927,negative,The Hound of the Baskervilles
+"Then the revellers rode close together, for a great fear was on them, but they still followed over the moor, though each, had he been alone, would have been right glad to have turned his horse's head.",0.4497,0.152,0.107,0.742,positive,The Hound of the Baskervilles
+Riding slowly in this fashion they came at last upon the hounds.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"These, though known for their valour and their breed, were whimpering in a cluster at the head of a deep dip or goyal, as we call it, upon the moor, some slinking away and some, with starting hackles and staring eyes, gazing down the narrow valley before them.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""The company had come to a halt, more sober men, as you may guess, than when they started.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"The most of them would by no means advance, but three of them, the boldest, or it may be the most drunken, rode forward down the goyal.",0.4215,0.113,0.053,0.833,positive,The Hound of the Baskervilles
+"Now, it opened into a broad space in which stood two of those great stones, still to be seen there, which were set by certain forgotten peoples in the days of old.",0.6486,0.172,0.053,0.776,positive,The Hound of the Baskervilles
+"The moon was shining bright upon the clearing, and there in the centre lay the unhappy maid where she had fallen, dead of fear and of fatigue.",-0.8979,0.075,0.382,0.543,negative,The Hound of the Baskervilles
+"But it was not the sight of her body, nor yet was it that of the body of Hugo Baskerville lying near her, which raised the hair upon the heads of these three dare-devil roysterers, but it was that, standing over Hugo, and plucking at his throat, there stood a foul thing, a great, black beast, shaped like a hound, yet larger than any hound that ever mortal eye has rested upon.",0.6486,0.112,0.058,0.83,positive,The Hound of the Baskervilles
+"And even as they looked the thing tore the throat out of Hugo Baskerville, on which, as it turned its blazing eyes and dripping jaws upon them, the three shrieked with fear and rode for dear life, still screaming, across the moor.",-0.4939,0.055,0.122,0.823,negative,The Hound of the Baskervilles
+"One, it is said, died that very night of what he had seen, and the other twain were but broken men for the rest of their days.",-0.7543,0.0,0.205,0.795,negative,The Hound of the Baskervilles
+"""Such is the tale, my sons, of the coming of the hound which is said to have plagued the family so sorely ever since.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+If I have set it down it is because that which is clearly known hath less terror than that which is but hinted at and guessed.,-0.0525,0.069,0.076,0.855,negative,The Hound of the Baskervilles
+"Nor can it be denied that many of the family have been unhappy in their deaths, which have been sudden, bloody, and mysterious.",-0.8225,0.0,0.301,0.699,negative,The Hound of the Baskervilles
+"Yet may we shelter ourselves in the infinite goodness of Providence, which would not forever punish the innocent beyond that third or fourth generation which is threatened in Holy Writ.",0.6341,0.22,0.081,0.699,positive,The Hound of the Baskervilles
+"To that Providence, my sons, I hereby commend you, and I counsel you by way of caution to forbear from crossing the moor in those dark hours when the powers of evil are exalted.",-0.3612,0.078,0.118,0.804,negative,The Hound of the Baskervilles
+"""[This from Hugo Baskerville to his sons Rodger and John, with instructions that they say nothing thereof to their sister Elizabeth.]""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+When Dr. Mortimer had finished reading this singular narrative he pushed his spectacles up on his forehead and stared across at Mr. Sherlock Holmes.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+The latter yawned and tossed the end of his cigarette into the fire.,-0.34,0.0,0.167,0.833,negative,The Hound of the Baskervilles
+"""Well?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+said he.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Do you not find it interesting?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""To a collector of fairy tales.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Dr. Mortimer drew a folded newspaper out of his pocket.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Now, Mr. Holmes, we will give you something a little more recent.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+This is the Devon County Chronicle of May 14th of this year.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"It is a short account of the facts elicited at the death of Sir Charles Baskerville which occurred a few days before that date.""",-0.5994,0.0,0.157,0.843,negative,The Hound of the Baskervilles
+My friend leaned a little forward and his expression became intent.,0.4939,0.262,0.0,0.738,positive,The Hound of the Baskervilles
+"Our visitor readjusted his glasses and began: ""The recent sudden death of Sir Charles Baskerville, whose name has been mentioned as the probable Liberal candidate for Mid-Devon at the next election, has cast a gloom over the county.",-0.8176,0.0,0.176,0.824,negative,The Hound of the Baskervilles
+Though Sir Charles had resided at Baskerville Hall for a comparatively short period his amiability of character and extreme generosity had won the affection and respect of all who had been brought into contact with him.,0.926,0.303,0.0,0.697,positive,The Hound of the Baskervilles
+In these days of nouveaux riches it is refreshing to find a case where the scion of an old county family which has fallen upon evil days is able to make his own fortune and to bring it back with him to restore the fallen grandeur of his line.,-0.1027,0.149,0.156,0.695,negative,The Hound of the Baskervilles
+"Sir Charles, as is well known, made large sums of money in South African speculation.",0.2732,0.13,0.0,0.87,positive,The Hound of the Baskervilles
+"More wise than those who go on until the wheel turns against them, he realised his gains and returned to England with them.",0.6997,0.216,0.0,0.784,positive,The Hound of the Baskervilles
+"It is only two years since he took up his residence at Baskerville Hall, and it is common talk how large were those schemes of reconstruction and improvement which have been interrupted by his death.",-0.4767,0.073,0.148,0.779,negative,The Hound of the Baskervilles
+"Being himself childless, it was his openly expressed desire that the whole countryside should, within his own lifetime, profit by his good fortune, and many will have personal reasons for bewailing his untimely end.",0.8176,0.215,0.0,0.785,positive,The Hound of the Baskervilles
+His generous donations to local and county charities have been frequently chronicled in these columns.,0.7579,0.333,0.0,0.667,positive,The Hound of the Baskervilles
+"""The circumstances connected with the death of Sir Charles cannot be said to have been entirely cleared up by the inquest, but at least enough has been done to dispose of those rumours to which local superstition has given rise.",-0.274,0.032,0.059,0.909,negative,The Hound of the Baskervilles
+"There is no reason whatever to suspect foul play, or to imagine that death could be from any but natural causes.",0.0772,0.186,0.212,0.602,positive,The Hound of the Baskervilles
+"Sir Charles was a widower, and a man who may be said to have been in some ways of an eccentric habit of mind.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"In spite of his considerable wealth he was simple in his personal tastes, and his indoor servants at Baskerville Hall consisted of a married couple named Barrymore, the husband acting as butler and the wife as housekeeper.",-0.0516,0.079,0.084,0.837,negative,The Hound of the Baskervilles
+"Their evidence, corroborated by that of several friends, tends to show that Sir Charles's health has for some time been impaired, and points especially to some affection of the heart, manifesting itself in changes of colour, breathlessness, and acute attacks of nervous depression.",-0.235,0.127,0.163,0.711,negative,The Hound of the Baskervilles
+"Dr. James Mortimer, the friend and medical attendant of the deceased, has given evidence to the same effect.",0.4939,0.158,0.0,0.842,positive,The Hound of the Baskervilles
+"""The facts of the case are simple.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Sir Charles Baskerville was in the habit every night before going to bed of walking down the famous yew alley of Baskerville Hall.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+The evidence of the Barrymores shows that this had been his custom.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"On the fourth of May Sir Charles had declared his intention of starting next day for London, and had ordered Barrymore to prepare his luggage.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"That night he went out as usual for his nocturnal walk, in the course of which he was in the habit of smoking a cigar.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+He never returned.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"At twelve o'clock Barrymore, finding the hall door still open, became alarmed, and, lighting a lantern, went in search of his master.",-0.34,0.0,0.107,0.893,negative,The Hound of the Baskervilles
+"The day had been wet, and Sir Charles's footmarks were easily traced down the alley.",0.34,0.146,0.0,0.854,positive,The Hound of the Baskervilles
+Halfway down this walk there is a gate which leads out on to the moor.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+There were indications that Sir Charles had stood for some little time here.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"He then proceeded down the alley, and it was at the far end of it that his body was discovered.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"One fact which has not been explained is the statement of Barrymore that his master's footprints altered their character from the time that he passed the moor-gate, and that he appeared from thence onward to have been walking upon his toes.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"One Murphy, a gipsy horse-dealer, was on the moor at no great distance at the time, but he appears by his own confession to have been the worse for drink.",-0.4939,0.074,0.168,0.758,negative,The Hound of the Baskervilles
+He declares that he heard cries but is unable to state from what direction they came.,-0.2144,0.0,0.11,0.89,negative,The Hound of the Baskervilles
+"No signs of violence were to be discovered upon Sir Charles's person, and though the doctor's evidence pointed to an almost incredible facial distortion--so great that Dr. Mortimer refused at first to believe that it was indeed his friend and patient who lay before him--it was explained that that is a symptom which is not unusual in cases of dyspnœa and death from cardiac exhaustion.",-0.765,0.092,0.188,0.72,negative,The Hound of the Baskervilles
+"This explanation was borne out by the post-mortem examination, which showed long-standing organic disease, and the coroner's jury returned a verdict in accordance with the medical evidence.",0.1531,0.06,0.0,0.94,positive,The Hound of the Baskervilles
+"It is well that this is so, for it is obviously of the utmost importance that Sir Charles's heir should settle at the Hall and continue the good work which has been so sadly interrupted.",0.1041,0.172,0.14,0.688,positive,The Hound of the Baskervilles
+"Had the prosaic finding of the coroner not finally put an end to the romantic stories which have been whispered in connection with the affair, it might have been difficult to find a tenant for Baskerville Hall.",0.0516,0.069,0.064,0.867,positive,The Hound of the Baskervilles
+"It is understood that the next of kin is Mr. Henry Baskerville, if he be still alive, the son of Sir Charles Baskerville's younger brother.",0.3818,0.098,0.0,0.902,positive,The Hound of the Baskervilles
+"The young man when last heard of was in America, and inquiries are being instituted with a view to informing him of his good fortune.""",0.4404,0.112,0.0,0.888,positive,The Hound of the Baskervilles
+Dr. Mortimer refolded his paper and replaced it in his pocket.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Those are the public facts, Mr. Holmes, in connection with the death of Sir Charles Baskerville.""",-0.5994,0.0,0.206,0.794,negative,The Hound of the Baskervilles
+"""I must thank you,"" said Sherlock Holmes, ""for calling my attention to a case which certainly presents some features of interest.",0.7845,0.317,0.0,0.683,positive,The Hound of the Baskervilles
+"I had observed some newspaper comment at the time, but I was exceedingly preoccupied by that little affair of the Vatican cameos, and in my anxiety to oblige the Pope I lost touch with several interesting English cases.",-0.1154,0.088,0.123,0.789,negative,The Hound of the Baskervilles
+"This article, you say, contains all the public facts?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""It does.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Then let me have the private ones.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"He leaned back, put his finger-tips together, and assumed his most impassive and judicial expression.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""In doing so,"" said Dr. Mortimer, who had begun to show signs of some strong emotion, ""I am telling that which I have not confided to anyone.",0.5106,0.117,0.0,0.883,positive,The Hound of the Baskervilles
+My motive for withholding it from the coroner's inquiry is that a man of science shrinks from placing himself in the public position of seeming to indorse a popular superstition.,0.4215,0.094,0.0,0.906,positive,The Hound of the Baskervilles
+"I had the further motive that Baskerville Hall, as the paper says, would certainly remain untenanted if anything were done to increase its already rather grim reputation.",0.0,0.15,0.118,0.732,neutral,The Hound of the Baskervilles
+"For both these reasons I thought that I was justified in telling rather less than I knew, since no practical good could result from it, but with you there is no reason why I should not be perfectly frank.",-0.7312,0.089,0.209,0.702,negative,The Hound of the Baskervilles
+"""The moor is very sparsely inhabited, and those who live near each other are thrown very much together.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+For this reason I saw a good deal of Sir Charles Baskerville.,0.4404,0.244,0.0,0.756,positive,The Hound of the Baskervilles
+"With the exception of Mr. Frankland, of Lafter Hall, and Mr. Stapleton, the naturalist, there are no other men of education within many miles.",-0.296,0.0,0.087,0.913,negative,The Hound of the Baskervilles
+"Sir Charles was a retiring man, but the chance of his illness brought us together, and a community of interests in science kept us so.",0.1154,0.175,0.124,0.701,positive,The Hound of the Baskervilles
+"He had brought back much scientific information from South Africa, and many a charming evening we have spent together discussing the comparative anatomy of the Bushman and the Hottentot.",0.5859,0.123,0.0,0.877,positive,The Hound of the Baskervilles
+"""Within the last few months it became increasingly plain to me that Sir Charles's nervous system was strained to the breaking point.",-0.5859,0.0,0.194,0.806,negative,The Hound of the Baskervilles
+"He had taken this legend which I have read you exceedingly to heart--so much so that, although he would walk in his own grounds, nothing would induce him to go out upon the moor at night.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Incredible as it may appear to you, Mr. Holmes, he was honestly convinced that a dreadful fate overhung his family, and certainly the records which he was able to give of his ancestors were not encouraging.",0.3451,0.185,0.13,0.685,positive,The Hound of the Baskervilles
+"The idea of some ghastly presence constantly haunted him, and on more than one occasion he has asked me whether I had on my medical journeys at night ever seen any strange creature or heard the baying of a hound.",-0.5994,0.0,0.12,0.88,negative,The Hound of the Baskervilles
+"The latter question he put to me several times, and always with a voice which vibrated with excitement.",0.4939,0.167,0.0,0.833,positive,The Hound of the Baskervilles
+"""I can well remember driving up to his house in the evening some three weeks before the fatal event.",-0.34,0.093,0.155,0.752,negative,The Hound of the Baskervilles
+He chanced to be at his hall door.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"I had descended from my gig and was standing in front of him, when I saw his eyes fix themselves over my shoulder and stare past me with an expression of the most dreadful horror.",-0.8004,0.0,0.188,0.812,negative,The Hound of the Baskervilles
+I whisked round and had just time to catch a glimpse of something which I took to be a large black calf passing at the head of the drive.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+So excited and alarmed was he that I was compelled to go down to the spot where the animal had been and look around for it.,0.0591,0.136,0.093,0.77,positive,The Hound of the Baskervilles
+"It was gone, however, and the incident appeared to make the worst impression upon his mind.",-0.4939,0.095,0.205,0.7,negative,The Hound of the Baskervilles
+"I stayed with him all the evening, and it was on that occasion, to explain the emotion which he had shown, that he confided to my keeping that narrative which I read to you when first I came.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"I mention this small episode because it assumes some importance in view of the tragedy which followed, but I was convinced at the time that the matter was entirely trivial and that his excitement had no justification.",0.5662,0.235,0.155,0.611,positive,The Hound of the Baskervilles
+"""It was at my advice that Sir Charles was about to go to London.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"His heart was, I knew, affected, and the constant anxiety in which he lived, however chimerical the cause of it might be, was evidently having a serious effect upon his health.",-0.3818,0.0,0.15,0.85,negative,The Hound of the Baskervilles
+I thought that a few months among the distractions of town would send him back a new man.,-0.25,0.0,0.125,0.875,negative,The Hound of the Baskervilles
+"Mr. Stapleton, a mutual friend who was much concerned at his state of health, was of the same opinion.",0.4939,0.158,0.0,0.842,positive,The Hound of the Baskervilles
+At the last instant came this terrible catastrophe.,-0.8412,0.0,0.572,0.428,negative,The Hound of the Baskervilles
+"""On the night of Sir Charles's death Barrymore the butler, who made the discovery, sent Perkins the groom on horseback to me, and as I was sitting up late I was able to reach Baskerville Hall within an hour of the event.",-0.5859,0.026,0.091,0.884,negative,The Hound of the Baskervilles
+I checked and corroborated all the facts which were mentioned at the inquest.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"I followed the footsteps down the yew alley, I saw the spot at the moor-gate where he seemed to have waited, I remarked the change in the shape of the prints after that point, I noted that there were no other footsteps save those of Barrymore on the soft gravel, and finally I carefully examined the body, which had not been touched until my arrival.",0.25,0.073,0.057,0.87,positive,The Hound of the Baskervilles
+"Sir Charles lay on his face, his arms out, his fingers dug into the ground, and his features convulsed with some strong emotion to such an extent that I could hardly have sworn to his identity.",0.5106,0.088,0.0,0.912,positive,The Hound of the Baskervilles
+There was certainly no physical injury of any kind.,0.2023,0.367,0.316,0.316,positive,The Hound of the Baskervilles
+But one false statement was made by Barrymore at the inquest.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+He said that there were no traces upon the ground round the body.,-0.296,0.0,0.155,0.845,negative,The Hound of the Baskervilles
+He did not observe any.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"But I did--some little distance off, but fresh and clear.""",0.4497,0.269,0.0,0.731,positive,The Hound of the Baskervilles
+"""Footprints?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Footprints.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""A man's or a woman's?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Dr. Mortimer looked strangely at us for an instant, and his voice sank almost to a whisper as he answered.",-0.296,0.0,0.109,0.891,negative,The Hound of the Baskervilles
+"""Mr. Holmes, they were the footprints of a gigantic hound!""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Chapter 3.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+The Problem I confess at these words a shudder passed through me.,-0.4019,0.0,0.231,0.769,negative,The Hound of the Baskervilles
+There was a thrill in the doctor's voice which showed that he was himself deeply moved by that which he told us.,0.3612,0.111,0.0,0.889,positive,The Hound of the Baskervilles
+"Holmes leaned forward in his excitement and his eyes had the hard, dry glitter which shot from them when he was keenly interested.",0.7579,0.279,0.049,0.671,positive,The Hound of the Baskervilles
+"""You saw this?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""As clearly as I see you.""",0.4019,0.403,0.0,0.597,positive,The Hound of the Baskervilles
+"""And you said nothing?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""What was the use?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""How was it that no one else saw it?""",-0.296,0.0,0.216,0.784,negative,The Hound of the Baskervilles
+"""The marks were some twenty yards from the body and no one gave them a thought.",-0.296,0.0,0.136,0.864,negative,The Hound of the Baskervilles
+"I don't suppose I should have done so had I not known this legend.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""There are many sheep-dogs on the moor?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""No doubt, but this was no sheep-dog.""",-0.631,0.0,0.606,0.394,negative,The Hound of the Baskervilles
+"""You say it was large?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Enormous.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""But it had not approached the body?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""No.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""What sort of night was it?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Damp and raw.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""But not actually raining?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""No.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""What is the alley like?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""There are two lines of old yew hedge, twelve feet high and impenetrable.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"The walk in the centre is about eight feet across.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Is there anything between the hedges and the walk?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes, there is a strip of grass about six feet broad on either side.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I understand that the yew hedge is penetrated at one point by a gate?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes, the wicket-gate which leads on to the moor.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Is there any other opening?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""None.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""So that to reach the yew alley one either has to come down it from the house or else to enter it by the moor-gate?""",0.0935,0.054,0.0,0.946,positive,The Hound of the Baskervilles
+"""There is an exit through a summer-house at the far end.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Had Sir Charles reached this?""",0.1027,0.259,0.0,0.741,positive,The Hound of the Baskervilles
+"""No; he lay about fifty yards from it.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Now, tell me, Dr. Mortimer--and this is important--the marks which you saw were on the path and not on the grass?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""No marks could show on the grass.""",-0.296,0.0,0.268,0.732,negative,The Hound of the Baskervilles
+"""Were they on the same side of the path as the moor-gate?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes; they were on the edge of the path on the same side as the moor-gate.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""You interest me exceedingly.",0.4588,0.5,0.0,0.5,positive,The Hound of the Baskervilles
+Another point.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Was the wicket-gate closed?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Closed and padlocked.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""How high was it?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""About four feet high.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Then anyone could have got over it?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""And what marks did you see by the wicket-gate?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""None in particular.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Good heaven!",0.7574,1.0,0.0,0.0,positive,The Hound of the Baskervilles
+"Did no one examine?""",-0.296,0.0,0.423,0.577,negative,The Hound of the Baskervilles
+"""Yes, I examined, myself.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""And found nothing?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""It was all very confused.",-0.3804,0.0,0.393,0.607,negative,The Hound of the Baskervilles
+"Sir Charles had evidently stood there for five or ten minutes.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""How do you know that?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Because the ash had twice dropped from his cigar.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Excellent!",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"This is a colleague, Watson, after our own heart.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"But the marks?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""He had left his own marks all over that small patch of gravel.",-0.128,0.0,0.111,0.889,negative,The Hound of the Baskervilles
+"I could discern no others.""",-0.296,0.0,0.423,0.577,negative,The Hound of the Baskervilles
+Sherlock Holmes struck his hand against his knee with an impatient gesture.,0.0,0.195,0.256,0.549,neutral,The Hound of the Baskervilles
+"""If I had only been there!""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+he cried.,-0.3818,0.0,0.722,0.278,negative,The Hound of the Baskervilles
+"""It is evidently a case of extraordinary interest, and one which presented immense opportunities to the scientific expert.",0.6808,0.272,0.0,0.728,positive,The Hound of the Baskervilles
+That gravel page upon which I might have read so much has been long ere this smudged by the rain and defaced by the clogs of curious peasants.,0.2023,0.08,0.052,0.868,positive,The Hound of the Baskervilles
+"Oh, Dr. Mortimer, Dr. Mortimer, to think that you should not have called me in!",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"You have indeed much to answer for.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I could not call you in, Mr. Holmes, without disclosing these facts to the world, and I have already given my reasons for not wishing to do so.",-0.1695,0.0,0.06,0.94,negative,The Hound of the Baskervilles
+"Besides, besides--"" ""Why do you hesitate?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""There is a realm in which the most acute and most experienced of detectives is helpless.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""You mean that the thing is supernatural?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I did not positively say so.""",-0.4168,0.0,0.357,0.643,negative,The Hound of the Baskervilles
+"""No, but you evidently think it.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Since the tragedy, Mr. Holmes, there have come to my ears several incidents which are hard to reconcile with the settled order of Nature.""",-0.7003,0.0,0.209,0.791,negative,The Hound of the Baskervilles
+"""For example?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I find that before the terrible event occurred several people had seen a creature upon the moor which corresponds with this Baskerville demon, and which could not possibly be any animal known to science.",-0.4767,0.0,0.088,0.912,negative,The Hound of the Baskervilles
+"They all agreed that it was a huge creature, luminous, ghastly, and spectral.",0.5267,0.306,0.0,0.694,positive,The Hound of the Baskervilles
+"I have cross-examined these men, one of them a hard-headed countryman, one a farrier, and one a moorland farmer, who all tell the same story of this dreadful apparition, exactly corresponding to the hell-hound of the legend.",-0.5228,0.0,0.095,0.905,negative,The Hound of the Baskervilles
+"I assure you that there is a reign of terror in the district, and that it is a hardy man who will cross the moor at night.""",0.1779,0.173,0.115,0.712,positive,The Hound of the Baskervilles
+"""And you, a trained man of science, believe it to be supernatural?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I do not know what to believe.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Holmes shrugged his shoulders.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I have hitherto confined my investigations to this world,"" said he.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""In a modest way I have combated evil, but to take on the Father of Evil himself would, perhaps, be too ambitious a task.",-0.6858,0.134,0.284,0.582,negative,The Hound of the Baskervilles
+"Yet you must admit that the footmark is material.""",0.2023,0.184,0.0,0.816,positive,The Hound of the Baskervilles
+"""The original hound was material enough to tug a man's throat out, and yet he was diabolical as well.""",0.3182,0.119,0.0,0.881,positive,The Hound of the Baskervilles
+"""I see that you have quite gone over to the supernaturalists.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"But now, Dr. Mortimer, tell me this.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"If you hold these views, why have you come to consult me at all?",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"You tell me in the same breath that it is useless to investigate Sir Charles's death, and that you desire me to do it.""",-0.6124,0.089,0.22,0.691,negative,The Hound of the Baskervilles
+"""I did not say that I desired you to do it.""",-0.2057,0.0,0.168,0.832,negative,The Hound of the Baskervilles
+"""Then, how can I assist you?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""By advising me as to what I should do with Sir Henry Baskerville, who arrives at Waterloo Station""--Dr. Mortimer looked at his watch--""in exactly one hour and a quarter.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""He being the heir?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+On the death of Sir Charles we inquired for this young gentleman and found that he had been farming in Canada.,-0.5994,0.0,0.163,0.837,negative,The Hound of the Baskervilles
+From the accounts which have reached us he is an excellent fellow in every way.,0.6249,0.282,0.0,0.718,positive,The Hound of the Baskervilles
+"I speak now not as a medical man but as a trustee and executor of Sir Charles's will.""",0.3612,0.152,0.0,0.848,positive,The Hound of the Baskervilles
+"""There is no other claimant, I presume?""",-0.296,0.0,0.306,0.694,negative,The Hound of the Baskervilles
+"""None.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"The only other kinsman whom we have been able to trace was Rodger Baskerville, the youngest of three brothers of whom poor Sir Charles was the elder.",-0.4767,0.0,0.107,0.893,negative,The Hound of the Baskervilles
+"The second brother, who died young, is the father of this lad Henry.",-0.5574,0.0,0.231,0.769,negative,The Hound of the Baskervilles
+"The third, Rodger, was the black sheep of the family.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"He came of the old masterful Baskerville strain and was the very image, they tell me, of the family picture of old Hugo.",-0.0516,0.0,0.052,0.948,negative,The Hound of the Baskervilles
+"He made England too hot to hold him, fled to Central America, and died there in 1876 of yellow fever.",-0.5574,0.0,0.159,0.841,negative,The Hound of the Baskervilles
+Henry is the last of the Baskervilles.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+In one hour and five minutes I meet him at Waterloo Station.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+I have had a wire that he arrived at Southampton this morning.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Now, Mr. Holmes, what would you advise me to do with him?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Why should he not go to the home of his fathers?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""It seems natural, does it not?",0.3612,0.333,0.0,0.667,positive,The Hound of the Baskervilles
+"And yet, consider that every Baskerville who goes there meets with an evil fate.",-0.6597,0.0,0.253,0.747,negative,The Hound of the Baskervilles
+"I feel sure that if Sir Charles could have spoken with me before his death he would have warned me against bringing this, the last of the old race, and the heir to great wealth, to that deadly place.",0.5574,0.198,0.123,0.679,positive,The Hound of the Baskervilles
+"And yet it cannot be denied that the prosperity of the whole poor, bleak countryside depends upon his presence.",-0.1764,0.107,0.138,0.755,negative,The Hound of the Baskervilles
+All the good work which has been done by Sir Charles will crash to the ground if there is no tenant of the Hall.,-0.25,0.101,0.17,0.729,negative,The Hound of the Baskervilles
+"I fear lest I should be swayed too much by my own obvious interest in the matter, and that is why I bring the case before you and ask for your advice.""",-0.0258,0.123,0.096,0.781,neutral,The Hound of the Baskervilles
+Holmes considered for a little time.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Put into plain words, the matter is this,"" said he.",0.0258,0.109,0.0,0.891,neutral,The Hound of the Baskervilles
+"""In your opinion there is a diabolical agency which makes Dartmoor an unsafe abode for a Baskerville--that is your opinion?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""At least I might go the length of saying that there is some evidence that this may be so.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Exactly.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"But surely, if your supernatural theory be correct, it could work the young man evil in London as easily as in Devonshire.",-0.0387,0.217,0.19,0.593,neutral,The Hound of the Baskervilles
+"A devil with merely local powers like a parish vestry would be too inconceivable a thing.""",-0.4404,0.14,0.246,0.615,negative,The Hound of the Baskervilles
+"""You put the matter more flippantly, Mr. Holmes, than you would probably do if you were brought into personal contact with these things.",0.0258,0.048,0.0,0.952,neutral,The Hound of the Baskervilles
+"Your advice, then, as I understand it, is that the young man will be as safe in Devonshire as in London.",0.4404,0.132,0.0,0.868,positive,The Hound of the Baskervilles
+He comes in fifty minutes.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"What would you recommend?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I recommend, sir, that you take a cab, call off your spaniel who is scratching at my front door, and proceed to Waterloo to meet Sir Henry Baskerville.""",0.3612,0.088,0.0,0.912,positive,The Hound of the Baskervilles
+"""And then?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""And then you will say nothing to him at all until I have made up my mind about the matter.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""How long will it take you to make up your mind?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Twenty-four hours.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"At ten o'clock tomorrow, Dr. Mortimer, I will be much obliged to you if you will call upon me here, and it will be of help to me in my plans for the future if you will bring Sir Henry Baskerville with you.""",0.4019,0.062,0.0,0.938,positive,The Hound of the Baskervilles
+"""I will do so, Mr.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Holmes.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"He scribbled the appointment on his shirt-cuff and hurried off in his strange, peering, absent-minded fashion.",-0.2023,0.0,0.107,0.893,negative,The Hound of the Baskervilles
+Holmes stopped him at the head of the stair.,-0.2263,0.0,0.192,0.808,negative,The Hound of the Baskervilles
+"""Only one more question, Dr. Mortimer.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"You say that before Sir Charles Baskerville's death several people saw this apparition upon the moor?""",-0.5994,0.0,0.206,0.794,negative,The Hound of the Baskervilles
+"""Three people did.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Did any see it after?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I have not heard of any.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Thank you.",0.3612,0.714,0.0,0.286,positive,The Hound of the Baskervilles
+"Good-morning.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Holmes returned to his seat with that quiet look of inward satisfaction which meant that he had a congenial task before him.,0.4404,0.127,0.0,0.873,positive,The Hound of the Baskervilles
+"""Going out, Watson?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Unless I can help you.""",0.4019,0.474,0.0,0.526,positive,The Hound of the Baskervilles
+"""No, my dear fellow, it is at the hour of action that I turn to you for aid.",0.3818,0.14,0.0,0.86,positive,The Hound of the Baskervilles
+"But this is splendid, really unique from some points of view.",0.7351,0.342,0.0,0.658,positive,The Hound of the Baskervilles
+"When you pass Bradley's, would you ask him to send up a pound of the strongest shag tobacco?",0.4404,0.153,0.0,0.847,positive,The Hound of the Baskervilles
+Thank you.,0.3612,0.714,0.0,0.286,positive,The Hound of the Baskervilles
+It would be as well if you could make it convenient not to return before evening.,0.2732,0.123,0.0,0.877,positive,The Hound of the Baskervilles
+"Then I should be very glad to compare impressions as to this most interesting problem which has been submitted to us this morning.""",0.6379,0.281,0.102,0.617,positive,The Hound of the Baskervilles
+"I knew that seclusion and solitude were very necessary for my friend in those hours of intense mental concentration during which he weighed every particle of evidence, constructed alternative theories, balanced one against the other, and made up his mind as to which points were essential and which immaterial.",0.5423,0.089,0.0,0.911,positive,The Hound of the Baskervilles
+I therefore spent the day at my club and did not return to Baker Street until evening.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+It was nearly nine o'clock when I found myself in the sitting-room once more.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"My first impression as I opened the door was that a fire had broken out, for the room was so filled with smoke that the light of the lamp upon the table was blurred by it.",-0.5574,0.049,0.143,0.807,negative,The Hound of the Baskervilles
+"As I entered, however, my fears were set at rest, for it was the acrid fumes of strong coarse tobacco which took me by the throat and set me coughing.",0.1027,0.099,0.117,0.783,positive,The Hound of the Baskervilles
+Through the haze I had a vague vision of Holmes in his dressing-gown coiled up in an armchair with his black clay pipe between his lips.,0.1531,0.079,0.055,0.866,positive,The Hound of the Baskervilles
+Several rolls of paper lay around him.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Caught cold, Watson?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+said he.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""No, it's this poisonous atmosphere.""",-0.657,0.0,0.522,0.478,negative,The Hound of the Baskervilles
+"""I suppose it is pretty thick, now that you mention it.""",0.4939,0.242,0.0,0.758,positive,The Hound of the Baskervilles
+"""Thick!",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"It is intolerable.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Open the window, then!",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"You have been at your club all day, I perceive.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""My dear Holmes!""",0.4389,0.591,0.0,0.409,positive,The Hound of the Baskervilles
+"""Am I right?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Certainly, but how?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+He laughed at my bewildered expression.,0.4588,0.375,0.0,0.625,positive,The Hound of the Baskervilles
+"""There is a delightful freshness about you, Watson, which makes it a pleasure to exercise any small powers which I possess at your expense.",0.8176,0.283,0.0,0.717,positive,The Hound of the Baskervilles
+A gentleman goes forth on a showery and miry day.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+He returns immaculate in the evening with the gloss still on his hat and his boots.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+He has been a fixture therefore all day.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+He is not a man with intimate friends.,0.4767,0.341,0.0,0.659,positive,The Hound of the Baskervilles
+"Where, then, could he have been?",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Is it not obvious?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Well, it is rather obvious.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""The world is full of obvious things which nobody by any chance ever observes.",0.25,0.133,0.0,0.867,positive,The Hound of the Baskervilles
+"Where do you think that I have been?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""A fixture also.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""On the contrary, I have been to Devonshire.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""In spirit?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Exactly.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"My body has remained in this armchair and has, I regret to observe, consumed in my absence two large pots of coffee and an incredible amount of tobacco.",-0.4215,0.0,0.097,0.903,negative,The Hound of the Baskervilles
+"After you left I sent down to Stamford's for the Ordnance map of this portion of the moor, and my spirit has hovered over it all day.",0.1779,0.064,0.0,0.936,positive,The Hound of the Baskervilles
+"I flatter myself that I could find my way about.""",0.1027,0.167,0.0,0.833,positive,The Hound of the Baskervilles
+"""A large-scale map, I presume?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Very large.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+He unrolled one section and held it over his knee.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Here you have the particular district which concerns us.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"That is Baskerville Hall in the middle.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""With a wood round it?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Exactly.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"I fancy the yew alley, though not marked under that name, must stretch along this line, with the moor, as you perceive, upon the right of it.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"This small clump of buildings here is the hamlet of Grimpen, where our friend Dr. Mortimer has his headquarters.",0.4939,0.151,0.0,0.849,positive,The Hound of the Baskervilles
+"Within a radius of five miles there are, as you see, only a very few scattered dwellings.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Here is Lafter Hall, which was mentioned in the narrative.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"There is a house indicated here which may be the residence of the naturalist--Stapleton, if I remember right, was his name.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Here are two moorland farmhouses, High Tor and Foulmire.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+Then fourteen miles away the great convict prison of Princetown.,0.2023,0.266,0.214,0.519,positive,The Hound of the Baskervilles
+"Between and around these scattered points extends the desolate, lifeless moor.",0.128,0.13,0.0,0.87,positive,The Hound of the Baskervilles
+"This, then, is the stage upon which tragedy has been played, and upon which we may help to play it again.""",0.2732,0.26,0.152,0.588,positive,The Hound of the Baskervilles
+"""It must be a wild place.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes, the setting is a worthy one.",0.4404,0.367,0.0,0.633,positive,The Hound of the Baskervilles
+"If the devil did desire to have a hand in the affairs of men--"" ""Then you are yourself inclining to the supernatural explanation.""",0.128,0.201,0.15,0.648,positive,The Hound of the Baskervilles
+"""The devil's agents may be of flesh and blood, may they not?",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+There are two questions waiting for us at the outset.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"The one is whether any crime has been committed at all; the second is, what is the crime and how was it committed?",-0.5859,0.139,0.232,0.629,negative,The Hound of the Baskervilles
+"Of course, if Dr. Mortimer's surmise should be correct, and we are dealing with forces outside the ordinary laws of Nature, there is an end of our investigation.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+But we are bound to exhaust all other hypotheses before falling back upon this one.,-0.5719,0.0,0.266,0.734,negative,The Hound of the Baskervilles
+"I think we'll shut that window again, if you don't mind.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"It is a singular thing, but I find that a concentrated atmosphere helps a concentration of thought.",0.5267,0.221,0.0,0.779,positive,The Hound of the Baskervilles
+"I have not pushed it to the length of getting into a box to think, but that is the logical outcome of my convictions.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"Have you turned the case over in your mind?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Yes, I have thought a good deal of it in the course of the day.""",0.4404,0.195,0.0,0.805,positive,The Hound of the Baskervilles
+"""What do you make of it?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""It is very bewildering.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""It has certainly a character of its own.",0.34,0.286,0.0,0.714,positive,The Hound of the Baskervilles
+There are points of distinction about it.,0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"That change in the footprints, for example.",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"What do you make of that?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""Mortimer said that the man had walked on tiptoe down that portion of the alley.""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""He only repeated what some fool had said at the inquest.",-0.4404,0.0,0.225,0.775,negative,The Hound of the Baskervilles
+"Why should a man walk on tiptoe down the alley?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""What then?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""He was running, Watson--running desperately, running for his life, running until he burst his heart--and fell dead upon his face.""",-0.7845,0.0,0.277,0.723,negative,The Hound of the Baskervilles
+"""Running from what?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""There lies our problem.",-0.6705,0.0,0.733,0.267,negative,The Hound of the Baskervilles
+"There are indications that the man was crazed with fear before ever he began to run.""",-0.5719,0.0,0.251,0.749,negative,The Hound of the Baskervilles
+"""How can you say that?""",0.0,0.0,0.0,1.0,neutral,The Hound of the Baskervilles
+"""I am presuming that the cause of his fears came to him across the",-0.4215,0.0,0.177,0.823,negative,The Hound of the Baskervilles

@@ -1,0 +1,742 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Lost World This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.4404,0.066,0.158,0.776,negative,The Lost World
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Lost World
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Lost World
+"Title : The Lost World Author : Arthur Conan Doyle Release date : June 1, 1994 [eBook #139] Most recently updated: December 6, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/139 Credits : Produced by Judith Boss.",0.0516,0.07,0.064,0.866,positive,The Lost World
+HTML version by Al Haines.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"*** START OF THE PROJECT GUTENBERG EBOOK THE LOST WORLD *** THE LOST WORLD I have wrought my simple plan If I give one hour of joy To the boy who's half a man, Or the man who's half a boy.",-0.3107,0.087,0.138,0.775,negative,The Lost World
+"The Lost World By SIR ARTHUR CONAN DOYLE COPYRIGHT, 1912 Foreword Mr. E. D. Malone desires to state that both the injunction for restraint and the libel action have been withdrawn unreservedly by Professor G. E. Challenger, who, being satisfied that no criticism or comment in this book is meant in an offensive spirit, has guaranteed that he will place no impediment to its publication and circulation.",-0.765,0.077,0.162,0.76,negative,The Lost World
+Contents CHAPTER I.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""THERE ARE HEROISMS ALL ROUND US"" II.",0.4939,0.348,0.0,0.652,positive,The Lost World
+"""TRY YOUR LUCK WITH PROFESSOR CHALLENGER"" III.",0.5423,0.474,0.0,0.526,positive,The Lost World
+"""HE IS A PERFECTLY IMPOSSIBLE PERSON"" IV.",0.6369,0.457,0.0,0.543,positive,The Lost World
+"""IT'S JUST THE VERY BIGGEST THING IN THE WORLD"" V.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""QUESTION!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+VI.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I WAS THE FLAIL OF THE LORD"" VII.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""TO-MORROW WE DISAPPEAR INTO THE UNKNOWN"" VIII.",-0.2263,0.0,0.241,0.759,negative,The Lost World
+"""THE OUTLYING PICKETS OF THE NEW WORLD"" IX.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""WHO COULD HAVE FORESEEN IT?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+X.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""THE MOST WONDERFUL THINGS HAVE HAPPENED"" XI.",0.6115,0.4,0.0,0.6,positive,The Lost World
+"""FOR ONCE I WAS THE HERO"" XII.",0.5574,0.419,0.0,0.581,positive,The Lost World
+"""IT WAS DREADFUL IN THE FOREST"" XIII.",-0.4404,0.0,0.326,0.674,negative,The Lost World
+"""A SIGHT I SHALL NEVER FORGET"" XIV.",0.1695,0.25,0.0,0.75,positive,The Lost World
+"""THOSE WERE THE REAL CONQUESTS"" XV.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""OUR EYES HAVE SEEN GREAT WONDERS"" XVI.",0.6249,0.406,0.0,0.594,positive,The Lost World
+"""A PROCESSION!",0.0,0.0,0.0,1.0,neutral,The Lost World
+"A PROCESSION!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"THE LOST WORLD The Lost World CHAPTER I ""There Are Heroisms All Round Us"" Mr. Hungerton, her father, really was the most tactless person upon earth,--a fluffy, feathery, untidy cockatoo of a man, perfectly good-natured, but absolutely centered upon his own silly self.",0.2922,0.129,0.081,0.791,positive,The Lost World
+"If anything could have driven me from Gladys, it would have been the thought of such a father-in-law.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I am convinced that he really believed in his heart that I came round to the Chestnuts three days a week for the pleasure of his company, and very especially to hear his views upon bimetallism, a subject upon which he was by way of being an authority.",0.7717,0.158,0.0,0.842,positive,The Lost World
+"For an hour or more that evening I listened to his monotonous chirrup about bad money driving out good, the token value of silver, the depreciation of the rupee, and the true standards of exchange.",0.5574,0.195,0.084,0.721,positive,The Lost World
+"""Suppose,"" he cried with feeble violence, ""that all the debts in the world were called up simultaneously, and immediate payment insisted upon,--what under our present conditions would happen then?""",-0.836,0.0,0.255,0.745,negative,The Lost World
+"I gave the self-evident answer that I should be a ruined man, upon which he jumped from his chair, reproved me for my habitual levity, which made it impossible for him to discuss any reasonable subject in my presence, and bounced off out of the room to dress for a Masonic meeting.",-0.4767,0.0,0.062,0.938,negative,The Lost World
+"At last I was alone with Gladys, and the moment of Fate had come!",-0.3164,0.0,0.16,0.84,negative,The Lost World
+All that evening I had felt like the soldier who awaits the signal which will send him on a forlorn hope; hope of victory and fear of repulse alternating in his mind.,0.1531,0.236,0.172,0.591,positive,The Lost World
+"She sat with that proud, delicate profile of hers outlined against the red curtain.",0.5106,0.264,0.0,0.736,positive,The Lost World
+How beautiful she was!,0.636,0.583,0.0,0.417,positive,The Lost World
+And yet how aloof!,0.0,0.0,0.0,1.0,neutral,The Lost World
+"We had been friends, quite good friends; but never could I get beyond the same comradeship which I might have established with one of my fellow-reporters upon the Gazette,--perfectly frank, perfectly kindly, and perfectly unsexual.",0.9723,0.45,0.0,0.55,positive,The Lost World
+My instincts are all against a woman being too frank and at her ease with me.,0.3612,0.152,0.0,0.848,positive,The Lost World
+It is no compliment to a man.,0.2263,0.333,0.237,0.43,positive,The Lost World
+"Where the real sex feeling begins, timidity and distrust are its companions, heritage from old wicked days when love and violence went often hand in hand.",-0.128,0.283,0.295,0.422,negative,The Lost World
+"The bent head, the averted eye, the faltering voice, the wincing figure--these, and not the unshrinking gaze and frank reply, are the true signals of passion.",0.6705,0.193,0.043,0.764,positive,The Lost World
+Even in my short life I had learned as much as that--or had inherited it in that race memory which we call instinct.,0.0,0.0,0.0,1.0,neutral,The Lost World
+Gladys was full of every womanly quality.,0.0,0.0,0.0,1.0,neutral,The Lost World
+Some judged her to be cold and hard; but such a thought was treason.,-0.6187,0.0,0.315,0.685,negative,The Lost World
+"That delicately bronzed skin, almost oriental in its coloring, that raven hair, the large liquid eyes, the full but exquisite lips,--all the stigmata of passion were there.",0.6705,0.18,0.0,0.82,positive,The Lost World
+But I was sadly conscious that up to now I had never found the secret of drawing it forth.,-0.5719,0.0,0.188,0.812,negative,The Lost World
+"However, come what might, I should have done with suspense and bring matters to a head to-night.",0.0258,0.073,0.0,0.927,neutral,The Lost World
+"She could but refuse me, and better be a repulsed lover than an accepted brother.",0.6808,0.421,0.255,0.324,positive,The Lost World
+"So far my thoughts had carried me, and I was about to break the long and uneasy silence, when two critical, dark eyes looked round at me, and the proud head was shaken in smiling reproof.",0.2263,0.144,0.147,0.709,positive,The Lost World
+"""I have a presentiment that you are going to propose, Ned.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I do wish you wouldn't; for things are so much nicer as they are.""",0.7076,0.348,0.0,0.652,positive,The Lost World
+I drew my chair a little nearer.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Now, how did you know that I was going to propose?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I asked in genuine wonder.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Don't women always know?",0.0,0.0,0.0,1.0,neutral,The Lost World
+Do you suppose any woman in the world was ever taken unawares?,0.0,0.0,0.0,1.0,neutral,The Lost World
+"But--oh, Ned, our friendship has been so good and so pleasant!",0.8892,0.568,0.0,0.432,positive,The Lost World
+What a pity to spoil it!,-0.3595,0.0,0.384,0.616,negative,The Lost World
+"Don't you feel how splendid it is that a young man and a young woman should be able to talk face to face as we have talked?""",0.5859,0.137,0.0,0.863,positive,The Lost World
+"""I don't know, Gladys.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"You see, I can talk face to face with--with the station-master.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I can't imagine how that official came into the matter; but in he trotted, and set us both laughing.",0.6542,0.251,0.0,0.749,positive,The Lost World
+"""That does not satisfy me in the least.",-0.357,0.0,0.262,0.738,negative,The Lost World
+"I want my arms round you, and your head on my breast, and--oh, Gladys, I want----"" She had sprung from her chair, as she saw signs that I proposed to demonstrate some of my wants.",0.0772,0.04,0.0,0.96,positive,The Lost World
+"""You've spoiled everything, Ned,"" she said.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""It's all so beautiful and natural until this kind of thing comes in!",0.8421,0.422,0.0,0.578,positive,The Lost World
+It is such a pity!,-0.3595,0.0,0.454,0.546,negative,The Lost World
+"Why can't you control yourself?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I didn't invent it,"" I pleaded.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""It's nature.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"It's love.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Well, perhaps if both love, it may be different.",0.6369,0.344,0.0,0.656,positive,The Lost World
+"I have never felt it.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""But you must--you, with your beauty, with your soul!",0.7574,0.407,0.0,0.593,positive,The Lost World
+"Oh, Gladys, you were made for love!",0.6696,0.428,0.0,0.572,positive,The Lost World
+"You must love!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""One must wait till it comes.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""But why can't you love me, Gladys?",-0.6759,0.0,0.431,0.569,negative,The Lost World
+"Is it my appearance, or what?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+She did unbend a little.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"She put forward a hand--such a gracious, stooping attitude it was--and she pressed back my head.",0.5574,0.217,0.0,0.783,positive,The Lost World
+Then she looked into my upturned face with a very wistful smile.,0.4173,0.217,0.0,0.783,positive,The Lost World
+"""No it isn't that,"" she said at last.",-0.296,0.0,0.239,0.761,negative,The Lost World
+"""You're not a conceited boy by nature, and so I can safely tell you it is not that.",0.539,0.188,0.0,0.812,positive,The Lost World
+"It's deeper.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""My character?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+She nodded severely.,-0.4588,0.0,0.6,0.4,negative,The Lost World
+"""What can I do to mend it?",0.0,0.0,0.0,1.0,neutral,The Lost World
+Do sit down and talk it over.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"No, really, I won't if you'll only sit down!""",-0.3595,0.0,0.263,0.737,negative,The Lost World
+She looked at me with a wondering distrust which was much more to my mind than her whole-hearted confidence.,0.128,0.149,0.127,0.724,positive,The Lost World
+How primitive and bestial it looks when you put it down in black and white!--and perhaps after all it is only a feeling peculiar to myself.,0.3382,0.129,0.0,0.871,positive,The Lost World
+"Anyhow, she sat down.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Now tell me what's amiss with me?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I'm in love with somebody else,"" said she.",0.6369,0.375,0.0,0.625,positive,The Lost World
+It was my turn to jump out of my chair.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""It's nobody in particular,"" she explained, laughing at the expression of my face: ""only an ideal.",0.765,0.32,0.0,0.68,positive,The Lost World
+"I've never met the kind of man I mean.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Tell me about him.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"What does he look like?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Oh, he might look very much like you.""",0.4173,0.284,0.0,0.716,positive,The Lost World
+"""How dear of you to say that!",0.4389,0.325,0.0,0.675,positive,The Lost World
+"Well, what is it that he does that I don't do?",0.2732,0.189,0.0,0.811,positive,The Lost World
+"Just say the word,--teetotal, vegetarian, aeronaut, theosophist, superman.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I'll have a try at it, Gladys, if you will only give me an idea what would please you.""",0.3182,0.119,0.0,0.881,positive,The Lost World
+She laughed at the elasticity of my character.,0.4588,0.3,0.0,0.7,positive,The Lost World
+"""Well, in the first place, I don't think my ideal would speak like that,"" said she.",-0.0711,0.137,0.152,0.711,negative,The Lost World
+"""He would be a harder, sterner man, not so ready to adapt himself to a silly girl's whim.",-0.3733,0.062,0.15,0.788,negative,The Lost World
+"But, above all, he must be a man who could do, who could act, who could look Death in the face and have no fear of him, a man of great deeds and strange experiences.",-0.8402,0.117,0.303,0.58,negative,The Lost World
+"It is never a man that I should love, but always the glories he had won; for they would be reflected upon me.",0.9153,0.396,0.0,0.604,positive,The Lost World
+Think of Richard Burton!,0.0,0.0,0.0,1.0,neutral,The Lost World
+When I read his wife's life of him I could so understand her love!,0.6962,0.302,0.0,0.698,positive,The Lost World
+And Lady Stanley!,0.0,0.0,0.0,1.0,neutral,The Lost World
+Did you ever read the wonderful last chapter of that book about her husband?,0.5719,0.222,0.0,0.778,positive,The Lost World
+"These are the sort of men that a woman could worship with all her soul, and yet be the greater, not the less, on account of her love, honored by all the world as the inspirer of noble deeds.""",0.9578,0.371,0.0,0.629,positive,The Lost World
+She looked so beautiful in her enthusiasm that I nearly brought down the whole level of the interview.,0.8356,0.345,0.0,0.655,positive,The Lost World
+"I gripped myself hard, and went on with the argument.",-0.4404,0.0,0.358,0.642,negative,The Lost World
+"""We can't all be Stanleys and Burtons,"" said I; ""besides, we don't get the chance,--at least, I never had the chance.",-0.1877,0.0,0.084,0.916,negative,The Lost World
+"If I did, I should try to take it.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""But chances are all around you.",0.296,0.306,0.0,0.694,positive,The Lost World
+It is the mark of the kind of man I mean that he makes his own chances.,0.2023,0.107,0.0,0.893,positive,The Lost World
+You can't hold him back.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"I've never met him, and yet I seem to know him so well.",0.4101,0.199,0.0,0.801,positive,The Lost World
+There are heroisms all round us waiting to be done.,0.4939,0.262,0.0,0.738,positive,The Lost World
+"It's for men to do them, and for women to reserve their love as a reward for such men.",0.836,0.331,0.0,0.669,positive,The Lost World
+Look at that young Frenchman who went up last week in a balloon.,0.0,0.0,0.0,1.0,neutral,The Lost World
+It was blowing a gale of wind; but because he was announced to go he insisted on starting.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"The wind blew him fifteen hundred miles in twenty-four hours, and he fell in the middle of Russia.",0.0,0.0,0.0,1.0,neutral,The Lost World
+That was the kind of man I mean.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Think of the woman he loved, and how other women must have envied her!",0.4753,0.229,0.115,0.656,positive,The Lost World
+"That's what I should like to be,--envied for my man.""",0.3612,0.238,0.0,0.762,positive,The Lost World
+"""I'd have done it to please you.""",0.3182,0.277,0.0,0.723,positive,The Lost World
+"""But you shouldn't do it merely to please me.",0.4497,0.269,0.0,0.731,positive,The Lost World
+"You should do it because you can't help yourself, because it's natural to you, because the man in you is crying out for heroic expression.",0.1882,0.188,0.165,0.647,positive,The Lost World
+"Now, when you described the Wigan coal explosion last month, could you not have gone down and helped those people, in spite of the choke-damp?""",-0.5267,0.0,0.124,0.876,negative,The Lost World
+"""I did.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You never said so.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""There was nothing worth bucking about.""",-0.1695,0.0,0.25,0.75,negative,The Lost World
+"""I didn't know.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+She looked at me with rather more interest.,0.5095,0.32,0.0,0.68,positive,The Lost World
+"""That was brave of you.""",0.5267,0.459,0.0,0.541,positive,The Lost World
+"""I had to.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"If you want to write good copy, you must be where the things are.""",0.4939,0.259,0.0,0.741,positive,The Lost World
+"""What a prosaic motive!",0.0,0.0,0.0,1.0,neutral,The Lost World
+It seems to take all the romance out of it.,0.5574,0.286,0.0,0.714,positive,The Lost World
+"But, still, whatever your motive, I am glad that you went down that mine.""",0.6124,0.25,0.0,0.75,positive,The Lost World
+She gave me her hand; but with such sweetness and dignity that I could only stoop and kiss it.,0.928,0.494,0.0,0.506,positive,The Lost World
+"""I dare say I am merely a foolish woman with a young girl's fancies.",-0.2732,0.0,0.174,0.826,negative,The Lost World
+"And yet it is so real with me, so entirely part of my very self, that I cannot help acting upon it.",-0.3089,0.0,0.101,0.899,negative,The Lost World
+"If I marry, I do want to marry a famous man!""",0.1511,0.185,0.0,0.815,positive,The Lost World
+"""Why should you not?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I cried.,-0.3818,0.0,1.0,0.0,negative,The Lost World
+"""It is women like you who brace men up.",0.3612,0.238,0.0,0.762,positive,The Lost World
+"Give me a chance, and see if I will take it!",0.3164,0.223,0.0,0.777,positive,The Lost World
+"Besides, as you say, men ought to MAKE their own chances, and not wait until they are given.",0.2023,0.096,0.0,0.904,positive,The Lost World
+"Look at Clive--just a clerk, and he conquered India!",0.0,0.0,0.0,1.0,neutral,The Lost World
+By George!,0.0,0.0,0.0,1.0,neutral,The Lost World
+"I'll do something in the world yet!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+She laughed at my sudden Irish effervescence.,0.4588,0.333,0.0,0.667,positive,The Lost World
+"""Why not?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+she said.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You have everything a man could have,--youth, health, strength, education, energy.",0.6486,0.398,0.0,0.602,positive,The Lost World
+I was sorry you spoke.,-0.0772,0.0,0.302,0.698,negative,The Lost World
+"And now I am glad--so glad--if it wakens these thoughts in you!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""And if I do----"" Her dear hand rested like warm velvet upon my lips.",0.8481,0.531,0.0,0.469,positive,The Lost World
+"""Not another word, Sir!",0.0,0.0,0.0,1.0,neutral,The Lost World
+You should have been at the office for evening duty half an hour ago; only I hadn't the heart to remind you.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Some day, perhaps, when you have won your place in the world, we shall talk it over again.""",0.5719,0.179,0.0,0.821,positive,The Lost World
+"And so it was that I found myself that foggy November evening pursuing the Camberwell tram with my heart glowing within me, and with the eager determination that not another day should elapse before I should find some deed which was worthy of my lady.",0.7964,0.168,0.0,0.832,positive,The Lost World
+"But who--who in all this wide world could ever have imagined the incredible shape which that deed was to take, or the strange steps by which I was led to the doing of it?",-0.296,0.0,0.064,0.936,negative,The Lost World
+"And, after all, this opening chapter will seem to the reader to have nothing to do with my narrative; and yet there would have been no narrative without it, for it is only when a man goes out into the world with the thought that there are heroisms all round him, and with the desire all alive in his heart to follow any which may come within sight of him, that he breaks away as I did from the life he knows, and ventures forth into the wonderful mystic twilight land where lie the great adventures and the great rewards.",0.9741,0.221,0.019,0.76,positive,The Lost World
+"Behold me, then, at the office of the Daily Gazette, on the staff of which I was a most insignificant unit, with the settled determination that very night, if possible, to find the quest which should be worthy of my Gladys!",0.4937,0.132,0.06,0.807,positive,The Lost World
+"Was it hardness, was it selfishness, that she should ask me to risk my life for her own glorification?",-0.2023,0.126,0.202,0.672,negative,The Lost World
+Such thoughts may come to middle age; but never to ardent three-and-twenty in the fever of his first love.,0.5376,0.222,0.127,0.651,positive,The Lost World
+"CHAPTER II ""Try Your Luck with Professor Challenger"" I always liked McArdle, the crabbed, old, round-backed, red-headed news editor, and I rather hoped that he liked me.",0.8934,0.388,0.0,0.612,positive,The Lost World
+"Of course, Beaumont was the real boss; but he lived in the rarefied atmosphere of some Olympian height from which he could distinguish nothing smaller than an international crisis or a split in the Cabinet.",-0.7684,0.0,0.146,0.854,negative,The Lost World
+"Sometimes we saw him passing in lonely majesty to his inner sanctum, with his eyes staring vaguely and his mind hovering over the Balkans or the Persian Gulf.",-0.3612,0.0,0.085,0.915,negative,The Lost World
+He was above and beyond us.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"But McArdle was his first lieutenant, and it was he that we knew.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"The old man nodded as I entered the room, and he pushed his spectacles far up on his bald forehead.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Well, Mr. Malone, from all I hear, you seem to be doing very well,"" said he in his kindly Scotch accent.",0.4939,0.144,0.0,0.856,positive,The Lost World
+I thanked him.,0.4404,0.744,0.0,0.256,positive,The Lost World
+"""The colliery explosion was excellent.",0.5719,0.481,0.0,0.519,positive,The Lost World
+So was the Southwark fire.,-0.34,0.0,0.375,0.625,negative,The Lost World
+You have the true descreeptive touch.,0.4215,0.359,0.0,0.641,positive,The Lost World
+"What did you want to see me about?""",0.0772,0.157,0.0,0.843,positive,The Lost World
+"""To ask a favor.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"He looked alarmed, and his eyes shunned mine.",-0.34,0.0,0.255,0.745,negative,The Lost World
+"""Tut, tut!",0.0,0.0,0.0,1.0,neutral,The Lost World
+"What is it?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Do you think, Sir, that you could possibly send me on some mission for the paper?",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I would do my best to put it through and get you some good copy.""",0.7964,0.372,0.0,0.628,positive,The Lost World
+"""What sort of meesion had you in your mind, Mr.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Malone?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Well, Sir, anything that had adventure and danger in it.",-0.2732,0.168,0.248,0.584,negative,The Lost World
+I really would do my very best.,0.6697,0.473,0.0,0.527,positive,The Lost World
+"The more difficult it was, the better it would suit me.""",0.0276,0.197,0.19,0.613,neutral,The Lost World
+"""You seem very anxious to lose your life.""",-0.6436,0.0,0.467,0.533,negative,The Lost World
+"""To justify my life, Sir.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Dear me, Mr. Malone, this is very--very exalted.",0.3818,0.271,0.0,0.729,positive,The Lost World
+I'm afraid the day for this sort of thing is rather past.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"The expense of the 'special meesion' business hardly justifies the result, and, of course, in any case it would only be an experienced man with a name that would command public confidence who would get such an order.",0.7184,0.146,0.0,0.854,positive,The Lost World
+"The big blank spaces in the map are all being filled in, and there's no room for romance anywhere.",0.34,0.158,0.096,0.746,positive,The Lost World
+"Wait a bit, though!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"he added, with a sudden smile upon his face.",0.3612,0.263,0.0,0.737,positive,The Lost World
+"""Talking of the blank spaces of the map gives me an idea.",0.0,0.0,0.0,1.0,neutral,The Lost World
+What about exposing a fraud--a modern Munchausen--and making him rideeculous?,-0.2732,0.0,0.208,0.792,negative,The Lost World
+You could show him up as the liar that he is!,-0.5562,0.0,0.264,0.736,negative,The Lost World
+"Eh, man, it would be fine.",0.2023,0.265,0.0,0.735,positive,The Lost World
+"How does it appeal to you?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Anything--anywhere--I care nothing.""",0.4939,0.615,0.0,0.385,positive,The Lost World
+McArdle was plunged in thought for some minutes.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I wonder whether you could get on friendly--or at least on talking terms with the fellow,"" he said, at last.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You seem to have a sort of genius for establishing relations with people--seempathy, I suppose, or animal magnetism, or youthful vitality, or something.",0.5574,0.195,0.0,0.805,positive,The Lost World
+"I am conscious of it myself.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You are very good, sir.""",0.4927,0.444,0.0,0.556,positive,The Lost World
+"""So why should you not try your luck with Professor Challenger, of Enmore Park?""",-0.2453,0.094,0.155,0.751,negative,The Lost World
+I dare say I looked a little startled.,-0.1045,0.0,0.26,0.74,negative,The Lost World
+"""Challenger!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I cried.,-0.3818,0.0,1.0,0.0,negative,The Lost World
+"""Professor Challenger, the famous zoologist!",0.2003,0.309,0.0,0.691,positive,The Lost World
+"Wasn't he the man who broke the skull of Blundell, of the Telegraph?""",-0.4215,0.0,0.189,0.811,negative,The Lost World
+The news editor smiled grimly.,0.296,0.398,0.261,0.341,positive,The Lost World
+"""Do you mind?",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Didn't you say it was adventures you were after?""",0.34,0.231,0.0,0.769,positive,The Lost World
+"""It is all in the way of business, sir,"" I answered.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Exactly.",0.0,0.0,0.0,1.0,neutral,The Lost World
+I don't suppose he can always be so violent as that.,-0.7177,0.0,0.357,0.643,negative,The Lost World
+"I'm thinking that Blundell got him at the wrong moment, maybe, or in the wrong fashion.",-0.7351,0.0,0.307,0.693,negative,The Lost World
+"You may have better luck, or more tact in handling him.",0.7096,0.396,0.0,0.604,positive,The Lost World
+"There's something in your line there, I am sure, and the Gazette should work it.""",0.3182,0.15,0.0,0.85,positive,The Lost World
+"""I really know nothing about him,"" said I.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I only remember his name in connection with the police-court proceedings, for striking Blundell.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I have a few notes for your guidance, Mr. Malone.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I've had my eye on the Professor for some little time.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+He took a paper from a drawer.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Here is a summary of his record.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I give it you briefly:-- ""'Challenger, George Edward.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Born: Largs, N. B., 1863.",0.0,0.0,0.0,1.0,neutral,The Lost World
+Educ.,0.0,0.0,0.0,1.0,neutral,The Lost World
+: Largs Academy; Edinburgh University.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"British Museum Assistant, 1892.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Assistant-Keeper of Comparative Anthropology Department, 1893.",0.0,0.0,0.0,1.0,neutral,The Lost World
+Resigned after acrimonious correspondence same year.,-0.5719,0.0,0.54,0.46,negative,The Lost World
+Winner of Crayston Medal for Zoological Research.,0.7845,0.58,0.0,0.42,positive,The Lost World
+"Foreign Member of'--well, quite a lot of things, about two inches of small type--'Societe Belge, American Academy of Sciences, La Plata, etc., etc.",0.0,0.0,0.0,1.0,neutral,The Lost World
+Ex-President Palaeontological Society.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Section H, British Association'--so on, so on!--'Publications: ""Some Observations Upon a Series of Kalmuck Skulls""; ""Outlines of Vertebrate Evolution""; and numerous papers, including ""The underlying fallacy of Weissmannism,"" which caused heated discussion at the Zoological Congress of Vienna.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Recreations: Walking, Alpine climbing.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Address: Enmore Park, Kensington, W.' ""There, take it with you.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I've nothing more for you to-night.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I pocketed the slip of paper.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""One moment, sir,"" I said, as I realized that it was a pink bald head, and not a red face, which was fronting me.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I am not very clear yet why I am to interview this gentleman.",-0.3401,0.0,0.179,0.821,negative,The Lost World
+"What has he done?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+The face flashed back again.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Went to South America on a solitary expedeetion two years ago.",0.0,0.0,0.0,1.0,neutral,The Lost World
+Came back last year.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Had undoubtedly been to South America, but refused to say exactly where.",-0.4215,0.0,0.203,0.797,negative,The Lost World
+"Began to tell his adventures in a vague way, but somebody started to pick holes, and he just shut up like an oyster.",0.5789,0.197,0.048,0.755,positive,The Lost World
+"Something wonderful happened--or the man's a champion liar, which is the more probable supposeetion.",0.6486,0.364,0.158,0.478,positive,The Lost World
+"Had some damaged photographs, said to be fakes.",-0.6908,0.0,0.487,0.513,negative,The Lost World
+"Got so touchy that he assaults anyone who asks questions, and heaves reporters down the stairs.",-0.5423,0.0,0.189,0.811,negative,The Lost World
+In my opinion he's just a homicidal megalomaniac with a turn for science.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"That's your man, Mr. Malone.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Now, off you run, and see what you can make of him.",0.0,0.0,0.0,1.0,neutral,The Lost World
+You're big enough to look after yourself.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Anyway, you are all safe.",0.4404,0.42,0.0,0.58,positive,The Lost World
+"Employers' Liability Act, you know.""",-0.2023,0.0,0.31,0.69,negative,The Lost World
+"A grinning red face turned once more into a pink oval, fringed with gingery fluff; the interview was at an end.",0.3612,0.122,0.0,0.878,positive,The Lost World
+"I walked across to the Savage Club, but instead of turning into it I leaned upon the railings of Adelphi Terrace and gazed thoughtfully for a long time at the brown, oily river.",0.3716,0.106,0.06,0.835,positive,The Lost World
+I can always think most sanely and clearly in the open air.,0.4522,0.229,0.0,0.771,positive,The Lost World
+"I took out the list of Professor Challenger's exploits, and I read it over under the electric lamp.",-0.34,0.0,0.138,0.862,negative,The Lost World
+Then I had what I can only regard as an inspiration.,0.5267,0.298,0.0,0.702,positive,The Lost World
+"As a Pressman, I felt sure from what I had been told that I could never hope to get into touch with this cantankerous Professor.",-0.0274,0.097,0.101,0.801,neutral,The Lost World
+"But these recriminations, twice mentioned in his skeleton biography, could only mean that he was a fanatic in science.",0.0,0.0,0.0,1.0,neutral,The Lost World
+Was there not an exposed margin there upon which he might be accessible?,0.0572,0.092,0.0,0.908,positive,The Lost World
+I would try.,0.0,0.0,0.0,1.0,neutral,The Lost World
+I entered the club.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"It was just after eleven, and the big room was fairly full, though the rush had not yet set in.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I noticed a tall, thin, angular man seated in an arm-chair by the fire.",-0.34,0.0,0.179,0.821,negative,The Lost World
+He turned as I drew my chair up to him.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"It was the man of all others whom I should have chosen--Tarp Henry, of the staff of Nature, a thin, dry, leathery creature, who was full, to those who knew him, of kindly humanity.",0.4939,0.094,0.0,0.906,positive,The Lost World
+I plunged instantly into my subject.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""What do you know of Professor Challenger?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Challenger?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+He gathered his brows in scientific disapproval.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Challenger was the man who came with some cock-and-bull story from South America.""",0.128,0.111,0.0,0.889,positive,The Lost World
+"""What story?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Oh, it was rank nonsense about some queer animals he had discovered.",-0.4019,0.0,0.197,0.803,negative,The Lost World
+I believe he has retracted since.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Anyhow, he has suppressed it all.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"He gave an interview to Reuter's, and there was such a howl that he saw it wouldn't do.",0.0,0.0,0.0,1.0,neutral,The Lost World
+It was a discreditable business.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"There were one or two folk who were inclined to take him seriously, but he soon choked them off.""",-0.6705,0.0,0.244,0.756,negative,The Lost World
+"""How?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Well, by his insufferable rudeness and impossible behavior.",-0.3612,0.0,0.263,0.737,negative,The Lost World
+"There was poor old Wadley, of the Zoological Institute.",-0.4767,0.0,0.279,0.721,negative,The Lost World
+"Wadley sent a message: 'The President of the Zoological Institute presents his compliments to Professor Challenger, and would take it as a personal favor if he would do them the honor to come to their next meeting.'",0.8442,0.246,0.0,0.754,positive,The Lost World
+"The answer was unprintable.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You don't say?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Well, a bowdlerized version of it would run: 'Professor Challenger presents his compliments to the President of the Zoological Institute, and would take it as a personal favor if he would go to the devil.'""",0.7096,0.187,0.0,0.813,positive,The Lost World
+"""Good Lord!""",0.4926,0.761,0.0,0.239,positive,The Lost World
+"""Yes, I expect that's what old Wadley said.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I remember his wail at the meeting, which began: 'In fifty years experience of scientific intercourse----' It quite broke the old man up.""",-0.4754,0.0,0.128,0.872,negative,The Lost World
+"""Anything more about Challenger?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Well, I'm a bacteriologist, you know.",0.0,0.0,0.0,1.0,neutral,The Lost World
+I live in a nine-hundred-diameter microscope.,0.0,0.0,0.0,1.0,neutral,The Lost World
+I can hardly claim to take serious notice of anything that I can see with my naked eye.,-0.0772,0.0,0.08,0.92,negative,The Lost World
+"I'm a frontiersman from the extreme edge of the Knowable, and I feel quite out of place when I leave my study and come into touch with all you great, rough, hulking creatures.",0.5994,0.123,0.036,0.841,positive,The Lost World
+"I'm too detached to talk scandal, and yet at scientific conversaziones I HAVE heard something of Challenger, for he is one of those men whom nobody can ignore.",-0.6597,0.048,0.22,0.732,negative,The Lost World
+"He's as clever as they make 'em--a full-charged battery of force and vitality, but a quarrelsome, ill-conditioned faddist, and unscrupulous at that.",0.3919,0.161,0.0,0.839,positive,The Lost World
+"He had gone the length of faking some photographs over the South American business.""",-0.4215,0.0,0.177,0.823,negative,The Lost World
+"""You say he is a faddist.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"What is his particular fad?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""He has a thousand, but the latest is something about Weissmann and Evolution.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"He had a fearful row about it in Vienna, I believe.""",-0.4939,0.0,0.286,0.714,negative,The Lost World
+"""Can't you tell me the point?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Not at the moment, but a translation of the proceedings exists.",0.0,0.0,0.0,1.0,neutral,The Lost World
+We have it filed at the office.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Would you care to come?""",0.4939,0.444,0.0,0.556,positive,The Lost World
+"""It's just what I want.",0.0772,0.302,0.0,0.698,positive,The Lost World
+"I have to interview the fellow, and I need some lead up to him.",0.0,0.0,0.0,1.0,neutral,The Lost World
+It's really awfully good of you to give me a lift.,0.5379,0.278,0.0,0.722,positive,The Lost World
+"I'll go with you now, if it is not too late.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Half an hour later I was seated in the newspaper office with a huge tome in front of me, which had been opened at the article ""Weissmann versus Darwin,"" with the sub heading, ""Spirited Protest at Vienna.",0.3818,0.119,0.052,0.829,positive,The Lost World
+"Lively Proceedings.""",0.4404,0.744,0.0,0.256,positive,The Lost World
+"My scientific education having been somewhat neglected, I was unable to follow the whole argument, but it was evident that the English Professor had handled his subject in a very aggressive fashion, and had thoroughly annoyed his Continental colleagues.",-0.8394,0.0,0.232,0.768,negative,The Lost World
+"""Protests,"" ""Uproar,"" and ""General appeal to the Chairman"" were three of the first brackets which caught my eye.",0.0,0.0,0.0,1.0,neutral,The Lost World
+Most of the matter might have been written in Chinese for any definite meaning that it conveyed to my brain.,0.3535,0.161,0.0,0.839,positive,The Lost World
+"""I wish you could translate it into English for me,"" I said, pathetically, to my help-mate.",-0.0258,0.146,0.151,0.703,neutral,The Lost World
+"""Well, it is a translation.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Then I'd better try my luck with the original.""",0.7096,0.457,0.0,0.543,positive,The Lost World
+"""It is certainly rather deep for a layman.""",0.34,0.286,0.0,0.714,positive,The Lost World
+"""If I could only get a single good, meaty sentence which seemed to convey some sort of definite human idea, it would serve my turn.",0.6133,0.231,0.0,0.769,positive,The Lost World
+"Ah, yes, this one will do.",0.4019,0.351,0.0,0.649,positive,The Lost World
+I seem in a vague way almost to understand it.,-0.1027,0.0,0.167,0.833,negative,The Lost World
+I'll copy it out.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"This shall be my link with the terrible Professor.""",-0.4767,0.0,0.279,0.721,negative,The Lost World
+"""Nothing else I can do?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Well, yes; I propose to write to him.",0.4019,0.31,0.0,0.69,positive,The Lost World
+"If I could frame the letter here, and use your address it would give atmosphere.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""We'll have the fellow round here making a row and breaking the furniture.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""No, no; you'll see the letter--nothing contentious, I assure you.""",-0.25,0.187,0.344,0.469,negative,The Lost World
+"""Well, that's my chair and desk.",0.0,0.0,0.0,1.0,neutral,The Lost World
+You'll find paper there.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"I'd like to censor it before it goes.""",-0.128,0.217,0.261,0.522,negative,The Lost World
+"It took some doing, but I flatter myself that it wasn't such a bad job when it was finished.",0.657,0.264,0.0,0.736,positive,The Lost World
+I read it aloud to the critical bacteriologist with some pride in my handiwork.,0.0258,0.153,0.146,0.701,neutral,The Lost World
+"""DEAR PROFESSOR CHALLENGER,"" it said, ""As a humble student of Nature, I have always taken the most profound interest in your speculations as to the differences between Darwin and Weissmann.",0.7657,0.203,0.0,0.797,positive,The Lost World
+"I have recently had occasion to refresh my memory by re-reading----"" ""You infernal liar!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+murmured Tarp Henry.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"--""by re-reading your masterly address at Vienna.",0.0,0.0,0.0,1.0,neutral,The Lost World
+That lucid and admirable statement seems to be the last word in the matter.,0.5719,0.281,0.0,0.719,positive,The Lost World
+"There is one sentence in it, however--namely: 'I protest strongly against the insufferable and entirely dogmatic assertion that each separate id is a microcosm possessed of an historical architecture elaborated slowly through the series of generations.'",0.1027,0.091,0.053,0.856,positive,The Lost World
+"Have you no desire, in view of later research, to modify this statement?",0.128,0.17,0.138,0.692,positive,The Lost World
+Do you not think that it is over-accentuated?,0.0,0.0,0.0,1.0,neutral,The Lost World
+"With your permission, I would ask the favor of an interview, as I feel strongly upon the subject, and have certain suggestions which I could only elaborate in a personal conversation.",0.7096,0.223,0.0,0.777,positive,The Lost World
+"With your consent, I trust to have the honor of calling at eleven o'clock the day after to-morrow (Wednesday) morning.",0.8126,0.344,0.0,0.656,positive,The Lost World
+"""I remain, Sir, with assurances of profound respect, yours very truly, EDWARD D.",0.8268,0.465,0.0,0.535,positive,The Lost World
+"MALONE.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""How's that?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I asked, triumphantly.",0.5106,0.767,0.0,0.233,positive,The Lost World
+"""Well if your conscience can stand it----"" ""It has never failed me yet.""",0.5862,0.304,0.0,0.696,positive,The Lost World
+"""But what do you mean to do?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""To get there.",0.0,0.0,0.0,1.0,neutral,The Lost World
+Once I am in his room I may see some opening.,0.0,0.0,0.0,1.0,neutral,The Lost World
+I may even go the length of open confession.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"If he is a sportsman he will be tickled.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Tickled, indeed!",0.0,0.0,0.0,1.0,neutral,The Lost World
+He's much more likely to do the tickling.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Chain mail, or an American football suit--that's what you'll want.",0.0772,0.126,0.0,0.874,positive,The Lost World
+"Well, good-bye.",0.2732,0.677,0.0,0.323,positive,The Lost World
+I'll have the answer for you here on Wednesday morning--if he ever deigns to answer you.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"He is a violent, dangerous, cantankerous character, hated by everyone who comes across him, and the butt of the students, so far as they dare take a liberty with him.",-0.8316,0.088,0.29,0.622,negative,The Lost World
+"Perhaps it would be best for you if you never heard from the fellow at all.""",0.6369,0.219,0.0,0.781,positive,The Lost World
+"CHAPTER III ""He is a Perfectly Impossible Person"" My friend's fear or hope was not destined to be realized.",0.5994,0.281,0.126,0.593,positive,The Lost World
+"When I called on Wednesday there was a letter with the West Kensington postmark upon it, and my name scrawled across the envelope in a handwriting which looked like a barbed-wire railing.",0.3612,0.085,0.0,0.915,positive,The Lost World
+"The contents were as follows:-- ""ENMORE PARK, W. ""SIR,--I have duly received your note, in which you claim to endorse my views, although I am not aware that they are dependent upon endorsement either from you or anyone else.",0.5574,0.113,0.0,0.887,positive,The Lost World
+"You have ventured to use the word 'speculation' with regard to my statement upon the subject of Darwinism, and I would call your attention to the fact that such a word in such a connection is offensive to a degree.",-0.4588,0.0,0.079,0.921,negative,The Lost World
+"The context convinces me, however, that you have sinned rather through ignorance and tactlessness than through malice, so I am content to pass the matter by.",-0.1779,0.103,0.092,0.806,negative,The Lost World
+"You quote an isolated sentence from my lecture, and appear to have some difficulty in understanding it.",-0.5267,0.065,0.235,0.7,negative,The Lost World
+"I should have thought that only a sub-human intelligence could have failed to grasp the point, but if it really needs amplification I shall consent to see you at the hour named, though visits and visitors of every sort are exceeding distasteful to me.",0.3071,0.099,0.048,0.853,positive,The Lost World
+"As to your suggestion that I may modify my opinion, I would have you know that it is not my habit to do so after a deliberate expression of my mature views.",0.4215,0.091,0.0,0.909,positive,The Lost World
+"You will kindly show the envelope of this letter to my man, Austin, when you call, as he has to take every precaution to shield me from the intrusive rascals who call themselves 'journalists.'",0.4939,0.088,0.0,0.912,positive,The Lost World
+"""Yours faithfully, ""GEORGE EDWARD CHALLENGER.""",0.4215,0.412,0.0,0.588,positive,The Lost World
+"This was the letter that I read aloud to Tarp Henry, who had come down early to hear the result of my venture.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"His only remark was, ""There's some new stuff, cuticura or something, which is better than arnica.""",0.4404,0.162,0.0,0.838,positive,The Lost World
+Some people have such extraordinary notions of humor.,0.2732,0.231,0.0,0.769,positive,The Lost World
+"It was nearly half-past ten before I had received my message, but a taxicab took me round in good time for my appointment.",0.5927,0.161,0.0,0.839,positive,The Lost World
+"It was an imposing porticoed house at which we stopped, and the heavily-curtained windows gave every indication of wealth upon the part of this formidable Professor.",0.2263,0.108,0.112,0.78,positive,The Lost World
+"The door was opened by an odd, swarthy, dried-up person of uncertain age, with a dark pilot jacket and brown leather gaiters.",-0.5423,0.0,0.191,0.809,negative,The Lost World
+"I found afterwards that he was the chauffeur, who filled the gaps left by a succession of fugitive butlers.",0.2023,0.101,0.0,0.899,positive,The Lost World
+He looked me up and down with a searching light blue eye.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Expected?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+he asked.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""An appointment.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Got your letter?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I produced the envelope.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Right!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+He seemed to be a person of few words.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Following him down the passage I was suddenly interrupted by a small woman, who stepped out from what proved to be the dining-room door.",-0.296,0.0,0.095,0.905,negative,The Lost World
+"She was a bright, vivacious, dark-eyed lady, more French than English in her type.",0.6908,0.341,0.0,0.659,positive,The Lost World
+"""One moment,"" she said.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You can wait, Austin.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Step in here, sir.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"May I ask if you have met my husband before?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""No, madam, I have not had the honor.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Then I apologize to you in advance.",0.1027,0.219,0.0,0.781,positive,The Lost World
+I must tell you that he is a perfectly impossible person--absolutely impossible.,0.6369,0.318,0.0,0.682,positive,The Lost World
+"If you are forewarned you will be the more ready to make allowances.""",0.4201,0.189,0.0,0.811,positive,The Lost World
+"""It is most considerate of you, madam.""",0.4927,0.347,0.0,0.653,positive,The Lost World
+"""Get quickly out of the room if he seems inclined to be violent.",-0.5994,0.0,0.245,0.755,negative,The Lost World
+Don't wait to argue with him.,0.2584,0.289,0.0,0.711,positive,The Lost World
+Several people have been injured through doing that.,-0.4019,0.0,0.278,0.722,negative,The Lost World
+Afterwards there is a public scandal and it reflects upon me and all of us.,-0.4404,0.0,0.182,0.818,negative,The Lost World
+"I suppose it wasn't about South America you wanted to see him?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I could not lie to a lady.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Dear me!",0.4389,0.743,0.0,0.257,positive,The Lost World
+That is his most dangerous subject.,-0.5256,0.0,0.404,0.596,negative,The Lost World
+You won't believe a word he says--I'm sure I don't wonder.,0.3182,0.223,0.0,0.777,positive,The Lost World
+"But don't tell him so, for it makes him very violent.",-0.7776,0.0,0.367,0.633,negative,The Lost World
+"Pretend to believe him, and you may get through all right.",-0.1027,0.0,0.123,0.877,negative,The Lost World
+Remember he believes it himself.,0.0,0.0,0.0,1.0,neutral,The Lost World
+Of that you may be assured.,0.3612,0.333,0.0,0.667,positive,The Lost World
+A more honest man never lived.,0.5563,0.473,0.0,0.527,positive,The Lost World
+Don't wait any longer or he may suspect.,-0.296,0.0,0.239,0.761,negative,The Lost World
+If you find him dangerous--really dangerous--ring the bell and hold him off until I come.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Even at his worst I can usually control him.""",-0.6249,0.0,0.369,0.631,negative,The Lost World
+"With these encouraging words the lady handed me over to the taciturn Austin, who had waited like a bronze statue of discretion during our short interview, and I was conducted to the end of the passage.",0.7096,0.156,0.0,0.844,positive,The Lost World
+"There was a tap at a door, a bull's bellow from within, and I was face to face with the Professor.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"He sat in a rotating chair behind a broad table, which was covered with books, maps, and diagrams.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"As I entered, his seat spun round to face me.",0.0,0.0,0.0,1.0,neutral,The Lost World
+His appearance made me gasp.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"I was prepared for something strange, but not for so overpowering a personality as this.",0.0129,0.105,0.101,0.794,neutral,The Lost World
+It was his size which took one's breath away--his size and his imposing presence.,-0.1027,0.0,0.097,0.903,negative,The Lost World
+"His head was enormous, the largest I have ever seen upon a human being.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I am sure that his top-hat, had I ever ventured to don it, would have slipped over me entirely and rested on my shoulders.",0.3182,0.099,0.0,0.901,positive,The Lost World
+"He had the face and beard which I associate with an Assyrian bull; the former florid, the latter so black as almost to have a suspicion of blue, spade-shaped and rippling down over his chest.",-0.3262,0.0,0.068,0.932,negative,The Lost World
+"The hair was peculiar, plastered down in front in a long, curving wisp over his massive forehead.",0.1531,0.096,0.0,0.904,positive,The Lost World
+"The eyes were blue-gray under great black tufts, very clear, very critical, and very masterful.",0.6293,0.32,0.131,0.549,positive,The Lost World
+"A huge spread of shoulders and a chest like a barrel were the other parts of him which appeared above the table, save for two enormous hands covered with long black hair.",0.7906,0.235,0.0,0.765,positive,The Lost World
+"This and a bellowing, roaring, rumbling voice made up my first impression of the notorious Professor Challenger.",-0.128,0.176,0.15,0.674,negative,The Lost World
+"""Well?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"said he, with a most insolent stare.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""What now?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I must keep up my deception for at least a little time longer, otherwise here was evidently an end of the interview.",-0.4404,0.0,0.132,0.868,negative,The Lost World
+"""You were good enough to give me an appointment, sir,"" said I, humbly, producing his envelope.",0.4404,0.162,0.0,0.838,positive,The Lost World
+He took my letter from his desk and laid it out before him.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Oh, you are the young person who cannot understand plain English, are you?",0.0,0.0,0.0,1.0,neutral,The Lost World
+"My general conclusions you are good enough to approve, as I understand?""",0.4404,0.225,0.0,0.775,positive,The Lost World
+"""Entirely, sir--entirely!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I was very emphatic.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Dear me!",0.4389,0.743,0.0,0.257,positive,The Lost World
+"That strengthens my position very much, does it not?",0.4588,0.273,0.0,0.727,positive,The Lost World
+Your age and appearance make your support doubly valuable.,0.7003,0.453,0.0,0.547,positive,The Lost World
+"Well, at least you are better than that herd of swine in Vienna, whose gregarious grunt is, however, not more offensive than the isolated effort of the British hog.""",0.6594,0.22,0.066,0.714,positive,The Lost World
+He glared at me as the present representative of the beast.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""They seem to have behaved abominably,"" said I.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I assure you that I can fight my own battles, and that I have no possible need of your sympathy.",-0.3612,0.194,0.292,0.514,negative,The Lost World
+"Put me alone, sir, and with my back to the wall.",-0.25,0.0,0.167,0.833,negative,The Lost World
+G. E. C. is happiest then.,0.6369,0.457,0.0,0.543,positive,The Lost World
+"Well, sir, let us do what we can to curtail this visit, which can hardly be agreeable to you, and is inexpressibly irksome to me.",0.5606,0.167,0.0,0.833,positive,The Lost World
+"You had, as I have been led to believe, some comments to make upon the proposition which I advanced in my thesis.""",0.25,0.095,0.0,0.905,positive,The Lost World
+There was a brutal directness about his methods which made evasion difficult.,-0.765,0.0,0.423,0.577,negative,The Lost World
+I must still make play and wait for a better opening.,0.6486,0.431,0.0,0.569,positive,The Lost World
+It had seemed simple enough at a distance.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Oh, my Irish wits, could they not help me now, when I needed help so sorely?",-0.5448,0.0,0.258,0.742,negative,The Lost World
+"He transfixed me with two sharp, steely eyes.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Come, come!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+he rumbled.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I am, of course, a mere student,"" said I, with a fatuous smile, ""hardly more, I might say, than an earnest inquirer.",0.7003,0.254,0.0,0.746,positive,The Lost World
+"At the same time, it seemed to me that you were a little severe upon Weissmann in this matter.",-0.2919,0.058,0.119,0.823,negative,The Lost World
+"Has not the general evidence since that date tended to--well, to strengthen his position?""",0.3182,0.15,0.0,0.85,positive,The Lost World
+"""What evidence?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+He spoke with a menacing calm.,0.3182,0.365,0.0,0.635,positive,The Lost World
+"""Well, of course, I am aware that there is not any what you might call DEFINITE evidence.",0.4278,0.159,0.0,0.841,positive,The Lost World
+"I alluded merely to the trend of modern thought and the general scientific point of view, if I might so express it.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+He leaned forward with great earnestness.,0.6249,0.451,0.0,0.549,positive,The Lost World
+"""I suppose you are aware,"" said he, checking off points upon his fingers, ""that the cranial index is a constant factor?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Naturally,"" said I.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""And that telegony is still sub judice?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Undoubtedly.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""And that the germ plasm is different from the parthenogenetic egg?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Why, surely!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I cried, and gloried in my own audacity.",0.2023,0.309,0.236,0.455,positive,The Lost World
+"""But what does that prove?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"he asked, in a gentle, persuasive voice.",0.4404,0.367,0.0,0.633,positive,The Lost World
+"""Ah, what indeed?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I murmured.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""What does it prove?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Shall I tell you?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+he cooed.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Pray do.""",0.3182,0.697,0.0,0.303,positive,The Lost World
+"""It proves,"" he roared, with a sudden blast of fury, ""that you are the damnedest imposter in London--a vile, crawling journalist, who has no more science than he has decency in his composition!""",-0.8955,0.0,0.296,0.704,negative,The Lost World
+He had sprung to his feet with a mad rage in his eyes.,-0.7783,0.0,0.405,0.595,negative,The Lost World
+"Even at that moment of tension I found time for amazement at the discovery that he was quite a short man, his head not higher than my shoulder--a stunted Hercules whose tremendous vitality had all run to depth, breadth, and brain.",0.5423,0.132,0.052,0.816,positive,The Lost World
+"""Gibberish!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"he cried, leaning forward, with his fingers on the table and his face projecting.",-0.3818,0.0,0.167,0.833,negative,The Lost World
+"""That's what I have been talking to you, sir--scientific gibberish!",0.0,0.0,0.0,1.0,neutral,The Lost World
+Did you think you could match cunning with me--you with your walnut of a brain?,0.0,0.0,0.0,1.0,neutral,The Lost World
+"You think you are omnipotent, you infernal scribblers, don't you?",0.0,0.0,0.0,1.0,neutral,The Lost World
+That your praise can make a man and your blame can break him?,0.296,0.225,0.15,0.625,positive,The Lost World
+"We must all bow to you, and try to get a favorable word, must we?",0.4767,0.193,0.0,0.807,positive,The Lost World
+"This man shall have a leg up, and this man shall have a dressing down!",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Creeping vermin, I know you!",0.0,0.0,0.0,1.0,neutral,The Lost World
+You've got out of your station.,0.0,0.0,0.0,1.0,neutral,The Lost World
+Time was when your ears were clipped.,0.0,0.0,0.0,1.0,neutral,The Lost World
+You've lost your sense of proportion.,-0.3182,0.0,0.315,0.685,negative,The Lost World
+Swollen gas-bags!,0.0,0.0,0.0,1.0,neutral,The Lost World
+I'll keep you in your proper place.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Yes, sir, you haven't got over G. E. C. There's one man who is still your master.",0.4019,0.144,0.0,0.856,positive,The Lost World
+"He warned you off, but if you WILL come, by the Lord you do it at your own risk.",-0.4939,0.0,0.198,0.802,negative,The Lost World
+"Forfeit, my good Mr. Malone, I claim forfeit!",0.4926,0.347,0.0,0.653,positive,The Lost World
+"You have played a rather dangerous game, and it strikes me that you have lost it.""",-0.6705,0.113,0.371,0.516,negative,The Lost World
+"""Look here, sir,"" said I, backing to the door and opening it; ""you can be as abusive as you like.",-0.3818,0.145,0.169,0.685,negative,The Lost World
+But there is a limit.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"You shall not assault me.""",0.4717,0.434,0.0,0.566,positive,The Lost World
+"""Shall I not?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"He was slowly advancing in a peculiarly menacing way, but he stopped now and put his big hands into the side-pockets of a rather boyish short jacket which he wore.",-0.3716,0.0,0.12,0.88,negative,The Lost World
+"""I have thrown several of you out of the house.",0.0,0.0,0.0,1.0,neutral,The Lost World
+You will be the fourth or fifth.,0.0,0.0,0.0,1.0,neutral,The Lost World
+Three pound fifteen each--that is how it averaged.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Expensive, but very necessary.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Now, sir, why should you not follow your brethren?",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I rather think you must.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"He resumed his unpleasant and stealthy advance, pointing his toes as he walked, like a dancing master.",-0.1779,0.127,0.213,0.66,negative,The Lost World
+"I could have bolted for the hall door, but it would have been too ignominious.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Besides, a little glow of righteous anger was springing up within me.",-0.5719,0.0,0.27,0.73,negative,The Lost World
+"I had been hopelessly in the wrong before, but this man's menaces were putting me in the right.",-0.4854,0.0,0.217,0.783,negative,The Lost World
+"""I'll trouble you to keep your hands off, sir.",-0.4019,0.0,0.252,0.748,negative,The Lost World
+"I'll not stand it.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Dear me!""",0.4389,0.743,0.0,0.257,positive,The Lost World
+His black moustache lifted and a white fang twinkled in a sneer.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You won't stand it, eh?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Don't be such a fool, Professor!""",0.4015,0.403,0.0,0.597,positive,The Lost World
+I cried.,-0.3818,0.0,1.0,0.0,negative,The Lost World
+"""What can you hope for?",0.4404,0.42,0.0,0.58,positive,The Lost World
+"I'm fifteen stone, as hard as nails, and play center three-quarter every Saturday for the London Irish.",0.25,0.128,0.074,0.798,positive,The Lost World
+"I'm not the man----"" It was at that moment that he rushed me.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"It was lucky that I had opened the door, or we should have gone through it.",0.4215,0.167,0.0,0.833,positive,The Lost World
+We did a Catharine-wheel together down the passage.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Somehow we gathered up a chair upon our way, and bounded on with it towards the street.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"My mouth was full of his beard, our arms were locked, our bodies intertwined, and that infernal chair radiated its legs all round us.",0.0,0.0,0.0,1.0,neutral,The Lost World
+The watchful Austin had thrown open the hall door.,0.0,0.0,0.0,1.0,neutral,The Lost World
+We went with a back somersault down the front steps.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"I have seen the two Macs attempt something of the kind at the halls, but it appears to take some practise to do it without hurting oneself.",0.6233,0.175,0.0,0.825,positive,The Lost World
+"The chair went to matchwood at the bottom, and we rolled apart into the gutter.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"He sprang to his feet, waving his fists and wheezing like an asthmatic.",0.3612,0.172,0.0,0.828,positive,The Lost World
+"""Had enough?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+he panted.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You infernal bully!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"I cried, as I gathered myself together.",-0.3818,0.0,0.394,0.606,negative,The Lost World
+"Then and there we should have tried the thing out, for he was effervescing with fight, but fortunately I was rescued from an odious situation.",0.4404,0.135,0.065,0.8,positive,The Lost World
+"A policeman was beside us, his notebook in his hand.",0.4939,0.286,0.0,0.714,positive,The Lost World
+"""What's all this?",0.0,0.0,0.0,1.0,neutral,The Lost World
+"You ought to be ashamed"" said the policeman.",-0.4767,0.0,0.307,0.693,negative,The Lost World
+It was the most rational remark which I had heard in Enmore Park.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Well,"" he insisted, turning to me, ""what is it, then?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""This man attacked me,"" said I.",-0.4588,0.0,0.375,0.625,negative,The Lost World
+"""Did you attack him?""",-0.4767,0.0,0.508,0.492,negative,The Lost World
+asked the policeman.,0.0,0.0,0.0,1.0,neutral,The Lost World
+The Professor breathed hard and said nothing.,-0.1027,0.0,0.189,0.811,negative,The Lost World
+"""It's not the first time, either,"" said the policeman, severely, shaking his head.",-0.5719,0.0,0.299,0.701,negative,The Lost World
+"""You were in trouble last month for the same thing.",-0.4019,0.0,0.231,0.769,negative,The Lost World
+You've blackened this young man's eye.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"Do you give him in charge, sir?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I relented.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""No,"" said I, ""I do not.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""What's that?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+said the policeman.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I was to blame myself.",-0.34,0.0,0.375,0.625,negative,The Lost World
+I intruded upon him.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"He gave me fair warning.""",0.3182,0.365,0.0,0.635,positive,The Lost World
+The policeman snapped up his notebook.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Don't let us have any more such goings-on,"" said he.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Now, then!",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Move on, there, move on!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"This to a butcher's boy, a maid, and one or two loafers who had collected.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"He clumped heavily down the street, driving this little flock before him.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"The Professor looked at me, and there was something humorous at the back of his eyes.",0.3818,0.148,0.0,0.852,positive,The Lost World
+"""Come in!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+said he.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I've not done with you yet.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"The speech had a sinister sound, but I followed him none the less into the house.",-0.3506,0.0,0.159,0.841,negative,The Lost World
+"The man-servant, Austin, like a wooden image, closed the door behind us.",0.3612,0.2,0.0,0.8,positive,The Lost World
+"CHAPTER IV ""It's Just the very Biggest Thing in the World"" Hardly was it shut when Mrs.",0.0,0.0,0.0,1.0,neutral,The Lost World
+Challenger darted out from the dining-room.,0.128,0.231,0.0,0.769,positive,The Lost World
+The small woman was in a furious temper.,-0.7579,0.0,0.565,0.435,negative,The Lost World
+She barred her husband's way like an enraged chicken in front of a bulldog.,-0.0516,0.154,0.167,0.679,negative,The Lost World
+"It was evident that she had seen my exit, but had not observed my return.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You brute, George!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+she screamed.,-0.3182,0.0,0.697,0.303,negative,The Lost World
+"""You've hurt that nice young man.""",-0.1531,0.275,0.333,0.392,negative,The Lost World
+He jerked backwards with his thumb.,-0.2023,0.0,0.265,0.735,negative,The Lost World
+"""Here he is, safe and sound behind me.""",0.4404,0.293,0.0,0.707,positive,The Lost World
+"She was confused, but not unduly so.",-0.1655,0.0,0.216,0.784,negative,The Lost World
+"""I am so sorry, I didn't see you.""",-0.188,0.0,0.225,0.775,negative,The Lost World
+"""I assure you, madam, that it is all right.""",0.34,0.231,0.0,0.769,positive,The Lost World
+"""He has marked your poor face!",-0.5255,0.0,0.404,0.596,negative,The Lost World
+"Oh, George, what a brute you are!",0.0,0.0,0.0,1.0,neutral,The Lost World
+Nothing but scandals from one end of the week to the other.,0.5334,0.238,0.0,0.762,positive,The Lost World
+Everyone hating and making fun of you.,0.0,0.284,0.284,0.431,neutral,The Lost World
+You've finished my patience.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"This ends it.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Dirty linen,"" he rumbled.",-0.4404,0.0,0.492,0.508,negative,The Lost World
+"""It's not a secret,"" she cried.",0.2924,0.353,0.0,0.647,positive,The Lost World
+"""Do you suppose that the whole street--the whole of London, for that matter---- Get away, Austin, we don't want you here.",-0.0572,0.0,0.058,0.942,negative,The Lost World
+Do you suppose they don't all talk about you?,0.0,0.0,0.0,1.0,neutral,The Lost World
+Where is your dignity?,0.4019,0.474,0.0,0.526,positive,The Lost World
+"You, a man who should have been Regius Professor at a great University with a thousand students all revering you.",0.6249,0.204,0.0,0.796,positive,The Lost World
+"Where is your dignity, George?""",0.4019,0.403,0.0,0.597,positive,The Lost World
+"""How about yours, my dear?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You try me too much.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"A ruffian--a common brawling ruffian--that's what you have become.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Be good, Jessie.""",0.4404,0.592,0.0,0.408,positive,The Lost World
+"""A roaring, raging bully!""",-0.5707,0.0,0.552,0.448,negative,The Lost World
+"""That's done it!",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Stool of penance!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+said he.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"To my amazement he stooped, picked her up, and placed her sitting upon a high pedestal of black marble in the angle of the hall.",0.5423,0.132,0.0,0.868,positive,The Lost World
+"It was at least seven feet high, and so thin that she could hardly balance upon it.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"A more absurd object than she presented cocked up there with her face convulsed with anger, her feet dangling, and her body rigid for fear of an upset, I could not imagine.",-0.875,0.0,0.297,0.703,negative,The Lost World
+"""Let me down!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+she wailed.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Say 'please.'""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You brute, George!",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Let me down this instant!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Come into the study, Mr.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Malone.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Really, sir----!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"said I, looking at the lady.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Here's Mr. Malone pleading for you, Jessie.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Say 'please,' and down you come.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Oh, you brute!",0.0,0.0,0.0,1.0,neutral,The Lost World
+Please!,0.3802,1.0,0.0,0.0,positive,The Lost World
+"please!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+He took her down as if she had been a canary.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You must behave yourself, dear.",0.3818,0.394,0.0,0.606,positive,The Lost World
+Mr. Malone is a Pressman.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"He will have it all in his rag to-morrow, and sell an extra dozen among our neighbors.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"'Strange story of high life'--you felt fairly high on that pedestal, did you not?",-0.2023,0.0,0.122,0.878,negative,The Lost World
+"Then a sub-title, 'Glimpse of a singular menage.'",0.0,0.0,0.0,1.0,neutral,The Lost World
+"He's a foul feeder, is Mr. Malone, a carrion eater, like all of his kind--porcus ex grege diaboli--a swine from the devil's herd.",0.3612,0.111,0.0,0.889,positive,The Lost World
+"That's it, Malone--what?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""You are really intolerable!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"said I, hotly.",0.0,0.0,0.0,1.0,neutral,The Lost World
+He bellowed with laughter.,0.4939,0.516,0.0,0.484,positive,The Lost World
+"""We shall have a coalition presently,"" he boomed, looking from his wife to me and puffing out his enormous chest.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Then, suddenly altering his tone, ""Excuse this frivolous family badinage, Mr. Malone.",0.0772,0.106,0.0,0.894,positive,The Lost World
+I called you back for some more serious purpose than to mix you up with our little domestic pleasantries.,0.11,0.103,0.081,0.816,positive,The Lost World
+"Run away, little woman, and don't fret.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+He placed a huge hand upon each of her shoulders.,0.6705,0.44,0.0,0.56,positive,The Lost World
+"""All that you say is perfectly true.",0.7906,0.583,0.0,0.417,positive,The Lost World
+"I should be a better man if I did what you advise, but I shouldn't be quite George Edward Challenger.",0.4759,0.226,0.0,0.774,positive,The Lost World
+"There are plenty of better men, my dear, but only one G. E. C. So make the best of him.""",0.8734,0.369,0.0,0.631,positive,The Lost World
+"He suddenly gave her a resounding kiss, which embarrassed me even more than his violence had done.",-0.6204,0.124,0.303,0.574,negative,The Lost World
+"""Now, Mr. Malone,"" he continued, with a great accession of dignity, ""this way, if YOU please.""",0.7783,0.343,0.0,0.657,positive,The Lost World
+We re-entered the room which we had left so tumultuously ten minutes before.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"The Professor closed the door carefully behind us, motioned me into an arm-chair, and pushed a cigar-box under my nose.",0.128,0.077,0.0,0.923,positive,The Lost World
+"""Real San Juan Colorado,"" he said.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Excitable people like you are the better for narcotics.",0.7845,0.568,0.0,0.432,positive,The Lost World
+Heavens!,0.4574,1.0,0.0,0.0,positive,The Lost World
+don't bite it!,0.0,0.0,0.0,1.0,neutral,The Lost World
+Cut--and cut with reverence!,-0.3382,0.0,0.444,0.556,negative,The Lost World
+"Now lean back, and listen attentively to whatever I may care to say to you.",0.4939,0.198,0.0,0.802,positive,The Lost World
+"If any remark should occur to you, you can reserve it for some more opportune time.",0.4576,0.166,0.0,0.834,positive,The Lost World
+"""First of all, as to your return to my house after your most justifiable expulsion""--he protruded his beard, and stared at me as one who challenges and invites contradiction--""after, as I say, your well-merited expulsion.",0.0772,0.038,0.0,0.962,positive,The Lost World
+"The reason lay in your answer to that most officious policeman, in which I seemed to discern some glimmering of good feeling upon your part--more, at any rate, than I am accustomed to associate with your profession.",0.5267,0.118,0.0,0.882,positive,The Lost World
+"In admitting that the fault of the incident lay with you, you gave some evidence of a certain mental detachment and breadth of view which attracted my favorable notice.",0.6486,0.231,0.078,0.692,positive,The Lost World
+The sub-species of the human race to which you unfortunately belong has always been below my mental horizon.,-0.34,0.0,0.124,0.876,negative,The Lost World
+Your words brought you suddenly above it.,0.0,0.0,0.0,1.0,neutral,The Lost World
+You swam up into my serious notice.,-0.0772,0.0,0.178,0.822,negative,The Lost World
+"For this reason I asked you to return with me, as I was minded to make your further acquaintance.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"You will kindly deposit your ash in the small Japanese tray on the bamboo table which stands at your left elbow.""",0.4939,0.138,0.0,0.862,positive,The Lost World
+All this he boomed forth like a professor addressing his class.,0.3612,0.217,0.0,0.783,positive,The Lost World
+"He had swung round his revolving chair so as to face me, and he sat all puffed out like an enormous bull-frog, his head laid back and his eyes half-covered by supercilious lids.",0.3612,0.072,0.0,0.928,positive,The Lost World
+"Now he suddenly turned himself sideways, and all I could see of him was tangled hair with a red, protruding ear.",0.0,0.0,0.0,1.0,neutral,The Lost World
+He was scratching about among the litter of papers upon his desk.,0.0,0.0,0.0,1.0,neutral,The Lost World
+He faced me presently with what looked like a very tattered sketch-book in his hand.,0.6908,0.322,0.0,0.678,positive,The Lost World
+"""I am going to talk to you about South America,"" said he.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""No comments if you please.",0.0258,0.307,0.293,0.4,neutral,The Lost World
+"First of all, I wish you to understand that nothing I tell you now is to be repeated in any public way unless you have my express permission.",0.4019,0.097,0.0,0.903,positive,The Lost World
+"That permission will, in all human probability, never be given.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Is that clear?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""It is very hard,"" said I.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Surely a judicious account----"" He replaced the notebook upon the table.",0.4404,0.244,0.0,0.756,positive,The Lost World
+"""That ends it,"" said he.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I wish you a very good morning.""",0.7089,0.596,0.0,0.404,positive,The Lost World
+"""No, no!""",0.0,0.0,0.0,1.0,neutral,The Lost World
+I cried.,-0.3818,0.0,1.0,0.0,negative,The Lost World
+"""I submit to any conditions.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"So far as I can see, I have no choice.""",-0.296,0.0,0.239,0.761,negative,The Lost World
+"""None in the world,"" said he.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Well, then, I promise.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Word of honor?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Word of honor.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+He looked at me with doubt in his insolent eyes.,-0.3612,0.0,0.217,0.783,negative,The Lost World
+"""After all, what do I know about your honor?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+said he.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Upon my word, sir,"" I cried, angrily, ""you take very great liberties!",0.5945,0.4,0.261,0.339,positive,The Lost World
+"I have never been so insulted in my life.""",-0.6418,0.0,0.377,0.623,negative,The Lost World
+He seemed more interested than annoyed at my outbreak.,0.0334,0.233,0.223,0.544,neutral,The Lost World
+"""Round-headed,"" he muttered.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Brachycephalic, gray-eyed, black-haired, with suggestion of the negroid.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Celtic, I presume?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""I am an Irishman, sir.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Irish Irish?""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""Yes, sir.""",0.0,0.0,0.0,1.0,neutral,The Lost World
+"""That, of course, explains it.",0.0,0.0,0.0,1.0,neutral,The Lost World
+Let me see; you have given me your promise that my confidence will be respected?,0.8271,0.42,0.0,0.58,positive,The Lost World
+"That confidence, I may say, will be far from complete.",0.5106,0.292,0.0,0.708,positive,The Lost World
+But I am prepared to give you a few indications which will be of interest.,0.7469,0.366,0.0,0.634,positive,The Lost World
+"In the first place, you are probably aware that two years ago I made a journey to South America--one which will be classical in the scientific history of the world?",0.0,0.0,0.0,1.0,neutral,The Lost World
+"The object of my journey was to verify some conclusions of Wallace and of Bates, which could only be done by observing their reported facts under the same conditions in which they had themselves noted them.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"If my expedition had no other results it would still have been noteworthy, but a curious incident occurred to me while there which opened up an entirely fresh line of inquiry.",0.6946,0.181,0.046,0.773,positive,The Lost World
+"""You are aware--or probably, in this half-educated age, you are not aware--that the country round some parts of the Amazon is still only partially explored, and that a great number of tributaries, some of them entirely uncharted, run into the main river.",0.7269,0.157,0.0,0.843,positive,The Lost World
+"It was my business to visit this little-known back-country and to examine its fauna, which furnished me with the materials for several chapters for that great and monumental work upon zoology which will be my life's justification.",0.6249,0.102,0.0,0.898,positive,The Lost World
+"I was returning, my work accomplished, when I had occasion to spend a night at a small Indian village at a point where a certain tributary--the name and position of which I withhold--opens into the main river.",0.6124,0.152,0.0,0.848,positive,The Lost World
+"The natives were Cucama Indians, an amiable but degraded race, with mental powers hardly superior to the average Londoner.",0.1557,0.172,0.148,0.68,positive,The Lost World
+"I had effected some cures among them upon my way up the river, and had impressed them considerably with my personality, so that I was not surprised to find myself eagerly awaited upon my return.",0.6038,0.152,0.074,0.774,positive,The Lost World
+"I gathered from their signs that someone had urgent need of my medical services, and I followed the chief to one of his huts.",0.2023,0.079,0.0,0.921,positive,The Lost World
+When I entered I found that the sufferer to whose aid I had been summoned had that instant expired.,-0.4588,0.0,0.167,0.833,negative,The Lost World
+"He was, to my surprise, no Indian, but a white man; indeed, I may say a very white man, for he was flaxen-haired and had some characteristics of an albino.",-0.0129,0.055,0.057,0.888,neutral,The Lost World
+"He was clad in rags, was very emaciated, and bore every trace of prolonged hardship.",-0.552,0.0,0.26,0.74,negative,The Lost World
+"So far as I could understand the account of the natives, he was a complete stranger to them, and had come upon their village through the woods alone and in the last stage of exhaustion.",-0.5423,0.0,0.127,0.873,negative,The Lost World
+"""The man's knapsack lay beside the couch, and I examined the contents.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"His name was written upon a tab within it--Maple White, Lake Avenue, Detroit, Michigan.",0.0,0.0,0.0,1.0,neutral,The Lost World
+It is a name to which I am prepared always to lift my hat.,0.2263,0.147,0.0,0.853,positive,The Lost World
+It is not too much to say that it will rank level with my own when the final credit of this business comes to be apportioned.,0.3818,0.094,0.0,0.906,positive,The Lost World
+"""From the contents of the knapsack it was evident that this man had been an artist and poet in search of effects.",0.0,0.0,0.0,1.0,neutral,The Lost World
+There were scraps of verse.,0.0,0.0,0.0,1.0,neutral,The Lost World
+"I do not profess to be a judge of such things, but they appeared to me to be singularly wanting in merit.",0.5719,0.163,0.0,0.837,positive,The Lost World
+"There were also some rather commonplace pictures of river scenery, a paint-box, a box of colored chalks, some brushes, that curved bone which lies upon my inkstand, a volume of Baxter's 'Moths and Butterflies,' a cheap revolver, and a few cartridges.",-0.4215,0.0,0.074,0.926,negative,The Lost World
+Of personal equipment he either had none or he had lost it in his journey.,-0.3182,0.0,0.141,0.859,negative,The Lost World
+Such were the total effects of this strange American Bohemian.,-0.25,0.0,0.182,0.818,negative,The Lost World
+"""I was turning away from him when I observed that something projected from the front of his ragged jacket.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"It was this sketch-book, which was as dilapidated then as you see it now.",0.0,0.0,0.0,1.0,neutral,The Lost World
+"Indeed, I can assure you that a first folio of Shakespeare could not be treated with greater reverenc",0.5994,0.259,0.0,0.741,positive,The Lost World

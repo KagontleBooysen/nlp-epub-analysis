@@ -1,0 +1,727 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Picture of Dorian Gray This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.065,0.102,0.833,negative,The Picture of Dorian Gray
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Picture of Dorian Gray
+"Title : The Picture of Dorian Gray Author : Oscar Wilde Release date : October 1, 1994 [eBook #174] Most recently updated: September 17, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/174 Credits : Judith Boss.",0.3612,0.075,0.0,0.925,positive,The Picture of Dorian Gray
+HTML version by Al Haines.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+*** START OF THE PROJECT GUTENBERG EBOOK THE PICTURE OF DORIAN GRAY *** The Picture of Dorian Gray by Oscar Wilde Contents THE PREFACE CHAPTER I.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER V. CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER VII.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER VIII.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER X.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XI.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XII.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XIII.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XIV.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XV.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XVI.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XVII.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XVIII.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XIX.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+CHAPTER XX.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+THE PREFACE The artist is the creator of beautiful things.,0.5994,0.302,0.0,0.698,positive,The Picture of Dorian Gray
+To reveal art and conceal the artist is art's aim.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The critic is he who can translate into another manner or a new material his impression of beautiful things.,0.5719,0.253,0.092,0.655,positive,The Picture of Dorian Gray
+The highest as the lowest form of criticism is a mode of autobiography.,-0.6705,0.0,0.355,0.645,negative,The Picture of Dorian Gray
+Those who find ugly meanings in beautiful things are corrupt without being charming.,-0.3553,0.192,0.314,0.493,negative,The Picture of Dorian Gray
+This is a fault.,-0.4019,0.0,0.574,0.426,negative,The Picture of Dorian Gray
+Those who find beautiful meanings in beautiful things are the cultivated.,0.8316,0.464,0.0,0.536,positive,The Picture of Dorian Gray
+For these there is hope.,0.4404,0.42,0.0,0.58,positive,The Picture of Dorian Gray
+They are the elect to whom beautiful things mean only beauty.,0.8271,0.461,0.0,0.539,positive,The Picture of Dorian Gray
+There is no such thing as a moral or an immoral book.,-0.6369,0.0,0.366,0.634,negative,The Picture of Dorian Gray
+"Books are well written, or badly written.",-0.25,0.206,0.304,0.49,negative,The Picture of Dorian Gray
+That is all.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The nineteenth century dislike of realism is the rage of Caliban seeing his own face in a glass.,-0.7351,0.0,0.292,0.708,negative,The Picture of Dorian Gray
+The nineteenth century dislike of romanticism is the rage of Caliban not seeing his own face in a glass.,-0.4588,0.131,0.254,0.615,negative,The Picture of Dorian Gray
+"The moral life of man forms part of the subject-matter of the artist, but the morality of art consists in the perfect use of an imperfect medium.",0.4767,0.153,0.089,0.758,positive,The Picture of Dorian Gray
+No artist desires to prove anything.,-0.296,0.0,0.306,0.694,negative,The Picture of Dorian Gray
+Even things that are true can be proved.,0.4215,0.286,0.0,0.714,positive,The Picture of Dorian Gray
+No artist has ethical sympathies.,0.2732,0.388,0.259,0.353,positive,The Picture of Dorian Gray
+An ethical sympathy in an artist is an unpardonable mannerism of style.,0.7003,0.367,0.0,0.633,positive,The Picture of Dorian Gray
+No artist is ever morbid.,-0.296,0.0,0.355,0.645,negative,The Picture of Dorian Gray
+The artist can express everything.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Thought and language are to the artist instruments of an art.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Vice and virtue are to the artist materials for an art.,0.4215,0.219,0.0,0.781,positive,The Picture of Dorian Gray
+"From the point of view of form, the type of all the arts is the art of the musician.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"From the point of view of feeling, the actor's craft is the type.",0.128,0.111,0.0,0.889,positive,The Picture of Dorian Gray
+All art is at once surface and symbol.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Those who go beneath the surface do so at their peril.,-0.4522,0.0,0.229,0.771,negative,The Picture of Dorian Gray
+Those who read the symbol do so at their peril.,-0.4522,0.0,0.248,0.752,negative,The Picture of Dorian Gray
+"It is the spectator, and not life, that art really mirrors.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Diversity of opinion about a work of art shows that the work is new, complex, and vital.",0.296,0.128,0.0,0.872,positive,The Picture of Dorian Gray
+"When critics disagree, the artist is in accord with himself.",-0.5859,0.0,0.375,0.625,negative,The Picture of Dorian Gray
+We can forgive a man for making a useful thing as long as he does not admire it.,0.3498,0.243,0.124,0.632,positive,The Picture of Dorian Gray
+The only excuse for making a useless thing is that one admires it intensely.,0.0,0.229,0.169,0.602,neutral,The Picture of Dorian Gray
+All art is quite useless.,-0.4754,0.0,0.436,0.564,negative,The Picture of Dorian Gray
+OSCAR WILDE CHAPTER I.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.",0.624,0.108,0.0,0.892,positive,The Picture of Dorian Gray
+"From the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were stretched in front of the huge window, producing a kind of momentary Japanese effect, and making him think of those pallid, jade-faced painters of Tokyo who, through the medium of an art that is necessarily immobile, seek to convey the sense of swiftness and motion.",0.34,0.076,0.065,0.859,positive,The Picture of Dorian Gray
+"The sullen murmur of the bees shouldering their way through the long unmown grass, or circling with monotonous insistence round the dusty gilt horns of the straggling woodbine, seemed to make the stillness more oppressive.",-0.6901,0.0,0.147,0.853,negative,The Picture of Dorian Gray
+The dim roar of London was like the bourdon note of a distant organ.,0.3612,0.172,0.0,0.828,positive,The Picture of Dorian Gray
+"In the centre of the room, clamped to an upright easel, stood the full-length portrait of a young man of extraordinary personal beauty, and in front of it, some little distance away, was sitting the artist himself, Basil Hallward, whose sudden disappearance some years ago caused, at the time, such public excitement and gave rise to so many strange conjectures.",0.7369,0.127,0.032,0.841,positive,The Picture of Dorian Gray
+"As the painter looked at the gracious and comely form he had so skilfully mirrored in his art, a smile of pleasure passed across his face, and seemed about to linger there.",0.8689,0.259,0.0,0.741,positive,The Picture of Dorian Gray
+"But he suddenly started up, and closing his eyes, placed his fingers upon the lids, as though he sought to imprison within his brain some curious dream from which he feared he might awake.",0.0387,0.134,0.106,0.761,neutral,The Picture of Dorian Gray
+"""It is your best work, Basil, the best thing you have ever done,"" said Lord Henry languidly.",0.8555,0.359,0.0,0.641,positive,The Picture of Dorian Gray
+"""You must certainly send it next year to the Grosvenor.",0.34,0.211,0.0,0.789,positive,The Picture of Dorian Gray
+The Academy is too large and too vulgar.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Whenever I have gone there, there have been either so many people that I have not been able to see the pictures, which was dreadful, or so many pictures that I have not been able to see the people, which was worse.",-0.7184,0.0,0.14,0.86,negative,The Picture of Dorian Gray
+"The Grosvenor is really the only place.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I don't think I shall send it anywhere,"" he answered, tossing his head back in that odd way that used to make his friends laugh at him at Oxford.",0.6597,0.197,0.068,0.735,positive,The Picture of Dorian Gray
+"""No, I won't send it anywhere.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Lord Henry elevated his eyebrows and looked at him in amazement through the thin blue wreaths of smoke that curled up in such fanciful whorls from his heavy, opium-tainted cigarette.",0.5423,0.108,0.0,0.892,positive,The Picture of Dorian Gray
+"""Not send it anywhere?",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"My dear fellow, why?",0.3818,0.464,0.0,0.536,positive,The Picture of Dorian Gray
+Have you any reason?,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+What odd chaps you painters are!,-0.3802,0.0,0.341,0.659,negative,The Picture of Dorian Gray
+You do anything in the world to gain a reputation.,0.5267,0.298,0.0,0.702,positive,The Picture of Dorian Gray
+"As soon as you have one, you seem to want to throw it away.",0.0772,0.091,0.0,0.909,positive,The Picture of Dorian Gray
+"It is silly of you, for there is only one thing in the world worse than being talked about, and that is not being talked about.",-0.4588,0.039,0.11,0.851,negative,The Picture of Dorian Gray
+"A portrait like this would set you far above all the young men in England, and make the old men quite jealous, if old men are ever capable of any emotion.""",0.204,0.144,0.093,0.763,positive,The Picture of Dorian Gray
+"""I know you will laugh at me,"" he replied, ""but I really can't exhibit it.",0.3182,0.15,0.0,0.85,positive,The Picture of Dorian Gray
+"I have put too much of myself into it.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Lord Henry stretched himself out on the divan and laughed.,0.4588,0.25,0.0,0.75,positive,The Picture of Dorian Gray
+"""Yes, I knew you would; but it is quite true, all the same.""",0.6297,0.273,0.0,0.727,positive,The Picture of Dorian Gray
+"""Too much of yourself in it!",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Upon my word, Basil, I didn't know you were so vain; and I really can't see any resemblance between you, with your rugged strong face and your coal-black hair, and this young Adonis, who looks as if he was made out of ivory and rose-leaves.",-0.0814,0.069,0.075,0.856,negative,The Picture of Dorian Gray
+"Why, my dear Basil, he is a Narcissus, and you--well, of course you have an intellectual expression and all that.",0.7096,0.258,0.0,0.742,positive,The Picture of Dorian Gray
+"But beauty, real beauty, ends where an intellectual expression begins.",0.9505,0.68,0.0,0.32,positive,The Picture of Dorian Gray
+"Intellect is in itself a mode of exaggeration, and destroys the harmony of any face.",0.2732,0.281,0.177,0.542,positive,The Picture of Dorian Gray
+"The moment one sits down to think, one becomes all nose, or all forehead, or something horrid.",-0.5423,0.0,0.179,0.821,negative,The Picture of Dorian Gray
+Look at the successful men in any of the learned professions.,0.5859,0.275,0.0,0.725,positive,The Picture of Dorian Gray
+How perfectly hideous they are!,0.6696,0.529,0.0,0.471,positive,The Picture of Dorian Gray
+"Except, of course, in the Church.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+But then in the Church they don't think.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"A bishop keeps on saying at the age of eighty what he was told to say when he was a boy of eighteen, and as a natural consequence he always looks absolutely delightful.",0.7645,0.191,0.0,0.809,positive,The Picture of Dorian Gray
+"Your mysterious young friend, whose name you have never told me, but whose picture really fascinates me, never thinks.",0.7607,0.278,0.0,0.722,positive,The Picture of Dorian Gray
+I feel quite sure of that.,0.3804,0.393,0.0,0.607,positive,The Picture of Dorian Gray
+"He is some brainless beautiful creature who should be always here in winter when we have no flowers to look at, and always here in summer when we want something to chill our intelligence.",0.7269,0.205,0.054,0.741,positive,The Picture of Dorian Gray
+"Don't flatter yourself, Basil: you are not in the least like him.""",-0.3412,0.0,0.254,0.746,negative,The Picture of Dorian Gray
+"""You don't understand me, Harry,"" answered the artist.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Of course I am not like him.",-0.2755,0.0,0.297,0.703,negative,The Picture of Dorian Gray
+I know that perfectly well.,0.743,0.759,0.0,0.241,positive,The Picture of Dorian Gray
+"Indeed, I should be sorry to look like him.",0.296,0.255,0.133,0.612,positive,The Picture of Dorian Gray
+You shrug your shoulders?,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I am telling you the truth.,0.3182,0.365,0.0,0.635,positive,The Picture of Dorian Gray
+"There is a fatality about all physical and intellectual distinction, the sort of fatality that seems to dog through history the faltering steps of kings.",-0.7717,0.099,0.27,0.631,negative,The Picture of Dorian Gray
+It is better not to be different from one's fellows.,0.4404,0.244,0.0,0.756,positive,The Picture of Dorian Gray
+The ugly and the stupid have the best of it in this world.,-0.3612,0.201,0.321,0.478,negative,The Picture of Dorian Gray
+They can sit at their ease and gape at the play.,0.5994,0.353,0.0,0.647,positive,The Picture of Dorian Gray
+"If they know nothing of victory, they are at least spared the knowledge of defeat.",-0.4588,0.0,0.176,0.824,negative,The Picture of Dorian Gray
+"They live as we all should live--undisturbed, indifferent, and without disquiet.",0.0418,0.154,0.141,0.705,neutral,The Picture of Dorian Gray
+"They neither bring ruin upon others, nor ever receive it from alien hands.",0.4717,0.204,0.0,0.796,positive,The Picture of Dorian Gray
+"Your rank and wealth, Harry; my brains, such as they are--my art, whatever it may be worth; Dorian Gray's good looks--we shall all suffer for what the gods have given us, suffer terribly.""",0.0,0.186,0.163,0.651,neutral,The Picture of Dorian Gray
+"""Dorian Gray?",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Is that his name?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"asked Lord Henry, walking across the studio towards Basil Hallward.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Yes, that is his name.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I didn't intend to tell it to you.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""But why not?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Oh, I can't explain.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"When I like people immensely, I never tell their names to any one.",0.3612,0.2,0.0,0.8,positive,The Picture of Dorian Gray
+It is like surrendering a part of them.,0.3612,0.294,0.0,0.706,positive,The Picture of Dorian Gray
+I have grown to love secrecy.,0.6369,0.512,0.0,0.488,positive,The Picture of Dorian Gray
+It seems to be the one thing that can make modern life mysterious or marvellous to us.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The commonest thing is delightful if one only hides it.,0.4767,0.281,0.126,0.593,positive,The Picture of Dorian Gray
+When I leave town now I never tell my people where I am going.,-0.0516,0.0,0.107,0.893,negative,The Picture of Dorian Gray
+"If I did, I would lose all my pleasure.",0.25,0.325,0.237,0.439,positive,The Picture of Dorian Gray
+"It is a silly habit, I dare say, but somehow it seems to bring a great deal of romance into one's life.",0.9118,0.42,0.0,0.58,positive,The Picture of Dorian Gray
+"I suppose you think me awfully foolish about it?""",-0.3384,0.0,0.255,0.745,negative,The Picture of Dorian Gray
+"""Not at all,"" answered Lord Henry, ""not at all, my dear Basil.",0.3818,0.191,0.0,0.809,positive,The Picture of Dorian Gray
+"You seem to forget that I am married, and the one charm of marriage is that it makes a life of deception absolutely necessary for both parties.",0.1531,0.173,0.154,0.673,positive,The Picture of Dorian Gray
+"I never know where my wife is, and my wife never knows what I am doing.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"When we meet--we do meet occasionally, when we dine out together, or go down to the Duke's--we tell each other the most absurd stories with the most serious faces.",-0.1513,0.0,0.054,0.946,negative,The Picture of Dorian Gray
+"My wife is very good at it--much better, in fact, than I am.",0.7264,0.379,0.0,0.621,positive,The Picture of Dorian Gray
+"She never gets confused over her dates, and I always do.",0.2411,0.179,0.0,0.821,positive,The Picture of Dorian Gray
+"But when she does find me out, she makes no row at all.",-0.4215,0.0,0.189,0.811,negative,The Picture of Dorian Gray
+"I sometimes wish she would; but she merely laughs at me.""",0.7311,0.435,0.0,0.565,positive,The Picture of Dorian Gray
+"""I hate the way you talk about your married life, Harry,"" said Basil Hallward, strolling towards the door that led into the garden.",-0.5719,0.0,0.144,0.856,negative,The Picture of Dorian Gray
+"""I believe that you are really a very good husband, but that you are thoroughly ashamed of your own virtues.",-0.0268,0.21,0.176,0.614,neutral,The Picture of Dorian Gray
+You are an extraordinary fellow.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"You never say a moral thing, and you never do a wrong thing.",0.3724,0.203,0.0,0.797,positive,The Picture of Dorian Gray
+"Your cynicism is simply a pose.""",-0.4019,0.0,0.403,0.597,negative,The Picture of Dorian Gray
+"""Being natural is simply a pose, and the most irritating pose I know,"" cried Lord Henry, laughing; and the two young men went out into the garden together and ensconced themselves on a long bamboo seat that stood in the shade of a tall laurel bush.",-0.0498,0.115,0.119,0.766,neutral,The Picture of Dorian Gray
+The sunlight slipped over the polished leaves.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"In the grass, white daisies were tremulous.",-0.25,0.0,0.25,0.75,negative,The Picture of Dorian Gray
+"After a pause, Lord Henry pulled out his watch.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I am afraid I must be going, Basil,"" he murmured, ""and before I go, I insist on your answering a question I put to you some time ago.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""What is that?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"said the painter, keeping his eyes fixed on the ground.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""You know quite well.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I do not, Harry.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Well, I will tell you what it is.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I want you to explain to me why you won't exhibit Dorian Gray's picture.,0.0772,0.098,0.0,0.902,positive,The Picture of Dorian Gray
+"I want the real reason.""",0.0772,0.302,0.0,0.698,positive,The Picture of Dorian Gray
+"""I told you the real reason.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""No, you did not.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+You said it was because there was too much of yourself in it.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Now, that is childish.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Harry,"" said Basil Hallward, looking him straight in the face, ""every portrait that is painted with feeling is a portrait of the artist, not of the sitter.",0.34,0.124,0.0,0.876,positive,The Picture of Dorian Gray
+"The sitter is merely the accident, the occasion.",-0.4767,0.0,0.307,0.693,negative,The Picture of Dorian Gray
+"It is not he who is revealed by the painter; it is rather the painter who, on the coloured canvas, reveals himself.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The reason I will not exhibit this picture is that I am afraid that I have shown in it the secret of my own soul.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Lord Henry laughed.,0.4588,0.6,0.0,0.4,positive,The Picture of Dorian Gray
+"""And what is that?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+he asked.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I will tell you,"" said Hallward; but an expression of perplexity came over his face.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I am all expectation, Basil,"" continued his companion, glancing at him.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Oh, there is really very little to tell, Harry,"" answered the painter; ""and I am afraid you will hardly understand it.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Perhaps you will hardly believe it.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Lord Henry smiled, and leaning down, plucked a pink-petalled daisy from the grass and examined it.",0.5423,0.2,0.0,0.8,positive,The Picture of Dorian Gray
+"""I am quite sure I shall understand it,"" he replied, gazing intently at the little golden, white-feathered disk, ""and as for believing things, I can believe anything, provided that it is quite incredible.""",0.3804,0.08,0.0,0.92,positive,The Picture of Dorian Gray
+"The wind shook some blossoms from the trees, and the heavy lilac-blooms, with their clustering stars, moved to and fro in the languid air.",-0.1027,0.0,0.057,0.943,negative,The Picture of Dorian Gray
+"A grasshopper began to chirrup by the wall, and like a blue thread a long thin dragon-fly floated past on its brown gauze wings.",0.3612,0.111,0.0,0.889,positive,The Picture of Dorian Gray
+"Lord Henry felt as if he could hear Basil Hallward's heart beating, and wondered what was coming.",-0.4588,0.0,0.158,0.842,negative,The Picture of Dorian Gray
+"""The story is simply this,"" said the painter after some time.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Two months ago I went to a crush at Lady Brandon's.",-0.1531,0.0,0.167,0.833,negative,The Picture of Dorian Gray
+"You know we poor artists have to show ourselves in society from time to time, just to remind the public that we are not savages.",-0.0834,0.096,0.107,0.797,negative,The Picture of Dorian Gray
+"With an evening coat and a white tie, as you told me once, anybody, even a stock-broker, can gain a reputation for being civilized.",0.5267,0.145,0.0,0.855,positive,The Picture of Dorian Gray
+"Well, after I had been in the room about ten minutes, talking to huge overdressed dowagers and tedious academicians, I suddenly became conscious that some one was looking at me.",0.5267,0.145,0.0,0.855,positive,The Picture of Dorian Gray
+I turned half-way round and saw Dorian Gray for the first time.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"When our eyes met, I felt that I was growing pale.",0.1779,0.175,0.0,0.825,positive,The Picture of Dorian Gray
+A curious sensation of terror came over me.,-0.2732,0.215,0.318,0.467,negative,The Picture of Dorian Gray
+"I knew that I had come face to face with some one whose mere personality was so fascinating that, if I allowed it to do so, it would absorb my whole nature, my whole soul, my very art itself.",0.6696,0.114,0.0,0.886,positive,The Picture of Dorian Gray
+I did not want any external influence in my life.,-0.0572,0.0,0.133,0.867,negative,The Picture of Dorian Gray
+"You know yourself, Harry, how independent I am by nature.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I have always been my own master; had at least always been so, till I met Dorian Gray.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Then--but I don't know how to explain it to you.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Something seemed to tell me that I was on the verge of a terrible crisis in my life.,-0.802,0.0,0.34,0.66,negative,The Picture of Dorian Gray
+I had a strange feeling that fate had in store for me exquisite joys and exquisite sorrows.,0.0772,0.234,0.219,0.547,positive,The Picture of Dorian Gray
+I grew afraid and turned to quit the room.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+It was not conscience that made me do so: it was a sort of cowardice.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I take no credit to myself for trying to escape.""",0.1027,0.22,0.186,0.593,positive,The Picture of Dorian Gray
+"""Conscience and cowardice are really the same things, Basil.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Conscience is the trade-name of the firm.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"That is all.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I don't believe that, Harry, and I don't believe you do either.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"However, whatever was my motive--and it may have been pride, for I used to be very proud--I certainly struggled to the door.",0.3431,0.197,0.103,0.699,positive,The Picture of Dorian Gray
+"There, of course, I stumbled against Lady Brandon.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"'You are not going to run away so soon, Mr.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Hallward?',0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+she screamed out.,-0.3182,0.0,0.535,0.465,negative,The Picture of Dorian Gray
+"You know her curiously shrill voice?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Yes; she is a peacock in everything but beauty,"" said Lord Henry, pulling the daisy to bits with his long nervous fingers.",-0.3919,0.0,0.117,0.883,negative,The Picture of Dorian Gray
+"""I could not get rid of her.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"She brought me up to royalties, and people with stars and garters, and elderly ladies with gigantic tiaras and parrot noses.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+She spoke of me as her dearest friend.,0.7783,0.531,0.0,0.469,positive,The Picture of Dorian Gray
+"I had only met her once before, but she took it into her head to lionize me.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I believe some picture of mine had made a great success at the time, at least had been chattered about in the penny newspapers, which is the nineteenth-century standard of immortality.",0.8316,0.224,0.0,0.776,positive,The Picture of Dorian Gray
+Suddenly I found myself face to face with the young man whose personality had so strangely stirred me.,-0.4341,0.0,0.152,0.848,negative,The Picture of Dorian Gray
+"We were quite close, almost touching.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Our eyes met again.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"It was reckless of me, but I asked Lady Brandon to introduce me to him.",-0.2144,0.0,0.125,0.875,negative,The Picture of Dorian Gray
+"Perhaps it was not so reckless, after all.",0.4298,0.289,0.0,0.711,positive,The Picture of Dorian Gray
+It was simply inevitable.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+We would have spoken to each other without any introduction.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I am sure of that.,0.3182,0.434,0.0,0.566,positive,The Picture of Dorian Gray
+Dorian told me so afterwards.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"He, too, felt that we were destined to know each other.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""And how did Lady Brandon describe this wonderful young man?""",0.657,0.327,0.0,0.673,positive,The Picture of Dorian Gray
+asked his companion.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I know she goes in for giving a rapid précis of all her guests.",0.34,0.167,0.0,0.833,positive,The Picture of Dorian Gray
+"I remember her bringing me up to a truculent and red-faced old gentleman covered all over with orders and ribbons, and hissing into my ear, in a tragic whisper which must have been perfectly audible to everybody in the room, the most astounding details.",0.6478,0.151,0.062,0.787,positive,The Picture of Dorian Gray
+I simply fled.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I like to find out people for myself.,0.3612,0.294,0.0,0.706,positive,The Picture of Dorian Gray
+But Lady Brandon treats her guests exactly as an auctioneer treats his goods.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"She either explains them entirely away, or tells one everything about them except what one wants to know.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Poor Lady Brandon!",-0.5255,0.0,0.629,0.371,negative,The Picture of Dorian Gray
+"You are hard on her, Harry!""",-0.1759,0.0,0.253,0.747,negative,The Picture of Dorian Gray
+said Hallward listlessly.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""My dear fellow, she tried to found a salon , and only succeeded in opening a restaurant.",0.6597,0.31,0.0,0.69,positive,The Picture of Dorian Gray
+How could I admire her?,0.4767,0.508,0.0,0.492,positive,The Picture of Dorian Gray
+"But tell me, what did she say about Mr. Dorian Gray?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Oh, something like, 'Charming boy--poor dear mother and I absolutely inseparable.",0.836,0.56,0.0,0.44,positive,The Picture of Dorian Gray
+"Quite forget what he does--afraid he--doesn't do anything--oh, yes, plays the piano--or is it the violin, dear Mr.",0.0384,0.2,0.193,0.607,neutral,The Picture of Dorian Gray
+Gray?',0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Neither of us could help laughing, and we became friends at once.""",0.8402,0.5,0.0,0.5,positive,The Picture of Dorian Gray
+"""Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one,"" said the young lord, plucking another daisy.",0.9209,0.385,0.0,0.615,positive,The Picture of Dorian Gray
+Hallward shook his head.,-0.1027,0.0,0.318,0.682,negative,The Picture of Dorian Gray
+"""You don't understand what friendship is, Harry,"" he murmured--""or what enmity is, for that matter.",-0.3195,0.067,0.146,0.788,negative,The Picture of Dorian Gray
+"You like every one; that is to say, you are indifferent to every one.""",0.1779,0.153,0.11,0.736,positive,The Picture of Dorian Gray
+"""How horribly unjust of you!""",-0.7901,0.0,0.7,0.3,negative,The Picture of Dorian Gray
+"cried Lord Henry, tilting his hat back and looking up at the little clouds that, like ravelled skeins of glossy white silk, were drifting across the hollowed turquoise of the summer sky.",-0.0935,0.064,0.075,0.861,negative,The Picture of Dorian Gray
+"""Yes; horribly unjust of you.",-0.7717,0.0,0.691,0.309,negative,The Picture of Dorian Gray
+I make a great difference between people.,0.6249,0.506,0.0,0.494,positive,The Picture of Dorian Gray
+"I choose my friends for their good looks, my acquaintances for their good characters, and my enemies for their good intellects.",0.886,0.459,0.101,0.44,positive,The Picture of Dorian Gray
+A man cannot be too careful in the choice of his enemies.,-0.5638,0.0,0.34,0.66,negative,The Picture of Dorian Gray
+I have not got one who is a fool.,-0.4404,0.0,0.326,0.674,negative,The Picture of Dorian Gray
+"They are all men of some intellectual power, and consequently they all appreciate me.",0.7184,0.333,0.0,0.667,positive,The Picture of Dorian Gray
+Is that very vain of me?,-0.4754,0.0,0.382,0.618,negative,The Picture of Dorian Gray
+"I think it is rather vain.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I should think it was, Harry.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"But according to your category I must be merely an acquaintance.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""My dear old Basil, you are much more than an acquaintance.""",0.3818,0.206,0.0,0.794,positive,The Picture of Dorian Gray
+"""And much less than a friend.",0.4445,0.422,0.0,0.578,positive,The Picture of Dorian Gray
+"A sort of brother, I suppose?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Oh, brothers!",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I don't care for brothers.,-0.3875,0.0,0.467,0.533,negative,The Picture of Dorian Gray
+"My elder brother won't die, and my younger brothers seem never to do anything else.""",0.4847,0.183,0.0,0.817,positive,The Picture of Dorian Gray
+"""Harry!""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"exclaimed Hallward, frowning.",-0.34,0.0,0.545,0.455,negative,The Picture of Dorian Gray
+"""My dear fellow, I am not quite serious.",0.4658,0.447,0.0,0.553,positive,The Picture of Dorian Gray
+But I can't help detesting my relations.,-0.438,0.0,0.366,0.634,negative,The Picture of Dorian Gray
+I suppose it comes from the fact that none of us can stand other people having the same faults as ourselves.,-0.4767,0.0,0.14,0.86,negative,The Picture of Dorian Gray
+I quite sympathize with the rage of the English democracy against what they call the vices of the upper orders.,-0.5574,0.0,0.167,0.833,negative,The Picture of Dorian Gray
+"The masses feel that drunkenness, stupidity, and immorality should be their own special property, and that if any one of us makes an ass of himself, he is poaching on their preserves.",-0.6486,0.07,0.207,0.724,negative,The Picture of Dorian Gray
+"When poor Southwark got into the divorce court, their indignation was quite magnificent.",-0.3197,0.203,0.314,0.483,negative,The Picture of Dorian Gray
+"And yet I don't suppose that ten per cent of the proletariat live correctly.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I don't agree with a single word that you have said, and, what is more, Harry, I feel sure you don't either.""",0.1163,0.113,0.093,0.794,positive,The Picture of Dorian Gray
+Lord Henry stroked his pointed brown beard and tapped the toe of his patent-leather boot with a tasselled ebony cane.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""How English you are Basil!",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+That is the second time you have made that observation.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+If one puts forward an idea to a true Englishman--always a rash thing to do--he never dreams of considering whether the idea is right or wrong.,-0.6437,0.091,0.261,0.648,negative,The Picture of Dorian Gray
+The only thing he considers of any importance is whether one believes it oneself.,0.3612,0.161,0.0,0.839,positive,The Picture of Dorian Gray
+"Now, the value of an idea has nothing whatsoever to do with the sincerity of the man who expresses it.",0.34,0.112,0.0,0.888,positive,The Picture of Dorian Gray
+"Indeed, the probabilities are that the more insincere the man is, the more purely intellectual will the idea be, as in that case it will not be coloured by either his wants, his desires, or his prejudices.",-0.2551,0.088,0.135,0.777,negative,The Picture of Dorian Gray
+"However, I don't propose to discuss politics, sociology, or metaphysics with you.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I like persons better than principles, and I like persons with no principles better than anything else in the world.",0.8225,0.415,0.085,0.5,positive,The Picture of Dorian Gray
+Tell me more about Mr. Dorian Gray.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"How often do you see him?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Every day.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I couldn't be happy if I didn't see him every day.,-0.4585,0.0,0.273,0.727,negative,The Picture of Dorian Gray
+"He is absolutely necessary to me.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""How extraordinary!",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I thought you would never care for anything but your art.""",-0.2057,0.0,0.168,0.832,negative,The Picture of Dorian Gray
+"""He is all my art to me now,"" said the painter gravely.",-0.3612,0.0,0.185,0.815,negative,The Picture of Dorian Gray
+"""I sometimes think, Harry, that there are only two eras of any importance in the world's history.",0.3612,0.135,0.0,0.865,positive,The Picture of Dorian Gray
+"The first is the appearance of a new medium for art, and the second is the appearance of a new personality for art also.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"What the invention of oil-painting was to the Venetians, the face of Antinous was to late Greek sculpture, and the face of Dorian Gray will some day be to me.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"It is not merely that I paint from him, draw from him, sketch from him.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Of course, I have done all that.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+But he is much more to me than a model or a sitter.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I won't tell you that I am dissatisfied with what I have done of him, or that his beauty is such that art cannot express it.",0.296,0.139,0.095,0.766,positive,The Picture of Dorian Gray
+"There is nothing that art cannot express, and I know that the work I have done, since I met Dorian Gray, is good work, is the best work of my life.",0.7964,0.215,0.0,0.785,positive,The Picture of Dorian Gray
+"But in some curious way--I wonder will you understand me?--his personality has suggested to me an entirely new manner in art, an entirely new mode of style.",0.4497,0.102,0.0,0.898,positive,The Picture of Dorian Gray
+"I see things differently, I think of them differently.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I can now recreate life in a way that was hidden from me before.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+'A dream of form in days of thought'--who is it who says that?,0.25,0.143,0.0,0.857,positive,The Picture of Dorian Gray
+I forget; but it is what Dorian Gray has been to me.,-0.1154,0.0,0.127,0.873,negative,The Picture of Dorian Gray
+"The merely visible presence of this lad--for he seems to me little more than a lad, though he is really over twenty--his merely visible presence--ah!",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I wonder can you realize all that that means?,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Unconsciously he defines for me the lines of a fresh school, a school that is to have in it all the passion of the romantic spirit, all the perfection of the spirit that is Greek.",0.9201,0.359,0.0,0.641,positive,The Picture of Dorian Gray
+The harmony of soul and body--how much that is!,0.4574,0.272,0.0,0.728,positive,The Picture of Dorian Gray
+"We in our madness have separated the two, and have invented a realism that is vulgar, an ideality that is void.",0.0,0.122,0.122,0.756,neutral,The Picture of Dorian Gray
+Harry!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+if you only knew what Dorian Gray is to me!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"You remember that landscape of mine, for which Agnew offered me such a huge price but which I would not part with?",0.1655,0.08,0.0,0.92,positive,The Picture of Dorian Gray
+It is one of the best things I have ever done.,0.6369,0.318,0.0,0.682,positive,The Picture of Dorian Gray
+And why is it so?,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Because, while I was painting it, Dorian Gray sat beside me.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Some subtle influence passed from him to me, and for the first time in my life I saw in the plain woodland the wonder I had always looked for and always missed.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Basil, this is extraordinary!",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I must see Dorian Gray.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Hallward got up from the seat and walked up and down the garden.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+After some time he came back.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Harry,"" he said, ""Dorian Gray is to me simply a motive in art.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+You might see nothing in him.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I see everything in him.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+He is never more present in my work than when no image of him is there.,-0.296,0.0,0.128,0.872,negative,The Picture of Dorian Gray
+"He is a suggestion, as I have said, of a new manner.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I find him in the curves of certain lines, in the loveliness and subtleties of certain colours.",0.4939,0.231,0.0,0.769,positive,The Picture of Dorian Gray
+"That is all.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Then why won't you exhibit his portrait?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+asked Lord Henry.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Because, without intending it, I have put into it some expression of all this curious artistic idolatry, of which, of course, I have never cared to speak to him.",0.0754,0.088,0.078,0.835,positive,The Picture of Dorian Gray
+He knows nothing about it.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+He shall never know anything about it.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"But the world might guess it, and I will not bare my soul to their shallow prying eyes.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+My heart shall never be put under their microscope.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"There is too much of myself in the thing, Harry--too much of myself!""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Poets are not so scrupulous as you are.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+They know how useful passion is for publication.,0.7096,0.496,0.0,0.504,positive,The Picture of Dorian Gray
+"Nowadays a broken heart will run to many editions.""",-0.4767,0.0,0.307,0.693,negative,The Picture of Dorian Gray
+"""I hate them for it,"" cried Hallward.",-0.743,0.0,0.558,0.442,negative,The Picture of Dorian Gray
+"""An artist should create beautiful things, but should put nothing of his own life into them.",0.4588,0.222,0.0,0.778,positive,The Picture of Dorian Gray
+We live in an age when men treat art as if it were meant to be a form of autobiography.,0.4019,0.13,0.0,0.87,positive,The Picture of Dorian Gray
+We have lost the abstract sense of beauty.,0.3612,0.314,0.19,0.496,positive,The Picture of Dorian Gray
+"Some day I will show the world what it is; and for that reason the world shall never see my portrait of Dorian Gray.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I think you are wrong, Basil, but I won't argue with you.",0.129,0.188,0.151,0.662,positive,The Picture of Dorian Gray
+It is only the intellectually lost who ever argue.,-0.3182,0.183,0.359,0.458,negative,The Picture of Dorian Gray
+"Tell me, is Dorian Gray very fond of you?""",0.4927,0.285,0.0,0.715,positive,The Picture of Dorian Gray
+The painter considered for a few moments.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""He likes me,"" he answered after a pause; ""I know he likes me.",0.6808,0.359,0.0,0.641,positive,The Picture of Dorian Gray
+Of course I flatter him dreadfully.,-0.5106,0.173,0.457,0.37,negative,The Picture of Dorian Gray
+I find a strange pleasure in saying things to him that I know I shall be sorry for having said.,0.3818,0.187,0.157,0.657,positive,The Picture of Dorian Gray
+"As a rule, he is charming to me, and we sit in the studio and talk of a thousand things.",0.5859,0.183,0.0,0.817,positive,The Picture of Dorian Gray
+"Now and then, however, he is horribly thoughtless, and seems to take a real delight in giving me pain.",-0.5267,0.217,0.334,0.448,negative,The Picture of Dorian Gray
+"Then I feel, Harry, that I have given away my whole soul to some one who treats it as if it were a flower to put in his coat, a bit of decoration to charm his vanity, an ornament for a summer's day.""",0.2023,0.067,0.047,0.887,positive,The Picture of Dorian Gray
+"""Days in summer, Basil, are apt to linger,"" murmured Lord Henry.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Perhaps you will tire sooner than he will.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"It is a sad thing to think of, but there is no doubt that genius lasts longer than beauty.",-0.2263,0.19,0.297,0.513,negative,The Picture of Dorian Gray
+That accounts for the fact that we all take such pains to over-educate ourselves.,-0.4215,0.0,0.177,0.823,negative,The Picture of Dorian Gray
+"In the wild struggle for existence, we want to have something that endures, and so we fill our minds with rubbish and facts, in the silly hope of keeping our place.",0.25,0.153,0.066,0.78,positive,The Picture of Dorian Gray
+The thoroughly well-informed man--that is the modern ideal.,0.5267,0.327,0.0,0.673,positive,The Picture of Dorian Gray
+And the mind of the thoroughly well-informed man is a dreadful thing.,-0.4404,0.0,0.225,0.775,negative,The Picture of Dorian Gray
+"It is like a bric-à-brac shop, all monsters and dust, with everything priced above its proper value.",0.5994,0.259,0.0,0.741,positive,The Picture of Dorian Gray
+"I think you will tire first, all the same.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Some day you will look at your friend, and he will seem to you to be a little out of drawing, or you won't like his tone of colour, or something.",0.2709,0.096,0.063,0.841,positive,The Picture of Dorian Gray
+"You will bitterly reproach him in your own heart, and seriously think that he has behaved very badly to you.",-0.796,0.0,0.323,0.677,negative,The Picture of Dorian Gray
+"The next time he calls, you will be perfectly cold and indifferent.",0.5267,0.263,0.113,0.625,positive,The Picture of Dorian Gray
+"It will be a great pity, for it will alter you.",0.4404,0.287,0.154,0.559,positive,The Picture of Dorian Gray
+"What you have told me is quite a romance, a romance of art one might call it, and the worst of having a romance of any kind is that it leaves one so unromantic.""",0.8996,0.334,0.091,0.575,positive,The Picture of Dorian Gray
+"""Harry, don't talk like that.",-0.2755,0.0,0.345,0.655,negative,The Picture of Dorian Gray
+"As long as I live, the personality of Dorian Gray will dominate me.",-0.128,0.0,0.12,0.88,negative,The Picture of Dorian Gray
+You can't feel what I feel.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"You change too often.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Ah, my dear Basil, that is exactly why I can feel it.",0.3818,0.206,0.0,0.794,positive,The Picture of Dorian Gray
+"Those who are faithful know only the trivial side of love: it is the faithless who know love's tragedies.""",0.7184,0.282,0.123,0.595,positive,The Picture of Dorian Gray
+"And Lord Henry struck a light on a dainty silver case and began to smoke a cigarette with a self-conscious and satisfied air, as if he had summed up the world in a phrase.",0.2023,0.088,0.063,0.849,positive,The Picture of Dorian Gray
+"There was a rustle of chirruping sparrows in the green lacquer leaves of the ivy, and the blue cloud-shadows chased themselves across the grass like swallows.",0.3612,0.094,0.0,0.906,positive,The Picture of Dorian Gray
+How pleasant it was in the garden!,0.5562,0.374,0.0,0.626,positive,The Picture of Dorian Gray
+"And how delightful other people's emotions were!--much more delightful than their ideas, it seemed to him.",0.8356,0.36,0.0,0.64,positive,The Picture of Dorian Gray
+"One's own soul, and the passions of one's friends--those were the fascinating things in life.",0.7717,0.34,0.0,0.66,positive,The Picture of Dorian Gray
+He pictured to himself with silent amusement the tedious luncheon that he had missed by staying so long with Basil Hallward.,0.0772,0.105,0.093,0.802,positive,The Picture of Dorian Gray
+"Had he gone to his aunt's, he would have been sure to have met Lord Goodbody there, and the whole conversation would have been about the feeding of the poor and the necessity for model lodging-houses.",-0.2023,0.058,0.079,0.863,negative,The Picture of Dorian Gray
+"Each class would have preached the importance of those virtues, for whose exercise there was no necessity in their own lives.",0.4215,0.198,0.087,0.714,positive,The Picture of Dorian Gray
+"The rich would have spoken on the value of thrift, and the idle grown eloquent over the dignity of labour.",0.8271,0.339,0.0,0.661,positive,The Picture of Dorian Gray
+It was charming to have escaped all that!,0.6239,0.369,0.0,0.631,positive,The Picture of Dorian Gray
+"As he thought of his aunt, an idea seemed to strike him.",-0.128,0.0,0.12,0.88,negative,The Picture of Dorian Gray
+"He turned to Hallward and said, ""My dear fellow, I have just remembered.""",0.3818,0.191,0.0,0.809,positive,The Picture of Dorian Gray
+"""Remembered what, Harry?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Where I heard the name of Dorian Gray.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Where was it?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"asked Hallward, with a slight frown.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Don't look so angry, Basil.",-0.6418,0.0,0.515,0.485,negative,The Picture of Dorian Gray
+"It was at my aunt, Lady Agatha's.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"She told me she had discovered a wonderful young man who was going to help her in the East End, and that his name was Dorian Gray.",0.7506,0.211,0.0,0.789,positive,The Picture of Dorian Gray
+I am bound to state that she never told me he was good-looking.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Women have no appreciation of good looks; at least, good women have not.",0.7845,0.448,0.108,0.443,positive,The Picture of Dorian Gray
+She said that he was very earnest and had a beautiful nature.,0.8173,0.454,0.0,0.546,positive,The Picture of Dorian Gray
+"I at once pictured to myself a creature with spectacles and lank hair, horribly freckled, and tramping about on huge feet.",-0.2732,0.101,0.15,0.749,negative,The Picture of Dorian Gray
+"I wish I had known it was your friend.""",0.4019,0.31,0.0,0.69,positive,The Picture of Dorian Gray
+"""I am very glad you didn't, Harry.""",0.5095,0.354,0.0,0.646,positive,The Picture of Dorian Gray
+"""Why?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I don't want you to meet him.""",-0.0572,0.0,0.169,0.831,negative,The Picture of Dorian Gray
+"""You don't want me to meet him?""",-0.0572,0.0,0.169,0.831,negative,The Picture of Dorian Gray
+"""No.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Mr. Dorian Gray is in the studio, sir,"" said the butler, coming into the garden.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""You must introduce me now,"" cried Lord Henry, laughing.",0.1531,0.25,0.203,0.547,positive,The Picture of Dorian Gray
+"The painter turned to his servant, who stood blinking in the sunlight.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Ask Mr. Gray to wait, Parker: I shall be in in a few moments.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The man bowed and went up the walk.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Then he looked at Lord Henry.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Dorian Gray is my dearest friend,"" he said.",0.5574,0.34,0.0,0.66,positive,The Picture of Dorian Gray
+"""He has a simple and a beautiful nature.",0.5994,0.438,0.0,0.562,positive,The Picture of Dorian Gray
+Your aunt was quite right in what she said of him.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Don't spoil him.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Don't try to influence him.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Your influence would be bad.,-0.5423,0.0,0.467,0.533,negative,The Picture of Dorian Gray
+"The world is wide, and has many marvellous people in it.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Don't take away from me the one person who gives to my art whatever charm it possesses: my life as an artist depends on him.,0.4019,0.101,0.0,0.899,positive,The Picture of Dorian Gray
+"Mind, Harry, I trust you.""",0.5106,0.524,0.0,0.476,positive,The Picture of Dorian Gray
+"He spoke very slowly, and the words seemed wrung out of him almost against his will.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""What nonsense you talk!""",-0.4574,0.0,0.499,0.501,negative,The Picture of Dorian Gray
+"said Lord Henry, smiling, and taking Hallward by the arm, he almost led him into the house.",0.4588,0.158,0.0,0.842,positive,The Picture of Dorian Gray
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+As they entered they saw Dorian Gray.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"He was seated at the piano, with his back to them, turning over the pages of a volume of Schumann's ""Forest Scenes.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""You must lend me these, Basil,"" he cried.",-0.3818,0.0,0.271,0.729,negative,The Picture of Dorian Gray
+"""I want to learn them.",0.0772,0.245,0.0,0.755,positive,The Picture of Dorian Gray
+"They are perfectly charming.""",0.6369,0.583,0.0,0.417,positive,The Picture of Dorian Gray
+"""That entirely depends on how you sit to-day, Dorian.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Oh, I am tired of sitting, and I don't want a life-sized portrait of myself,"" answered the lad, swinging round on the music-stool in a wilful, petulant manner.",-0.4805,0.0,0.158,0.842,negative,The Picture of Dorian Gray
+"When he caught sight of Lord Henry, a faint blush coloured his cheeks for a moment, and he started up.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I beg your pardon, Basil, but I didn't know you had any one with you.""",0.1655,0.113,0.0,0.887,positive,The Picture of Dorian Gray
+"""This is Lord Henry Wotton, Dorian, an old Oxford friend of mine.",0.4939,0.225,0.0,0.775,positive,The Picture of Dorian Gray
+"I have just been telling him what a capital sitter you were, and now you have spoiled everything.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""You have not spoiled my pleasure in meeting you, Mr. Gray,"" said Lord Henry, stepping forward and extending his hand.",0.0521,0.132,0.124,0.744,positive,The Picture of Dorian Gray
+"""My aunt has often spoken to me about you.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"You are one of her favourites, and, I am afraid, one of her victims also.""",-0.3182,0.0,0.15,0.85,negative,The Picture of Dorian Gray
+"""I am in Lady Agatha's black books at present,"" answered Dorian with a funny look of penitence.",0.4404,0.162,0.0,0.838,positive,The Picture of Dorian Gray
+"""I promised to go to a club in Whitechapel with her last Tuesday, and I really forgot all about it.",0.3612,0.128,0.0,0.872,positive,The Picture of Dorian Gray
+"We were to have played a duet together--three duets, I believe.",0.34,0.231,0.0,0.769,positive,The Picture of Dorian Gray
+I don't know what she will say to me.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I am far too frightened to call.""",-0.4404,0.0,0.367,0.633,negative,The Picture of Dorian Gray
+"""Oh, I will make your peace with my aunt.",0.5423,0.333,0.0,0.667,positive,The Picture of Dorian Gray
+She is quite devoted to you.,0.4576,0.374,0.0,0.626,positive,The Picture of Dorian Gray
+And I don't think it really matters about your not being there.,0.101,0.122,0.0,0.878,positive,The Picture of Dorian Gray
+The audience probably thought it was a duet.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"When Aunt Agatha sits down to the piano, she makes quite enough noise for two people.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""That is very horrid to her, and not very nice to me,"" answered Dorian, laughing.",-0.4839,0.149,0.294,0.557,negative,The Picture of Dorian Gray
+Lord Henry looked at him.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Yes, he was certainly wonderfully handsome, with his finely curved scarlet lips, his frank blue eyes, his crisp gold hair.",0.9042,0.433,0.0,0.567,positive,The Picture of Dorian Gray
+There was something in his face that made one trust him at once.,0.5106,0.216,0.0,0.784,positive,The Picture of Dorian Gray
+"All the candour of youth was there, as well as all youth's passionate purity.",0.6705,0.314,0.0,0.686,positive,The Picture of Dorian Gray
+One felt that he had kept himself unspotted from the world.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+No wonder Basil Hallward worshipped him.,0.3612,0.374,0.222,0.404,positive,The Picture of Dorian Gray
+"""You are too charming to go in for philanthropy, Mr. Gray--far too charming.""",0.5859,0.241,0.0,0.759,positive,The Picture of Dorian Gray
+And Lord Henry flung himself down on the divan and opened his cigarette-case.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The painter had been busy mixing his colours and getting his brushes ready.,0.3612,0.172,0.0,0.828,positive,The Picture of Dorian Gray
+"He was looking worried, and when he heard Lord Henry's last remark, he glanced at him, hesitated for a moment, and then said, ""Harry, I want to finish this picture to-day.",-0.4939,0.041,0.142,0.818,negative,The Picture of Dorian Gray
+"Would you think it awfully rude of me if I asked you to go away?""",-0.5095,0.0,0.202,0.798,negative,The Picture of Dorian Gray
+Lord Henry smiled and looked at Dorian Gray.,0.5423,0.333,0.0,0.667,positive,The Picture of Dorian Gray
+"""Am I to go, Mr.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Gray?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+he asked.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Oh, please don't, Lord Henry.",0.3182,0.365,0.0,0.635,positive,The Picture of Dorian Gray
+"I see that Basil is in one of his sulky moods, and I can't bear him when he sulks.",-0.2023,0.0,0.101,0.899,negative,The Picture of Dorian Gray
+"Besides, I want you to tell me why I should not go in for philanthropy.""",0.0772,0.098,0.0,0.902,positive,The Picture of Dorian Gray
+"""I don't know that I shall tell you that, Mr. Gray.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+It is so tedious a subject that one would have to talk seriously about it.,-0.1779,0.0,0.116,0.884,negative,The Picture of Dorian Gray
+"But I certainly shall not run away, now that you have asked me to stop.",0.0772,0.173,0.156,0.67,positive,The Picture of Dorian Gray
+"You don't really mind, Basil, do you?",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"You have often told me that you liked your sitters to have some one to chat to.""",0.4215,0.149,0.0,0.851,positive,The Picture of Dorian Gray
+Hallward bit his lip.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""If Dorian wishes it, of course you must stay.",0.1531,0.167,0.0,0.833,positive,The Picture of Dorian Gray
+"Dorian's whims are laws to everybody, except himself.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Lord Henry took up his hat and gloves.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""You are very pressing, Basil, but I am afraid I must go.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I have promised to meet a man at the Orleans.,0.3612,0.263,0.0,0.737,positive,The Picture of Dorian Gray
+"Good-bye, Mr. Gray.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Come and see me some afternoon in Curzon Street.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I am nearly always at home at five o'clock.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Write to me when you are coming.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I should be sorry to miss you.""",-0.2263,0.0,0.42,0.58,negative,The Picture of Dorian Gray
+"""Basil,"" cried Dorian Gray, ""if Lord Henry Wotton goes, I shall go, too.",-0.3818,0.0,0.191,0.809,negative,The Picture of Dorian Gray
+"You never open your lips while you are painting, and it is horribly dull standing on a platform and trying to look pleasant.",-0.4215,0.116,0.215,0.669,negative,The Picture of Dorian Gray
+Ask him to stay.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"I insist upon it.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Stay, Harry, to oblige Dorian, and to oblige me,"" said Hallward, gazing intently at his picture.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""It is quite true, I never talk when I am working, and never listen either, and it must be dreadfully tedious for my unfortunate sitters.",-0.5584,0.104,0.225,0.671,negative,The Picture of Dorian Gray
+"I beg you to stay.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""But what about my man at the Orleans?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The painter laughed.,0.4588,0.6,0.0,0.4,positive,The Picture of Dorian Gray
+"""I don't think there will be any difficulty about that.",-0.34,0.0,0.211,0.789,negative,The Picture of Dorian Gray
+"Sit down again, Harry.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"And now, Dorian, get up on the platform, and don't move about too much, or pay any attention to what Lord Henry says.",-0.1027,0.0,0.06,0.94,negative,The Picture of Dorian Gray
+"He has a very bad influence over all his friends, with the single exception of myself.""",-0.1761,0.156,0.191,0.653,negative,The Picture of Dorian Gray
+"Dorian Gray stepped up on the dais with the air of a young Greek martyr, and made a little moue of discontent to Lord Henry, to whom he had rather taken a fancy.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+He was so unlike Basil.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+They made a delightful contrast.,0.5859,0.559,0.0,0.441,positive,The Picture of Dorian Gray
+And he had such a beautiful voice.,0.5994,0.438,0.0,0.562,positive,The Picture of Dorian Gray
+"After a few moments he said to him, ""Have you really a very bad influence, Lord Henry?",-0.6214,0.0,0.225,0.775,negative,The Picture of Dorian Gray
+"As bad as Basil says?""",-0.5423,0.0,0.467,0.533,negative,The Picture of Dorian Gray
+"""There is no such thing as a good influence, Mr. Gray.",0.1779,0.221,0.168,0.611,positive,The Picture of Dorian Gray
+"All influence is immoral--immoral from the scientific point of view.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Why?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Because to influence a person is to give him one's own soul.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"He does not think his natural thoughts, or burn with his natural passions.",-0.0052,0.184,0.242,0.574,neutral,The Picture of Dorian Gray
+His virtues are not real to him.,0.3612,0.294,0.0,0.706,positive,The Picture of Dorian Gray
+"His sins, if there are such things as sins, are borrowed.",-0.7184,0.0,0.4,0.6,negative,The Picture of Dorian Gray
+"He becomes an echo of some one else's music, an actor of a part that has not been written for him.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The aim of life is self-development.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+To realize one's nature perfectly--that is what each of us is here for.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"People are afraid of themselves, nowadays.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"They have forgotten the highest of all duties, the duty that one owes to one's self.",-0.2263,0.0,0.112,0.888,negative,The Picture of Dorian Gray
+"Of course, they are charitable.",0.4019,0.403,0.0,0.597,positive,The Picture of Dorian Gray
+They feed the hungry and clothe the beggar.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"But their own souls starve, and are naked.",-0.5927,0.0,0.355,0.645,negative,The Picture of Dorian Gray
+Courage has gone out of our race.,0.4939,0.348,0.0,0.652,positive,The Picture of Dorian Gray
+Perhaps we never really had it.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The terror of society, which is the basis of morals, the terror of God, which is the secret of religion--these are the two things that govern us.",-0.6908,0.064,0.207,0.729,negative,The Picture of Dorian Gray
+"And yet--"" ""Just turn your head a little more to the right, Dorian, like a good boy,"" said the painter, deep in his work and conscious only that a look had come into the lad's face that he had never seen there before.",0.6597,0.124,0.0,0.876,positive,The Picture of Dorian Gray
+"""And yet,"" continued Lord Henry, in his low, musical voice, and with that graceful wave of the hand that was always so characteristic of him, and that he had even in his Eton days, ""I believe that if one man were to live out his life fully and completely, were to give form to every feeling, expression to every thought, reality to every dream--I believe that the world would gain such a fresh impulse of joy that we would forget all the maladies of mediævalism, and return to the Hellenic ideal--to something finer, richer than the Hellenic ideal, it may be.",0.9638,0.203,0.034,0.763,positive,The Picture of Dorian Gray
+But the bravest man amongst us is afraid of himself.,0.6652,0.331,0.0,0.669,positive,The Picture of Dorian Gray
+The mutilation of the savage has its tragic survival in the self-denial that mars our lives.,-0.7184,0.0,0.3,0.7,negative,The Picture of Dorian Gray
+We are punished for our refusals.,-0.4588,0.0,0.375,0.625,negative,The Picture of Dorian Gray
+Every impulse that we strive to strangle broods in the mind and poisons us.,-0.5719,0.0,0.222,0.778,negative,The Picture of Dorian Gray
+"The body sins once, and has done with its sin, for action is a mode of purification.",-0.765,0.0,0.32,0.68,negative,The Picture of Dorian Gray
+"Nothing remains then but the recollection of a pleasure, or the luxury of a regret.",0.3291,0.256,0.187,0.557,positive,The Picture of Dorian Gray
+The only way to get rid of a temptation is to yield to it.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Resist it, and your soul grows sick with longing for the things it has forbidden to itself, with desire for what its monstrous laws have made monstrous and unlawful.",-0.5423,0.077,0.206,0.716,negative,The Picture of Dorian Gray
+It has been said that the great events of the world take place in the brain.,0.6249,0.215,0.0,0.785,positive,The Picture of Dorian Gray
+"It is in the brain, and the brain only, that the great sins of the world take place also.",0.2732,0.17,0.124,0.705,positive,The Picture of Dorian Gray
+"You, Mr. Gray, you yourself, with your rose-red youth and your rose-white boyhood, you have had passions that have made you afraid, thoughts that have filled you with terror, day-dreams and sleeping dreams whose mere memory might stain your cheek with shame--"" ""Stop!""",0.4199,0.125,0.069,0.807,positive,The Picture of Dorian Gray
+"faltered Dorian Gray, ""stop!",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+you bewilder me.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I don't know what to say.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"There is some answer to you, but I cannot find it.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Don't speak.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Let me think.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Or, rather, let me try not to think.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"For nearly ten minutes he stood there, motionless, with parted lips and eyes strangely bright.",0.1779,0.16,0.122,0.718,positive,The Picture of Dorian Gray
+He was dimly conscious that entirely fresh influences were at work within him.,0.3804,0.178,0.0,0.822,positive,The Picture of Dorian Gray
+Yet they seemed to him to have come really from himself.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The few words that Basil's friend had said to him--words spoken by chance, no doubt, and with wilful paradox in them--had touched some secret chord that had never been touched before, but that he felt was now vibrating and throbbing to curious pulses.",0.4588,0.136,0.095,0.769,positive,The Picture of Dorian Gray
+Music had stirred him like that.,0.3612,0.333,0.0,0.667,positive,The Picture of Dorian Gray
+Music had troubled him many times.,-0.4588,0.0,0.375,0.625,negative,The Picture of Dorian Gray
+But music was not articulate.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"It was not a new world, but rather another chaos, that it created in us.",-0.5499,0.128,0.258,0.614,negative,The Picture of Dorian Gray
+Words!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Mere words!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+How terrible they were!,-0.5255,0.0,0.531,0.469,negative,The Picture of Dorian Gray
+"How clear, and vivid, and cruel!",-0.3595,0.243,0.383,0.374,negative,The Picture of Dorian Gray
+One could not escape from them.,-0.1326,0.0,0.233,0.767,negative,The Picture of Dorian Gray
+And yet what a subtle magic there was in them!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"They seemed to be able to give a plastic form to formless things, and to have a music of their own as sweet as that of viol or of lute.",0.4588,0.1,0.0,0.9,positive,The Picture of Dorian Gray
+Mere words!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Was there anything so real as words?,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Yes; there had been things in his boyhood that he had not understood.,0.4019,0.184,0.0,0.816,positive,The Picture of Dorian Gray
+He understood them now.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Life suddenly became fiery-coloured to him.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+It seemed to him that he had been walking in fire.,-0.34,0.0,0.194,0.806,negative,The Picture of Dorian Gray
+Why had he not known it?,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"With his subtle smile, Lord Henry watched him.",0.3612,0.263,0.0,0.737,positive,The Picture of Dorian Gray
+He knew the precise psychological moment when to say nothing.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+He felt intensely interested.,0.4576,0.499,0.0,0.501,positive,The Picture of Dorian Gray
+"He was amazed at the sudden impression that his words had produced, and, remembering a book that he had read when he was sixteen, a book which had revealed to him much that he had not known before, he wondered whether Dorian Gray was passing through a similar experience.",0.6249,0.104,0.0,0.896,positive,The Picture of Dorian Gray
+He had merely shot an arrow into the air.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Had it hit the mark?,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+How fascinating the lad was!,0.5848,0.487,0.0,0.513,positive,The Picture of Dorian Gray
+"Hallward painted away with that marvellous bold touch of his, that had the true refinement and perfect delicacy that in art, at any rate comes only from strength.",0.9062,0.339,0.0,0.661,positive,The Picture of Dorian Gray
+He was unconscious of the silence.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Basil, I am tired of standing,"" cried Dorian Gray suddenly.",-0.6705,0.0,0.44,0.56,negative,The Picture of Dorian Gray
+"""I must go out and sit in the garden.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The air is stifling here.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""My dear fellow, I am so sorry.",0.2165,0.312,0.209,0.48,positive,The Picture of Dorian Gray
+"When I am painting, I can't think of anything else.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+But you never sat better.,-0.4782,0.0,0.437,0.563,negative,The Picture of Dorian Gray
+You were perfectly still.,0.6369,0.583,0.0,0.417,positive,The Picture of Dorian Gray
+And I have caught the effect I wanted--the half-parted lips and the bright look in the eyes.,0.4404,0.172,0.0,0.828,positive,The Picture of Dorian Gray
+"I don't know what Harry has been saying to you, but he has certainly made you have the most wonderful expression.",0.8621,0.323,0.0,0.677,positive,The Picture of Dorian Gray
+I suppose he has been paying you compliments.,0.4019,0.31,0.0,0.69,positive,The Picture of Dorian Gray
+"You mustn't believe a word that he says.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""He has certainly not been paying me compliments.",0.6249,0.459,0.0,0.541,positive,The Picture of Dorian Gray
+"Perhaps that is the reason that I don't believe anything he has told me.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""You know you believe it all,"" said Lord Henry, looking at him with his dreamy languorous eyes.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""I will go out to the garden with you.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+It is horribly hot in the studio.,-0.5267,0.0,0.362,0.638,negative,The Picture of Dorian Gray
+"Basil, let us have something iced to drink, something with strawberries in it.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Certainly, Harry.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Just touch the bell, and when Parker comes I will tell him what you want.",0.0772,0.091,0.0,0.909,positive,The Picture of Dorian Gray
+"I have got to work up this background, so I will join you later on.",0.3566,0.171,0.0,0.829,positive,The Picture of Dorian Gray
+Don't keep Dorian too long.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+I have never been in better form for painting than I am to-day.,-0.3412,0.0,0.194,0.806,negative,The Picture of Dorian Gray
+This is going to be my masterpiece.,0.6249,0.406,0.0,0.594,positive,The Picture of Dorian Gray
+"It is my masterpiece as it stands.""",0.6249,0.406,0.0,0.594,positive,The Picture of Dorian Gray
+"Lord Henry went out to the garden and found Dorian Gray burying his face in the great cool lilac-blossoms, feverishly drinking in their perfume as if it had been wine.",0.7506,0.186,0.0,0.814,positive,The Picture of Dorian Gray
+He came close to him and put his hand upon his shoulder.,0.4939,0.225,0.0,0.775,positive,The Picture of Dorian Gray
+"""You are quite right to do that,"" he murmured.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The lad started and drew back.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"He was bareheaded, and the leaves had tossed his rebellious curls and tangled all their gilded threads.",-0.296,0.0,0.121,0.879,negative,The Picture of Dorian Gray
+"There was a look of fear in his eyes, such as people have when they are suddenly awakened.",-0.4939,0.0,0.167,0.833,negative,The Picture of Dorian Gray
+"His finely chiselled nostrils quivered, and some hidden nerve shook the scarlet of his lips and left them trembling.",-0.4404,0.0,0.187,0.813,negative,The Picture of Dorian Gray
+"""Yes,"" continued Lord Henry, ""that is one of the great secrets of life--to cure the soul by means of the senses, and the senses by means of the soul.",0.6249,0.128,0.0,0.872,positive,The Picture of Dorian Gray
+You are a wonderful creation.,0.7003,0.744,0.0,0.256,positive,The Picture of Dorian Gray
+"You know more than you think you know, just as you know less than you want to know.""",0.0094,0.057,0.0,0.943,neutral,The Picture of Dorian Gray
+Dorian Gray frowned and turned his head away.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"He could not help liking the tall, graceful young man who was standing by him.",-0.1321,0.154,0.231,0.615,negative,The Picture of Dorian Gray
+"His romantic, olive-coloured face and worn expression interested him.",0.4939,0.397,0.162,0.441,positive,The Picture of Dorian Gray
+There was something in his low languid voice that was absolutely fascinating.,0.4005,0.239,0.132,0.629,positive,The Picture of Dorian Gray
+"His cool, white, flowerlike hands, even, had a curious charm.",0.743,0.549,0.0,0.451,positive,The Picture of Dorian Gray
+"They moved, as he spoke, like music, and seemed to have a language of their own.",0.3612,0.152,0.0,0.848,positive,The Picture of Dorian Gray
+"But he felt afraid of him, and ashamed of being afraid.",-0.631,0.0,0.293,0.707,negative,The Picture of Dorian Gray
+Why had it been left for a stranger to reveal him to himself?,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"He had known Basil Hallward for months, but the friendship between them had never altered him.",0.5927,0.204,0.0,0.796,positive,The Picture of Dorian Gray
+Suddenly there had come some one across his life who seemed to have disclosed to him life's mystery.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"And, yet, what was there to be afraid of?",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+He was not a schoolboy or a girl.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+It was absurd to be frightened.,-0.4404,0.0,0.367,0.633,negative,The Picture of Dorian Gray
+"""Let us go and sit in the shade,"" said Lord Henry.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Parker has brought out the drinks, and if you stay any longer in this glare, you will be quite spoiled, and Basil will never paint you again.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+You really must not allow yourself to become sunburnt.,-0.2334,0.0,0.194,0.806,negative,The Picture of Dorian Gray
+"It would be unbecoming.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""What can it matter?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"cried Dorian Gray, laughing, as he sat down on the seat at the end of the garden.",0.1531,0.154,0.125,0.721,positive,The Picture of Dorian Gray
+"""It should matter everything to you, Mr.",0.0258,0.155,0.0,0.845,neutral,The Picture of Dorian Gray
+"Gray.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Why?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Because you have the most marvellous youth, and youth is the one thing worth having.""",0.2263,0.119,0.0,0.881,positive,The Picture of Dorian Gray
+"""I don't feel that, Lord Henry.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""No, you don't feel it now.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Some day, when you are old and wrinkled and ugly, when thought has seared your forehead with its lines, and passion branded your lips with its hideous fires, you will feel it, you will feel it terribly.",-0.5994,0.068,0.157,0.774,negative,The Picture of Dorian Gray
+"Now, wherever you go, you charm the world.",0.4019,0.278,0.0,0.722,positive,The Picture of Dorian Gray
+Will it always be so?,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"... You have a wonderfully beautiful face, Mr. Gray.",0.8316,0.565,0.0,0.435,positive,The Picture of Dorian Gray
+Don't frown.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+You have.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"And beauty is a form of genius--is higher, indeed, than genius, as it needs no explanation.",0.3818,0.2,0.116,0.684,positive,The Picture of Dorian Gray
+"It is of the great facts of the world, like sunlight, or spring-time, or the reflection in dark waters of that silver shell we call the moon.",0.765,0.209,0.0,0.791,positive,The Picture of Dorian Gray
+It cannot be questioned.,0.0762,0.302,0.0,0.698,positive,The Picture of Dorian Gray
+It has its divine right of sovereignty.,0.5574,0.375,0.0,0.625,positive,The Picture of Dorian Gray
+It makes princes of those who have it.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+You smile?,0.3612,0.714,0.0,0.286,positive,The Picture of Dorian Gray
+Ah!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+when you have lost it you won't smile.... People say sometimes that beauty is only superficial.,0.3612,0.189,0.114,0.697,positive,The Picture of Dorian Gray
+"That may be so, but at least it is not so superficial as thought is.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"To me, beauty is the wonder of wonders.",0.5859,0.352,0.0,0.648,positive,The Picture of Dorian Gray
+It is only shallow people who do not judge by appearances.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The true mystery of the world is the visible, not the invisible....",0.4215,0.203,0.0,0.797,positive,The Picture of Dorian Gray
+"Yes, Mr. Gray, the gods have been good to you.",0.6808,0.412,0.0,0.588,positive,The Picture of Dorian Gray
+But what the gods give they quickly take away.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"You have only a few years in which to live really, perfectly, and fully.",0.6697,0.272,0.0,0.728,positive,The Picture of Dorian Gray
+"When your youth goes, your beauty will go with it, and then you will suddenly discover that there are no triumphs left for you, or have to content yourself with those mean triumphs that the memory of your past will make more bitter than defeats.",0.4485,0.173,0.139,0.688,positive,The Picture of Dorian Gray
+Every month as it wanes brings you nearer to something dreadful.,-0.4404,0.0,0.225,0.775,negative,The Picture of Dorian Gray
+"Time is jealous of you, and wars against your lilies and your roses.",-0.765,0.0,0.375,0.625,negative,The Picture of Dorian Gray
+"You will become sallow, and hollow-cheeked, and dull-eyed.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+You will suffer horribly.... Ah!,-0.5848,0.0,0.487,0.513,negative,The Picture of Dorian Gray
+realize your youth while you have it.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Don't squander the gold of your days, listening to the tedious, trying to improve the hopeless failure, or giving away your life to the ignorant, the common, and the vulgar.",-0.4767,0.137,0.217,0.646,negative,The Picture of Dorian Gray
+"These are the sickly aims, the false ideals, of our age.",0.2023,0.153,0.0,0.847,positive,The Picture of Dorian Gray
+Live!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Live the wonderful life that is in you!,0.6114,0.363,0.0,0.637,positive,The Picture of Dorian Gray
+Let nothing be lost upon you.,0.2411,0.282,0.0,0.718,positive,The Picture of Dorian Gray
+Be always searching for new sensations.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Be afraid of nothing.... A new Hedonism--that is what our century wants.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+You might be its visible symbol.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+With your personality there is nothing you could not do.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The world belongs to you for a season....,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The moment I met you I saw that you were quite unconscious of what you really are, of what you really might be.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+There was so much in you that charmed me that I felt I must tell you something about yourself.,0.4588,0.158,0.0,0.842,positive,The Picture of Dorian Gray
+I thought how tragic it would be if you were wasted.,-0.7351,0.0,0.437,0.563,negative,The Picture of Dorian Gray
+For there is such a little time that your youth will last--such a little time.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The common hill-flowers wither, but they blossom again.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The laburnum will be as yellow next June as it is now.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"In a month there will be purple stars on the clematis, and year after year the green night of its leaves will hold its purple stars.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+But we never get back our youth.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The pulse of joy that beats in us at twenty becomes sluggish.,0.2732,0.23,0.164,0.606,positive,The Picture of Dorian Gray
+"Our limbs fail, our senses rot.",-0.5423,0.0,0.412,0.588,negative,The Picture of Dorian Gray
+"We degenerate into hideous puppets, haunted by the memory of the passions of which we were too much afraid, and the exquisite temptations that we had not the courage to yield to.",-0.367,0.084,0.151,0.765,negative,The Picture of Dorian Gray
+Youth!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Youth!,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"There is absolutely nothing in the world but youth!""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Dorian Gray listened, open-eyed and wondering.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The spray of lilac fell from his hand upon the gravel.,0.4019,0.234,0.109,0.657,positive,The Picture of Dorian Gray
+A furry bee came and buzzed round it for a moment.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Then it began to scramble all over the oval stellated globe of the tiny blossoms.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"He watched it with that strange interest in trivial things that we try to develop when things of high import make us afraid, or when we are stirred by some new emotion for which we cannot find expression, or when some thought that terrifies us lays sudden siege to the brain and calls on us to yield.",-0.3612,0.048,0.104,0.848,negative,The Picture of Dorian Gray
+After a time the bee flew away.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+He saw it creeping into the stained trumpet of a Tyrian convolvulus.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The flower seemed to quiver, and then swayed gently to and fro.",0.4588,0.214,0.0,0.786,positive,The Picture of Dorian Gray
+Suddenly the painter appeared at the door of the studio and made staccato signs for them to come in.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+They turned to each other and smiled.,0.5423,0.368,0.0,0.632,positive,The Picture of Dorian Gray
+"""I am waiting,"" he cried.",-0.3818,0.0,0.394,0.606,negative,The Picture of Dorian Gray
+"""Do come in.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The light is quite perfect, and you can bring your drinks.""",0.6115,0.285,0.0,0.715,positive,The Picture of Dorian Gray
+They rose up and sauntered down the walk together.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Two green-and-white butterflies fluttered past them, and in the pear-tree at the corner of the garden a thrush began to sing.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""You are glad you have met me, Mr. Gray,"" said Lord Henry, looking at him.",0.4588,0.176,0.0,0.824,positive,The Picture of Dorian Gray
+"""Yes, I am glad now.",0.4588,0.5,0.0,0.5,positive,The Picture of Dorian Gray
+"I wonder shall I always be glad?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Always!",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+That is a dreadful word.,-0.4404,0.0,0.492,0.508,negative,The Picture of Dorian Gray
+It makes me shudder when I hear it.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+Women are so fond of using it.,0.5777,0.384,0.0,0.616,positive,The Picture of Dorian Gray
+They spoil every romance by trying to make it last for ever.,0.5574,0.247,0.0,0.753,positive,The Picture of Dorian Gray
+"It is a meaningless word, too.",-0.4404,0.0,0.42,0.58,negative,The Picture of Dorian Gray
+"The only difference between a caprice and a lifelong passion is that the caprice lasts a little longer.""",0.4588,0.176,0.0,0.824,positive,The Picture of Dorian Gray
+"As they entered the studio, Dorian Gray put his hand upon Lord Henry's arm.",0.4939,0.198,0.0,0.802,positive,The Picture of Dorian Gray
+"""In that case, let our friendship be a caprice,"" he murmured, flushing at his own boldness, then stepped up on the platform and resumed his pose.",0.6597,0.19,0.0,0.81,positive,The Picture of Dorian Gray
+Lord Henry flung himself into a large wicker arm-chair and watched him.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The sweep and dash of the brush on the canvas made the only sound that broke the stillness, except when, now and then, Hallward stepped back to look at his work from a distance.",-0.4215,0.0,0.08,0.92,negative,The Picture of Dorian Gray
+In the slanting beams that streamed through the open doorway the dust danced and was golden.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+The heavy scent of the roses seemed to brood over everything.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"After about a quarter of an hour Hallward stopped painting, looked for a long time at Dorian Gray, and then for a long time at the picture, biting the end of one of his huge brushes and frowning.",-0.25,0.06,0.111,0.829,negative,The Picture of Dorian Gray
+"""It is quite finished,"" he cried at last, and stooping down he wrote his name in long vermilion letters on the left-hand corner of the canvas.",-0.4336,0.0,0.103,0.897,negative,The Picture of Dorian Gray
+Lord Henry came over and examined the picture.,0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"It was certainly a wonderful work of art, and a wonderful likeness as well.",0.8979,0.598,0.0,0.402,positive,The Picture of Dorian Gray
+"""My dear fellow, I congratulate you most warmly,"" he said.",0.7003,0.453,0.0,0.547,positive,The Picture of Dorian Gray
+"""It is the finest portrait of modern times.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Mr. Gray, come over and look at yourself.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"The lad started, as if awakened from some dream.",0.25,0.2,0.0,0.8,positive,The Picture of Dorian Gray
+"""Is it really finished?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"he murmured, stepping down from the platform.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""Quite finished,"" said the painter.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""And you have sat splendidly to-day.",0.4767,0.383,0.0,0.617,positive,The Picture of Dorian Gray
+"I am awfully obliged to you.""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"""That is entirely due to me,"" broke in Lord Henry.",-0.4215,0.0,0.237,0.763,negative,The Picture of Dorian Gray
+"""Isn't it, Mr.",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Gray?""",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray
+"Dorian made no answer, but passed listlessly in front of his picture and turned towards it.",-0.1531,0.0,0.096,0.904,negative,The Picture of Dorian Gray
+"When he saw it he drew back, and his cheeks flushed for a moment with pleasure.",0.5719,0.209,0.0,0.791,positive,The Picture of Dorian Gray
+"A look of joy came into his eyes, as if he had recognized himself for the first time.",0.5859,0.192,0.0,0.808,positive,The Picture of Dorian Gray
+"He stood there motionless and in wonder, dimly conscious that Hallward was speaking to him, but not",0.0,0.0,0.0,1.0,neutral,The Picture of Dorian Gray

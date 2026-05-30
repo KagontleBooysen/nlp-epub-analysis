@@ -1,0 +1,518 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Yellow Wallpaper This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.068,0.107,0.825,negative,The Yellow Wallpaper
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Yellow Wallpaper
+"Title : The Yellow Wallpaper Author : Charlotte Perkins Gilman Release date : November 1, 1999 [eBook #1952] Most recently updated: August 31, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/1952 Credits : An Anonymous Volunteer and David Widger *** START OF THE PROJECT GUTENBERG EBOOK THE YELLOW WALLPAPER *** The Yellow Wallpaper By Charlotte Perkins Gilman It is very seldom that mere ordinary people like John and myself secure ancestral halls for the summer.",0.7506,0.098,0.0,0.902,positive,The Yellow Wallpaper
+"A colonial mansion, a hereditary estate, I would say a haunted house, and reach the height of romantic felicity--but that would be asking too much of fate!",-0.1511,0.15,0.114,0.736,negative,The Yellow Wallpaper
+Still I will proudly declare that there is something queer about it.,0.5574,0.265,0.0,0.735,positive,The Yellow Wallpaper
+"Else, why should it be let so cheaply?",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+And why have stood so long untenanted?,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"John laughs at me, of course, but one expects that in marriage.",0.2732,0.16,0.0,0.84,positive,The Yellow Wallpaper
+John is practical in the extreme.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"He has no patience with faith, an intense horror of superstition, and he scoffs openly at any talk of things not to be felt and seen and put down in figures.",-0.4215,0.111,0.159,0.73,negative,The Yellow Wallpaper
+"John is a physician, and perhaps --(I would not say it to a living soul, of course, but this is dead paper and a great relief to my mind)-- perhaps that is one reason I do not get well faster.",0.3877,0.196,0.164,0.64,positive,The Yellow Wallpaper
+"You see, he does not believe I am sick!",0.4577,0.3,0.0,0.7,positive,The Yellow Wallpaper
+And what can one do?,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If a physician of high standing, and one's own husband, assures friends and relatives that there is really nothing the matter with one but temporary nervous depression--a slight hysterical tendency--what is one to do?",-0.0693,0.101,0.136,0.764,negative,The Yellow Wallpaper
+"My brother is also a physician, and also of high standing, and he says the same thing.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"So I take phosphates or phosphites--whichever it is, and tonics, and journeys, and air, and exercise, and am absolutely forbidden to ""work"" until I am well again.",-0.2484,0.074,0.11,0.816,negative,The Yellow Wallpaper
+"Personally, I disagree with their ideas.",-0.3818,0.0,0.394,0.606,negative,The Yellow Wallpaper
+"Personally, I believe that congenial work, with excitement and change, would do me good.",0.7269,0.357,0.0,0.643,positive,The Yellow Wallpaper
+But what is one to do?,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I did write for a while in spite of them; but it does exhaust me a good deal--having to be so sly about it, or else meet with heavy opposition.",-0.0387,0.117,0.152,0.731,neutral,The Yellow Wallpaper
+"I sometimes fancy that in my condition if I had less opposition and more society and stimulus--but John says the very worst thing I can do is to think about my condition, and I confess it always makes me feel bad.",-0.8357,0.0,0.184,0.816,negative,The Yellow Wallpaper
+So I will let it alone and talk about the house.,-0.25,0.0,0.182,0.818,negative,The Yellow Wallpaper
+The most beautiful place!,0.6689,0.599,0.0,0.401,positive,The Yellow Wallpaper
+"It is quite alone, standing well back from the road, quite three miles from the village.",0.0183,0.127,0.123,0.75,neutral,The Yellow Wallpaper
+"It makes me think of English places that you read about, for there are hedges and walls and gates that lock, and lots of separate little houses for the gardeners and people.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+There is a delicious garden!,0.6114,0.571,0.0,0.429,positive,The Yellow Wallpaper
+"I never saw such a garden--large and shady, full of box-bordered paths, and lined with long grape-covered arbors with seats under them.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"There were greenhouses, too, but they are all broken now.",-0.631,0.0,0.316,0.684,negative,The Yellow Wallpaper
+"There was some legal trouble, I believe, something about the heirs and co-heirs; anyhow, the place has been empty for years.",-0.4588,0.065,0.196,0.739,negative,The Yellow Wallpaper
+"That spoils my ghostliness, I am afraid; but I don't care--there is something strange about the house--I can feel it.",-0.296,0.0,0.115,0.885,negative,The Yellow Wallpaper
+"I even said so to John one moonlight evening, but he said what I felt was a draught , and shut the window.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I get unreasonably angry with John sometimes.,-0.5106,0.0,0.398,0.602,negative,The Yellow Wallpaper
+I'm sure I never used to be so sensitive.,0.3182,0.247,0.0,0.753,positive,The Yellow Wallpaper
+I think it is due to this nervous condition.,-0.3346,0.0,0.253,0.747,negative,The Yellow Wallpaper
+"But John says if I feel so I shall neglect proper self-control; so I take pains to control myself,--before him, at least,--and that makes me very tired.",-0.9303,0.0,0.379,0.621,negative,The Yellow Wallpaper
+I don't like our room a bit.,-0.2755,0.0,0.345,0.655,negative,The Yellow Wallpaper
+"I wanted one downstairs that opened on the piazza and had roses all over the window, and such pretty old-fashioned chintz hangings!",0.5411,0.149,0.0,0.851,positive,The Yellow Wallpaper
+but John would not hear of it.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"He said there was only one window and not room for two beds, and no near room for him if he took another.",-0.296,0.0,0.091,0.909,negative,The Yellow Wallpaper
+"He is very careful and loving, and hardly lets me stir without special direction.",0.5857,0.314,0.117,0.57,positive,The Yellow Wallpaper
+"I have a schedule prescription for each hour in the day; he takes all care from me, and so I feel basely ungrateful not to value it more.",-0.2731,0.105,0.174,0.721,negative,The Yellow Wallpaper
+"He said we came here solely on my account, that I was to have perfect rest and all the air I could get.",0.5719,0.156,0.0,0.844,positive,The Yellow Wallpaper
+"""Your exercise depends on your strength, my dear,"" said he, ""and your food somewhat on your appetite; but air you can absorb all the time.""",0.2732,0.08,0.0,0.92,positive,The Yellow Wallpaper
+"So we took the nursery, at the top of the house.",0.2023,0.153,0.0,0.847,positive,The Yellow Wallpaper
+"It is a big, airy room, the whole floor nearly, with windows that look all ways, and air and sunshine galore.",0.4939,0.144,0.0,0.856,positive,The Yellow Wallpaper
+"It was nursery first and then playground and gymnasium, I should judge; for the windows are barred for little children, and there are rings and things in the walls.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+The paint and paper look as if a boys' school had used it.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It is stripped off--the paper--in great patches all around the head of my bed, about as far as I can reach, and in a great place on the other side of the room low down.",0.802,0.23,0.052,0.718,positive,The Yellow Wallpaper
+I never saw a worse paper in my life.,0.3724,0.299,0.0,0.701,positive,The Yellow Wallpaper
+One of those sprawling flamboyant patterns committing every artistic sin.,-0.5106,0.101,0.279,0.62,negative,The Yellow Wallpaper
+"It is dull enough to confuse the eye in following, pronounced enough to constantly irritate, and provoke study, and when you follow the lame, uncertain curves for a little distance they suddenly commit suicide--plunge off at outrageous angles, destroy themselves in unheard-of contradictions.",-0.9623,0.038,0.411,0.551,negative,The Yellow Wallpaper
+"The color is repellant, almost revolting; a smouldering, unclean yellow, strangely faded by the slow-turning sunlight.",-0.296,0.0,0.136,0.864,negative,The Yellow Wallpaper
+"It is a dull yet lurid orange in some places, a sickly sulphur tint in others.",-0.4019,0.0,0.172,0.828,negative,The Yellow Wallpaper
+No wonder the children hated it!,-0.7712,0.0,0.626,0.374,negative,The Yellow Wallpaper
+I should hate it myself if I had to live in this room long.,-0.5719,0.0,0.252,0.748,negative,The Yellow Wallpaper
+"There comes John, and I must put this away,--he hates to have me write a word.",-0.4404,0.0,0.182,0.818,negative,The Yellow Wallpaper
+"We have been here two weeks, and I haven't felt like writing before, since that first day.",-0.2755,0.0,0.123,0.877,negative,The Yellow Wallpaper
+"I am sitting by the window now, up in this atrocious nursery, and there is nothing to hinder my writing as much as I please, save lack of strength.",0.7506,0.256,0.068,0.676,positive,The Yellow Wallpaper
+"John is away all day, and even some nights when his cases are serious.",-0.0772,0.0,0.091,0.909,negative,The Yellow Wallpaper
+I am glad my case is not serious!,0.5445,0.474,0.0,0.526,positive,The Yellow Wallpaper
+But these nervous troubles are dreadfully depressing.,-0.9442,0.0,0.834,0.166,negative,The Yellow Wallpaper
+John does not know how much I really suffer.,-0.5849,0.0,0.351,0.649,negative,The Yellow Wallpaper
+"He knows there is no reason to suffer, and that satisfies him.",-0.4404,0.16,0.326,0.514,negative,The Yellow Wallpaper
+Of course it is only nervousness.,-0.296,0.0,0.306,0.694,negative,The Yellow Wallpaper
+It does weigh on me so not to do my duty in any way!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I meant to be such a help to John, such a real rest and comfort, and here I am a comparative burden already!",0.3802,0.235,0.124,0.641,positive,The Yellow Wallpaper
+"Nobody would believe what an effort it is to do what little I am able--to dress and entertain, and order things.",0.3182,0.108,0.0,0.892,positive,The Yellow Wallpaper
+It is fortunate Mary is so good with the baby.,0.7678,0.454,0.0,0.546,positive,The Yellow Wallpaper
+Such a dear baby!,0.4389,0.591,0.0,0.409,positive,The Yellow Wallpaper
+"And yet I cannot be with him, it makes me so nervous.",-0.4101,0.0,0.215,0.785,negative,The Yellow Wallpaper
+I suppose John never was nervous in his life.,0.2057,0.206,0.0,0.794,positive,The Yellow Wallpaper
+He laughs at me so about this wallpaper!,0.5411,0.333,0.0,0.667,positive,The Yellow Wallpaper
+"At first he meant to repaper the room, but afterwards he said that I was letting it get the better of me, and that nothing was worse for a nervous patient than to give way to such fancies.",0.6737,0.168,0.062,0.77,positive,The Yellow Wallpaper
+"He said that after the wallpaper was changed it would be the heavy bedstead, and then the barred windows, and then that gate at the head of the stairs, and so on.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"""You know the place is doing you good,"" he said, ""and really, dear, I don't care to renovate the house just for a three months' rental.""",0.0003,0.104,0.104,0.792,neutral,The Yellow Wallpaper
+"""Then do let us go downstairs,"" I said, ""there are such pretty rooms there.""",0.4939,0.211,0.0,0.789,positive,The Yellow Wallpaper
+"Then he took me in his arms and called me a blessed little goose, and said he would go down cellar if I wished, and have it whitewashed into the bargain.",0.6908,0.174,0.0,0.826,positive,The Yellow Wallpaper
+But he is right enough about the beds and windows and things.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It is as airy and comfortable a room as any one need wish, and, of course, I would not be so silly as to make him uncomfortable just for a whim.",0.5982,0.22,0.076,0.704,positive,The Yellow Wallpaper
+"I'm really getting quite fond of the big room, all but that horrid paper.",-0.5456,0.117,0.25,0.632,negative,The Yellow Wallpaper
+"Out of one window I can see the garden, those mysterious deep-shaded arbors, the riotous old-fashioned flowers, and bushes and gnarly trees.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Out of another I get a lovely view of the bay and a little private wharf belonging to the estate.,0.5859,0.192,0.0,0.808,positive,The Yellow Wallpaper
+There is a beautiful shaded lane that runs down there from the house.,0.5994,0.262,0.0,0.738,positive,The Yellow Wallpaper
+"I always fancy I see people walking in these numerous paths and arbors, but John has cautioned me not to give way to fancy in the least.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"He says that with my imaginative power and habit of story-making a nervous weakness like mine is sure to lead to all manner of excited fancies, and that I ought to use my will and good sense to check the tendency.",0.6369,0.21,0.102,0.688,positive,The Yellow Wallpaper
+So I try.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I think sometimes that if I were only well enough to write a little it would relieve the press of ideas and rest me.,0.5165,0.186,0.0,0.814,positive,The Yellow Wallpaper
+But I find I get pretty tired when I try.,0.1154,0.327,0.293,0.38,positive,The Yellow Wallpaper
+It is so discouraging not to have any advice and companionship about my work.,-0.5777,0.0,0.223,0.777,negative,The Yellow Wallpaper
+When I get really well John says we will ask Cousin Henry and Julia down for a long visit; but he says he would as soon put fire-works in my pillow-case as to let me have those stimulating people about now.,0.6753,0.13,0.0,0.87,positive,The Yellow Wallpaper
+I wish I could get well faster.,0.5859,0.615,0.0,0.385,positive,The Yellow Wallpaper
+But I must not think about that.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+This paper looks to me as if it knew what a vicious influence it had!,-0.4199,0.0,0.177,0.823,negative,The Yellow Wallpaper
+There is a recurrent spot where the pattern lolls like a broken neck and two bulbous eyes stare at you upside-down.,-0.1531,0.111,0.137,0.752,negative,The Yellow Wallpaper
+I get positively angry with the impertinence of it and the everlastingness.,0.0258,0.217,0.21,0.573,neutral,The Yellow Wallpaper
+"Up and down and sideways they crawl, and those absurd, unblinking eyes are everywhere.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"There is one place where two breadths didn't match, and the eyes go all up and down the line, one a little higher than the other.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I never saw so much expression in an inanimate thing before, and we all know how much expression they have!",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I used to lie awake as a child and get more entertainment and terror out of blank walls and plain furniture than most children could find in a toy-store.,-0.1458,0.101,0.119,0.78,negative,The Yellow Wallpaper
+"I remember what a kindly wink the knobs of our big old bureau used to have, and there was one chair that always seemed like a strong friend.",0.9042,0.367,0.0,0.633,positive,The Yellow Wallpaper
+I used to feel that if any of the other things looked too fierce I could always hop into that chair and be safe.,0.4404,0.121,0.0,0.879,positive,The Yellow Wallpaper
+"The furniture in this room is no worse than inharmonious, however, for we had to bring it all from downstairs.",-0.6486,0.0,0.227,0.773,negative,The Yellow Wallpaper
+"I suppose when this was used as a playroom they had to take the nursery things out, and no wonder!",-0.3595,0.0,0.128,0.872,negative,The Yellow Wallpaper
+I never saw such ravages as the children have made here.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"The wallpaper, as I said before, is torn off in spots, and it sticketh closer than a brother--they must have had perseverance as well as hatred.",-0.6249,0.072,0.212,0.717,negative,The Yellow Wallpaper
+"Then the floor is scratched and gouged and splintered, the plaster itself is dug out here and there, and this great heavy bed, which is all we found in the room, looks as if it had been through the wars.",0.3127,0.105,0.077,0.818,positive,The Yellow Wallpaper
+But I don't mind it a bit--only the paper.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+There comes John's sister.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Such a dear girl as she is, and so careful of me!",0.6134,0.358,0.0,0.642,positive,The Yellow Wallpaper
+I must not let her find me writing.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"She is a perfect, and enthusiastic housekeeper, and hopes for no better profession.",0.886,0.578,0.101,0.321,positive,The Yellow Wallpaper
+I verily believe she thinks it is the writing which made me sick!,-0.5562,0.0,0.246,0.754,negative,The Yellow Wallpaper
+"But I can write when she is out, and see her a long way off from these windows.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"There is one that commands the road, a lovely, shaded, winding road, and one that just looks off over the country.",0.5859,0.167,0.0,0.833,positive,The Yellow Wallpaper
+"A lovely country, too, full of great elms and velvet meadows.",0.836,0.497,0.0,0.503,positive,The Yellow Wallpaper
+"This wallpaper has a kind of sub-pattern in a different shade, a particularly irritating one, for you can only see it in certain lights, and not clearly then.",-0.5348,0.071,0.187,0.742,negative,The Yellow Wallpaper
+"But in the places where it isn't faded, and where the sun is just so, I can see a strange, provoking, formless sort of figure, that seems to sulk about behind that silly and conspicuous front design.",-0.564,0.03,0.126,0.843,negative,The Yellow Wallpaper
+There's sister on the stairs!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Well, the Fourth of July is over!",0.3382,0.285,0.0,0.715,positive,The Yellow Wallpaper
+The people are gone and I am tired out.,-0.4404,0.0,0.293,0.707,negative,The Yellow Wallpaper
+"John thought it might do me good to see a little company, so we just had mother and Nellie and the children down for a week.",0.4404,0.112,0.0,0.888,positive,The Yellow Wallpaper
+Of course I didn't do a thing.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Jennie sees to everything now.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+But it tired me all the same.,-0.5927,0.0,0.391,0.609,negative,The Yellow Wallpaper
+John says if I don't pick up faster he shall send me to Weir Mitchell in the fall.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+But I don't want to go there at all.,-0.0857,0.0,0.16,0.84,negative,The Yellow Wallpaper
+"I had a friend who was in his hands once, and she says he is just like John and my brother, only more so!",0.7177,0.231,0.0,0.769,positive,The Yellow Wallpaper
+"Besides, it is such an undertaking to go so far.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I don't feel as if it was worth while to turn my hand over for anything, and I'm getting dreadfully fretful and querulous.",0.1027,0.183,0.133,0.683,positive,The Yellow Wallpaper
+"I cry at nothing, and cry most of the time.",-0.7351,0.0,0.47,0.53,negative,The Yellow Wallpaper
+"Of course I don't when John is here, or anybody else, but when I am alone.",-0.3612,0.0,0.161,0.839,negative,The Yellow Wallpaper
+And I am alone a good deal just now.,0.2263,0.293,0.202,0.505,positive,The Yellow Wallpaper
+"John is kept in town very often by serious cases, and Jennie is good and lets me alone when I want her to.",0.1621,0.163,0.138,0.699,positive,The Yellow Wallpaper
+"So I walk a little in the garden or down that lovely lane, sit on the porch under the roses, and lie down up here a good deal.",0.7717,0.226,0.0,0.774,positive,The Yellow Wallpaper
+I'm getting really fond of the room in spite of the wallpaper.,-0.0534,0.192,0.205,0.603,negative,The Yellow Wallpaper
+Perhaps because of the wallpaper.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+It dwells in my mind so!,-0.1007,0.0,0.218,0.782,negative,The Yellow Wallpaper
+"I lie here on this great immovable bed--it is nailed down, I believe--and follow that pattern about by the hour.",0.7073,0.223,0.0,0.777,positive,The Yellow Wallpaper
+"It is as good as gymnastics, I assure you.",0.6486,0.469,0.0,0.531,positive,The Yellow Wallpaper
+"I start, we'll say, at the bottom, down in the corner over there where it has not been touched, and I determine for the thousandth time that I will follow that pointless pattern to some sort of a conclusion.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I know a little of the principle of design, and I know this thing was not arranged on any laws of radiation, or alternation, or repetition, or symmetry, or anything else that I ever heard of.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It is repeated, of course, by the breadths, but not otherwise.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Looked at in one way each breadth stands alone, the bloated curves and flourishes--a kind of ""debased Romanesque"" with delirium tremens --go waddling up and down in isolated columns of fatuity.",-0.5106,0.0,0.129,0.871,negative,The Yellow Wallpaper
+"But, on the other hand, they connect diagonally, and the sprawling outlines run off in great slanting waves of optic horror, like a lot of wallowing seaweeds in full chase.",0.8462,0.305,0.117,0.578,positive,The Yellow Wallpaper
+"The whole thing goes horizontally, too, at least it seems so, and I exhaust myself in trying to distinguish the order of its going in that direction.",-0.3566,0.0,0.09,0.91,negative,The Yellow Wallpaper
+"They have used a horizontal breadth for a frieze, and that adds wonderfully to the confusion.",0.4019,0.215,0.122,0.663,positive,The Yellow Wallpaper
+"There is one end of the room where it is almost intact, and there, when the cross-lights fade and the low sun shines directly upon it, I can almost fancy radiation after all,--the interminable grotesques seem to form around a common centre and rush off in headlong plunges of equal distraction.",-0.4927,0.029,0.09,0.881,negative,The Yellow Wallpaper
+It makes me tired to follow it.,-0.4404,0.0,0.326,0.674,negative,The Yellow Wallpaper
+"I will take a nap, I guess.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I don't know why I should write this.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I don't want to.,-0.0572,0.0,0.379,0.621,negative,The Yellow Wallpaper
+I don't feel able.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+And I know John would think it absurd.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+But I must say what I feel and think in some way--it is such a relief!,0.6643,0.27,0.0,0.73,positive,The Yellow Wallpaper
+But the effort is getting to be greater than the relief.,0.8126,0.451,0.0,0.549,positive,The Yellow Wallpaper
+"Half the time now I am awfully lazy, and lie down ever so much.",-0.4201,0.0,0.189,0.811,negative,The Yellow Wallpaper
+"John says I mustn't lose my strength, and has me take cod-liver oil and lots of tonics and things, to say nothing of ale and wine and rare meat.",-0.0951,0.073,0.085,0.842,negative,The Yellow Wallpaper
+Dear John!,0.4389,0.743,0.0,0.257,positive,The Yellow Wallpaper
+"He loves me very dearly, and hates to have me sick.",0.0847,0.335,0.319,0.346,positive,The Yellow Wallpaper
+"I tried to have a real earnest reasonable talk with him the other day, and tell him how I wish he would let me go and make a visit to Cousin Henry and Julia.",0.7184,0.176,0.0,0.824,positive,The Yellow Wallpaper
+"But he said I wasn't able to go, nor able to stand it after I got there; and I did not make out a very good case for myself, for I was crying before I had finished.",0.036,0.115,0.111,0.775,neutral,The Yellow Wallpaper
+It is getting to be a great effort for me to think straight.,0.7184,0.375,0.0,0.625,positive,The Yellow Wallpaper
+"Just this nervous weakness, I suppose.",-0.5994,0.0,0.62,0.38,negative,The Yellow Wallpaper
+"And dear John gathered me up in his arms, and just carried me upstairs and laid me on the bed, and sat by me and read to me till it tired my head.",-0.0772,0.071,0.079,0.849,negative,The Yellow Wallpaper
+"He said I was his darling and his comfort and all he had, and that I must take care of myself for his sake, and keep well.",0.891,0.356,0.0,0.644,positive,The Yellow Wallpaper
+"He says no one but myself can help me out of it, that I must use my will and self-control and not let any silly fancies run away with me.",0.4289,0.11,0.084,0.806,positive,The Yellow Wallpaper
+"There's one comfort, the baby is well and happy, and does not have to occupy this nursery with the horrid wallpaper.",0.5859,0.288,0.122,0.59,positive,The Yellow Wallpaper
+If we had not used it that blessed child would have!,0.636,0.295,0.0,0.705,positive,The Yellow Wallpaper
+What a fortunate escape!,0.5983,0.83,0.0,0.17,positive,The Yellow Wallpaper
+"Why, I wouldn't have a child of mine, an impressionable little thing, live in such a room for worlds.",0.0516,0.074,0.0,0.926,positive,The Yellow Wallpaper
+"I never thought of it before, but it is lucky that John kept me here after all.",0.5719,0.198,0.0,0.802,positive,The Yellow Wallpaper
+"I can stand it so much easier than a baby, you see.",0.4728,0.255,0.0,0.745,positive,The Yellow Wallpaper
+"Of course I never mention it to them any more,--I am too wise,--but I keep watch of it all the same.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"There are things in that paper that nobody knows but me, or ever will.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Behind that outside pattern the dim shapes get clearer every day.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It is always the same shape, only very numerous.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+And it is like a woman stooping down and creeping about behind that pattern.,0.3612,0.172,0.0,0.828,positive,The Yellow Wallpaper
+I don't like it a bit.,-0.2755,0.0,0.413,0.587,negative,The Yellow Wallpaper
+I wonder--I begin to think--I wish John would take me away from here!,0.4574,0.214,0.0,0.786,positive,The Yellow Wallpaper
+"It is so hard to talk with John about my case, because he is so wise, and because he loves me so.",0.7798,0.269,0.065,0.665,positive,The Yellow Wallpaper
+But I tried it last night.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+It was moonlight.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"The moon shines in all around, just as the sun does.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I hate to see it sometimes, it creeps so slowly, and always comes in by one window or another.",-0.5719,0.0,0.179,0.821,negative,The Yellow Wallpaper
+"John was asleep and I hated to waken him, so I kept still and watched the moonlight on that undulating wallpaper till I felt creepy.",-0.6369,0.0,0.167,0.833,negative,The Yellow Wallpaper
+"The faint figure behind seemed to shake the pattern, just as if she wanted to get out.",-0.1779,0.0,0.096,0.904,negative,The Yellow Wallpaper
+"I got up softly and went to feel and see if the paper did move, and when I came back John was awake.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"""What is it, little girl?""",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+he said.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"""Don't go walking about like that--you'll get cold.""",0.3612,0.263,0.0,0.737,positive,The Yellow Wallpaper
+"I thought it was a good time to talk, so I told him that I really was not gaining here, and that I wished he would take me away.",0.0783,0.105,0.094,0.8,positive,The Yellow Wallpaper
+"""Why darling!""",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"said he, ""our lease will be up in three weeks, and I can't see how to leave before.",-0.0516,0.0,0.07,0.93,negative,The Yellow Wallpaper
+"""The repairs are not done at home, and I cannot possibly leave town just now.",0.0382,0.081,0.0,0.919,neutral,The Yellow Wallpaper
+"Of course if you were in any danger I could and would, but you really are better, dear, whether you can see it or not.",0.7822,0.258,0.07,0.672,positive,The Yellow Wallpaper
+"I am a doctor, dear, and I know.",0.3818,0.394,0.0,0.606,positive,The Yellow Wallpaper
+"You are gaining flesh and color, your appetite is better.",0.6908,0.416,0.0,0.584,positive,The Yellow Wallpaper
+"I feel really much easier about you.""",0.4728,0.381,0.0,0.619,positive,The Yellow Wallpaper
+"""I don't weigh a bit more,"" said I, ""nor as much; and my appetite may be better in the evening, when you are here, but it is worse in the morning when you are away.""",-0.4939,0.051,0.109,0.84,negative,The Yellow Wallpaper
+"""Bless her little heart!""",0.4753,0.508,0.0,0.492,positive,The Yellow Wallpaper
+"said he with a big hug; ""she shall be as sick as she pleases!",0.4199,0.314,0.17,0.516,positive,The Yellow Wallpaper
+"But now let's improve the shining hours by going to sleep, and talk about it in the morning!""",0.63,0.196,0.0,0.804,positive,The Yellow Wallpaper
+"""And you won't go away?""",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I asked gloomily.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"""Why, how can I, dear?",0.3818,0.394,0.0,0.606,positive,The Yellow Wallpaper
+It is only three weeks more and then we will take a nice little trip of a few days while Jennie is getting the house ready.,0.6486,0.194,0.0,0.806,positive,The Yellow Wallpaper
+"Really, dear, you are better!""",0.4914,0.443,0.0,0.557,positive,The Yellow Wallpaper
+"""Better in body perhaps""--I began, and stopped short, for he sat up straight and looked at me with such a stern, reproachful look that I could not say another word.",0.4404,0.151,0.06,0.789,positive,The Yellow Wallpaper
+"""My darling,"" said he, ""I beg of you, for my sake and for our child's sake, as well as for your own, that you will never for one instant let that idea enter your mind!",0.3382,0.066,0.0,0.934,positive,The Yellow Wallpaper
+"There is nothing so dangerous, so fascinating, to a temperament like yours.",0.8894,0.568,0.0,0.432,positive,The Yellow Wallpaper
+It is a false and foolish fancy.,-0.2732,0.0,0.296,0.704,negative,The Yellow Wallpaper
+"Can you not trust me as a physician when I tell you so?""",-0.4023,0.0,0.213,0.787,negative,The Yellow Wallpaper
+"So of course I said no more on that score, and we went to sleep before long.",-0.296,0.0,0.128,0.872,negative,The Yellow Wallpaper
+"He thought I was asleep first, but I wasn't,--I lay there for hours trying to decide whether that front pattern and the back pattern really did move together or separately.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"On a pattern like this, by daylight, there is a lack of sequence, a defiance of law, that is a constant irritant to a normal mind.",-0.4767,0.096,0.215,0.69,negative,The Yellow Wallpaper
+"The color is hideous enough, and unreliable enough, and infuriating enough, but the pattern is torturing.",-0.8271,0.0,0.355,0.645,negative,The Yellow Wallpaper
+"You think you have mastered it, but just as you get well under way in following, it turns a back somersault and there you are.",0.3919,0.103,0.0,0.897,positive,The Yellow Wallpaper
+"It slaps you in the face, knocks you down, and tramples upon you.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+It is like a bad dream.,0.0,0.45,0.35,0.2,neutral,The Yellow Wallpaper
+"The outside pattern is a florid arabesque, reminding one of a fungus.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If you can imagine a toadstool in joints, an interminable string of toadstools, budding and sprouting in endless convolutions,--why, that is something like it.",0.3612,0.102,0.0,0.898,positive,The Yellow Wallpaper
+"That is, sometimes!",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"There is one marked peculiarity about this paper, a thing nobody seems to notice but myself, and that is that it changes as the light changes.",0.0772,0.051,0.0,0.949,positive,The Yellow Wallpaper
+"When the sun shoots in through the east window--I always watch for that first long, straight ray--it changes so quickly that I never can quite believe it.",0.2263,0.071,0.0,0.929,positive,The Yellow Wallpaper
+That is why I watch it always.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+By moonlight--the moon shines in all night when there is a moon--I wouldn't know it was the same paper.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"At night in any kind of light, in twilight, candlelight, lamplight, and worst of all by moonlight, it becomes bars!",-0.6588,0.0,0.188,0.812,negative,The Yellow Wallpaper
+"The outside pattern I mean, and the woman behind it is as plain as can be.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I didn't realize for a long time what the thing was that showed behind,--that dim sub-pattern,--but now I am quite sure it is a woman.",0.3804,0.115,0.0,0.885,positive,The Yellow Wallpaper
+"By daylight she is subdued, quiet.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I fancy it is the pattern that keeps her so still.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+It is so puzzling.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+It keeps me quiet by the hour.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I lie down ever so much now.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"John says it is good for me, and to sleep all I can.",0.4404,0.209,0.0,0.791,positive,The Yellow Wallpaper
+"Indeed, he started the habit by making me lie down for an hour after each meal.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It is a very bad habit, I am convinced, for, you see, I don't sleep.",-0.2716,0.164,0.23,0.606,negative,The Yellow Wallpaper
+"And that cultivates deceit, for I don't tell them I'm awake,--oh, no!",-0.6696,0.0,0.379,0.621,negative,The Yellow Wallpaper
+"The fact is, I am getting a little afraid of John.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"He seems very queer sometimes, and even Jennie has an inexplicable look.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It strikes me occasionally, just as a scientific hypothesis, that perhaps it is the paper!",-0.4199,0.0,0.177,0.823,negative,The Yellow Wallpaper
+"I have watched John when he did not know I was looking, and come into the room suddenly on the most innocent excuses, and I've caught him several times looking at the paper!",0.4561,0.09,0.0,0.91,positive,The Yellow Wallpaper
+And Jennie too.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I caught Jennie with her hand on it once.,0.4939,0.314,0.0,0.686,positive,The Yellow Wallpaper
+"She didn't know I was in the room, and when I asked her in a quiet, a very quiet voice, with the most restrained manner possible, what she was doing with the paper she turned around as if she had been caught stealing, and looked quite angry--asked me why I should frighten her so!",-0.75,0.0,0.12,0.88,negative,The Yellow Wallpaper
+"Then she said that the paper stained everything it touched, that she had found yellow smooches on all my clothes and John's, and she wished we would be more careful!",0.2926,0.07,0.0,0.93,positive,The Yellow Wallpaper
+Did not that sound innocent?,-0.2584,0.0,0.337,0.663,negative,The Yellow Wallpaper
+"But I know she was studying that pattern, and I am determined that nobody shall find it out but myself!",0.5255,0.166,0.0,0.834,positive,The Yellow Wallpaper
+Life is very much more exciting now than it used to be.,0.5799,0.255,0.0,0.745,positive,The Yellow Wallpaper
+"You see I have something more to expect, to look forward to, to watch.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I really do eat better, and am more quiet than I was.",0.4877,0.26,0.0,0.74,positive,The Yellow Wallpaper
+John is so pleased to see me improve!,0.7866,0.536,0.0,0.464,positive,The Yellow Wallpaper
+"He laughed a little the other day, and said I seemed to be flourishing in spite of my wallpaper.",-0.1027,0.14,0.159,0.701,negative,The Yellow Wallpaper
+I turned it off with a laugh.,0.5574,0.474,0.0,0.526,positive,The Yellow Wallpaper
+I had no intention of telling him it was because of the wallpaper--he would make fun of me.,0.2732,0.161,0.107,0.732,positive,The Yellow Wallpaper
+He might even want to take me away.,0.0772,0.157,0.0,0.843,positive,The Yellow Wallpaper
+I don't want to leave now until I have found it out.,-0.0191,0.111,0.118,0.771,neutral,The Yellow Wallpaper
+"There is a week more, and I think that will be enough.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I'm feeling ever so much better!,0.6086,0.554,0.0,0.446,positive,The Yellow Wallpaper
+"I don't sleep much at night, for it is so interesting to watch developments; but I sleep a good deal in the daytime.",0.7266,0.253,0.0,0.747,positive,The Yellow Wallpaper
+In the daytime it is tiresome and perplexing.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"There are always new shoots on the fungus, and new shades of yellow all over it.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I cannot keep count of them, though I have tried conscientiously.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It is the strangest yellow, that wallpaper!",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It makes me think of all the yellow things I ever saw--not beautiful ones like buttercups, but old foul, bad yellow things.",-0.3716,0.156,0.176,0.668,negative,The Yellow Wallpaper
+But there is something else about that paper--the smell!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I noticed it the moment we came into the room, but with so much air and sun it was not bad.",0.5824,0.166,0.0,0.834,positive,The Yellow Wallpaper
+"Now we have had a week of fog and rain, and whether the windows are open or not, the smell is here.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+It creeps all over the house.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I find it hovering in the dining-room, skulking in the parlor, hiding in the hall, lying in wait for me on the stairs.",-0.6808,0.0,0.219,0.781,negative,The Yellow Wallpaper
+It gets into my hair.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Even when I go to ride, if I turn my head suddenly and surprise it--there is that smell!",0.3382,0.138,0.0,0.862,positive,The Yellow Wallpaper
+"Such a peculiar odor, too!",0.2244,0.387,0.0,0.613,positive,The Yellow Wallpaper
+"I have spent hours in trying to analyze it, to find what it smelled like.",0.3612,0.161,0.0,0.839,positive,The Yellow Wallpaper
+"It is not bad--at first, and very gentle, but quite the subtlest, most enduring odor I ever met.",0.2724,0.116,0.0,0.884,positive,The Yellow Wallpaper
+In this damp weather it is awful.,-0.4588,0.0,0.333,0.667,negative,The Yellow Wallpaper
+I wake up in the night and find it hanging over me.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+It used to disturb me at first.,-0.4019,0.0,0.31,0.69,negative,The Yellow Wallpaper
+I thought seriously of burning the house--to reach the smell.,-0.1531,0.112,0.173,0.714,negative,The Yellow Wallpaper
+But now I am used to it.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+The only thing I can think of that it is like is the color of the paper!,0.4199,0.157,0.0,0.843,positive,The Yellow Wallpaper
+A yellow smell.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"There is a very funny mark on this wall, low down, near the mopboard.",0.2716,0.196,0.129,0.675,positive,The Yellow Wallpaper
+A streak that runs round the room.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It goes behind every piece of furniture, except the bed, a long, straight, even smooch , as if it had been rubbed over and over.",0.2263,0.079,0.0,0.921,positive,The Yellow Wallpaper
+"I wonder how it was done and who did it, and what they did it for.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Round and round and round--round and round and round--it makes me dizzy!,-0.2942,0.0,0.166,0.834,negative,The Yellow Wallpaper
+I really have discovered something at last.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Through watching so much at night, when it changes so, I have finally found out.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+The front pattern does move--and no wonder!,-0.3595,0.0,0.293,0.707,negative,The Yellow Wallpaper
+The woman behind shakes it!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Sometimes I think there are a great many women behind, and sometimes only one, and she crawls around fast, and her crawling shakes it all over.",0.6249,0.151,0.0,0.849,positive,The Yellow Wallpaper
+"Then in the very bright spots she keeps still, and in the very shady spots she just takes hold of the bars and shakes them hard.",0.4201,0.112,0.049,0.839,positive,The Yellow Wallpaper
+And she is all the time trying to climb through.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+But nobody could climb through that pattern--it strangles so; I think that is why it has so many heads.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"They get through, and then the pattern strangles them off and turns them upside-down, and makes their eyes white!",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+If those heads were covered or taken off it would not be half so bad.,-0.6696,0.0,0.243,0.757,negative,The Yellow Wallpaper
+I think that woman gets out in the daytime!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+And I'll tell you why--privately--I've seen her!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I can see her out of every one of my windows!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It is the same woman, I know, for she is always creeping, and most women do not creep by daylight.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I see her on that long shaded lane, creeping up and down.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I see her in those dark grape arbors, creeping all around the garden.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I see her on that long road under the trees, creeping along, and when a carriage comes she hides under the blackberry vines.",-0.1779,0.0,0.078,0.922,negative,The Yellow Wallpaper
+I don't blame her a bit.,0.2584,0.404,0.0,0.596,positive,The Yellow Wallpaper
+It must be very humiliating to be caught creeping by daylight!,-0.4186,0.0,0.218,0.782,negative,The Yellow Wallpaper
+I always lock the door when I creep by daylight.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I can't do it at night, for I know John would suspect something at once.",-0.296,0.0,0.155,0.845,negative,The Yellow Wallpaper
+"And John is so queer now, that I don't want to irritate him.",0.2755,0.172,0.09,0.738,positive,The Yellow Wallpaper
+I wish he would take another room!,0.4574,0.374,0.0,0.626,positive,The Yellow Wallpaper
+"Besides, I don't want anybody to get that woman out at night but myself.",-0.0286,0.0,0.085,0.915,neutral,The Yellow Wallpaper
+I often wonder if I could see her out of all the windows at once.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"But, turn as fast as I can, I can only see out of one at one time.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+And though I always see her she may be able to creep faster than I can turn!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I have watched her sometimes away off in the open country, creeping as fast as a cloud shadow in a high wind.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+If only that top pattern could be gotten off from the under one!,0.2714,0.148,0.0,0.852,positive,The Yellow Wallpaper
+"I mean to try it, little by little.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I have found out another funny thing, but I shan't tell it this time!",0.3054,0.169,0.0,0.831,positive,The Yellow Wallpaper
+It does not do to trust people too much.,-0.4023,0.0,0.252,0.748,negative,The Yellow Wallpaper
+"There are only two more days to get this paper off, and I believe John is beginning to notice.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I don't like the look in his eyes.,-0.2755,0.0,0.26,0.74,negative,The Yellow Wallpaper
+And I heard him ask Jennie a lot of professional questions about me.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+She had a very good report to give.,0.4927,0.347,0.0,0.653,positive,The Yellow Wallpaper
+She said I slept a good deal in the daytime.,0.4404,0.293,0.0,0.707,positive,The Yellow Wallpaper
+"John knows I don't sleep very well at night, for all I'm so quiet!",-0.3232,0.0,0.162,0.838,negative,The Yellow Wallpaper
+"He asked me all sorts of questions, too, and pretended to be very loving and kind.",0.8341,0.359,0.0,0.641,positive,The Yellow Wallpaper
+As if I couldn't see through him!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Still, I don't wonder he acts so, sleeping under this paper for three months.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It only interests me, but I feel sure John and Jennie are secretly affected by it.",0.3716,0.243,0.104,0.654,positive,The Yellow Wallpaper
+Hurrah!,0.5983,1.0,0.0,0.0,positive,The Yellow Wallpaper
+"This is the last day, but it is enough.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"John is to stay in town over night, and won't be out until this evening.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Jennie wanted to sleep with me--the sly thing!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+but I told her I should undoubtedly rest better for a night all alone.,0.3291,0.251,0.163,0.586,positive,The Yellow Wallpaper
+"That was clever, for really I wasn't alone a bit!",0.6497,0.47,0.0,0.53,positive,The Yellow Wallpaper
+"As soon as it was moonlight, and that poor thing began to crawl and shake the pattern, I got up and ran to help her.",-0.2732,0.095,0.168,0.737,negative,The Yellow Wallpaper
+"I pulled and she shook, I shook and she pulled, and before morning we had peeled off yards of that paper.",-0.2023,0.0,0.141,0.859,negative,The Yellow Wallpaper
+A strip about as high as my head and half around the room.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+And then when the sun came and that awful pattern began to laugh at me I declared I would finish it to-day!,0.2244,0.156,0.121,0.723,positive,The Yellow Wallpaper
+"We go away to-morrow, and they are moving all my furniture down again to leave things as they were before.",-0.0516,0.0,0.059,0.941,negative,The Yellow Wallpaper
+"Jennie looked at the wall in amazement, but I told her merrily that I did it out of pure spite at the vicious thing.",-0.25,0.209,0.24,0.55,negative,The Yellow Wallpaper
+"She laughed and said she wouldn't mind doing it herself, but I must not get tired.",0.626,0.282,0.0,0.718,positive,The Yellow Wallpaper
+How she betrayed herself that time!,-0.6476,0.0,0.462,0.538,negative,The Yellow Wallpaper
+"But I am here, and no person touches this paper but me--not alive!",0.2244,0.224,0.17,0.606,positive,The Yellow Wallpaper
+She tried to get me out of the room--it was too patent!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+But I said it was so quiet and empty and clean now that I believed I would lie down again and sleep all I could; and not to wake me even for dinner--I would call when I woke.,0.2393,0.096,0.07,0.835,positive,The Yellow Wallpaper
+"So now she is gone, and the servants are gone, and the things are gone, and there is nothing left but that great bedstead nailed down, with the canvas mattress we found on it.",0.7684,0.146,0.0,0.854,positive,The Yellow Wallpaper
+"We shall sleep downstairs to-night, and take the boat home to-morrow.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I quite enjoy the room, now it is bare again.",0.5413,0.304,0.0,0.696,positive,The Yellow Wallpaper
+How those children did tear about here!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+This bedstead is fairly gnawed!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+But I must get to work.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I have locked the door and thrown the key down into the front path.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I don't want to go out, and I don't want to have anybody come in, till John comes.",-0.1139,0.0,0.149,0.851,negative,The Yellow Wallpaper
+I want to astonish him.,0.0772,0.302,0.0,0.698,positive,The Yellow Wallpaper
+I've got a rope up here that even Jennie did not find.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If that woman does get out, and tries to get away, I can tie her!",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+But I forgot I could not reach far without anything to stand on!,-0.1035,0.0,0.123,0.877,negative,The Yellow Wallpaper
+This bed will not move!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I tried to lift and push it until I was lame, and then I got so angry I bit off a little piece at one corner--but it hurt my teeth.",-0.887,0.0,0.322,0.678,negative,The Yellow Wallpaper
+Then I peeled off all the paper I could reach standing on the floor.,0.0258,0.091,0.0,0.909,neutral,The Yellow Wallpaper
+It sticks horribly and the pattern just enjoys it!,-0.1007,0.236,0.264,0.5,negative,The Yellow Wallpaper
+All those strangled heads and bulbous eyes and waddling fungus growths just shriek with derision!,-0.7177,0.0,0.316,0.684,negative,The Yellow Wallpaper
+I am getting angry enough to do something desperate.,-0.6808,0.0,0.483,0.517,negative,The Yellow Wallpaper
+"To jump out of the window would be admirable exercise, but the bars are too strong even to try.",0.775,0.284,0.0,0.716,positive,The Yellow Wallpaper
+Besides I wouldn't do it.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Of course not.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+I know well enough that a step like that is improper and might be misconstrued.,0.5574,0.295,0.0,0.705,positive,The Yellow Wallpaper
+"I don't like to look out of the windows even--there are so many of those creeping women, and they creep so fast.",-0.2755,0.0,0.095,0.905,negative,The Yellow Wallpaper
+I wonder if they all come out of that wallpaper as I did?,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+But I am securely fastened now by my well-hidden rope--you don't get me out in the road there!,0.5255,0.175,0.0,0.825,positive,The Yellow Wallpaper
+"I suppose I shall have to get back behind the pattern when it comes night, and that is hard!",-0.1759,0.0,0.096,0.904,negative,The Yellow Wallpaper
+It is so pleasant to be out in this great room and creep around as I please!,0.9137,0.474,0.0,0.526,positive,The Yellow Wallpaper
+I don't want to go outside.,-0.0572,0.0,0.234,0.766,negative,The Yellow Wallpaper
+"I won't, even if Jennie asks me to.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"For outside you have to creep on the ground, and everything is green instead of yellow.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"But here I can creep smoothly on the floor, and my shoulder just fits in that long smooch around the wall, so I cannot lose my way.",0.5113,0.121,0.0,0.879,positive,The Yellow Wallpaper
+"Why, there's John at the door!",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"It is no use, young man, you can't open it!",-0.3595,0.0,0.217,0.783,negative,The Yellow Wallpaper
+How he does call and pound!,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Now he's crying for an axe.,-0.5423,0.0,0.529,0.471,negative,The Yellow Wallpaper
+It would be a shame to break down that beautiful door!,0.2714,0.274,0.203,0.523,positive,The Yellow Wallpaper
+"""John dear!""",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"said I in the gentlest voice, ""the key is down by the front steps, under a plantain leaf!""",0.4753,0.171,0.0,0.829,positive,The Yellow Wallpaper
+That silenced him for a few moments.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Then he said--very quietly indeed, ""Open the door, my darling!""",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"""I can't,"" said I.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"""The key is down by the front door under a plantain leaf!""",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"And then I said it again, several times, very gently and slowly, and said it so often that he had to go and see, and he got it, of course, and came in.",0.5095,0.096,0.0,0.904,positive,The Yellow Wallpaper
+He stopped short by the door.,-0.2263,0.0,0.275,0.725,negative,The Yellow Wallpaper
+"""What is the matter?""",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+he cried.,-0.3818,0.0,0.722,0.278,negative,The Yellow Wallpaper
+"""For God's sake, what are you doing!""",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"I kept on creeping just the same, but I looked at him over my shoulder.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"""I've got out at last,"" said I, ""in spite of you and Jane!",-0.5707,0.0,0.235,0.765,negative,The Yellow Wallpaper
+"And I've pulled off most of the paper, so you can't put me back!""",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Now why should that man have fainted?,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"But he did, and right across my path by the wall, so that I had to creep over him every time!",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+*** END OF THE PROJECT GUTENBERG EBOOK THE YELLOW WALLPAPER *** Updated editions will replace the previous one--the old editions will be renamed.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!)",0.1744,0.156,0.136,0.708,positive,The Yellow Wallpaper
+can copy and distribute it in the United States without permission and without paying copyright royalties.,0.4215,0.157,0.0,0.843,positive,The Yellow Wallpaper
+"Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark.",0.6486,0.155,0.0,0.845,positive,The Yellow Wallpaper
+"Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If you do not charge anything for copies of this eBook, complying with the trademark license is very easy.",0.4927,0.151,0.0,0.849,positive,The Yellow Wallpaper
+"You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research.",0.2732,0.104,0.0,0.896,positive,The Yellow Wallpaper
+Project Gutenberg eBooks may be modified and printed and given away--you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law.,0.1012,0.093,0.08,0.828,positive,The Yellow Wallpaper
+"Redistribution is subject to the trademark license, especially commercial redistribution.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"START: FULL LICENSE THE FULL PROJECT GUTENBERG™ LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase ""Project Gutenberg""), you agree to comply with all the terms of the Full Project Gutenberg License available with this file or online at www.gutenberg.org/license.",0.9175,0.17,0.0,0.83,positive,The Yellow Wallpaper
+Section 1.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+General Terms of Use and Redistributing Project Gutenberg electronic works 1.A.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"By reading or using any part of this Project Gutenberg electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement.",0.891,0.279,0.0,0.721,positive,The Yellow Wallpaper
+"If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg electronic works in your possession.",-0.2168,0.098,0.146,0.756,negative,The Yellow Wallpaper
+"If you paid a fee for obtaining a copy of or access to a Project Gutenberg electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.",0.3899,0.07,0.039,0.891,positive,The Yellow Wallpaper
+1.B.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"""Project Gutenberg"" is a registered trademark.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement.,0.7391,0.194,0.0,0.806,positive,The Yellow Wallpaper
+There are a few things that you can do with most Project Gutenberg electronic works even without complying with the full terms of this agreement.,0.5789,0.14,0.0,0.86,positive,The Yellow Wallpaper
+See paragraph 1.C below.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+There are a lot of things you can do with Project Gutenberg electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg electronic works.,0.8674,0.252,0.0,0.748,positive,The Yellow Wallpaper
+See paragraph 1.E below.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+1.C.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"The Project Gutenberg Literary Archive Foundation (""the Foundation"" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg electronic works.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Nearly all the individual works in the collection are in the public domain in the United States.,0.4215,0.149,0.0,0.851,positive,The Yellow Wallpaper
+"If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed.",0.6597,0.152,0.043,0.805,positive,The Yellow Wallpaper
+"Of course, we hope that you will support the Project Gutenberg mission of promoting free access to electronic works by freely sharing Project Gutenberg works in compliance with the terms of this agreement for keeping the Project Gutenberg name associated with the work.",0.9631,0.367,0.0,0.633,positive,The Yellow Wallpaper
+You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg License when you share it without charge with others.,0.81,0.218,0.0,0.782,positive,The Yellow Wallpaper
+1.D.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+The copyright laws of the place where you are located also govern what you can do with this work.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Copyright laws in most countries are in a constant state of change.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg work.",0.8294,0.187,0.0,0.813,positive,The Yellow Wallpaper
+The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.,0.1531,0.122,0.096,0.783,positive,The Yellow Wallpaper
+1.E.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Unless you have removed all references to Project Gutenberg: 1.E.1.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"The following sentence, with active links to, or other immediate access to, the full Project Gutenberg License must appear prominently whenever any copy of a Project Gutenberg work (any work on which the phrase ""Project Gutenberg"" appears, or with which the phrase ""Project Gutenberg"" is associated) is accessed, displayed, performed, viewed, copied or distributed: This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.",0.34,0.077,0.05,0.873,positive,The Yellow Wallpaper
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg™ License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Yellow Wallpaper
+1.E.2.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If an individual Project Gutenberg electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges.",-0.1793,0.051,0.081,0.868,negative,The Yellow Wallpaper
+"If you are redistributing or providing access to a work with the phrase ""Project Gutenberg"" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg trademark as set forth in paragraphs 1.E.8 or 1.E.9.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+1.E.3.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If an individual Project Gutenberg electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder.",-0.0772,0.0,0.035,0.965,negative,The Yellow Wallpaper
+Additional terms will be linked to the Project Gutenberg License for all works posted with the permission of the copyright holder found at the beginning of this work.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+1.E.4.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Do not unlink or detach or remove the full Project Gutenberg License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+1.E.5.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg License.",0.4588,0.089,0.0,0.911,positive,The Yellow Wallpaper
+1.E.6.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"However, if you provide access to or distribute copies of a Project Gutenberg work in a format other than ""Plain Vanilla ASCII"" or other format used in the official version posted on the official Project Gutenberg website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original ""Plain Vanilla ASCII"" or other form.",0.0258,0.03,0.029,0.94,neutral,The Yellow Wallpaper
+Any alternate format must include the full Project Gutenberg License as specified in paragraph 1.E.1.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+1.E.7.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg works unless you comply with paragraph 1.E.8 or 1.E.9.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+1.E.8.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg electronic works provided that: • You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg works calculated using the method you already use to calculate your applicable taxes.,-0.1531,0.052,0.081,0.866,negative,The Yellow Wallpaper
+"The fee is owed to the owner of the Project Gutenberg trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation.",0.3919,0.086,0.0,0.914,positive,The Yellow Wallpaper
+Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns.,0.1027,0.055,0.0,0.945,positive,The Yellow Wallpaper
+"Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, ""Information about donations to the Project Gutenberg Literary Archive Foundation.""",0.4019,0.076,0.0,0.924,positive,The Yellow Wallpaper
+• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License.,-0.2755,0.0,0.055,0.945,negative,The Yellow Wallpaper
+You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.,-0.5423,0.0,0.099,0.901,negative,The Yellow Wallpaper
+"• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.",-0.34,0.0,0.061,0.939,negative,The Yellow Wallpaper
+• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.,0.7935,0.335,0.0,0.665,positive,The Yellow Wallpaper
+1.E.9.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark.",0.7543,0.128,0.0,0.872,positive,The Yellow Wallpaper
+Contact the Foundation as set forth in Section 3 below.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+1.F.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+1.F.1.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection.",-0.0531,0.067,0.074,0.859,negative,The Yellow Wallpaper
+"Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain ""Defects,"" such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.",-0.93,0.083,0.248,0.669,negative,The Yellow Wallpaper
+1.F.2.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the ""Right of Replacement or Refund"" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees.",-0.4617,0.119,0.164,0.717,negative,The Yellow Wallpaper
+"YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3.",-0.128,0.091,0.145,0.764,negative,The Yellow Wallpaper
+"YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.",-0.5719,0.114,0.188,0.699,negative,The Yellow Wallpaper
+1.F.3.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from.",-0.6166,0.0,0.105,0.895,negative,The Yellow Wallpaper
+"If you received the work on a physical medium, you must return the medium with your written explanation.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund.,-0.4404,0.0,0.127,0.873,negative,The Yellow Wallpaper
+"If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund.",0.4215,0.088,0.0,0.912,positive,The Yellow Wallpaper
+"If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.",-0.8065,0.0,0.367,0.633,negative,The Yellow Wallpaper
+1.F.4.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.",0.7725,0.177,0.066,0.757,positive,The Yellow Wallpaper
+1.F.5.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages.,-0.5812,0.155,0.33,0.515,negative,The Yellow Wallpaper
+"If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law.",0.6757,0.221,0.151,0.628,positive,The Yellow Wallpaper
+The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.,0.5789,0.2,0.0,0.8,positive,The Yellow Wallpaper
+1.F.6.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg work, (b) alteration, modification, or additions or deletions to any Project Gutenberg work, and (c) any Defect you cause.",0.6757,0.089,0.039,0.872,positive,The Yellow Wallpaper
+Section 2.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"Information about the Mission of Project Gutenberg Project Gutenberg is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.",0.2732,0.088,0.059,0.853,positive,The Yellow Wallpaper
+It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg's goals and ensuring that the Project Gutenberg collection will remain freely available for generations to come.,0.7351,0.233,0.056,0.711,positive,The Yellow Wallpaper
+"In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg and future generations.",0.5267,0.18,0.0,0.82,positive,The Yellow Wallpaper
+"To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.",0.4019,0.091,0.0,0.909,positive,The Yellow Wallpaper
+Section 3.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Information about the Project Gutenberg Literary Archive Foundation The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service.,0.34,0.086,0.0,0.914,positive,The Yellow Wallpaper
+The Foundation's EIN or federal tax identification number is 64-6221541.,0.0772,0.126,0.0,0.874,positive,The Yellow Wallpaper
+Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"The Foundation's business office is located at 41 Watchung Plaza #516, Montclair NJ 07042, USA, +1 (862) 621-9288.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Email contact links and up to date contact information can be found at the Foundation's website and official page at www.gutenberg.org/contact Section 4.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Information about Donations to the Project Gutenberg Literary Archive Foundation Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment.,0.2363,0.071,0.038,0.891,positive,The Yellow Wallpaper
+"Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.",0.3597,0.189,0.0,0.811,positive,The Yellow Wallpaper
+The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States.,0.8689,0.375,0.0,0.625,positive,The Yellow Wallpaper
+"Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+We do not solicit donations in locations where we have not received written confirmation of compliance.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+To SEND DONATIONS or determine the status of compliance for any particular state visit www.gutenberg.org/donate .,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+"While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.",0.1027,0.062,0.053,0.885,positive,The Yellow Wallpaper
+"International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States.",0.743,0.278,0.0,0.722,positive,The Yellow Wallpaper
+U.S. laws alone swamp our small staff.,-0.25,0.0,0.25,0.75,negative,The Yellow Wallpaper
+Please check the Project Gutenberg web pages for current donation methods and addresses.,0.3182,0.161,0.0,0.839,positive,The Yellow Wallpaper
+"Donations are accepted in a number of other ways including checks, online payments and credit card donations.",0.6124,0.316,0.0,0.684,positive,The Yellow Wallpaper
+"To donate, please visit: www.gutenberg.org/donate.",0.3182,0.365,0.0,0.635,positive,The Yellow Wallpaper
+Section 5.,0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+General Information About Project Gutenberg electronic works Professor Michael S. Hart was the originator of the Project Gutenberg concept of a library of electronic works that could be freely shared with anyone.,0.6486,0.155,0.0,0.845,positive,The Yellow Wallpaper
+"For forty years, he produced and distributed Project Gutenberg eBooks with only a loose network of volunteer support.",0.1027,0.135,0.115,0.75,positive,The Yellow Wallpaper
+"Project Gutenberg eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included.",-0.1043,0.066,0.079,0.855,negative,The Yellow Wallpaper
+"Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.",0.0,0.0,0.0,1.0,neutral,The Yellow Wallpaper
+Most people start at our website which ha,0.34,0.255,0.0,0.745,positive,The Yellow Wallpaper

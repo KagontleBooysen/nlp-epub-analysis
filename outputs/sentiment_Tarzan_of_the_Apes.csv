@@ -1,0 +1,384 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Tarzan of the Apes This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.066,0.104,0.829,negative,Tarzan of the Apes
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Tarzan of the Apes
+"Title : Tarzan of the Apes Author : Edgar Rice Burroughs Release date : August 1, 1993 [eBook #78] Most recently updated: July 30, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/78 Credits : Judith Boss.",0.3612,0.075,0.0,0.925,positive,Tarzan of the Apes
+HTML version by Al Haines.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+*** START OF THE PROJECT GUTENBERG EBOOK TARZAN OF THE APES *** Tarzan of the Apes by Edgar Rice Burroughs Contents CHAPTER I.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Out to Sea CHAPTER II.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+The Savage Home CHAPTER III.,-0.4588,0.0,0.429,0.571,negative,Tarzan of the Apes
+Life and Death CHAPTER IV.,-0.5994,0.0,0.494,0.506,negative,Tarzan of the Apes
+The Apes CHAPTER V. The White Ape CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Jungle Battles CHAPTER VII.,-0.3818,0.0,0.464,0.536,negative,Tarzan of the Apes
+The Light of Knowledge CHAPTER VIII.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+The Tree-top Hunter CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Man and Man CHAPTER X.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+The Fear-Phantom CHAPTER XI.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""King of the Apes"" CHAPTER XII.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Man's Reason CHAPTER XIII.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+His Own Kind CHAPTER XIV.,0.5267,0.459,0.0,0.541,positive,Tarzan of the Apes
+At the Mercy of the Jungle CHAPTER XV.,0.3612,0.263,0.0,0.737,positive,Tarzan of the Apes
+The Forest God CHAPTER XVI.,0.2732,0.344,0.0,0.656,positive,Tarzan of the Apes
+"""Most Remarkable"" CHAPTER XVII.",0.5984,0.565,0.0,0.435,positive,Tarzan of the Apes
+Burials CHAPTER XVIII.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+The Jungle Toll CHAPTER XIX.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+The Call of the Primitive CHAPTER XX.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Heredity CHAPTER XXI.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+The Village of Torture CHAPTER XXII.,-0.5994,0.0,0.438,0.562,negative,Tarzan of the Apes
+The Search Party CHAPTER XXIII.,0.4019,0.403,0.0,0.597,positive,Tarzan of the Apes
+Brother Men CHAPTER XXIV.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Lost Treasure CHAPTER XXV.,-0.0258,0.338,0.354,0.308,neutral,Tarzan of the Apes
+The Outpost of the World CHAPTER XXVI.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+The Height of Civilization CHAPTER XXVII.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+The Giant Again CHAPTER XXVIII.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Conclusion CHAPTER I.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"Out to Sea I had this story from one who had no business to tell it to me, or to any other.",-0.296,0.0,0.099,0.901,negative,Tarzan of the Apes
+"I may credit the seductive influence of an old vintage upon the narrator for the beginning of it, and my own skeptical incredulity during the days that followed for the balance of the strange tale.",-0.128,0.069,0.109,0.822,negative,Tarzan of the Apes
+"When my convivial host discovered that he had told me so much, and that I was prone to doubtfulness, his foolish pride assumed the task the old vintage had commenced, and so he unearthed written evidence in the form of musty manuscript, and dry official records of the British Colonial Office to support many of the salient features of his remarkable narrative.",0.8271,0.182,0.06,0.757,positive,Tarzan of the Apes
+"I do not say the story is true, for I did not witness the happenings which it portrays, but the fact that in the telling of it to you I have taken fictitious names for the principal characters quite sufficiently evidences the sincerity of my own belief that it may be true.",0.6808,0.106,0.0,0.894,positive,Tarzan of the Apes
+"The yellow, mildewed pages of the diary of a man long dead, and the records of the Colonial Office dovetail perfectly with the narrative of my convivial host, and so I give you the story as I painstakingly pieced it out from these several various agencies.",0.2732,0.126,0.085,0.789,positive,Tarzan of the Apes
+"If you do not find it credible you will at least be as one with me in acknowledging that it is unique, remarkable, and interesting.",0.743,0.215,0.0,0.785,positive,Tarzan of the Apes
+"From the records of the Colonial Office and from the dead man's diary we learn that a certain young English nobleman, whom we shall call John Clayton, Lord Greystoke, was commissioned to make a peculiarly delicate investigation of conditions in a British West Coast African Colony from whose simple native inhabitants another European power was known to be recruiting soldiers for its native army, which it used solely for the forcible collection of rubber and ivory from the savage tribes along the Congo and the Aruwimi.",-0.7506,0.037,0.097,0.867,negative,Tarzan of the Apes
+"The natives of the British Colony complained that many of their young men were enticed away through the medium of fair and glowing promises, but that few if any ever returned to their families.",0.1531,0.095,0.051,0.854,positive,Tarzan of the Apes
+"The Englishmen in Africa went even further, saying that these poor blacks were held in virtual slavery, since after their terms of enlistment expired their ignorance was imposed upon by their white officers, and they were told that they had yet several years to serve.",-0.8934,0.0,0.222,0.778,negative,Tarzan of the Apes
+"And so the Colonial Office appointed John Clayton to a new post in British West Africa, but his confidential instructions centered on a thorough investigation of the unfair treatment of black British subjects by the officers of a friendly European power.",0.0387,0.097,0.093,0.81,neutral,Tarzan of the Apes
+"Why he was sent, is, however, of little moment to this story, for he never made an investigation, nor, in fact, did he ever reach his destination.",0.0258,0.041,0.0,0.959,neutral,Tarzan of the Apes
+"Clayton was the type of Englishman that one likes best to associate with the noblest monuments of historic achievement upon a thousand victorious battlefields--a strong, virile man--mentally, morally, and physically.",0.8834,0.284,0.0,0.716,positive,Tarzan of the Apes
+"In stature he was above the average height; his eyes were gray, his features regular and strong; his carriage that of perfect, robust health influenced by his years of army training.",0.8555,0.251,0.0,0.749,positive,Tarzan of the Apes
+"Political ambition had caused him to seek transference from the army to the Colonial Office and so we find him, still young, entrusted with a delicate and important commission in the service of the Queen.",0.4215,0.134,0.0,0.866,positive,Tarzan of the Apes
+When he received this appointment he was both elated and appalled.,0.296,0.259,0.185,0.556,positive,Tarzan of the Apes
+"The preferment seemed to him in the nature of a well-merited reward for painstaking and intelligent service, and as a stepping stone to posts of greater importance and responsibility; but, on the other hand, he had been married to the Hon.",0.8793,0.263,0.0,0.737,positive,Tarzan of the Apes
+"Alice Rutherford for scarce a three months, and it was the thought of taking this fair young girl into the dangers and isolation of tropical Africa that appalled him.",-0.7411,0.074,0.251,0.676,negative,Tarzan of the Apes
+"For her sake he would have refused the appointment, but she would not have it so.",-0.1531,0.0,0.096,0.904,negative,Tarzan of the Apes
+"Instead she insisted that he accept, and, indeed, take her with him.",0.3818,0.191,0.0,0.809,positive,Tarzan of the Apes
+"There were mothers and brothers and sisters, and aunts and cousins to express various opinions on the subject, but as to what they severally advised history is silent.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"We know only that on a bright May morning in 1888, John, Lord Greystoke, and Lady Alice sailed from Dover on their way to Africa.",0.4404,0.112,0.0,0.888,positive,Tarzan of the Apes
+"A month later they arrived at Freetown where they chartered a small sailing vessel, the Fuwalda , which was to bear them to their final destination.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"And here John, Lord Greystoke, and Lady Alice, his wife, vanished from the eyes and from the knowledge of men.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"Two months after they weighed anchor and cleared from the port of Freetown a half dozen British war vessels were scouring the south Atlantic for trace of them or their little vessel, and it was almost immediately that the wreckage was found upon the shores of St. Helena which convinced the world that the Fuwalda had gone down with all on board, and hence the search was stopped ere it had scarce begun; though hope lingered in longing hearts for many years.",0.0258,0.079,0.078,0.844,neutral,Tarzan of the Apes
+"The Fuwalda , a barkentine of about one hundred tons, was a vessel of the type often seen in coastwise trade in the far southern Atlantic, their crews composed of the offscourings of the sea--unhanged murderers and cutthroats of every race and every nation.",-0.6486,0.0,0.097,0.903,negative,Tarzan of the Apes
+The Fuwalda was no exception to the rule.,-0.296,0.0,0.239,0.761,negative,Tarzan of the Apes
+"Her officers were swarthy bullies, hating and hated by their crew.",-0.8176,0.0,0.455,0.545,negative,Tarzan of the Apes
+"The captain, while a competent seaman, was a brute in his treatment of his men.",0.3182,0.161,0.0,0.839,positive,Tarzan of the Apes
+"He knew, or at least he used, but two arguments in his dealings with them--a belaying pin and a revolver--nor is it likely that the motley aggregation he signed would have understood aught else.",-0.5499,0.0,0.1,0.9,negative,Tarzan of the Apes
+So it was that from the second day out from Freetown John Clayton and his young wife witnessed scenes upon the deck of the Fuwalda such as they had believed were never enacted outside the covers of printed stories of the sea.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+It was on the morning of the second day that the first link was forged in what was destined to form a chain of circumstances ending in a life for one then unborn such as has never been paralleled in the history of man.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"Two sailors were washing down the decks of the Fuwalda , the first mate was on duty, and the captain had stopped to speak with John Clayton and Lady Alice.",-0.2263,0.0,0.064,0.936,negative,Tarzan of the Apes
+The men were working backwards toward the little party who were facing away from the sailors.,0.3415,0.138,0.0,0.862,positive,Tarzan of the Apes
+"Closer and closer they came, until one of them was directly behind the captain.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+In another moment he would have passed by and this strange narrative would never have been recorded.,-0.25,0.0,0.111,0.889,negative,Tarzan of the Apes
+"But just that instant the officer turned to leave Lord and Lady Greystoke, and, as he did so, tripped against the sailor and sprawled headlong upon the deck, overturning the water-pail so that he was drenched in its dirty contents.",-0.631,0.0,0.119,0.881,negative,Tarzan of the Apes
+For an instant the scene was ludicrous; but only for an instant.,-0.1901,0.0,0.137,0.863,negative,Tarzan of the Apes
+"With a volley of awful oaths, his face suffused with the scarlet of mortification and rage, the captain regained his feet, and with a terrific blow felled the sailor to the deck.",-0.5423,0.084,0.18,0.736,negative,Tarzan of the Apes
+"The man was small and rather old, so that the brutality of the act was thus accentuated.",-0.6444,0.0,0.21,0.79,negative,Tarzan of the Apes
+"The other seaman, however, was neither old nor small--a huge bear of a man, with fierce black mustachios, and a great bull neck set between massive shoulders.",0.4833,0.141,0.068,0.791,positive,Tarzan of the Apes
+"As he saw his mate go down he crouched, and, with a low snarl, sprang upon the captain crushing him to his knees with a single mighty blow.",-0.5574,0.0,0.161,0.839,negative,Tarzan of the Apes
+"From scarlet the officer's face went white, for this was mutiny; and mutiny he had met and subdued before in his brutal career.",-0.6249,0.0,0.157,0.843,negative,Tarzan of the Apes
+"Without waiting to rise he whipped a revolver from his pocket, firing point blank at the great mountain of muscle towering before him; but, quick as he was, John Clayton was almost as quick, so that the bullet which was intended for the sailor's heart lodged in the sailor's leg instead, for Lord Greystoke had struck down the captain's arm as he had seen the weapon flash in the sun.",-0.5346,0.034,0.094,0.872,negative,Tarzan of the Apes
+"Words passed between Clayton and the captain, the former making it plain that he was disgusted with the brutality displayed toward the crew, nor would he countenance anything further of the kind while he and Lady Greystoke remained passengers.",-0.6124,0.073,0.158,0.769,negative,Tarzan of the Apes
+"The captain was on the point of making an angry reply, but, thinking better of it, turned on his heel and black and scowling, strode aft.",0.4019,0.128,0.072,0.8,positive,Tarzan of the Apes
+"He did not care to antagonize an English official, for the Queen's mighty arm wielded a punitive instrument which he could appreciate, and which he feared--England's far-reaching navy.",-0.1896,0.152,0.174,0.674,negative,Tarzan of the Apes
+"The two sailors picked themselves up, the older man assisting his wounded comrade to rise.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"The big fellow, who was known among his mates as Black Michael, tried his leg gingerly, and, finding that it bore his weight, turned to Clayton with a word of gruff thanks.",0.2263,0.086,0.059,0.855,positive,Tarzan of the Apes
+"Though the fellow's tone was surly, his words were evidently well meant.",0.2732,0.16,0.0,0.84,positive,Tarzan of the Apes
+Ere he had scarce finished his little speech he had turned and was limping off toward the forecastle with the very apparent intention of forestalling any further conversation.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"They did not see him again for several days, nor did the captain accord them more than the surliest of grunts when he was forced to speak to them.",-0.4588,0.0,0.097,0.903,negative,Tarzan of the Apes
+"They took their meals in his cabin, as they had before the unfortunate occurrence; but the captain was careful to see that his duties never permitted him to eat at the same time.",-0.0258,0.054,0.057,0.888,neutral,Tarzan of the Apes
+"The other officers were coarse, illiterate fellows, but little above the villainous crew they bullied, and were only too glad to avoid social intercourse with the polished English noble and his lady, so that the Claytons were left very much to themselves.",-0.6192,0.14,0.211,0.649,negative,Tarzan of the Apes
+"This in itself accorded perfectly with their desires, but it also rather isolated them from the life of the little ship so that they were unable to keep in touch with the daily happenings which were to culminate so soon in bloody tragedy.",-0.9135,0.047,0.242,0.71,negative,Tarzan of the Apes
+There was in the whole atmosphere of the craft that undefinable something which presages disaster.,-0.6249,0.0,0.227,0.773,negative,Tarzan of the Apes
+"Outwardly, to the knowledge of the Claytons, all went on as before upon the little vessel; but that there was an undertow leading them toward some unknown danger both felt, though they did not speak of it to each other.",-0.6808,0.0,0.106,0.894,negative,Tarzan of the Apes
+"On the second day after the wounding of Black Michael, Clayton came on deck just in time to see the limp body of one of the crew being carried below by four of his fellows while the first mate, a heavy belaying pin in his hand, stood glowering at the little party of sullen sailors.",0.4889,0.095,0.041,0.864,positive,Tarzan of the Apes
+"Clayton asked no questions--he did not need to--and the following day, as the great lines of a British battleship grew out of the distant horizon, he half determined to demand that he and Lady Alice be put aboard her, for his fears were steadily increasing that nothing but harm could result from remaining on the lowering, sullen Fuwalda .",-0.1962,0.134,0.174,0.692,negative,Tarzan of the Apes
+"Toward noon they were within speaking distance of the British vessel, but when Clayton had nearly decided to ask the captain to put them aboard her, the obvious ridiculousness of such a request became suddenly apparent.",-0.3612,0.031,0.072,0.897,negative,Tarzan of the Apes
+What reason could he give the officer commanding her majesty's ship for desiring to go back in the direction from which he had just come!,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+What if he told them that two insubordinate seamen had been roughly handled by their officers?,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+They would but laugh in their sleeves and attribute his reason for wishing to leave the ship to but one thing--cowardice.,0.7876,0.273,0.049,0.678,positive,Tarzan of the Apes
+"John Clayton, Lord Greystoke, did not ask to be transferred to the British man-of-war.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"Late in the afternoon he saw her upper works fade below the far horizon, but not before he learned that which confirmed his greatest fears, and caused him to curse the false pride which had restrained him from seeking safety for his young wife a few short hours before, when safety was within reach--a safety which was now gone forever.",0.9109,0.249,0.105,0.646,positive,Tarzan of the Apes
+"It was mid-afternoon that brought the little old sailor, who had been felled by the captain a few days before, to where Clayton and his wife stood by the ship's side watching the ever diminishing outlines of the great battleship.",0.6124,0.097,0.026,0.877,positive,Tarzan of the Apes
+"The old fellow was polishing brasses, and as he came edging along until close to Clayton he said, in an undertone: ""'Ell's to pay, sir, on this 'ere craft, an' mark my word for it, sir.",-0.1027,0.0,0.038,0.962,negative,Tarzan of the Apes
+"'Ell's to pay.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""What do you mean, my good fellow?""",0.4404,0.326,0.0,0.674,positive,Tarzan of the Apes
+asked Clayton.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""Wy, hasn't ye seen wats goin' on?",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Hasn't ye 'eard that devil's spawn of a capting an' 'is mates knockin' the bloomin' lights outen 'arf the crew?,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""Two busted 'eads yeste'day, an' three to-day.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"Black Michael's as good as new agin an' 'e's not the bully to stand fer it, not 'e; an' mark my word for it, sir.""",0.6734,0.194,0.0,0.806,positive,Tarzan of the Apes
+"""You mean, my man, that the crew contemplates mutiny?""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+asked Clayton.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""Mutiny!""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+exclaimed the old fellow.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""Mutiny!",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"They means murder, sir, an' mark my word for it, sir.""",-0.6908,0.0,0.32,0.68,negative,Tarzan of the Apes
+"""When?""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""Hit's comin', sir; hit's comin' but I'm not a-sayin' wen, an' I've said too damned much now, but ye was a good sort t'other day an' I thought it no more'n right to warn ye.",-0.4497,0.095,0.192,0.713,negative,Tarzan of the Apes
+But keep a still tongue in yer 'ead an' when ye 'ear shootin' git below an' stay there.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""That's all, only keep a still tongue in yer 'ead, or they'll put a pill between yer ribs, an' mark my word for it, sir,"" and the old fellow went on with his polishing, which carried him away from where the Claytons were standing.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""Deuced cheerful outlook, Alice,"" said Clayton.",0.5423,0.412,0.0,0.588,positive,Tarzan of the Apes
+"""You should warn the captain at once, John.",-0.1027,0.0,0.167,0.833,negative,Tarzan of the Apes
+"Possibly the trouble may yet be averted,"" she said.",-0.4019,0.0,0.252,0.748,negative,Tarzan of the Apes
+"""I suppose I should, but yet from purely selfish motives I am almost prompted to 'keep a still tongue in my 'ead.'",-0.6798,0.0,0.203,0.797,negative,Tarzan of the Apes
+"Whatever they do now they will spare us in recognition of my stand for this fellow Black Michael, but should they find that I had betrayed them there would be no mercy shown us, Alice.""",-0.7227,0.076,0.195,0.729,negative,Tarzan of the Apes
+"""You have but one duty, John, and that lies in the interest of vested authority.",0.3919,0.333,0.168,0.499,positive,Tarzan of the Apes
+"If you do not warn the captain you are as much a party to whatever follows as though you had helped to plot and carry it out with your own head and hands.""",0.4581,0.118,0.0,0.882,positive,Tarzan of the Apes
+"""You do not understand, dear,"" replied Clayton.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""It is of you I am thinking--there lies my first duty.",-0.4215,0.0,0.237,0.763,negative,Tarzan of the Apes
+"The captain has brought this condition upon himself, so why then should I risk subjecting my wife to unthinkable horrors in a probably futile attempt to save him from his own brutal folly?",-0.8625,0.076,0.305,0.619,negative,Tarzan of the Apes
+"You have no conception, dear, of what would follow were this pack of cutthroats to gain control of the Fuwalda .""",0.5859,0.229,0.084,0.687,positive,Tarzan of the Apes
+"""Duty is duty, John, and no amount of sophistries may change it.",-0.296,0.0,0.167,0.833,negative,Tarzan of the Apes
+I would be a poor wife for an English lord were I to be responsible for his shirking a plain duty.,-0.2023,0.113,0.152,0.735,negative,Tarzan of the Apes
+"I realize the danger which must follow, but I can face it with you.""",-0.296,0.0,0.167,0.833,negative,Tarzan of the Apes
+"""Have it as you will then, Alice,"" he answered, smiling.",0.4588,0.25,0.0,0.75,positive,Tarzan of the Apes
+"""Maybe we are borrowing trouble.",-0.4019,0.0,0.403,0.597,negative,Tarzan of the Apes
+"While I do not like the looks of things on board this ship, they may not be so bad after all, for it is possible that the 'Ancient Mariner' was but voicing the desires of his wicked old heart rather than speaking of real facts.",-0.836,0.0,0.178,0.822,negative,Tarzan of the Apes
+"""Mutiny on the high sea may have been common a hundred years ago, but in this good year 1888 it is the least likely of happenings.",0.677,0.16,0.0,0.84,positive,Tarzan of the Apes
+"""But there goes the captain to his cabin now.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"If I am going to warn him I might as well get the beastly job over for I have little stomach to talk with the brute at all.""",0.1779,0.079,0.053,0.868,positive,Tarzan of the Apes
+"So saying he strolled carelessly in the direction of the companionway through which the captain had passed, and a moment later was knocking at his door.",-0.25,0.0,0.077,0.923,negative,Tarzan of the Apes
+"""Come in,"" growled the deep tones of that surly officer.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"And when Clayton had entered, and closed the door behind him: ""Well?""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""I have come to report the gist of a conversation I heard to-day, because I feel that, while there may be nothing to it, it is as well that you be forearmed.",0.2732,0.07,0.0,0.93,positive,Tarzan of the Apes
+"In short, the men contemplate mutiny and murder.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""It's a lie!""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+roared the captain.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""And if you have been interfering again with the discipline of this ship, or meddling in affairs that don't concern you you can take the consequences, and be damned.",-0.3818,0.0,0.085,0.915,negative,Tarzan of the Apes
+I don't care whether you are an English lord or not.,-0.3875,0.0,0.226,0.774,negative,Tarzan of the Apes
+"I'm captain of this here ship, and from now on you keep your meddling nose out of my business.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"The captain had worked himself up to such a frenzy of rage that he was fairly purple of face, and he shrieked the last words at the top of his voice, emphasizing his remarks by a loud thumping of the table with one huge fist, and shaking the other in Clayton's face.",-0.5423,0.072,0.134,0.794,negative,Tarzan of the Apes
+"Greystoke never turned a hair, but stood eyeing the excited man with level gaze.",0.4767,0.205,0.0,0.795,positive,Tarzan of the Apes
+"""Captain Billings,"" he drawled finally, ""if you will pardon my candor, I might remark that you are something of an ass.""",0.3182,0.108,0.0,0.892,positive,Tarzan of the Apes
+"Whereupon he turned and left the captain with the same indifferent ease that was habitual with him, and which was more surely calculated to raise the ire of a man of Billings' class than a torrent of invective.",0.5984,0.141,0.044,0.815,positive,Tarzan of the Apes
+"So, whereas the captain might easily have been brought to regret his hasty speech had Clayton attempted to conciliate him, his temper was now irrevocably set in the mold in which Clayton had left it, and the last chance of their working together for their common good was gone.",0.4019,0.161,0.097,0.743,positive,Tarzan of the Apes
+"""Well, Alice,"" said Clayton, as he rejoined his wife, ""I might have saved my breath.",0.4215,0.167,0.0,0.833,positive,Tarzan of the Apes
+The fellow proved most ungrateful.,-0.5095,0.0,0.452,0.548,negative,Tarzan of the Apes
+Fairly jumped at me like a mad dog.,-0.1779,0.234,0.299,0.467,negative,Tarzan of the Apes
+"""He and his blasted old ship may hang, for aught I care; and until we are safely off the thing I shall spend my energies in looking after our own welfare.",0.8074,0.242,0.0,0.758,positive,Tarzan of the Apes
+And I rather fancy the first step to that end should be to go to our cabin and look over my revolvers.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"I am sorry now that we packed the larger guns and the ammunition with the stuff below.""",-0.0772,0.0,0.08,0.92,negative,Tarzan of the Apes
+They found their quarters in a bad state of disorder.,-0.7351,0.0,0.47,0.53,negative,Tarzan of the Apes
+"Clothing from their open boxes and bags strewed the little apartment, and even their beds had been torn to pieces.",-0.25,0.0,0.095,0.905,negative,Tarzan of the Apes
+"""Evidently someone was more anxious about our belongings than we,"" said Clayton.",-0.3167,0.0,0.172,0.828,negative,Tarzan of the Apes
+"""Let's have a look around, Alice, and see what's missing.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+A thorough search revealed the fact that nothing had been taken but Clayton's two revolvers and the small supply of ammunition he had saved out for them.,0.5719,0.129,0.0,0.871,positive,Tarzan of the Apes
+"""Those are the very things I most wish they had left us,"" said Clayton, ""and the fact that they wished for them and them alone is most sinister.""",0.3086,0.108,0.066,0.826,positive,Tarzan of the Apes
+"""What are we to do, John?""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+asked his wife.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""Perhaps you were right in that our best chance lies in maintaining a neutral position.",0.5267,0.31,0.14,0.55,positive,Tarzan of the Apes
+"""If the officers are able to prevent a mutiny, we have nothing to fear, while if the mutineers are victorious our one slim hope lies in not having attempted to thwart or antagonize them.""",-0.0444,0.164,0.143,0.693,neutral,Tarzan of the Apes
+"""Right you are, Alice.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"We'll keep in the middle of the road.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"As they started to straighten up their cabin, Clayton and his wife simultaneously noticed the corner of a piece of paper protruding from beneath the door of their quarters.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"As Clayton stooped to reach for it he was amazed to see it move further into the room, and then he realized that it was being pushed inward by someone from without.",0.5106,0.125,0.0,0.875,positive,Tarzan of the Apes
+"Quickly and silently he stepped toward the door, but, as he reached for the knob to throw it open, his wife's hand fell upon his wrist.",0.7096,0.197,0.0,0.803,positive,Tarzan of the Apes
+"""No, John,"" she whispered.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""They do not wish to be seen, and so we cannot afford to see them.",-0.3089,0.0,0.139,0.861,negative,Tarzan of the Apes
+"Do not forget that we are keeping to the middle of the road.""",0.1695,0.122,0.0,0.878,positive,Tarzan of the Apes
+Clayton smiled and dropped his hand to his side.,0.7717,0.489,0.0,0.511,positive,Tarzan of the Apes
+Thus they stood watching the little bit of white paper until it finally remained at rest upon the floor just inside the door.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Then Clayton stooped and picked it up.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"It was a bit of grimy, white paper roughly folded into a ragged square.",-0.4215,0.0,0.203,0.797,negative,Tarzan of the Apes
+"Opening it they found a crude message printed almost illegibly, and with many evidences of an unaccustomed task.",-0.5719,0.0,0.188,0.812,negative,Tarzan of the Apes
+"Translated, it was a warning to the Claytons to refrain from reporting the loss of the revolvers, or from repeating what the old sailor had told them--to refrain on pain of death.",-0.8979,0.0,0.306,0.694,negative,Tarzan of the Apes
+"""I rather imagine we'll be good,"" said Clayton with a rueful smile.",0.3612,0.2,0.0,0.8,positive,Tarzan of the Apes
+"""About all we can do is to sit tight and wait for whatever may come.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"The Savage Home Nor did they have long to wait, for the next morning as Clayton was emerging on deck for his accustomed walk before breakfast, a shot rang out, and then another, and another.",-0.4588,0.0,0.083,0.917,negative,Tarzan of the Apes
+The sight which met his eyes confirmed his worst fears.,-0.7845,0.0,0.463,0.537,negative,Tarzan of the Apes
+"Facing the little knot of officers was the entire motley crew of the Fuwalda , and at their head stood Black Michael.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"At the first volley from the officers the men ran for shelter, and from points of vantage behind masts, wheel-house and cabin they returned the fire of the five men who represented the hated authority of the ship.",-0.743,0.03,0.154,0.816,negative,Tarzan of the Apes
+Two of their number had gone down before the captain's revolver.,0.0772,0.115,0.0,0.885,positive,Tarzan of the Apes
+They lay where they had fallen between the combatants.,-0.3612,0.0,0.238,0.762,negative,Tarzan of the Apes
+"But then the first mate lunged forward upon his face, and at a cry of command from Black Michael the mutineers charged the remaining four.",-0.7469,0.0,0.224,0.776,negative,Tarzan of the Apes
+"The crew had been able to muster but six firearms, so most of them were armed with boat hooks, axes, hatchets and crowbars.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+The captain had emptied his revolver and was reloading as the charge was made.,-0.1779,0.0,0.116,0.884,negative,Tarzan of the Apes
+"The second mate's gun had jammed, and so there were but two weapons opposed to the mutineers as they bore down upon the officers, who now started to give back before the infuriated rush of their men.",-0.9267,0.0,0.291,0.709,negative,Tarzan of the Apes
+"Both sides were cursing and swearing in a frightful manner, which, together with the reports of the firearms and the screams and groans of the wounded, turned the deck of the Fuwalda to the likeness of a madhouse.",-0.7579,0.0,0.185,0.815,negative,Tarzan of the Apes
+Before the officers had taken a dozen backward steps the men were upon them.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"An ax in the hands of a burly Negro cleft the captain from forehead to chin, and an instant later the others were down: dead or wounded from dozens of blows and bullet wounds.",-0.6486,0.0,0.118,0.882,negative,Tarzan of the Apes
+"Short and grisly had been the work of the mutineers of the Fuwalda , and through it all John Clayton had stood leaning carelessly beside the companionway puffing meditatively upon his pipe as though he had been but watching an indifferent cricket match.",-0.4019,0.0,0.085,0.915,negative,Tarzan of the Apes
+As the last officer went down he thought it was time that he returned to his wife lest some members of the crew find her alone below.,-0.25,0.0,0.071,0.929,negative,Tarzan of the Apes
+"Though outwardly calm and indifferent, Clayton was inwardly apprehensive and wrought up, for he feared for his wife's safety at the hands of these ignorant, half-brutes into whose hands fate had so remorselessly thrown them.",-0.7065,0.113,0.243,0.643,negative,Tarzan of the Apes
+As he turned to descend the ladder he was surprised to see his wife standing on the steps almost at his side.,0.2263,0.083,0.0,0.917,positive,Tarzan of the Apes
+"""How long have you been here, Alice?""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""Since the beginning,"" she replied.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""How awful, John.",-0.4588,0.0,0.6,0.4,negative,Tarzan of the Apes
+"Oh, how awful!",-0.5093,0.0,0.622,0.378,negative,Tarzan of the Apes
+"What can we hope for at the hands of such as those?""",0.4404,0.209,0.0,0.791,positive,Tarzan of the Apes
+"""Breakfast, I hope,"" he answered, smiling bravely in an attempt to allay her fears.",0.5423,0.33,0.147,0.524,positive,Tarzan of the Apes
+"""At least,"" he added, ""I'm going to ask them.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"Come with me, Alice.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"We must not let them think we expect any but courteous treatment.""",0.6652,0.288,0.0,0.712,positive,Tarzan of the Apes
+"The men had by this time surrounded the dead and wounded officers, and without either partiality or compassion proceeded to throw both living and dead over the sides of the vessel.",-0.765,0.076,0.217,0.707,negative,Tarzan of the Apes
+With equal heartlessness they disposed of their own dead and dying.,-0.8442,0.0,0.474,0.526,negative,Tarzan of the Apes
+"Presently one of the crew spied the approaching Claytons, and with a cry of: ""Here's two more for the fishes,"" rushed toward them with uplifted ax.",-0.4767,0.0,0.114,0.886,negative,Tarzan of the Apes
+"But Black Michael was even quicker, so that the fellow went down with a bullet in his back before he had taken a half dozen steps.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"With a loud roar, Black Michael attracted the attention of the others, and, pointing to Lord and Lady Greystoke, cried: ""These here are my friends, and they are to be left alone.",0.3182,0.157,0.123,0.72,positive,Tarzan of the Apes
+D'ye understand?,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""I'm captain of this ship now, an' what I says goes,"" he added, turning to Clayton.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""Just keep to yourselves, and nobody'll harm ye,"" and he looked threateningly on his fellows.",-0.7717,0.0,0.34,0.66,negative,Tarzan of the Apes
+The Claytons heeded Black Michael's instructions so well that they saw but little of the crew and knew nothing of the plans the men were making.,0.2193,0.07,0.0,0.93,positive,Tarzan of the Apes
+"Occasionally they heard faint echoes of brawls and quarreling among the mutineers, and on two occasions the vicious bark of firearms rang out on the still air.",-0.3612,0.0,0.088,0.912,negative,Tarzan of the Apes
+"But Black Michael was a fit leader for this band of cutthroats, and, withal held them in fair subjection to his rule.",0.7351,0.246,0.0,0.754,positive,Tarzan of the Apes
+"On the fifth day following the murder of the ship's officers, land was sighted by the lookout.",-0.6908,0.0,0.227,0.773,negative,Tarzan of the Apes
+"Whether island or mainland, Black Michael did not know, but he announced to Clayton that if investigation showed that the place was habitable he and Lady Greystoke were to be put ashore with their belongings.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""You'll be all right there for a few months,"" he explained, ""and by that time we'll have been able to make an inhabited coast somewhere and scatter a bit.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Then I'll see that yer gover'ment's notified where you be an' they'll soon send a man-o'war to fetch ye off.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""It would be a hard matter to land you in civilization without a lot o' questions being asked, an' none o' us here has any very convincin' answers up our sleeves.""",-0.0772,0.037,0.047,0.915,negative,Tarzan of the Apes
+"Clayton remonstrated against the inhumanity of landing them upon an unknown shore to be left to the mercies of savage beasts, and, possibly, still more savage men.",-0.7184,0.0,0.194,0.806,negative,Tarzan of the Apes
+"But his words were of no avail, and only tended to anger Black Michael, so he was forced to desist and make the best he could of a bad situation.",-0.9041,0.124,0.363,0.513,negative,Tarzan of the Apes
+About three o'clock in the afternoon they came about off a beautiful wooded shore opposite the mouth of what appeared to be a land-locked harbor.,0.5994,0.151,0.0,0.849,positive,Tarzan of the Apes
+Black Michael sent a small boat filled with men to sound the entrance in an effort to determine if the Fuwalda could be safely worked through the entrance.,0.4939,0.11,0.0,0.89,positive,Tarzan of the Apes
+In about an hour they returned and reported deep water through the passage as well as far into the little basin.,0.2732,0.095,0.0,0.905,positive,Tarzan of the Apes
+"Before dark the barkentine lay peacefully at anchor upon the bosom of the still, mirror-like surface of the harbor.",0.5267,0.159,0.0,0.841,positive,Tarzan of the Apes
+"The surrounding shores were beautiful with semitropical verdure, while in the distance the country rose from the ocean in hill and tableland, almost uniformly clothed by primeval forest.",0.5994,0.126,0.0,0.874,positive,Tarzan of the Apes
+"No signs of habitation were visible, but that the land might easily support human life was evidenced by the abundant bird and animal life of which the watchers on the Fuwalda's deck caught occasional glimpses, as well as by the shimmer of a little river which emptied into the harbor, insuring fresh water in plenitude.",0.8749,0.193,0.051,0.756,positive,Tarzan of the Apes
+"As darkness settled upon the earth, Clayton and Lady Alice still stood by the ship's rail in silent contemplation of their future abode.",-0.25,0.0,0.083,0.917,negative,Tarzan of the Apes
+"From the dark shadows of the mighty forest came the wild calls of savage beasts--the deep roar of the lion, and, occasionally, the shrill scream of a panther.",-0.6637,0.0,0.179,0.821,negative,Tarzan of the Apes
+"The woman shrank closer to the man in terror-stricken anticipation of the horrors lying in wait for them in the awful blackness of the nights to come, when they should be alone upon that wild and lonely shore.",-0.9217,0.029,0.304,0.667,negative,Tarzan of the Apes
+Later in the evening Black Michael joined them long enough to instruct them to make their preparations for landing on the morrow.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+They tried to persuade him to take them to some more hospitable coast near enough to civilization so that they might hope to fall into friendly hands.,0.7269,0.196,0.0,0.804,positive,Tarzan of the Apes
+"But no pleas, or threats, or promises of reward could move him.",0.4497,0.368,0.283,0.349,positive,Tarzan of the Apes
+"""I am the only man aboard who would not rather see ye both safely dead, and, while I know that's the sensible way to make sure of our own necks, yet Black Michael's not the man to forget a favor.",0.2732,0.196,0.131,0.674,positive,Tarzan of the Apes
+"Ye saved my life once, and in return I'm goin' to spare yours, but that's all I can do.",0.2263,0.101,0.0,0.899,positive,Tarzan of the Apes
+"""The men won't stand for any more, and if we don't get ye landed pretty quick they may even change their minds about giving ye that much show.",0.6808,0.177,0.0,0.823,positive,Tarzan of the Apes
+"I'll put all yer stuff ashore with ye as well as cookin' utensils an' some old sails for tents, an' enough grub to last ye until ye can find fruit and game.",0.2732,0.063,0.0,0.937,positive,Tarzan of the Apes
+"""With yer guns for protection, ye ought to be able to live here easy enough until help comes.",0.6808,0.259,0.0,0.741,positive,Tarzan of the Apes
+"When I get safely hid away I'll see to it that the British gover'ment learns about where ye be; for the life of me I couldn't tell 'em exactly where, for I don't know myself.",0.4215,0.092,0.04,0.867,positive,Tarzan of the Apes
+"But they'll find ye all right.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"After he had left them they went silently below, each wrapped in gloomy forebodings.",-0.1531,0.0,0.11,0.89,negative,Tarzan of the Apes
+"Clayton did not believe that Black Michael had the slightest intention of notifying the British government of their whereabouts, nor was he any too sure but that some treachery was contemplated for the following day when they should be on shore with the sailors who would have to accompany them with their belongings.",0.1655,0.031,0.0,0.969,positive,Tarzan of the Apes
+"Once out of Black Michael's sight any of the men might strike them down, and still leave Black Michael's conscience clear.",0.2263,0.112,0.116,0.773,positive,Tarzan of the Apes
+And even should they escape that fate was it not but to be faced with far graver dangers?,-0.765,0.058,0.298,0.644,negative,Tarzan of the Apes
+"Alone, he might hope to survive for years; for he was a strong, athletic man.",0.6369,0.323,0.104,0.573,positive,Tarzan of the Apes
+"But what of Alice, and that other little life so soon to be launched amidst the hardships and grave dangers of a primeval world?",-0.7876,0.059,0.261,0.679,negative,Tarzan of the Apes
+"The man shuddered as he meditated upon the awful gravity, the fearful helplessness, of their situation.",-0.8519,0.0,0.417,0.583,negative,Tarzan of the Apes
+But it was a merciful Providence which prevented him from foreseeing the hideous reality which awaited them in the grim depths of that gloomy wood.,-0.7876,0.039,0.277,0.684,negative,Tarzan of the Apes
+Early next morning their numerous chests and boxes were hoisted on deck and lowered to waiting small boats for transportation to shore.,-0.128,0.0,0.067,0.933,negative,Tarzan of the Apes
+"There was a great quantity and variety of stuff, as the Claytons had expected a possible five to eight years' residence in their new home.",0.6249,0.157,0.0,0.843,positive,Tarzan of the Apes
+"Thus, in addition to the many necessities they had brought, there were also many luxuries.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Black Michael was determined that nothing belonging to the Claytons should be left on board.,0.34,0.146,0.0,0.854,positive,Tarzan of the Apes
+"Whether out of compassion for them, or in furtherance of his own self-interests, it would be difficult to say.",0.128,0.133,0.111,0.756,positive,Tarzan of the Apes
+There was no question but that the presence of property of a missing British official upon a suspicious vessel would have been a difficult thing to explain in any civilized port in the world.,-0.872,0.0,0.288,0.712,negative,Tarzan of the Apes
+So zealous was he in his efforts to carry out his intentions that he insisted upon the return of Clayton's revolvers to him by the sailors in whose possession they were.,0.2006,0.056,0.0,0.944,positive,Tarzan of the Apes
+"Into the small boats were also loaded salt meats and biscuit, with a small supply of potatoes and beans, matches, and cooking vessels, a chest of tools, and the old sails which Black Michael had promised them.",0.3612,0.068,0.0,0.932,positive,Tarzan of the Apes
+"As though himself fearing the very thing which Clayton had suspected, Black Michael accompanied them to shore, and was the last to leave them when the small boats, having filled the ship's casks with fresh water, were pushed out toward the waiting Fuwalda .",-0.5423,0.048,0.141,0.811,negative,Tarzan of the Apes
+"As the boats moved slowly over the smooth waters of the bay, Clayton and his wife stood silently watching their departure--in the breasts of both a feeling of impending disaster and utter hopelessness.",-0.8271,0.039,0.212,0.749,negative,Tarzan of the Apes
+"And behind them, over the edge of a low ridge, other eyes watched--close set, wicked eyes, gleaming beneath shaggy brows.",-0.6705,0.0,0.244,0.756,negative,Tarzan of the Apes
+"As the Fuwalda passed through the narrow entrance to the harbor and out of sight behind a projecting point, Lady Alice threw her arms about Clayton's neck and burst into uncontrolled sobs.",-0.6705,0.0,0.159,0.841,negative,Tarzan of the Apes
+"Bravely had she faced the dangers of the mutiny; with heroic fortitude she had looked into the terrible future; but now that the horror of absolute solitude was upon them, her overwrought nerves gave way, and the reaction came.",-0.7469,0.092,0.224,0.684,negative,Tarzan of the Apes
+He did not attempt to check her tears.,-0.2263,0.0,0.213,0.787,negative,Tarzan of the Apes
+"It were better that nature have her way in relieving these long-pent emotions, and it was many minutes before the girl--little more than a child she was--could again gain mastery of herself.",0.8316,0.239,0.0,0.761,positive,Tarzan of the Apes
+"""Oh, John,"" she cried at last, ""the horror of it.",-0.743,0.0,0.441,0.559,negative,Tarzan of the Apes
+What are we to do?,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"What are we to do?""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""There is but one thing to do, Alice,"" and he spoke as quietly as though they were sitting in their snug living room at home, ""and that is work.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Work must be our salvation.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"We must not give ourselves time to think, for in that direction lies madness.",-0.6908,0.0,0.322,0.678,negative,Tarzan of the Apes
+"""We must work and wait.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"I am sure that relief will come, and come quickly, when once it is apparent that the Fuwalda has been lost, even though Black Michael does not keep his word to us.""",0.4767,0.151,0.064,0.784,positive,Tarzan of the Apes
+"""But John, if it were only you and I,"" she sobbed, ""we could endure it I know; but--"" ""Yes, dear,"" he answered, gently, ""I have been thinking of that, also; but we must face it, as we must face whatever comes, bravely and with the utmost confidence in our ability to cope with circumstances whatever they may be.",0.9186,0.221,0.054,0.725,positive,Tarzan of the Apes
+"""Hundreds of thousands of years ago our ancestors of the dim and distant past faced the same problems which we must face, possibly in these same primeval forests.",-0.4019,0.0,0.091,0.909,negative,Tarzan of the Apes
+That we are here today evidences their victory.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""What they did may we not do?",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"And even better, for are we not armed with ages of superior knowledge, and have we not the means of protection, defense, and sustenance which science has given us, but of which they were totally ignorant?",0.0927,0.134,0.076,0.789,positive,Tarzan of the Apes
+"What they accomplished, Alice, with instruments and weapons of stone and bone, surely that may we accomplish also.""",0.6908,0.337,0.114,0.549,positive,Tarzan of the Apes
+"""Ah, John, I wish that I might be a man with a man's philosophy, but I am but a woman, seeing with my heart rather than my head, and all that I can see is too horrible, too unthinkable to put into words.",-0.5994,0.046,0.117,0.837,negative,Tarzan of the Apes
+"""I only hope you are right, John.",0.4404,0.326,0.0,0.674,positive,Tarzan of the Apes
+"I will do my best to be a brave primeval woman, a fit mate for the primeval man.""",0.8779,0.457,0.0,0.543,positive,Tarzan of the Apes
+Clayton's first thought was to arrange a sleeping shelter for the night; something which might serve to protect them from prowling beasts of prey.,0.3818,0.106,0.0,0.894,positive,Tarzan of the Apes
+"He opened the box containing his rifles and ammunition, that they might both be armed against possible attack while at work, and then together they sought a location for their first night's sleeping place.",-0.4767,0.0,0.088,0.912,negative,Tarzan of the Apes
+"A hundred yards from the beach was a little level spot, fairly free of trees; here they decided eventually to build a permanent house, but for the time being they both thought it best to construct a little platform in the trees out of reach of the larger of the savage beasts in whose realm they were.",0.6249,0.147,0.064,0.789,positive,Tarzan of the Apes
+"To this end Clayton selected four trees which formed a rectangle about eight feet square, and cutting long branches from other trees he constructed a framework around them, about ten feet from the ground, fastening the ends of the branches securely to the trees by means of rope, a quantity of which Black Michael had furnished him from the hold of the Fuwalda .",0.2263,0.039,0.024,0.937,positive,Tarzan of the Apes
+Across this framework Clayton placed other smaller branches quite close together.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"This platform he paved with the huge fronds of elephant's ear which grew in profusion about them, and over the fronds he laid a great sail folded into several thicknesses.",0.7506,0.192,0.0,0.808,positive,Tarzan of the Apes
+"Seven feet higher he constructed a similar, though lighter platform to serve as roof, and from the sides of this he suspended the balance of his sailcloth for walls.",-0.4767,0.0,0.103,0.897,negative,Tarzan of the Apes
+"When completed he had a rather snug little nest, to which he carried their blankets and some of the lighter luggage.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"It was now late in the afternoon, and the balance of the daylight hours were devoted to the building of a rude ladder by means of which Lady Alice could mount to her new home.",-0.0772,0.072,0.08,0.849,negative,Tarzan of the Apes
+"All during the day the forest about them had been filled with excited birds of brilliant plumage, and dancing, chattering monkeys, who watched these new arrivals and their wonderful nest building operations with every mark of keenest interest and fascination.",0.9584,0.358,0.0,0.642,positive,Tarzan of the Apes
+"Notwithstanding that both Clayton and his wife kept a sharp lookout they saw nothing of larger animals, though on two occasions they had seen their little simian neighbors come screaming and chattering from the near-by ridge, casting frightened glances back over their little shoulders, and evincing as plainly as though by speech that they were fleeing some terrible thing which lay concealed there.",-0.8225,0.0,0.127,0.873,negative,Tarzan of the Apes
+"Just before dusk Clayton finished his ladder, and, filling a great basin with water from the near-by stream, the two mounted to the comparative safety of their aerial chamber.",0.7845,0.21,0.0,0.79,positive,Tarzan of the Apes
+"As it was quite warm, Clayton had left the side curtains thrown back over the roof, and as they sat, like Turks, upon their blankets, Lady Alice, straining her eyes into the darkening shadows of the wood, suddenly reached out and grasped Clayton's arms.",0.4201,0.126,0.048,0.827,positive,Tarzan of the Apes
+"""John,"" she whispered, ""look!",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"What is it, a man?""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"As Clayton turned his eyes in the direction she indicated, he saw silhouetted dimly against the shadows beyond, a great figure standing upright upon the ridge.",0.6249,0.146,0.0,0.854,positive,Tarzan of the Apes
+"For a moment it stood as though listening and then turned slowly, and melted into the shadows of the jungle.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""What is it, John?""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"""I do not know, Alice,"" he answered gravely, ""it is too dark to see so far, and it may have been but a shadow cast by the rising moon.""",-0.1901,0.0,0.061,0.939,negative,Tarzan of the Apes
+"""No, John, if it was not a man it was some huge and grotesque mockery of man.",0.0,0.124,0.124,0.753,neutral,Tarzan of the Apes
+"Oh, I am afraid.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"He gathered her in his arms, whispering words of courage and love into her ears.",0.8126,0.363,0.0,0.637,positive,Tarzan of the Apes
+"Soon after, he lowered the curtain walls, tying them securely to the trees so that, except for a little opening toward the beach, they were entirely enclosed.",0.2263,0.086,0.054,0.86,positive,Tarzan of the Apes
+"As it was now pitch dark within their tiny aerie they lay down upon their blankets to try to gain, through sleep, a brief respite of forgetfulness.",0.5267,0.12,0.0,0.88,positive,Tarzan of the Apes
+"Clayton lay facing the opening at the front, a rifle and a brace of revolvers at his hand.",0.4939,0.176,0.0,0.824,positive,Tarzan of the Apes
+Scarcely had they closed their eyes than the terrifying cry of a panther rang out from the jungle behind them.,-0.7783,0.0,0.286,0.714,negative,Tarzan of the Apes
+Closer and closer it came until they could hear the great beast directly beneath them.,0.6249,0.227,0.0,0.773,positive,Tarzan of the Apes
+"For an hour or more they heard it sniffing and clawing at the trees which supported their platform, but at last it roamed away across the beach, where Clayton could see it clearly in the brilliant moonlight--a great, handsome beast, the largest he had ever seen.",0.9696,0.332,0.0,0.668,positive,Tarzan of the Apes
+"During the long hours of darkness they caught but fitful snatches of sleep, for the night noises of a great jungle teeming with myriad animal life kept their overwrought nerves on edge, so that a hundred times they were startled to wakefulness by piercing screams, or the stealthy moving of great bodies beneath them.",0.802,0.173,0.139,0.688,positive,Tarzan of the Apes
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"Life and Death Morning found them but little, if at all refreshed, though it was with a feeling of intense relief that they saw the day dawn.",0.5994,0.231,0.077,0.692,positive,Tarzan of the Apes
+"As soon as they had made their meager breakfast of salt pork, coffee and biscuit, Clayton commenced work upon their house, for he realized that they could hope for no safety and no peace of mind at night until four strong walls effectually barred the jungle life from them.",0.8442,0.209,0.073,0.718,positive,Tarzan of the Apes
+"The task was an arduous one and required the better part of a month, though he built but one small room.",0.2382,0.093,0.0,0.907,positive,Tarzan of the Apes
+"He constructed his cabin of small logs about six inches in diameter, stopping the chinks with clay which he found at the depth of a few feet beneath the surface soil.",-0.1531,0.0,0.052,0.948,negative,Tarzan of the Apes
+At one end he built a fireplace of small stones from the beach.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+These also he set in clay and when the house had been entirely completed he applied a coating of the clay to the entire outside surface to the thickness of four inches.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"In the window opening he set small branches about an inch in diameter both vertically and horizontally, and so woven that they formed a substantial grating that could withstand the strength of a powerful animal.",0.7506,0.204,0.037,0.759,positive,Tarzan of the Apes
+Thus they obtained air and proper ventilation without fear of lessening the safety of their cabin.,0.6628,0.279,0.0,0.721,positive,Tarzan of the Apes
+"The A-shaped roof was thatched with small branches laid close together and over these long jungle grass and palm fronds, with a final coating of clay.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"The door he built of pieces of the packing-boxes which had held their belongings, nailing one piece upon another, the grain of contiguous layers running transversely, until he had a solid body some three inches thick and of such great strength that they were both moved to laughter as they gazed upon it.",0.9022,0.201,0.0,0.799,positive,Tarzan of the Apes
+"Here the greatest difficulty confronted Clayton, for he had no means whereby to hang his massive door now that he had built it.",-0.0516,0.142,0.216,0.642,negative,Tarzan of the Apes
+"After two days' work, however, he succeeded in fashioning two massive hardwood hinges, and with these he hung the door so that it opened and closed easily.",0.6369,0.172,0.0,0.828,positive,Tarzan of the Apes
+"The stuccoing and other final touches were added after they moved into the house, which they had done as soon as the roof was on, piling their boxes before the door at night and thus having a comparatively safe and comfortable habitation.",0.7351,0.137,0.0,0.863,positive,Tarzan of the Apes
+"The building of a bed, chairs, table, and shelves was a relatively easy matter, so that by the end of the second month they were well settled, and, but for the constant dread of attack by wild beasts and the ever growing loneliness, they were not uncomfortable or unhappy.",-0.5386,0.199,0.19,0.611,negative,Tarzan of the Apes
+"At night great beasts snarled and roared about their tiny cabin, but, so accustomed may one become to oft repeated noises, that soon they paid little attention to them, sleeping soundly the whole night through.",0.3716,0.07,0.0,0.93,positive,Tarzan of the Apes
+"Thrice had they caught fleeting glimpses of great man-like figures like that of the first night, but never at sufficiently close range to know positively whether the half-seen forms were those of man or brute.",0.836,0.218,0.0,0.782,positive,Tarzan of the Apes
+"The brilliant birds and the little monkeys had become accustomed to their new acquaintances, and as they had evidently never seen human beings before they presently, after their first fright had worn off, approached closer and closer, impelled by that strange curiosity which dominates the wild creatures of the forest and the jungle and the plain, so that within the first month several of the birds had gone so far as even to accept morsels of food from the friendly hands of the Claytons.",0.6369,0.114,0.07,0.816,positive,Tarzan of the Apes
+"One afternoon, while Clayton was working upon an addition to their cabin, for he contemplated building several more rooms, a number of their grotesque little friends came shrieking and scolding through the trees from the direction of the ridge.",0.5244,0.109,0.0,0.891,positive,Tarzan of the Apes
+"Ever as they fled they cast fearful glances back of them, and finally they stopped near Clayton jabbering excitedly to him as though to warn him of approaching danger.",-0.6808,0.089,0.266,0.645,negative,Tarzan of the Apes
+"At last he saw it, the thing the little monkeys so feared--the man-brute of which the Claytons had caught occasional fleeting glimpses.",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"It was approaching through the jungle in a semi-erect position, now and then placing the backs of its closed fists upon the ground--a great anthropoid ape, and, as it advanced, it emitted deep guttural growls and an occasional low barking sound.",0.5859,0.134,0.073,0.793,positive,Tarzan of the Apes
+"Clayton was at some distance from the cabin, having come to fell a particularly perfect tree for his building operations.",0.6115,0.182,0.0,0.818,positive,Tarzan of the Apes
+"Grown careless from months of continued safety, during which time he had seen no dangerous animals during the daylight hours, he had left his rifles and revolvers all within the little cabin, and now that he saw the great ape crashing through the underbrush directly toward him, and from a direction which practically cut him off from escape, he felt a vague little shiver play up and down his spine.",0.1082,0.132,0.139,0.728,positive,Tarzan of the Apes
+"He knew that, armed only with an ax, his chances with this ferocious monster were small indeed--and Alice; O God, he thought, what will become of Alice?",0.3612,0.138,0.049,0.813,positive,Tarzan of the Apes
+There was yet a slight chance of reaching the cabin.,0.4215,0.352,0.0,0.648,positive,Tarzan of the Apes
+"He turned and ran toward it, shouting an alarm to his wife to run in and close the great door in case the ape cut off his retreat.",0.34,0.172,0.131,0.698,positive,Tarzan of the Apes
+"Lady Greystoke had been sitting a little way from the cabin, and when she heard his cry she looked up to see the ape springing with almost incredible swiftness, for so large and awkward an animal, in an effort to head off Clayton.",-0.6077,0.0,0.11,0.89,negative,Tarzan of the Apes
+"With a low cry she sprang toward the cabin, and, as she entered, gave a backward glance which filled her soul with terror, for the brute had intercepted her husband, who now stood at bay grasping his ax with both hands ready to swing it upon the infuriated animal when he should make his final charge.",-0.8779,0.039,0.197,0.764,negative,Tarzan of the Apes
+"""Close and bolt the door, Alice,"" cried Clayton.",-0.3818,0.0,0.271,0.729,negative,Tarzan of the Apes
+"""I can finish this fellow with my ax.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"But he knew he was facing a horrible death, and so did she.",-0.9022,0.0,0.502,0.498,negative,Tarzan of the Apes
+"The ape was a great bull, weighing probably three hundred pounds.",0.6249,0.313,0.0,0.687,positive,Tarzan of the Apes
+"His nasty, close-set eyes gleamed hatred from beneath his shaggy brows, while his great canine fangs were bared in a horrid snarl as he paused a moment before his prey.",-0.802,0.104,0.287,0.609,negative,Tarzan of the Apes
+"Over the brute's shoulder Clayton could see the doorway of his cabin, not twenty paces distant, and a great wave of horror and fear swept over him as he saw his young wife emerge, armed with one of his rifles.",-0.4215,0.087,0.147,0.766,negative,Tarzan of the Apes
+"She had always been afraid of firearms, and would never touch them, but now she rushed toward the ape with the fearlessness of a lioness protecting its young.",0.3919,0.092,0.0,0.908,positive,Tarzan of the Apes
+"""Back, Alice,"" shouted Clayton, ""for God's sake, go back.""",0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"But she would not heed, and just then the ape charged, so that Clayton could say no more.",-0.6124,0.0,0.238,0.762,negative,Tarzan of the Apes
+"The man swung his ax with all his mighty strength, but the powerful brute seized it in those terrible hands, and tearing it from Clayton's grasp hurled it far to one side.",0.1655,0.149,0.107,0.745,positive,Tarzan of the Apes
+"With an ugly snarl he closed upon his defenseless victim, but ere his fangs had reached the throat they thirsted for, there was a sharp report and a bullet entered the ape's back between his shoulders.",-0.4215,0.043,0.146,0.811,negative,Tarzan of the Apes
+Throwing Clayton to the ground the beast turned upon his new enemy.,-0.5423,0.0,0.241,0.759,negative,Tarzan of the Apes
+"There before him stood the terrified girl vainly trying to fire another bullet into the animal's body; but she did not understand the mechanism of the firearm, and the hammer fell futilely upon an empty cartridge.",-0.6597,0.0,0.162,0.838,negative,Tarzan of the Apes
+"Almost simultaneously Clayton regained his feet, and without thought of the utter hopelessness of it, he rushed forward to drag the ape from his wife's prostrate form.",-0.7184,0.0,0.194,0.806,negative,Tarzan of the Apes
+"With little or no effort he succeeded, and the great bulk rolled inertly upon the turf before him--the ape was dead.",0.1725,0.229,0.207,0.564,positive,Tarzan of the Apes
+The bullet had done its work.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"A hasty examination of his wife revealed no marks upon her, and Clayton decided that the huge brute had died the instant he had sprung toward Alice.",-0.5423,0.074,0.186,0.74,negative,Tarzan of the Apes
+"Gently he lifted his wife's still unconscious form, and bore her to the little cabin, but it was fully two hours before she regained consciousness.",0.128,0.075,0.057,0.868,positive,Tarzan of the Apes
+Her first words filled Clayton with vague apprehension.,-0.5423,0.0,0.429,0.571,negative,Tarzan of the Apes
+"For some time after regaining her senses, Alice gazed wonderingly about the interior of the little cabin, and then, with a satisfied sigh, said: ""O, John, it is so good to be really home!",0.7866,0.209,0.0,0.791,positive,Tarzan of the Apes
+"I have had an awful dream, dear.",0.1531,0.434,0.283,0.283,positive,Tarzan of the Apes
+"I thought we were no longer in London, but in some horrible place where great beasts attacked us.""",-0.5719,0.195,0.357,0.448,negative,Tarzan of the Apes
+"""There, there, Alice,"" he said, stroking her forehead, ""try to sleep again, and do not worry your head about bad dreams.""",-0.2718,0.097,0.141,0.763,negative,Tarzan of the Apes
+"That night a little son was born in the tiny cabin beside the primeval forest, while a leopard screamed before the door, and the deep notes of a lion's roar sounded from beyond the ridge.",-0.3182,0.0,0.069,0.931,negative,Tarzan of the Apes
+"Lady Greystoke never recovered from the shock of the great ape's attack, and, though she lived for a year after her baby was born, she was never again outside the cabin, nor did she ever fully realize that she was not in England.",-0.1531,0.084,0.117,0.799,negative,Tarzan of the Apes
+"Sometimes she would question Clayton as to the strange noises of the nights; the absence of servants and friends, and the strange rudeness of the furnishings within her room, but, though he made no effort to deceive her, never could she grasp the meaning of it all.",-0.7814,0.038,0.202,0.76,negative,Tarzan of the Apes
+"In other ways she was quite rational, and the joy and happiness she took in the possession of her little son and the constant attentions of her husband made that year a very happy one for her, the happiest of her young life.",0.9485,0.291,0.0,0.709,positive,Tarzan of the Apes
+"That it would have been beset by worries and apprehension had she been in full command of her mental faculties Clayton well knew; so that while he suffered terribly to see her so, there were times when he was almost glad, for her sake, that she could not understand.",-0.8357,0.079,0.21,0.711,negative,Tarzan of the Apes
+"Long since had he given up any hope of rescue, except through accident.",0.4767,0.321,0.161,0.518,positive,Tarzan of the Apes
+With unremitting zeal he had worked to beautify the interior of the cabin.,0.5106,0.216,0.0,0.784,positive,Tarzan of the Apes
+Skins of lion and panther covered the floor.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Cupboards and bookcases lined the walls.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+Odd vases made by his own hand from the clay of the region held beautiful tropical flowers.,0.7003,0.303,0.098,0.598,positive,Tarzan of the Apes
+"Curtains of grass and bamboo covered the windows, and, most arduous task of all, with his meager assortment of tools he had fashioned lumber to neatly seal the walls and ceiling and lay a smooth floor within the cabin.",0.34,0.061,0.0,0.939,positive,Tarzan of the Apes
+That he had been able to turn his hands at all to such unaccustomed labor was a source of mild wonder to him.,0.0,0.0,0.0,1.0,neutral,Tarzan of the Apes
+"But he loved the work because it was for her and the tiny life that had come to cheer them, though adding a hundredfold to his responsibilities and to the terribleness of their situation.",0.7876,0.225,0.088,0.687,positive,Tarzan of the Apes
+"During the year that followed, Clayton was several times attacked by the great apes which now seemed to continually infest the vicinity of the cabin; but as he never again ventured outside without both rifle and revolvers he had little fear of the huge beasts.",-0.0927,0.105,0.112,0.783,negative,Tarzan of the Apes
+"He had strengthened the window protections and fitted a unique wooden lock to the cabin door, so that when he hunted for game and fruits, as it was constantly necessary for him to do to insure sustenance, he had no fear that any anim",-0.3818,0.058,0.112,0.83,negative,Tarzan of the Apes

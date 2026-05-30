@@ -1,0 +1,412 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Siddhartha This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Siddhartha
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Siddhartha
+"Title : Siddhartha Author : Hermann Hesse Release date : February 1, 2001 [eBook #2500] Most recently updated: December 22, 2021 Language : English Other information and formats : www.gutenberg.org/ebooks/2500 Credits : Michael Pullen, Chandra Yenco and Isaac Jones *** START OF THE PROJECT GUTENBERG EBOOK SIDDHARTHA *** Siddhartha An Indian Tale by Herman Hesse Contents FIRST PART THE SON OF THE BRAHMAN WITH THE SAMANAS GOTAMA AWAKENING SECOND PART KAMALA WITH THE CHILDLIKE PEOPLE SANSARA BY THE RIVER THE FERRYMAN THE SON OM GOVINDA FIRST PART To Romain Rolland, my dear friend THE SON OF THE BRAHMAN In the shade of the house, in the sunshine of the riverbank near the boats, in the shade of the Sal-wood forest, in the shade of the fig tree is where Siddhartha grew up, the handsome son of the Brahman, the young falcon, together with his friend Govinda, son of a Brahman.",0.9509,0.116,0.0,0.884,positive,Siddhartha
+"The sun tanned his light shoulders by the banks of the river when bathing, performing the sacred ablutions, the sacred offerings.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"In the mango grove, shade poured into his black eyes, when playing as a boy, when his mother sang, when the sacred offerings were made, when his father, the scholar, taught him, when the wise men talked.",0.5994,0.126,0.0,0.874,positive,Siddhartha
+"For a long time, Siddhartha had been partaking in the discussions of the wise men, practising debate with Govinda, practising with Govinda the art of reflection, the service of meditation.",0.4767,0.1,0.0,0.9,positive,Siddhartha
+"He already knew how to speak the Om silently, the word of words, to speak it silently into himself while inhaling, to speak it silently out of himself while exhaling, with all the concentration of his soul, the forehead surrounded by the glow of the clear-thinking spirit.",0.1779,0.036,0.0,0.964,positive,Siddhartha
+"He already knew to feel Atman in the depths of his being, indestructible, one with the universe.",0.1531,0.091,0.0,0.909,positive,Siddhartha
+"Joy leapt in his father's heart for his son who was quick to learn, thirsty for knowledge; he saw him growing up to become great wise man and priest, a prince among the Brahmans.",0.9136,0.305,0.0,0.695,positive,Siddhartha
+"Bliss leapt in his mother's breast when she saw him, when she saw him walking, when she saw him sit down and get up, Siddhartha, strong, handsome, he who was walking on slender legs, greeting her with perfect respect.",0.9618,0.373,0.0,0.627,positive,Siddhartha
+"Love touched the hearts of the Brahmans' young daughters when Siddhartha walked through the lanes of the town with the luminous forehead, with the eye of a king, with his slim hips.",0.6369,0.123,0.0,0.877,positive,Siddhartha
+"But more than all the others he was loved by Govinda, his friend, the son of a Brahman.",0.8922,0.391,0.0,0.609,positive,Siddhartha
+"He loved Siddhartha's eye and sweet voice, he loved his walk and the perfect decency of his movements, he loved everything Siddhartha did and said and what he loved most was his spirit, his transcendent, fiery thoughts, his ardent will, his high calling.",0.9775,0.429,0.038,0.533,positive,Siddhartha
+"Govinda knew: he would not become a common Brahman, not a lazy official in charge of offerings; not a greedy merchant with magic spells; not a vain, vacuous speaker; not a mean, deceitful priest; and also not a decent, stupid sheep in the herd of the many.",0.862,0.243,0.0,0.757,positive,Siddhartha
+"No, and he, Govinda, as well did not want to become one of those, not one of those tens of thousands of Brahmans.",-0.0829,0.082,0.134,0.784,negative,Siddhartha
+"He wanted to follow Siddhartha, the beloved, the splendid.",0.7964,0.504,0.0,0.496,positive,Siddhartha
+"And in days to come, when Siddhartha would become a god, when he would join the glorious, then Govinda wanted to follow him as his friend, his companion, his servant, his spear-carrier, his shadow.",0.8934,0.287,0.0,0.713,positive,Siddhartha
+Siddhartha was thus loved by everyone.,0.5994,0.438,0.0,0.562,positive,Siddhartha
+"He was a source of joy for everybody, he was a delight for them all.",0.8271,0.412,0.0,0.588,positive,Siddhartha
+"But he, Siddhartha, was not a source of joy for himself, he found no delight in himself.",-0.1426,0.212,0.273,0.515,negative,Siddhartha
+"Walking the rosy paths of the fig tree garden, sitting in the bluish shade of the grove of contemplation, washing his limbs daily in the bath of repentance, sacrificing in the dim shade of the mango forest, his gestures of perfect decency, everyone's love and joy, he still lacked all joy in his heart.",0.9477,0.237,0.0,0.763,positive,Siddhartha
+"Dreams and restless thoughts came into his mind, flowing from the water of the river, sparkling from the stars of the night, melting from the beams of the sun, dreams came to him and a restlessness of the soul, fuming from the sacrifices, breathing forth from the verses of the Rig-Veda, being infused into him, drop by drop, from the teachings of the old Brahmans.",-0.5574,0.1,0.161,0.739,negative,Siddhartha
+"Siddhartha had started to nurse discontent in himself, he had started to feel that the love of his father and the love of his mother, and also the love of his friend, Govinda, would not bring him joy for ever and ever, would not nurse him, feed him, satisfy him.",0.9496,0.285,0.047,0.668,positive,Siddhartha
+"He had started to suspect that his venerable father and his other teachers, that the wise Brahmans had already revealed to him the most and best of their wisdom, that they had already filled his expecting vessel with their richness, and the vessel was not full, the spirit was not content, the soul was not calm, the heart was not satisfied.",0.8468,0.189,0.107,0.705,positive,Siddhartha
+"The ablutions were good, but they were water, they did not wash off the sin, they did not heal the spirit's thirst, they did not relieve the fear in his heart.",-0.4893,0.135,0.189,0.676,negative,Siddhartha
+The sacrifices and the invocation of the gods were excellent--but was that all?,0.0,0.0,0.0,1.0,neutral,Siddhartha
+Did the sacrifices give a happy fortune?,0.5719,0.425,0.0,0.575,positive,Siddhartha
+And what about the gods?,0.0,0.0,0.0,1.0,neutral,Siddhartha
+Was it really Prajapati who had created the world?,0.25,0.2,0.0,0.8,positive,Siddhartha
+"Was it not the Atman, He, the only one, the singular one?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Were the gods not creations, created like me and you, subject to time, mortal?",-0.6167,0.0,0.354,0.646,negative,Siddhartha
+"Was it therefore good, was it right, was it meaningful and the highest occupation to make offerings to the gods?",0.6369,0.224,0.0,0.776,positive,Siddhartha
+"For whom else were offerings to be made, who else was to be worshipped but Him, the only one, the Atman?",0.3291,0.105,0.0,0.895,positive,Siddhartha
+"And where was Atman to be found, where did He reside, where did his eternal heart beat, where else but in one's own self, in its innermost part, in its indestructible part, which everyone had in himself?",0.2263,0.05,0.0,0.95,positive,Siddhartha
+"But where, where was this self, this innermost part, this ultimate part?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"It was not flesh and bone, it was neither thought nor consciousness, thus the wisest ones taught.",0.4767,0.162,0.0,0.838,positive,Siddhartha
+"So, where, where was it?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"To reach this place, the self, myself, the Atman, there was another way, which was worthwhile looking for?",0.3612,0.179,0.0,0.821,positive,Siddhartha
+"Alas, and nobody showed this way, nobody knew it, not the father, and not the teachers and wise men, not the holy sacrificial songs!",0.3164,0.123,0.076,0.8,positive,Siddhartha
+"They knew everything, the Brahmans and their holy books, they knew everything, they had taken care of everything and of more than everything, the creation of the world, the origin of speech, of food, of inhaling, of exhaling, the arrangement of the senses, the acts of the gods, they knew infinitely much--but was it valuable to know all of this, not knowing that one and only thing, the most important thing, the solely important thing?",0.8906,0.152,0.0,0.848,positive,Siddhartha
+"Surely, many verses of the holy books, particularly in the Upanishades of Samaveda, spoke of this innermost and ultimate thing, wonderful verses.",0.765,0.248,0.0,0.752,positive,Siddhartha
+"""Your soul is the whole world"", was written there, and it was written that man in his sleep, in his deep sleep, would meet with his innermost part and would reside in the Atman.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Marvellous wisdom was in these verses, all knowledge of the wisest ones had been collected here in magic words, pure as honey collected by bees.",0.7579,0.22,0.0,0.78,positive,Siddhartha
+"No, not to be looked down upon was the tremendous amount of enlightenment which lay here collected and preserved by innumerable generations of wise Brahmans.--But where were the Brahmans, where the priests, where the wise men or penitents, who had succeeded in not just knowing this deepest of all knowledge but also to live it?",0.5267,0.102,0.027,0.87,positive,Siddhartha
+"Where was the knowledgeable one who wove his spell to bring his familiarity with the Atman out of the sleep into the state of being awake, into the life, into every step of the way, into word and deed?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Siddhartha knew many venerable Brahmans, chiefly his father, the pure one, the scholar, the most venerable one.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"His father was to be admired, quiet and noble were his manners, pure his life, wise his words, delicate and noble thoughts lived behind its brow --but even he, who knew so much, did he live in blissfulness, did he have peace, was he not also just a searching man, a thirsty man?",0.9442,0.275,0.0,0.725,positive,Siddhartha
+"Did he not, again and again, have to drink from holy sources, as a thirsty man, from the offerings, from the books, from the disputes of the Brahmans?",-0.2732,0.0,0.075,0.925,negative,Siddhartha
+"Why did he, the irreproachable one, have to wash off sins every day, strive for a cleansing every day, over and over every day?",-0.4588,0.0,0.12,0.88,negative,Siddhartha
+"Was not Atman in him, did not the pristine source spring from his heart?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"It had to be found, the pristine source in one's own self, it had to be possessed!",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Everything else was searching, was a detour, was getting lost.",-0.3182,0.0,0.223,0.777,negative,Siddhartha
+"Thus were Siddhartha's thoughts, this was his thirst, this was his suffering.",-0.4767,0.0,0.22,0.78,negative,Siddhartha
+"Often he spoke to himself from a Chandogya-Upanishad the words: ""Truly, the name of the Brahman is satyam--verily, he who knows such a thing, will enter the heavenly world every day.""",0.6124,0.125,0.0,0.875,positive,Siddhartha
+"Often, it seemed near, the heavenly world, but never he had reached it completely, never he had quenched the ultimate thirst.",0.2631,0.109,0.063,0.828,positive,Siddhartha
+"And among all the wise and wisest men, he knew and whose instructions he had received, among all of them there was no one, who had reached it completely, the heavenly world, who had quenched it completely, the eternal thirst.",0.8651,0.242,0.045,0.713,positive,Siddhartha
+"""Govinda,"" Siddhartha spoke to his friend, ""Govinda, my dear, come with me under the Banyan tree, let's practise meditation.""",0.7003,0.254,0.0,0.746,positive,Siddhartha
+"They went to the Banyan tree, they sat down, Siddhartha right here, Govinda twenty paces away.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"While putting himself down, ready to speak the Om, Siddhartha repeated murmuring the verse: Om is the bow, the arrow is soul, The Brahman is the arrow's target, That one should incessantly hit.",0.3612,0.072,0.0,0.928,positive,Siddhartha
+"After the usual time of the exercise in meditation had passed, Govinda rose.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"The evening had come, it was time to perform the evening's ablution.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+He called Siddhartha's name.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+Siddhartha did not answer.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Siddhartha sat there lost in thought, his eyes were rigidly focused towards a very distant target, the tip of his tongue was protruding a little between the teeth, he seemed not to breathe.",-0.1027,0.075,0.116,0.809,negative,Siddhartha
+"Thus sat he, wrapped up in contemplation, thinking Om, his soul sent after the Brahman as an arrow.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Once, Samanas had travelled through Siddhartha's town, ascetics on a pilgrimage, three skinny, withered men, neither old nor young, with dusty and bloody shoulders, almost naked, scorched by the sun, surrounded by loneliness, strangers and enemies to the world, strangers and lank jackals in the realm of humans.",-0.836,0.0,0.168,0.832,negative,Siddhartha
+"Behind them blew a hot scent of quiet passion, of destructive service, of merciless self-denial.",-0.25,0.158,0.211,0.632,negative,Siddhartha
+"In the evening, after the hour of contemplation, Siddhartha spoke to Govinda: ""Early tomorrow morning, my friend, Siddhartha will go to the Samanas.",0.4939,0.127,0.0,0.873,positive,Siddhartha
+"He will become a Samana.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Govinda turned pale, when he heard these words and read the decision in the motionless face of his friend, unstoppable like the arrow shot from the bow.",0.5994,0.181,0.057,0.762,positive,Siddhartha
+"Soon and with the first glance, Govinda realized: Now it is beginning, now Siddhartha is taking his own way, now his fate is beginning to sprout, and with his, my own.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+And he turned pale like a dry banana-skin.,0.3612,0.294,0.0,0.706,positive,Siddhartha
+"""O Siddhartha,"" he exclaimed, ""will your father permit you to do that?""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+Siddhartha looked over as if he was just waking up.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Arrow-fast he read in Govinda's soul, read the fear, read the submission.",-0.4939,0.0,0.225,0.775,negative,Siddhartha
+"""O Govinda,"" he spoke quietly, ""let's not waste words.",0.3252,0.226,0.0,0.774,positive,Siddhartha
+"Tomorrow, at daybreak I will begin the life of the Samanas.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Speak no more of it.""",-0.296,0.0,0.355,0.645,negative,Siddhartha
+"Siddhartha entered the chamber, where his father was sitting on a mat of bast, and stepped behind his father and remained standing there, until his father felt that someone was standing behind him.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Quoth the Brahman: ""Is that you, Siddhartha?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Then say what you came to say.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Quoth Siddhartha: ""With your permission, my father.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+I came to tell you that it is my longing to leave your house tomorrow and go to the ascetics.,-0.0772,0.0,0.119,0.881,negative,Siddhartha
+My desire is to become a Samana.,0.4019,0.351,0.0,0.649,positive,Siddhartha
+"May my father not oppose this.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"The Brahman fell silent, and remained silent for so long that the stars in the small window wandered and changed their relative positions, 'ere the silence was broken.",-0.4767,0.0,0.103,0.897,negative,Siddhartha
+"Silent and motionless stood the son with his arms folded, silent and motionless sat the father on the mat, and the stars traced their paths in the sky.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Then spoke the father: ""Not proper it is for a Brahman to speak harsh and angry words.",-0.7351,0.0,0.307,0.693,negative,Siddhartha
+But indignation is in my heart.,-0.6808,0.0,0.479,0.521,negative,Siddhartha
+"I wish not to hear this request for a second time from your mouth.""",0.4019,0.197,0.0,0.803,positive,Siddhartha
+"Slowly, the Brahman rose; Siddhartha stood silently, his arms folded.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""What are you waiting for?""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+asked the father.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Quoth Siddhartha: ""You know what.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Indignant, the father left the chamber; indignant, he went to his bed and lay down.",-0.6808,0.0,0.301,0.699,negative,Siddhartha
+"After an hour, since no sleep had come over his eyes, the Brahman stood up, paced to and fro, and left the house.",-0.296,0.0,0.091,0.909,negative,Siddhartha
+"Through the small window of the chamber he looked back inside, and there he saw Siddhartha standing, his arms folded, not moving from his spot.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+Pale shimmered his bright robe.,0.4404,0.42,0.0,0.58,positive,Siddhartha
+"With anxiety in his heart, the father returned to his bed.",-0.1779,0.0,0.145,0.855,negative,Siddhartha
+"After another hour, since no sleep had come over his eyes, the Brahman stood up again, paced to and fro, walked out of the house and saw that the moon had risen.",-0.296,0.0,0.066,0.934,negative,Siddhartha
+"Through the window of the chamber he looked back inside; there stood Siddhartha, not moving from his spot, his arms folded, moonlight reflecting from his bare shins.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"With worry in his heart, the father went back to bed.",-0.4404,0.0,0.225,0.775,negative,Siddhartha
+"And he came back after an hour, he came back after two hours, looked through the small window, saw Siddhartha standing, in the moon light, by the light of the stars, in the darkness.",-0.25,0.0,0.057,0.943,negative,Siddhartha
+"And he came back hour after hour, silently, he looked into the chamber, saw him standing in the same place, filled his heart with anger, filled his heart with unrest, filled his heart with anguish, filled it with sadness.",-0.8885,0.0,0.226,0.774,negative,Siddhartha
+"And in the night's last hour, before the day began, he returned, stepped into the room, saw the young man standing there, who seemed tall and like a stranger to him.",0.3612,0.079,0.0,0.921,positive,Siddhartha
+"""Siddhartha,"" he spoke, ""what are you waiting for?""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""You know what.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""Will you always stand that way and wait, until it'll becomes morning, noon, and evening?""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""I will stand and wait.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""You will become tired, Siddhartha.""",-0.4404,0.0,0.42,0.58,negative,Siddhartha
+"""I will become tired.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""You will fall asleep, Siddhartha.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""I will not fall asleep.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""You will die, Siddhartha.""",-0.5994,0.0,0.565,0.435,negative,Siddhartha
+"""I will die.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""And would you rather die, than obey your father?""",-0.5994,0.0,0.328,0.672,negative,Siddhartha
+"""Siddhartha has always obeyed his father.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""So will you abandon your plan?""",-0.4877,0.0,0.388,0.612,negative,Siddhartha
+"""Siddhartha will do what his father will tell him to do.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+The first light of day shone into the room.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+The Brahman saw that Siddhartha was trembling softly in his knees.,-0.3612,0.0,0.2,0.8,negative,Siddhartha
+"In Siddhartha's face he saw no trembling, his eyes were fixed on a distant spot.",-0.5719,0.0,0.281,0.719,negative,Siddhartha
+"Then his father realized that even now Siddhartha no longer dwelt with him in his home, that he had already left him.",-0.296,0.0,0.095,0.905,negative,Siddhartha
+The Father touched Siddhartha's shoulder.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""You will,"" he spoke, ""go into the forest and be a Samana.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"When you'll have found blissfulness in the forest, then come back and teach me to be blissful.",0.5994,0.196,0.0,0.804,positive,Siddhartha
+"If you'll find disappointment, then return and let us once again make offerings to the gods together.",-0.5106,0.0,0.171,0.829,negative,Siddhartha
+"Go now and kiss your mother, tell her where you are going to.",0.4215,0.189,0.0,0.811,positive,Siddhartha
+"But for me it is time to go to the river and to perform the first ablution.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+He took his hand from the shoulder of his son and went outside.,0.4939,0.211,0.0,0.789,positive,Siddhartha
+"Siddhartha wavered to the side, as he tried to walk.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"He put his limbs back under control, bowed to his father, and went to his mother to do as his father had said.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"As he slowly left on stiff legs in the first light of day the still quiet town, a shadow rose near the last hut, who had crouched there, and joined the pilgrim--Govinda.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""You have come,"" said Siddhartha and smiled.",0.5423,0.368,0.0,0.632,positive,Siddhartha
+"""I have come,"" said Govinda.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"WITH THE SAMANAS In the evening of this day they caught up with the ascetics, the skinny Samanas, and offered them their companionship and--obedience.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+They were accepted.,0.2732,0.512,0.0,0.488,positive,Siddhartha
+Siddhartha gave his garments to a poor Brahman in the street.,-0.4767,0.0,0.256,0.744,negative,Siddhartha
+"He wore nothing more than the loincloth and the earth-coloured, unsown cloak.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"He ate only once a day, and never something cooked.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+He fasted for fifteen days.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+He fasted for twenty-eight days.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+The flesh waned from his thighs and cheeks.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Feverish dreams flickered from his enlarged eyes, long nails grew slowly on his parched fingers and a dry, shaggy beard grew on his chin.",0.4019,0.109,0.0,0.891,positive,Siddhartha
+"His glance turned to ice when he encountered women; his mouth twitched with contempt, when he walked through a city of nicely dressed people.",-0.2263,0.105,0.137,0.758,negative,Siddhartha
+"He saw merchants trading, princes hunting, mourners wailing for their dead, whores offering themselves, physicians trying to help the sick, priests determining the most suitable day for seeding, lovers loving, mothers nursing their children--and all of this was not worthy of one look from his eye, it all lied, it all stank, it all stank of lies, it all pretended to be meaningful and joyful and beautiful, and it all was just concealed putrefaction.",-0.7849,0.188,0.261,0.551,negative,Siddhartha
+The world tasted bitter.,-0.4215,0.0,0.483,0.517,negative,Siddhartha
+Life was torture.,-0.5994,0.0,0.661,0.339,negative,Siddhartha
+"A goal stood before Siddhartha, a single goal: to become empty, empty of thirst, empty of wishing, empty of dreams, empty of joy and sorrow.",-0.25,0.241,0.356,0.402,negative,Siddhartha
+"Dead to himself, not to be a self any more, to find tranquility with an emptied heart, to be open to miracles in unselfish thoughts, that was his goal.",-0.4472,0.09,0.176,0.734,negative,Siddhartha
+"Once all of my self was overcome and had died, once every desire and every urge was silent in the heart, then the ultimate part of me had to awake, the innermost of my being, which is no longer my self, the great secret.",0.25,0.129,0.11,0.76,positive,Siddhartha
+"Silently, Siddhartha exposed himself to burning rays of the sun directly above, glowing with pain, glowing with thirst, and stood there, until he neither felt any pain nor thirst any more.",-0.7845,0.0,0.22,0.78,negative,Siddhartha
+"Silently, he stood there in the rainy season, from his hair the water was dripping over freezing shoulders, over freezing hips and legs, and the penitent stood there, until he could not feel the cold in his shoulders and legs any more, until they were silent, until they were quiet.",-0.2732,0.0,0.08,0.92,negative,Siddhartha
+"Silently, he cowered in the thorny bushes, blood dripped from the burning skin, from festering wounds dripped pus, and Siddhartha stayed rigidly, stayed motionless, until no blood flowed any more, until nothing stung any more, until nothing burned any more.",-0.6124,0.0,0.14,0.86,negative,Siddhartha
+"Siddhartha sat upright and learned to breathe sparingly, learned to get along with only few breathes, learned to stop breathing.",-0.296,0.0,0.104,0.896,negative,Siddhartha
+"He learned, beginning with the breath, to calm the beat of his heart, learned to reduce the beats of his heart, until they were only a few and almost none.",0.3182,0.076,0.0,0.924,positive,Siddhartha
+"Instructed by the oldest of the Samanas, Siddhartha practised self-denial, practised meditation, according to a new Samana rules.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"A heron flew over the bamboo forest--and Siddhartha accepted the heron into his soul, flew over forest and mountains, was a heron, ate fish, felt the pangs of a heron's hunger, spoke the heron's croak, died a heron's death.",-0.7964,0.126,0.221,0.653,negative,Siddhartha
+"A dead jackal was lying on the sandy bank, and Siddhartha's soul slipped inside the body, was the dead jackal, lay on the banks, got bloated, stank, decayed, was dismembered by hyaenas, was skinned by vultures, turned into a skeleton, turned to dust, was blown across the fields.",-0.9628,0.0,0.331,0.669,negative,Siddhartha
+"And Siddhartha's soul returned, had died, had decayed, was scattered as dust, had tasted the gloomy intoxication of the cycle, awaited in new thirst like a hunter in the gap, where he could escape from the cycle, where the end of the causes, where an eternity without suffering began.",-0.2837,0.119,0.157,0.724,negative,Siddhartha
+"He killed his senses, he killed his memory, he slipped out of his self into thousands of other forms, was an animal, was carrion, was stone, was wood, was water, and awoke every time to find his old self again, sun shone or moon, was his self again, turned round in the cycle, felt thirst, overcame the thirst, felt new thirst.",-0.875,0.0,0.132,0.868,negative,Siddhartha
+"Siddhartha learned a lot when he was with the Samanas, many ways leading away from the self he learned to go.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"He went the way of self-denial by means of pain, through voluntarily suffering and overcoming pain, hunger, thirst, tiredness.",-0.8934,0.0,0.438,0.562,negative,Siddhartha
+"He went the way of self-denial by means of meditation, through imagining the mind to be void of all conceptions.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"These and other ways he learned to go, a thousand times he left his self, for hours and days he remained in the non-self.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"But though the ways led away from the self, their end nevertheless always led back to the self.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Though Siddhartha fled from the self a thousand times, stayed in nothingness, stayed in the animal, in the stone, the return was inevitable, inescapable was the hour, when he found himself back in the sunshine or in the moonlight, in the shade or in the rain, and was once again his self and Siddhartha, and again felt the agony of the cycle which had been forced upon him.",-0.3818,0.044,0.079,0.877,negative,Siddhartha
+"By his side lived Govinda, his shadow, walked the same paths, undertook the same efforts.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"They rarely spoke to one another, than the service and the exercises required.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Occasionally the two of them went through the villages, to beg for food for themselves and their teachers.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""How do you think, Govinda,"" Siddhartha spoke one day while begging this way, ""how do you think did we progress?",0.4215,0.128,0.0,0.872,positive,Siddhartha
+"Did we reach any goals?""",0.0258,0.216,0.0,0.784,neutral,Siddhartha
+"Govinda answered: ""We have learned, and we'll continue learning.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"You'll be a great Samana, Siddhartha.",0.6249,0.506,0.0,0.494,positive,Siddhartha
+"Quickly, you've learned every exercise, often the old Samanas have admired you.",0.5106,0.231,0.0,0.769,positive,Siddhartha
+"One day, you'll be a holy man, oh Siddhartha.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Quoth Siddhartha: ""I can't help but feel that it is not like this, my friend.",0.2514,0.209,0.209,0.583,positive,Siddhartha
+"What I've learned, being among the Samanas, up to this day, this, oh Govinda, I could have learned more quickly and by simpler means.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"In every tavern of that part of a town where the whorehouses are, my friend, among carters and gamblers I could have learned it.""",0.0772,0.123,0.111,0.766,positive,Siddhartha
+"Quoth Govinda: ""Siddhartha is putting me on.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"How could you have learned meditation, holding your breath, insensitivity against hunger and pain there among these wretched people?""",-0.7964,0.0,0.336,0.664,negative,Siddhartha
+"And Siddhartha said quietly, as if he was talking to himself: ""What is meditation?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+What is leaving one's body?,0.0,0.0,0.0,1.0,neutral,Siddhartha
+What is fasting?,0.0,0.0,0.0,1.0,neutral,Siddhartha
+What is holding one's breath?,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"It is fleeing from the self, it is a short escape of the agony of being a self, it is a short numbing of the senses against the pain and the pointlessness of life.",-0.7579,0.046,0.222,0.732,negative,Siddhartha
+"The same escape, the same short numbing is what the driver of an ox-cart finds in the inn, drinking a few bowls of rice-wine or fermented coconut-milk.",-0.1027,0.061,0.076,0.863,negative,Siddhartha
+"Then he won't feel his self any more, then he won't feel the pains of life any more, then he finds a short numbing of the senses.",0.0598,0.082,0.074,0.844,positive,Siddhartha
+"When he falls asleep over his bowl of rice-wine, he'll find the same what Siddhartha and Govinda find when they escape their bodies through long exercises, staying in the non-self.",0.1779,0.055,0.0,0.945,positive,Siddhartha
+"This is how it is, oh Govinda.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Quoth Govinda: ""You say so, oh friend, and yet you know that Siddhartha is no driver of an ox-cart and a Samana is no drunkard.",0.0202,0.12,0.152,0.727,neutral,Siddhartha
+"It's true that a drinker numbs his senses, it's true that he briefly escapes and rests, but he'll return from the delusion, finds everything to be unchanged, has not become wiser, has gathered no enlightenment,--has not risen several steps.""",-0.3468,0.116,0.149,0.735,negative,Siddhartha
+"And Siddhartha spoke with a smile: ""I do not know, I've never been a drunkard.",0.3612,0.172,0.0,0.828,positive,Siddhartha
+"But that I, Siddhartha, find only a short numbing of the senses in my exercises and meditations and that I am just as far removed from wisdom, from salvation, as a child in the mother's womb, this I know, oh Govinda, this I know.""",0.4497,0.104,0.06,0.836,positive,Siddhartha
+"And once again, another time, when Siddhartha left the forest together with Govinda, to beg for some food in the village for their brothers and teachers, Siddhartha began to speak and said: ""What now, oh Govinda, might we be on the right path?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+Might we get closer to enlightenment?,0.0,0.0,0.0,1.0,neutral,Siddhartha
+Might we get closer to salvation?,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Or do we perhaps live in a circle--we, who have thought we were escaping the cycle?""",0.0516,0.079,0.0,0.921,positive,Siddhartha
+"Quoth Govinda: ""We have learned a lot, Siddhartha, there is still much to learn.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"We are not going around in circles, we are moving up, the circle is a spiral, we have already ascended many a level.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Siddhartha answered: ""How old, would you think, is our oldest Samana, our venerable teacher?""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Quoth Govinda: ""Our oldest one might be about sixty years of age.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"And Siddhartha: ""He has lived for sixty years and has not reached the nirvana.",-0.0762,0.0,0.091,0.909,negative,Siddhartha
+"He'll turn seventy and eighty, and you and me, we will grow just as old and will do our exercises, and will fast, and will meditate.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"But we will not reach the nirvana, he won't and we won't.",-0.0286,0.0,0.092,0.908,neutral,Siddhartha
+"Oh Govinda, I believe out of all the Samanas out there, perhaps not a single one, not a single one, will reach the nirvana.",0.0258,0.052,0.0,0.948,neutral,Siddhartha
+"We find comfort, we find numbness, we learn feats, to deceive others.",-0.3182,0.153,0.294,0.552,negative,Siddhartha
+"But the most important thing, the path of paths, we will not find.""",0.3898,0.18,0.0,0.82,positive,Siddhartha
+"""If you only,"" spoke Govinda, ""wouldn't speak such terrible words, Siddhartha!",0.4303,0.222,0.0,0.778,positive,Siddhartha
+"How could it be that among so many learned men, among so many Brahmans, among so many austere and venerable Samanas, among so many who are searching, so many who are eagerly trying, so many holy men, no one will find the path of paths?""",0.1027,0.054,0.046,0.9,positive,Siddhartha
+"But Siddhartha said in a voice which contained just as much sadness as mockery, with a quiet, a slightly sad, a slightly mocking voice: ""Soon, Govinda, your friend will leave the path of the Samanas, he has walked along your side for so long.",-0.8491,0.081,0.275,0.644,negative,Siddhartha
+"I'm suffering of thirst, oh Govinda, and on this long path of a Samana, my thirst has remained as strong as ever.",0.0516,0.13,0.122,0.748,positive,Siddhartha
+"I always thirsted for knowledge, I have always been full of questions.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"I have asked the Brahmans, year after year, and I have asked the holy Vedas, year after year, and I have asked the devote Samanas, year after year.",0.34,0.091,0.0,0.909,positive,Siddhartha
+"Perhaps, oh Govinda, it had been just as well, had been just as smart and just as profitable, if I had asked the hornbill-bird or the chimpanzee.",0.7717,0.251,0.0,0.749,positive,Siddhartha
+"It took me a long time and am not finished learning this yet, oh Govinda: that there is nothing to be learned!",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"There is indeed no such thing, so I believe, as what we refer to as 'learning'.",-0.296,0.0,0.136,0.864,negative,Siddhartha
+"There is, oh my friend, just one knowledge, this is everywhere, this is Atman, this is within me and within you and within every creature.",0.4939,0.118,0.0,0.882,positive,Siddhartha
+"And so I'm starting to believe that this knowledge has no worser enemy than the desire to know it, than learning.""",-0.7184,0.095,0.306,0.599,negative,Siddhartha
+"At this, Govinda stopped on the path, rose his hands, and spoke: ""If you, Siddhartha, only would not bother your friend with this kind of talk!",-0.4184,0.068,0.161,0.77,negative,Siddhartha
+"Truly, you words stir up fear in my heart.",-0.0772,0.221,0.244,0.534,negative,Siddhartha
+"And just consider: what would become of the sanctity of prayer, what of the venerability of the Brahmans' caste, what of the holiness of the Samanas, if it was as you say, if there was no learning?!",-0.3595,0.0,0.065,0.935,negative,Siddhartha
+"What, oh Siddhartha, what would then become of all of this what is holy, what is precious, what is venerable on earth?!""",0.6114,0.16,0.0,0.84,positive,Siddhartha
+"And Govinda mumbled a verse to himself, a verse from an Upanishad: He who ponderingly, of a purified spirit, loses himself in the meditation of Atman, unexpressable by words is his blissfulness of his heart.",-0.1531,0.05,0.068,0.882,negative,Siddhartha
+But Siddhartha remained silent.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+He thought about the words which Govinda had said to him and thought the words through to their end.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Yes, he thought, standing there with his head low, what would remain of all that which seemed to us to be holy?",0.1531,0.109,0.085,0.806,positive,Siddhartha
+What remains?,0.0,0.0,0.0,1.0,neutral,Siddhartha
+What can stand the test?,0.0,0.0,0.0,1.0,neutral,Siddhartha
+And he shook his head.,-0.1027,0.0,0.259,0.741,negative,Siddhartha
+"At one time, when the two young men had lived among the Samanas for about three years and had shared their exercises, some news, a rumour, a myth reached them after being retold many times: A man had appeared, Gotama by name, the exalted one, the Buddha, he had overcome the suffering of the world in himself and had halted the cycle of rebirths.",-0.0772,0.059,0.048,0.894,negative,Siddhartha
+"He was said to wander through the land, teaching, surrounded by disciples, without possession, without home, without a wife, in the yellow cloak of an ascetic, but with a cheerful brow, a man of bliss, and Brahmans and princes would bow down before him and would become his students.",0.8957,0.182,0.0,0.818,positive,Siddhartha
+"This myth, this rumour, this legend resounded, its fragrance rose up, here and there; in the towns, the Brahmans spoke of it and in the forest, the Samanas; again and again, the name of Gotama, the Buddha reached the ears of the young men, with good and with bad talk, with praise and with defamation.",0.5267,0.127,0.056,0.817,positive,Siddhartha
+"It was as if the plague had broken out in a country and news had been spreading around that in one or another place there was a man, a wise man, a knowledgeable one, whose word and breath was enough to heal everyone who had been infected with the pestilence, and as such news would go through the land and everyone would talk about it, many would believe, many would doubt, but many would get on their way as soon as possible, to seek the wise man, the helper, just like this myth ran through the land, that fragrant myth of Gotama, the Buddha, the wise man of the family of Sakya.",0.9153,0.136,0.048,0.816,positive,Siddhartha
+"He possessed, so the believers said, the highest enlightenment, he remembered his previous lives, he had reached the nirvana and never returned into the cycle, was never again submerged in the murky river of physical forms.",0.1027,0.038,0.0,0.962,positive,Siddhartha
+"Many wonderful and unbelievable things were reported of him, he had performed miracles, had overcome the devil, had spoken to the gods.",0.0258,0.19,0.152,0.657,neutral,Siddhartha
+"But his enemies and disbelievers said, this Gotama was a vain seducer, who spent his days in luxury, scorned the offerings, was without learning, and knew neither exercises nor self-castigation.",-0.8402,0.0,0.229,0.771,negative,Siddhartha
+The myth of Buddha sounded sweet.,0.4588,0.375,0.0,0.625,positive,Siddhartha
+The scent of magic flowed from these reports.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"After all, the world was sick, life was hard to bear--and behold, here a source seemed to spring forth, here a messenger seemed to call out, comforting, mild, full of noble promises.",0.5574,0.218,0.124,0.658,positive,Siddhartha
+"Everywhere where the rumour of Buddha was heard, everywhere in the lands of India, the young men listened up, felt a longing, felt hope, and among the Brahmans' sons of the towns and villages every pilgrim and stranger was welcome, when he brought news of him, the exalted one, the Sakyamuni.",0.7003,0.109,0.02,0.87,positive,Siddhartha
+"The myth had also reached the Samanas in the forest, and also Siddhartha, and also Govinda, slowly, drop by drop, every drop laden with hope, every drop laden with doubt.",-0.6808,0.113,0.285,0.602,negative,Siddhartha
+"They rarely talked about it, because the oldest one of the Samanas did not like this myth.",-0.2755,0.0,0.117,0.883,negative,Siddhartha
+"He had heard that this alleged Buddha used to be an ascetic before and had lived in the forest, but had then turned back to luxury and worldly pleasures, and he had no high opinion of this Gotama.",0.2617,0.09,0.066,0.844,positive,Siddhartha
+"""Oh Siddhartha,"" Govinda spoke one day to his friend.",0.4939,0.286,0.0,0.714,positive,Siddhartha
+"""Today, I was in the village, and a Brahman invited me into his house, and in his house, there was the son of a Brahman from Magadha, who has seen the Buddha with his own eyes and has heard him teach.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Verily, this made my chest ache when I breathed, and thought to myself: If only I would too, if only we both would too, Siddhartha and me, live to see the hour when we will hear the teachings from the mouth of this perfected man!",0.4708,0.097,0.054,0.849,positive,Siddhartha
+"Speak, friend, wouldn't we want to go there too and listen to the teachings from the Buddha's mouth?""",0.4548,0.157,0.06,0.783,positive,Siddhartha
+"Quoth Siddhartha: ""Always, oh Govinda, I had thought, Govinda would stay with the Samanas, always I had believed his goal was to live to be sixty and seventy years of age and to keep on practising those feats and exercises, which are becoming a Samana.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"But behold, I had not known Govinda well enough, I knew little of his heart.",-0.3007,0.0,0.156,0.844,negative,Siddhartha
+"So now you, my faithful friend, want to take a new path and go there, where the Buddha spreads his teachings.""",0.7506,0.303,0.0,0.697,positive,Siddhartha
+"Quoth Govinda: ""You're mocking me.",-0.4019,0.0,0.403,0.597,negative,Siddhartha
+"Mock me if you like, Siddhartha!",-0.1511,0.261,0.322,0.417,negative,Siddhartha
+"But have you not also developed a desire, an eagerness, to hear these teachings?",0.1687,0.204,0.166,0.631,positive,Siddhartha
+"And have you not at one time said to me, you would not walk the path of the Samanas for much longer?""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"At this, Siddhartha laughed in his very own manner, in which his voice assumed a touch of sadness and a touch of mockery, and said: ""Well, Govinda, you've spoken well, you've remembered correctly.",-0.0258,0.137,0.139,0.724,neutral,Siddhartha
+"If you only remembered the other thing as well, you've heard from me, which is that I have grown distrustful and tired against teachings and learning, and that my faith in words, which are brought to us by teachers, is small.",-0.2732,0.104,0.128,0.768,negative,Siddhartha
+"But let's do it, my dear, I am willing to listen to these teachings--though in my heart I believe that we've already tasted the best fruit of these teachings.""",0.8807,0.269,0.0,0.731,positive,Siddhartha
+"Quoth Govinda: ""Your willingness delights my heart.",0.6249,0.505,0.0,0.495,positive,Siddhartha
+"But tell me, how should this be possible?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"How should the Gotama's teachings, even before we have heard them, have already revealed their best fruit to us?""",0.6369,0.189,0.0,0.811,positive,Siddhartha
+"Quoth Siddhartha: ""Let us eat this fruit and wait for the rest, oh Govinda!",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"But this fruit, which we already now received thanks to the Gotama, consisted in him calling us away from the Samanas!",0.63,0.172,0.0,0.828,positive,Siddhartha
+"Whether he has also other and better things to give us, oh friend, let us await with calm hearts.""",0.8316,0.395,0.0,0.605,positive,Siddhartha
+"On this very same day, Siddhartha informed the oldest one of the Samanas of his decision, that he wanted to leave him.",-0.0516,0.0,0.054,0.946,negative,Siddhartha
+He informed the oldest one with all the courtesy and modesty becoming to a younger one and a student.,0.3612,0.135,0.0,0.865,positive,Siddhartha
+"But the Samana became angry, because the two young men wanted to leave him, and talked loudly and used crude swearwords.",-0.8957,0.0,0.375,0.625,negative,Siddhartha
+Govinda was startled and became embarrassed.,-0.4939,0.0,0.512,0.488,negative,Siddhartha
+"But Siddhartha put his mouth close to Govinda's ear and whispered to him: ""Now, I want to show the old man that I've learned something from him.""",0.1154,0.055,0.0,0.945,positive,Siddhartha
+"Positioning himself closely in front of the Samana, with a concentrated soul, he captured the old man's glance with his glances, deprived him of his power, made him mute, took away his free will, subdued him under his own will, commanded him, to do silently, whatever he demanded him to do.",-0.1779,0.06,0.09,0.85,negative,Siddhartha
+"The old man became mute, his eyes became motionless, his will was paralysed, his arms were hanging down; without power, he had fallen victim to Siddhartha's spell.",-0.5574,0.0,0.155,0.845,negative,Siddhartha
+"But Siddhartha's thoughts brought the Samana under their control, he had to carry out, what they commanded.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"And thus, the old man made several bows, performed gestures of blessing, spoke stammeringly a godly wish for a good journey.",0.8316,0.355,0.0,0.645,positive,Siddhartha
+"And the young men returned the bows with thanks, returned the wish, went on their way with salutations.",0.6808,0.259,0.0,0.741,positive,Siddhartha
+"On the way, Govinda said: ""Oh Siddhartha, you have learned more from the Samanas than I knew.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"It is hard, it is very hard to cast a spell on an old Samana.",-0.2023,0.0,0.189,0.811,negative,Siddhartha
+"Truly, if you had stayed there, you would soon have learned to walk on water.""",0.4404,0.172,0.0,0.828,positive,Siddhartha
+"""I do not seek to walk on water,"" said Siddhartha.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""Let old Samanas be content with such feats!""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"GOTAMA In the town of Savathi, every child knew the name of the exalted Buddha, and every house was prepared to fill the alms-dish of Gotama's disciples, the silently begging ones.",0.2263,0.06,0.0,0.94,positive,Siddhartha
+"Near the town was Gotama's favourite place to stay, the grove of Jetavana, which the rich merchant Anathapindika, an obedient worshipper of the exalted one, had given him and his people for a gift.",0.7964,0.213,0.0,0.787,positive,Siddhartha
+"All tales and answers, which the two young ascetics had received in their search for Gotama's abode, had pointed them towards this area.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"And arriving at Savathi, in the very first house, before the door of which they stopped to beg, food has been offered to them, and they accepted the food, and Siddhartha asked the woman, who handed them the food: ""We would like to know, oh charitable one, where the Buddha dwells, the most venerable one, for we are two Samanas from the forest and have come, to see him, the perfected one, and to hear the teachings from his mouth.""",0.8402,0.125,0.034,0.841,positive,Siddhartha
+"Quoth the woman: ""Here, you have truly come to the right place, you Samanas from the forest.",0.4404,0.153,0.0,0.847,positive,Siddhartha
+"You should know, in Jetavana, in the garden of Anathapindika is where the exalted one dwells.",-0.0258,0.0,0.068,0.932,neutral,Siddhartha
+"There you pilgrims shall spend the night, for there is enough space for the innumerable, who flock here, to hear the teachings from his mouth.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"This made Govinda happy, and full of joy he exclaimed: ""Well so, thus we have reached our destination, and our path has come to an end!",0.8832,0.339,0.0,0.661,positive,Siddhartha
+"But tell us, oh mother of the pilgrims, do you know him, the Buddha, have you seen him with your own eyes?""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Quoth the woman: ""Many times I have seen him, the exalted one.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"On many days, I have seen him, walking through the alleys in silence, wearing his yellow cloak, presenting his alms-dish in silence at the doors of the houses, leaving with a filled dish.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Delightedly, Govinda listened and wanted to ask and hear much more.",0.5267,0.254,0.0,0.746,positive,Siddhartha
+But Siddhartha urged him to walk on.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"They thanked and left and hardly had to ask for directions, for rather many pilgrims and monks as well from Gotama's community were on their way to the Jetavana.",0.6124,0.156,0.0,0.844,positive,Siddhartha
+"And since they reached it at night, there were constant arrivals, shouts, and talk of those who sought shelter and got it.",0.1027,0.062,0.0,0.938,positive,Siddhartha
+"The two Samanas, accustomed to life in the forest, found quickly and without making any noise a place to stay and rested there until the morning.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"At sunrise, they saw with astonishment what a large crowd of believers and curious people had spent the night here.",0.3182,0.113,0.0,0.887,positive,Siddhartha
+"On all paths of the marvellous grove, monks walked in yellow robes, under the trees they sat here and there, in deep contemplation--or in a conversation about spiritual matters, the shady gardens looked like a city, full of people, bustling like bees.",0.6249,0.142,0.0,0.858,positive,Siddhartha
+"The majority of the monks went out with their alms-dish, to collect food in town for their lunch, the only meal of the day.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"The Buddha himself, the enlightened one, was also in the habit of taking this walk to beg in the morning.",0.4939,0.144,0.0,0.856,positive,Siddhartha
+"Siddhartha saw him, and he instantly recognised him, as if a god had pointed him out to him.",0.2732,0.116,0.0,0.884,positive,Siddhartha
+"He saw him, a simple man in a yellow robe, bearing the alms-dish in his hand, walking silently.",0.4939,0.176,0.0,0.824,positive,Siddhartha
+"""Look here!""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+Siddhartha said quietly to Govinda.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""This one is the Buddha.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Attentively, Govinda looked at the monk in the yellow robe, who seemed to be in no way different from the hundreds of other monks.",-0.296,0.0,0.087,0.913,negative,Siddhartha
+"And soon, Govinda also realized: This is the one.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+And they followed him and observed him.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"The Buddha went on his way, modestly and deep in his thoughts, his calm face was neither happy nor sad, it seemed to smile quietly and inwardly.",-0.0895,0.146,0.156,0.698,negative,Siddhartha
+"With a hidden smile, quiet, calm, somewhat resembling a healthy child, the Buddha walked, wore the robe and placed his feet just as all of his monks did, according to a precise rule.",0.7369,0.211,0.0,0.789,positive,Siddhartha
+"But his face and his walk, his quietly lowered glance, his quietly dangling hand and even every finger of his quietly dangling hand expressed peace, expressed perfection, did not search, did not imitate, breathed softly in an unwhithering calm, in an unwhithering light, an untouchable peace.",0.9806,0.39,0.026,0.583,positive,Siddhartha
+"Thus Gotama walked towards the town, to collect alms, and the two Samanas recognised him solely by the perfection of his calm, by the quietness of his appearance, in which there was no searching, no desire, no imitation, no effort to be seen, only light and peace.",0.6597,0.203,0.147,0.65,positive,Siddhartha
+"""Today, we'll hear the teachings from his mouth,"" said Govinda.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+Siddhartha did not answer.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"He felt little curiosity for the teachings, he did not believe that they would teach him anything new, but he had, just as Govinda had, heard the contents of this Buddha's teachings again and again, though these reports only represented second- or third-hand information.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"But attentively he looked at Gotama's head, his shoulders, his feet, his quietly dangling hand, and it seemed to him as if every joint of every finger of this hand was of these teachings, spoke of, breathed of, exhaled the fragrant of, glistened of truth.",0.9109,0.216,0.0,0.784,positive,Siddhartha
+"This man, this Buddha was truthful down to the gesture of his last finger.",0.4588,0.188,0.0,0.812,positive,Siddhartha
+This man was holy.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Never before, Siddhartha had venerated a person so much, never before he had loved a person as much as this one.",0.5994,0.178,0.0,0.822,positive,Siddhartha
+"They both followed the Buddha until they reached the town and then returned in silence, for they themselves intended to abstain from on this day.",0.1027,0.055,0.0,0.945,positive,Siddhartha
+"They saw Gotama returning--what he ate could not even have satisfied a bird's appetite, and they saw him retiring into the shade of the mango-trees.",-0.3252,0.0,0.092,0.908,negative,Siddhartha
+"But in the evening, when the heat cooled down and everyone in the camp started to bustle about and gathered around, they heard the Buddha teaching.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"They heard his voice, and it was also perfected, was of perfect calmness, was full of peace.",0.9274,0.511,0.0,0.489,positive,Siddhartha
+"Gotama taught the teachings of suffering, of the origin of suffering, of the way to relieve suffering.",-0.7783,0.101,0.375,0.524,negative,Siddhartha
+Calmly and clearly his quiet speech flowed on.,0.6124,0.455,0.0,0.545,positive,Siddhartha
+"Suffering was life, full of suffering was the world, but salvation from suffering had been found: salvation was obtained by him who would walk the path of the Buddha.",-0.8047,0.0,0.241,0.759,negative,Siddhartha
+"With a soft, yet firm voice the exalted one spoke, taught the four main doctrines, taught the eightfold path, patiently he went the usual path of the teachings, of the examples, of the repetitions, brightly and quietly his voice hovered over the listeners, like a light, like a starry sky.",0.7579,0.146,0.0,0.854,positive,Siddhartha
+"When the Buddha--night had already fallen--ended his speech, many a pilgrim stepped forward and asked to be accepted into the community, sought refuge in the teachings.",0.2732,0.08,0.0,0.92,positive,Siddhartha
+"And Gotama accepted them by speaking: ""You have heard the teachings well, it has come to you well.",0.6486,0.296,0.0,0.704,positive,Siddhartha
+"Thus join us and walk in holiness, to put an end to all suffering.""",0.296,0.145,0.0,0.855,positive,Siddhartha
+"Behold, then Govinda, the shy one, also stepped forward and spoke: ""I also take my refuge in the exalted one and his teachings,"" and he asked to be accepted into the community of his disciples and was accepted.",0.296,0.102,0.049,0.85,positive,Siddhartha
+"Right afterwards, when the Buddha had retired for the night, Govinda turned to Siddhartha and spoke eagerly: ""Siddhartha, it is not my place to scold you.",-0.0258,0.089,0.092,0.819,neutral,Siddhartha
+"We have both heard the exalted one, we have both perceived the teachings.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Govinda has heard the teachings, he has taken refuge in it.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"But you, my honoured friend, don't you also want to walk the path of salvation?",0.8507,0.392,0.061,0.547,positive,Siddhartha
+"Would you want to hesitate, do you want to wait any longer?""",-0.128,0.19,0.153,0.657,negative,Siddhartha
+"Siddhartha awakened as if he had been asleep, when he heard Govinda's words.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"For a long time, he looked into Govinda's face.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Then he spoke quietly, in a voice without mockery: ""Govinda, my friend, now you have taken this step, now you have chosen this path.",0.6324,0.197,0.0,0.803,positive,Siddhartha
+"Always, oh Govinda, you've been my friend, you've always walked one step behind me.",0.4939,0.198,0.0,0.802,positive,Siddhartha
+"Often I have thought: Won't Govinda for once also take a step by himself, without me, out of his own soul?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Behold, now you've turned into a man and are choosing your path for yourself.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"I wish that you would go it up to its end, oh my friend, that you shall find salvation!""",0.7345,0.279,0.0,0.721,positive,Siddhartha
+"Govinda, not completely understanding it yet, repeated his question in an impatient tone: ""Speak up, I beg you, my dear!",0.1759,0.131,0.1,0.77,positive,Siddhartha
+"Tell me, since it could not be any other way, that you also, my learned friend, will take your refuge with the exalted Buddha!""",0.5411,0.132,0.0,0.868,positive,Siddhartha
+"Siddhartha placed his hand on Govinda's shoulder: ""You failed to hear my good wish for you, oh Govinda.",0.6705,0.337,0.126,0.536,positive,Siddhartha
+"I'm repeating it: I wish that you would go this path up to its end, that you shall find salvation!""",0.4574,0.143,0.0,0.857,positive,Siddhartha
+"In this moment, Govinda realized that his friend had left him, and he started to weep.",-0.128,0.153,0.177,0.67,negative,Siddhartha
+"""Siddhartha!""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+he exclaimed lamentingly.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Siddhartha kindly spoke to him: ""Don't forget, Govinda, that you are now one of the Samanas of the Buddha!",0.6319,0.233,0.0,0.767,positive,Siddhartha
+"You have renounced your home and your parents, renounced your birth and possessions, renounced your free will, renounced all friendship.",0.7351,0.256,0.0,0.744,positive,Siddhartha
+"This is what the teachings require, this is what the exalted one wants.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+This is what you wanted for yourself.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Tomorrow, oh Govinda, I'll leave you.""",-0.0516,0.0,0.194,0.806,negative,Siddhartha
+"For a long time, the friends continued walking in the grove; for a long time, they lay there and found no sleep.",0.2263,0.133,0.094,0.773,positive,Siddhartha
+"And over and over again, Govinda urged his friend, he should tell him why he would not want to seek refuge in Gotama's teachings, what fault he would find in these teachings.",0.0716,0.089,0.109,0.803,positive,Siddhartha
+"But Siddhartha turned him away every time and said: ""Be content, Govinda!",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Very good are the teachings of the exalted one, how could I find a fault in them?""",0.1263,0.169,0.143,0.688,positive,Siddhartha
+"Very early in the morning, a follower of Buddha, one of his oldest monks, went through the garden and called all those to him who had as novices taken their refuge in the teachings, to dress them up in the yellow robe and to instruct them in the first teachings and duties of their position.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Then Govinda broke loose, embraced once again his childhood friend and left with the novices.",-0.2263,0.158,0.251,0.591,negative,Siddhartha
+"But Siddhartha walked through the grove, lost in thought.",-0.4497,0.0,0.269,0.731,negative,Siddhartha
+"Then he happened to meet Gotama, the exalted one, and when he greeted him with respect and the Buddha's glance was so full of kindness and calm, the young man summoned his courage and asked the venerable one for the permission to talk to him.",0.918,0.259,0.0,0.741,positive,Siddhartha
+Silently the exalted one nodded his approval.,0.4767,0.341,0.0,0.659,positive,Siddhartha
+"Quoth Siddhartha: ""Yesterday, oh exalted one, I had been privileged to hear your wondrous teachings.",0.4404,0.182,0.0,0.818,positive,Siddhartha
+"Together with my friend, I had come from afar, to hear your teachings.",0.4939,0.225,0.0,0.775,positive,Siddhartha
+"And now my friend is going to stay with your people, he has taken his refuge with you.",0.4939,0.158,0.0,0.842,positive,Siddhartha
+"But I will again start on my pilgrimage.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""As you please,"" the venerable one spoke politely.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""Too bold is my speech,"" Siddhartha continued, ""but I do not want to leave the exalted one without having honestly told him my thoughts.",-0.3676,0.114,0.171,0.715,negative,Siddhartha
+"Does it please the venerable one to listen to me for one moment longer?""",0.3182,0.15,0.0,0.85,positive,Siddhartha
+"Silently, the Buddha nodded his approval.",0.4767,0.383,0.0,0.617,positive,Siddhartha
+"Quoth Siddhartha: ""One thing, oh most venerable one, I have admired in your teachings most of all.",0.5106,0.18,0.0,0.82,positive,Siddhartha
+"Everything in your teachings is perfectly clear, is proven; you are presenting the world as a perfect chain, a chain which is never and nowhere broken, an eternal chain the links of which are causes and effects.",0.8537,0.241,0.049,0.71,positive,Siddhartha
+"Never before, this has been seen so clearly; never before, this has been presented so irrefutably; truly, the heart of every Brahman has to beat stronger with love, once he has seen the world through your teachings perfectly connected, without gaps, clear as a crystal, not depending on chance, not depending on gods.",0.9408,0.265,0.059,0.676,positive,Siddhartha
+"Whether it may be good or bad, whether living according to it would be suffering or joy, I do not wish to discuss, possibly this is not essential--but the uniformity of the world, that everything which happens is connected, that the great and the small things are all encompassed by the same forces of time, by the same law of causes, of coming into being and of dying, this is what shines brightly out of your exalted teachings, oh perfected one.",0.8459,0.174,0.091,0.736,positive,Siddhartha
+"But according to your very own teachings, this unity and necessary sequence of all things is nevertheless broken in one place, through a small gap, this world of unity is invaded by something alien, something new, something which had not been there before, and which cannot be demonstrated and cannot be proven: these are your teachings of overcoming the world, of salvation.",-0.631,0.0,0.065,0.935,negative,Siddhartha
+"But with this small gap, with this small breach, the entire eternal and uniform law of the world is breaking apart again and becomes void.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Please forgive me for expressing this objection.""",0.5267,0.468,0.0,0.532,positive,Siddhartha
+"Quietly, Gotama had listened to him, unmoved.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Now he spoke, the perfected one, with his kind, with his polite and clear voice: ""You've heard the teachings, oh son of a Brahman, and good for you that you've thought about it thus deeply.",0.9118,0.296,0.0,0.704,positive,Siddhartha
+"You've found a gap in it, an error.",-0.4019,0.0,0.31,0.69,negative,Siddhartha
+You should think about this further.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"But be warned, oh seeker of knowledge, of the thicket of opinions and of arguing about words.",-0.7684,0.0,0.307,0.693,negative,Siddhartha
+"There is nothing to opinions, they may be beautiful or ugly, smart or foolish, everyone can support them or discard them.",0.4404,0.293,0.233,0.473,positive,Siddhartha
+"But the teachings, you've heard from me, are no opinion, and their goal is not to explain the world to those who seek knowledge.",-0.4215,0.0,0.109,0.891,negative,Siddhartha
+They have a different goal; their goal is salvation from suffering.,-0.4767,0.0,0.256,0.744,negative,Siddhartha
+"This is what Gotama teaches, nothing else.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""I wish that you, oh exalted one, would not be angry with me,"" said the young man.",0.6599,0.265,0.0,0.735,positive,Siddhartha
+"""I have not spoken to you like this to argue with you, to argue about words.",-0.3182,0.123,0.236,0.64,negative,Siddhartha
+"You are truly right, there is little to opinions.",0.4404,0.266,0.0,0.734,positive,Siddhartha
+But let me say this one more thing: I have not doubted in you for a single moment.,0.3007,0.129,0.0,0.871,positive,Siddhartha
+"I have not doubted for a single moment that you are Buddha, that you have reached the goal, the highest goal towards which so many thousands of Brahmans and sons of Brahmans are on their way.",0.2991,0.091,0.0,0.909,positive,Siddhartha
+You have found salvation from death.,-0.5994,0.0,0.438,0.562,negative,Siddhartha
+"It has come to you in the course of your own search, on your own path, through thoughts, through meditation, through realizations, through enlightenment.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+It has not come to you by means of teachings!,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"And--thus is my thought, oh exalted one,--nobody will obtain salvation by means of teachings!",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"You will not be able to convey and say to anybody, oh venerable one, in words and through teachings what has happened to you in the hour of enlightenment!",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"The teachings of the enlightened Buddha contain much, it teaches many to live righteously, to avoid evil.",-0.5267,0.134,0.277,0.588,negative,Siddhartha
+"But there is one thing which these so clear, these so venerable teachings do not contain: they do not contain the mystery of what the exalted one has experienced for himself, he alone among hundreds of thousands.",0.4677,0.108,0.059,0.832,positive,Siddhartha
+"This is what I have thought and realized, when I have heard the teachings.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"This is why I am continuing my travels--not to seek other, better teachings, for I know there are none, but to depart from all teachings and all teachers and to reach my goal by myself or to die.",-0.6428,0.075,0.129,0.796,negative,Siddhartha
+"But often, I'll think of this day, oh exalted one, and of this hour, when my eyes beheld a holy man.""",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"The Buddha's eyes quietly looked to the ground; quietly, in perfect equanimity his inscrutable face was smiling.",0.7717,0.309,0.0,0.691,positive,Siddhartha
+"""I wish,"" the venerable one spoke slowly, ""that your thoughts shall not be in error, that you shall reach the goal!",0.3919,0.161,0.0,0.839,positive,Siddhartha
+"But tell me: Have you seen the multitude of my Samanas, my many brothers, who have taken refuge in the teachings?",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"And do you believe, oh stranger, oh Samana, do you believe that it would be better for them all the abandon the teachings and to return into the life the world and of desires?""",0.0,0.077,0.077,0.847,neutral,Siddhartha
+"""Far is such a thought from my mind,"" exclaimed Siddhartha.",0.0,0.0,0.0,1.0,neutral,Siddhartha
+"""I wish that they shall all stay with the teachings, that they shall reach their goal!",0.4753,0.226,0.0,0.774,positive,Siddhartha
+It is not my place to judge another person's life.,0.0,0.0,0.0,1.0,neutral,Siddhartha
+"Only for myself, for myself alone, I m",-0.25,0.0,0.286,0.714,negative,Siddhartha

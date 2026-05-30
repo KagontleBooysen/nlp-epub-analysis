@@ -1,0 +1,607 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of O Pioneers!,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.084,0.133,0.783,negative,O Pioneers!
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,O Pioneers!
+Title : O Pioneers!,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Author : Willa Cather Release date : June 27, 2008 [eBook #24] Most recently updated: July 17, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/24 Credits : Martin Robb and David Widger *** START OF THE PROJECT GUTENBERG EBOOK O PIONEERS!",0.4199,0.072,0.0,0.928,positive,O Pioneers!
+*** O PIONEERS!,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"by Willa Sibert Cather ""Those fields, colored by various grain!""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+M ICKIEWICZ Contents PART I.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+The Wild Land I II III IV V PART II.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Neighboring Fields I II III IV V VI VII VIII IX X XI XII PART III.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Winter Memories I II PART IV.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The White Mulberry Tree I II III IV V VI VII VIII PART V. Alexandra I II III TO THE MEMORY OF SARAH ORNE JEWETT IN WHOSE BEAUTIFUL AND DELICATE WORK THERE IS THE PERFECTION THAT ENDURES PRAIRIE SPRING Evening and the flat land, Rich and sombre and always silent; The miles of fresh-plowed soil, Heavy and black, full of strength and harshness; The growing wheat, the growing weeds, The toiling horses, the tired men; The long empty roads, Sullen fires of sunset, fading, The eternal, unresponsive sky.",0.93,0.205,0.071,0.724,positive,O Pioneers!
+"Against all this, Youth, Flaming like the wild roses, Singing like the larks over the plowed fields, Flashing like a star out of the twilight; Youth with its insupportable sweetness, Its fierce necessity, Its sharp desire, Singing and singing, Out of the lips of silence, Out of the earthy dusk.",0.9081,0.233,0.0,0.767,positive,O Pioneers!
+PART I.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The Wild Land I One January day, thirty years ago, the little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"A mist of fine snowflakes was curling and eddying about the cluster of low drab buildings huddled on the gray prairie, under a gray sky.",-0.0772,0.072,0.084,0.843,negative,O Pioneers!
+"The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain.",0.1027,0.047,0.037,0.916,positive,O Pioneers!
+"None of them had any appearance of permanence, and the howling wind blew under them as well as over them.",0.2732,0.1,0.0,0.9,positive,O Pioneers!
+"The main street was a deeply rutted road, now frozen hard, which ran from the squat red railway station and the grain ""elevator"" at the north end of the town to the lumber yard and the horse pond at the south end.",-0.1027,0.0,0.034,0.966,negative,O Pioneers!
+"On either side of this road straggled two uneven rows of wooden buildings; the general merchandise stores, the two banks, the drug store, the feed store, the saloon, the post-office.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The board sidewalks were gray with trampled snow, but at two o'clock in the afternoon the shopkeepers, having come back from dinner, were keeping well behind their frosty windows.",0.3919,0.086,0.0,0.914,positive,O Pioneers!
+"The children were all in school, and there was nobody abroad in the streets but a few rough-looking countrymen in coarse overcoats, with their long caps pulled down to their noses.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Some of them had brought their wives to town, and now and then a red or a plaid shawl flashed out of one store into the shelter of another.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"At the hitch-bars along the street a few heavy work-horses, harnessed to farm wagons, shivered under their blankets.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"About the station everything was quiet, for there would not be another train in until night.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"On the sidewalk in front of one of the stores sat a little Swede boy, crying bitterly.",-0.7037,0.0,0.294,0.706,negative,O Pioneers!
+He was about five years old.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+His black cloth coat was much too big for him and made him look like a little old man.,0.3612,0.128,0.0,0.872,positive,O Pioneers!
+"His shrunken brown flannel dress had been washed many times and left a long stretch of stocking between the hem of his skirt and the tops of his clumsy, copper-toed shoes.",0.5106,0.102,0.0,0.898,positive,O Pioneers!
+His cap was pulled down over his ears; his nose and his chubby cheeks were chapped and red with cold.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He cried quietly, and the few people who hurried by did not notice him.",-0.3818,0.0,0.167,0.833,negative,O Pioneers!
+"He was afraid to stop any one, afraid to go into the store and ask for help, so he sat wringing his long sleeves and looking up a telegraph pole beside him, whimpering, ""My kitten, oh, my kitten!",0.2003,0.074,0.055,0.871,positive,O Pioneers!
+"Her will fweeze!""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"At the top of the pole crouched a shivering gray kitten, mewing faintly and clinging desperately to the wood with her claws.",-0.2023,0.077,0.111,0.812,negative,O Pioneers!
+"The boy had been left at the store while his sister went to the doctor's office, and in her absence a dog had chased his kitten up the pole.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The little creature had never been so high before, and she was too frightened to move.",-0.4404,0.0,0.162,0.838,negative,O Pioneers!
+Her master was sunk in despair.,-0.3182,0.0,0.315,0.685,negative,O Pioneers!
+"He was a little country boy, and this village was to him a very strange and perplexing place, where people wore fine clothes and had hard hearts.",-0.1761,0.066,0.128,0.806,negative,O Pioneers!
+"He always felt shy and awkward here, and wanted to hide behind things for fear some one might laugh at him.",-0.4404,0.128,0.302,0.569,negative,O Pioneers!
+"Just now, he was too unhappy to care who laughed.",0.5267,0.388,0.175,0.438,positive,O Pioneers!
+"At last he seemed to see a ray of hope: his sister was coming, and he got up and ran toward her in his heavy shoes.",0.4404,0.108,0.0,0.892,positive,O Pioneers!
+"His sister was a tall, strong girl, and she walked rapidly and resolutely, as if she knew exactly where she was going and what she was going to do next.",0.5106,0.105,0.0,0.895,positive,O Pioneers!
+"She wore a man's long ulster (not as if it were an affliction, but as if it were very comfortable and belonged to her; carried it like a young soldier), and a round plush cap, tied down with a thick veil.",0.8458,0.189,0.0,0.811,positive,O Pioneers!
+"She had a serious, thoughtful face, and her clear, deep blue eyes were fixed intently on the distance, without seeming to see anything, as if she were in trouble.",0.296,0.157,0.12,0.723,positive,O Pioneers!
+She did not notice the little boy until he pulled her by the coat.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Then she stopped short and stooped down to wipe his wet face.,-0.2263,0.0,0.147,0.853,negative,O Pioneers!
+"""Why, Emil!",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+I told you to stay in the store and not to come out.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"What is the matter with you?""",0.0258,0.18,0.0,0.82,neutral,O Pioneers!
+"""My kitten, sister, my kitten!",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"A man put her out, and a dog chased her up there.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"His forefinger, projecting from the sleeve of his coat, pointed up to the wretched little creature on the pole.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Oh, Emil!",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Didn't I tell you she'd get us into trouble of some kind, if you brought her?",0.1779,0.178,0.141,0.681,positive,O Pioneers!
+What made you tease me so?,-0.3182,0.0,0.315,0.685,negative,O Pioneers!
+"But there, I ought to have known better myself.""",0.5927,0.355,0.0,0.645,positive,O Pioneers!
+"She went to the foot of the pole and held out her arms, crying, ""Kitty, kitty, kitty,"" but the kitten only mewed and faintly waved its tail.",-0.2617,0.0,0.073,0.927,negative,O Pioneers!
+Alexandra turned away decidedly.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""No, she won't come down.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Somebody will have to go up after her.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+I saw the Linstrums' wagon in town.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+I'll go and see if I can find Carl.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Maybe he can do something.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Only you must stop crying, or I won't go a step.",-0.6486,0.0,0.431,0.569,negative,O Pioneers!
+Where's your comforter?,0.4404,0.592,0.0,0.408,positive,O Pioneers!
+Did you leave it in the store?,-0.0516,0.0,0.167,0.833,negative,O Pioneers!
+Never mind.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Hold still, till I put this on you.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+She unwound the brown veil from her head and tied it about his throat.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"A shabby little traveling man, who was just then coming out of the store on his way to the saloon, stopped and gazed stupidly at the shining mass of hair she bared when she took off her veil; two thick braids, pinned about her head in the German way, with a fringe of reddish-yellow curls blowing out from under her cap.",-0.5994,0.0,0.079,0.921,negative,O Pioneers!
+He took his cigar out of his mouth and held the wet end between the fingers of his woolen glove.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""My God, girl, what a head of hair!""",0.3382,0.285,0.0,0.715,positive,O Pioneers!
+"he exclaimed, quite innocently and foolishly.",-0.0953,0.276,0.314,0.41,negative,O Pioneers!
+She stabbed him with a glance of Amazonian fierceness and drew in her lower lip--most unnecessary severity.,-0.6249,0.0,0.267,0.733,negative,O Pioneers!
+It gave the little clothing drummer such a start that he actually let his cigar fall to the sidewalk and went off weakly in the teeth of the wind to the saloon.,-0.4215,0.0,0.085,0.915,negative,O Pioneers!
+His hand was still unsteady when he took his glass from the bartender.,0.4939,0.211,0.0,0.789,positive,O Pioneers!
+"His feeble flirtatious instincts had been crushed before, but never so mercilessly.",-0.3071,0.091,0.255,0.655,negative,O Pioneers!
+"He felt cheap and ill-used, as if some one had taken advantage of him.",0.25,0.133,0.0,0.867,positive,O Pioneers!
+"When a drummer had been knocking about in little drab towns and crawling across the wintry country in dirty smoking-cars, was he to be blamed if, when he chanced upon a fine human creature, he suddenly wished himself more of a man?",-0.6369,0.041,0.137,0.822,negative,O Pioneers!
+"While the little drummer was drinking to recover his nerve, Alexandra hurried to the drug store as the most likely place to find Carl Linstrum.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"There he was, turning over a portfolio of chromo ""studies"" which the druggist sold to the Hanover women who did china-painting.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Alexandra explained her predicament, and the boy followed her to the corner, where Emil still sat by the pole.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""I'll have to go up after her, Alexandra.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+I think at the depot they have some spikes I can strap on my feet.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Wait a minute.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Carl thrust his hands into his pockets, lowered his head, and darted up the street against the north wind.",-0.128,0.0,0.077,0.923,negative,O Pioneers!
+"He was a tall boy of fifteen, slight and narrow-chested.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"When he came back with the spikes, Alexandra asked him what he had done with his overcoat.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""I left it in the drug store.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"I couldn't climb in it, anyhow.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Catch me if I fall, Emil,"" he called back as he began his ascent.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Alexandra watched him anxiously; the cold was bitter enough on the ground.,-0.5719,0.0,0.32,0.68,negative,O Pioneers!
+The kitten would not budge an inch.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Carl had to go to the very top of the pole, and then had some difficulty in tearing her from her hold.",-0.079,0.085,0.098,0.817,negative,O Pioneers!
+"When he reached the ground, he handed the cat to her tearful little master.",0.1027,0.097,0.0,0.903,positive,O Pioneers!
+"""Now go into the store with her, Emil, and get warm.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He opened the door for the child.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Wait a minute, Alexandra.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Why can't I drive for you as far as our place?,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+It's getting colder every minute.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Have you seen the doctor?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Yes.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He is coming over to-morrow.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"But he says father can't get better; can't get well.""",-0.4782,0.0,0.257,0.743,negative,O Pioneers!
+The girl's lip trembled.,-0.2732,0.0,0.412,0.588,negative,O Pioneers!
+"She looked fixedly up the bleak street as if she were gathering her strength to face something, as if she were trying with all her might to grasp a situation which, no matter how painful, must be met and dealt with somehow.",-0.2023,0.093,0.11,0.797,negative,O Pioneers!
+The wind flapped the skirts of her heavy coat about her.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Carl did not say anything, but she felt his sympathy.",0.5023,0.265,0.0,0.735,positive,O Pioneers!
+"He, too, was lonely.",-0.3612,0.0,0.455,0.545,negative,O Pioneers!
+"He was a thin, frail boy, with brooding dark eyes, very quiet in all his movements.",0.0258,0.073,0.0,0.927,neutral,O Pioneers!
+"There was a delicate pallor in his thin face, and his mouth was too sensitive for a boy's.",0.0516,0.074,0.0,0.926,positive,O Pioneers!
+The lips had already a little curl of bitterness and skepticism.,-0.5325,0.0,0.357,0.643,negative,O Pioneers!
+"The two friends stood for a few moments on the windy street corner, not speaking a word, as two travelers, who have lost their way, sometimes stand and admit their perplexity in silence.",0.3818,0.139,0.065,0.795,positive,O Pioneers!
+"When Carl turned away he said, ""I'll see to your team.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Alexandra went into the store to have her purchases packed in the egg-boxes, and to get warm before she set out on her long cold drive.",0.2263,0.071,0.0,0.929,positive,O Pioneers!
+"When she looked for Emil, she found him sitting on a step of the staircase that led up to the clothing and carpet department.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He was playing with a little Bohemian girl, Marie Tovesky, who was tying her handkerchief over the kitten's head for a bonnet.",0.2023,0.087,0.0,0.913,positive,O Pioneers!
+"Marie was a stranger in the country, having come from Omaha with her mother to visit her uncle, Joe Tovesky.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"She was a dark child, with brown curly hair, like a brunette doll's, a coaxing little red mouth, and round, yellow-brown eyes.",0.3612,0.122,0.0,0.878,positive,O Pioneers!
+"Every one noticed her eyes; the brown iris had golden glints that made them look like gold-stone, or, in softer lights, like that Colorado mineral called tiger-eye.",0.6124,0.167,0.0,0.833,positive,O Pioneers!
+"The country children thereabouts wore their dresses to their shoe-tops, but this city child was dressed in what was then called the ""Kate Greenaway"" manner, and her red cashmere frock, gathered full from the yoke, came almost to the floor.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"This, with her poke bonnet, gave her the look of a quaint little woman.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+She had a white fur tippet about her neck and made no fussy objections when Emil fingered it admiringly.,0.2732,0.153,0.102,0.744,positive,O Pioneers!
+"Alexandra had not the heart to take him away from so pretty a playfellow, and she let them tease the kitten together until Joe Tovesky came in noisily and picked up his little niece, setting her on his shoulder for every one to see.",0.4246,0.087,0.049,0.865,positive,O Pioneers!
+"His children were all boys, and he adored this little creature.",0.4215,0.219,0.0,0.781,positive,O Pioneers!
+"His cronies formed a circle about him, admiring and teasing the little girl, who took their jokes with great good nature.",0.8834,0.416,0.047,0.538,positive,O Pioneers!
+"They were all delighted with her, for they seldom saw so pretty and carefully nurtured a child.",0.9018,0.502,0.0,0.498,positive,O Pioneers!
+"They told her that she must choose one of them for a sweetheart, and each began pressing his suit and offering her bribes; candy, and little pigs, and spotted calves.",0.6486,0.133,0.0,0.867,positive,O Pioneers!
+"She looked archly into the big, brown, mustached faces, smelling of spirits and tobacco, then she ran her tiny forefinger delicately over Joe's bristly chin and said, ""Here is my sweetheart.""",0.25,0.062,0.0,0.938,positive,O Pioneers!
+"The Bohemians roared with laughter, and Marie's uncle hugged her until she cried, ""Please don't, Uncle Joe!",0.7088,0.352,0.108,0.54,positive,O Pioneers!
+"You hurt me.""",-0.5267,0.0,0.63,0.37,negative,O Pioneers!
+"Each of Joe's friends gave her a bag of candy, and she kissed them all around, though she did not like country candy very well.",0.7169,0.268,0.07,0.662,positive,O Pioneers!
+Perhaps that was why she bethought herself of Emil.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Let me down, Uncle Joe,"" she said, ""I want to give some of my candy to that nice little boy I found.""",0.4767,0.177,0.0,0.823,positive,O Pioneers!
+"She walked graciously over to Emil, followed by her lusty admirers, who formed a new circle and teased the little boy until he hid his face in his sister's skirts, and she had to scold him for being such a baby.",0.1779,0.13,0.136,0.734,positive,O Pioneers!
+The farm people were making preparations to start for home.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+The women were checking over their groceries and pinning their big red shawls about their heads.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The men were buying tobacco and candy with what money they had left, were showing each other new boots and gloves and blue flannel shirts.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Three big Bohemians were drinking raw alcohol, tinctured with oil of cinnamon.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"This was said to fortify one effectually against the cold, and they smacked their lips after each pull at the flask.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Their volubility drowned every other noise in the place, and the overheated store sounded of their spirited language as it reeked of pipe smoke, damp woolens, and kerosene.",-0.6808,0.067,0.202,0.731,negative,O Pioneers!
+"Carl came in, wearing his overcoat and carrying a wooden box with a brass handle.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Come,"" he said, ""I've fed and watered your team, and the wagon is ready.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He carried Emil out and tucked him down in the straw in the wagonbox.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The heat had made the little boy sleepy, but he still clung to his kitten.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""You were awful good to climb so high and get my kitten, Carl.",-0.0258,0.172,0.178,0.651,neutral,O Pioneers!
+"When I get big I'll climb and get little boys' kittens for them,"" he murmured drowsily.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Before the horses were over the first hill, Emil and his cat were both fast asleep.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Although it was only four o'clock, the winter day was fading.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The road led southwest, toward the streak of pale, watery light that glimmered in the leaden sky.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The light fell upon the two sad young faces that were turned mutely toward it: upon the eyes of the girl, who seemed to be looking with such anguished perplexity into the future; upon the sombre eyes of the boy, who seemed already to be looking into the past.",-0.7096,0.0,0.112,0.888,negative,O Pioneers!
+"The little town behind them had vanished as if it had never been, had fallen behind the swell of the prairie, and the stern frozen country received them into its bosom.",0.2755,0.066,0.0,0.934,positive,O Pioneers!
+"The homesteads were few and far apart; here and there a windmill gaunt against the sky, a sod house crouching in a hollow.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"But the great fact was the land itself, which seemed to overwhelm the little beginnings of human society that struggled in its sombre wastes.",0.3612,0.178,0.162,0.66,positive,O Pioneers!
+"It was from facing this vast hardness that the boy's mouth had become so bitter; because he felt that men were too weak to make any mark here, that the land wanted to be let alone, to preserve its own fierce strength, its peculiar, savage kind of beauty, its uninterrupted mournfulness.",-0.6924,0.13,0.217,0.652,negative,O Pioneers!
+The wagon jolted along over the frozen road.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The two friends had less to say to each other than usual, as if the cold had somehow penetrated to their hearts.",0.4767,0.129,0.0,0.871,positive,O Pioneers!
+"""Did Lou and Oscar go to the Blue to cut wood to-day?""",-0.2732,0.0,0.16,0.84,negative,O Pioneers!
+Carl asked.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Yes.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"I'm almost sorry I let them go, it's turned so cold.",-0.0018,0.0,0.101,0.899,neutral,O Pioneers!
+"But mother frets if the wood gets low.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"She stopped and put her hand to her forehead, brushing back her hair.",0.3182,0.199,0.118,0.683,positive,O Pioneers!
+"""I don't know what is to become of us, Carl, if father has to die.",-0.5994,0.0,0.218,0.782,negative,O Pioneers!
+I don't dare to think about it.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"I wish we could all go with him and let the grass grow back over everything.""",0.4019,0.162,0.0,0.838,positive,O Pioneers!
+Carl made no reply.,-0.296,0.0,0.423,0.577,negative,O Pioneers!
+"Just ahead of them was the Norwegian graveyard, where the grass had, indeed, grown back over everything, shaggy and red, hiding even the wire fence.",-0.5267,0.0,0.161,0.839,negative,O Pioneers!
+"Carl realized that he was not a very helpful companion, but there was nothing he could say.",-0.1961,0.0,0.106,0.894,negative,O Pioneers!
+"""Of course,"" Alexandra went on, steadying her voice a little, ""the boys are strong and work hard, but we've always depended so on father that I don't see how we can go ahead.",0.2382,0.066,0.037,0.896,positive,O Pioneers!
+"I almost feel as if there were nothing to go ahead for.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Does your father know?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Yes, I think he does.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He lies and counts on his fingers all day.,-0.4215,0.0,0.259,0.741,negative,O Pioneers!
+I think he is trying to count up what he is leaving for us.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+It's a comfort to him that my chickens are laying right on through the cold weather and bringing in a little money.,0.3612,0.116,0.0,0.884,positive,O Pioneers!
+"I wish we could keep his mind off such things, but I don't have much time to be with him now.""",0.2144,0.093,0.0,0.907,positive,O Pioneers!
+"""I wonder if he'd like to have me bring my magic lantern over some evening?""",0.3612,0.152,0.0,0.848,positive,O Pioneers!
+Alexandra turned her face toward him.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Oh, Carl!",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Have you got it?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Yes.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+It's back there in the straw.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Didn't you notice the box I was carrying?,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"I tried it all morning in the drug-store cellar, and it worked ever so well, makes fine big pictures.""",0.5866,0.231,0.0,0.769,positive,O Pioneers!
+"""What are they about?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Oh, hunting pictures in Germany, and Robinson Crusoe and funny pictures about cannibals.",0.4404,0.195,0.0,0.805,positive,O Pioneers!
+"I'm going to paint some slides for it on glass, out of the Hans Andersen book.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Alexandra seemed actually cheered.,0.5106,0.524,0.0,0.476,positive,O Pioneers!
+There is often a good deal of the child left in people who have had to grow up too soon.,0.4404,0.139,0.0,0.861,positive,O Pioneers!
+"""Do bring it over, Carl.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"I can hardly wait to see it, and I'm sure it will please father.",0.5574,0.295,0.0,0.705,positive,O Pioneers!
+Are the pictures colored?,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Then I know he'll like them.,0.3612,0.385,0.0,0.615,positive,O Pioneers!
+He likes the calendars I get him in town.,0.4215,0.286,0.0,0.714,positive,O Pioneers!
+I wish I could get more.,0.4019,0.474,0.0,0.526,positive,O Pioneers!
+"You must leave me here, mustn't you?",-0.0516,0.0,0.167,0.833,negative,O Pioneers!
+"It's been nice to have company.""",0.4215,0.359,0.0,0.641,positive,O Pioneers!
+Carl stopped the horses and looked dubiously up at the black sky.,-0.2263,0.0,0.147,0.853,negative,O Pioneers!
+"""It's pretty dark.",0.4939,0.615,0.0,0.385,positive,O Pioneers!
+"Of course the horses will take you home, but I think I'd better light your lantern, in case you should need it.""",0.5927,0.161,0.0,0.839,positive,O Pioneers!
+"He gave her the reins and climbed back into the wagon-box, where he crouched down and made a tent of his overcoat.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"After a dozen trials he succeeded in lighting the lantern, which he placed in front of Alexandra, half covering it with a blanket so that the light would not shine in her eyes.",0.4215,0.085,0.0,0.915,positive,O Pioneers!
+"""Now, wait until I find my box.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Yes, here it is.",0.4019,0.474,0.0,0.526,positive,O Pioneers!
+"Good-night, Alexandra.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Try not to worry.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Carl sprang to the ground and ran off across the fields toward the Linstrum homestead.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Hoo, hoo-o-o-o!""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+he called back as he disappeared over a ridge and dropped into a sand gully.,-0.2263,0.0,0.137,0.863,negative,O Pioneers!
+"The wind answered him like an echo, ""Hoo, hoo-o-o-o-o-o!""",0.4199,0.259,0.0,0.741,positive,O Pioneers!
+Alexandra drove off alone.,-0.25,0.0,0.4,0.6,negative,O Pioneers!
+"The rattle of her wagon was lost in the howling of the wind, but her lantern, held firmly between her feet, made a moving point of light along the highway, going deeper and deeper into the dark country.",-0.1655,0.0,0.044,0.956,negative,O Pioneers!
+II On one of the ridges of that wintry waste stood the low log house in which John Bergson was dying.,-0.5994,0.0,0.205,0.795,negative,O Pioneers!
+"The Bergson homestead was easier to find than many another, because it overlooked Norway Creek, a shallow, muddy stream that sometimes flowed, and sometimes stood still, at the bottom of a winding ravine with steep, shelving sides overgrown with brush and cottonwoods and dwarf ash.",0.4019,0.062,0.024,0.913,positive,O Pioneers!
+This creek gave a sort of identity to the farms that bordered upon it.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Of all the bewildering things about a new country, the absence of human landmarks is one of the most depressing and disheartening.",-0.7146,0.0,0.239,0.761,negative,O Pioneers!
+The houses on the Divide were small and were usually tucked away in low places; you did not see them until you came directly upon them.,-0.2732,0.0,0.077,0.923,negative,O Pioneers!
+"Most of them were built of the sod itself, and were only the unescapable ground in another form.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The roads were but faint tracks in the grass, and the fields were scarcely noticeable.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The record of the plow was insignificant, like the feeble scratches on stone left by prehistoric races, so indeterminate that they may, after all, be only the markings of glaciers, and not a record of human strivings.",-0.2732,0.062,0.115,0.823,negative,O Pioneers!
+In eleven long years John Bergson had made but little impression upon the wild land he had come to tame.,0.2289,0.091,0.0,0.909,positive,O Pioneers!
+"It was still a wild thing that had its ugly moods; and no one knew when they were likely to come, or why.",-0.6705,0.0,0.216,0.784,negative,O Pioneers!
+Mischance hung over it.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Its Genius was unfriendly to man.,-0.3612,0.0,0.333,0.667,negative,O Pioneers!
+"The sick man was feeling this as he lay looking out of the window, after the doctor had left him, on the day following Alexandra's trip to town.",-0.4215,0.049,0.107,0.844,negative,O Pioneers!
+"There it lay outside his door, the same land, the same lead-colored miles.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He knew every ridge and draw and gully between him and the horizon.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"To the south, his plowed fields; to the east, the sod stables, the cattle corral, the pond,--and then the grass.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Bergson went over in his mind the things that had held him back.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+One winter his cattle had perished in a blizzard.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+The next summer one of his plow horses broke its leg in a prairiedog hole and had to be shot.,-0.4215,0.0,0.135,0.865,negative,O Pioneers!
+"Another summer he lost his hogs from cholera, and a valuable stallion died from a rattlesnake bite.",-0.4215,0.148,0.281,0.571,negative,O Pioneers!
+Time and again his crops had failed.,-0.5106,0.0,0.355,0.645,negative,O Pioneers!
+"He had lost two children, boys, that came between Lou and Emil, and there had been the cost of sickness and death.",-0.7351,0.0,0.237,0.763,negative,O Pioneers!
+"Now, when he had at last struggled out of debt, he was going to die himself.",-0.8316,0.0,0.404,0.596,negative,O Pioneers!
+"He was only forty-six, and had, of course, counted upon more time.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Bergson had spent his first five years on the Divide getting into debt, and the last six getting out.",-0.3612,0.0,0.122,0.878,negative,O Pioneers!
+"He had paid off his mortgages and had ended pretty much where he began, with the land.",0.4939,0.167,0.0,0.833,positive,O Pioneers!
+"He owned exactly six hundred and forty acres of what stretched outside his door; his own original homestead and timber claim, making three hundred and twenty acres, and the half-section adjoining, the homestead of a younger brother who had given up the fight, gone back to Chicago to work in a fancy bakery and distinguish himself in a Swedish athletic club.",-0.0772,0.038,0.043,0.92,negative,O Pioneers!
+"So far John had not attempted to cultivate the second half-section, but used it for pasture land, and one of his sons rode herd there in open weather.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"John Bergson had the Old-World belief that land, in itself, is desirable.",0.3182,0.173,0.0,0.827,positive,O Pioneers!
+But this land was an enigma.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"It was like a horse that no one knows how to break to harness, that runs wild and kicks things to pieces.",0.0772,0.105,0.093,0.802,positive,O Pioneers!
+"He had an idea that no one understood how to farm it properly, and this he often discussed with Alexandra.",-0.296,0.0,0.104,0.896,negative,O Pioneers!
+"Their neighbors, certainly, knew even less about farming than he did.",0.34,0.194,0.0,0.806,positive,O Pioneers!
+Many of them had never worked on a farm until they took up their homesteads.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"They had been handwerkers at home; tailors, locksmiths, joiners, cigar-makers, etc.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Bergson himself had worked in a shipyard.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"For weeks, John Bergson had been thinking about these things.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"His bed stood in the sitting-room, next to the kitchen.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Through the day, while the baking and washing and ironing were going on, the father lay and looked up at the roof beams that he himself had hewn, or out at the cattle in the corral.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He counted the cattle over and over.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+It diverted him to speculate as to how much weight each of the steers would probably put on by spring.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He often called his daughter in to talk to her about this.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Before Alexandra was twelve years old she had begun to be a help to him, and as she grew older he had come to depend more and more upon her resourcefulness and good judgment.",0.6808,0.153,0.0,0.847,positive,O Pioneers!
+"His boys were willing enough to work, but when he talked with them they usually irritated him.",-0.6124,0.0,0.2,0.8,negative,O Pioneers!
+"It was Alexandra who read the papers and followed the markets, and who learned by the mistakes of their neighbors.",-0.3612,0.0,0.116,0.884,negative,O Pioneers!
+"It was Alexandra who could always tell about what it had cost to fatten each steer, and who could guess the weight of a hog before it went on the scales closer than John Bergson himself.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Lou and Oscar were industrious, but he could never teach them to use their heads about their work.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Alexandra, her father often said to himself, was like her grandfather; which was his way of saying that she was intelligent.",0.6705,0.224,0.0,0.776,positive,O Pioneers!
+"John Bergson's father had been a shipbuilder, a man of considerable force and of some fortune.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Late in life he married a second time, a Stockholm woman of questionable character, much younger than he, who goaded him into every sort of extravagance.",-0.296,0.0,0.087,0.913,negative,O Pioneers!
+"On the shipbuilder's part, this marriage was an infatuation, the despairing folly of a powerful man who cannot bear to grow old.",0.0258,0.171,0.128,0.7,neutral,O Pioneers!
+In a few years his unprincipled wife warped the probity of a lifetime.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He speculated, lost his own fortune and funds entrusted to him by poor seafaring men, and died disgraced, leaving his children nothing.",-0.8807,0.058,0.39,0.552,negative,O Pioneers!
+"But when all was said, he had come up from the sea himself, had built up a proud little business with no capital but his own skill and foresight, and had proved himself a man.",0.4109,0.111,0.064,0.825,positive,O Pioneers!
+"In his daughter, John Bergson recognized the strength of will, and the simple direct way of thinking things out, that had characterized his father in his better days.",0.7269,0.19,0.0,0.81,positive,O Pioneers!
+"He would much rather, of course, have seen this likeness in one of his sons, but it was not a question of choice.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"As he lay there day after day he had to accept the situation as it was, and to be thankful that there was one among his children to whom he could entrust the future of his family and the possibilities of his hard-won land.",0.743,0.13,0.0,0.87,positive,O Pioneers!
+The winter twilight was fading.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The sick man heard his wife strike a match in the kitchen, and the light of a lamp glimmered through the cracks of the door.",-0.5859,0.0,0.186,0.814,negative,O Pioneers!
+It seemed like a light shining far away.,0.3612,0.294,0.0,0.706,positive,O Pioneers!
+"He turned painfully in his bed and looked at his white hands, with all the work gone out of them.",-0.5267,0.0,0.152,0.848,negative,O Pioneers!
+"He was ready to give up, he felt.",0.3612,0.263,0.0,0.737,positive,O Pioneers!
+"He did not know how it had come about, but he was quite willing to go deep under his fields and rest, where the plow could not find him.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He was tired of making mistakes.,-0.6597,0.0,0.574,0.426,negative,O Pioneers!
+"He was content to leave the tangle to other hands; he thought of his Alexandra's strong ones. """,0.4767,0.169,0.062,0.769,positive,O Pioneers!
+"Dotter ,"" he called feebly, "" dotter! """,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He heard her quick step and saw her tall figure appear in the doorway, with the light of the lamp behind her.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He felt her youth and strength, how easily she moved and stooped and lifted.",0.6808,0.318,0.0,0.682,positive,O Pioneers!
+"But he would not have had it again if he could, not he!",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He knew the end too well to wish to begin again.,0.5859,0.348,0.0,0.652,positive,O Pioneers!
+"He knew where it all went to, what it all became.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+His daughter came and lifted him up on his pillows.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+She called him by an old Swedish name that she used to call him when she was little and took his dinner to him in the shipyard.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Tell the boys to come here, daughter.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"I want to speak to them.""",0.0772,0.245,0.0,0.755,positive,O Pioneers!
+"""They are feeding the horses, father.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+They have just come back from the Blue.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Shall I call them?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He sighed.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""No, no.",-0.296,0.0,0.688,0.312,negative,O Pioneers!
+Wait until they come in.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Alexandra, you will have to do the best you can for your brothers.",0.6369,0.259,0.0,0.741,positive,O Pioneers!
+"Everything will come on you.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""I will do all I can, father.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Don't let them get discouraged and go off like Uncle Otto.",-0.0516,0.176,0.19,0.634,negative,O Pioneers!
+"I want them to keep the land.""",0.0772,0.206,0.0,0.794,positive,O Pioneers!
+"""We will, father.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"We will never lose the land.""",0.3089,0.311,0.0,0.689,positive,O Pioneers!
+There was a sound of heavy feet in the kitchen.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Alexandra went to the door and beckoned to her brothers, two strapping boys of seventeen and nineteen.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+They came in and stood at the foot of the bed.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Their father looked at them searchingly, though it was too dark to see their faces; they were just the same boys, he told himself, he had not been mistaken in them.",0.2755,0.066,0.0,0.934,positive,O Pioneers!
+"The square head and heavy shoulders belonged to Oscar, the elder.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The younger boy was quicker, but vacillating.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Boys,"" said the father wearily, ""I want you to keep the land together and to be guided by your sister.",0.0772,0.064,0.0,0.936,positive,O Pioneers!
+"I have talked to her since I have been sick, and she knows all my wishes.",-0.4019,0.095,0.195,0.71,negative,O Pioneers!
+"I want no quarrels among my children, and so long as there is one house there must be one head.",-0.2263,0.063,0.107,0.829,negative,O Pioneers!
+"Alexandra is the oldest, and she knows my wishes.",0.1531,0.167,0.0,0.833,positive,O Pioneers!
+She will do the best she can.,0.6369,0.412,0.0,0.588,positive,O Pioneers!
+"If she makes mistakes, she will not make so many as I have made.",-0.3612,0.0,0.172,0.828,negative,O Pioneers!
+"When you marry, and want a house of your own, the land will be divided fairly, according to the courts.",0.0772,0.067,0.0,0.933,positive,O Pioneers!
+"But for the next few years you will have it hard, and you must all keep together.",-0.1531,0.0,0.091,0.909,negative,O Pioneers!
+"Alexandra will manage the best she can.""",0.6369,0.412,0.0,0.588,positive,O Pioneers!
+"Oscar, who was usually the last to speak, replied because he was the older, ""Yes, father.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"It would be so anyway, without your speaking.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"We will all work the place together.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""And you will be guided by your sister, boys, and be good brothers to her, and good sons to your mother?",0.7003,0.234,0.0,0.766,positive,O Pioneers!
+That is good.,0.4404,0.592,0.0,0.408,positive,O Pioneers!
+And Alexandra must not work in the fields any more.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+There is no necessity now.,-0.296,0.0,0.355,0.645,negative,O Pioneers!
+Hire a man when you need help.,0.4019,0.351,0.0,0.649,positive,O Pioneers!
+She can make much more with her eggs and butter than the wages of a man.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+It was one of my mistakes that I did not find that out sooner.,-0.3612,0.0,0.172,0.828,negative,O Pioneers!
+Try to break a little more land every year; sod corn is good for fodder.,0.4404,0.182,0.0,0.818,positive,O Pioneers!
+"Keep turning the land, and always put up more hay than you need.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Don't grudge your mother a little time for plowing her garden and setting out fruit trees, even if it comes in a busy season.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"She has been a good mother to you, and she has always missed the old country.""",0.1779,0.16,0.122,0.718,positive,O Pioneers!
+When they went back to the kitchen the boys sat down silently at the table.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Throughout the meal they looked down at their plates and did not lift their red eyes.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"They did not eat much, although they had been working in the cold all day, and there was a rabbit stewed in gravy for supper, and prune pies.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"John Bergson had married beneath him, but he had married a good housewife.",0.5927,0.259,0.0,0.741,positive,O Pioneers!
+"Mrs. Bergson was a fair-skinned, corpulent woman, heavy and placid like her son, Oscar, but there was something comfortable about her; perhaps it was her own love of comfort.",0.9455,0.389,0.0,0.611,positive,O Pioneers!
+For eleven years she had worthily striven to maintain some semblance of household order amid conditions that made order very difficult.,-0.4201,0.0,0.123,0.877,negative,O Pioneers!
+"Habit was very strong with Mrs. Bergson, and her unremitting efforts to repeat the routine of her old life among new surroundings had done a great deal to keep the family from disintegrating morally and getting careless in their ways.",0.7346,0.167,0.054,0.779,positive,O Pioneers!
+"The Bergsons had a log house, for instance, only because Mrs. Bergson would not live in a sod house.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"She missed the fish diet of her own country, and twice every summer she sent the boys to the river, twenty miles to the southward, to fish for channel cat.",-0.296,0.0,0.071,0.929,negative,O Pioneers!
+"When the children were little she used to load them all into the wagon, the baby in its crib, and go fishing herself.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Alexandra often said that if her mother were cast upon a desert island, she would thank God for her deliverance, make a garden, and find something to preserve.",0.5574,0.161,0.0,0.839,positive,O Pioneers!
+Preserving was almost a mania with Mrs. Bergson.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Stout as she was, she roamed the scrubby banks of Norway Creek looking for fox grapes and goose plums, like a wild creature in search of prey.",0.4939,0.149,0.0,0.851,positive,O Pioneers!
+"She made a yellow jam of the insipid ground-cherries that grew on the prairie, flavoring it with lemon peel; and she made a sticky dark conserve of garden tomatoes.",-0.4588,0.0,0.103,0.897,negative,O Pioneers!
+"She had experimented even with the rank buffalo-pea, and she could not see a fine bronze cluster of them without shaking her head and murmuring, ""What a pity!""",-0.0941,0.055,0.069,0.876,negative,O Pioneers!
+"When there was nothing more to preserve, she began to pickle.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+The amount of sugar she used in these processes was sometimes a serious drain upon the family resources.,-0.0772,0.0,0.075,0.925,negative,O Pioneers!
+"She was a good mother, but she was glad when her children were old enough not to be in her way in the kitchen.",0.714,0.221,0.0,0.779,positive,O Pioneers!
+"She had never quite forgiven John Bergson for bringing her to the end of the earth; but, now that she was there, she wanted to be let alone to reconstruct her old life in so far as that was possible.",-0.494,0.0,0.1,0.9,negative,O Pioneers!
+"She could still take some comfort in the world if she had bacon in the cave, glass jars on the shelves, and sheets in the press.",0.3612,0.091,0.0,0.909,positive,O Pioneers!
+"She disapproved of all her neighbors because of their slovenly housekeeping, and the women thought her very proud.",0.5256,0.166,0.0,0.834,positive,O Pioneers!
+"Once when Mrs. Bergson, on her way to Norway Creek, stopped to see old Mrs. Lee, the old woman hid in the haymow ""for fear Mis' Bergson would catch her barefoot.""",-0.6705,0.0,0.188,0.812,negative,O Pioneers!
+"III One Sunday afternoon in July, six months after John Bergson's death, Carl was sitting in the doorway of the Linstrum kitchen, dreaming over an illustrated paper, when he heard the rattle of a wagon along the hill road.",-0.5994,0.0,0.095,0.905,negative,O Pioneers!
+"Looking up he recognized the Bergsons' team, with two seats in the wagon, which meant they were off for a pleasure excursion.",0.5719,0.156,0.0,0.844,positive,O Pioneers!
+"Oscar and Lou, on the front seat, wore their cloth hats and coats, never worn except on Sundays, and Emil, on the second seat with Alexandra, sat proudly in his new trousers, made from a pair of his father's, and a pink-striped shirt, with a wide ruffled collar.",0.6692,0.113,0.0,0.887,positive,O Pioneers!
+"Oscar stopped the horses and waved to Carl, who caught up his hat and ran through the melon patch to join them.",0.0772,0.091,0.079,0.83,positive,O Pioneers!
+"""Want to go with us?""",0.0772,0.245,0.0,0.755,positive,O Pioneers!
+Lou called.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""We're going to Crazy Ivar's to buy a hammock.""",-0.34,0.0,0.255,0.745,negative,O Pioneers!
+"""Sure.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Carl ran up panting, and clambering over the wheel sat down beside Emil.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""I've always wanted to see Ivar's pond.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+They say it's the biggest in all the country.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Aren't you afraid to go to Ivar's in that new shirt, Emil?",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He might want it and take it right off your back.""",0.0772,0.115,0.0,0.885,positive,O Pioneers!
+Emil grinned.,0.2732,0.677,0.0,0.323,positive,O Pioneers!
+"""I'd be awful scared to go,"" he admitted, ""if you big boys weren't along to take care of me.",-0.3182,0.18,0.231,0.588,negative,O Pioneers!
+"Did you ever hear him howl, Carl?",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+People say sometimes he runs about the country howling at night because he is afraid the Lord will destroy him.,-0.5423,0.0,0.156,0.844,negative,O Pioneers!
+"Mother thinks he must have done something awful wicked.""",-0.4588,0.0,0.273,0.727,negative,O Pioneers!
+Lou looked back and winked at Carl.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""What would you do, Emil, if you was out on the prairie by yourself and seen him coming?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Emil stared.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Maybe I could hide in a badger-hole,"" he suggested doubtfully.",-0.4404,0.0,0.394,0.606,negative,O Pioneers!
+"""But suppose there wasn't any badger-hole,"" Lou persisted.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Would you run?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""No, I'd be too scared to run,"" Emil admitted mournfully, twisting his fingers.",-0.6369,0.082,0.329,0.588,negative,O Pioneers!
+"""I guess I'd sit right down on the ground and say my prayers.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The big boys laughed, and Oscar brandished his whip over the broad backs of the horses.",0.4215,0.165,0.066,0.769,positive,O Pioneers!
+"""He wouldn't hurt you, Emil,"" said Carl persuasively.",0.4168,0.284,0.0,0.716,positive,O Pioneers!
+"""He came to doctor our mare when she ate green corn and swelled up most as big as the water-tank.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He petted her just like you do your cats.,0.3612,0.238,0.0,0.762,positive,O Pioneers!
+"I couldn't understand much he said, for he don't talk any English, but he kept patting her and groaning as if he had the pain himself, and saying, 'There now, sister, that's easier, that's better!'""",-0.2598,0.091,0.117,0.791,negative,O Pioneers!
+"Lou and Oscar laughed, and Emil giggled delightedly and looked up at his sister.",0.836,0.447,0.0,0.553,positive,O Pioneers!
+"""I don't think he knows anything at all about doctoring,"" said Oscar scornfully.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""They say when horses have distemper he takes the medicine himself, and then prays over the horses.""",0.34,0.13,0.0,0.87,positive,O Pioneers!
+Alexandra spoke up.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""That's what the Crows said, but he cured their horses, all the same.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Some days his mind is cloudy, like.",0.3612,0.294,0.0,0.706,positive,O Pioneers!
+"But if you can get him on a clear day, you can learn a great deal from him.",0.8765,0.393,0.0,0.607,positive,O Pioneers!
+He understands animals.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Didn't I see him take the horn off the Berquist's cow when she had torn it loose and went crazy?,-0.6908,0.0,0.295,0.705,negative,O Pioneers!
+"She was tearing all over the place, knocking herself against things.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"And at last she ran out on the roof of the old dugout and her legs went through and there she stuck, bellowing.",-0.25,0.0,0.083,0.917,negative,O Pioneers!
+"Ivar came running with his white bag, and the moment he got to her she was quiet and let him saw her horn off and daub the place with tar.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Emil had been watching his sister, his face reflecting the sufferings of the cow.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""And then didn't it hurt her any more?""",0.4168,0.284,0.0,0.716,positive,O Pioneers!
+he asked.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Alexandra patted him.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""No, not any more.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"And in two days they could use her milk again.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+The road to Ivar's homestead was a very poor one.,-0.5256,0.0,0.298,0.702,negative,O Pioneers!
+"He had settled in the rough country across the county line, where no one lived but some Russians,--half a dozen families who dwelt together in one long house, divided off like barracks.",0.3919,0.096,0.047,0.857,positive,O Pioneers!
+"Ivar had explained his choice by saying that the fewer neighbors he had, the fewer temptations.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Nevertheless, when one considered that his chief business was horse-doctoring, it seemed rather short-sighted of him to live in the most inaccessible place he could find.",-0.296,0.0,0.081,0.919,negative,O Pioneers!
+"The Bergson wagon lurched along over the rough hummocks and grass banks, followed the bottom of winding draws, or skirted the margin of wide lagoons, where the golden coreopsis grew up out of the clear water and the wild ducks rose with a whirr of wings.",0.3818,0.056,0.0,0.944,positive,O Pioneers!
+Lou looked after them helplessly.,-0.34,0.0,0.375,0.625,negative,O Pioneers!
+"""I wish I'd brought my gun, anyway, Alexandra,"" he said fretfully.",0.0772,0.191,0.17,0.638,positive,O Pioneers!
+"""I could have hidden it under the straw in the bottom of the wagon.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Then we'd have had to lie to Ivar.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Besides, they say he can smell dead birds.",-0.6486,0.0,0.381,0.619,negative,O Pioneers!
+"And if he knew, we wouldn't get anything out of him, not even a hammock.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"I want to talk to him, and he won't talk sense if he's angry.",-0.4588,0.083,0.212,0.705,negative,O Pioneers!
+"It makes him foolish.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Lou sniffed.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Whoever heard of him talking sense, anyhow!",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"I'd rather have ducks for supper than Crazy Ivar's tongue.""",-0.34,0.0,0.211,0.789,negative,O Pioneers!
+Emil was alarmed.,-0.34,0.0,0.545,0.455,negative,O Pioneers!
+"""Oh, but, Lou, you don't want to make him mad!",-0.7118,0.0,0.425,0.575,negative,O Pioneers!
+"He might howl!""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"They all laughed again, and Oscar urged the horses up the crumbling side of a clay bank.",0.4588,0.167,0.0,0.833,positive,O Pioneers!
+They had left the lagoons and the red grass behind them.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"In Crazy Ivar's country the grass was short and gray, the draws deeper than they were in the Bergsons' neighborhood, and the land was all broken up into hillocks and clay ridges.",-0.6705,0.0,0.155,0.845,negative,O Pioneers!
+"The wild flowers disappeared, and only in the bottom of the draws and gullies grew a few of the very toughest and hardiest: shoestring, and ironweed, and snow-on-the-mountain.",-0.3597,0.0,0.123,0.877,negative,O Pioneers!
+"""Look, look, Emil, there's Ivar's big pond!""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Alexandra pointed to a shining sheet of water that lay at the bottom of a shallow draw.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"At one end of the pond was an earthen dam, planted with green willow bushes, and above it a door and a single window were set into the hillside.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+You would not have seen them at all but for the reflection of the sunlight upon the four panes of window-glass.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+And that was all you saw.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Not a shed, not a corral, not a well, not even a path broken in the curly grass.",0.4865,0.257,0.0,0.743,positive,O Pioneers!
+"But for the piece of rusty stovepipe sticking up through the sod, you could have walked over the roof of Ivar's dwelling without dreaming that you were near a human habitation.",0.0387,0.038,0.0,0.962,neutral,O Pioneers!
+"Ivar had lived for three years in the clay bank, without defiling the face of nature any more than the coyote that had lived there before him had done.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"When the Bergsons drove over the hill, Ivar was sitting in the doorway of his house, reading the Norwegian Bible.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He was a queerly shaped old man, with a thick, powerful body set on short bow-legs.",0.4215,0.177,0.0,0.823,positive,O Pioneers!
+"His shaggy white hair, falling in a thick mane about his ruddy cheeks, made him look older than he was.",-0.1531,0.0,0.082,0.918,negative,O Pioneers!
+"He was barefoot, but he wore a clean shirt of unbleached cotton, open at the neck.",0.5499,0.202,0.0,0.798,positive,O Pioneers!
+"He always put on a clean shirt when Sunday morning came round, though he never went to church.",0.4019,0.144,0.0,0.856,positive,O Pioneers!
+He had a peculiar religion of his own and could not get on with any of the denominations.,0.1531,0.091,0.0,0.909,positive,O Pioneers!
+Often he did not see anybody from one week's end to another.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He kept a calendar, and every morning he checked off a day, so that he was never in any doubt as to which day of the week it was.",0.2755,0.075,0.0,0.925,positive,O Pioneers!
+"Ivar hired himself out in threshing and corn-husking time, and he doctored sick animals when he was sent for.",-0.5106,0.0,0.155,0.845,negative,O Pioneers!
+"When he was at home, he made hammocks out of twine and committed chapters of the Bible to memory.",0.2732,0.104,0.0,0.896,positive,O Pioneers!
+Ivar found contentment in the solitude he had sought out for himself.,0.3612,0.185,0.0,0.815,positive,O Pioneers!
+"He disliked the litter of human dwellings: the broken food, the bits of broken china, the old wash-boilers and tea-kettles thrown into the sunflower patch.",-0.836,0.0,0.288,0.712,negative,O Pioneers!
+He preferred the cleanness and tidiness of the wild sod.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He always said that the badgers had cleaner houses than people, and that when he took a housekeeper her name would be Mrs. Badger.",0.1779,0.072,0.0,0.928,positive,O Pioneers!
+He best expressed his preference for his wild homestead by saying that his Bible seemed truer to him there.,0.7717,0.283,0.0,0.717,positive,O Pioneers!
+"If one stood in the doorway of his cave, and looked off at the rough land, the smiling sky, the curly grass white in the hot sunlight; if one listened to the rapturous song of the lark, the drumming of the quail, the burr of the locust against that vast silence, one understood what Ivar meant.",0.6908,0.095,0.0,0.905,positive,O Pioneers!
+On this Sunday afternoon his face shone with happiness.,0.5574,0.31,0.0,0.69,positive,O Pioneers!
+"He closed the book on his knee, keeping the place with his horny finger, and repeated softly:-- He sendeth the springs into the valleys, which run among the hills; They give drink to every beast of the field; the wild asses quench their thirst.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The trees of the Lord are full of sap; the cedars of Lebanon which he hath planted; Where the birds make their nests: as for the stork, the fir trees are her house.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+The high hills are a refuge for the wild goats; and the rocks for the conies.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Before he opened his Bible again, Ivar heard the Bergsons' wagon approaching, and he sprang up and ran toward it.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""No guns, no guns!""",-0.5707,0.0,0.701,0.299,negative,O Pioneers!
+"he shouted, waving his arms distractedly.",-0.2263,0.0,0.275,0.725,negative,O Pioneers!
+"""No, Ivar, no guns,"" Alexandra called reassuringly.",0.1531,0.28,0.22,0.5,positive,O Pioneers!
+"He dropped his arms and went up to the wagon, smiling amiably and looking at them out of his pale blue eyes.",0.4588,0.125,0.0,0.875,positive,O Pioneers!
+"""We want to buy a hammock, if you have one,"" Alexandra explained, ""and my little brother, here, wants to see your big pond, where so many birds come.""",0.0772,0.048,0.0,0.952,positive,O Pioneers!
+"Ivar smiled foolishly, and began rubbing the horses' noses and feeling about their mouths behind the bits.",0.296,0.229,0.128,0.642,positive,O Pioneers!
+"""Not many birds just now.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+A few ducks this morning; and some snipe come to drink.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+But there was a crane last week.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+She spent one night and came back the next evening.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+I don't know why.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"It is not her season, of course.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Many of them go over in the fall.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Then the pond is full of strange voices every night.""",-0.2023,0.0,0.167,0.833,negative,O Pioneers!
+"Alexandra translated for Carl, who looked thoughtful.",0.3818,0.302,0.0,0.698,positive,O Pioneers!
+"""Ask him, Alexandra, if it is true that a sea gull came here once.",0.4215,0.189,0.0,0.811,positive,O Pioneers!
+"I have heard so.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+She had some difficulty in making the old man understand.,-0.34,0.0,0.211,0.789,negative,O Pioneers!
+"He looked puzzled at first, then smote his hands together as he remembered.",-0.1779,0.0,0.124,0.876,negative,O Pioneers!
+"""Oh, yes, yes!",0.69,0.851,0.0,0.149,positive,O Pioneers!
+A big white bird with long wings and pink feet.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+My!,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+what a voice she had!,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+She came in the afternoon and kept flying about the pond and screaming until dark.,-0.3818,0.0,0.157,0.843,negative,O Pioneers!
+"She was in trouble of some sort, but I could not understand her.",-0.2144,0.0,0.144,0.856,negative,O Pioneers!
+"She was going over to the other ocean, maybe, and did not know how far it was.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+She was afraid of never getting there.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+She was more mournful than our birds here; she cried in the night.,-0.6697,0.0,0.333,0.667,negative,O Pioneers!
+She saw the light from my window and darted up to it.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Maybe she thought my house was a boat, she was such a wild thing.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Next morning, when the sun rose, I went out to take her food, but she flew up into the sky and went on her way.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Ivar ran his fingers through his thick hair.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""I have many strange birds stop with me here.",-0.4588,0.0,0.364,0.636,negative,O Pioneers!
+They come from very far away and are great company.,0.6249,0.313,0.0,0.687,positive,O Pioneers!
+"I hope you boys never shoot wild birds?""",0.6041,0.497,0.0,0.503,positive,O Pioneers!
+"Lou and Oscar grinned, and Ivar shook his bushy head.",0.1779,0.183,0.122,0.696,positive,O Pioneers!
+"""Yes, I know boys are thoughtless.",-0.4588,0.0,0.429,0.571,negative,O Pioneers!
+But these wild things are God's birds.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He watches over them and counts them, as we do our cattle; Christ says so in the New Testament.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Now, Ivar,"" Lou asked, ""may we water our horses at your pond and give them some feed?",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"It's a bad road to your place.""",-0.5423,0.0,0.412,0.588,negative,O Pioneers!
+"""Yes, yes, it is.""",0.4019,0.474,0.0,0.526,positive,O Pioneers!
+The old man scrambled about and began to loose the tugs.,-0.3182,0.0,0.187,0.813,negative,O Pioneers!
+"""A bad road, eh, girls?",-0.5423,0.0,0.467,0.533,negative,O Pioneers!
+"And the bay with a colt at home!""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Oscar brushed the old man aside.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""We'll take care of the horses, Ivar.",0.4939,0.348,0.0,0.652,positive,O Pioneers!
+You'll be finding some disease on them.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Alexandra wants to see your hammocks.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Ivar led Alexandra and Emil to his little cave house.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"He had but one room, neatly plastered and whitewashed, and there was a wooden floor.",0.4767,0.193,0.0,0.807,positive,O Pioneers!
+"There was a kitchen stove, a table covered with oilcloth, two chairs, a clock, a calendar, a few books on the window-shelf; nothing more.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+But the place was as clean as a cupboard.,0.5499,0.336,0.0,0.664,positive,O Pioneers!
+"""But where do you sleep, Ivar?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Emil asked, looking about.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Ivar unslung a hammock from a hook on the wall; in it was rolled a buffalo robe.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""There, my son.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"A hammock is a good bed, and in winter I wrap up in this skin.",0.4404,0.209,0.0,0.791,positive,O Pioneers!
+"Where I go to work, the beds are not half so easy as this.""",0.5777,0.238,0.0,0.762,positive,O Pioneers!
+By this time Emil had lost all his timidity.,-0.5574,0.0,0.397,0.603,negative,O Pioneers!
+He thought a cave a very superior kind of house.,0.5849,0.351,0.0,0.649,positive,O Pioneers!
+There was something pleasantly unusual about it and about Ivar.,0.4767,0.256,0.0,0.744,positive,O Pioneers!
+"""Do the birds know you will be kind to them, Ivar?",0.5267,0.254,0.0,0.746,positive,O Pioneers!
+"Is that why so many come?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+he asked.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Ivar sat down on the floor and tucked his feet under him.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""See, little brother, they have come from a long way, and they are very tired.",-0.4927,0.0,0.197,0.803,negative,O Pioneers!
+"From up there where they are flying, our country looks dark and flat.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+They must have water to drink and to bathe in before they can go on with their journey.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"They look this way and that, and far below them they see something shining, like a piece of glass set in the dark earth.",0.3612,0.102,0.0,0.898,positive,O Pioneers!
+That is my pond.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+They come to it and are not disturbed.,0.2924,0.238,0.0,0.762,positive,O Pioneers!
+Maybe I sprinkle a little corn.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"They tell the other birds, and next year more come this way.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"They have their roads up there, as we have down here.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Emil rubbed his knees thoughtfully.,0.4019,0.403,0.0,0.597,positive,O Pioneers!
+"""And is that true, Ivar, about the head ducks falling back when they are tired, and the hind ones taking their place?""",-0.1779,0.106,0.171,0.722,negative,O Pioneers!
+"""Yes.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+The point of the wedge gets the worst of it; they cut the wind.,-0.7351,0.0,0.341,0.659,negative,O Pioneers!
+"They can only stand it there a little while--half an hour, maybe.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Then they fall back and the wedge splits a little, while the rear ones come up the middle to the front.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Then it closes up and they fly on, with a new edge.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"They are always changing like that, up in the air.",0.3612,0.217,0.0,0.783,positive,O Pioneers!
+"Never any confusion; just like soldiers who have been drilled.""",0.5248,0.354,0.0,0.646,positive,O Pioneers!
+Alexandra had selected her hammock by the time the boys came up from the pond.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"They would not come in, but sat in the shade of the bank outside while Alexandra and Ivar talked about the birds and about his housekeeping, and why he never ate meat, fresh or salt.",-0.3491,0.0,0.067,0.933,negative,O Pioneers!
+"Alexandra was sitting on one of the wooden chairs, her arms resting on the table.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Ivar was sitting on the floor at her feet.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Ivar,"" she said suddenly, beginning to trace the pattern on the oilcloth with her forefinger, ""I came to-day more because I wanted to talk to you than because I wanted to buy a hammock.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Yes?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+The old man scraped his bare feet on the plank floor.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""We have a big bunch of hogs, Ivar.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"I wouldn't sell in the spring, when everybody advised me to, and now so many people are losing their hogs that I am frightened.",-0.6705,0.0,0.216,0.784,negative,O Pioneers!
+"What can be done?""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Ivar's little eyes began to shine.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+They lost their vagueness.,-0.3182,0.0,0.434,0.566,negative,O Pioneers!
+"""You feed them swill and such stuff?",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Of course!,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+And sour milk?,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Oh, yes!",0.4574,0.749,0.0,0.251,positive,O Pioneers!
+And keep them in a stinking pen?,-0.5267,0.0,0.405,0.595,negative,O Pioneers!
+"I tell you, sister, the hogs of this country are put upon!",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"They become unclean, like the hogs in the Bible.",0.3612,0.238,0.0,0.762,positive,O Pioneers!
+"If you kept your chickens like that, what would happen?",0.3612,0.217,0.0,0.783,positive,O Pioneers!
+"You have a little sorghum patch, maybe?",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Put a fence around it, and turn the hogs in.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Build a shed to give them shade, a thatch on poles.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Let the boys haul water to them in barrels, clean water, and plenty.",0.4019,0.184,0.0,0.816,positive,O Pioneers!
+"Get them off the old stinking ground, and do not let them go back there until winter.",-0.5267,0.0,0.175,0.825,negative,O Pioneers!
+"Give them only grain and clean feed, such as you would give horses or cattle.",0.4019,0.162,0.0,0.838,positive,O Pioneers!
+"Hogs do not like to be filthy.""",-0.2755,0.0,0.26,0.74,negative,O Pioneers!
+The boys outside the door had been listening.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Lou nudged his brother.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"""Come, the horses are done eating.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Let's hitch up and get out of here.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+He'll fill her full of notions.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"She'll be for having the pigs sleep with us, next.""",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+Oscar grunted and got up.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Carl, who could not understand what Ivar said, saw that the two boys were displeased.",-0.4404,0.0,0.172,0.828,negative,O Pioneers!
+"They did not mind hard work, but they hated experiments and could never see the use of taking pains.",-0.8847,0.043,0.356,0.6,negative,O Pioneers!
+"Even Lou, who was more elastic than his older brother, disliked to do anything different from their neighbors.",-0.4019,0.0,0.137,0.863,negative,O Pioneers!
+He felt that it made them conspicuous and gave people a chance to talk about them.,0.25,0.125,0.0,0.875,positive,O Pioneers!
+"Once they were on the homeward road, the boys forgot their ill-humor and joked about Ivar and his birds.",0.3182,0.113,0.0,0.887,positive,O Pioneers!
+"Alexandra did not propose any reforms in the care of the pigs, and they hoped she had forgotten Ivar's talk.",0.5994,0.235,0.077,0.688,positive,O Pioneers!
+"They agreed that he was crazier than ever, and would never be able to prove up on his land because he worked it so little.",0.25,0.08,0.042,0.878,positive,O Pioneers!
+Alexandra privately resolved that she would have a talk with Ivar about this and stir him up.,0.1779,0.102,0.0,0.898,positive,O Pioneers!
+The boys persuaded Carl to stay for supper and go swimming in the pasture pond after dark.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"That evening, after she had washed the supper dishes, Alexandra sat down on the kitchen doorstep, while her mother was mixing the bread.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"It was a still, deep-breathing summer night, full of the smell of the hay fields.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"Sounds of laughter and splashing came up from the pasture, and when the moon rose rapidly above the bare rim of the prairie, the pond glittered like polished metal, and she could see the flash of white bodies as the boys ran about the edge, or jumped into the water.",0.6908,0.106,0.0,0.894,positive,O Pioneers!
+"Alexandra watched the shimmering pool dreamily, but eventually her eyes went back to the sorghum patch south of the barn, where she was planning to make her new pig corral.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"IV For the first three years after John Bergson's death, the affairs of his family prospered.",-0.5994,0.0,0.206,0.794,negative,O Pioneers!
+"Then came the hard times that brought every one on the Divide to the brink of despair; three years of drouth and failure, the last struggle of a wild soil against the encroaching plowshare.",-0.8074,0.0,0.243,0.757,negative,O Pioneers!
+The first of these fruitless summers the Bergson boys bore courageously.,0.3182,0.231,0.14,0.629,positive,O Pioneers!
+The failure of the corn crop made labor cheap.,-0.5106,0.0,0.292,0.708,negative,O Pioneers!
+Lou and Oscar hired two men and put in bigger crops than ever before.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+They lost everything they spent.,-0.3182,0.0,0.365,0.635,negative,O Pioneers!
+The whole country was discouraged.,-0.4019,0.0,0.403,0.597,negative,O Pioneers!
+Farmers who were already in debt had to give up their land.,-0.3612,0.0,0.185,0.815,negative,O Pioneers!
+A few foreclosures demoralized the county.,-0.7184,0.0,0.667,0.333,negative,O Pioneers!
+"The settlers sat about on the wooden sidewalks in the little town and told each other that the country was never meant for men to live in; the thing to do was to get back to Iowa, to Illinois, to any place that had been proved habitable.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"The Bergson boys, certainly, would have been happier with their uncle Otto, in the bakery shop in Chicago.",0.7003,0.266,0.0,0.734,positive,O Pioneers!
+"Like most of their neighbors, they were meant to follow in paths already marked out for them, not to break trails in a new country.",0.3612,0.098,0.0,0.902,positive,O Pioneers!
+"A steady job, a few holidays, nothing to think about, and they would have been very happy.",0.7645,0.336,0.0,0.664,positive,O Pioneers!
+It was no fault of theirs that they had been dragged into the wilderness when they were little boys.,-0.6249,0.0,0.276,0.724,negative,O Pioneers!
+"A pioneer should have imagination, should be able to enjoy the idea of things more than the things themselves.",0.4939,0.158,0.0,0.842,positive,O Pioneers!
+The second of these barren summers was passing.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+One September afternoon Alexandra had gone over to the garden across the draw to dig sweet potatoes--they had been thriving upon the weather that was fatal to everything else.,-0.128,0.09,0.104,0.806,negative,O Pioneers!
+"But when Carl Linstrum came up the garden rows to find her, she was not working.",0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"She was standing lost in thought, leaning upon her pitchfork, her sunbonnet lying beside her on the ground.",-0.6908,0.0,0.263,0.737,negative,O Pioneers!
+The dry garden patch smelled of drying vines and was strewn with yellow seed-cucumbers and pumpkins and citrons.,0.0,0.0,0.0,1.0,neutral,O Pioneers!
+"At one end,",0.0,0.0,0.0,1.0,neutral,O Pioneers!

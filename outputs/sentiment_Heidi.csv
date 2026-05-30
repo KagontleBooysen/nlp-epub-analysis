@@ -1,0 +1,391 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Heidi This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Heidi
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Heidi
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Heidi
+"Title : Heidi Author : Johanna Spyri Translator : Marion Edwards Release date : September 1, 1998 [eBook #1448] Most recently updated: December 31, 2020 Language : English Other information and formats : www.gutenberg.org/ebooks/1448 *** START OF THE PROJECT GUTENBERG EBOOK HEIDI *** HEIDI by JOHANNA SPYRI CONTENTS I Up the Mountain to Alm-Uncle II At Home with Grandfather III Out with the Goats IV The Visit to Grandmother V Two Visits and What Came of Them VI A New Chapter about New Things VII Fraulein Rottenmeier Spends an Uncomfortable Day VIII There is Great Commotion in the Large House IX Herr Sesemann Hears of Things that are New to Him X Another Grandmother XI Heidi Gains in One Way and Loses in Another XII A Ghost in the House XIII A Summer Evening on the Mountain XIV Sunday Bells XV Preparations for a journey XVI A Visitor XVII A Compensation XVIII Winter in Dorfli XIX The Winter Continues XX News from Distant Friends XXI How Life went on at Grandfather's XXII Something Unexpected Happens XXIII ""Good-bye Till We Meet Again"" INTRODUCTION ""Heidi"" is a delightful story for children of life in the Alps, one of many tales written by the Swiss authoress, Johanna Spyri, who died in her home at Zurich in 1891.",0.5574,0.063,0.05,0.887,positive,Heidi
+"She had been well known to the younger readers of her own country since 1880, when she published her story, Heimathlos, which ran into three or more editions, and which, like her other books, as she states on the title page, was written for those who love children, as well as for the youngsters themselves.",0.872,0.176,0.0,0.824,positive,Heidi
+Her own sympathy with the instincts and longings of the child's heart is shown in her picture of Heidi.,0.4404,0.187,0.0,0.813,positive,Heidi
+The record of the early life of this Swiss child amid the beauties of her passionately loved mountain-home and during her exile in the great town has been for many years a favorite book of younger readers in Germany and America.,0.9571,0.337,0.0,0.663,positive,Heidi
+"Madame Spyri, like Hans Andersen, had by temperament a peculiar skill in writing the simple histories of an innocent world.",0.6705,0.289,0.0,0.711,positive,Heidi
+In all her stories she shows an underlying desire to preserve children alike from misunderstanding and the mistaken kindness that frequently hinder the happiness and natural development of their lives and characters.,0.7579,0.274,0.123,0.603,positive,Heidi
+"The authoress, as we feel in reading her tales, lived among the scenes and people she describes, and the setting of her stories has the charm of the mountain scenery amid which she places her small actors.",0.4019,0.07,0.0,0.93,positive,Heidi
+"Her chief works, besides Heidi, were:-- Am Sonntag; Arthur und Squirrel; Aus dem Leben; Aus den Schweizer Bergen; Aus Nah und Fern; Aus unserem, Lande; Cornelli wird erzogen; Einer vom Hause Lesa; 10 Geschichten fur Yung und Alt; Kurze Geschichten, 2 vols.",-0.1027,0.0,0.034,0.966,negative,Heidi
+"; Gritli's Kinder, 2 vols.",0.4939,0.615,0.0,0.385,positive,Heidi
+"; Heimathlos; Im Tilonethal; In Leuchtensa; Keiner zu Klein Helfer zu sein; Onkel Titus; Schloss Wildenstein; Sina; Ein Goldener Spruch; Die Hauffer Muhle; Verschollen, nicht vergessen; Was soll deim aus ihr werden; Was aus ihr Geworden ist.",-0.5994,0.0,0.1,0.9,negative,Heidi
+M.E.,0.0,0.0,0.0,1.0,neutral,Heidi
+HEIDI CHAPTER I.,0.0,0.0,0.0,1.0,neutral,Heidi
+"UP THE MOUNTAIN TO ALM-UNCLE From the old and pleasantly situated village of Mayenfeld, a footpath winds through green and shady meadows to the foot of the mountains, which on this side look down from their stern and lofty heights upon the valley below.",0.4767,0.069,0.0,0.931,positive,Heidi
+"The land grows gradually wilder as the path ascends, and the climber has not gone far before he begins to inhale the fragrance of the short grass and sturdy mountain-plants, for the way is steep and leads directly up to the summits above.",0.0,0.0,0.0,1.0,neutral,Heidi
+"On a clear sunny morning in June two figures might be seen climbing the narrow mountain path; one, a tall strong-looking girl, the other a child whom she was leading by the hand, and whose little checks were so aglow with heat that the crimson color could be seen even through the dark, sunburnt skin.",0.8225,0.149,0.0,0.851,positive,Heidi
+"And this was hardly to be wondered at, for in spite of the hot June sun the child was clothed as if to keep off the bitterest frost.",-0.7717,0.0,0.205,0.795,negative,Heidi
+"She did not look more than five years old, if as much, but what her natural figure was like, it would have been hard to say, for she had apparently two, if not three dresses, one above the other, and over these a thick red woollen shawl wound round about her, so that the little body presented a shapeless appearance, as, with its small feet shod in thick, nailed mountain-shoes, it slowly and laboriously plodded its way up in the heat.",0.7096,0.077,0.019,0.904,positive,Heidi
+"The two must have left the valley a good hour's walk behind them, when they came to the hamlet known as Dorfli, which is situated half-way up the mountain.",0.4404,0.097,0.0,0.903,positive,Heidi
+"Here the wayfarers met with greetings from all sides, some calling to them from windows, some from open doors, others from outside, for the elder girl was now in her old home.",0.4215,0.083,0.0,0.917,positive,Heidi
+"She did not, however, pause in her walk to respond to her friends' welcoming cries and questions, but passed on without stopping for a moment until she reached the last of the scattered houses of the hamlet.",0.5293,0.181,0.046,0.773,positive,Heidi
+"Here a voice called to her from the door: ""Wait a moment, Dete; if you are going up higher, I will come with you.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"The girl thus addressed stood still, and the child immediately let go her hand and seated herself on the ground.",0.4939,0.144,0.0,0.856,positive,Heidi
+"""Are you tired, Heidi?""",-0.4404,0.0,0.492,0.508,negative,Heidi
+asked her companion.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""No, I am hot,"" answered the child.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""We shall soon get to the top now.",0.2023,0.205,0.0,0.795,positive,Heidi
+"You must walk bravely on a little longer, and take good long steps, and in another hour we shall be there,"" said Dete in an encouraging voice.",0.8625,0.294,0.0,0.706,positive,Heidi
+"They were now joined by a stout, good-natured-looking woman, who walked on ahead with her old acquaintance, the two breaking forth at once into lively conversation about everybody and everything in Dorfli and its surroundings, while the child wandered behind them.",0.5574,0.108,0.0,0.892,positive,Heidi
+"""And where are you off to with the child?""",0.0,0.0,0.0,1.0,neutral,Heidi
+asked the one who had just joined the party.,0.4019,0.252,0.0,0.748,positive,Heidi
+"""I suppose it is the child your sister left?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""Yes,"" answered Dete.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""I am taking her up to Uncle, where she must stay.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""The child stay up there with Alm-Uncle!",0.0,0.0,0.0,1.0,neutral,Heidi
+"You must be out of your senses, Dete!",0.0,0.0,0.0,1.0,neutral,Heidi
+How can you think of such a thing!,0.0,0.0,0.0,1.0,neutral,Heidi
+"The old man, however, will soon send you and your proposal packing off home again!""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""He cannot very well do that, seeing that he is her grandfather.",-0.2572,0.0,0.156,0.844,negative,Heidi
+He must do something for her.,0.0,0.0,0.0,1.0,neutral,Heidi
+"I have had the charge of the child till now, and I can tell you, Barbel, I am not going to give up the chance which has just fallen to me of getting a good place, for her sake.",0.34,0.124,0.063,0.812,positive,Heidi
+"It is for the grandfather now to do his duty by her.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""That would be all very well if he were like other people,"" asseverated stout Barbel warmly, ""but you know what he is.",0.5642,0.27,0.0,0.73,positive,Heidi
+"And what can he do with a child, especially with one so young!",0.0,0.0,0.0,1.0,neutral,Heidi
+The child cannot possibly live with him.,0.0,0.0,0.0,1.0,neutral,Heidi
+"But where are you thinking of going yourself?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""To Frankfurt, where an extra good place awaits me,"" answered Dete.",0.4939,0.318,0.0,0.682,positive,Heidi
+"""The people I am going to were down at the Baths last summer, and it was part of my duty to attend upon their rooms.",0.0,0.0,0.0,1.0,neutral,Heidi
+"They would have liked then to take me away with them, but I could not leave.",0.2783,0.194,0.0,0.806,positive,Heidi
+"Now they are there again and have repeated their offer, and I intend to go with them, you may make up your mind to that!""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""I am glad I am not the child!""",0.5093,0.354,0.0,0.646,positive,Heidi
+"exclaimed Barbel, with a gesture of horrified pity.",-0.6908,0.0,0.533,0.467,negative,Heidi
+"""Not a creature knows anything about the old man up there!",0.0,0.0,0.0,1.0,neutral,Heidi
+"He will have nothing to do with anybody, and never sets his foot inside a church from one year's end to another.",0.0,0.0,0.0,1.0,neutral,Heidi
+"When he does come down once in a while, everybody clears out of the way of him and his big stick.",0.0772,0.064,0.0,0.936,positive,Heidi
+"The mere sight of him, with his bushy grey eyebrows and his immense beard, is alarming enough.",-0.0772,0.068,0.085,0.847,negative,Heidi
+"He looks like any old heathen or Indian, and few would care to meet him alone.""",0.6908,0.289,0.0,0.711,positive,Heidi
+"""Well, and what of that?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"said Dete, in a defiant voice, ""he is the grandfather all the same, and must look after the child.",-0.2263,0.0,0.101,0.899,negative,Heidi
+"He is not likely to do her any harm, and if he does, he will be answerable for it, not I.""",-0.5423,0.0,0.149,0.851,negative,Heidi
+"""I should very much like to know,"" continued Barbel, in an inquiring tone of voice, ""what the old man has on his conscience that he looks as he does, and lives up there on the mountain like a hermit, hardly ever allowing himself to be seen.",0.6764,0.114,0.0,0.886,positive,Heidi
+All kinds of things are said about him.,0.0,0.0,0.0,1.0,neutral,Heidi
+"You, Dete, however, must certainly have learnt a good deal concerning him from your sister--am I not right?""",0.6486,0.275,0.0,0.725,positive,Heidi
+"""You are right, I did, but I am not going to repeat what I heard; if it should come to his ears I should get into trouble about it.""",-0.5499,0.0,0.129,0.871,negative,Heidi
+"Now Barbel had for long past been most anxious to ascertain particulars about Alm-Uncle, as she could not understand why he seemed to feel such hatred towards his fellow-creatures, and insisted on living all alone, or why people spoke about him half in whispers, as if afraid to say anything against him, and yet unwilling to take his Part.",-0.8173,0.0,0.132,0.868,negative,Heidi
+"Moreover, Barbel was in ignorance as to why all the people in Dorfli called him Alm-Uncle, for he could not possibly be uncle to everybody living there.",-0.3612,0.0,0.088,0.912,negative,Heidi
+"As, however, it was the custom, she did like the rest and called the old man Uncle.",0.3612,0.135,0.0,0.865,positive,Heidi
+"Barbel had only lived in Dorfli since her marriage, which had taken place not long before.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Previous to that her home had been below in Prattigau, so that she was not well acquainted with all the events that had ever taken place, and with all the people who had ever lived in Dorfli and its neighborhood.",-0.2057,0.0,0.044,0.956,negative,Heidi
+"Dete, on the contrary, had been born in Dorfli, and had lived there with her mother until the death of the latter the year before, and had then gone over to the Baths at Ragatz and taken service in the large hotel there as chambermaid.",-0.5994,0.0,0.081,0.919,negative,Heidi
+"On the morning of this day she had come all the way from Ragatz with the child, a friend having given them a lift in a hay-cart as far as Mayenfeld.",0.4939,0.106,0.0,0.894,positive,Heidi
+Barbel was therefore determined not to lose this good opportunity of satisfying her curiosity.,0.9158,0.606,0.0,0.394,positive,Heidi
+"She put her arm through Dete's in a confidential sort of way, and said: ""I know I can find out the real truth from you, and the meaning of all these tales that are afloat about him.",0.3182,0.063,0.0,0.937,positive,Heidi
+I believe you know the whole story.,0.0,0.0,0.0,1.0,neutral,Heidi
+"Now do just tell me what is wrong with the old man, and if he was always shunned as he is now, and was always such a misanthrope.""",-0.4767,0.0,0.107,0.893,negative,Heidi
+"""How can I possibly tell you whether he was always the same, seeing I am only six-and-twenty and he at least seventy years of age; so you can hardly expect me to know much about his youth.",0.0,0.0,0.0,1.0,neutral,Heidi
+"If I was sure, however, that what I tell you would not go the whole round of Prattigau, I could relate all kinds of things about him; my mother came from Domleschg, and so did he.""",0.3182,0.067,0.0,0.933,positive,Heidi
+"""Nonsense, Dete, what do you mean?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"replied Barbel, somewhat offended, ""gossip has not reached such a dreadful pitch in Prattigau as all that, and I am also quite capable of holding my tongue when it is necessary.""",0.4356,0.157,0.131,0.712,positive,Heidi
+"""Very well then, I will tell you--but just wait a moment,"" said Dete in a warning voice, and she looked back to make sure that the child was not near enough to hear all she was going to relate; but the child was nowhere to be seen, and must have turned aside from following her companions some time before, while these were too eagerly occupied with their conversation to notice it.",0.6183,0.093,0.023,0.883,positive,Heidi
+Dete stood still and looked around her in all directions.,0.0,0.0,0.0,1.0,neutral,Heidi
+"The footpath wound a little here and there, but could nevertheless be seen along its whole length nearly to Dorfli; no one, however, was visible upon it at this moment.",-0.4215,0.0,0.091,0.909,negative,Heidi
+"""I see where she is,"" exclaimed Barbel, ""look over there!""",0.0,0.0,0.0,1.0,neutral,Heidi
+and she pointed to a spot far away from the footpath.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""She is climbing up the slope yonder with the goatherd and his goats.",0.0,0.0,0.0,1.0,neutral,Heidi
+I wonder why he is so late to-day bringing them up.,0.0,0.0,0.0,1.0,neutral,Heidi
+"It happens well, however, for us, for he can now see after the child, and you can the better tell me your tale.""",0.6124,0.192,0.0,0.808,positive,Heidi
+"""Oh, as to the looking after,"" remarked Dete, ""the boy need not put himself out about that; she is not by any means stupid for her five years, and knows how to use her eyes.",-0.5267,0.0,0.091,0.909,negative,Heidi
+"She notices all that is going on, as I have often had occasion to remark, and this will stand her in good stead some day, for the old man has nothing beyond his two goats and his hut.""",0.4404,0.075,0.0,0.925,positive,Heidi
+"""Did he ever have more?""",0.0,0.0,0.0,1.0,neutral,Heidi
+asked Barbel.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""He?",0.0,0.0,0.0,1.0,neutral,Heidi
+"I should think so indeed,"" replied Dete with animation; ""he was owner once of one of the largest farms in Domleschg.",0.0,0.0,0.0,1.0,neutral,Heidi
+"He was the elder of two brothers; the younger was a quiet, orderly man, but nothing would please the other but to play the grand gentleman and go driving about the country and mixing with bad company, strangers that nobody knew.",-0.024,0.141,0.143,0.716,neutral,Heidi
+"He drank and gambled away the whole of his property, and when this became known to his mother and father they died, one shortly after the other, of sorrow.",-0.7906,0.0,0.206,0.794,negative,Heidi
+"The younger brother, who was also reduced to beggary, went off in his anger, no one knew whither, while Uncle himself, having nothing now left to him but his bad name, also disappeared.",-0.8765,0.0,0.276,0.724,negative,Heidi
+"For some time his whereabouts were unknown, then some one found out that he had gone to Naples as a soldier; after that nothing more was heard of him for twelve or fifteen years.",0.0,0.0,0.0,1.0,neutral,Heidi
+"At the end of that time he reappeared in Domleschg, bringing with him a young child, whom he tried to place with some of his kinspeople.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Every door, however, was shut in his face, for no one wished to have any more to do with him.",-0.296,0.0,0.104,0.896,negative,Heidi
+"Embittered by this treatment, he vowed never to set foot in Domleschg again, and he then came to Dorfli, where he continued to live with his little boy.",-0.1027,0.0,0.049,0.951,negative,Heidi
+"His wife was probably a native of the Grisons, whom he had met down there, and who died soon after their marriage.",-0.5574,0.0,0.153,0.847,negative,Heidi
+"He could not have been entirely without money, for he apprenticed his son, Tobias, to a carpenter.",0.0,0.0,0.0,1.0,neutral,Heidi
+"He was a steady lad, and kindly received by every one in Dorfli.",0.4939,0.225,0.0,0.775,positive,Heidi
+"The old man was, however, still looked upon with suspicion, and it was even rumoured that he had been forced to make his escape from Naples, or it might have gone badly with him, for that he had killed a man, not in fair fight, you understand, but in some brawl.",-0.7302,0.053,0.18,0.768,negative,Heidi
+"We, however, did not refuse to acknowledge our relationship with him, my great-grandmother on my mother's side having been sister to his grandmother.",0.2235,0.079,0.0,0.921,positive,Heidi
+"So we called him Uncle, and as through my father we are also related to nearly every family in Dorfli, he became known all over the place as Uncle, and since he went to live on the mountain side he has gone everywhere by the name of Alm-Uncle.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""And what happened to Tobias?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"asked Barbel, who was listening with deep interest.",0.4588,0.3,0.0,0.7,positive,Heidi
+"""Wait a moment, I am coming to that, but I cannot tell you everything at once,"" replied Dete.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""Tobias was taught his trade in Mels, and when he had served his apprenticeship he came back to Dorfli and married my sister Adelaide.",0.0,0.0,0.0,1.0,neutral,Heidi
+"They had always been fond of one another, and they got on very well together after they were married.",0.6478,0.237,0.0,0.763,positive,Heidi
+But their happiness did not last long.,0.7096,0.45,0.0,0.55,positive,Heidi
+"Her husband met with his death only two years after their marriage, a beam falling upon him as he was working, and killing him on the spot.",-0.872,0.0,0.301,0.699,negative,Heidi
+"They carried him home, and when Adelaide saw the poor disfigured body of her husband she was so overcome with horror and grief that she fell into a fever from which she never recovered.",-0.8824,0.0,0.255,0.745,negative,Heidi
+"She had always been rather delicate and subject to curious attacks, during which no one knew whether she was awake or sleeping.",-0.3818,0.132,0.192,0.677,negative,Heidi
+"And so two months after Tobias had been carried to the grave, his wife followed him.",-0.3818,0.0,0.148,0.852,negative,Heidi
+"Their sad fate was the talk of everybody far and near, and both in private and public the general opinion was expressed that it was a punishment which Uncle had deserved for the godless life he had led.",-0.743,0.0,0.153,0.847,negative,Heidi
+Some went so far even as to tell him so to his face.,0.0,0.0,0.0,1.0,neutral,Heidi
+"Our minister endeavored to awaken his conscience and exhorted him to repentance, but the old man grew only more wrathful and obdurate and would not speak to a soul, and every one did their best to keep out of his way.",0.0799,0.118,0.111,0.771,positive,Heidi
+"All at once we heard that he had gone to live up the Alm and did not intend ever to come down again, and since then he has led his solitary life on the mountain side at enmity with God and man.",0.2732,0.049,0.0,0.951,positive,Heidi
+"Mother and I took Adelaide's little one, then only a year old, into our care.",0.4939,0.211,0.0,0.789,positive,Heidi
+"When mother died last year, and I went down to the Baths to earn some money, I paid old Ursel, who lives in the village just above, to keep and look after the child.",-0.5574,0.0,0.104,0.896,negative,Heidi
+"I stayed on at the Baths through the winter, for as I could sew and knit I had no difficulty in finding plenty of work, and early in the spring the same family I had waited on before returned from Frankfurt, and again asked me to go back with them.",-0.5574,0.0,0.095,0.905,negative,Heidi
+"And so we leave the day after to-morrow, and I can assure you, it is an excellent place for me.""",0.683,0.259,0.063,0.679,positive,Heidi
+"""And you are going to give the child over to the old man up there?",0.0,0.0,0.0,1.0,neutral,Heidi
+"It surprises me beyond words that you can think of doing such a thing, Dete,"" said Barbel, in a voice full of reproach.",0.2263,0.087,0.0,0.913,positive,Heidi
+"""What do you mean?""",0.0,0.0,0.0,1.0,neutral,Heidi
+retorted Dete.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""I have done my duty by the child, and what would you have me do with it now?",0.0,0.0,0.0,1.0,neutral,Heidi
+I cannot certainly take a child of five years old with me to Frankfurt.,-0.2584,0.0,0.156,0.844,negative,Heidi
+"But where are you going to yourself, Barbel; we are now half way up the Alm?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""We have just reached the place I wanted,"" answered Barbel.",0.1027,0.149,0.0,0.851,positive,Heidi
+"""I had something to say to the goatherd's wife, who does some spinning for me in the winter.",0.0,0.0,0.0,1.0,neutral,Heidi
+"So good-bye, Dete, and good luck to you!""",0.7345,0.508,0.0,0.492,positive,Heidi
+"Dete shook hands with her friend and remained standing while Barbel went towards a small, dark brown hut, which stood a few steps away from the path in a hollow that afforded it some protection from the mountain wind.",0.4215,0.083,0.036,0.881,positive,Heidi
+"The hut was situated half way up the Alm, reckoning from Dorfli, and it was well that it was provided with some shelter, for it was so broken-down and dilapidated that even then it must have been very unsafe as a habitation, for when the stormy south wind came sweeping over the mountain, everything inside it, doors and windows, shook and rattled, and all the rotten old beams creaked and trembled.",-0.5719,0.028,0.091,0.881,negative,Heidi
+"On such days as this, had the goatherd's dwelling been standing above on the exposed mountain side, it could not have escaped being blown straight down into the valley without a moment's warning.",0.409,0.147,0.038,0.815,positive,Heidi
+"Here lived Peter, the eleven-year-old boy, who every morning went down to Dorfli to fetch his goats and drive them up on to the mountain, where they were free to browse till evening on the delicious mountain plants.",0.7906,0.163,0.0,0.837,positive,Heidi
+"Then Peter, with his light-footed animals, would go running and leaping down the mountain again till he reached Dorfli, and there he would give a shrill whistle through his fingers, whereupon all the owners of the goats would come out to fetch home the animals that belonged to them.",0.1027,0.029,0.0,0.971,positive,Heidi
+"It was generally the small boys and girls who ran in answer to Peter's whistle, for they were none of them afraid of the gentle goats, and this was the only hour of the day through all the summer months that Peter had any opportunity of seeing his young friends, since the rest of his time was spent alone with the goats.",0.7783,0.128,0.029,0.843,positive,Heidi
+"He had a mother and a blind grandmother at home, it is true, but he was always obliged to start off very early in the morning, and only got home late in the evening from Dorfli, for he always stayed as long as he could talking and playing with the other children; and so he had just time enough at home, and that was all, to swallow down his bread and milk in the morning, and again in the evening to get through a similar meal, lie down in bed and go to sleep.",0.3071,0.044,0.02,0.937,positive,Heidi
+"His father, who had been known also as the goatherd, having earned his living as such when younger, had been accidentally killed while cutting wood some years before.",-0.8126,0.0,0.251,0.749,negative,Heidi
+"His mother, whose real name was Brigitta, was always called the goatherd's wife, for the sake of old association, while the blind grandmother was just ""grandmother"" to all the old and young in the neighborhood.",-0.4019,0.0,0.074,0.926,negative,Heidi
+Dete had been standing for a good ten minutes looking about her in every direction for some sign of the children and the goats.,0.4404,0.116,0.0,0.884,positive,Heidi
+"Not a glimpse of them, however, was to be seen, so she climbed to a higher spot, whence she could get a fuller view of the mountain as it sloped beneath her to the valley, while, with ever-increasing anxiety on her face and in her movements, she continued to scan the surrounding slopes.",-0.1779,0.0,0.034,0.966,negative,Heidi
+"Meanwhile the children were climbing up by a far and roundabout way, for Peter knew many spots where all kinds of good food, in the shape of shrubs and plants, grew for his goats, and he was in the habit of leading his flock aside from the beaten track.",0.0258,0.056,0.054,0.89,neutral,Heidi
+"The child, exhausted with the heat and weight of her thick armor of clothes, panted and struggled after him at first with some difficulty.",-0.743,0.0,0.258,0.742,negative,Heidi
+"She said nothing, but her little eyes kept watching first Peter, as he sprang nimbly hither and thither on his bare feet, clad only in his short light breeches, and then the slim-legged goats that went leaping over rocks and shrubs and up the steep ascents with even greater ease.",0.7579,0.119,0.0,0.881,positive,Heidi
+"All at once she sat herself down on the ground, and as fast as her little fingers could move, began pulling off her shoes and stockings.",0.0,0.0,0.0,1.0,neutral,Heidi
+"This done she rose, unwound the hot red shawl and threw it away, and then proceeded to undo her frock.",0.0,0.0,0.0,1.0,neutral,Heidi
+"It was off in a second, but there was still another to unfasten, for Dete had put the Sunday frock on over the everyday one, to save the trouble of carrying it.",0.1901,0.117,0.096,0.787,positive,Heidi
+"Quick as lightning the everyday frock followed the other, and now the child stood up, clad only in her light short-sleeved under garment, stretching out her little bare arms with glee.",0.6369,0.123,0.0,0.877,positive,Heidi
+"She put all her clothes together in a tidy little heap, and then went jumping and climbing up after Peter and the goats as nimbly as any one of the party.",0.4019,0.085,0.0,0.915,positive,Heidi
+"Peter had taken no heed of what the child was about when she stayed behind, but when she ran up to him in her new attire, his face broke into a grin, which grew broader still as he looked back and saw the small heap of clothes lying on the ground, until his mouth stretched almost from ear to ear; he said nothing, however.",-0.6956,0.057,0.136,0.808,negative,Heidi
+"The child, able now to move at her ease, began to enter into conversation with Peter, who had many questions to answer, for his companion wanted to know how many goats he had, where he was going to with them, and what he had to do when he arrived there.",0.3612,0.049,0.0,0.951,positive,Heidi
+"At last, after some time, they and the goats approached the hut and came within view of Cousin Dete.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Hardly had the latter caught sight of the little company climbing up towards her when she shrieked out: ""Heidi, what have you been doing!",0.0,0.0,0.0,1.0,neutral,Heidi
+What a sight you have made of yourself!,0.0,0.0,0.0,1.0,neutral,Heidi
+And where are your two frocks and the red wrapper?,0.0,0.0,0.0,1.0,neutral,Heidi
+"And the new shoes I bought, and the new stockings I knitted for you--everything gone!",0.0,0.0,0.0,1.0,neutral,Heidi
+not a thing left!,0.0,0.0,0.0,1.0,neutral,Heidi
+"What can you have been thinking of, Heidi; where are all your clothes?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"The child quietly pointed to a spot below on the mountain side and answered, ""Down there.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"Dete followed the direction of her finger; she could just distinguish something lying on the ground, with a spot of red on the top of it which she had no doubt was the woollen wrapper.",-0.743,0.045,0.203,0.752,negative,Heidi
+"""You good-for-nothing little thing!""",0.0,0.0,0.0,1.0,neutral,Heidi
+"exclaimed Dete angrily, ""what could have put it into your head to do like that?",-0.0772,0.137,0.153,0.71,negative,Heidi
+What made you undress yourself?,0.0,0.0,0.0,1.0,neutral,Heidi
+"What do you mean by it?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""I don't want any clothes,"" said the child, not showing any sign of repentance for her past deed.",-0.0572,0.0,0.067,0.933,negative,Heidi
+"""You wretched, thoughtless child!",-0.5093,0.0,0.523,0.477,negative,Heidi
+"have you no sense in you at all?""",-0.296,0.0,0.239,0.761,negative,Heidi
+"continued Dete, scolding and lamenting.",-0.4588,0.0,0.429,0.571,negative,Heidi
+"""Who is going all that way down to fetch them; it's a good half-hour's walk!",0.4926,0.197,0.0,0.803,positive,Heidi
+"Peter, you go off and fetch them for me as quickly as you can, and don't stand there gaping at me, as if you were rooted to the ground!""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""I am already past my time,"" answered Peter slowly, without moving from the spot where he had been standing with his hands in his pockets, listening to Dete's outburst of dismay and anger.",-0.7579,0.0,0.173,0.827,negative,Heidi
+"""Well, you won't get far if you only keep on standing there with your eyes staring out of your head,"" was Dete's cross reply; ""but see, you shall have something nice,"" and she held out a bright new piece of money to him that sparkled in the sun.",0.5927,0.077,0.0,0.923,positive,Heidi
+"Peter was immediately up and off down the steep mountain side, taking the shortest cut, and in an incredibly short space of time had reached the little heap of clothes, which he gathered up under his arm, and was back again so quickly that even Dete was obliged to give him a word of praise as she handed him the promised money.",0.6597,0.113,0.032,0.856,positive,Heidi
+"Peter promptly thrust it into his pocket and his face beamed with delight, for it was not often that he was the happy possessor of such riches.",0.9001,0.314,0.0,0.686,positive,Heidi
+"""You can carry the things up for me as far as Uncle's, as you are going the same way,"" went on Dete, who was preparing to continue her climb up the mountain side, which rose in a steep ascent immediately behind the goatherd's hut.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Peter willingly undertook to do this, and followed after her on his bare feet, with his left arm round the bundle and the right swinging his goatherd's stick, while Heidi and the goats went skipping and jumping joyfully beside him.",0.5423,0.082,0.0,0.918,positive,Heidi
+After a climb of more than three-quarters of an hour they reached the top of the Alm mountain.,0.296,0.176,0.0,0.824,positive,Heidi
+"Uncle's hut stood on a projection of the rock, exposed indeed to the winds, but where every ray of sun could rest upon it, and a full view could be had of the valley beneath.",-0.0387,0.0,0.035,0.965,neutral,Heidi
+"Behind the hut stood three old fir trees, with long, thick, unlopped branches.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Beyond these rose a further wall of mountain, the lower heights still overgrown with beautiful grass and plants, above which were stonier slopes, covered only with scrub, that led gradually up to the steep, bare rocky summits.",0.4019,0.097,0.055,0.848,positive,Heidi
+"Against the hut, on the side looking towards the valley, Uncle had put up a seat.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Here he was sitting, his pipe in his mouth and his hands on his knees, quietly looking out, when the children, the goats and Cousin Dete suddenly clambered into view.",0.0,0.0,0.0,1.0,neutral,Heidi
+Heidi was at the top first.,0.2023,0.265,0.0,0.735,positive,Heidi
+"She went straight up to the old man, put out her hand, and said, ""Good-evening, Grandfather.""",0.6249,0.267,0.0,0.733,positive,Heidi
+"""So, so, what is the meaning of this?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"he asked gruffly, as he gave the child an abrupt shake of the hand, and gazed long and scrutinisingly at her from under his bushy eyebrows.",0.3612,0.111,0.059,0.83,positive,Heidi
+"Heidi stared steadily back at him in return with unflinching gaze, for the grandfather, with his long beard and thick grey eyebrows that grew together over his nose and looked just like a bush, was such a remarkable appearance, that Heidi was unable to take her eyes off him.",0.743,0.142,0.0,0.858,positive,Heidi
+"Meanwhile Dete had come up, with Peter after her, and the latter now stood still a while to watch what was going on.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""I wish you good-day, Uncle,"" said Dete, as she walked towards him, ""and I have brought you Tobias and Adelaide's child.",0.4019,0.124,0.0,0.876,positive,Heidi
+"You will hardly recognise her, as you have never seen her since she was a year old.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""And what has the child to do with me up here?""",0.0,0.0,0.0,1.0,neutral,Heidi
+asked the old man curtly.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""You there,"" he then called out to Peter, ""be off with your goats, you are none too early as it is, and take mine with you.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"Peter obeyed on the instant and quickly disappeared, for the old man had given him a look that made him feel that he did not want to stay any longer.",-0.2783,0.0,0.104,0.896,negative,Heidi
+"""The child is here to remain with you,"" Dete made answer.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""I have, I think, done my duty by her for these four years, and now it is time for you to do yours.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""That's it, is it?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"said the old man, as he looked at her with a flash in his eye.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""And when the child begins to fret and whine after you, as is the way with these unreasonable little beings, what am I to do with her then?""",-0.3612,0.0,0.088,0.912,negative,Heidi
+"""That's your affair,"" retorted Dete.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""I know I had to put up with her without complaint when she was left on my hands as an infant, and with enough to do as it was for my mother and self.",0.2235,0.056,0.0,0.944,positive,Heidi
+"Now I have to go and look after my own earnings, and you are the next of kin to the child.",0.0,0.0,0.0,1.0,neutral,Heidi
+"If you cannot arrange to keep her, do with her as you like.",0.3612,0.172,0.0,0.828,positive,Heidi
+"You will be answerable for the result if harm happens to her, though you have hardly need, I should think, to add to the burden already on your conscience.""",-0.7506,0.0,0.198,0.802,negative,Heidi
+"Now Dete was not quite easy in her own conscience about what she was doing, and consequently was feeling hot and irritable, and said more than she had intended.",-0.6396,0.045,0.172,0.783,negative,Heidi
+"As she uttered her last words, Uncle rose from his seat.",0.0,0.0,0.0,1.0,neutral,Heidi
+"He looked at her in a way that made her draw back a step or two, then flinging out his arm, he said to her in a commanding voice: ""Be off with you this instant, and get back as quickly as you can to the place whence you came, and do not let me see your face again in a hurry.""",0.0,0.0,0.0,1.0,neutral,Heidi
+Dete did not wait to be told twice.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""Good-bye to you then, and to you too, Heidi,"" she called, as she turned quickly away and started to descend the mountain at a running pace, which she did not slacken till she found herself safely again at Dorfli, for some inward agitation drove her forwards as if a steam-engine was at work inside her.",0.296,0.057,0.036,0.907,positive,Heidi
+"Again questions came raining down upon her from all sides, for every one knew Dete, as well as all particulars of the birth and former history of the child, and all wondered what she had done with it.",0.2732,0.054,0.0,0.946,positive,Heidi
+"From every door and window came voices calling: ""Where is the child?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""Where have you left the child, Dete?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"and more and more reluctantly Dete made answer, ""Up there with Alm-Uncle!""",-0.3069,0.0,0.17,0.83,negative,Heidi
+"""With Alm-Uncle, have I not told you so already?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"Then the women began to hurl reproaches at her; first one cried out, ""How could you do such a thing!""",-0.4389,0.0,0.138,0.862,negative,Heidi
+"then another, ""To think of leaving a helpless little thing up there,""--while again and again came the words, ""The poor mite!",-0.75,0.0,0.262,0.738,negative,Heidi
+"the poor mite!""",-0.5255,0.0,0.629,0.371,negative,Heidi
+pursuing her as she went along.,0.0,0.0,0.0,1.0,neutral,Heidi
+Unable at last to bear it any longer Dete ran forward as fast as she could until she was beyond reach of their voices.,0.0258,0.046,0.0,0.954,neutral,Heidi
+"She was far from happy at the thought of what she had done, for the child had been left in her care by her dying mother.",0.7845,0.223,0.0,0.777,positive,Heidi
+"She quieted herself, however, with the idea that she would be better able to do something for the child if she was earning plenty of money, and it was a relief to her to think that she would soon be far away from all these people who were making such a fuss about the matter, and she rejoiced further still that she was at liberty now to take such a good place.",0.9371,0.207,0.0,0.793,positive,Heidi
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,Heidi
+"AT HOME WITH GRANDFATHER As soon as Dete had disappeared the old man went back to his bench, and there he remained seated, staring on the ground without uttering a sound, while thick curls of smoke floated upward from his pipe.",-0.2263,0.0,0.046,0.954,negative,Heidi
+"Heidi, meanwhile, was enjoying herself in her new surroundings; she looked about till she found a shed, built against the hut, where the goats were kept; she peeped in, and saw it was empty.",0.3818,0.094,0.05,0.856,positive,Heidi
+She continued her search and presently came to the fir trees behind the hut.,0.0,0.0,0.0,1.0,neutral,Heidi
+"A strong breeze was blowing through them, and there was a rushing and roaring in their topmost branches, Heidi stood still and listened.",0.5106,0.142,0.0,0.858,positive,Heidi
+"The sound growing fainter, she went on again, to the farther corner of the hut, and so round to where her grandfather was sitting.",0.1779,0.069,0.0,0.931,positive,Heidi
+"Seeing that he was in exactly the same position as when she left him, she went and placed herself in front of the old man, and putting her hands behind her back, stood and gazed at him.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Her grandfather looked up, and as she continued standing there without moving, ""What is it you want?""",0.0,0.0,0.0,1.0,neutral,Heidi
+he asked.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""I want to see what you have inside the house,"" said Heidi.",0.0772,0.106,0.0,0.894,positive,Heidi
+"""Come then!""",0.0,0.0,0.0,1.0,neutral,Heidi
+and the grandfather rose and went before her towards the hut.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""Bring your bundle of clothes in with you,"" he bid her as she was following.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""I shan't want them any more,"" was her prompt answer.",-0.0572,0.0,0.12,0.88,negative,Heidi
+"The old man turned and looked searchingly at the child, whose dark eyes were sparkling in delighted anticipation of what she was going to see inside.",0.7096,0.231,0.0,0.769,positive,Heidi
+"""She is certainly not wanting in intelligence,"" he murmured to himself.",0.34,0.194,0.0,0.806,positive,Heidi
+"""And why shall you not want them any more?""",-0.0572,0.0,0.133,0.867,negative,Heidi
+he asked aloud.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""Because I want to go about like the goats with their thin light legs.""",0.4215,0.257,0.0,0.743,positive,Heidi
+"""Well, you can do so if you like,"" said her grandfather, ""but bring the things in, we must put them in the cupboard.""",0.0,0.0,0.0,1.0,neutral,Heidi
+Heidi did as she was told.,0.0,0.0,0.0,1.0,neutral,Heidi
+"The old man now opened the door and Heidi stepped inside after him; she found herself in a good- sized room, which covered the whole ground floor of the hut.",0.4404,0.094,0.0,0.906,positive,Heidi
+"A table and a chair were the only furniture; in one corner stood the grandfather's bed, in another was the hearth with a large kettle hanging above it; and on the further side was a large door in the wall--this was the cupboard.",0.0,0.0,0.0,1.0,neutral,Heidi
+"The grandfather opened it; inside were his clothes, some hanging up, others, a couple of shirts, and some socks and handkerchiefs, lying on a shelf; on a second shelf were some plates and cups and glasses, and on a higher one still, a round loaf, smoked meat, and cheese, for everything that Alm-Uncle needed for his food and clothing was kept in this cupboard.",-0.5267,0.0,0.055,0.945,negative,Heidi
+"Heidi, as soon as it was opened, ran quickly forward and thrust in her bundle of clothes, as far back behind her grandfather's things as possible, so that they might not easily be found again.",-0.2584,0.0,0.056,0.944,negative,Heidi
+"She then looked carefully round the room, and asked, ""Where am I to sleep, grandfather?""",0.128,0.103,0.0,0.897,positive,Heidi
+"""Wherever you like,"" he answered.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Heidi was delighted, and began at once to examine all the nooks and corners to find out where it would be pleasantest to sleep.",0.7845,0.239,0.0,0.761,positive,Heidi
+In the corner near her grandfather's bed she saw a short ladder against the wall; up she climbed and found herself in the hayloft.,0.0,0.0,0.0,1.0,neutral,Heidi
+"There lay a large heap of fresh sweet-smelling hay, while through a round window in the wall she could see right down the valley.",0.3182,0.099,0.0,0.901,positive,Heidi
+"""I shall sleep up here, grandfather,"" she called down to him, ""It's lovely, up here.",0.5859,0.213,0.0,0.787,positive,Heidi
+"Come up and see how lovely it is!""",0.6239,0.369,0.0,0.631,positive,Heidi
+"""Oh, I know all about it,"" he called up in answer.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""I am getting the bed ready now,"" she called down again, as she went busily to and fro at her work, ""but I shall want you to bring me up a sheet; you can't have a bed without a sheet, you want it to lie upon.""",0.3919,0.107,0.0,0.893,positive,Heidi
+"""All right,"" said the grandfather, and presently he went to the cupboard, and after rummaging about inside for a few minutes he drew out a long, coarse piece of stuff, which was all he had to do duty for a sheet.",0.0,0.0,0.0,1.0,neutral,Heidi
+"He carried it up to the loft, where he found Heidi had already made quite a nice bed.",0.4754,0.162,0.0,0.838,positive,Heidi
+"She had put an extra heap of hay at one end for a pillow, and had so arranged it that, when in bed, she would be able to see comfortably out through the round window.",0.4215,0.078,0.0,0.922,positive,Heidi
+"""That is capital,"" said her grandfather; ""now we must put on the sheet, but wait a moment first,"" and he went and fetched another large bundle of hay to make the bed thicker, so that the child should not feel the hard floor under her--""there, now bring it here.""",0.1139,0.03,0.0,0.97,positive,Heidi
+"Heidi had got hold of the sheet, but it was almost too heavy for her to carry; this was a good thing, however, as the close thick stuff would prevent the sharp stalks of the hay running through and pricking her.",0.3919,0.113,0.053,0.834,positive,Heidi
+"The two together now spread the sheet over the bed, and where it was too long or too broad, Heidi quickly tucked it in under the hay.",0.0,0.0,0.0,1.0,neutral,Heidi
+"It looked now as tidy and comfortable a bed as you could wish for, and Heidi stood gazing thoughtfully at her handiwork.",0.8271,0.326,0.0,0.674,positive,Heidi
+"""We have forgotten something now, grandfather,"" she said after a short silence.",-0.2263,0.0,0.16,0.84,negative,Heidi
+"""What's that?""",0.0,0.0,0.0,1.0,neutral,Heidi
+he asked.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""A coverlid; when you get into bed, you have to creep in between the sheets and the coverlid.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""Oh, that's the way, is it?",0.0,0.0,0.0,1.0,neutral,Heidi
+"But suppose I have not got a coverlid?""",0.0,0.0,0.0,1.0,neutral,Heidi
+said the old man.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""Well, never mind, grandfather,"" said Heidi in a consoling tone of voice, ""I can take some more hay to put over me,"" and she was turning quickly to fetch another armful from the heap, when her grandfather stopped her.",-0.2263,0.0,0.049,0.951,negative,Heidi
+"""Wait a moment,"" he said, and he climbed down the ladder again and went towards his bed.",0.0,0.0,0.0,1.0,neutral,Heidi
+"He returned to the loft with a large, thick sack, made of flax, which he threw down, exclaiming, ""There, that is better than hay, is it not?""",0.4404,0.104,0.0,0.896,positive,Heidi
+"Heidi began tugging away at the sack with all her little might, in her efforts to get it smooth and straight, but her small hands were not fitted for so heavy a job.",0.1154,0.045,0.0,0.955,positive,Heidi
+"Her grandfather came to her assistance, and when they had got it tidily spread over the bed, it all looked so nice and warm and comfortable that Heidi stood gazing at it in delight.",0.9182,0.302,0.0,0.698,positive,Heidi
+"""That is a splendid coverlid,"" she said, ""and the bed looks lovely altogether!",0.8356,0.441,0.0,0.559,positive,Heidi
+"I wish it was night, so that I might get inside it at once.""",0.4019,0.197,0.0,0.803,positive,Heidi
+"""I think we might have something to eat first,"" said the grandfather, ""what do you think?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"Heidi in the excitement of bed-making had forgotten everything else; but now when she began to think about food she felt terribly hungry, for she had had nothing to eat since the piece of bread and little cup of thin coffee that had been her breakfast early that morning before starting on her long, hot journey.",-0.6428,0.034,0.103,0.862,negative,Heidi
+"So she answered without hesitation, ""Yes, I think so too.""",0.2057,0.185,0.0,0.815,positive,Heidi
+"""Let us go down then, as we both think alike,"" said the old man, and he followed the child down the ladder.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Then he went up to the hearth, pushed the big kettle aside, and drew forward the little one that was hanging on the chain, and seating himself on the round-topped, three-legged stool before the fire, blew it up into a clear bright flame.",0.4767,0.117,0.051,0.832,positive,Heidi
+"The kettle soon began to boil, and meanwhile the old man held a large piece of cheese on a long iron fork over the fire, turning it round and round till it was toasted a nice golden yellow color on each side.",0.1027,0.066,0.057,0.877,positive,Heidi
+Heidi watched all that was going on with eager curiosity.,0.3612,0.217,0.0,0.783,positive,Heidi
+"Suddenly some new idea seemed to come into her head, for she turned and ran to the cupboard, and then began going busily backwards and forwards.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Presently the grandfather got up and came to the table with a jug and the cheese, and there he saw it already tidily laid with the round loaf and two plates and two knives each in its right place; for Heidi had taken exact note that morning of all that there was in the cupboard, and she knew which things would be wanted for their meal.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""Ah, that's right,"" said the grandfather, ""I am glad to see that you have some ideas of your own,"" and as he spoke he laid the toasted cheese on a layer of bread, ""but there is still something missing.""",0.25,0.051,0.0,0.949,positive,Heidi
+"Heidi looked at the jug that was steaming away invitingly, and ran quickly back to the cupboard.",0.0,0.0,0.0,1.0,neutral,Heidi
+"At first she could only see a small bowl left on the shelf, but she was not long in perplexity, for a moment later she caught sight of two glasses further back, and without an instant's loss of time she returned with these and the bowl and put them down on the table.",0.3491,0.047,0.0,0.953,positive,Heidi
+"""Good, I see you know how to set about things; but what will you do for a seat?""",0.0,0.0,0.0,1.0,neutral,Heidi
+The grandfather himself was sitting on the only chair in the room.,0.0,0.0,0.0,1.0,neutral,Heidi
+"Heidi flew to the hearth, and dragging the three-legged stool up to the table, sat herself down upon it.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""Well, you have managed to find a seat for yourself, I see, only rather a low one I am afraid,"" said the grandfather, ""but you would not be tall enough to reach the table even if you sat in my chair; the first thing now, however, is to have something to eat, so come along.""",-0.1027,0.022,0.03,0.948,negative,Heidi
+"With that he stood up, filled the bowl with milk, and placing it on the chair, pushed it in front of Heidi on her little three- legged stool, so that she now had a table to herself.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Then he brought her a large slice of bread and a piece of the golden cheese, and told her to eat.",0.0,0.0,0.0,1.0,neutral,Heidi
+After which he went and sat down on the corner of the table and began his own meal.,0.0,0.0,0.0,1.0,neutral,Heidi
+"Heidi lifted the bowl with both hands and drank without pause till it was empty, for the thirst of all her long hot journey had returned upon her.",-0.2023,0.0,0.062,0.938,negative,Heidi
+Then she drew a deep breath--in the eagerness of her thirst she had not stopped to breathe--and put down the bowl.,0.5213,0.195,0.0,0.805,positive,Heidi
+"""Was the milk nice?""",0.0,0.0,0.0,1.0,neutral,Heidi
+asked her grandfather.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""I never drank any so good before,"" answered Heidi.",0.5777,0.319,0.0,0.681,positive,Heidi
+"""Then you must have some more,"" and the old man filled her bowl again to the brim and set it before the child, who was now hungrily beginning her bread having first spread it with the cheese, which after being toasted was soft as butter; the two together tasted deliciously, and the child looked the picture of content as she sat eating, and at intervals taking further draughts of milk.",0.4404,0.04,0.0,0.96,positive,Heidi
+"The meal being over, the grandfather went outside to put the goat-shed in order, and Heidi watched with interest while he first swept it out, and then put fresh straw for the goats to sleep upon.",0.6486,0.135,0.0,0.865,positive,Heidi
+"Then he went to the little well- shed, and there he cut some long round sticks, and a small round board; in this he bored some holes and stuck the sticks into them, and there, as if made by magic, was a three-legged stool just like her grandfather's, only higher.",-0.2247,0.08,0.116,0.804,negative,Heidi
+"Heidi stood and looked at it, speechless with astonishment.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""What do you think that is?""",0.0,0.0,0.0,1.0,neutral,Heidi
+asked her grandfather.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""It's my stool, I know, because it is such a high one; and it was made all of a minute,"" said the child, still lost in wonder and admiration.",0.296,0.117,0.077,0.805,positive,Heidi
+"""She understands what she sees, her eyes are in the right place,"" remarked the grandfather to himself, as he continued his way round the hut, knocking in a nail here and there, or making fast some part of the door, and so with hammer and nails and pieces of wood going from spot to spot, mending or clearing away wherever work of the kind was needed.",0.5267,0.05,0.0,0.95,positive,Heidi
+"Heidi followed him step by step, her eyes attentively taking in all that he did, and everything that she saw was a fresh source of pleasure to her.",0.7184,0.194,0.0,0.806,positive,Heidi
+And so the time passed happily on till evening.,0.5574,0.31,0.0,0.69,positive,Heidi
+"Then the wind began to roar louder than ever through the old fir trees; Heidi listened with delight to the sound, and it filled her heart so full of gladness that she skipped and danced round the old trees, as if some unheard of joy had come to her.",0.8271,0.141,0.0,0.859,positive,Heidi
+The grandfather stood and watched her from the shed.,0.0,0.0,0.0,1.0,neutral,Heidi
+Suddenly a shrill whistle was heard.,0.0,0.0,0.0,1.0,neutral,Heidi
+"Heidi paused in her dancing, and the grandfather came out.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Down from the heights above the goats came springing one after another, with Peter in their midst.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Heidi sprang forward with a cry of joy and rushed among the flock, greeting first one and then another of her old friends of the morning.",0.7506,0.283,0.092,0.625,positive,Heidi
+"As they neared the hut the goats stood still, and then two of their number, two beautiful slender animals, one white and one brown, ran forward to where the grandfather was standing and began licking his hands, for he was holding a little salt which he always had ready for his goats on their return home.",0.7717,0.129,0.0,0.871,positive,Heidi
+Peter disappeared with the remainder of his flock.,-0.2263,0.0,0.213,0.787,negative,Heidi
+"Heidi tenderly stroked the two goats in turn, running first to one side of them and then the other, and jumping about in her glee at the pretty little animals.",0.8807,0.274,0.0,0.726,positive,Heidi
+"""Are they ours, grandfather?",0.0,0.0,0.0,1.0,neutral,Heidi
+Are they both ours?,0.0,0.0,0.0,1.0,neutral,Heidi
+Are you going to put them in the shed?,0.0,0.0,0.0,1.0,neutral,Heidi
+"Will they always stay with us?""",0.0,0.0,0.0,1.0,neutral,Heidi
+"Heidi's questions came tumbling out one after the other, so that her grandfather had only time to answer each of them with ""Yes, yes.""",0.0,0.0,0.0,1.0,neutral,Heidi
+When the goats had finished licking up the salt her grandfather told her to go and fetch her bowl and the bread.,0.0,0.0,0.0,1.0,neutral,Heidi
+Heidi obeyed and was soon back again.,0.0,0.0,0.0,1.0,neutral,Heidi
+"The grandfather milked the white goat and filled her basin, and then breaking off a piece of bread, ""Now eat your supper,"" he said, ""and then go up to bed.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Cousin Dete left another little bundle for you with a nightgown and other small things in it, which you will find at the bottom of the cupboard if you want them.",0.0772,0.043,0.0,0.957,positive,Heidi
+"I must go and shut up the goats, so be off and sleep well.""",0.0,0.0,0.0,1.0,neutral,Heidi
+"""Good-night, grandfather!",0.0,0.0,0.0,1.0,neutral,Heidi
+good-night.,0.0,0.0,0.0,1.0,neutral,Heidi
+"What are their names, grandfather, what are their names?""",0.0,0.0,0.0,1.0,neutral,Heidi
+she called out as she ran after his retreating figure and the goats.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""The white one is named Little Swan, and the brown one Little Bear,"" he answered.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""Good-night, Little Swan, good-night, Little Bear!""",0.0,0.0,0.0,1.0,neutral,Heidi
+"she called again at the top of her voice, for they were already inside the shed.",0.2023,0.107,0.0,0.893,positive,Heidi
+"Then she sat down on the seat and began to eat and drink, but the wind was so strong that it almost blew her away; so she made haste and finished her supper and then went indoors and climbed up to her bed, where she was soon lying as sweetly and soundly asleep as any young princess on her couch of silk.",0.7515,0.136,0.062,0.802,positive,Heidi
+"Not long after, and while it was still twilight, the grandfather also went to bed, for he was up every morning at sunrise, and the sun came climbing up over the mountains at a very early hour during these summer months.",0.0,0.0,0.0,1.0,neutral,Heidi
+"The wind grew so tempestuous during the night, and blew in such gusts against the walls, that the hut trembled and the old beams groaned and creaked.",-0.2732,0.0,0.075,0.925,negative,Heidi
+"It came howling and wailing down the chimney like voices of those in pain, and it raged with such fury among the old fir trees that here and there a branch was snapped and fell.",-0.8176,0.059,0.235,0.706,negative,Heidi
+In the middle of the night the old man got up.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""The child will be frightened,"" he murmured half aloud.",0.0,0.0,0.0,1.0,neutral,Heidi
+He mounted the ladder and went and stood by the child's bed.,0.0,0.0,0.0,1.0,neutral,Heidi
+"Outside the moon was struggling with the dark, fast-driving clouds, which at one moment left it clear and shining, and the next swept over it, and all again was dark.",-0.0516,0.078,0.084,0.838,negative,Heidi
+Just now the moonlight was falling through the round window straight on to Heidi's bed.,0.0772,0.115,0.097,0.788,positive,Heidi
+"She lay under the heavy coverlid, her cheeks rosy with sleep, her head peacefully resting on her little round arm, and with a happy expression on her baby face as if dreaming of something pleasant.",0.886,0.251,0.0,0.749,positive,Heidi
+"The old man stood looking down on the sleeping child until the moon again disappeared behind the clouds and he could see no more, then he went back to bed.",-0.4767,0.0,0.128,0.872,negative,Heidi
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,Heidi
+"OUT WITH THE GOATS Heidi was awakened early the next morning by a loud whistle; the sun was shining through the round window and falling in golden rays on her bed and on the large heap of hay, and as she opened her eyes everything in the loft seemed gleaming with gold.",-0.1531,0.0,0.031,0.969,negative,Heidi
+She looked around her in astonishment and could not imagine for a while where she was.,0.0,0.0,0.0,1.0,neutral,Heidi
+"But her grandfather's deep voice was now heard outside, and then Heidi began to recall all that had happened: how she had come away from her former home and was now on the mountain with her grandfather instead of with old Ursula.",0.0,0.0,0.0,1.0,neutral,Heidi
+"The latter was nearly stone deaf and always felt cold, so that she sat all day either by the hearth in the kitchen or by the sitting-room stove, and Heidi had been obliged to stay close to her, for the old woman was so deaf that she could not tell where the child was if out of her sight.",0.0,0.0,0.0,1.0,neutral,Heidi
+"And Heidi, shut up within the four walls, had often longed to be out of doors.",0.0,0.0,0.0,1.0,neutral,Heidi
+"So she felt very happy this morning as she woke up in her new home and remembered all the many new things that she had seen the day before and which she would see again that day, and above all she thought with delight of the two dear goats.",0.8883,0.186,0.0,0.814,positive,Heidi
+"Heidi jumped quickly out of bed and a very few minutes sufficed her to put on the clothes which she had taken off the night before, for there were not many of them.",0.0,0.0,0.0,1.0,neutral,Heidi
+Then she climbed down the ladder and ran outside the hut.,0.0,0.0,0.0,1.0,neutral,Heidi
+"There stood Peter already with his flock of goats, and the grandfather was just bringing his two out of the shed to join the others.",0.296,0.084,0.0,0.916,positive,Heidi
+Heidi ran forward to wish good-morning to him and the goats.,0.4019,0.213,0.0,0.787,positive,Heidi
+"""Do you want to go with them on to the mountain?""",0.0772,0.115,0.0,0.885,positive,Heidi
+asked her grandfather.,0.0,0.0,0.0,1.0,neutral,Heidi
+"Nothing could have pleased Heidi better, and she jumped for joy in answer.",0.6479,0.351,0.126,0.523,positive,Heidi
+"""But you must first wash and make yourself tidy.",0.0,0.0,0.0,1.0,neutral,Heidi
+"The sun that shines so brightly overhead will else laugh at you for being dirty; see, I have put everything ready for you,"" and her grandfather pointed as he spoke to a large tub full of water, which stood in the sun before the door.",0.7537,0.182,0.057,0.761,positive,Heidi
+"Heidi ran to it and began splashing and rubbing, till she quite glistened with cleanliness.",0.0,0.0,0.0,1.0,neutral,Heidi
+"The grandfather meanwhile went inside the hut, calling to Peter to follow him and bring in his wallet.",0.0,0.0,0.0,1.0,neutral,Heidi
+"Peter obeyed with astonishment, and laid down the little bag which held his meagre dinner.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""Open it,"" said the old man, and inside it he put a large piece of bread and an equally large piece of cheese, which made Peter open his eyes, for each was twice the size of the two portions which he had for his own dinner.",0.0,0.0,0.0,1.0,neutral,Heidi
+"""There, now there is only the little bowl to add,"" continued the grandfather, ""for the child cannot drink her milk as you do from the goat; she is not accustomed to that.",0.0,0.0,0.0,1.0,neutral,Heidi
+"You must milk two bowlfuls for her when she has her dinner, for she is going with you and will remain with you till you return this evening; but take care she does not fall over any of the rocks, do you hear?""",0.6486,0.093,0.0,0.907,positive,Heidi
+Heidi now came running in.,0.0,0.0,0.0,1.0,neutral,Heidi
+"""Will the sun laugh at me now, grandfather?""",0.5574,0.34,0.0,0.66,positive,Heidi
+she asked anxiously.,-0.2263,0.0,0.487,0.513,negative,Heidi
+"Her grandfather had left a coarse towel hanging up for her near the tub, and with this she had so thoroughly scrubbed her face, arms, and neck, for fear of the sun, that as she stood there she was as red all over as a lobster.",-0.4939,0.0,0.069,0.931,negative,Heidi
+He gave a little laugh.,0.5118,0.524,0.0,0.476,positive,Heidi
+"""No, there is nothing for him to laugh at now,"" he assured her.",0.7269,0.357,0.0,0.643,positive,Heidi
+"""But I tell you what--when you come home this evening, you will have to get right into the tub, like a fish, for if you run about like the goats you will get your feet dirty.",0.3919,0.157,0.093,0.75,positive,Heidi
+"Now you can be off.""",0.0,0.0,0.0,1.0,neutral,Heidi
+She started joyfully for the mountain.,0.5423,0.412,0.0,0.588,positive,Heidi
+"During the night the wind had blown away all the clouds; the dark blue sky was spreading overhead, and in its midst was the bright sun shining down on the green slopes of the mountain, where the flowers opened their little blue and yellow cups, and looked up to him smiling.",0.7096,0.107,0.0,0.893,positive,Heidi
+"Heidi went running hither and thither and shouting with delight, for here were whole patches of delicate red primroses, and there the blue gleam of the lovely gentian, while above them all laughed and nodded the tender-leaved golden cistus.",0.8979,0.254,0.0,0.746,positive,Heidi
+"Enchanted with all this waving field of brightly-colored flowers, Heidi forgot even Peter and the goats.",0.3818,0.148,0.0,0.852,positive,Heidi
+"She ran on in front and then off to the side, tempted first one way and then the other, as she caught sight of some bright spot of glowing red or yellow.",0.4404,0.086,0.0,0.914,positive,Heidi
+"And all the while she was plucking whole handfuls of the flowers which she put into her little apron, for she wanted to take them all home and stick them in the hay, so that she might make her bedroom look just like the meadows outside.",0.3612,0.053,0.0,0.947,positive,Heidi
+"Peter had therefore to be on the alert, and his round eyes, which did not move very quickly, had more wor",0.296,0.099,0.0,0.901,positive,Heidi

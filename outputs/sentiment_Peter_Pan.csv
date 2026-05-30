@@ -1,0 +1,677 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Peter Pan This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.07,0.109,0.821,negative,Peter Pan
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Peter Pan
+"Title : Peter Pan or, The boy who would not grow up Author : J. M. Barrie Release date : March 7, 2026 [eBook #78131] Language : English Original publication : New York: Charles Scribner's Sons, 1928 Other information and formats : www.gutenberg.org/ebooks/78131 Credits : Carla Foust, Mairi and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive) *** START OF THE PROJECT GUTENBERG EBOOK PETER PAN *** THE WORKS OF J. M. BARRIE.",0.765,0.092,0.0,0.908,positive,Peter Pan
+"NOVELS, STORIES, PLAYS, AND SKETCHES.",0.25,0.333,0.0,0.667,positive,Peter Pan
+Uniform Edition.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"AULD LICHT IDYLLS, BETTER DEAD.",-0.34,0.284,0.422,0.294,negative,Peter Pan
+WHEN A MAN'S SINGLE.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"A WINDOW IN THRUMS, AN EDINBURGH ELEVEN.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+THE LITTLE MINISTER.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+SENTIMENTAL TOMMY.,0.3182,0.697,0.0,0.303,positive,Peter Pan
+"MY LADY NICOTINE, MARGARET OGILVY.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+TOMMY AND GRIZEL.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+THE LITTLE WHITE BIRD.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+PETER AND WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Also HALF HOURS, DER TAG.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+ECHOES OF THE WAR.,-0.5994,0.0,0.565,0.435,negative,Peter Pan
+PLAYS.,0.25,1.0,0.0,0.0,positive,Peter Pan
+Uniform Edition.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+PETER PAN.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MARY ROSE.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DEAR BRUTUS.,0.3818,0.722,0.0,0.278,positive,Peter Pan
+A KISS FOR CINDERELLA.,0.4215,0.583,0.0,0.417,positive,Peter Pan
+ALICE SIT-BY-THE-FIRE.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+WHAT EVERY WOMAN KNOWS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+QUALITY STREET.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+THE ADMIRABLE CRICHTON.,0.5574,0.643,0.0,0.357,positive,Peter Pan
+ECHOES OF THE WAR.,-0.5994,0.0,0.565,0.435,negative,Peter Pan
+Containing : The Old Lady Shows Her Medals--The New Word--Barbara's Wedding--A Well-Remembered Voice.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+HALF HOURS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Containing : Pantaloon--The Twelve-Pound Look--Rosalind--The Will.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Others in Preparation.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+INDIVIDUAL EDITIONS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+COURAGE.,0.4939,1.0,0.0,0.0,positive,Peter Pan
+PETER PAN IN KENSINGTON GARDENS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Illustrated by Arthur Rackham .,0.0,0.0,0.0,1.0,neutral,Peter Pan
+PETER AND WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Illustrated by F. D. Bedford .,0.0,0.0,0.0,1.0,neutral,Peter Pan
+PETER PAN AND WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Illustrated by Miss Attwell .,-0.1531,0.0,0.348,0.652,negative,Peter Pan
+TOMMY AND GRIZEL.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Illustrated by Bernard Partridge .,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MARGARET OGILVY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"⁂ For particulars concerning The Thistle Edition of the Works of J. M. Barrie, sold only by subscription, send for circular.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"NEW YORK: CHARLES SCRIBNER'S SONS Copyright, 1928, by J. M. BARRIE Printed in the United States of America All rights reserved under the International Copyright Act.",0.4215,0.101,0.0,0.899,positive,Peter Pan
+Performance forbidden and right of representation reserved.,-0.4215,0.0,0.318,0.682,negative,Peter Pan
+"Application for the right of performing this play must be made to Charles Frohman, Inc., Empire Theatre, New York.",0.4118,0.133,0.0,0.867,positive,Peter Pan
+THE WORKS OF J. M. BARRIE.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"TO THE FIVE A DEDICATION ACT I THE NURSERY ACT II THE NEVER LAND ACT III THE MERMAIDS' LAGOON ACT IV THE HOME UNDER THE GROUND ACT V TO THE FIVE A DEDICATION Some disquieting confessions must be made in printing at last the play of Peter Pan ; among them this, that I have no recollection of having written it.",0.0516,0.042,0.038,0.92,positive,Peter Pan
+"Of that, however, anon.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+What I want to do first is to give Peter to the Five without whom he never would have existed.,0.0772,0.067,0.0,0.933,positive,Peter Pan
+"I hope, my dear sirs, that in memory of what we have been to each other you will accept this dedication with your friend's love.",0.9062,0.381,0.0,0.619,positive,Peter Pan
+"The play of Peter is streaky with you still, though none may see this save ourselves.",0.7311,0.305,0.0,0.695,positive,Peter Pan
+"A score of Acts had to be left out, and you were in them all.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"We first brought Peter down, didn't we, with a blunt-headed arrow in Kensington Gardens?",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I seem to remember that we believed we had killed him, though he was only winded, and that after a spasm of exultation in our prowess the more soft-hearted among us wept and all of us thought of the police.",-0.8176,0.0,0.172,0.828,negative,Peter Pan
+"There was not one of you who would not have sworn as an eye-witness to this occurence; no doubt I was abetting, but you used to provide corroboration that was never given to you by me.",-0.3291,0.0,0.092,0.908,negative,Peter Pan
+"As for myself, I suppose I always knew that I made Peter by rubbing the five of you violently together, as savages with two sticks produce a flame.",-0.802,0.0,0.247,0.753,negative,Peter Pan
+"That is all he is, the spark I got from you.",0.2263,0.174,0.0,0.826,positive,Peter Pan
+We had good sport of him before we clipped him small to make him fit the boards.,0.6597,0.265,0.0,0.735,positive,Peter Pan
+Some of you were not born when the story began and yet were hefty figures before we saw that the game was up.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Do you remember a garden at Burpham and the initiation there of No.,-0.296,0.0,0.167,0.833,negative,Peter Pan
+"4 when he was six weeks old, and three of you grudged letting him in so young?",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Have you, No.",-0.296,0.0,0.524,0.476,negative,Peter Pan
+"3, forgotten the white violets at the Cistercian abbey in which we cassocked our first fairies (all little friends of St. Benedict), or your cry to the Gods, 'Do I just kill one pirate all the time?'",-0.7841,0.063,0.218,0.719,negative,Peter Pan
+"Do you remember Marooners' Hut in the haunted groves of Waverley, and the St. Bernard dog in a tiger's mask who so frequently attacked you, and the literary record of that summer, The Boy Castaways , which is so much the best and the rarest of this author's works?",-0.2298,0.081,0.116,0.802,negative,Peter Pan
+What was it that made us eventually give to the public in the thin form of a play that which had been woven for ourselves alone?,0.1027,0.088,0.073,0.839,positive,Peter Pan
+"Alas, I know what it was, I was losing my grip.",-0.5719,0.0,0.402,0.598,negative,Peter Pan
+One by one as you swung monkey-wise from branch to branch in the wood of make-believe you reached the tree of knowledge.,0.1027,0.062,0.0,0.938,positive,Peter Pan
+"Sometimes you swung back into the wood, as the unthinking may at a cross-road take a familiar path that no longer leads to home; or you perched ostentatiously on its boughs to please me, pretending that you still belonged; soon you knew it only as the vanished wood, for it vanishes if one needs to look for it.",0.128,0.063,0.037,0.9,positive,Peter Pan
+A time came when I saw that No.,-0.296,0.0,0.306,0.694,negative,Peter Pan
+"1, the most gallant of you all, ceased to believe that he was ploughing woods incarnadine, and with an apologetic eye for me derided the lingering faith of No.",0.4201,0.166,0.115,0.719,positive,Peter Pan
+2; when even No.,-0.296,0.0,0.423,0.577,negative,Peter Pan
+3 questioned gloomily whether he did not really spend his nights in bed.,-0.1027,0.0,0.113,0.887,negative,Peter Pan
+"There were still two who knew no better, but their day was dawning.",0.09,0.134,0.11,0.756,positive,Peter Pan
+"In these circumstances, I suppose, was begun the writing of the play of Peter.",0.34,0.167,0.0,0.833,positive,Peter Pan
+"That was a quarter of a century ago, and I clutch my brows in vain to remember whether it was a last desperate throw to retain the five of you for a little longer, or merely a cold decision to turn you into bread and butter.",-0.6249,0.0,0.118,0.882,negative,Peter Pan
+"This brings us back to my uncomfortable admission that I have no recollection of writing the play of Peter Pan , now being published for the first time so long after he made his bow upon the stage.",-0.34,0.06,0.119,0.821,negative,Peter Pan
+"You had played it until you tired of it, and tossed it in the air and gored it and left it derelict in the mud and went on your way singing other songs; and then I stole back and sewed some of the gory fragments together with a pen-nib.",-0.128,0.048,0.058,0.895,negative,Peter Pan
+"That is what must have happened, but I cannot remember doing it.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I remember writing the story of Peter and Wendy many years after the production of the play, but I might have cribbed that from some typed copy.",0.1779,0.066,0.0,0.934,positive,Peter Pan
+"I can haul back to mind the writing of almost every other essay of mine, however forgotten by the pretty public; but this play of Peter, no.",0.3559,0.179,0.133,0.688,positive,Peter Pan
+"Even my beginning as an amateur playwright, that noble mouthful, Bandelero the Bandit , I remember every detail of its composition in my school days at Dumfries.",0.4588,0.111,0.0,0.889,positive,Peter Pan
+"Not less vivid is my first little piece, produced by Mr. Toole.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"It was called Ibsen's Ghost , and was a parody of the mightiest craftsman that ever wrote for our kind friends in front.",0.6369,0.243,0.086,0.672,positive,Peter Pan
+"To save the management the cost of typing I wrote out the 'parts,' after being told what parts were, and I can still recall my first words, spoken so plaintively by a now famous actress,--'To run away from my second husband just as I ran away from my first, it feels quite like old times.'",0.7178,0.109,0.0,0.891,positive,Peter Pan
+On the first night a man in the pit found Ibsen's Ghost so diverting that he had to be removed in hysterics.,-0.6249,0.0,0.212,0.788,negative,Peter Pan
+After that no one seems to have thought of it at all.,-0.296,0.0,0.167,0.833,negative,Peter Pan
+But what a man to carry about with one!,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"How odd, too, that these trifles should adhere to the mind that cannot remember the long job of writing Peter.",-0.3182,0.0,0.108,0.892,negative,Peter Pan
+"It does seem almost suspicious, especially as I have not the original MS. of Peter Pan (except a few stray pages), with which to support my claim.",-0.1202,0.094,0.144,0.762,negative,Peter Pan
+"I have indeed another MS., lately made, but that 'proves nothing.'",0.0,0.0,0.0,1.0,neutral,Peter Pan
+I know not whether I lost that original MS. or destroyed it or happily gave it away.,0.5664,0.356,0.145,0.499,positive,Peter Pan
+"I talk of dedicating the play to you, but how can I prove it is mine?",0.1779,0.116,0.0,0.884,positive,Peter Pan
+"How ought I to act if some other hand, who could also have made a copy, thinks it worth while to contest the cold rights?",0.6249,0.195,0.0,0.805,positive,Peter Pan
+Cold they are to me now as that laughter of yours in which Peter came into being long before he was caught and written down.,0.4939,0.118,0.0,0.882,positive,Peter Pan
+"There is Peter still, but to me he lies sunk in the gay Black Lake.",-0.5719,0.0,0.209,0.791,negative,Peter Pan
+"Any one of you five brothers has a better claim to the authorship than most, and I would not fight you for it, but you should have launched your case long ago in the days when you most admired me, which were in the first year of the play, owing to a rumour's reaching you that my spoils were one-and-sixpence a night.",0.9257,0.229,0.0,0.771,positive,Peter Pan
+"This was untrue, but it did give me a standing among you.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"You watched for my next play with peeled eyes, not for entertainment but lest it contained some chance witticism of yours that could be challenged as collaboration; indeed I believe there still exists a legal document, full of the Aforesaid and Henceforward to be called Part-Author, in which for some such snatching I was tied down to pay No.",-0.1818,0.095,0.122,0.783,negative,Peter Pan
+2 one halfpenny daily throughout the run of the piece.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"During the rehearsals of Peter (and it is evidence in my favour that I was admitted to them) a depressed man in overalls, carrying a mug of tea or a paint-pot, used often to appear by my side in the shadowy stalls and say to me, 'The gallery boys won't stand it.'",0.0,0.082,0.063,0.856,neutral,Peter Pan
+He then mysteriously faded away as if he were the theatre ghost.,-0.3182,0.0,0.173,0.827,negative,Peter Pan
+"This hopelessness of his is what all dramatists are said to feel at such times, so perhaps he was the author.",-0.6249,0.0,0.17,0.83,negative,Peter Pan
+"Again, a large number of children whom I have seen playing Peter in their homes with careless mastership, constantly putting in better words, could have thrown it off with ease.",0.6124,0.25,0.074,0.676,positive,Peter Pan
+It was for such as they that after the first production I had to add something to the play at the request of parents (who thus showed that they thought me the responsible person) about no one being able to fly until the fairy dust had been blown on him; so many children having gone home and tried it from their beds and needed surgical attention.,0.3612,0.068,0.032,0.9,positive,Peter Pan
+"Notwithstanding other possibilities, I think I wrote Peter, and if so it must have been in the usual inky way.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Some of it, I like to think, was done in that native place which is the dearest spot on earth to me, though my last heart-beats shall be with my beloved solitary London that was so hard to reach.",0.8359,0.236,0.041,0.723,positive,Peter Pan
+"I must have sat at a table with that great dog waiting for me to stop, not complaining, for he knew it was thus we made our living, but giving me a look when he found he was to be in the play, with his sex changed.",0.8149,0.198,0.032,0.77,positive,Peter Pan
+"In after years when the actor who was Nana had to go to the wars he first taught his wife how to take his place as the dog till he came back, and I am glad that I see nothing funny in this; it seems to me to belong to the play.",-0.1546,0.094,0.105,0.801,negative,Peter Pan
+I offer this obtuseness on my part as my first proof that I am the author.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Some say that we are different people at different periods of our lives, changing not through effort of will, which is a brave affair, but in the easy course of nature every ten years or so.",0.7227,0.155,0.0,0.845,positive,Peter Pan
+"I suppose this theory might explain my present trouble, but I don't hold with it; I think one remains the same person throughout, merely passing, as it were, in these lapses of time from one room to another, but all in the same house.",-0.2144,0.0,0.044,0.956,negative,Peter Pan
+"If we unlock the rooms of the far past we can peer in and see ourselves, busily occupied in beginning to become you and me.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Thus, if I am the author in question the way he is to go should already be showing in the occupant of my first compartment, at whom I now take the liberty to peep.",0.5267,0.099,0.0,0.901,positive,Peter Pan
+"Here he is at the age of seven or so with his fellow-conspirator Robb, both in glengarry bonnets.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+They are giving an entertainment in a tiny old washing-house that still stands.,0.6369,0.342,0.0,0.658,positive,Peter Pan
+"The charge for admission is preens, a bool, or a peerie (I taught you a good deal of Scotch, so possibly you can follow that), and apparently the culminating Act consists in our trying to put each other into the boiler, though some say that I also addressed the spell-bound audience.",0.4404,0.059,0.0,0.941,positive,Peter Pan
+"This washing-house is not only the theatre of my first play, but has a still closer connection with Peter.",0.1779,0.091,0.0,0.909,positive,Peter Pan
+"It is the original of the little house the Lost Boys built in the Never Land for Wendy, the chief difference being that it never wore John's hat as a chimney.",0.0679,0.071,0.063,0.866,positive,Peter Pan
+If Robb had owned such a hat I have no doubt that it would have been placed on the washing-house.,-0.5719,0.0,0.227,0.773,negative,Peter Pan
+"Here is that boy again some four years older, and the reading he is munching feverishly is about desert islands; he calls them wrecked islands.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+He buys his sanguinary tales surreptitiously in penny numbers.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I see a change coming over him; he is blanching as he reads in the high-class magazine, Chatterbox , a fulmination against such literature, and sees that unless his greed for islands is quenched he is for ever lost.",-0.6124,0.0,0.132,0.868,negative,Peter Pan
+"With gloaming he steals out of the house, his library bulging beneath his palpitating waistcoat.",-0.5106,0.0,0.191,0.809,negative,Peter Pan
+"I follow like his shadow, as indeed I am, and watch him dig a hole in a field at Pathhead farm and bury his islands in it; it was ages ago, but I could walk straight to that hole in the field now and delve for the remains.",0.4767,0.091,0.0,0.909,positive,Peter Pan
+I peep into the next compartment.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"There he is again, ten years older, an undergraduate now and craving to be a real explorer, one of those who do things instead of prating of them, but otherwise unaltered; he might be painted at twenty on top of a mast, in his hand a spy-glass through which he rakes the horizon for an elusive strand.",0.7579,0.111,0.0,0.889,positive,Peter Pan
+"I go from room to room, and he is now a man, real exploration abandoned (though only because no one would have him).",-0.5106,0.076,0.207,0.717,negative,Peter Pan
+"Soon he is even concocting other plays, and quaking a little lest some low person counts how many islands there are in them.",-0.3262,0.079,0.171,0.75,negative,Peter Pan
+"I note that with the years the islands grow more sinister, but it is only because he has now to write with the left hand, the right having given out; evidently one thinks more darkly down the left arm.",0.4026,0.1,0.061,0.839,positive,Peter Pan
+"Go to the keyhole of the compartment where he and I join up, and you may see us wondering whether they would stand one more island.",0.296,0.084,0.0,0.916,positive,Peter Pan
+"This journey through the house may not convince any one that I wrote Peter, but it does suggest me as a likely person.",-0.0951,0.0,0.064,0.936,negative,Peter Pan
+"I pause to ask myself whether I read Chatterbox again, suffered the old agony, and buried that MS. of the play in a hole in a field.",-0.5574,0.085,0.211,0.704,negative,Peter Pan
+Of course this is over-charged.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Perhaps we do change; except a little something in us which is no larger than a mote in the eye, and that, like it, dances in front of us beguiling us all our days.",0.0772,0.072,0.063,0.865,positive,Peter Pan
+I cannot cut the hair by which it hangs.,0.2057,0.206,0.0,0.794,positive,Peter Pan
+"The strongest evidence that I am the author is to be found, I think, in a now melancholy volume, the aforementioned The Boy Castaways ; so you must excuse me for parading that work here.",0.144,0.126,0.082,0.792,positive,Peter Pan
+"Officer of the Court, call The Boy Castaways .",0.0,0.0,0.0,1.0,neutral,Peter Pan
+The witness steps forward and proves to be a book you remember well though you have not glanced at it these many years.,0.2732,0.091,0.0,0.909,positive,Peter Pan
+"I pulled it out of a bookcase just now not without difficulty, for its recent occupation has been to support the shelf above.",0.2343,0.115,0.075,0.81,positive,Peter Pan
+"I suppose, though I am uncertain, that it was I and not you who hammered it into that place of utility.",-0.296,0.0,0.115,0.885,negative,Peter Pan
+"It is a little battered and bent after the manner of those who shoulder burdens, and ought (to our shame) to remind us of the witnesses who sometimes get an hour off from the cells to give evidence before his Lordship.",-0.3612,0.0,0.06,0.94,negative,Peter Pan
+"I have said that it is the rarest of my printed works, as it must be, for the only edition was limited to two copies, of which one (there was always some devilry in any matter connected with Peter) instantly lost itself in railway carriage.",-0.7845,0.022,0.163,0.815,negative,Peter Pan
+This is the survivor.,0.3612,0.455,0.0,0.545,positive,Peter Pan
+"The idlers in court may have assumed that it is a handwritten screed, and are impressed by its bulk.",0.4767,0.154,0.0,0.846,positive,Peter Pan
+"It is printed by Constable's (how handsomely you did us, dear Blaikie), it contains thirty-five illustrations and is bound in cloth with a picture stamped on the cover of the three eldest of you 'setting out to be wrecked.'",0.6705,0.133,0.0,0.867,positive,Peter Pan
+"This record is supposed to be edited by the youngest of the three, and I must have granted him that honour to make up for his being so often lifted bodily out of our adventures by his nurse, who kept breaking into them for the fell purpose of giving him a midday rest.",0.8591,0.183,0.0,0.817,positive,Peter Pan
+No.,-0.296,0.0,1.0,0.0,negative,Peter Pan
+"4 rested so much at this period that he was merely an honorary member of the band, waving his foot to you for luck when you set off with bow and arrow to shoot his dinner for him; and one may rummage the book in vain for any trace of No.",-0.25,0.093,0.128,0.779,negative,Peter Pan
+5.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Here is the title-page, except that you are numbered instead of named-- THE BOY CASTAWAYS OF BLACK LAKE ISLAND Being a record of the Terrible Adventures of Three Brothers in the summer of 1901 faithfully set forth by No.",-0.0258,0.117,0.119,0.764,neutral,Peter Pan
+3.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+LONDON Published by J. M. Barrie in the Gloucester Road 1901 There is a long preface by No.,-0.296,0.0,0.121,0.879,negative,Peter Pan
+3 in which we gather your ages at this first flight.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+'No.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"1 was eight and a month, No.",-0.296,0.0,0.355,0.645,negative,Peter Pan
+"2 was approaching his seventh lustrum, and I was a good bit past four.'",0.4404,0.225,0.0,0.775,positive,Peter Pan
+"Of his two elders, while commending their fearless dispositions, the editor complains that they wanted to do all the shooting and carried the whole equipment of arrows inside their shirts.",0.0772,0.087,0.078,0.836,positive,Peter Pan
+"He is attractively modest about himself, 'Of No.",0.25,0.281,0.193,0.526,positive,Peter Pan
+"3 I prefer to say nothing, hoping that the tale as it is unwound will show that he was a boy of deeds rather than of words,' a quality which he hints did not unduly protrude upon the brows of Nos.",-0.3252,0.0,0.061,0.939,negative,Peter Pan
+1 and 2.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"His preface ends on a high note, 'I should say that the work was in the first instance compiled as a record simply at which we could whet our memories, and that it is now published for No.",-0.296,0.0,0.059,0.941,negative,Peter Pan
+4's benefit.,0.4588,0.75,0.0,0.25,positive,Peter Pan
+If it teaches him by example lessons in fortitude and manly endurance we shall consider that we were not wrecked in vain.',0.0,0.0,0.0,1.0,neutral,Peter Pan
+Published to whet your memories.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Does it whet them?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Do you hear once more, like some long-forgotten whistle beneath your window (Robb at dawn calling me to the fishing!)",0.474,0.14,0.0,0.86,positive,Peter Pan
+"the not quite mortal blows that still echo in some of the chapter headings?--'Chapter II, No.",-0.296,0.0,0.128,0.872,negative,Peter Pan
+1 teaches Wilkinson (his master) a Stern Lesson--We Run away to Sea.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Chapter III, A Fearful Hurricane--Wreck of the ""Anna Pink""--We go crazy from Want of Food--Proposal to eat No.",-0.7579,0.059,0.353,0.588,negative,Peter Pan
+3--Land Ahoy.',0.0,0.0,0.0,1.0,neutral,Peter Pan
+Such are two chapters out of sixteen.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Are these again your javelins cutting tunes in the blue haze of the pines; do you sweat as you scale the dreadful Valley of Rolling Stones, and cleanse your hands of pirate blood by scouring them carelessly in Mother Earth?",-0.6597,0.0,0.147,0.853,negative,Peter Pan
+"Can you still make a fire (you could do it once, Mr. Seton-Thompson taught us in, surely an odd place, the Reform Club) by rubbing those sticks together?",-0.2023,0.092,0.149,0.759,negative,Peter Pan
+Was it the travail of hut-building that subsequently advised Peter to find a 'home under the ground'?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"The bottle and mugs in that lurid picture, 'Last night on the Island,' seem to suggest that you had changed from Lost Boys into pirates, which was probably also a tendency of Peter's.",-0.3182,0.0,0.069,0.931,negative,Peter Pan
+"Listen again to our stolen saw-mill, man's proudest invention; when he made the saw-mill he beat the birds for music in a wood.",0.1027,0.134,0.119,0.746,positive,Peter Pan
+"The illustrations (full-paged) in The Boy Castaways are all photographs taken by myself; some of them indeed of phenomena that had to be invented afterwards, for you were always off doing the wrong things when I pressed the button.",-0.4767,0.0,0.077,0.923,negative,Peter Pan
+I see that we combined instruction with amusement; perhaps we had given our kingly word to that effect.,0.3612,0.135,0.0,0.865,positive,Peter Pan
+"How otherwise account for such wording to the pictures as these: 'It is undoubtedly,' says No.",-0.296,0.0,0.128,0.872,negative,Peter Pan
+"1 in a fir tree that is bearing unwonted fruit, recently tied to it, 'the Cocos nucifera , for observe the slender columns supporting the crown of leaves which fall with a grace that no art can imitate.'",0.5423,0.147,0.057,0.797,positive,Peter Pan
+"'Truly,' continues No.",-0.296,0.0,0.524,0.476,negative,Peter Pan
+"1 under the same tree in another forest as he leans upon his trusty gun, 'though the perils of these happenings are great, yet would I rejoice to endure still greater privations to be thus rewarded by such wondrous studies of Nature.'",0.926,0.304,0.046,0.65,positive,Peter Pan
+"He is soon back to the practical, however, 'recognising the Mango ( Magnifera indica ) by its lancet-shaped leaves and the cucumber-shaped fruit.'",0.0,0.0,0.0,1.0,neutral,Peter Pan
+No.,-0.296,0.0,1.0,0.0,negative,Peter Pan
+"1 was certainly the right sort of voyager to be wrecked with, though if my memory fails me not, No.",0.125,0.186,0.121,0.693,positive,Peter Pan
+"2, to whom these strutting observations were addressed, sometimes protested because none of them was given to him.",-0.128,0.0,0.081,0.919,negative,Peter Pan
+No.,-0.296,0.0,1.0,0.0,negative,Peter Pan
+"3 being the author is in surprisingly few of the pictures, but this, you may remember, was because the lady already darkly referred to used to pluck him from our midst for his siesta at 12 o'clock, which was the hour that best suited the camera.",0.8126,0.147,0.0,0.853,positive,Peter Pan
+With a skill on which he has never been complimented the photographer sometimes got No.,-0.5472,0.0,0.274,0.726,negative,Peter Pan
+3 nominally included in a wild-life picture when he was really in a humdrum house kicking on the sofa.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Thus in a scene representing Nos.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+1 and 2 sitting scowling outside the hut it is untruly written that they scowled because 'their brother was within singing and playing on a barbaric instrument.,0.2023,0.073,0.0,0.927,positive,Peter Pan
+"The music,' the unseen No.",-0.296,0.0,0.355,0.645,negative,Peter Pan
+3 is represented as saying (obviously forestalling No.,-0.296,0.0,0.268,0.732,negative,Peter Pan
+"1), 'is rude and to a cultured ear discordant, but the songs like those of the Arabs are full of poetic imagery.'",0.3071,0.134,0.082,0.784,positive,Peter Pan
+He was perhaps allowed to say this sulkily on the sofa.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Though The Boy Castaways has sixteen chapter-headings, there is no other letterpress; an absence which possible purchasers might complain of, though there are surely worse ways of writing a book than this.",-0.5994,0.077,0.207,0.716,negative,Peter Pan
+"These headings anticipate much of the play of Peter Pan , but there were many incidents of our Kensington Gardens days that never get into the book, such as our Antarctic exploits when we reached the Pole in advance of our friend Captain Scott and cut our initials on it for him to find, a strange foreshadowing of what was really to happen.",-0.09,0.108,0.113,0.78,negative,Peter Pan
+"In The Boy Castaways Captain Hook has arrived but is called Captain Swarthy, and he seems from the pictures to have been a black man.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"This character, as you do not need to be told, is held by those in the know to be autobiographical.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"You had many tussels with him (though you never, I think, got his right arm) before you reached the terrible chapter (which might be taken from the play) entitled 'We Board the Pirate Ship at Dawn--A Rakish Craft--No.",-0.1531,0.086,0.076,0.837,negative,Peter Pan
+1 Hew-them-Down and No.,-0.296,0.0,0.524,0.476,negative,Peter Pan
+2 of the Red Hatchet--A Holocaust of Pirates--Rescue of Peter.',0.0,0.0,0.0,1.0,neutral,Peter Pan
+"(Hullo, Peter rescued instead of rescuing others?",0.4215,0.318,0.0,0.682,positive,Peter Pan
+"I know what that means and so do you, but we are not going to give away all our secrets.)",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"The scene of the Holocaust is the Black Lake (afterwards, when we let women in, the Mermaids' Lagoon).",0.0,0.0,0.0,1.0,neutral,Peter Pan
+The pirate captain's end was not in the mouth of a crocodile though we had crocodiles on the spot ('while No.,-0.296,0.0,0.104,0.896,negative,Peter Pan
+2 was removing the crocodiles from the stream No.,-0.296,0.0,0.239,0.761,negative,Peter Pan
+"1 shot a few parrots, Psittacidae , for our evening meal').",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I think our captain had divers deaths owing to unseemly competition among you, each wanting to slay him single-handed.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"On a special occasion, such as when No.",0.128,0.273,0.222,0.505,positive,Peter Pan
+"3 pulled out the tooth himself, you gave the deed to him, but took it from him while he rested.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+The only pictorial representation in the book of Swarthy's fate is in two parts.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"In one, called briefly 'We string him up,' Nos.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"1 and 2, stern as Athos, are hauling him up a tree by a rope, his face snarling as if it were a grinning mask (which indeed it was), and his garments very like some of my own stuffed with bracken.",0.6478,0.131,0.0,0.869,positive,Peter Pan
+"The other, the same scene next day, is called 'The Vultures had Picked him Clean,' and tells its own tale.",-0.3182,0.0,0.108,0.892,negative,Peter Pan
+The dog in The Boy Castaways seems never to have been called Nana but was evidently in training for that post.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+He originally belonged to Swarthy (or to Captain Marryat?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"), and the first picture of him, lean, skulking, and hunched (how did I get that effect?",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"), 'patrolling the island' in that monster's interests, gives little indication of the domestic paragon he was to become.",0.25,0.1,0.0,0.9,positive,Peter Pan
+"We lured him away to the better life, and there is, later, a touching picture, a clear forecast of the Darling nursery, entitled 'We trained the dog to watch over us while we slept.'",0.886,0.289,0.0,0.711,positive,Peter Pan
+"In this he also is sleeping, in a position that is a careful copy of his charges; indeed any trouble we had with him was because, once he knew he was in a story, he thought his safest course was to imitate you in everything you did.",-0.128,0.088,0.098,0.815,negative,Peter Pan
+"How anxious he was to show that he understood the game, and more generous than you, he never pretended that he was the one who killed Captain Swarthy.",-0.4417,0.102,0.185,0.712,negative,Peter Pan
+"I must not imply that he was entirely without initiative, for it was his own idea to bark warningly a minute or two before twelve o'clock as a signal to No.",-0.296,0.0,0.075,0.925,negative,Peter Pan
+3 that his keeper was probably on her way for him (Disappearance of No.,-0.296,0.0,0.155,0.845,negative,Peter Pan
+"3); and he became so used to living in the world of Pretend that when we reached the hut of a morning he was often there waiting for us, looking, it is true, rather idiotic, but with a new bark he had invented which puzzled us until we decided that he was demanding the password.",-0.5859,0.053,0.136,0.81,negative,Peter Pan
+"He was always willing to do any extra jobs, such as becoming the tiger in mask, and when after a fierce engagement you carried home that mask in triumph, he joined in the procession proudly and never let on that the trophy had ever been part of him.",0.8658,0.181,0.0,0.819,positive,Peter Pan
+"Long afterwards he saw the play from a box in the theatre, and as familiar scenes were unrolled before his eyes I have never seen a dog so bothered.",-0.1509,0.082,0.102,0.817,negative,Peter Pan
+"At one matinee we even let him for a moment take the place of the actor who played Nana, and I don't know that any members of the audience ever noticed the change, though he introduced some 'business' that was new to them but old to you and me.",0.1779,0.036,0.0,0.964,positive,Peter Pan
+"Heigh-ho, I suspect that in this reminiscence I am mixing him up with his successor, for such a one there had to be, the loyal Newfoundland who, perhaps in the following year, applied, so to say, for the part by bringing hedgehogs to the hut in his mouth as offerings for our evening repasts.",0.4215,0.091,0.04,0.87,positive,Peter Pan
+The head and coat of him were copied for the Nana of the play.,0.34,0.156,0.0,0.844,positive,Peter Pan
+"They do seem to be emerging out of our island, don't they, the little people of the play, all except that sly one, the chief figure, who draws farther and farther into the wood as we advance upon him?",0.34,0.059,0.0,0.941,positive,Peter Pan
+"He so dislikes being tracked, as if there were something odd about him, that when he dies he means to get up and blow away the particle that will be his ashes.",-0.6478,0.0,0.15,0.85,negative,Peter Pan
+"Wendy has not yet appeared, but she has been trying to come ever since that loyal nurse cast the humorous shadow of woman upon the scene and made us feel that it might be fun to let in a disturbing element.",0.8201,0.229,0.085,0.686,positive,Peter Pan
+Perhaps she would have bored her way in at last whether we wanted her or not.,-0.2732,0.0,0.123,0.877,negative,Peter Pan
+"It may be that even Peter did not really bring her to the Never Land of his free will, but merely pretended to do so because she would not stay away.",0.2846,0.067,0.0,0.933,positive,Peter Pan
+Even Tinker Bell had reached our island before we left it.,0.1027,0.123,0.0,0.877,positive,Peter Pan
+It was one evening when we climbed the wood carrying No.,-0.296,0.0,0.18,0.82,negative,Peter Pan
+4 to show him what the trail was like by twilight.,0.3612,0.217,0.0,0.783,positive,Peter Pan
+As our lanterns twinkled among the leaves No.,-0.296,0.0,0.239,0.761,negative,Peter Pan
+"4 saw a twinkle stand still for a moment and he waved his foot gaily to it, thus creating Tink.",0.296,0.121,0.0,0.879,positive,Peter Pan
+"It must not be thought, however, that there were any other sentimental passages between No.",0.0258,0.131,0.126,0.743,neutral,Peter Pan
+"4 and Tink; indeed, as he got to know her better he suspected her of frequenting the hut to see what we had been having for supper, and to partake of the same, and he pursued her with malignancy.",0.25,0.071,0.047,0.882,positive,Peter Pan
+A safe but sometimes chilly way of recalling the past is to force open a crammed drawer.,0.2382,0.122,0.0,0.878,positive,Peter Pan
+"If you are searching for anything in particular you don't find it, but something falls out at the back that is often more interesting.",0.611,0.148,0.0,0.852,positive,Peter Pan
+"It is in this way that I get my desultory reading, which includes the few stray leaves of the original MS. of Peter that I have said I do possess, though even they, when returned to the drawer, are gone again, as if that touch of devilry lurked in them still.",-0.3612,0.044,0.073,0.883,negative,Peter Pan
+They show that in early days I hacked at and added to the play.,-0.0772,0.149,0.168,0.683,negative,Peter Pan
+"In the drawer I find some scraps of Mr. Crook's delightful music, and other incomplete matter relating to Peter.",0.5994,0.234,0.0,0.766,positive,Peter Pan
+Here is the reply of a boy whom I favoured with a seat in my box and injudiciously asked at the end what he had liked best.,0.8689,0.318,0.0,0.682,positive,Peter Pan
+"'What I think I liked best,' he said, 'was tearing up the programme and dropping the bits on people's heads.'",0.4215,0.141,0.0,0.859,positive,Peter Pan
+Thus am I often laid low.,-0.2732,0.0,0.344,0.656,negative,Peter Pan
+A copy of my favourite programme of the play is still in the drawer.,0.34,0.167,0.0,0.833,positive,Peter Pan
+In the first or second year of Peter No.,-0.296,0.0,0.216,0.784,negative,Peter Pan
+"4 could not attend through illness, so we took the play to his nursery, far away in the country, an array of vehicles almost as glorious as a travelling circus; the leading parts were played by the youngest children in the London company, and No.",0.8307,0.215,0.043,0.742,positive,Peter Pan
+"4, aged five, looked on solemnly at the performance from his bed and never smiled once.",-0.2617,0.097,0.153,0.751,negative,Peter Pan
+"That was my first and only appearance on the real stage, and this copy of the programme shows I was thought so meanly of as an actor that they printed my name in smaller letters than the others.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+I have said little here of Nos.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"4 and 5, and it is high time I had finished.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"They had a long summer day, and I turn round twice and now they are off to school.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"On Monday, as it seems, I was escorting No.",-0.296,0.0,0.239,0.761,negative,Peter Pan
+"5 to a children's party and brushing his hair in the ante-room; and by Thursday he is placing me against the wall of an underground station and saying, 'Now I am going to get the tickets; don't move till I come back for you or you'll lose yourself.'",0.0,0.057,0.057,0.886,neutral,Peter Pan
+No.,-0.296,0.0,1.0,0.0,negative,Peter Pan
+"4 jumps from being astride my shoulders fishing, I knee-deep in the stream, to becoming, while still a schoolboy, the sternest of my literary critics.",-0.296,0.0,0.095,0.905,negative,Peter Pan
+"Anything he shook his head over I abandoned, and conceivably the world has thus been deprived of masterpieces.",-0.4588,0.146,0.312,0.542,negative,Peter Pan
+There was for instance an unfortunate little tragedy which I liked until I foolishly told No.,-0.8615,0.107,0.512,0.381,negative,Peter Pan
+"4 its subject, when he frowned and said he had better have a look at it.",0.4404,0.182,0.0,0.818,positive,Peter Pan
+"He read it, and then, patting me on the back, as only he and No.",-0.296,0.0,0.136,0.864,negative,Peter Pan
+"1 could touch me, said, 'You know you can't do this sort of thing.'",0.0,0.0,0.0,1.0,neutral,Peter Pan
+End of a tragedian.,-0.128,0.0,0.429,0.571,negative,Peter Pan
+"Sometimes, however, No.",-0.296,0.0,0.524,0.476,negative,Peter Pan
+"4 liked my efforts, and I walked in the azure that day when he returned Dear Brutus to me with the comment 'Not so bad.'",0.6597,0.205,0.0,0.795,positive,Peter Pan
+"In earlier days, when he was ten, I offered him the MS. of my book Margaret Ogilvy .",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"'Oh, thanks,' he said almost immediately, and added, 'Of course my desk is awfully full.'",0.0,0.0,0.0,1.0,neutral,Peter Pan
+I reminded him that he could take out some of its more ridiculous contents.,-0.4201,0.0,0.189,0.811,negative,Peter Pan
+"He said, 'I have read it already in the book.'",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"This I had not known, and I was secretly elated, but I said that people sometimes liked to preserve this kind of thing as a curiosity.",0.743,0.24,0.0,0.76,positive,Peter Pan
+He said 'Oh' again.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+I said tartly that he was not compelled to take it if he didn't want it.,-0.0951,0.0,0.154,0.846,negative,Peter Pan
+"He said, 'Of course I want it, but my desk----' Then he wriggled out of the room and came back in a few minutes dragging in No.",-0.3919,0.043,0.104,0.853,negative,Peter Pan
+"5 and announcing triumphantly, 'No.",0.5106,0.524,0.0,0.476,positive,Peter Pan
+5 will have it.',0.0,0.0,0.0,1.0,neutral,Peter Pan
+The rebuffs I have got from all of you!,0.0,0.0,0.0,1.0,neutral,Peter Pan
+They were especially crushing in those early days when one by one you came out of your belief in fairies and lowered on me as the deceiver.,-0.5095,0.0,0.147,0.853,negative,Peter Pan
+"My grandest triumph, the best thing in the play of Peter Pan (though it is not in it), is that long after No.",0.8979,0.393,0.066,0.541,positive,Peter Pan
+"4 had ceased to believe, I brought him back to the faith for at least two minutes.",0.4215,0.167,0.0,0.833,positive,Peter Pan
+"We were on our way in a boat to fish the Outer Hebrides (where we caught Mary Rose ), and though it was a journey of days he wore his fishing basket on his back all the time, so as to be able to begin at once.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"His one pain was the absence of Johnny Mackay, for Johnny was the loved gillie of the previous summer who had taught him everything that is worth knowing (which is a matter of flies) but could not be with us this time as he would have had to cross and re-cross Scotland to reach us.",0.2382,0.107,0.038,0.856,positive,Peter Pan
+As the boat drew near the Kyle of Lochalsh pier I told Nos.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+4 and 5 it was such a famous wishing pier that they had now but to wish and they should have.,0.6124,0.238,0.0,0.762,positive,Peter Pan
+No.,-0.296,0.0,1.0,0.0,negative,Peter Pan
+"5 believed at once and expressed a wish to meet himself (I afterwards found him on the pier searching faces confidently), but No.",-0.2382,0.078,0.118,0.803,negative,Peter Pan
+4 thought it more of my untimely nonsense and doggedly declined to humour me.,0.1027,0.185,0.161,0.655,positive,Peter Pan
+"'Whom do you want to see most, No.",-0.2944,0.133,0.255,0.613,negative,Peter Pan
+4?',0.0,0.0,0.0,1.0,neutral,Peter Pan
+'Of course I would like most to see Johnny Mackay.',0.3612,0.238,0.0,0.762,positive,Peter Pan
+"'Well, then, wish for him.'",0.4019,0.403,0.0,0.597,positive,Peter Pan
+"'Oh, rot.'",0.0,0.0,0.0,1.0,neutral,Peter Pan
+'It can't do any harm to wish.',0.431,0.322,0.0,0.678,positive,Peter Pan
+"Contemptuously he wished, and as the ropes were thrown on the pier he saw Johnny waiting for him, loaded with angling paraphernalia.",-0.5267,0.0,0.139,0.861,negative,Peter Pan
+"I know no one less like a fairy than Johnny Mackay, but for two minutes No.",-0.4208,0.094,0.259,0.647,negative,Peter Pan
+4 was quivering in another world than ours.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"When he came to he gave me a smile which meant that we understood each other, and thereafter neglected me for a month, being always with Johnny.",-0.2263,0.087,0.118,0.796,negative,Peter Pan
+"As I have said, this episode is not in the play; so though I dedicate Peter Pan to you I keep the smile, with the few other broken fragments of immortality that have come my way.",-0.3891,0.066,0.136,0.797,negative,Peter Pan
+"ACT I THE NURSERY The night nursery of the Darling family, which is the scene of our opening Act, is at the top of a rather depressed street in Bloomsbury.",0.3182,0.165,0.097,0.737,positive,Peter Pan
+"We have a right to place it where we will, and the reason Bloomsbury is chosen is that Mr. Roget once lived there.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+So did we in days when his Thesaurus was our only companion in London; and we whom he has helped to wend our way through life have always wanted to pay him a little compliment.,0.3415,0.078,0.039,0.884,positive,Peter Pan
+The Darlings therefore lived in Bloomsbury.,0.4939,0.39,0.0,0.61,positive,Peter Pan
+"It is a corner house whose top window, the important one, looks upon a leafy square from which Peter used to fly up to it, to the delight of three children and no doubt the irritation of passers-by.",-0.128,0.165,0.176,0.659,negative,Peter Pan
+"The street is still there, though the steaming sausage shop has gone; and apparently the same cards perch now as then over the doors, inviting homeless ones to come and stay with the hospitable inhabitants.",0.3182,0.063,0.0,0.937,positive,Peter Pan
+"Since the days of the Darlings, however, a lick of paint has been applied; and our corner house in particular, which has swallowed its neighbour, blooms with awful freshness as if the colours had been discharged upon it through a hose.",0.0516,0.074,0.069,0.856,positive,Peter Pan
+"Its card now says 'No children,' meaning maybe that the goings-on of Wendy and her brothers have given the house a bad name.",-0.6908,0.0,0.222,0.778,negative,Peter Pan
+"As for ourselves, we have not been in it since we went back to reclaim our old Thesaurus.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"That is what we call the Darling house, but you may dump it down anywhere you like, and if you think it was your house you are very probably right.",0.3071,0.157,0.094,0.749,positive,Peter Pan
+"It wanders about London looking for anybody in need of it, like the little house in the Never Land.",0.3612,0.122,0.0,0.878,positive,Peter Pan
+"The blind (which is what Peter would have called the theatre curtain if he had ever seen one) rises on that top room, a shabby little room if Mrs.",-0.2263,0.059,0.089,0.852,negative,Peter Pan
+"Darling had not made it the hub of creation by her certainty that such it was, and adorned it to match with a loving heart and all the scrapings of her purse.",0.9118,0.343,0.0,0.657,positive,Peter Pan
+"The door on the right leads into the day nursery, which she has no right to have, but she made it herself with nails in her mouth and a paste-pot in her hand.",0.5719,0.12,0.045,0.836,positive,Peter Pan
+This is the door the children will come in by.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"There are three beds and (rather oddly) a large dog-kennel; two of these beds, with the kennel, being on the left and the other on the right.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+The coverlets of the beds (if visitors are expected) are made out of Mrs.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Darling's wedding-gown, which was such a grand affair that it still keeps them pinched.",0.4588,0.2,0.0,0.8,positive,Peter Pan
+"Over each bed is a china house, the size of a linnet's nest, containing a night-light.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"The fire, which is on our right, is burning as discreetly as if it were in custody, which in a sense it is, for supporting the mantelshelf are two wooden soldiers, home-made, begun by Mr.",0.128,0.078,0.064,0.858,positive,Peter Pan
+"Darling, finished by Mrs.",0.5859,0.559,0.0,0.441,positive,Peter Pan
+"Darling, repainted (unfortunately) by John Darling.",0.8225,0.655,0.0,0.345,positive,Peter Pan
+On the fire-guard hang incomplete parts of children's night attire.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+The door the parents will come in by is on the left.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"At the back is the bathroom door, with a cuckoo clock over it; and in the centre is the window, which is at present ever so staid and respectable, but half an hour hence (namely at 6.30 p.m.) will be able to tell a very strange tale to the police.",-0.1425,0.041,0.052,0.907,negative,Peter Pan
+"The only occupant of the room at present is Nana the nurse, reclining, not as you might expect on the one soft chair, but on the floor.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"She is a Newfoundland dog, and though this may shock the grandiose, the not exactly affluent will make allowances.",-0.3818,0.0,0.133,0.867,negative,Peter Pan
+"The Darlings could not afford to have a nurse, they could not afford indeed to have children; and now you are beginning to understand how they did it.",0.4939,0.11,0.0,0.89,positive,Peter Pan
+Of course Nana has been trained by Mrs.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Darling, but like all treasures she was born to it.",0.8537,0.572,0.0,0.428,positive,Peter Pan
+"In this play we shall see her chiefly inside the house, but she was just as exemplary outside, escorting the two elders to school with an umbrella in her mouth, for instance, and butting them back into line if they strayed.",0.1779,0.041,0.0,0.959,positive,Peter Pan
+"The cuckoo clock strikes six, and Nana springs into life.",-0.3612,0.0,0.217,0.783,negative,Peter Pan
+"This first moment in the play is tremendously important, for if the actor playing Nana does not spring properly we are undone.",0.6478,0.249,0.0,0.751,positive,Peter Pan
+"She will probably be played by a boy, if one clever enough can be found, and must never be on two legs except on those rare occasions when an ordinary nurse would be on four.",0.6597,0.144,0.0,0.856,positive,Peter Pan
+"This Nana must go about all her duties in a most ordinary manner, so that you know in your bones that she performs them just so every evening at six; naturalness must be her passion; indeed, it should be the aim of every one in the play, for which she is now setting the pace.",0.6597,0.094,0.0,0.906,positive,Peter Pan
+"All the characters, whether grown-ups or babes, must wear a child's outlook on life as their only important adornment.",0.4767,0.204,0.0,0.796,positive,Peter Pan
+If they cannot help being funny they are begged to go away.,-0.5667,0.0,0.318,0.682,negative,Peter Pan
+"A good motto for all would be 'The little less, and how much it is.'",0.4404,0.182,0.0,0.818,positive,Peter Pan
+"Nana, making much use of her mouth, 'turns down' the beds, and carries the various articles on the fire-guard across to them.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Then pushing the bathroom door open, she is seen at work on the taps preparing Michael's bath; after which she enters from the day nursery with the youngest of the family on her back.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MICHAEL ( obstreperous ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I won't go to bed, I won't, I won't.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Nana, it isn't six o'clock yet.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Two minutes more, please, one minute more?",0.3804,0.302,0.0,0.698,positive,Peter Pan
+"Nana, I won't be bathed, I tell you I will not be bathed.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"( Here the bathroom door closes on them, and MRS.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"DARLING , who has perhaps heard his cry, enters the nursery.",0.347,0.29,0.198,0.512,positive,Peter Pan
+"She is the loveliest lady in Bloomsbury, with a sweet mocking mouth, and as she is going out to dinner to-night she is already wearing her evening gown because she knows her children like to see her in it.",0.4215,0.127,0.062,0.81,positive,Peter Pan
+It is a delicious confection made by herself out of nothing and other people's mistakes.,0.296,0.203,0.137,0.659,positive,Peter Pan
+"She does not often go out to dinner, preferring when the children are in bed to sit beside them tidying up their minds, just as if they were drawers.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"If WENDY and the boys could keep awake they might see her repacking into their proper places the many articles of the mind that have strayed during the day, lingering humorously over some of their contents, wondering where on earth they picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek and hurriedly stowing that out of sight.",0.8519,0.132,0.0,0.868,positive,Peter Pan
+"When they wake in the morning the naughtinesses with which they went to bed are not, alas, blown away, but they are placed at the bottom of the drawer; and on the top, beautifully aired, are their prettier thoughts ready for the new day.",0.9438,0.292,0.0,0.708,positive,Peter Pan
+As she enters the room she is startled to see a strange little face outside the window and a hand groping as if it wanted to come in. ),0.1779,0.108,0.118,0.774,positive,Peter Pan
+MRS DARLING.,0.5859,0.792,0.0,0.208,positive,Peter Pan
+Who are you?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( The unknown disappears; she hurries to the window. ),-0.34,0.0,0.255,0.745,negative,Peter Pan
+No one there.,-0.296,0.0,0.524,0.476,negative,Peter Pan
+And yet I feel sure I saw a face.,0.3182,0.315,0.0,0.685,positive,Peter Pan
+My children!,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( She throws open the bathroom door and MICHAEL'S head appears gaily over the bath.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+He splashes; she throws kisses to him and closes the door.,0.5106,0.248,0.0,0.752,positive,Peter Pan
+"'Wendy, John,' she cries, and gets reassuring answers from the day nursery.",0.0,0.175,0.175,0.649,neutral,Peter Pan
+"She sits down, relieved, on WENDY'S bed; and WENDY and JOHN come in, looking their smallest size, as children tend to do to a mother suddenly in fear for them .)",-0.1531,0.077,0.095,0.828,negative,Peter Pan
+JOHN ( histrionically ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+We are doing an act; we are playing at being you and father.,0.2023,0.13,0.0,0.87,positive,Peter Pan
+( He imitates the only father who has come under his special notice. ),0.4019,0.197,0.0,0.803,positive,Peter Pan
+A little less noise there.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Now let us pretend we have a baby.,-0.1027,0.0,0.189,0.811,negative,Peter Pan
+JOHN ( good-naturedly ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I am happy to inform you, Mrs.",0.5719,0.425,0.0,0.575,positive,Peter Pan
+"Darling, that you are now a mother.",0.5859,0.432,0.0,0.568,positive,Peter Pan
+( WENDY gives way to ecstasy .),0.5994,0.438,0.0,0.562,positive,Peter Pan
+"You have missed the chief thing; you haven't asked, 'boy or girl?'",-0.296,0.0,0.167,0.833,negative,Peter Pan
+WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I am so glad to have one at all, I don't care which it is.",0.1692,0.195,0.155,0.65,positive,Peter Pan
+JOHN ( crushingly ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+That is just the difference between gentlemen and ladies.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Now you tell me.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I am happy to acquaint you, Mr.",0.5719,0.425,0.0,0.575,positive,Peter Pan
+"Darling, you are now a father.",0.5859,0.487,0.0,0.513,positive,Peter Pan
+JOHN.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Boy or girl?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+WENDY ( presenting herself ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Girl.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+JOHN.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Tuts.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+You horrid.,-0.5423,0.0,0.778,0.222,negative,Peter Pan
+JOHN.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Go on.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I am happy to acquaint you, Mr.",0.5719,0.425,0.0,0.575,positive,Peter Pan
+"Darling, you are again a father.",0.5859,0.487,0.0,0.513,positive,Peter Pan
+JOHN.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Boy or girl?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Boy.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( JOHN beams .),0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Mummy, it's hateful of him.",-0.4939,0.0,0.444,0.556,negative,Peter Pan
+( MICHAEL emerges from the bathroom in JOHN'S old pyjamas and giving his face a last wipe with the towel .),0.34,0.118,0.0,0.882,positive,Peter Pan
+MICHAEL ( expanding ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Now, John, have me.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+JOHN.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+We don't want any more.,-0.0572,0.0,0.234,0.766,negative,Peter Pan
+MICHAEL ( contracting ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Am I not to be born at all?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+JOHN.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Two is enough.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MICHAEL ( wheedling ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Come, John; boy, John.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+( Appalled ) Nobody wants me!,-0.5093,0.0,0.523,0.477,negative,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+I do.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MICHAEL ( with a glimmer of hope ).,0.4404,0.367,0.0,0.633,positive,Peter Pan
+Boy or girl?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( with one of those happy thoughts of hers ).,0.8494,0.507,0.0,0.493,positive,Peter Pan
+Boy.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( Triumph of MICHAEL ; discomfiture of JOHN .,0.4767,0.383,0.0,0.617,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"DARLING arrives, in no mood unfortunately to gloat over this domestic scene.",0.2342,0.25,0.254,0.496,positive,Peter Pan
+"He is really a good man as bread-winners go, and it is hard luck for him to be propelled into the room now, when if we had brought him in a few minutes earlier or later he might have made a fairer impression.",0.7713,0.178,0.031,0.791,positive,Peter Pan
+"In the city where he sits on a stool all day, as fixed as a postage stamp, he is so like all the others on stools that you recognise him not by his face but by his stool, but at home the way to gratify him is to say that he has a distinct personality.",0.6213,0.092,0.0,0.908,positive,Peter Pan
+"He is very conscientious, and in the days when MRS.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"DARLING gave up keeping the house books correctly and drew pictures instead (which he called her guesses), he did all the totting up for her, holding her hand while he calculated whether they could have Wendy or not, and coming down on the right side.",0.8286,0.152,0.0,0.848,positive,Peter Pan
+"It is with regret, therefore, that we introduce him as a tornado, rushing into the nursery in evening dress, but without his coat, and brandishing in his hand a recalcitrant white tie. )",0.5267,0.126,0.056,0.819,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( implying that he has searched for her everywhere and that the nursery is a strange place in which to find her ).,0.5766,0.172,0.068,0.76,positive,Peter Pan
+"Oh, here you are, Mary.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( knowing at once what is the matter ).,0.6841,0.446,0.0,0.554,positive,Peter Pan
+"What is the matter, George dear?",0.4019,0.481,0.0,0.519,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( as if the word were monstrous ).,0.6739,0.393,0.0,0.607,positive,Peter Pan
+Matter!,0.1007,1.0,0.0,0.0,positive,Peter Pan
+"This tie, it will not tie.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+( He waxes sarcastic. ),-0.25,0.0,0.5,0.5,negative,Peter Pan
+Not round my neck.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Round the bed-post, oh yes; twenty times have I made it up round the bed-post, but round my neck, oh dear no; begs to be excused.",0.3506,0.175,0.093,0.732,positive,Peter Pan
+MICHAEL ( in a joyous transport ).,0.6249,0.506,0.0,0.494,positive,Peter Pan
+"Say it again, father, say it again!",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( witheringly ).,0.6739,0.694,0.0,0.306,positive,Peter Pan
+Thank you.,0.3612,0.714,0.0,0.286,positive,Peter Pan
+( Goaded by a suspiciously crooked smile on MRS.,-0.0516,0.245,0.265,0.49,negative,Peter Pan
+"DARLING'S face ) I warn you, Mary, that unless this tie is round my neck we don't go out to dinner to-night, and if I don't go out to dinner to-night I never go to the office again, and if I don't go to the office again you and I starve, and our children will be thrown into the streets.",-0.5106,0.0,0.076,0.924,negative,Peter Pan
+( The children blanch as they grasp the gravity of the situation. ),0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"Let me try, dear.",0.3818,0.464,0.0,0.536,positive,Peter Pan
+( In a terrible silence their progeny cluster round them.,-0.4767,0.0,0.307,0.693,negative,Peter Pan
+Will she succeed?,0.4939,0.615,0.0,0.385,positive,Peter Pan
+Their fate depends on it.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"She fails--no, she succeeds.",0.4939,0.516,0.0,0.484,positive,Peter Pan
+"In another moment they are wildly gay, romping round the room on each other's shoulders.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+Father is even a better horse than mother.,0.4404,0.326,0.0,0.674,positive,Peter Pan
+"MICHAEL is dropped upon his bed , WENDY retires to prepare for hers , JOHN runs from NANA , who has reappeared with the bath towel .)",0.0,0.0,0.0,1.0,neutral,Peter Pan
+JOHN ( rebellious ).,-0.296,0.0,0.524,0.476,negative,Peter Pan
+I won't be bathed.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+You needn't think it.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( in the grand manner ).,0.8192,0.653,0.0,0.347,positive,Peter Pan
+"Go and be bathed at once, sir.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+( With bent head JOHN follows NANA into the bathroom .,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING swells .),0.6739,0.694,0.0,0.306,positive,Peter Pan
+MICHAEL ( as he is put between the sheets ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Mother, how did you get to know me?",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+A little less noise there.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MICHAEL ( growing solemn ).,0.1027,0.34,0.26,0.4,positive,Peter Pan
+"At what time was I born, mother?",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"At two o'clock in the night-time, dearest.",0.5574,0.375,0.0,0.625,positive,Peter Pan
+MICHAEL.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Oh, mother, I hope I didn't wake you.",0.4404,0.367,0.0,0.633,positive,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"They are rather sweet, don't you think, George?",0.4588,0.3,0.0,0.7,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( doting ).,0.6739,0.694,0.0,0.306,positive,Peter Pan
+"There is not their equal on earth, and they are ours, ours!",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"( Unfortunately NANA has come from the bathroom for a sponge and she collides with his trousers, the first pair he has ever had with braid on them .)",-0.5423,0.0,0.153,0.847,negative,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"Mary, it is too bad; just look at this; covered with hairs.",-0.5423,0.0,0.241,0.759,negative,Peter Pan
+"Clumsy, clumsy!",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"( NANA goes, a drooping figure .)",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"Let me brush you, dear.",0.3818,0.394,0.0,0.606,positive,Peter Pan
+( Once more she is successful.,0.6204,0.504,0.0,0.496,positive,Peter Pan
+"They are now by the fire, and MICHAEL is in bed doing idiotic things with a teddy bear .)",-0.7184,0.0,0.273,0.727,negative,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( depressed ).,0.3034,0.513,0.374,0.113,positive,Peter Pan
+"I sometimes think, Mary, that it is a mistake to have a dog for a nurse.",-0.34,0.0,0.179,0.821,negative,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"George, Nana is a treasure.",0.296,0.423,0.0,0.577,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+No doubt; but I have an uneasy feeling at times that she looks upon the children as puppies.,-0.6124,0.081,0.314,0.605,negative,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( rather faintly ).,0.6739,0.602,0.0,0.398,positive,Peter Pan
+"Oh no, dear one, I am sure she knows they have souls.",0.4019,0.325,0.146,0.53,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( profoundly ).,0.6739,0.694,0.0,0.306,positive,Peter Pan
+"I wonder, I wonder.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+( The opportunity has come for her to tell him of something that is on her mind. ),0.4215,0.157,0.0,0.843,positive,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"George, we must keep Nana.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+I will tell you why.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( Her seriousness impresses him. ),0.4404,0.492,0.19,0.317,positive,Peter Pan
+"My dear, when I came into this room to-night I saw a face at the window.",0.3818,0.178,0.0,0.822,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( incredulous ).,0.6739,0.694,0.0,0.306,positive,Peter Pan
+"A face at the window, three floors up?",0.0,0.0,0.0,1.0,neutral,Peter Pan
+Pooh!,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+It was the face of a little boy; he was trying to get in.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"George, this is not the first time I have seen that boy.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( beginning to think that this may be a man's job ).,0.6739,0.312,0.0,0.688,positive,Peter Pan
+Oho!,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( making sure that MICHAEL does not hear ).,0.7804,0.494,0.0,0.506,positive,Peter Pan
+The first time was a week ago.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"It was Nana's night out, and I had been drowsing here by the fire when suddenly I felt a draught, as if the window were open.",-0.34,0.0,0.098,0.902,negative,Peter Pan
+I looked round and I saw that boy--in the room.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+In the room?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+I screamed.,-0.3182,0.0,1.0,0.0,negative,Peter Pan
+Just then Nana came back and she at once sprang at him.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+The boy leapt for the window.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"She pulled down the sash quickly, but was too late to catch him.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( who knows he would not have been too late ).,0.6739,0.312,0.0,0.688,positive,Peter Pan
+I thought so!,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+Wait.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"The boy escaped, but his shadow had not time to get out; down came the window and cut it clean off.",0.2263,0.141,0.105,0.754,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( heavily ).,0.6739,0.694,0.0,0.306,positive,Peter Pan
+"Mary, Mary, why didn't you keep that shadow?",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( scoring ).,0.6739,0.694,0.0,0.306,positive,Peter Pan
+I did.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I rolled it up, George; and here it is.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+( She produces it from a drawer.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"They unroll and examine the flimsy thing, which is not more material than a puff of smoke, and if let go would probably float into the ceiling without discolouring it.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+Yet it has human shape.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"As they nod their heads over it they present the most satisfying picture on earth, two happy parents conspiring cosily by the fire for the good of their children .)",0.8173,0.258,0.063,0.679,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"It is nobody I know, but he does look a scoundrel.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"I think he comes back to get his shadow, George.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( meaning that the miscreant has now a father to deal with ).,0.6739,0.292,0.0,0.708,positive,Peter Pan
+I dare say.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( He sees himself telling the story to the other stools at the office. ),0.0,0.0,0.0,1.0,neutral,Peter Pan
+"There is money in this, my love.",0.6369,0.412,0.0,0.588,positive,Peter Pan
+I shall take it to the British Museum to-morrow and have it priced.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( The shadow is rolled up and replaced in the drawer. ),0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( like a guilty person ).,0.6408,0.594,0.237,0.169,positive,Peter Pan
+"George, I have not told you all; I am afraid to.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( who knows exactly the right moment to treat a woman as a beloved child ).,0.8893,0.489,0.0,0.511,positive,Peter Pan
+"Cowardy, cowardy custard.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( pouting ).,0.6739,0.694,0.0,0.306,positive,Peter Pan
+"No, I'm not.",-0.296,0.0,0.524,0.476,negative,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"Oh yes, you are.",0.4019,0.474,0.0,0.526,positive,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"George, I'm not.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+Then why not tell?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( Thus cleverly soothed she goes on. ),0.5859,0.545,0.0,0.455,positive,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+The boy was not alone that first time.,0.1877,0.199,0.0,0.801,positive,Peter Pan
+"He was accompanied by--I don't know how to describe it; by a ball of light, not as big as my fist, but it darted about the room like a living thing.",0.5023,0.104,0.0,0.896,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( though open-minded ).,0.6739,0.602,0.0,0.398,positive,Peter Pan
+That is very unusual.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+It escaped with the boy?,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS DARLING.,0.5859,0.792,0.0,0.208,positive,Peter Pan
+Yes.,0.4019,1.0,0.0,0.0,positive,Peter Pan
+( Sliding her hand into his. ),0.4939,0.444,0.0,0.556,positive,Peter Pan
+"George, what can all this mean?",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( ever ready ).,0.7925,0.779,0.0,0.221,positive,Peter Pan
+What indeed!,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( This intimate scene is broken by the return of NANA with a bottle in her mouth .),-0.4767,0.0,0.171,0.829,negative,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( at once dissembling ).,0.6739,0.531,0.0,0.469,positive,Peter Pan
+"What is that, Nana?",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Ah, of course; Michael, it is your medicine.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MICHAEL ( promptly ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Won't take it.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( recalling his youth ).,0.6739,0.531,0.0,0.469,positive,Peter Pan
+"Be a man, Michael.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MICHAEL.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Won't.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MRS.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( weakly ).,0.4084,0.544,0.336,0.12,positive,Peter Pan
+I'll get you a lovely chocky to take after it.,0.5859,0.322,0.0,0.678,positive,Peter Pan
+"( She leaves the room, though her husband calls after her. )",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"Mary, don't pamper him.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"When I was your age, Michael, I took medicine without a murmur.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"I said 'Thank you, kind parents, for giving me bottles to make me well.'",0.8074,0.454,0.0,0.546,positive,Peter Pan
+"( WENDY , who has appeared in her nightgown, hears this and believes .)",0.0,0.0,0.0,1.0,neutral,Peter Pan
+WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"That medicine you sometimes take is much nastier, isn't it, father?",-0.5106,0.0,0.248,0.752,negative,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( valuing her support ).,0.8636,0.828,0.0,0.172,positive,Peter Pan
+Ever so must nastier.,-0.5542,0.0,0.544,0.456,negative,Peter Pan
+"And as an example to you, Michael, I would take it now ( thankfully ) if I hadn't lost the bottle.",0.5806,0.241,0.0,0.759,positive,Peter Pan
+WENDY ( always glad to be of service ).,0.4588,0.3,0.0,0.7,positive,Peter Pan
+"I know where it is, father.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+I'll fetch it.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+( She is gone before he can stop her.,-0.296,0.0,0.239,0.761,negative,Peter Pan
+"He turns for help to JOHN , who has come from the bathroom attired for bed .)",0.4019,0.153,0.0,0.847,positive,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"John, it is the most beastly stuff.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+It is that sticky sweet kind.,0.7506,0.615,0.0,0.385,positive,Peter Pan
+JOHN ( who is perhaps still playing at parents ).,0.2023,0.184,0.0,0.816,positive,Peter Pan
+"Never mind, father, it will soon be over.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+( A spasm of ill-will to JOHN cuts through MR.,-0.296,0.0,0.239,0.761,negative,Peter Pan
+"DARLING , and is gone .",0.6739,0.602,0.0,0.398,positive,Peter Pan
+WENDY returns panting .),0.0,0.0,0.0,1.0,neutral,Peter Pan
+WENDY.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Here it is, father; I have been as quick as I could.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( with a sarcasm that is completely thrown away on her ).,0.5622,0.294,0.123,0.583,positive,Peter Pan
+"You have been wonderfully quick, precious quick!",0.8356,0.612,0.0,0.388,positive,Peter Pan
+"( He is now at the foot of MICHAEL'S bed , NANA is by its side, holding the medicine spoon insinuatingly in her mouth .)",0.0,0.0,0.0,1.0,neutral,Peter Pan
+"WENDY ( proudly, as she pours out MR.",0.5574,0.375,0.0,0.625,positive,Peter Pan
+DARLING'S medicine ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+"Michael, now you will see how father takes it.",0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING ( hedging ).,0.6739,0.694,0.0,0.306,positive,Peter Pan
+Michael first.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MICHAEL ( full of unworthy suspicions ).,-0.6705,0.0,0.579,0.421,negative,Peter Pan
+Father first.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+MR.,0.0,0.0,0.0,1.0,neutral,Peter Pan
+DARLING.,0.5859,1.0,0.0,0.0,positive,Peter Pan
+"It will make me sick, you know.",-0.5106,0.0,0.355,0.645,negative,Peter Pan
+JOHN ( lightly ).,0.0,0.0,0.0,1.0,neutral,Peter Pan
+Come o,0.0,0.0,0.0,1.0,neutral,Peter Pan

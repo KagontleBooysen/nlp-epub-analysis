@@ -1,0 +1,431 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Carmilla This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Carmilla
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Carmilla
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Carmilla
+"Title : Carmilla Author : Joseph Sheridan Le Fanu Release date : November 1, 2003 [eBook #10007] Most recently updated: October 28, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/10007 Credits : Suzanne Shell, Sjaani and PG Distributed Proofreaders *** START OF THE PROJECT GUTENBERG EBOOK CARMILLA *** Carmilla by Joseph Sheridan Le Fanu Copyright 1872 Contents PROLOGUE CHAPTER I.",0.3612,0.043,0.0,0.957,positive,Carmilla
+An Early Fright CHAPTER II.,-0.3818,0.0,0.394,0.606,negative,Carmilla
+A Guest CHAPTER III.,0.0,0.0,0.0,1.0,neutral,Carmilla
+We Compare Notes CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,Carmilla
+Her Habits--A Saunter CHAPTER V. A Wonderful Likeness CHAPTER VI.,0.5719,0.316,0.0,0.684,positive,Carmilla
+A Very Strange Agony CHAPTER VII.,-0.6335,0.0,0.633,0.367,negative,Carmilla
+Descending CHAPTER VIII.,0.0,0.0,0.0,1.0,neutral,Carmilla
+Search CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,Carmilla
+The Doctor CHAPTER X. Bereaved CHAPTER XI.,-0.4767,0.0,0.341,0.659,negative,Carmilla
+The Story CHAPTER XII.,0.0,0.0,0.0,1.0,neutral,Carmilla
+A Petition CHAPTER XIII.,0.0,0.0,0.0,1.0,neutral,Carmilla
+The Woodman CHAPTER XIV.,0.0,0.0,0.0,1.0,neutral,Carmilla
+The Meeting CHAPTER XV.,0.0,0.0,0.0,1.0,neutral,Carmilla
+Ordeal and Execution CHAPTER XVI.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"Conclusion PROLOGUE Upon a paper attached to the Narrative which follows, Doctor Hesselius has written a rather elaborate note, which he accompanies with a reference to his Essay on the strange subject which the MS. illuminates.",-0.2023,0.0,0.053,0.947,negative,Carmilla
+"This mysterious subject he treats, in that Essay, with his usual learning and acumen, and with remarkable directness and condensation.",0.5574,0.159,0.0,0.841,positive,Carmilla
+It will form but one volume of the series of that extraordinary man's collected papers.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"As I publish the case, in this volume, simply to interest the ""laity,"" I shall forestall the intelligent lady, who relates it, in nothing; and after due consideration, I have determined, therefore, to abstain from presenting any précis of the learned Doctor's reasoning, or extract from his statement on a subject which he describes as ""involving, not improbably, some of the profoundest arcana of our dual existence, and its intermediates.""",0.8126,0.118,0.0,0.882,positive,Carmilla
+"I was anxious on discovering this paper, to reopen the correspondence commenced by Doctor Hesselius, so many years before, with a person so clever and careful as his informant seems to have been.",0.5761,0.16,0.056,0.784,positive,Carmilla
+"Much to my regret, however, I found that she had died in the interval.",-0.7506,0.0,0.368,0.632,negative,Carmilla
+"She, probably, could have added little to the Narrative which she communicates in the following pages, with, so far as I can pronounce, such conscientious particularity.",0.0,0.0,0.0,1.0,neutral,Carmilla
+I.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"An Early Fright In Styria, we, though by no means magnificent people, inhabit a castle, or schloss.",0.0258,0.18,0.221,0.599,neutral,Carmilla
+"A small income, in that part of the world, goes a great way.",0.6249,0.291,0.0,0.709,positive,Carmilla
+Eight or nine hundred a year does wonders.,0.0,0.0,0.0,1.0,neutral,Carmilla
+Scantily enough ours would have answered among wealthy people at home.,0.3612,0.2,0.0,0.8,positive,Carmilla
+"My father is English, and I bear an English name, although I never saw England.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"But here, in this lonely and primitive place, where everything is so marvelously cheap, I really don't see how ever so much more money would at all materially add to our comforts, or even luxuries.",0.0868,0.104,0.095,0.801,positive,Carmilla
+"My father was in the Austrian service, and retired upon a pension and his patrimony, and purchased this feudal residence, and the small estate on which it stands, a bargain.",-0.0516,0.06,0.067,0.872,negative,Carmilla
+Nothing can be more picturesque or solitary.,0.4391,0.325,0.0,0.675,positive,Carmilla
+It stands on a slight eminence in a forest.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"The road, very old and narrow, passes in front of its drawbridge, never raised in my time, and its moat, stocked with perch, and sailed over by many swans, and floating on its surface white fleets of water lilies.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"Over all this the schloss shows its many-windowed front; its towers, and its Gothic chapel.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"The forest opens in an irregular and very picturesque glade before its gate, and at the right a steep Gothic bridge carries the road over a stream that winds in deep shadow through the wood.",0.4391,0.083,0.0,0.917,positive,Carmilla
+I have said that this is a very lonely place.,-0.4201,0.0,0.285,0.715,negative,Carmilla
+Judge whether I say truth.,0.3182,0.434,0.0,0.566,positive,Carmilla
+"Looking from the hall door towards the road, the forest in which our castle stands extends fifteen miles to the right, and twelve to the left.",0.128,0.057,0.0,0.943,positive,Carmilla
+The nearest inhabited village is about seven of your English miles to the left.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"The nearest inhabited schloss of any historic associations, is that of old General Spielsdorf, nearly twenty miles away to the right.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I have said ""the nearest inhabited village,"" because there is, only three miles westward, that is to say in the direction of General Spielsdorf's schloss, a ruined village, with its quaint little church, now roofless, in the aisle of which are the moldering tombs of the proud family of Karnstein, now extinct, who once owned the equally desolate chateau which, in the thick of the forest, overlooks the silent ruins of the town.",-0.4404,0.04,0.078,0.882,negative,Carmilla
+"Respecting the cause of the desertion of this striking and melancholy spot, there is a legend which I shall relate to you another time.",0.0772,0.123,0.111,0.766,positive,Carmilla
+"I must tell you now, how very small is the party who constitute the inhabitants of our castle.",0.4019,0.144,0.0,0.856,positive,Carmilla
+"I don't include servants, or those dependents who occupy rooms in the buildings attached to the schloss.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"Listen, and wonder!",0.0,0.0,0.0,1.0,neutral,Carmilla
+"My father, who is the kindest man on earth, but growing old; and I, at the date of my story, only nineteen.",0.2617,0.089,0.0,0.911,positive,Carmilla
+Eight years have passed since then.,0.0,0.0,0.0,1.0,neutral,Carmilla
+I and my father constituted the family at the schloss.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"My mother, a Styrian lady, died in my infancy, but I had a good-natured governess, who had been with me from, I might almost say, my infancy.",-0.3182,0.0,0.095,0.905,negative,Carmilla
+"I could not remember the time when her fat, benignant face was not a familiar picture in my memory.",0.4939,0.167,0.0,0.833,positive,Carmilla
+"This was Madame Perrodon, a native of Berne, whose care and good nature now in part supplied to me the loss of my mother, whom I do not even remember, so early I lost her.",0.3008,0.156,0.125,0.718,positive,Carmilla
+She made a third at our little dinner party.,0.3446,0.257,0.0,0.743,positive,Carmilla
+"There was a fourth, Mademoiselle De Lafontaine, a lady such as you term, I believe, a ""finishing governess.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"She spoke French and German, Madame Perrodon French and broken English, to which my father and I added English, which, partly to prevent its becoming a lost language among us, and partly from patriotic motives, we spoke every day.",-0.6786,0.0,0.162,0.838,negative,Carmilla
+"The consequence was a Babel, at which strangers used to laugh, and which I shall make no attempt to reproduce in this narrative.",0.34,0.145,0.089,0.766,positive,Carmilla
+"And there were two or three young lady friends besides, pretty nearly of my own age, who were occasional visitors, for longer or shorter terms; and these visits I sometimes returned.",0.743,0.184,0.0,0.816,positive,Carmilla
+"These were our regular social resources; but of course there were chance visits from ""neighbors"" of only five or six leagues distance.",0.3612,0.106,0.0,0.894,positive,Carmilla
+"My life was, notwithstanding, rather a solitary one, I can assure you.",0.34,0.211,0.0,0.789,positive,Carmilla
+"My gouvernantes had just so much control over me as you might conjecture such sage persons would have in the case of a rather spoiled girl, whose only parent allowed her pretty nearly her own way in everything.",0.4939,0.082,0.0,0.918,positive,Carmilla
+"The first occurrence in my existence, which produced a terrible impression upon my mind, which, in fact, never has been effaced, was one of the very earliest incidents of my life which I can recollect.",-0.296,0.053,0.086,0.861,negative,Carmilla
+Some people will think it so trifling that it should not be recorded here.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"You will see, however, by-and-by, why I mention it.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"The nursery, as it was called, though I had it all to myself, was a large room in the upper story of the castle, with a steep oak roof.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I can't have been more than six years old, when one night I awoke, and looking round the room from my bed, failed to see the nursery maid.",-0.5106,0.0,0.117,0.883,negative,Carmilla
+Neither was my nurse there; and I thought myself alone.,-0.25,0.0,0.2,0.8,negative,Carmilla
+"I was not frightened, for I was one of those happy children who are studiously kept in ignorance of ghost stories, of fairy tales, and of all such lore as makes us cover up our heads when the door cracks suddenly, or the flicker of an expiring candle makes the shadow of a bedpost dance upon the wall, nearer to our faces.",0.3195,0.093,0.073,0.835,positive,Carmilla
+"I was vexed and insulted at finding myself, as I conceived, neglected, and I began to whimper, preparatory to a hearty bout of roaring; when to my surprise, I saw a solemn, but very pretty face looking at me from the side of the bed.",0.4194,0.137,0.12,0.743,positive,Carmilla
+"It was that of a young lady who was kneeling, with her hands under the coverlet.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I looked at her with a kind of pleased wonder, and ceased whimpering.",0.3832,0.207,0.0,0.793,positive,Carmilla
+"She caressed me with her hands, and lay down beside me on the bed, and drew me towards her, smiling; I felt immediately delightfully soothed, and fell asleep again.",0.802,0.247,0.0,0.753,positive,Carmilla
+"I was wakened by a sensation as if two needles ran into my breast very deep at the same moment, and I cried loudly.",-0.3818,0.0,0.115,0.885,negative,Carmilla
+"The lady started back, with her eyes fixed on me, and then slipped down upon the floor, and, as I thought, hid herself under the bed.",-0.1027,0.0,0.055,0.945,negative,Carmilla
+"I was now for the first time frightened, and I yelled with all my might and main.",-0.4404,0.0,0.172,0.828,negative,Carmilla
+"Nurse, nursery maid, housekeeper, all came running in, and hearing my story, they made light of it, soothing me all they could meanwhile.",0.3182,0.095,0.0,0.905,positive,Carmilla
+"But, child as I was, I could perceive that their faces were pale with an unwonted look of anxiety, and I saw them look under the bed, and about the room, and peep under tables and pluck open cupboards; and the housekeeper whispered to the nurse: ""Lay your hand along that hollow in the bed; someone did lie there, so sure as you did not; the place is still warm.""",0.804,0.111,0.028,0.861,positive,Carmilla
+"I remember the nursery maid petting me, and all three examining my chest, where I told them I felt the puncture, and pronouncing that there was no sign visible that any such thing had happened to me.",-0.296,0.0,0.062,0.937,negative,Carmilla
+"The housekeeper and the two other servants who were in charge of the nursery, remained sitting up all night; and from that time a servant always sat up in the nursery until I was about fourteen.",0.0,0.0,0.0,1.0,neutral,Carmilla
+I was very nervous for a long time after this.,-0.3384,0.0,0.255,0.745,negative,Carmilla
+"A doctor was called in, he was pallid and elderly.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"How well I remember his long saturnine face, slightly pitted with smallpox, and his chestnut wig.",0.2732,0.13,0.0,0.87,positive,Carmilla
+"For a good while, every second day, he came and gave me medicine, which of course I hated.",-0.3182,0.137,0.199,0.664,negative,Carmilla
+"The morning after I saw this apparition I was in a state of terror, and could not bear to be left alone, daylight though it was, for a moment.",-0.6597,0.0,0.19,0.81,negative,Carmilla
+"I remember my father coming up and standing at the bedside, and talking cheerfully, and asking the nurse a number of questions, and laughing very heartily at one of the answers; and patting me on the shoulder, and kissing me, and telling me not to be frightened, that it was nothing but a dream and could not hurt me.",0.8363,0.203,0.033,0.764,positive,Carmilla
+"But I was not comforted, for I knew the visit of the strange woman was not a dream; and I was awfully frightened.",-0.8909,0.0,0.436,0.564,negative,Carmilla
+"I was a little consoled by the nursery maid's assuring me that it was she who had come and looked at me, and lain down beside me in the bed, and that I must have been half-dreaming not to have known her face.",0.3818,0.062,0.0,0.938,positive,Carmilla
+"But this, though supported by the nurse, did not quite satisfy me.",-0.1519,0.179,0.215,0.606,negative,Carmilla
+"I remembered, in the course of that day, a venerable old man, in a black cassock, coming into the room with the nurse and housekeeper, and talking a little to them, and very kindly to me; his face was very sweet and gentle, and he told me they were going to pray, and joined my hands together, and desired me to say, softly, while they were praying, ""Lord hear all good prayers for us, for Jesus' sake.""",0.9568,0.23,0.0,0.77,positive,Carmilla
+"I think these were the very words, for I often repeated them to myself, and my nurse used for years to make me say them in my prayers.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I remembered so well the thoughtful sweet face of that white-haired old man, in his black cassock, as he stood in that rude, lofty, brown room, with the clumsy furniture of a fashion three hundred years old about him, and the scanty light entering its shadowy atmosphere through the small lattice.",0.6436,0.147,0.053,0.8,positive,Carmilla
+"He kneeled, and the three women with him, and he prayed aloud with an earnest quavering voice for, what appeared to me, a long time.",0.5106,0.125,0.0,0.875,positive,Carmilla
+"I forget all my life preceding that event, and for some time after it is all obscure also, but the scenes I have just described stand out vivid as the isolated pictures of the phantasmagoria surrounded by darkness.",-0.7096,0.0,0.173,0.827,negative,Carmilla
+II.,0.0,0.0,0.0,1.0,neutral,Carmilla
+A Guest I am now going to tell you something so strange that it will require all your faith in my veracity to believe my story.,0.1113,0.103,0.087,0.81,positive,Carmilla
+"It is not only true, nevertheless, but truth of which I have been an eyewitness.",0.3147,0.178,0.1,0.722,positive,Carmilla
+"It was a sweet summer evening, and my father asked me, as he sometimes did, to take a little ramble with him along that beautiful forest vista which I have mentioned as lying in front of the schloss.",0.5423,0.163,0.08,0.757,positive,Carmilla
+"""General Spielsdorf cannot come to us so soon as I had hoped,"" said my father, as we pursued our walk.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"He was to have paid us a visit of some weeks, and we had expected his arrival next day.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"He was to have brought with him a young lady, his niece and ward, Mademoiselle Rheinfeldt, whom I had never seen, but whom I had heard described as a very charming girl, and in whose society I had promised myself many happy days.",0.9427,0.285,0.0,0.715,positive,Carmilla
+"I was more disappointed than a young lady living in a town, or a bustling neighborhood can possibly imagine.",-0.5256,0.0,0.195,0.805,negative,Carmilla
+"This visit, and the new acquaintance it promised, had furnished my day dream for many weeks.",0.5423,0.243,0.0,0.757,positive,Carmilla
+"""And how soon does he come?""",0.0,0.0,0.0,1.0,neutral,Carmilla
+I asked.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"""Not till autumn.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"Not for two months, I dare say,"" he answered.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""And I am very glad now, dear, that you never knew Mademoiselle Rheinfeldt.""",0.7316,0.381,0.0,0.619,positive,Carmilla
+"""And why?""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I asked, both mortified and curious.",0.3182,0.365,0.0,0.635,positive,Carmilla
+"""Because the poor young lady is dead,"" he replied.",-0.4767,0.0,0.279,0.721,negative,Carmilla
+"""I quite forgot I had not told you, but you were not in the room when I received the General's letter this evening.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+I was very much shocked.,-0.3774,0.0,0.462,0.538,negative,Carmilla
+"General Spielsdorf had mentioned in his first letter, six or seven weeks before, that she was not so well as he would wish her, but there was nothing to suggest the remotest suspicion of danger.",-0.8314,0.044,0.227,0.73,negative,Carmilla
+"""Here is the General's letter,"" he said, handing it to me.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""I am afraid he is in great affliction; the letter appears to me to have been written very nearly in distraction.""",0.6249,0.17,0.0,0.83,positive,Carmilla
+"We sat down on a rude bench, under a group of magnificent lime trees.",0.2263,0.231,0.178,0.592,positive,Carmilla
+"The sun was setting with all its melancholy splendor behind the sylvan horizon, and the stream that flows beside our home, and passes under the steep old bridge I have mentioned, wound through many a group of noble trees, almost at our feet, reflecting in its current the fading crimson of the sky.",0.6249,0.121,0.05,0.829,positive,Carmilla
+"General Spielsdorf's letter was so extraordinary, so vehement, and in some places so self-contradictory, that I read it twice over--the second time aloud to my father--and was still unable to account for it, except by supposing that grief had unsettled his mind.",-0.6705,0.0,0.124,0.876,negative,Carmilla
+"It said ""I have lost my darling daughter, for as such I loved her.",0.7506,0.385,0.115,0.5,positive,Carmilla
+During the last days of dear Bertha's illness I was not able to write to you.,-0.0258,0.142,0.148,0.71,neutral,Carmilla
+Before then I had no idea of her danger.,-0.6808,0.0,0.483,0.517,negative,Carmilla
+"I have lost her, and now learn all , too late.",-0.3182,0.0,0.223,0.777,negative,Carmilla
+"She died in the peace of innocence, and in the glorious hope of a blessed futurity.",0.926,0.576,0.121,0.303,positive,Carmilla
+The fiend who betrayed our infatuated hospitality has done it all.,-0.5859,0.085,0.282,0.634,negative,Carmilla
+"I thought I was receiving into my house innocence, gaiety, a charming companion for my lost Bertha.",0.6249,0.325,0.117,0.558,positive,Carmilla
+Heavens!,0.4574,1.0,0.0,0.0,positive,Carmilla
+what a fool have I been!,-0.4926,0.0,0.516,0.484,negative,Carmilla
+I thank God my child died without a suspicion of the cause of her sufferings.,0.2924,0.35,0.186,0.464,positive,Carmilla
+"She is gone without so much as conjecturing the nature of her illness, and the accursed passion of the agent of all this misery.",-0.6218,0.097,0.228,0.676,negative,Carmilla
+I devote my remaining days to tracking and extinguishing a monster.,0.34,0.231,0.0,0.769,positive,Carmilla
+I am told I may hope to accomplish my righteous and merciful purpose.,0.6908,0.388,0.0,0.612,positive,Carmilla
+At present there is scarcely a gleam of light to guide me.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"I curse my conceited incredulity, my despicable affectation of superiority, my blindness, my obstinacy--all--too late.",-0.2732,0.134,0.196,0.67,negative,Carmilla
+I cannot write or talk collectedly now.,0.0,0.0,0.0,1.0,neutral,Carmilla
+I am distracted.,-0.34,0.0,0.706,0.294,negative,Carmilla
+"So soon as I shall have a little recovered, I mean to devote myself for a time to enquiry, which may possibly lead me as far as Vienna.",0.34,0.094,0.0,0.906,positive,Carmilla
+"Some time in the autumn, two months hence, or earlier if I live, I will see you--that is, if you permit me; I will then tell you all that I scarce dare put upon paper now.",0.0,0.0,0.0,1.0,neutral,Carmilla
+Farewell.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"Pray for me, dear friend.""",0.5994,0.62,0.0,0.38,positive,Carmilla
+In these terms ended this strange letter.,-0.25,0.0,0.25,0.75,negative,Carmilla
+"Though I had never seen Bertha Rheinfeldt my eyes filled with tears at the sudden intelligence; I was startled, as well as profoundly disappointed.",-0.128,0.18,0.232,0.588,negative,Carmilla
+"The sun had now set, and it was twilight by the time I had returned the General's letter to my father.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"It was a soft clear evening, and we loitered, speculating upon the possible meanings of the violent and incoherent sentences which I had just been reading.",-0.2732,0.132,0.136,0.732,negative,Carmilla
+"We had nearly a mile to walk before reaching the road that passes the schloss in front, and by that time the moon was shining brilliantly.",0.7003,0.201,0.0,0.799,positive,Carmilla
+"At the drawbridge we met Madame Perrodon and Mademoiselle De Lafontaine, who had come out, without their bonnets, to enjoy the exquisite moonlight.",0.4939,0.127,0.0,0.873,positive,Carmilla
+We heard their voices gabbling in animated dialogue as we approached.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"We joined them at the drawbridge, and turned about to admire with them the beautiful scene.",0.7906,0.333,0.0,0.667,positive,Carmilla
+The glade through which we had just walked lay before us.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"At our left the narrow road wound away under clumps of lordly trees, and was lost to sight amid the thickening forest.",-0.3182,0.0,0.099,0.901,negative,Carmilla
+"At the right the same road crosses the steep and picturesque bridge, near which stands a ruined tower which once guarded that pass; and beyond the bridge an abrupt eminence rises, covered with trees, and showing in the shadows some grey ivy-clustered rocks.",-0.0772,0.083,0.068,0.85,negative,Carmilla
+"Over the sward and low grounds a thin film of mist was stealing like smoke, marking the distances with a transparent veil; and here and there we could see the river faintly flashing in the moonlight.",-0.5106,0.064,0.148,0.789,negative,Carmilla
+"No softer, sweeter scene could be imagined.",-0.296,0.0,0.268,0.732,negative,Carmilla
+"The news I had just heard made it melancholy; but nothing could disturb its character of profound serenity, and the enchanted glory and vagueness of the prospect.",0.9167,0.376,0.053,0.571,positive,Carmilla
+"My father, who enjoyed the picturesque, and I, stood looking in silence over the expanse beneath us.",0.7096,0.282,0.0,0.718,positive,Carmilla
+"The two good governesses, standing a little way behind us, discoursed upon the scene, and were eloquent upon the moon.",0.4404,0.139,0.0,0.861,positive,Carmilla
+"Madame Perrodon was fat, middle-aged, and romantic, and talked and sighed poetically.",0.4019,0.197,0.0,0.803,positive,Carmilla
+"Mademoiselle De Lafontaine--in right of her father who was a German, assumed to be psychological, metaphysical, and something of a mystic--now declared that when the moon shone with a light so intense it was well known that it indicated a special spiritual activity.",0.6748,0.154,0.0,0.846,positive,Carmilla
+The effect of the full moon in such a state of brilliancy was manifold.,0.5574,0.231,0.0,0.769,positive,Carmilla
+"It acted on dreams, it acted on lunacy, it acted on nervous people, it had marvelous physical influences connected with life.",0.6705,0.247,0.079,0.674,positive,Carmilla
+"Mademoiselle related that her cousin, who was mate of a merchant ship, having taken a nap on deck on such a night, lying on his back, with his face full in the light on the moon, had wakened, after a dream of an old woman clawing him by the cheek, with his features horribly drawn to one side; and his countenance had never quite recovered its equilibrium.",-0.7003,0.029,0.099,0.872,negative,Carmilla
+"""The moon, this night,"" she said, ""is full of idyllic and magnetic influence--and see, when you look behind you at the front of the schloss how all its windows flash and twinkle with that silvery splendor, as if unseen hands had lighted up the rooms to receive fairy guests.""",0.6124,0.077,0.0,0.923,positive,Carmilla
+"There are indolent styles of the spirits in which, indisposed to talk ourselves, the talk of others is pleasant to our listless ears; and I gazed on, pleased with the tinkle of the ladies' conversation.",0.7351,0.162,0.0,0.838,positive,Carmilla
+"""I have got into one of my moping moods tonight,"" said my father, after a silence, and quoting Shakespeare, whom, by way of keeping up our English, he used to read aloud, he said: ""'In truth I know not why I am so sad.",-0.5706,0.05,0.129,0.821,negative,Carmilla
+It wearies me: you say it wearies you; But how I got it--came by it.',0.0,0.0,0.0,1.0,neutral,Carmilla
+"""I forget the rest.",-0.2263,0.0,0.388,0.612,negative,Carmilla
+But I feel as if some great misfortune were hanging over us.,0.7684,0.361,0.0,0.639,positive,Carmilla
+"I suppose the poor General's afflicted letter has had something to do with it.""",-0.6808,0.0,0.337,0.663,negative,Carmilla
+"At this moment the unwonted sound of carriage wheels and many hoofs upon the road, arrested our attention.",-0.4767,0.0,0.154,0.846,negative,Carmilla
+"They seemed to be approaching from the high ground overlooking the bridge, and very soon the equipage emerged from that point.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"Two horsemen first crossed the bridge, then came a carriage drawn by four horses, and two men rode behind.",0.0,0.0,0.0,1.0,neutral,Carmilla
+It seemed to be the traveling carriage of a person of rank; and we were all immediately absorbed in watching that very unusual spectacle.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"It became, in a few moments, greatly more interesting, for just as the carriage had passed the summit of the steep bridge, one of the leaders, taking fright, communicated his panic to the rest, and after a plunge or two, the whole team broke into a wild gallop together, and dashing between the horsemen who rode in front, came thundering along the road towards us with the speed of a hurricane.",-0.6629,0.044,0.116,0.84,negative,Carmilla
+"The excitement of the scene was made more painful by the clear, long-drawn screams of a female voice from the carriage window.",0.1045,0.206,0.191,0.603,positive,Carmilla
+"We all advanced in curiosity and horror; me rather in silence, the rest with various ejaculations of terror.",-0.7269,0.083,0.295,0.622,negative,Carmilla
+Our suspense did not last long.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"Just before you reach the castle drawbridge, on the route they were coming, there stands by the roadside a magnificent lime tree, on the other stands an ancient stone cross, at sight of which the horses, now going at a pace that was perfectly frightful, swerved so as to bring the wheel over the projecting roots of the tree.",0.7096,0.14,0.05,0.809,positive,Carmilla
+I knew what was coming.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"I covered my eyes, unable to see it out, and turned my head away; at the same moment I heard a cry from my lady friends, who had gone on a little.",0.0,0.096,0.096,0.807,neutral,Carmilla
+"Curiosity opened my eyes, and I saw a scene of utter confusion.",-0.296,0.0,0.196,0.804,negative,Carmilla
+"Two of the horses were on the ground, the carriage lay upon its side with two wheels in the air; the men were busy removing the traces, and a lady with a commanding air and figure had got out, and stood with clasped hands, raising the handkerchief that was in them every now and then to her eyes.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"Through the carriage door was now lifted a young lady, who appeared to be lifeless.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"My dear old father was already beside the elder lady, with his hat in his hand, evidently tendering his aid and the resources of his schloss.",0.7506,0.243,0.0,0.757,positive,Carmilla
+"The lady did not appear to hear him, or to have eyes for anything but the slender girl who was being placed against the slope of the bank.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I approached; the young lady was apparently stunned, but she was certainly not dead.",0.8207,0.409,0.063,0.527,positive,Carmilla
+"My father, who piqued himself on being something of a physician, had just had his fingers on her wrist and assured the lady, who declared herself her mother, that her pulse, though faint and irregular, was undoubtedly still distinguishable.",0.3818,0.091,0.0,0.909,positive,Carmilla
+"The lady clasped her hands and looked upward, as if in a momentary transport of gratitude; but immediately she broke out again in that theatrical way which is, I believe, natural to some people.",0.1779,0.142,0.097,0.761,positive,Carmilla
+"She was what is called a fine looking woman for her time of life, and must have been handsome; she was tall, but not thin, and dressed in black velvet, and looked rather pale, but with a proud and commanding countenance, though now agitated strangely.",-0.0387,0.146,0.13,0.724,neutral,Carmilla
+"""Who was ever being so born to calamity?""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I heard her say, with clasped hands, as I came up.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""Here am I, on a journey of life and death, in prosecuting which to lose an hour is possibly to lose all.",-0.8519,0.0,0.341,0.659,negative,Carmilla
+My child will not have recovered sufficiently to resume her route for who can say how long.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"I must leave her: I cannot, dare not, delay.",-0.2292,0.0,0.368,0.632,negative,Carmilla
+"How far on, sir, can you tell, is the nearest village?",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I must leave her there; and shall not see my darling, or even hear of her till my return, three months hence.""",-0.506,0.0,0.184,0.816,negative,Carmilla
+"I plucked my father by the coat, and whispered earnestly in his ear: ""Oh!",0.0,0.0,0.0,1.0,neutral,Carmilla
+"papa, pray ask her to let her stay with us--it would be so delightful.",0.8001,0.374,0.0,0.626,positive,Carmilla
+"Do, pray.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""If Madame will entrust her child to the care of my daughter, and of her good gouvernante, Madame Perrodon, and permit her to remain as our guest, under my charge, until her return, it will confer a distinction and an obligation upon us, and we shall treat her with all the care and devotion which so sacred a trust deserves.""",0.9557,0.263,0.0,0.737,positive,Carmilla
+"""I cannot do that, sir, it would be to task your kindness and chivalry too cruelly,"" said the lady, distractedly.",0.2732,0.131,0.083,0.786,positive,Carmilla
+"""It would, on the contrary, be to confer on us a very great kindness at the moment when we most need it.",0.8258,0.288,0.0,0.712,positive,Carmilla
+"My daughter has just been disappointed by a cruel misfortune, in a visit from which she had long anticipated a great deal of happiness.",0.2023,0.244,0.218,0.538,positive,Carmilla
+If you confide this young lady to our care it will be her best consolation.,0.8126,0.363,0.0,0.637,positive,Carmilla
+"The nearest village on your route is distant, and affords no such inn as you could think of placing your daughter at; you cannot allow her to continue her journey for any considerable distance without danger.",-0.0232,0.07,0.098,0.832,neutral,Carmilla
+"If, as you say, you cannot suspend your journey, you must part with her tonight, and nowhere could you do so with more honest assurances of care and tenderness than here.""",0.926,0.358,0.0,0.642,positive,Carmilla
+"There was something in this lady's air and appearance so distinguished and even imposing, and in her manner so engaging, as to impress one, quite apart from the dignity of her equipage, with a conviction that she was a person of consequence.",0.8083,0.189,0.03,0.781,positive,Carmilla
+"By this time the carriage was replaced in its upright position, and the horses, quite tractable, in the traces again.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"The lady threw on her daughter a glance which I fancied was not quite so affectionate as one might have anticipated from the beginning of the scene; then she beckoned slightly to my father, and withdrew two or three steps with him out of hearing; and talked to him with a fixed and stern countenance, not at all like that with which she had hitherto spoken.",0.455,0.061,0.031,0.908,positive,Carmilla
+"I was filled with wonder that my father did not seem to perceive the change, and also unspeakably curious to learn what it could be that she was speaking, almost in his ear, with so much earnestness and rapidity.",0.3182,0.059,0.0,0.941,positive,Carmilla
+"Two or three minutes at most I think she remained thus employed, then she turned, and a few steps brought her to where her daughter lay, supported by Madame Perrodon.",0.3182,0.078,0.0,0.922,positive,Carmilla
+"She kneeled beside her for a moment and whispered, as Madame supposed, a little benediction in her ear; then hastily kissing her she stepped into her carriage, the door was closed, the footmen in stately liveries jumped up behind, the outriders spurred on, the postilions cracked their whips, the horses plunged and broke suddenly into a furious canter that threatened soon again to become a gallop, and the carriage whirled away, followed at the same rapid pace by the two horsemen in the rear.",-0.7003,0.041,0.107,0.852,negative,Carmilla
+III.,0.0,0.0,0.0,1.0,neutral,Carmilla
+We Compare Notes We followed the cortege with our eyes until it was swiftly lost to sight in the misty wood; and the very sound of the hoofs and the wheels died away in the silent night air.,-0.5719,0.051,0.137,0.812,negative,Carmilla
+"Nothing remained to assure us that the adventure had not been an illusion of a moment but the young lady, who just at that moment opened her eyes.",0.0341,0.059,0.054,0.888,neutral,Carmilla
+"I could not see, for her face was turned from me, but she raised her head, evidently looking about her, and I heard a very sweet voice ask complainingly, ""Where is mamma?""",0.2238,0.127,0.101,0.772,positive,Carmilla
+"Our good Madame Perrodon answered tenderly, and added some comfortable assurances.",0.886,0.62,0.0,0.38,positive,Carmilla
+"I then heard her ask: ""Where am I?",0.0,0.0,0.0,1.0,neutral,Carmilla
+"What is this place?""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"and after that she said, ""I don't see the carriage; and Matska, where is she?""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"Madame answered all her questions in so far as she understood them; and gradually the young lady remembered how the misadventure came about, and was glad to hear that no one in, or in attendance on, the carriage was hurt; and on learning that her mamma had left her here, till her return in about three months, she wept.",-0.6808,0.045,0.129,0.826,negative,Carmilla
+"I was going to add my consolations to those of Madame Perrodon when Mademoiselle De Lafontaine placed her hand upon my arm, saying: ""Don't approach, one at a time is as much as she can at present converse with; a very little excitement would possibly overpower her now.""",0.7495,0.129,0.0,0.871,positive,Carmilla
+"As soon as she is comfortably in bed, I thought, I will run up to her room and see her.",0.4215,0.141,0.0,0.859,positive,Carmilla
+"My father in the meantime had sent a servant on horseback for the physician, who lived about two leagues away; and a bedroom was being prepared for the young lady's reception.",0.2263,0.064,0.0,0.936,positive,Carmilla
+"The stranger now rose, and leaning on Madame's arm, walked slowly over the drawbridge and into the castle gate.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"In the hall, servants waited to receive her, and she was conducted forthwith to her room.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"The room we usually sat in as our drawing room is long, having four windows, that looked over the moat and drawbridge, upon the forest scene I have just described.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"It is furnished in old carved oak, with large carved cabinets, and the chairs are cushioned with crimson Utrecht velvet.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"The walls are covered with tapestry, and surrounded with great gold frames, the figures being as large as life, in ancient and very curious costume, and the subjects represented are hunting, hawking, and generally festive.",0.8655,0.232,0.0,0.768,positive,Carmilla
+"It is not too stately to be extremely comfortable; and here we had our tea, for with his usual patriotic leanings he insisted that the national beverage should make its appearance regularly with our coffee and chocolate.",0.5563,0.091,0.0,0.909,positive,Carmilla
+"We sat here this night, and with candles lighted, were talking over the adventure of the evening.",0.3182,0.126,0.0,0.874,positive,Carmilla
+Madame Perrodon and Mademoiselle De Lafontaine were both of our party.,0.4019,0.213,0.0,0.787,positive,Carmilla
+The young stranger had hardly lain down in her bed when she sank into a deep sleep; and those ladies had left her in the care of a servant.,0.4939,0.11,0.0,0.89,positive,Carmilla
+"""How do you like our guest?""",0.3612,0.333,0.0,0.667,positive,Carmilla
+"I asked, as soon as Madame entered.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""Tell me all about her?""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""I like her extremely,"" answered Madame, ""she is, I almost think, the prettiest creature I ever saw; about your age, and so gentle and nice.""",0.865,0.326,0.0,0.674,positive,Carmilla
+"""She is absolutely beautiful,"" threw in Mademoiselle, who had peeped for a moment into the stranger's room.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""And such a sweet voice!""",0.5093,0.523,0.0,0.477,positive,Carmilla
+added Madame Perrodon.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"""Did you remark a woman in the carriage, after it was set up again, who did not get out,"" inquired Mademoiselle, ""but only looked from the window?""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""No, we had not seen her.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"Then she described a hideous black woman, with a sort of colored turban on her head, and who was gazing all the time from the carriage window, nodding and grinning derisively towards the ladies, with gleaming eyes and large white eyeballs, and her teeth set as if in fury.",-0.296,0.049,0.072,0.879,negative,Carmilla
+"""Did you remark what an ill-looking pack of men the servants were?""",0.0,0.0,0.0,1.0,neutral,Carmilla
+asked Madame.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"""Yes,"" said my father, who had just come in, ""ugly, hang-dog looking fellows as ever I beheld in my life.",0.0,0.0,0.0,1.0,neutral,Carmilla
+I hope they mayn't rob the poor lady in the forest.,0.8115,0.545,0.0,0.455,positive,Carmilla
+"They are clever rogues, however; they got everything to rights in a minute.""",0.4588,0.214,0.0,0.786,positive,Carmilla
+"""I dare say they are worn out with too long traveling,"" said Madame.",-0.296,0.0,0.155,0.845,negative,Carmilla
+"""Besides looking wicked, their faces were so strangely lean, and dark, and sullen.",-0.8388,0.0,0.473,0.527,negative,Carmilla
+"I am very curious, I own; but I dare say the young lady will tell you all about it tomorrow, if she is sufficiently recovered.""",0.2014,0.079,0.0,0.921,positive,Carmilla
+"""I don't think she will,"" said my father, with a mysterious smile, and a little nod of his head, as if he knew more about it than he cared to tell us.",0.6486,0.159,0.0,0.841,positive,Carmilla
+"This made us all the more inquisitive as to what had passed between him and the lady in the black velvet, in the brief but earnest interview that had immediately preceded her departure.",0.7137,0.161,0.0,0.839,positive,Carmilla
+"We were scarcely alone, when I entreated him to tell me.",-0.1796,0.0,0.159,0.841,negative,Carmilla
+He did not need much pressing.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"""There is no particular reason why I should not tell you.",-0.296,0.0,0.196,0.804,negative,Carmilla
+"She expressed a reluctance to trouble us with the care of her daughter, saying she was in delicate health, and nervous, but not subject to any kind of seizure--she volunteered that--nor to any illusion; being, in fact, perfectly sane.""",0.7096,0.195,0.111,0.694,positive,Carmilla
+"""How very odd to say all that!""",-0.4376,0.0,0.325,0.675,negative,Carmilla
+I interpolated.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"""It was so unnecessary.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""At all events it was said,"" he laughed, ""and as you wish to know all that passed, which was indeed very little, I tell you.",0.6908,0.206,0.0,0.794,positive,Carmilla
+"She then said, 'I am making a long journey of vital importance--she emphasized the word--rapid and secret; I shall return for my child in three months; in the meantime, she will be silent as to who we are, whence we come, and whither we are traveling.'",0.296,0.049,0.0,0.951,positive,Carmilla
+That is all she said.,0.0,0.0,0.0,1.0,neutral,Carmilla
+She spoke very pure French.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"When she said the word 'secret,' she paused for a few seconds, looking sternly, her eyes fixed on mine.",0.0,0.0,0.0,1.0,neutral,Carmilla
+I fancy she makes a great point of that.,0.6249,0.406,0.0,0.594,positive,Carmilla
+You saw how quickly she was gone.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"I hope I have not done a very foolish thing, in taking charge of the young lady.""",0.6034,0.291,0.0,0.709,positive,Carmilla
+"For my part, I was delighted.",0.5106,0.452,0.0,0.548,positive,Carmilla
+I was longing to see and talk to her; and only waiting till the doctor should give me leave.,-0.0772,0.0,0.126,0.874,negative,Carmilla
+"You, who live in towns, can have no idea how great an event the introduction of a new friend is, in such a solitude as surrounded us.",0.7269,0.232,0.07,0.698,positive,Carmilla
+"The doctor did not arrive till nearly one o'clock; but I could no more have gone to my bed and slept, than I could have overtaken, on foot, the carriage in which the princess in black velvet had driven away.",-0.4215,0.0,0.07,0.93,negative,Carmilla
+"When the physician came down to the drawing room, it was to report very favorably upon his patient.",0.4391,0.145,0.0,0.855,positive,Carmilla
+"She was now sitting up, her pulse quite regular, apparently perfectly well.",0.7624,0.396,0.0,0.604,positive,Carmilla
+"She had sustained no injury, and the little shock to her nerves had passed away quite harmlessly.",-0.6142,0.115,0.372,0.513,negative,Carmilla
+"There could be no harm certainly in my seeing her, if we both wished it; and, with this permission I sent, forthwith, to know whether she would allow me to visit her for a few minutes in her room.",-0.34,0.1,0.133,0.767,negative,Carmilla
+The servant returned immediately to say that she desired nothing more.,0.2732,0.174,0.0,0.826,positive,Carmilla
+You may be sure I was not long in availing myself of this permission.,0.3182,0.161,0.0,0.839,positive,Carmilla
+Our visitor lay in one of the handsomest rooms in the schloss.,0.5574,0.247,0.0,0.753,positive,Carmilla
+"It was, perhaps, a little stately.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"There was a somber piece of tapestry opposite the foot of the bed, representing Cleopatra with the asps to her bosom; and other solemn classic scenes were displayed, a little faded, upon the other walls.",-0.4767,0.0,0.117,0.883,negative,Carmilla
+"But there was gold carving, and rich and varied color enough in the other decorations of the room, to more than redeem the gloom of the old tapestry.",0.0,0.137,0.137,0.726,neutral,Carmilla
+There were candles at the bedside.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"She was sitting up; her slender pretty figure enveloped in the soft silk dressing gown, embroidered with flowers, and lined with thick quilted silk, which her mother had thrown over her feet as she lay upon the ground.",0.4939,0.08,0.0,0.92,positive,Carmilla
+"What was it that, as I reached the bedside and had just begun my little greeting, struck me dumb in a moment, and made me recoil a step or two from before her?",-0.3214,0.107,0.145,0.749,negative,Carmilla
+I will tell you.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"I saw the very face which had visited me in my childhood at night, which remained so fixed in my memory, and on which I had for so many years so often ruminated with horror, when no one suspected of what I was thinking.",-0.7783,0.0,0.17,0.83,negative,Carmilla
+"It was pretty, even beautiful; and when I first beheld it, wore the same melancholy expression.",0.6369,0.323,0.132,0.545,positive,Carmilla
+But this almost instantly lighted into a strange fixed smile of recognition.,0.2617,0.225,0.152,0.623,positive,Carmilla
+"There was a silence of fully a minute, and then at length she spoke; I could not.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""How wonderful!""",0.0,0.0,0.0,1.0,neutral,Carmilla
+she exclaimed.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"""Twelve years ago, I saw your face in a dream, and it has haunted me ever since.""",-0.2732,0.11,0.171,0.718,negative,Carmilla
+"""Wonderful indeed!""",0.6114,0.8,0.0,0.2,positive,Carmilla
+"I repeated, overcoming with an effort the horror that had for a time suspended my utterances.",-0.7783,0.0,0.362,0.638,negative,Carmilla
+"""Twelve years ago, in vision or reality, I certainly saw you.",0.5267,0.355,0.0,0.645,positive,Carmilla
+I could not forget your face.,0.1695,0.294,0.0,0.706,positive,Carmilla
+"It has remained before my eyes ever since.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+Her smile had softened.,0.3612,0.455,0.0,0.545,positive,Carmilla
+"Whatever I had fancied strange in it, was gone, and it and her dimpling cheeks were now delightfully pretty and intelligent.",0.8442,0.357,0.065,0.578,positive,Carmilla
+"I felt reassured, and continued more in the vein which hospitality indicated, to bid her welcome, and to tell her how much pleasure her accidental arrival had given us all, and especially what a happiness it was to me.",0.9182,0.285,0.028,0.687,positive,Carmilla
+I took her hand as I spoke.,0.4939,0.444,0.0,0.556,positive,Carmilla
+"I was a little shy, as lonely people are, but the situation made me eloquent, and even bold.",0.346,0.176,0.153,0.671,positive,Carmilla
+"She pressed my hand, she laid hers upon it, and her eyes glowed, as, looking hastily into mine, she smiled again, and blushed.",0.7717,0.242,0.0,0.758,positive,Carmilla
+She answered my welcome very prettily.,0.4588,0.375,0.0,0.625,positive,Carmilla
+"I sat down beside her, still wondering; and she said: ""I must tell you my vision about you; it is so very strange that you and I should have had, each of the other so vivid a dream, that each should have seen, I you and you me, looking as we do now, when of course we both were mere children.",0.228,0.071,0.039,0.89,positive,Carmilla
+"I was a child, about six years old, and I awoke from a confused and troubled dream, and found myself in a room, unlike my nursery, wainscoted clumsily in some dark wood, and with cupboards and bedsteads, and chairs, and benches placed about it.",-0.5106,0.046,0.122,0.831,negative,Carmilla
+"The beds were, I thought, all empty, and the room itself without anyone but myself in it; and I, after looking about me for some time, and admiring especially an iron candlestick with two branches, which I should certainly know again, crept under one of the beds to reach the window; but as I got from under the bed, I heard someone crying; and looking up, while I was still upon my knees, I saw you--most assuredly you--as I see you now; a beautiful young lady, with golden hair and large blue eyes, and lips--your lips--you as you are here.",0.8968,0.153,0.052,0.795,positive,Carmilla
+"""Your looks won me; I climbed on the bed and put my arms about you, and I think we both fell asleep.",0.5719,0.163,0.0,0.837,positive,Carmilla
+I was aroused by a scream; you were sitting up screaming.,-0.6486,0.0,0.431,0.569,negative,Carmilla
+"I was frightened, and slipped down upon the ground, and, it seemed to me, lost consciousness for a moment; and when I came to myself, I was again in my nursery at home.",-0.6369,0.0,0.161,0.839,negative,Carmilla
+Your face I have never forgotten since.,0.1695,0.25,0.0,0.75,positive,Carmilla
+I could not be misled by mere resemblance.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"You are the lady whom I saw then.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"It was now my turn to relate my corresponding vision, which I did, to the undisguised wonder of my new acquaintance.",0.25,0.095,0.0,0.905,positive,Carmilla
+"""I don't know which should be most afraid of the other,"" she said, again smiling--""If you were less pretty I think I should be very much afraid of you, but being as you are, and you and I both so young, I feel only that I have made your acquaintance twelve years ago, and have already a right to your intimacy; at all events it does seem as if we were destined, from our earliest childhood, to be friends.",0.7272,0.079,0.0,0.921,positive,Carmilla
+"I wonder whether you feel as strangely drawn towards me as I do to you; I have never had a friend--shall I find one now?""",-0.296,0.0,0.104,0.896,negative,Carmilla
+"She sighed, and her fine dark eyes gazed passionately on me.",0.6369,0.366,0.0,0.634,positive,Carmilla
+"Now the truth is, I felt rather unaccountably towards the beautiful stranger.",0.7351,0.408,0.0,0.592,positive,Carmilla
+"I did feel, as she said, ""drawn towards her,"" but there was also something of repulsion.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"In this ambiguous feeling, however, the sense of attraction immensely prevailed.",0.5423,0.333,0.0,0.667,positive,Carmilla
+She interested and won me; she was so beautiful and so indescribably engaging.,0.9333,0.61,0.0,0.39,positive,Carmilla
+"I perceived now something of languor and exhaustion stealing over her, and hastened to bid her good night.",-0.5106,0.126,0.268,0.606,negative,Carmilla
+"""The doctor thinks,"" I added, ""that you ought to have a maid to sit up with you tonight; one of ours is waiting, and you will find her a very useful and quiet creature.""",0.4927,0.096,0.0,0.904,positive,Carmilla
+"""How kind of you, but I could not sleep, I never could with an attendant in the room.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I shan't require any assistance--and, shall I confess my weakness, I am haunted with a terror of robbers.",-0.8519,0.0,0.458,0.542,negative,Carmilla
+"Our house was robbed once, and two servants murdered, so I always lock my door.",-0.6597,0.0,0.253,0.747,negative,Carmilla
+It has become a habit--and you look so kind I know you will forgive me.,0.7555,0.37,0.0,0.63,positive,Carmilla
+"I see there is a key in the lock.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"She held me close in her pretty arms for a moment and whispered in my ear, ""Good night, darling, it is very hard to part with you, but good night; tomorrow, but not early, I shall see you again.""",0.8382,0.236,0.031,0.733,positive,Carmilla
+"She sank back on the pillow with a sigh, and her fine eyes followed me with a fond and melancholy gaze, and she murmured again ""Good night, dear friend.""",0.7506,0.321,0.082,0.597,positive,Carmilla
+"Young people like, and even love, on impulse.",0.7717,0.528,0.0,0.472,positive,Carmilla
+"I was flattered by the evident, though as yet undeserved, fondness she showed me.",0.7269,0.357,0.0,0.643,positive,Carmilla
+I liked the confidence with which she at once received me.,0.7269,0.433,0.0,0.567,positive,Carmilla
+She was determined that we should be very near friends.,0.6983,0.419,0.0,0.581,positive,Carmilla
+Next day came and we met again.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"I was delighted with my companion; that is to say, in many respects.",0.6808,0.359,0.0,0.641,positive,Carmilla
+"Her looks lost nothing in daylight--she was certainly the most beautiful creature I had ever seen, and the unpleasant remembrance of the face presented in my early dream, had lost the effect of the first unexpected recognition.",0.2247,0.186,0.166,0.648,positive,Carmilla
+"She confessed that she had experienced a similar shock on seeing me, and precisely the same faint antipathy that had mingled with my admiration of her.",0.2263,0.12,0.089,0.79,positive,Carmilla
+We now laughed together over our momentary horrors.,-0.1779,0.236,0.291,0.472,negative,Carmilla
+IV.,0.0,0.0,0.0,1.0,neutral,Carmilla
+Her Habits--A Saunter I told you that I was charmed with her in most particulars.,0.4588,0.2,0.0,0.8,positive,Carmilla
+There were some that did not please me so well.,0.1106,0.194,0.159,0.648,positive,Carmilla
+She was above the middle height of women.,0.0,0.0,0.0,1.0,neutral,Carmilla
+I shall begin by describing her.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"She was slender, and wonderfully graceful.",0.7845,0.633,0.0,0.367,positive,Carmilla
+"Except that her movements were languid--very languid--indeed, there was nothing in her appearance to indicate an invalid.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"Her complexion was rich and brilliant; her features were small and beautifully formed; her eyes large, dark, and lustrous; her hair was quite wonderful, I never saw hair so magnificently thick and long when it was down about her shoulders; I have often placed my hands under it, and laughed with wonder at its weight.",0.9769,0.335,0.0,0.665,positive,Carmilla
+"It was exquisitely fine and soft, and in color a rich very dark brown, with something of gold.",0.6597,0.265,0.0,0.735,positive,Carmilla
+"I loved to let it down, tumbling with its own weight, as, in her room, she lay back in her chair talking in her sweet low voice, I used to fold and braid it, and spread it out and play with it.",0.802,0.196,0.044,0.759,positive,Carmilla
+Heavens!,0.4574,1.0,0.0,0.0,positive,Carmilla
+If I had but known all!,0.0,0.0,0.0,1.0,neutral,Carmilla
+I said there were particulars which did not please me.,-0.2411,0.0,0.197,0.803,negative,Carmilla
+"I have told you that her confidence won me the first night I saw her; but I found that she exercised with respect to herself, her mother, her history, everything in fact connected with her life, plans, and people, an ever wakeful reserve.",0.8248,0.189,0.0,0.811,positive,Carmilla
+"I dare say I was unreasonable, perhaps I was wrong; I dare say I ought to have respected the solemn injunction laid upon my father by the stately lady in black velvet.",-0.0772,0.098,0.14,0.762,negative,Carmilla
+"But curiosity is a restless and unscrupulous passion, and no one girl can endure, with patience, that hers should be baffled by another.",-0.1154,0.141,0.192,0.668,negative,Carmilla
+What harm could it do anyone to tell me what I so ardently desired to know?,-0.2782,0.126,0.185,0.689,negative,Carmilla
+Had she no trust in my good sense or honor?,0.802,0.534,0.125,0.341,positive,Carmilla
+"Why would she not believe me when I assured her, so solemnly, that I would not divulge one syllable of what she told me to any mortal breathing.",0.5563,0.161,0.0,0.839,positive,Carmilla
+"There was a coldness, it seemed to me, beyond her years, in her smiling melancholy persistent refusal to afford me the least ray of light.",0.0258,0.108,0.104,0.789,neutral,Carmilla
+"I cannot say we quarreled upon this point, for she would not quarrel upon any.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"It was, of course, very unfair of me to press her, very ill-bred, but I really could not help it; and I might just as well have let it alone.",-0.6518,0.077,0.23,0.693,negative,Carmilla
+"What she did tell me amounted, in my unconscionable estimation--to nothing.",0.0,0.0,0.0,1.0,neutral,Carmilla
+It was all summed up in three very vague disclosures: First--Her name was Carmilla.,-0.1761,0.0,0.115,0.885,negative,Carmilla
+Second--Her family was very ancient and noble.,0.5046,0.352,0.0,0.648,positive,Carmilla
+Third--Her home lay in the direction of the west.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"She would not tell me the name of her family, nor their armorial bearings, nor the name of their estate, nor even that of the country they lived in.",0.0,0.0,0.0,1.0,neutral,Carmilla
+You are not to suppose that I worried her incessantly on these subjects.,-0.296,0.0,0.167,0.833,negative,Carmilla
+"I watched opportunity, and rather insinuated than urged my inquiries.",0.4215,0.259,0.0,0.741,positive,Carmilla
+"Once or twice, indeed, I did attack her more directly.",-0.4767,0.0,0.279,0.721,negative,Carmilla
+"But no matter what my tactics, utter failure was invariably the result.",-0.7964,0.066,0.417,0.517,negative,Carmilla
+Reproaches and caresses were all lost upon her.,-0.3182,0.0,0.247,0.753,negative,Carmilla
+"But I must add this, that her evasion was conducted with so pretty a melancholy and deprecation, with so many, and even passionate declarations of her liking for me, and trust in my honor, and with so many promises that I should at last know all, that I could not find it in my heart long to be offended with her.",0.9706,0.321,0.082,0.596,positive,Carmilla
+"She used to place her pretty arms about my neck, draw me to her, and laying her cheek to mine, murmur with her lips near my ear, ""Dearest, your little heart is wounded; think me not cruel because I obey the irresistible law of my strength and weakness; if your dear heart is wounded, my wild heart bleeds with yours.",0.8927,0.206,0.04,0.754,positive,Carmilla
+"In the rapture of my enormous humiliation I live in your warm life, and you shall die--die, sweetly die--into mine.",0.2263,0.261,0.146,0.593,positive,Carmilla
+"I cannot help it; as I draw near to you, you, in your turn, will draw near to others, and learn the rapture of that cruelty, which yet is love; so, for a while, seek to know no more of me and mine, but trust me with all your loving spirit.""",0.8756,0.227,0.094,0.679,positive,Carmilla
+"And when she had spoken such a rhapsody, she would press me more closely in her trembling embrace, and her lips in soft kisses gently glow upon my cheek.",0.7269,0.245,0.071,0.684,positive,Carmilla
+Her agitations and her language were unintelligible to me.,-0.3182,0.0,0.223,0.777,negative,Carmilla
+"From these foolish embraces, which were not of very frequent occurrence, I must allow, I used to wish to extricate myself; but my energies seemed to fail me.",-0.3919,0.171,0.191,0.637,negative,Carmilla
+"Her murmured words sounded like a lullaby in my ear, and soothed my resistance into a trance, from which I only seemed to recover myself when she withdrew her arms.",0.4588,0.138,0.0,0.862,positive,Carmilla
+In these mysterious moods I did not like her.,-0.2755,0.0,0.232,0.768,negative,Carmilla
+"I experienced a strange tumultuous excitement that was pleasurable, ever and anon, mingled with a vague sense of fear and disgust.",-0.4019,0.228,0.356,0.415,negative,Carmilla
+"I had no distinct thoughts about her while such scenes lasted, but I was conscious of a love growing into adoration, and also of abhorrence.",0.9274,0.402,0.049,0.549,positive,Carmilla
+"This I know is paradox, but I can make no other attempt to explain the feeling.",-0.3071,0.104,0.239,0.657,negative,Carmilla
+"I now write, after an interval of more than ten years, with a trembling hand, with a confused and horrible recollection of certain occurrences and situations, in the ordeal through which I was unconsciously passing; though with a vivid and very sharp remembrance of the main current of my story.",-0.4588,0.099,0.155,0.746,negative,Carmilla
+"But, I suspect, in all lives there are certain emotional scenes, those in which our passions have been most wildly and terribly roused, that are of all others the most vaguely and dimly remembered.",-0.0633,0.197,0.18,0.623,negative,Carmilla
+"Sometimes after an hour of apathy, my strange and beautiful companion would take my hand and hold it with a fond pressure, renewed again and again; blushing softly, gazing in my face with languid and burning eyes, and breathing so fast that her dress rose and fell with the tumultuous respiration.",0.7003,0.166,0.103,0.731,positive,Carmilla
+"It was like the ardor of a lover; it embarrassed me; it was hateful and yet over-powering; and with gloating eyes she drew me to her, and her hot lips traveled along my cheek in kisses; and she would whisper, almost in sobs, ""You are mine, you shall be mine, you and I are one for ever.""",0.1725,0.142,0.132,0.726,positive,Carmilla
+"Then she had thrown herself back in her chair, with her small hands over her eyes, leaving me trembling.",-0.3612,0.0,0.122,0.878,negative,Carmilla
+"""Are we related,"" I used to ask; ""what can you mean by all this?",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I remind you perhaps of someone whom you love; but you must not, I hate it; I don't know you--I don't know myself when you look so and talk so.""",0.7648,0.209,0.0,0.791,positive,Carmilla
+"She used to sigh at my vehemence, then turn away and drop my hand.",0.296,0.247,0.121,0.632,positive,Carmilla
+Respecting these very extraordinary manifestations I strove in vain to form any satisfactory theory--I could not refer them to affectation or trick.,0.4019,0.213,0.15,0.637,positive,Carmilla
+It was unmistakably the momentary breaking out of suppressed instinct and emotion.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"Was she, notwithstanding her mother's volunteered denial, subject to brief visitations of insanity; or was there here a disguise and a romance?",-0.2732,0.137,0.217,0.646,negative,Carmilla
+I had read in old storybooks of such things.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"What if a boyish lover had found his way into the house, and sought to prosecute his suit in masquerade, with the assistance of a clever old adventuress.",0.7096,0.258,0.081,0.661,positive,Carmilla
+"But there were many things against this hypothesis, highly interesting as it was to my vanity.",0.3898,0.196,0.116,0.688,positive,Carmilla
+I could boast of no little attentions such as masculine gallantry delights to offer.,0.6597,0.351,0.117,0.532,positive,Carmilla
+"Between these passionate moments there were long intervals of commonplace, of gaiety, of brooding melancholy, during which, except that I detected her eyes so full of melancholy fire, following me, at times I might have been as nothing to her.",-0.5719,0.098,0.179,0.722,negative,Carmilla
+"Except in these brief periods of mysterious excitement her ways were girlish; and there was always a languor about her, quite incompatible with a masculine system in a state of health.",0.4939,0.106,0.0,0.894,positive,Carmilla
+In some respects her habits were odd.,0.0,0.24,0.24,0.521,neutral,Carmilla
+"Perhaps not so singular in the opinion of a town lady like you, as they appeared to us rustic people.",0.3612,0.122,0.0,0.878,positive,Carmilla
+"She used to come down very late, generally not till one o'clock, she would then take a cup of chocolate, but eat nothing; we then went out for a walk, which was a mere saunter, and she seemed, almost immediately, exhausted, and either returned to the schloss or sat on one of the benches that were placed, here and there, among the trees.",-0.4277,0.0,0.046,0.954,negative,Carmilla
+This was a bodily languor in which her mind did not sympathize.,0.0,0.0,0.0,1.0,neutral,Carmilla
+"She was always an animated talker, and very intelligent.",0.5095,0.292,0.0,0.708,positive,Carmilla
+"She sometimes alluded for a moment to her own home, or mentioned an adventure or situation, or an early recollection, which indicated a people of strange manners, and described customs of which we knew nothing.",0.128,0.066,0.051,0.883,positive,Carmilla
+I gathered from these chance hints that her native country was much more remote than I had at first fancied.,0.25,0.105,0.0,0.895,positive,Carmilla
+As we sat thus one afternoon under the trees a funeral passed us by.,-0.3612,0.0,0.172,0.828,negative,Carmilla
+"It was that of a pretty young girl, whom I had often seen, the daughter of one of the rangers of the forest.",0.4939,0.138,0.0,0.862,positive,Carmilla
+"The poor man was walking behind the coffin of his darling; she was his only child, and he looked quite heartbroken.",-0.5984,0.129,0.261,0.61,negative,Carmilla
+"Peasants walking two-and-two came behind, they were singing a funeral hymn.",-0.3612,0.0,0.217,0.783,negative,Carmilla
+"I rose to mark my respect as they passed, and joined in the hymn they were very sweetly singing.",0.7574,0.289,0.0,0.711,positive,Carmilla
+"My companion shook me a little roughly, and I turned surprised.",0.128,0.184,0.136,0.68,positive,Carmilla
+"She said brusquely, ""Don't you perceive how discordant that is?""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""I think it very sweet, on the contrary,"" I answered, vexed at the interruption, and very uncomfortable, lest the people who composed the little procession should observe and resent what was passing.",-0.4215,0.088,0.19,0.722,negative,Carmilla
+"I resumed, therefore, instantly, and was again interrupted.",-0.296,0.0,0.268,0.732,negative,Carmilla
+"""You pierce my ears,"" said Carmilla, almost angrily, and stopping her ears with her tiny fingers.",-0.4297,0.0,0.215,0.785,negative,Carmilla
+"""Besides, how can you tell that your religion and mine are the same; your forms wound me, and I hate funerals.",-0.743,0.0,0.259,0.741,negative,Carmilla
+What a fuss!,0.0,0.0,0.0,1.0,neutral,Carmilla
+Why you must die-- everyone must die; and all are happier when they do.,-0.128,0.176,0.202,0.622,negative,Carmilla
+"Come home.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""My father has gone on with the clergyman to the churchyard.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I thought you knew she was to be buried today.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""She?",0.0,0.0,0.0,1.0,neutral,Carmilla
+I don't trouble my head about peasants.,0.3089,0.311,0.0,0.689,positive,Carmilla
+"I don't know who she is,"" answered Carmilla, with a flash from her fine eyes.",0.2023,0.13,0.0,0.87,positive,Carmilla
+"""She is the poor girl who fancied she saw a ghost a fortnight ago, and has been dying ever since, till yesterday, when she expired.""",-0.6597,0.0,0.205,0.795,negative,Carmilla
+"""Tell me nothing about ghosts.",0.0,0.0,0.0,1.0,neutral,Carmilla
+"I shan't sleep tonight if you do.""",0.0,0.0,0.0,1.0,neutral,Carmilla
+"""I hope there is no plague or fever coming; all this looks very like it,"" I continued.",0.5413,0.272,0.105,0.622,positive,Carmilla
+"""The swineherd's young wife died only a week ago, and she thought something seized her by the throat as she lay in her bed, and ne",-0.5574,0.0,0.13,0.87,negative,Carmilla

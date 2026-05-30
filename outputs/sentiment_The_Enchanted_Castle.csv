@@ -1,0 +1,725 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Enchanted Castle This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,0.25,0.126,0.103,0.771,positive,The Enchanted Castle
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Enchanted Castle
+"Title : The Enchanted Castle Author : E. Nesbit Release date : November 1, 2002 [eBook #3536] Most recently updated: July 24, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/3536 *** START OF THE PROJECT GUTENBERG EBOOK THE ENCHANTED CASTLE *** The Enchanted Castle by E. Nesbit To Margaret Ostler with love from E. Nesbit Peggy, you came from the heath and moor, And you brought their airs through my open door; You brought the blossom of youth to blow In the Latin Quarter of Soho.",0.9141,0.139,0.0,0.861,positive,The Enchanted Castle
+"For the sake of that magic I send you here A tale of enchantments, Peggy dear, A bit of my work, and a bit of my heart… The bit that you left when we had to part.",0.3818,0.075,0.0,0.925,positive,The Enchanted Castle
+"Royalty Chambers, Soho, W. 25 September 1907 CHAPTER I There were three of them Jerry, Jimmy, and Kathleen.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Of course, Jerry's name was Gerald, and not Jeremiah, whatever you may think; and Jimmy's name was James; and Kathleen was never called by her name at all, but Cathy, or Catty, or Puss Cat, when her brothers were pleased with her, and Scratch Cat when they were not pleased.",0.8271,0.138,0.0,0.862,positive,The Enchanted Castle
+"And they were at school in a little town in the West of England the boys at one school, of course, and the girl at another, because the sensible habit of having boys and girls at the same school is not yet as common as I hope it will be some day.",0.4404,0.056,0.0,0.944,positive,The Enchanted Castle
+They used to see each other on Saturdays and Sundays at the house of a kind maiden lady; but it was one of those houses where it is impossible to play.,0.6486,0.159,0.0,0.841,positive,The Enchanted Castle
+"You know the kind of house, don't you?",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"There is a sort of a something about that kind of house that makes you hardly able even to talk to each other when you are left alone, and playing seems unnatural and affected.",-0.2023,0.052,0.105,0.843,negative,The Enchanted Castle
+"So they looked forward to the holidays, when they should all go home and be together all day long, in a house where playing was natural and conversation possible, and where the Hampshire forests and fields were full of interesting things to do and see.",0.8225,0.194,0.0,0.806,positive,The Enchanted Castle
+"Their Cousin Betty was to be there too, and there were plans.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Betty's school broke up before theirs, and so she got to the Hampshire home first, and the moment she got there she began to have measles, so that my three couldn't go home at all.",-0.4215,0.0,0.076,0.924,negative,The Enchanted Castle
+You may imagine their feelings.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The thought of seven weeks at Miss Hervey's was not to be borne, and all three wrote home and said so.",-0.1531,0.0,0.074,0.926,negative,The Enchanted Castle
+"This astonished their parents very much, because they had always thought it was so nice for the children to have dear Miss Hervey's to go to.",0.8029,0.272,0.049,0.679,positive,The Enchanted Castle
+"However, they were ""jolly decent about it , as Jerry said, and after a lot of letters and telegrams, it was arranged that the boys should go and stay at Kathleen's school, where there were now no girls left and no mistresses except the French one.",-0.0258,0.068,0.09,0.842,neutral,The Enchanted Castle
+"""It'll be better than being at Miss Hervey's,"" said Kathleen, when the boys came round to ask Mademoiselle when it would be convenient for them to come; ""and, besides, our school's not half so ugly as yours.",-0.4481,0.068,0.137,0.795,negative,The Enchanted Castle
+"We do have tablecloths on the tables and curtains at the windows, and yours is all deal boards, and desks, and inkiness.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"When they had gone to pack their boxes Kathleen made all the rooms as pretty as she could with flowers in jam jars marigolds chiefly, because there was nothing much else in the back garden.",0.4939,0.086,0.0,0.914,positive,The Enchanted Castle
+"There were geraniums in the front garden, and calceolarias and lobelias; of course, the children were not allowed to pick these.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""We ought to have some sort of play to keep us going through the holidays,"" said Kathleen, when tea was over, and she had unpacked and arranged the boys clothes in the painted chests of drawers, feeling very grown-up and careful as she neatly laid the different sorts of clothes in tidy little heaps in the drawers.",0.7069,0.129,0.0,0.871,positive,The Enchanted Castle
+"""Suppose we write a book.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You couldn't,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I didn't mean me, of course,"" said Kathleen, a little injured; ""I meant us.""",-0.3415,0.0,0.167,0.833,negative,The Enchanted Castle
+"""Too much fag,"" said Gerald briefly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""If we wrote a book,"" Kathleen persisted, ""about what the insides of schools really are like, people would read it and say how clever we were.""",0.6983,0.201,0.0,0.799,positive,The Enchanted Castle
+"""More likely expel us,"" said Gerald.",-0.4902,0.0,0.389,0.611,negative,The Enchanted Castle
+"""No; we'll have an out-of-doors game bandits, or something like that.",0.3612,0.2,0.0,0.8,positive,The Enchanted Castle
+"It wouldn't be bad if we could get a cave and keep stores in it, and have our meals there.""",0.431,0.137,0.0,0.863,positive,The Enchanted Castle
+"""There aren't any caves,"" said Jimmy, who was fond of contradicting everyone.",0.1531,0.191,0.151,0.658,positive,The Enchanted Castle
+"""And, besides, your precious Mamselle won't let us go out alone, as likely as not.""",0.4019,0.198,0.107,0.695,positive,The Enchanted Castle
+"""Oh, we'll see about that,"" said Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I'll go and talk to her like a father.""",0.3612,0.263,0.0,0.737,positive,The Enchanted Castle
+"""Like that?""",0.3612,0.714,0.0,0.286,positive,The Enchanted Castle
+"Kathleen pointed the thumb of scorn at him, and he looked in the glass.",-0.4019,0.0,0.172,0.828,negative,The Enchanted Castle
+"""To brush his hair and his clothes and to wash his face and hands was to our hero but the work of a moment,"" said Gerald, and went to suit the action to the word.",0.3182,0.065,0.0,0.935,positive,The Enchanted Castle
+"It was a very sleek boy, brown and thin and interesting-looking, that knocked at the door of the parlour where Mademoiselle sat reading a yellow-covered book and wishing vain wishes.",-0.0772,0.112,0.089,0.799,negative,The Enchanted Castle
+"Gerald could always make himself look interesting at a moment's notice, a very useful accomplishment in dealing with strange grown-ups.",0.624,0.26,0.079,0.661,positive,The Enchanted Castle
+"It was done by opening his grey eyes rather wide, allowing the corners of his mouth to droop, and assuming a gentle, pleading expression, resembling that of the late little Lord Fauntleroy who must, by the way, be quite old now, and an awful prig.",0.0258,0.085,0.062,0.852,neutral,The Enchanted Castle
+"""Entrez!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"said Mademoiselle, in shrill French accents.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+So he entered.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Eh bien?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+she said rather impatiently.,-0.4019,0.0,0.474,0.526,negative,The Enchanted Castle
+"""I hope I am not disturbing you,"" said Gerald, in whose mouth, it seemed, butter would not have melted.",0.681,0.259,0.0,0.741,positive,The Enchanted Castle
+"""But no,"" she said, somewhat softened.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""What is it that you desire?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I thought I ought to come and say how do you do,"" said Gerald, ""because of you being the lady of the house.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"He held out the newly-washed hand, still damp and red.",0.4939,0.262,0.0,0.738,positive,The Enchanted Castle
+She took it.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You are a very polite little boy,"" she said.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Not at all,"" said Gerald, more polite than ever.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I am so sorry for you.",-0.188,0.0,0.258,0.742,negative,The Enchanted Castle
+"It must be dreadful to have us to look after in the holidays.""",-0.4404,0.0,0.195,0.805,negative,The Enchanted Castle
+"""But not at all,"" said Mademoiselle in her turn.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I am sure you will be very good childrens.""",0.6697,0.44,0.0,0.56,positive,The Enchanted Castle
+Gerald's look assured her that he and the others would be as near angels as children could be without ceasing to be human.,0.3612,0.102,0.0,0.898,positive,The Enchanted Castle
+"""We'll try,"" he said earnestly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Can one do anything for you?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked the French governess kindly.,0.4939,0.444,0.0,0.556,positive,The Enchanted Castle
+"""Oh, no, thank you,"" said Gerald.",0.0772,0.287,0.253,0.46,positive,The Enchanted Castle
+"""We don't want to give you any trouble at all.",-0.4445,0.0,0.329,0.671,negative,The Enchanted Castle
+"And I was thinking it would be less trouble for you if we were to go out into the woods all day tomorrow and take our dinner with us something cold, you know so as not to be a trouble to the cook.""",-0.5878,0.0,0.11,0.89,negative,The Enchanted Castle
+"""You are very considerate,"" said Mademoiselle coldly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Then Gerald's eyes smiled; they had a trick of doing this when his lips were quite serious.,0.4033,0.181,0.145,0.674,positive,The Enchanted Castle
+"Mademoiselle caught the twinkle, and she laughed and Gerald laughed too.",0.7184,0.4,0.0,0.6,positive,The Enchanted Castle
+"""Little deceiver!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+she said.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Why not say at once you want to be free of surveillance, how you say overwatching without pretending it is me you wish to please?""",0.7188,0.247,0.044,0.71,positive,The Enchanted Castle
+"""You have to be careful with grown-ups, "" said Gerald, ""but it isn't all pretence either.",0.0772,0.085,0.0,0.915,positive,The Enchanted Castle
+"We don't want to trouble you and we don't want you to "" ""To trouble you.",0.4717,0.251,0.136,0.612,positive,The Enchanted Castle
+Eh bien!,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Your parents, they permit these days at woods?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Oh, yes,"" said Gerald truthfully.",0.4404,0.42,0.0,0.58,positive,The Enchanted Castle
+"""Then I will not be more a dragon than the parents.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+I will forewarn the cook.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Are you content?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Rather!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said Gerald.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Mademoiselle, you are a dear.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""A deer?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"she repeated ""a stag?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""No, a a cherie,"" said Gerald ""a regular A1 cherie.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+And you sha'n't repent it.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Is there anything we can do for you wind your wool, or find your spectacles, or ?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""He thinks me a grandmother!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"said Mademoiselle, laughing more than ever.",0.4939,0.39,0.0,0.61,positive,The Enchanted Castle
+"""Go then, and be not more naughty than you must.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Well, what luck?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+the others asked.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It's all right,"" said Gerald indifferently.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I told you it would be.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The ingenuous youth won the regard of the foreign governess, who in her youth had been the beauty of her humble village.""",0.8176,0.273,0.0,0.727,positive,The Enchanted Castle
+"""I don't believe she ever was.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"She's too stern,"" said Kathleen.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Ah!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"said Gerald, ""that's only because you don't know how to manage her.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"She wasn't stern with me.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I say,"" what a humbug you are though, aren't you?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said Jimmy.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""No, I'm a dip what's-its-name?",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Something like an ambassador.,0.3612,0.455,0.0,0.545,positive,The Enchanted Castle
+Dipsoplomatist that's what I am.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Anyhow, we've got our day, and if we don't find a cave in it my name's not Jack Robinson.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Mademoiselle, less stern than Kathleen had ever seen her, presided at supper, which was bread and treacle spread several hours before, and now harder and drier than any other food you can think of.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Gerald was very polite in handing her butter and cheese, and pressing her to taste the bread and treacle.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Bah!",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+it is like sand in the mouth of a dryness!,0.4199,0.259,0.0,0.741,positive,The Enchanted Castle
+"Is it possible this pleases you?""",0.481,0.385,0.0,0.615,positive,The Enchanted Castle
+"""No,"" said Gerald, ""it is not possible, but it is not polite for boys to make remarks about their food!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"She laughed, but there was no more dried bread and treacle for supper after that.",-0.2023,0.112,0.157,0.73,negative,The Enchanted Castle
+"""How do you do it?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Kathleen whispered admiringly as they said good night.,0.7351,0.508,0.0,0.492,positive,The Enchanted Castle
+"""Oh, it's quite easy when you've once got a grownup to see what you're after.",0.4927,0.197,0.0,0.803,positive,The Enchanted Castle
+"You'll see, I shall drive her with a rein of darning cotton after this.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Next morning Gerald got up early and gathered a little bunch of pink carnations from a plant which he found hidden among the marigolds.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+He tied it up with black cotton and laid it on Mademoiselle's plate.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+She smiled and looked quite handsome as she stuck the flowers in her belt.,0.7178,0.35,0.1,0.55,positive,The Enchanted Castle
+"""Do you think it's quite decent,"" Jimmy asked later ""sort of bribing people to let you do as you like with flowers and things and passing them the salt?""",0.3612,0.082,0.0,0.918,positive,The Enchanted Castle
+"""It's not that,"" said Kathleen suddenly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I know what Gerald means, only I never think of the things in time myself.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"You see, if you want grown-ups to be nice to you the least you can do is to be nice to them and think of little things to please them.",0.7867,0.256,0.0,0.744,positive,The Enchanted Castle
+I never think of any myself.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Jerry does; that's why all the old ladies like him.,0.3612,0.217,0.0,0.783,positive,The Enchanted Castle
+It's not bribery.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"It's a sort of honesty like paying for things.""",0.6266,0.46,0.0,0.54,positive,The Enchanted Castle
+"""Well, anyway,"" said Jimmy, putting away the moral question, ""we've got a ripping day for the woods.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+They had.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The wide High Street, even at the busy morning hour almost as quiet as a dream-street, lay bathed in sunshine; the leaves shone fresh from last night's rain, but the road was dry, and in the sunshine the very dust of it sparkled like diamonds.",0.8834,0.22,0.0,0.78,positive,The Enchanted Castle
+"The beautiful old houses, standing stout and strong, looked as though they were basking in the sunshine and enjoying it.",0.9382,0.508,0.0,0.492,positive,The Enchanted Castle
+"""But are there any woods?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked Kathleen as they passed the market-place.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It doesn't much matter about woods,"" said Gerald dreamily, ""we're sure to find something.",0.3018,0.15,0.07,0.781,positive,The Enchanted Castle
+"One of the chaps told me his father said when he was a boy there used to be a little cave under the bank in a lane near the Salisbury Road; but he said there was an enchanted castle there too, so perhaps the cave isn't true either.""",0.1032,0.069,0.061,0.87,positive,The Enchanted Castle
+"""If we were to get horns,"" said Kathleen, ""and to blow them very hard all the way, we might find a magic castle.""",-0.1761,0.0,0.075,0.925,negative,The Enchanted Castle
+"""If you've got the money to throw away on horns…"" said Jimmy contemptuously.",-0.5267,0.0,0.221,0.779,negative,The Enchanted Castle
+"""Well, I have, as it happens, so there!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said Kathleen.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+And the horns were bought in a tiny shop with a bulging window full of a tangle of toys and sweets and cucumbers and sour apples.,0.4939,0.127,0.0,0.873,positive,The Enchanted Castle
+"And the quiet square at the end of the town where the church is, and the houses of the most respectable people, echoed to the sound of horns blown long and loud.",0.4927,0.093,0.0,0.907,positive,The Enchanted Castle
+But none of the houses turned into enchanted castles.,0.5267,0.298,0.0,0.702,positive,The Enchanted Castle
+"Away they went along the Salisbury Road, which was very hot and dusty, so they agreed to drink one of the bottles of ginger-beer.",0.3353,0.094,0.0,0.906,positive,The Enchanted Castle
+"""We might as well carry the ginger-beer inside us as inside the bottle,"" said Jimmy, ""and we can hide the bottle and call for it as we come back.",0.1027,0.068,0.055,0.877,positive,The Enchanted Castle
+"Presently they came to a place where the road, as Gerald said, went two ways at once.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""That looks like adventures,"" said Kathleen; and they took the right-hand road, and the next time they took a turning it was a left-hand one, ""so as to be quite fair,"" Jimmy said, and then a right-hand one and then a left, and so on, till they were completely lost.",-0.024,0.051,0.053,0.896,neutral,The Enchanted Castle
+"""Completely,"" said Kathleen; ""how jolly!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"And now trees arched overhead, and the banks of the road were high and bushy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The adventurers had long since ceased to blow their horns.,0.2263,0.174,0.0,0.826,positive,The Enchanted Castle
+"It was too tiring to go on doing that, when there was no one to be annoyed by it.",-0.5859,0.0,0.22,0.78,negative,The Enchanted Castle
+"""Oh, kriky!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"observed Jimmy suddenly, ""let's sit down a bit and have some of our dinner.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"We might call it lunch, you know,"" he added persuasively.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+So they sat down in the hedge and ate the ripe red gooseberries that were to have been their dessert.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"And as they sat and rested and wished that their boots did not feel so full of feet, Gerald leaned back against the bushes, and the bushes gave way so that he almost fell over backward.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Something had yielded to the pressure of his back, and there was the sound of something heavy that fell.",-0.296,0.0,0.109,0.891,negative,The Enchanted Castle
+"""Oh, Jimminy!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"he remarked, recovering himself suddenly; ""there's something hollow in there the stone I was leaning against simply went!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I wish it was a cave,"" said Jimmy; ""but of course it isn't.""",0.2144,0.144,0.0,0.856,positive,The Enchanted Castle
+"""If we blow the horns perhaps it will be,"" said Kathleen, and hastily blew her own.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Gerald reached his hand through the bushes.,0.5574,0.479,0.0,0.521,positive,The Enchanted Castle
+"""I can't feel anything but air,"" he said; ""it's just a hole full of emptiness.",-0.5927,0.0,0.228,0.772,negative,The Enchanted Castle
+The other two pulled back the bushes.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+There certainly was a hole in the bank.,0.34,0.286,0.0,0.714,positive,The Enchanted Castle
+"""I'm going to go in,"" observed Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Oh, don't!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said his sister.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I wish you wouldn't.",0.4019,0.474,0.0,0.526,positive,The Enchanted Castle
+"Suppose there were snakes!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Not likely,"" said Gerald, but he leaned forward and struck a match.",-0.3612,0.0,0.2,0.8,negative,The Enchanted Castle
+"""It is a cave!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"he cried, and put his knee on the mossy stone he had been sitting on, scrambled over it, and disappeared.",-0.5423,0.0,0.2,0.8,negative,The Enchanted Castle
+A breathless pause followed.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You all right?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked Jimmy.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Yes; come on.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"You'd better come feet first there's a bit of a drop.""",0.4404,0.266,0.0,0.734,positive,The Enchanted Castle
+"""I'll go next,"" said Kathleen, and went feet first, as advised.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The feet waved wildly in the air.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Look out!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"said Gerald in the dark; ""you'll have my eye out.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Put your feet down, girl, not up.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"It's no use trying to fly here there's no room.""",-0.5267,0.0,0.355,0.645,negative,The Enchanted Castle
+He helped her by pulling her feet forcibly down and then lifting her under the arms.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"She felt rustling dry leaves under her boots, and stood ready to receive Jimmy, who came in head first, like one diving into an unknown sea.",0.6486,0.215,0.0,0.785,positive,The Enchanted Castle
+"""It is a cave,"" said Kathleen.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""The young explorers,"" explained Gerald, blocking up the hole of entrance with his shoulders, ""dazzled at first by the darkness of the cave, could see nothing.""",-0.5574,0.0,0.161,0.839,negative,The Enchanted Castle
+"""Darkness doesn't dazzle,"" said Jimmy.",-0.25,0.0,0.333,0.667,negative,The Enchanted Castle
+"""I wish we'd got a candle,"" said Kathleen.",0.4019,0.31,0.0,0.69,positive,The Enchanted Castle
+"""Yes, it does,"" Gerald contradicted ""could see nothing.",-0.3182,0.0,0.247,0.753,negative,The Enchanted Castle
+"But their dauntless leader, whose eyes had grown used to the dark while the clumsy forms of the others were bunging up the entrance, had made a discovery.",0.6652,0.146,0.0,0.854,positive,The Enchanted Castle
+"""Oh, what!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Both the others were used to Gerald's way of telling a story while he acted it, but they did sometimes wish that he didn't talk quite so long and so like a book in moments of excitement.",0.9218,0.276,0.0,0.724,positive,The Enchanted Castle
+"""He did not reveal the dread secret to his faithful followers till one and all had given him their word of honour to be calm.""",0.8434,0.292,0.0,0.708,positive,The Enchanted Castle
+"""We'll be calm all right,"" said Jimmy impatiently.",-0.1027,0.209,0.245,0.545,negative,The Enchanted Castle
+"""Well, then,"" said Gerald, ceasing suddenly to be a book and becoming a boy, ""there's a light over there look behind you!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+They looked.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+And there was.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"A faint greyness on the brown walls of the cave, and a brighter greyness cut off sharply by a dark line, showed that round a turning or angle of the cave there was daylight.",0.128,0.08,0.064,0.856,positive,The Enchanted Castle
+"""Attention!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"said Gerald; at least, that was what he meant, though what he said was ""Shun!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+as becomes the son of a soldier.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The others mechanically obeyed.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You will remain at attention till I give the word ""Slow march!'",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"on which you will advance cautiously in open order, following your hero leader, taking care not to tread on the dead and wounded.""",0.3612,0.219,0.138,0.643,positive,The Enchanted Castle
+"""I wish you wouldn't!""",0.4574,0.499,0.0,0.501,positive,The Enchanted Castle
+said Kathleen.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""There aren't any,"" said Jimmy, feeling for her hand in the dark; ""he only means, take care not to tumble over stones and things"" Here he found her hand, and she screamed.",0.8316,0.275,0.057,0.668,positive,The Enchanted Castle
+"""It's only me,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I thought you'd like me to hold it.",0.3612,0.263,0.0,0.737,positive,The Enchanted Castle
+"But you're just like a girl.""",0.5023,0.448,0.0,0.552,positive,The Enchanted Castle
+"Their eyes had now begun to get accustomed to the darkness, and all could see that they were in a rough stone cave, that went straight on for about three or four yards and then turned sharply to the right.",-0.0258,0.046,0.049,0.905,neutral,The Enchanted Castle
+"""Death or victory!""",-0.636,0.0,0.677,0.323,negative,The Enchanted Castle
+remarked Gerald.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Now, then Slow march!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"He advanced carefully, picking his way among the loose earth and stones that were the floor of the cave.",0.0516,0.161,0.106,0.734,positive,The Enchanted Castle
+"""A sail, a sail!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"he cried, as he turned the corner.",-0.3818,0.0,0.302,0.698,negative,The Enchanted Castle
+"""How splendid!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Kathleen drew a long breath as she came out into the sunshine.,0.4939,0.242,0.0,0.758,positive,The Enchanted Castle
+"""I don't see any sail,"" said Jimmy, following.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The narrow passage ended in a round arch all fringed with ferns and creepers.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"They passed through the arch into a deep, narrow gully whose banks were of stones, moss-covered; and in the crannies grew more ferns and long grasses.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Trees growing on the top of the bank arched across, and the sunlight came through in changing patches of brightness, turning the gully to a roofed corridor of goldy-green.",0.6249,0.196,0.0,0.804,positive,The Enchanted Castle
+"The path, which was of greeny-grey flagstones where heaps of leaves had drifted, sloped steeply down, and at the end of it was another round arch, quite dark inside, above which rose rocks and grass and bushes.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It's like the outside of a railway tunnel,"" said James.",0.3612,0.238,0.0,0.762,positive,The Enchanted Castle
+"""It's the entrance to the enchanted castle,"" said Kathleen.",0.3818,0.245,0.0,0.755,positive,The Enchanted Castle
+"""Let's blow the horns.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Dry up!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said Gerald.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""The bold Captain, reproving the silly chatter of his subordinates ,"" ""I like that!""",0.6696,0.371,0.0,0.629,positive,The Enchanted Castle
+"said Jimmy, indignant.",-0.4215,0.0,0.583,0.417,negative,The Enchanted Castle
+"""I thought you would,"" resumed Gerald ""of his subordinates, bade them advance with caution and in silence, because after all there might be somebody about, and the other arch might be an ice-house or something dangerous.",-0.4767,0.0,0.081,0.919,negative,The Enchanted Castle
+"""What?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked Kathleen anxiously.,-0.2263,0.0,0.487,0.513,negative,The Enchanted Castle
+"""Bears, perhaps,"" said Gerald briefly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""There aren't any bears without bars in England, anyway,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""They call bears bars in America,"" he added absently.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Quick march!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+was Gerald's only reply.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+And they marched.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Under the drifted damp leaves the path was firm and stony to their shuffling feet.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+At the dark arch they stopped.,-0.2263,0.0,0.275,0.725,negative,The Enchanted Castle
+"""There are steps down,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It is an ice-house,"" said Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Don't let's,"" said Kathleen.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Our hero,"" said Gerald, ""who nothing could dismay, raised the faltering hopes of his abject minions by saying that he was jolly well going on, and they could do as they liked about it.""",0.9068,0.315,0.0,0.685,positive,The Enchanted Castle
+"""If you call names,"" said Jimmy, ""you can go on by yourself.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"He added, ""So there!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It's part of the game, silly,"" explained Gerald kindly.",0.4939,0.286,0.0,0.714,positive,The Enchanted Castle
+"""You can be Captain tomorrow, so you'd better hold your jaw now, and begin to think about what names you'll call us when it's your turn.""",0.4902,0.113,0.0,0.887,positive,The Enchanted Castle
+Very slowly and carefully they went down the steps.,0.1935,0.181,0.0,0.819,positive,The Enchanted Castle
+A vaulted stone arched over their heads.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Gerald struck a match when the last step was found to have no edge, and to be, in fact, the beginning of a passage, turning to the left.",-0.4939,0.0,0.149,0.851,negative,The Enchanted Castle
+"""This,"" said Jimmy, ""will take us back into the road.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Or under it,"" said Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""We've come down eleven steps.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"They went on, following their leader, who went very slowly for fear, as he explained, of steps.",-0.5367,0.0,0.178,0.822,negative,The Enchanted Castle
+The passage was very dark.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I don't half like it!""",-0.3404,0.0,0.375,0.625,negative,The Enchanted Castle
+whispered Jimmy.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Then came a glimmer of daylight that grew and grew, and presently ended in another arch that looked out over a scene so like a picture out of a book about Italy that everyone's breath was taken away, and they simply walked forward silent and staring.",0.5009,0.073,0.0,0.927,positive,The Enchanted Castle
+"A short avenue of cypresses led, widening as it went, to a marble terrace that lay broad and white in the sunlight.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The children, blinking, leaned their arms on the broad, flat balustrade and gazed.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Immediately below them was a lake just like a lake in ""The Beauties of Italy"" a lake with swans and an island and weeping willows; beyond it were green slopes dotted with groves of trees, and amid the trees gleamed the white limbs of statues.",0.4588,0.123,0.061,0.816,positive,The Enchanted Castle
+"Against a little hill to the left was a round white building with pillars, and to the right a waterfall came tumbling down among mossy stones to splash into the lake.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Steps fed from the terrace to the water, and other steps to the green lawns beside it.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Away across the grassy slopes deer were feeding, and in the distance where the groves of trees thickened into what looked almost a forest were enormous shapes of grey stone, like nothing that the children had ever seen before.",0.4019,0.093,0.0,0.907,positive,The Enchanted Castle
+"""That chap at school ,"" said Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It is an enchanted castle,"" said Kathleen.",0.3818,0.302,0.0,0.698,positive,The Enchanted Castle
+"""I don't see any castle,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""What do you call that, then?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Gerald pointed to where, beyond a belt of lime-trees, white towers and turrets broke the blue of the sky.",-0.4215,0.0,0.141,0.859,negative,The Enchanted Castle
+"""There doesn't seem to be anyone about,"" said Kathleen, ""and yet it's all so tidy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"I believe it is magic"" ""Magic mowing machines,"" Jimmy suggested.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""If we were in a book it would be an enchanted castle certain to be,"" said Kathleen.",0.5719,0.251,0.0,0.749,positive,The Enchanted Castle
+"""It is an enchanted castle,"" said Gerald in hollow tones.",0.3818,0.224,0.0,0.776,positive,The Enchanted Castle
+"""But there aren't any"" Jimmy was quite positive.",0.7461,0.433,0.0,0.567,positive,The Enchanted Castle
+"""How do you know?",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Do you think there's nothing in the world but what you've seen?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+His scorn was crushing.,-0.6369,0.0,0.722,0.278,negative,The Enchanted Castle
+"""I think magic went out when people began to have steam-engines,"" Jimmy insisted, ""and newspapers, and telephones and wireless telegraphing.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Wireless is rather like magic when you come to think of it,"" said Gerald.",0.3612,0.161,0.0,0.839,positive,The Enchanted Castle
+"""Oh, that sort!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Jimmy's contempt was deep.,-0.5859,0.0,0.559,0.441,negative,The Enchanted Castle
+"""Perhaps there's given up being magic because people didn't believe in it any more,"" said Kathleen.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Well, don't let's spoil the show with any silly old not believing,"" said Gerald with decision.",0.0258,0.068,0.0,0.932,neutral,The Enchanted Castle
+"""I'm going to believe in magic as hard as I can.",-0.1027,0.0,0.135,0.865,negative,The Enchanted Castle
+"This is an enchanted garden, and that's an enchanted castle, and I'm jolly well going to explore.""",0.8625,0.449,0.0,0.551,positive,The Enchanted Castle
+"The dauntless knight then led the way, leaving his ignorant squires to follow or not, just as they jolly well chose.",0.765,0.313,0.076,0.612,positive,The Enchanted Castle
+"He rolled off the balustrade and strode firmly down towards the lawn, his boots making, as they went, a clatter full of determination.",0.4019,0.114,0.0,0.886,positive,The Enchanted Castle
+The others followed.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+There never was such a garden out of a picture or a fairy-tale.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"They passed quite close by the deer, who only raised their pretty heads to look, and did not seem startled at all.",0.5744,0.191,0.0,0.809,positive,The Enchanted Castle
+"And after a long stretch of turf they passed under the heaped-up heavy masses of lime-trees and came into a rose-garden, bordered with thick, close-cut yew hedges, and lying red and pink and green and white in the sun, like a giant's many-coloured, highly-scented pocket-handkerchief.",-0.2263,0.054,0.074,0.871,negative,The Enchanted Castle
+"""I know we shall meet a gardener in a minute, and he'll ask what we re doing here.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"And then what will you say?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Kathleen asked with her nose in a rose.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I shall say we have lost our way, and it will be quite true,"" said Gerald.",-0.3182,0.0,0.133,0.867,negative,The Enchanted Castle
+"But they did not meet a gardener or anybody else, and the feeling of magic got thicker and thicker, till they were almost afraid of the sound of their feet in the great silent place.",0.8126,0.188,0.0,0.812,positive,The Enchanted Castle
+"Beyond the rose garden was a yew hedge with an arch cut in it, and it was the beginning of a maze like the one in Hampton Court.",0.1027,0.087,0.073,0.839,positive,The Enchanted Castle
+"""Now,"" said Gerald, ""you mark my words.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+In the middle of this maze we shall find the secret enchantment.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Draw your swords, my merry men all, and hark forward tallyho in the utmost silence.",0.5423,0.2,0.0,0.8,positive,The Enchanted Castle
+Which they did.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"It was very hot in the maze, between the close yew hedges, and the way to the maze's heart was hidden well.",0.2732,0.091,0.0,0.909,positive,The Enchanted Castle
+"Again and again they found themselves at the black yew arch that opened on the rose garden, and they were all glad that they had brought large, clean pocket-handkerchiefs with them.",0.6908,0.164,0.0,0.836,positive,The Enchanted Castle
+"It was when they found themselves there for the fourth time that Jimmy suddenly cried, ""Oh, I wish ' and then stopped short very suddenly.",-0.2023,0.099,0.165,0.735,negative,The Enchanted Castle
+"""Oh!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"he added in quite a different voice, ""where's the dinner?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+And then in a stricken silence they all remembered that the basket with the dinner had been left at the entrance of the cave.,-0.5106,0.0,0.13,0.87,negative,The Enchanted Castle
+"Their thoughts dwelt fondly on the slices of cold mutton, the six tomatoes, the bread and butter, the screwed-up paper of salt, the apple turnovers, and the little thick glass that one drank the ginger-beer out of.",0.4404,0.075,0.0,0.925,positive,The Enchanted Castle
+"""Let's go back,"" said Jimmy, ""now this minute, and get our things and have our dinner.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Let's have one more try at the maze.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"I hate giving things up,"" said Gerald.",-0.3182,0.238,0.366,0.396,negative,The Enchanted Castle
+"""I am so hungry!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said Jimmy.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Why didn't you say so before?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked Gerald bitterly.,-0.4588,0.0,0.6,0.4,negative,The Enchanted Castle
+"""I wasn't before.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Then you can't be now.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+You don't get hungry all in a minute.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"What's that?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"That was a gleam of red that lay at the foot of the yew-hedge a thin little line, that you would hardly have noticed unless you had been staring in a fixed and angry way at the roots of the hedge.",-0.5106,0.0,0.082,0.918,negative,The Enchanted Castle
+It was a thread of cotton.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Gerald picked it up.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"One end of it was tied to a thimble with holes in it, and the other-- ""There is no other end,"" said Gerald, with firm triumph.",0.2263,0.11,0.078,0.813,positive,The Enchanted Castle
+"""It's a clew that's what it is.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+What price cold mutton now?,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"I've always felt something magic would happen some day, and now it has.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I expect the gardener put it there,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""With a Princess's silver thimble on it?",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Look!,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"there's a crown on the thimble.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+There was.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Come,"" said Gerald in low, urgent tones, ""if you are adventurers be adventurers; and anyhow, I expect someone has gone along the road and bagged the mutton hours ago.""",0.3612,0.177,0.066,0.757,positive,The Enchanted Castle
+"He walked forward, winding the red thread round his fingers as he went.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"And it was a clew, and it led them right into the middle of the maze.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+And in the very middle of the maze they came upon the wonder.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The red clew led them up two stone steps to a round grass plot.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"There was a sun-dial in the middle, and all round against the yew hedge a low, wide marble seat.",-0.2732,0.0,0.116,0.884,negative,The Enchanted Castle
+"The red clew ran straight across the grass and by the sun-dial, and ended in a small brown hand with jewelled rings on every finger.",0.6249,0.188,0.0,0.812,positive,The Enchanted Castle
+"The hand was, naturally, attached to an arm, and that had many bracelets on it, sparkling with red and blue and green stones.",0.6597,0.205,0.0,0.795,positive,The Enchanted Castle
+"The arm wore a sleeve of pink and gold brocaded silk, faded a little here and there but still extremely imposing, and the sleeve was part of a dress, which was worn by a lady who lay on the stone seat asleep in the sun.",-0.5913,0.0,0.11,0.89,negative,The Enchanted Castle
+The rosy gold dress fell open over an embroidered petticoat of a soft green colour.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"There was old yellow lace the colour of scalded cream, and a thin white veil spangled with silver stars covered the face.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It's the enchanted Princess,"" said Gerald, now really impressed.",0.7178,0.461,0.0,0.539,positive,The Enchanted Castle
+"""I told you so.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It's the Sleeping Beauty,"" said Kathleen.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It is look how old-fashioned her clothes are, like the pictures of Marie Antoinette's ladies in the history book.",0.3612,0.122,0.0,0.878,positive,The Enchanted Castle
+She has slept for a hundred years.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Oh, Gerald, you're the eldest; you must be the Prince, and we never knew it.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""She isn't really a Princess,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"But the others laughed at him, partly because his saying things like that was enough to spoil any game, and partly because they really were not at all sure that it was not a Princess who lay there as still as the sunshine.",0.8781,0.222,0.047,0.731,positive,The Enchanted Castle
+"Every stage of the adventure the cave, the wonderful gardens, the maze, the clew, had deepened the feeling of magic, till now Kathleen and Gerald were almost completely bewitched.",0.7579,0.224,0.0,0.776,positive,The Enchanted Castle
+"""Lift the veil up,"" Jerry, said Kathleen in a whisper, ""if she isn't beautiful we shall know she can't be the Princess.",-0.4847,0.0,0.136,0.864,negative,The Enchanted Castle
+"""Lift it yourself,"" said Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I expect you're forbidden to touch the figures,"" said Jimmy.",-0.4215,0.0,0.237,0.763,negative,The Enchanted Castle
+"""It's not wax, silly,"" said his brother.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""No,"" said his sister, ""wax wouldn't be much good in this sun.",-0.3412,0.0,0.179,0.821,negative,The Enchanted Castle
+"And, besides, you can see her breathing.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"It's the Princess right enough.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+She very gently lifted the edge of the veil and turned it back.,0.5095,0.215,0.0,0.785,positive,The Enchanted Castle
+The Princess's face was small and white between long plaits of black hair.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Her nose was straight and her brows finely traced.,0.2263,0.192,0.0,0.808,positive,The Enchanted Castle
+There were a few freckles on cheekbones and nose.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""No wonder,"" whispered Kathleen, ""sleeping all these years in all this sun!",-0.3595,0.0,0.185,0.815,negative,The Enchanted Castle
+Her mouth was not a rosebud.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"But all the same ""Isn't she lovely!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Kathleen murmured.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Not so dusty,"" Gerald was understood to reply.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Now, Jerry,"" said Kathleen firmly, ""you're the eldest.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Of course I am,"" said Gerald uneasily.",-0.34,0.0,0.324,0.676,negative,The Enchanted Castle
+"""Well, you've got to wake the Princess.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""She's not a Princess,"" said Jimmy, with his hands in the pockets of his knickerbockers; ""she's only a little girl dressed up.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""But she's in long dresses,"" urged Kathleen.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Yes, but look what a little way down her frock her feet come.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"She wouldn't be any taller than Jerry if she was to stand up.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Now then,"" urged Kathleen.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Jerry, don't be silly.",-0.0191,0.0,0.264,0.736,neutral,The Enchanted Castle
+"You've got to do it.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Do what?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"asked Gerald, kicking his left boot with his right.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Why, kiss her awake, of course.""",0.4215,0.359,0.0,0.641,positive,The Enchanted Castle
+"""Not me!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+was Gerald's unhesitating rejoinder.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Well, someone's got to.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""She'd go for me as likely as not the minute she woke up,"" said Gerald anxiously.",-0.2263,0.0,0.112,0.888,negative,The Enchanted Castle
+"""I'd do it like a shot,"" said Kathleen, ""but I don't suppose it ud make any difference me kissing her.""",0.7783,0.298,0.0,0.702,positive,The Enchanted Castle
+She did it; and it didn't.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The Princess still lay in deep slumber.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Then you must, Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+I dare say you'll do.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Jump back quickly before she can hit you.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""She won't hit him, he's such a little chap,"" said Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Little yourself!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said Jimmy.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I don't mind kissing her.",-0.4585,0.0,0.428,0.572,negative,The Enchanted Castle
+"I'm not a coward, like Some People.",0.0951,0.289,0.246,0.466,positive,The Enchanted Castle
+"Only if I do, I'm going to be the dauntless leader for the rest of the day.""",0.5106,0.18,0.0,0.82,positive,The Enchanted Castle
+"""No, look here hold on!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"cried Gerald, ""perhaps I'd better "" But, in the meantime, Jimmy had planted a loud, cheerful-sounding kiss on the Princess's pale cheek, and now the three stood breathless, awaiting the result.",0.5927,0.169,0.054,0.777,positive,The Enchanted Castle
+"And the result was that the Princess opened large, dark eyes, stretched out her arms, yawned a little, covering her mouth with a small brown hand, and said, quite plainly and distinctly, and without any room at all for mistake: ""Then the hundred years are over?",0.2023,0.067,0.05,0.882,positive,The Enchanted Castle
+How the yew hedges have grown!,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Which of you is my Prince that aroused me from my deep sleep of so many long years?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I did,"" said Jimmy fearlessly, for she did not look as though she were going to slap anyone.",0.4019,0.188,0.0,0.812,positive,The Enchanted Castle
+"""My noble preserver!""",0.5093,0.622,0.0,0.378,positive,The Enchanted Castle
+"said the Princess, and held out her hand.",0.4939,0.314,0.0,0.686,positive,The Enchanted Castle
+Jimmy shook it vigorously.,0.0258,0.306,0.286,0.408,neutral,The Enchanted Castle
+"""But I say,"" said he, ""you aren't really a Princess, are you?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Of course I am,"" she answered; ""who else could I be?",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Look at my crown!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"She pulled aside the spangled veil, and showed beneath it a coronet of what even Jimmy could not help seeing to be diamonds.",-0.3089,0.0,0.097,0.903,negative,The Enchanted Castle
+"""But "" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Why,"" she said, opening her eyes very wide, ""you must have known about my being here, or you'd never have come.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"How did you get past the dragons?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Gerald ignored the question.,-0.3182,0.0,0.434,0.566,negative,The Enchanted Castle
+"""I say,"" he said, ""do you really believe in magic, and all that?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I ought to,"" she said, ""if anybody does.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Look, here's the place where I pricked my finger with the spindle.""",-0.1531,0.0,0.138,0.862,negative,The Enchanted Castle
+She showed a little scar on her wrist.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Then this really is an enchanted castle?""",0.4336,0.323,0.0,0.677,positive,The Enchanted Castle
+"""Of course it is,"" said the Princess.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""How stupid you are!""",-0.5707,0.0,0.552,0.448,negative,The Enchanted Castle
+"She stood up, and her pink brocaded dress lay in bright waves about her feet.",0.4404,0.172,0.0,0.828,positive,The Enchanted Castle
+"""I said her dress would be too long,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It was the right length when I went to sleep,"" said the Princess; ""it must have grown in the hundred years.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I don't believe you're a Princess at all,"" said Jimmy; ""at least "" ""Don't bother about believing it, if you don't like,"" said the Princess.",0.2584,0.085,0.0,0.915,positive,The Enchanted Castle
+"""It doesn't so much matter what you believe as what I am.",-0.0721,0.0,0.113,0.887,negative,The Enchanted Castle
+She turned to the others.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Let's go back to the castle,"" she said, ""and I'll show you all my lovely jewels and things.",0.7783,0.298,0.0,0.702,positive,The Enchanted Castle
+"Wouldn't you like that?""",-0.2755,0.0,0.413,0.587,negative,The Enchanted Castle
+"""Yes, said Gerald with very plain hesitation.",-0.3353,0.0,0.284,0.716,negative,The Enchanted Castle
+"""But "" ""But what?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The Princess's tone was impatient.,-0.296,0.0,0.355,0.645,negative,The Enchanted Castle
+"""But we're most awfully hungry.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Oh, so am I!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+cried the Princess.,-0.3818,0.0,0.565,0.435,negative,The Enchanted Castle
+"""We've had nothing to eat since breakfast.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""And it's three now,"" said the Princess, looking at the sun-dial.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Why, you've had nothing to eat for hours and hours and hours.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+But think of me!,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"I haven't had anything to eat for a hundred years.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Come along to the castle.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""The mice will have eaten everything,"" said Jimmy sadly.",-0.4215,0.0,0.259,0.741,negative,The Enchanted Castle
+He saw now that she really was a Princess.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Not they,"" cried the Princess joyously.",0.7256,0.603,0.0,0.397,positive,The Enchanted Castle
+"""You forget everything's enchanted here.",0.1779,0.347,0.253,0.4,positive,The Enchanted Castle
+Time simply stood still for a hundred years.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Come along, and one of you must carry my train, or I shan't be able to move now it's grown such a frightful length.""",-0.5106,0.0,0.136,0.864,negative,The Enchanted Castle
+"CHAPTER II When you are young so many things are difficult to believe, and yet the dullest people will tell you that they are true such things, for instance, as that the earth goes round the sun, and that it is not flat but round.",-0.1779,0.04,0.076,0.884,negative,The Enchanted Castle
+"But the things that seem really likely, like fairy-tales and magic, are, so say the grown-ups, not true at all.",0.1703,0.149,0.122,0.73,positive,The Enchanted Castle
+"Yet they are so easy to believe, especially when you see them happening.",0.5777,0.238,0.0,0.762,positive,The Enchanted Castle
+"And, as I am always telling you, the most wonderful things happen to all sorts of people, only you never hear about them because the people think that no one will believe their stories, and so they don't tell them to any one except me.",0.4201,0.083,0.046,0.871,positive,The Enchanted Castle
+"And they tell me, because they know that I can believe anything.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"When Jimmy had awakened the Sleeping Princess, and she had invited the three children to go with her to her palace and get something to eat, they all knew quite surely that they had come into a place of magic happenings.",0.4927,0.076,0.0,0.924,positive,The Enchanted Castle
+And they walked in a slow procession along the grass towards the castle.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The Princess went first, and Kathleen carried her shining train; then came Jimmy, and Gerald came last.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"They were all quite sure that they had walked right into the middle of a fairy-tale, and they were the more ready to believe it because they were so tired and hungry.",0.1642,0.145,0.101,0.754,positive,The Enchanted Castle
+"They were, in fact, so hungry and tired that they hardly noticed where they were going, or observed the beauties of the formal gardens through which the pink-silk Princess was leading them.",0.0609,0.093,0.087,0.82,positive,The Enchanted Castle
+"They were in a sort of dream, from which they only partially awakened to find themselves in a big hail, with suits of armour and old flags round the walls, the skins of beasts on the floor, and heavy oak tables and benches ranged along it.",0.2516,0.067,0.0,0.933,positive,The Enchanted Castle
+"The Princess entered, slow and stately, but once inside she twitched her sheeny train out of Jimmy's hand and turned to the three.",0.6486,0.163,0.0,0.837,positive,The Enchanted Castle
+"""You just wait here a minute,"" she said, ""and mind you don't talk while I'm away.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"This castle is crammed with magic, and I don't know what will happen if you talk.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"And with that, picking up the thick goldy-pink folds under her arms, she ran out, as Jimmy said afterwards, ""most unprincesslike,"" showing as she ran black stockings and black strap shoes.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Jimmy wanted very much to say that he didn't believe anything would happen, only he was afraid something would happen if he did, so he merely made a face and put out his tongue.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The others pretended not to see this, which was much more crushing than anything they could have said.",-0.4201,0.0,0.141,0.859,negative,The Enchanted Castle
+"So they sat in silence, and Gerald ground the heel of his boot upon the marble floor.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Then the Princess came back, very slowly and kicking her long skirts in front of her at every step.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+She could not hold them up now because of the tray she carried.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"It was not a silver tray, as you might have expected, but an oblong tin one.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"She set it down noisily on the end of the long table and breathed a sigh of relief.. ""Oh!",0.1007,0.076,0.0,0.924,positive,The Enchanted Castle
+"it was heavy,"" she said.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+I don't know what fairy feast the children's fancy had been busy with.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Anyhow, this was nothing like it.",-0.2755,0.0,0.297,0.703,negative,The Enchanted Castle
+"The heavy tray held a loaf of bread, a lump of cheese, and a brown jug of water.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The rest of its heaviness was just plates and mugs and knives.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Come along,"" said the Princess hospitably.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I couldn't find anything but bread and cheese but it doesn't matter, because everything's magic here, and unless you have some dreadful secret fault the bread and cheese will turn into anything you like.",-0.6441,0.078,0.204,0.718,negative,The Enchanted Castle
+"What would you like?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+she asked Kathleen.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Roast chicken,"" said Kathleen, without hesitation.",0.2057,0.266,0.0,0.734,positive,The Enchanted Castle
+The pinky Princess cut a slice of bread and laid it on a dish.,-0.2732,0.0,0.16,0.84,negative,The Enchanted Castle
+"""There you are,"" she said, ""roast chicken.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Shall I carve it, or will you?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You, please,"" said Kathleen, and received a piece of dry bread on a plate.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Green peas?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"asked the Princess, cut a piece of cheese and laid it beside the bread.",-0.2732,0.0,0.149,0.851,negative,The Enchanted Castle
+"Kathleen began to eat the bread, cutting it up with knife and fork as you would eat chicken.",-0.128,0.0,0.081,0.919,negative,The Enchanted Castle
+"It was no use owning that she didn't see any chicken and peas, or anything but cheese and dry bread, because that would be owning that she had some dreadful secret fault.",-0.8402,0.0,0.237,0.763,negative,The Enchanted Castle
+"""If I have, it is a secret, even from me,"" she told herself.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The others asked for roast beef and cabbage and got it, she supposed, though to her it only looked like dry bread and Dutch cheese.",0.3612,0.094,0.0,0.906,positive,The Enchanted Castle
+"""I do wonder what my dreadful secret fault is,"" she thought, as the Princess remarked that, as for her, she could fancy a slice of roast peacock.",-0.6808,0.0,0.189,0.811,negative,The Enchanted Castle
+"""This one, she added, lifting a second mouthful of dry bread on her fork, ""is quite delicious.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It's a game, isn't it?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked Jimmy suddenly.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""What's a game?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"asked the Princess, frowning.",-0.34,0.0,0.444,0.556,negative,The Enchanted Castle
+"""Pretending it's beef the bread and cheese, I mean.""",0.1027,0.167,0.0,0.833,positive,The Enchanted Castle
+"""A game?",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+But it is beef.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Look at it,"" said the Princess, opening her eyes very wide.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Yes, of course,"" said Jimmy feebly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I was only joking.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Bread and cheese is not perhaps so good as roast beef or chicken or peacock (I'm not sure about the peacock.,0.4175,0.151,0.079,0.769,positive,The Enchanted Castle
+"I never tasted peacock, did you?",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"); but bread and cheese is, at any rate, very much better than nothing when you have gone on having nothing since breakfast (gooseberries and ginger-beer hardly count) and it is long past your proper dinner-time.",0.6448,0.109,0.0,0.891,positive,The Enchanted Castle
+Everyone ate and drank and felt much better.,0.4404,0.293,0.0,0.707,positive,The Enchanted Castle
+"""Now,"" said the Princess, brushing the bread crumbs off her green silk lap, ""if you're sure you won't have any more meat you can come and see my treasures.",0.6249,0.159,0.0,0.841,positive,The Enchanted Castle
+Sure you won't take the least bit more chicken?,0.3182,0.223,0.0,0.777,positive,The Enchanted Castle
+No?,-0.296,0.0,1.0,0.0,negative,The Enchanted Castle
+"Then follow me.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+She got up and they followed her down the long hall to the end where the great stone stairs ran up at each side and joined in a broad flight leading to the gallery above.,0.6249,0.111,0.0,0.889,positive,The Enchanted Castle
+Under the stairs was a hanging of tapestry.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Beneath this arras,"" said the Princess, ""is the door leading to my private apartments.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"She held the tapestry up with both hands, for it was heavy, and showed a little door that had been hidden by it.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""The key,"" she said, ""hangs above.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"And so it did, on a large rusty nail.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Put it in,"" said the Princess, ""and turn it.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Gerald did so, and the great key creaked and grated in the lock.",0.6557,0.267,0.0,0.733,positive,The Enchanted Castle
+"""Now push,"" she said; ""push hard, all of you.",-0.1027,0.0,0.149,0.851,negative,The Enchanted Castle
+"They pushed hard, all of them.",-0.1027,0.0,0.219,0.781,negative,The Enchanted Castle
+"The door gave way, and they fell over each other into the dark space beyond.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The Princess dropped the curtain and came after them, closing the door behind her.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Look out!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"she said; ""look out!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+there are two steps down.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Thank you,"" said Gerald, rubbing his knee at the bottom of the steps.",0.3612,0.172,0.0,0.828,positive,The Enchanted Castle
+"""We found that out for ourselves.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I'm sorry,"" said the Princess, ""but you can't have hurt yourselves much.",0.5667,0.25,0.0,0.75,positive,The Enchanted Castle
+Go straight on.,0.2263,0.487,0.0,0.513,positive,The Enchanted Castle
+"There aren't any more steps.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+They went straight on in the dark.,0.2263,0.241,0.0,0.759,positive,The Enchanted Castle
+"""When you come to the door just turn the handle and go in.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Then stand still till I find the matches.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"I know where they are.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Did they have matches a hundred years ago?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked Jimmy.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I meant the tinder-box,"" said the Princess quickly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""We always called it the matches.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Don't you?,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Here, let me go first.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"She did, and when they had reached the door she was waiting for them with a candle in her hand.",0.5574,0.213,0.0,0.787,positive,The Enchanted Castle
+She thrust it on Gerald.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Hold it steady,"" she said, and undid the shutters of a long window, so that first a yellow streak and then a blazing great oblong of light flashed at them and the room was full of sunshine.",0.8074,0.186,0.0,0.814,positive,The Enchanted Castle
+"""It makes the candle look quite silly,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""So it does, said the Princess, and blew out the candle.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Then she took the key from the outside of the door, put it in the inside keyhole, and turned it.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The room they were in was small and high.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Its domed ceiling was of deep blue with gold stars painted on it.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The walls were of wood, panelled and carved, and there was no furniture in it whatever.",-0.296,0.0,0.128,0.872,negative,The Enchanted Castle
+"""This,"" said the Princess, ""is my treasure chamber.""",0.296,0.239,0.0,0.761,positive,The Enchanted Castle
+"""But where, asked Kathleen politely, ""are the treasures?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Don't you see them?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked the Princess.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""No, we don't,"" said Jimmy bluntly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You don't come that bread-and-cheese game with me not twice over, you don't!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""If you really don't see them,"" said the Princess, ""I suppose I shall have to say the charm.",0.4019,0.144,0.0,0.856,positive,The Enchanted Castle
+"Shut your eyes, please.",0.3182,0.434,0.0,0.566,positive,The Enchanted Castle
+"And give me your word of honour you won't look till I tell you, and that you'll never tell anyone what you've seen.""",0.5719,0.15,0.0,0.85,positive,The Enchanted Castle
+"Their words of honour were something that the children would rather not have given just then, but they gave them all the same, and shut their eyes tight.",0.3291,0.08,0.0,0.92,positive,The Enchanted Castle
+"""Wiggadil yougadoo begadee leegadeeve nowgadow?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said the Princess rapidly; and they heard the swish of her silk train moving across the room.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Then there was a creaking, rustling noise.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""She's locking us in!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+cried Jimmy.,-0.3818,0.0,0.722,0.278,negative,The Enchanted Castle
+"""Your word of honour,"" gasped Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Oh, do be quick!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+moaned Kathleen.,-0.1027,0.0,0.583,0.417,negative,The Enchanted Castle
+"""You may look,"" said the voice of the Princess.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+And they looked.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The room was not the same room, yet yes, the starry-vaulted blue ceiling was there, and below it half a dozen feet of the dark panelling, but below that the walls of the room blazed and sparkled with white and blue and red and green and gold and silver.",0.2144,0.038,0.0,0.962,positive,The Enchanted Castle
+"Shelves ran round the room, and on them were gold cups and silver dishes, and platters and goblets set with gems, ornaments of gold and silver, tiaras of diamonds, necklaces of rubies, strings of emeralds and pearls, all set out in unimaginable splendour against a background of faded blue velvet.",0.4939,0.062,0.0,0.938,positive,The Enchanted Castle
+"It was like the Crown jewels that you see when your kind uncle takes you to the Tower, only there seemed to be far more jewels than you or anyone else has ever seen together at the Tower or anywhere else.",0.8979,0.243,0.0,0.757,positive,The Enchanted Castle
+"The three children remained breathless, open-mouthed, staring at the sparkling splendours all about them, while the Princess stood, her arm stretched out in a gesture of command, and a proud smile on her lips.",0.875,0.282,0.0,0.718,positive,The Enchanted Castle
+"""My word!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"said Gerald, in a low whisper.",-0.2732,0.0,0.344,0.656,negative,The Enchanted Castle
+But no one spoke out loud.,-0.4215,0.0,0.359,0.641,negative,The Enchanted Castle
+They waited as if spellbound for the Princess to speak.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+She spoke.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""What price bread-and-cheese games now?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+she asked triumphantly.,0.5106,0.623,0.0,0.377,positive,The Enchanted Castle
+"""Can I do magic, or can't I?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You can; oh, you can!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said Kathleen.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""May we may we touch?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked Gerald.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""All that's mine is yours,"" said the Princess, with a generous wave of her brown hand, and added quickly, ""Only, of course, you mustn't take anything away with you.""",0.7579,0.2,0.0,0.8,positive,The Enchanted Castle
+"""We're not thieves!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said Jimmy.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The others were already turning over the wonderful things on the blue velvet shelves.,0.5719,0.222,0.0,0.778,positive,The Enchanted Castle
+"""Perhaps not,"" said the Princess, ""but you're a very unbelieving little boy.",-0.3898,0.0,0.209,0.791,negative,The Enchanted Castle
+"You think I can't see inside you, but I can.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"I know what you've been thinking.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""What?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked Jimmy.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Oh, you know well enough,"" said the Princess.",0.2732,0.231,0.0,0.769,positive,The Enchanted Castle
+"""You're thinking about the bread and cheese that I changed into beef, and about your secret fault.",-0.4019,0.0,0.153,0.847,negative,The Enchanted Castle
+"I say, let's all dress up and you be princes and princesses too.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""To crown our hero,"" said Gerald, lifting a gold crown with a cross on the top, ""was the work of a moment.""",0.2023,0.091,0.0,0.909,positive,The Enchanted Castle
+"He put the crown on his head, and added a collar of SS and a zone of sparkling emeralds, which would not quite meet round his middle.",0.296,0.084,0.0,0.916,positive,The Enchanted Castle
+"He turned from fixing it by an ingenious adaptation of his belt to find the others already decked with diadems, necklaces, and rings.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""How splendid you look!""",0.6239,0.577,0.0,0.423,positive,The Enchanted Castle
+"said the Princess, ""and how I wish your clothes were prettier.",0.7003,0.42,0.0,0.58,positive,The Enchanted Castle
+What ugly clothes people wear nowadays!,-0.5562,0.0,0.418,0.582,negative,The Enchanted Castle
+"A hundred years ago "" Kathleen stood quite still with a diamond bracelet raised in her hand.",0.7063,0.328,0.0,0.672,positive,The Enchanted Castle
+"""I say,"" she said.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""The King and Queen?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""What King and Queen?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked the Princess.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Your father and mother,"" your sorrowing parents, said Kathleen.",-0.4019,0.0,0.252,0.748,negative,The Enchanted Castle
+"""They'll have waked up by now.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Won't they be wanting to see you, after a hundred years, you know?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Oh ah yes,"" said the Princess slowly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I embraced my rejoicing parents when I got the bread and cheese.",0.5859,0.275,0.0,0.725,positive,The Enchanted Castle
+They re having their dinner.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+They won't expect me yet.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Here,"" she added, hastily putting a ruby bracelet on Kathleen's arm, ""see how splendid that is!""",0.6239,0.226,0.0,0.774,positive,The Enchanted Castle
+"Kathleen would have been quite content to go on all day trying on different jewels and looking at herself in the little silver-framed mirror that the Princess took from one of the shelves, but the boys were soon weary of this amusement.",0.3818,0.112,0.057,0.832,positive,The Enchanted Castle
+"""Look here,"" said Gerald, ""if you're sure your father and mother won't want you, let's go out and have a jolly good game of something.",0.8062,0.286,0.041,0.673,positive,The Enchanted Castle
+"You could play besieged castles awfully well in that maze unless you can do any more magic tricks.""",0.5849,0.231,0.0,0.769,positive,The Enchanted Castle
+"""You forget,"" said the Princess, ""I'm grown up.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+I don't play games.,-0.2584,0.0,0.504,0.496,negative,The Enchanted Castle
+"And I don't like to do too much magic at a time, it's so tiring.",-0.2755,0.0,0.15,0.85,negative,The Enchanted Castle
+"Besides, it'll take us ever so long to put all these things back in their proper places.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+It did.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The children would have laid the jewels just anywhere; but the Princess showed them that every necklace, or ring, or bracelet had its own home on the velvet a slight hollowing in the shelf beneath, so that each stone fitted into its own little nest.",0.25,0.044,0.0,0.956,positive,The Enchanted Castle
+"As Kathleen was fitting the last shining ornament into its proper place, she saw that part of the shelf near it held, not bright jewels, but rings and brooches and chains, as well as queer things that she did not know the names of, and all were of dull metal and odd shapes.",-0.7425,0.044,0.164,0.792,negative,The Enchanted Castle
+"""What's all this rubbish?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+she asked.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Rubbish, indeed!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said the Princess.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Why those are all magic things!",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+This bracelet anyone who wears it has got to speak the truth.,0.3182,0.173,0.0,0.827,positive,The Enchanted Castle
+"This chain makes you as strong as ten men; if you wear this spur your horse will go a mile a minute; or if you're walking it's the same as seven-league boots.""",0.5106,0.102,0.0,0.898,positive,The Enchanted Castle
+"""What does this brooch do?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"asked Kathleen, reaching out her hand.",0.6124,0.556,0.0,0.444,positive,The Enchanted Castle
+The princess caught her by the wrist.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You mustn't touch,"" she said; ""if anyone but me touches them all the magic goes out at once and never comes back.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"That brooch will give you any wish you like.""",0.4019,0.252,0.0,0.748,positive,The Enchanted Castle
+"""And this ring?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Jimmy pointed.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Oh, that makes you invisible.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""What's this?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"asked Gerald, showing a curious buckle.",0.3182,0.365,0.0,0.635,positive,The Enchanted Castle
+"""Oh, that undoes the effect of all the other charms.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Do you mean really?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Jimmy asked.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You're not just kidding?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Kidding indeed!""",0.1759,0.629,0.0,0.371,positive,The Enchanted Castle
+repeated the Princess scornfully.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I should have thought I'd shown you enough magic to prevent you speaking to a Princess like that!""",0.4389,0.206,0.0,0.794,positive,The Enchanted Castle
+"""I say,"" said Gerald, visibly excited.",0.34,0.324,0.0,0.676,positive,The Enchanted Castle
+"""You might show us how some of the things act.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Couldn't you give us each a wish?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+The Princess did not at once answer.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+And the minds of the three played with granted wishes brilliant yet thoroughly reasonable the kind of wish that never seems to occur to people in fairy-tales when they suddenly get a chance to have their three wishes granted.,0.9301,0.372,0.0,0.628,positive,The Enchanted Castle
+"""No,"" said the Princess suddenly, ""no; I can't give wishes to you, it only gives me wishes.",-0.2235,0.0,0.171,0.829,negative,The Enchanted Castle
+But I'll let you see the ring make me invisible.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Only you must shut your eyes while I do it.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+They shut them.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Count fifty,"" said the Princess, ""and then you may look.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"And then you must shut them again, and count fifty, and I'll reappear.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Gerald counted, aloud.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Through the counting one could hear a creaking, rustling sound.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Forty-seven, forty-eight, forty-nine, fifty!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"said Gerald, and they opened their eyes.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+They were alone in the room.,-0.25,0.0,0.286,0.714,negative,The Enchanted Castle
+The jewels had vanished and so had the Princess.,0.4588,0.273,0.0,0.727,positive,The Enchanted Castle
+"""She's gone out by the door, of course,"" said Jimmy, but the door was locked.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""That is magic,"" said Kathleen breathlessly.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Maskelyne and Devant can do that trick, said Jimmy.",-0.0516,0.0,0.13,0.87,negative,The Enchanted Castle
+"""And I want my tea.""",0.0772,0.302,0.0,0.698,positive,The Enchanted Castle
+"""Your tea!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+Gerald's tone was full of contempt.,-0.5859,0.0,0.432,0.568,negative,The Enchanted Castle
+"""The lovely Princess, he went on, ""reappeared as soon as our hero had finished counting fifty.",0.8126,0.346,0.0,0.654,positive,The Enchanted Castle
+"One, two, three, four ,"" Gerald and Kathleen had both closed their eyes.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+But somehow Jimmy hadn't.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"He didn't mean to cheat, he just forgot.",0.357,0.262,0.0,0.738,positive,The Enchanted Castle
+And as Gerald's count reached twenty he saw a panel under the window open slowly.,0.1027,0.097,0.0,0.903,positive,The Enchanted Castle
+"""Her,"" he said to himself.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I knew it was a trick!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"and at once shut his eyes, like an honourable little boy.",0.6808,0.384,0.0,0.616,positive,The Enchanted Castle
+"On the word ""fifty"" six eyes opened.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+And the panel was closed and there was no Princess.,-0.296,0.0,0.196,0.804,negative,The Enchanted Castle
+"""She hasn't pulled it off this time,"" said Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Perhaps you'd better count again,"" said Kathleen.",0.4404,0.326,0.0,0.674,positive,The Enchanted Castle
+"""I believe there's a cupboard under the window,"" said Jimmy, ""and she's hidden in it.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"Secret panel, you know.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You looked!",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"That's cheating,"" said the voice of the Princess so close to his ear that he quite jumped.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""I didn't cheat.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Where on earth What ever ,"" said all three together.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+For still there was no Princess to be seen.,-0.296,0.0,0.216,0.784,negative,The Enchanted Castle
+"""Come back visible, Princess dear,"" said Kathleen.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Shall we shut our eyes and count again?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Don't be silly!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"said the voice of the Princess, and it sounded very cross.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""We're not silly,"" said Jimmy, and his voice was cross too.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Why can't you come back and have done with it?",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"You know you're only hiding.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Don't!""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+said Kathleen gently.,0.4588,0.6,0.0,0.4,positive,The Enchanted Castle
+"""She is invisible, you know.""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""So should I be if I got into the cupboard,"" said Jimmy.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Oh yes,"" said the sneering tone of the Princess, ""you think yourselves very clever, I dare say.",0.5095,0.18,0.0,0.82,positive,The Enchanted Castle
+But I don't mind.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"We'll play that you can't see me, if you like.""",0.34,0.211,0.0,0.789,positive,The Enchanted Castle
+"""Well, but we can't,"" said Gerald.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""It's no use getting in a wax.",-0.296,0.0,0.306,0.694,negative,The Enchanted Castle
+"If you're hiding, as Jimmy says, you'd better come out.",0.1779,0.221,0.168,0.611,positive,The Enchanted Castle
+"If you've really turned invisible, you'd better make yourself visible again.""",0.4404,0.225,0.0,0.775,positive,The Enchanted Castle
+"""Do you really mean,"" asked a voice quite changed, but still the Princess's, ""that you can't see me?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Can't you see we can't?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+asked Jimmy rather unreasonably.,0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"The sun was blazing in at the window; the eight-sided room was very hot, and everyone was getting cross.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""You can't see me?""",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+There was the sound of a sob in the voice of the invisible Princess.,-0.25,0.0,0.143,0.857,negative,The Enchanted Castle
+"""No, I tell you,"" said Jimmy, ""and I want my tea and "" What he was saying was broken off short, as one might break a stick of sealing wax.",-0.4215,0.046,0.109,0.845,negative,The Enchanted Castle
+"And then in the golden afternoon a really quite horrid thing happened: Jimmy suddenly leaned backwards, then forwards, his eyes opened wide and his mouth too.",-0.6214,0.0,0.145,0.855,negative,The Enchanted Castle
+"Backward and forward he went, very quickly and abruptly, then stood still.",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle
+"""Oh, he's in a fit!",0.4199,0.482,0.0,0.518,positive,The Enchanted Castle
+"Oh, Jimm",0.0,0.0,0.0,1.0,neutral,The Enchanted Castle

@@ -1,0 +1,639 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The First Men in the Moon This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.063,0.1,0.837,negative,The First Men in the Moon
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The First Men in the Moon
+"Title : The First Men in the Moon Author : H. G. Wells Release date : October 20, 2004 [eBook #1013] Most recently updated: February 25, 2026 Language : English Other information and formats : www.gutenberg.org/ebooks/1013 Credits : Barry Haworth *** START OF THE PROJECT GUTENBERG EBOOK THE FIRST MEN IN THE MOON *** The First Men In The Moon by H. G. Wells Contents I. Mr. Bedford Meets Mr. Cavor at Lympne II.",0.6705,0.091,0.0,0.909,positive,The First Men in the Moon
+The First Making of Cavorite III.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The Building of the sphere IV.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Inside the Sphere V. The Journey to the Moon VI.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The Landing on the Moon VII.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Sunrise on the Moon VIII.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+A Lunar Morning IX.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Prospecting Begins X.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Lost Men in the Moon XI.,-0.3182,0.0,0.315,0.685,negative,The First Men in the Moon
+The Mooncalf Pastures XII.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The Selenite's Face XIII.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Mr. Cavor Makes Some Suggestions XIV.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Experiments in intercourse XV.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The Giddy Bridge XVI.,-0.1531,0.0,0.348,0.652,negative,The First Men in the Moon
+Points of View XVII.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The Fight in the Cave of the Moon Butchers XVIII.,-0.3818,0.0,0.224,0.776,negative,The First Men in the Moon
+In the Sunlight XIX.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Mr. Bedford Alone XX.,-0.25,0.0,0.4,0.6,negative,The First Men in the Moon
+Mr. Bedford in Infinite Space XXI.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Mr. Bedford at Littlestone XXII.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The Astonishing Communication of Mr. Julius Wendigee XXIII.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+An Abstract of the Six Messages First Received from Mr. Cavor XXIV.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The Natural History of the Selenites XXV.,0.3612,0.294,0.0,0.706,positive,The First Men in the Moon
+The Grand Lunar XXVI.,0.4588,0.5,0.0,0.5,positive,The First Men in the Moon
+"The Last Message Cavor sent to the Earth I. Mr. Bedford Meets Mr. Cavor at Lympne As I sit down to write here amidst the shadows of vine-leaves under the blue sky of southern Italy, it comes to me with a certain quality of astonishment that my participation in these amazing adventures of Mr. Cavor was, after all, the outcome of the purest accident.",0.6369,0.12,0.045,0.836,positive,The First Men in the Moon
+It might have been any one.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I fell into these things at a time when I thought myself removed from the slightest possibility of disturbing experiences.,-0.5106,0.0,0.171,0.829,negative,The First Men in the Moon
+I had gone to Lympne because I had imagined it the most uneventful place in the world.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Here, at any rate,"" said I, ""I shall find peace and a chance to work!""",0.6996,0.326,0.0,0.674,positive,The First Men in the Moon
+And this book is the sequel.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+So utterly at variance is destiny with all the little plans of men.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I may perhaps mention here that very recently I had come an ugly cropper in certain business enterprises.,-0.296,0.108,0.17,0.722,negative,The First Men in the Moon
+"Sitting now surrounded by all the circumstances of wealth, there is a luxury in admitting my extremity.",0.4939,0.176,0.0,0.824,positive,The First Men in the Moon
+"I can admit, even, that to a certain extent my disasters were conceivably of my own making.",-0.1779,0.2,0.185,0.615,negative,The First Men in the Moon
+"It may be there are directions in which I have some capacity, but the conduct of business operations is not among these.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But in those days I was young, and my youth among other objectionable forms took that of a pride in my capacity for affairs.",0.4767,0.129,0.0,0.871,positive,The First Men in the Moon
+"I am young still in years, but the things that have happened to me have rubbed something of the youth from my mind.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Whether they have brought any wisdom to light below it is a more doubtful matter.,0.2698,0.259,0.146,0.596,positive,The First Men in the Moon
+"It is scarcely necessary to go into the details of the speculations that landed me at Lympne, in Kent.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Nowadays even about business transactions there is a strong spice of adventure.,0.6808,0.384,0.0,0.616,positive,The First Men in the Moon
+I took risks.,-0.2732,0.0,0.677,0.323,negative,The First Men in the Moon
+"In these things there is invariably a certain amount of give and take, and it fell to me finally to do the giving reluctantly enough.",0.4767,0.167,0.052,0.781,positive,The First Men in the Moon
+"Even when I had got out of everything, one cantankerous creditor saw fit to be malignant.",0.34,0.151,0.066,0.783,positive,The First Men in the Moon
+"Perhaps you have met that flaming sense of outraged virtue, or perhaps you have only felt it.",-0.1779,0.131,0.164,0.704,negative,The First Men in the Moon
+He ran me hard.,-0.1027,0.0,0.318,0.682,negative,The First Men in the Moon
+"It seemed to me, at last, that there was nothing for it but to write a play, unless I wanted to drudge for my living as a clerk.",0.4767,0.114,0.0,0.886,positive,The First Men in the Moon
+"I have a certain imagination, and luxurious tastes, and I meant to make a vigorous fight for it before that fate overtook me.",-0.128,0.097,0.12,0.783,negative,The First Men in the Moon
+"In addition to my belief in my powers as a business man, I had always in those days had an idea that I was equal to writing a very good play.",0.707,0.19,0.0,0.81,positive,The First Men in the Moon
+"It is not, I believe, a very uncommon persuasion.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I knew there is nothing a man can do outside legitimate business transactions that has such opulent possibilities, and very probably that biased my opinion.",-0.3321,0.0,0.097,0.903,negative,The First Men in the Moon
+"I had, indeed, got into the habit of regarding this unwritten drama as a convenient little reserve put by for a rainy day.",-0.0772,0.0,0.064,0.936,negative,The First Men in the Moon
+"That rainy day had come, and I set to work.",-0.0772,0.0,0.14,0.86,negative,The First Men in the Moon
+"I soon discovered that writing a play was a longer business than I had supposed; at first I had reckoned ten days for it, and it was to have a pied-à-terre while it was in hand that I came to Lympne.",0.6808,0.149,0.0,0.851,positive,The First Men in the Moon
+I reckoned myself lucky in getting that little bungalow.,0.4215,0.286,0.0,0.714,positive,The First Men in the Moon
+I got it on a three years' agreement.,0.4939,0.39,0.0,0.61,positive,The First Men in the Moon
+"I put in a few sticks of furniture, and while the play was in hand I did my own cooking.",0.6808,0.272,0.0,0.728,positive,The First Men in the Moon
+My cooking would have shocked Mrs.,-0.3182,0.0,0.315,0.685,negative,The First Men in the Moon
+Bond.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"And yet, you know, it had flavour.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I had a coffee-pot, a sauce-pan for eggs, and one for potatoes, and a frying-pan for sausages and bacon--such was the simple apparatus of my comfort.",0.3612,0.106,0.0,0.894,positive,The First Men in the Moon
+"One cannot always be magnificent, but simplicity is always a possible alternative.",-0.267,0.0,0.172,0.828,negative,The First Men in the Moon
+"For the rest I laid in an eighteen-gallon cask of beer on credit, and a trustful baker came each day.",0.6908,0.263,0.0,0.737,positive,The First Men in the Moon
+"It was not, perhaps, in the style of Sybaris, but I have had worse times.",-0.631,0.0,0.242,0.758,negative,The First Men in the Moon
+"I was a little sorry for the baker, who was a very decent man indeed, but even for him I hoped.",0.5262,0.175,0.052,0.773,positive,The First Men in the Moon
+"Certainly if any one wants solitude, the place is Lympne.",0.34,0.211,0.0,0.789,positive,The First Men in the Moon
+"It is in the clay part of Kent, and my bungalow stood on the edge of an old sea cliff and stared across the flats of Romney Marsh at the sea.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"In very wet weather the place is almost inaccessible, and I have heard that at times the postman used to traverse the more succulent portions of his route with boards upon his feet.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I never saw him doing so, but I can quite imagine it.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Outside the doors of the few cottages and houses that make up the present village big birch besoms are stuck, to wipe off the worst of the clay, which will give some idea of the texture of the district.",-0.7269,0.0,0.142,0.858,negative,The First Men in the Moon
+"I doubt if the place would be there at all, if it were not a fading memory of things gone for ever.",-0.3612,0.0,0.116,0.884,negative,The First Men in the Moon
+"It was the big port of England in Roman times, Portus Lemanis, and now the sea is four miles away.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"All down the steep hill are boulders and masses of Roman brickwork, and from it old Watling Street, still paved in places, starts like an arrow to the north.",0.3612,0.082,0.0,0.918,positive,The First Men in the Moon
+"I used to stand on the hill and think of it all, the galleys and legions, the captives and officials, the women and traders, the speculators like myself, all the swarm and tumult that came clanking in and out of the harbour.",0.3612,0.059,0.0,0.941,positive,The First Men in the Moon
+"And now just a few lumps of rubble on a grassy slope, and a sheep or two--and I.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"And where the port had been were the levels of the marsh, sweeping round in a broad curve to distant Dungeness, and dotted here and there with tree clumps and the church towers of old mediæval towns that are following Lemanis now towards extinction.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"That outlook on the marsh was, indeed, one of the finest views I have ever seen.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I suppose Dungeness was fifteen miles away; it lay like a raft on the sea, and farther westward were the hills by Hastings under the setting sun.",0.3612,0.094,0.0,0.906,positive,The First Men in the Moon
+"Sometimes they hung close and clear, sometimes they were faded and low, and often the drift of the weather took them clean out of sight.",0.4939,0.18,0.071,0.748,positive,The First Men in the Moon
+And all the nearer parts of the marsh were laced and lit by ditches and canals.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The window at which I worked looked over the skyline of this crest, and it was from this window that I first set eyes on Cavor.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"It was just as I was struggling with my scenario, holding down my mind to the sheer hard work of it, and naturally enough he arrested my attention.",-0.743,0.0,0.233,0.767,negative,The First Men in the Moon
+"The sun had set, the sky was a vivid tranquillity of green and yellow, and against that he came out black--the oddest little figure.",0.4215,0.113,0.0,0.887,positive,The First Men in the Moon
+"He was a short, round-bodied, thin-legged little man, with a jerky quality in his motions; he had seen fit to clothe his extraordinary mind in a cricket cap, an overcoat, and cycling knickerbockers and stockings.",0.3612,0.075,0.0,0.925,positive,The First Men in the Moon
+"Why he did so I do not know, for he never cycled and he never played cricket.",-0.2584,0.0,0.12,0.88,negative,The First Men in the Moon
+"It was a fortuitous concurrence of garments, arising I know not how.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He gesticulated with his hands and arms, and jerked his head about and buzzed.",-0.2023,0.0,0.122,0.878,negative,The First Men in the Moon
+He buzzed like something electric.,0.3612,0.385,0.0,0.615,positive,The First Men in the Moon
+You never heard such buzzing.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+And ever and again he cleared his throat with a most extraordinary noise.,0.1027,0.113,0.0,0.887,positive,The First Men in the Moon
+"There had been rain, and that spasmodic walk of his was enhanced by the extreme slipperiness of the footpath.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Exactly as he came against the sun he stopped, pulled out a watch, hesitated.",-0.4939,0.0,0.276,0.724,negative,The First Men in the Moon
+"Then with a sort of convulsive gesture he turned and retreated with every manifestation of haste, no longer gesticulating, but going with ample strides that showed the relatively large size of his feet--they were, I remember, grotesquely exaggerated in size by adhesive clay--to the best possible advantage.",0.7964,0.158,0.061,0.781,positive,The First Men in the Moon
+"This occurred on the first day of my sojourn, when my play-writing energy was at its height and I regarded the incident simply as an annoying distraction--the waste of five minutes.",-0.5267,0.061,0.159,0.78,negative,The First Men in the Moon
+I returned to my scenario.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But when next evening the apparition was repeated with remarkable precision, and again the next evening, and indeed every evening when rain was not falling, concentration upon the scenario became a considerable effort.",0.7626,0.18,0.0,0.82,positive,The First Men in the Moon
+"""Confound the man,"" I said, ""one would think he was learning to be a marionette!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+and for several evenings I cursed him pretty heartily.,0.4939,0.314,0.0,0.686,positive,The First Men in the Moon
+Then my annoyance gave way to amazement and curiosity.,0.296,0.273,0.18,0.547,positive,The First Men in the Moon
+Why on earth should a man do this thing?,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"On the fourteenth evening I could stand it no longer, and so soon as he appeared I opened the french window, crossed the verandah, and directed myself to the point where he invariably stopped.",-0.4767,0.0,0.12,0.88,negative,The First Men in the Moon
+He had his watch out as I came up to him.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He had a chubby, rubicund face with reddish brown eyes--previously I had seen him only against the light.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""One moment, sir,"" said I as he turned.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+He stared.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""One moment,"" he said, ""certainly.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Or if you wish to speak to me for longer, and it is not asking too much--your moment is up--would it trouble you to accompany me?""",0.0,0.092,0.092,0.816,neutral,The First Men in the Moon
+"""Not in the least,"" said I, placing myself beside him.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""My habits are regular.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"My time for intercourse--limited.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""This, I presume, is your time for exercise?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""It is.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I come here to enjoy the sunset.""",0.4939,0.39,0.0,0.61,positive,The First Men in the Moon
+"""You don't.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Sir?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""You never look at it.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Never look at it?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""No.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I've watched you thirteen nights, and not once have you looked at the sunset--not once.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+He knitted his brows like one who encounters a problem.,-0.0516,0.205,0.221,0.574,negative,The First Men in the Moon
+"""Well, I enjoy the sunlight--the atmosphere--I go along this path, through that gate""--he jerked his head over his shoulder--""and round--"" ""You don't.",0.34,0.133,0.075,0.792,positive,The First Men in the Moon
+You never have been.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+It's all nonsense.,-0.4019,0.0,0.574,0.426,negative,The First Men in the Moon
+There isn't a way.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"To-night for instance--"" ""Oh!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+to-night!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Let me see.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Ah!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I just glanced at my watch, saw that I had already been out just three minutes over the precise half-hour, decided there was not time to go round, turned--"" ""You always do.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+He looked at me--reflected.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Perhaps I do, now I come to think of it.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But what was it you wanted to speak to me about?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Why, this!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""This?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Yes.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Why do you do it?,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Every night you come making a noise--"" ""Making a noise?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Like this.""",0.3612,0.714,0.0,0.286,positive,The First Men in the Moon
+I imitated his buzzing noise.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He looked at me, and it was evident the buzzing awakened distaste.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Do I do that? """,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+he asked.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Every blessed evening.""",0.5994,0.661,0.0,0.339,positive,The First Men in the Moon
+"""I had no idea.""",-0.296,0.0,0.423,0.577,negative,The First Men in the Moon
+He stopped dead.,-0.7351,0.0,0.861,0.139,negative,The First Men in the Moon
+He regarded me gravely.,-0.3612,0.0,0.455,0.545,negative,The First Men in the Moon
+"""Can it be,"" he said, ""that I have formed a Habit?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Well, it looks like it.",0.3612,0.385,0.0,0.615,positive,The First Men in the Moon
+"Doesn't it?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+He pulled down his lower lip between finger and thumb.,-0.296,0.0,0.196,0.804,negative,The First Men in the Moon
+He regarded a puddle at his feet.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""My mind is much occupied,"" he said.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""And you want to know why!",0.1511,0.242,0.0,0.758,positive,The First Men in the Moon
+"Well, sir, I can assure you that not only do I not know why I do these things, but I did not even know I did them.",0.3071,0.14,0.0,0.86,positive,The First Men in the Moon
+"Come to think, it is just as you say; I never have been beyond that field.... And these things annoy you?""",-0.4404,0.0,0.132,0.868,negative,The First Men in the Moon
+For some reason I was beginning to relent towards him.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Not annoy ,"" I said.",0.3412,0.445,0.0,0.555,positive,The First Men in the Moon
+"""But--imagine yourself writing a play!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I couldn't.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Well, anything that needs concentration.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Ah!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"he said, ""of course,"" and meditated.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"His expression became so eloquent of distress, that I relented still more.",-0.5667,0.0,0.268,0.732,negative,The First Men in the Moon
+"After all, there is a touch of aggression in demanding of a man you don't know why he hums on a public footpath.",-0.4767,0.0,0.186,0.814,negative,The First Men in the Moon
+"""You see,"" he said weakly, ""it's a habit.""",-0.4215,0.0,0.318,0.682,negative,The First Men in the Moon
+"""Oh, I recognise that.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I must stop it.""",-0.296,0.0,0.423,0.577,negative,The First Men in the Moon
+"""But not if it puts you out.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"After all, I had no business--it's something of a liberty.""",-0.296,0.0,0.239,0.761,negative,The First Men in the Moon
+"""Not at all, sir,"" he said, ""not at all.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I am greatly indebted to you.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I should guard myself against these things.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+In future I will.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Could I trouble you--once again?,-0.4019,0.0,0.474,0.526,negative,The First Men in the Moon
+"That noise?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Something like this,"" I said.",0.3612,0.455,0.0,0.545,positive,The First Men in the Moon
+"""Zuzzoo, zuzzoo.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But really, you know--"" ""I am greatly obliged to you.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"In fact, I know I am getting absurdly absent-minded.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"You are quite justified, sir--perfectly justified.",0.7172,0.599,0.0,0.401,positive,The First Men in the Moon
+"Indeed, I am indebted to you.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The thing shall end.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"And now, sir, I have already brought you farther than I should have done.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I do hope my impertinence--"" ""Not at all, sir, not at all.""",0.4404,0.209,0.0,0.791,positive,The First Men in the Moon
+We regarded each other for a moment.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I raised my hat and wished him a good evening.,0.4404,0.293,0.0,0.707,positive,The First Men in the Moon
+"He responded convulsively, and so we went our ways.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+At the stile I looked back at his receding figure.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"His bearing had changed remarkably, he seemed limp, shrunken.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The contrast with his former gesticulating, zuzzoing self took me in some absurd way as pathetic.",-0.5719,0.0,0.198,0.802,negative,The First Men in the Moon
+I watched him out of sight.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Then wishing very heartily I had kept to my own business, I returned to my bungalow and my play.",0.5106,0.223,0.0,0.777,positive,The First Men in the Moon
+"The next evening I saw nothing of him, nor the next.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But he was very much in my mind, and it had occurred to me that as a sentimental comic character he might serve a useful purpose in the development of my plot.",0.7783,0.195,0.0,0.805,positive,The First Men in the Moon
+The third day he called upon me.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+For a time I was puzzled to think what had brought him.,-0.1779,0.0,0.159,0.841,negative,The First Men in the Moon
+"He made indifferent conversation in the most formal way, then abruptly he came to business.",-0.2023,0.0,0.114,0.886,negative,The First Men in the Moon
+He wanted to buy me out of my bungalow.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""You see,"" he said, ""I don't blame you in the least, but you've destroyed a habit, and it disorganises my day.",-0.5834,0.064,0.181,0.756,negative,The First Men in the Moon
+I've walked past here for years--years.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"No doubt I've hummed.... You've made all that impossible!""",-0.6114,0.0,0.416,0.584,negative,The First Men in the Moon
+I suggested he might try some other direction.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""No.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+There is no other direction.,-0.296,0.0,0.355,0.645,negative,The First Men in the Moon
+This is the only one.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I've inquired.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"And now--every afternoon at four--I come to a dead wall.""",-0.6486,0.0,0.35,0.65,negative,The First Men in the Moon
+"""But, my dear sir, if the thing is so important to you--"" ""It's vital.",0.7324,0.394,0.0,0.606,positive,The First Men in the Moon
+"You see, I'm--I'm an investigator--I am engaged in a scientific research.",0.4019,0.231,0.0,0.769,positive,The First Men in the Moon
+"I live--"" he paused and seemed to think.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Just over there,"" he said, and pointed suddenly dangerously near my eye.",-0.4588,0.0,0.214,0.786,negative,The First Men in the Moon
+"""The house with white chimneys you see just over the trees.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+And my circumstances are abnormal--abnormal.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I am on the point of completing one of the most important--demonstrations--I can assure you one of the most important demonstrations that have ever been made.,0.5799,0.171,0.0,0.829,positive,The First Men in the Moon
+"It requires constant thought, constant mental ease and activity.",0.3612,0.238,0.0,0.762,positive,The First Men in the Moon
+"And the afternoon was my brightest time!--effervescing with new ideas--new points of view.""",0.6476,0.263,0.0,0.737,positive,The First Men in the Moon
+"""But why not come by still?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""It would be all different.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I should be self-conscious.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I should think of you at your play--watching me irritated--instead of thinking of my work.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+No!,-0.3595,0.0,1.0,0.0,negative,The First Men in the Moon
+"I must have the bungalow.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I meditated.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Naturally, I wanted to think the matter over thoroughly before anything decisive was said.",0.3102,0.229,0.0,0.771,positive,The First Men in the Moon
+"I was generally ready enough for business in those days, and selling always attracted me; but in the first place it was not my bungalow, and even if I sold it to him at a good price I might get inconvenienced in the delivery of goods if the current owner got wind of the transaction, and in the second I was, well--undischarged.",0.7579,0.122,0.0,0.878,positive,The First Men in the Moon
+It was clearly a business that required delicate handling.,0.4404,0.394,0.0,0.606,positive,The First Men in the Moon
+"Moreover, the possibility of his being in pursuit of some valuable invention also interested me.",0.7003,0.309,0.0,0.691,positive,The First Men in the Moon
+"It occurred to me that I would like to know more of this research, not with any dishonest intention, but simply with an idea that to know what it was would be a relief from play-writing.",0.7845,0.203,0.0,0.797,positive,The First Men in the Moon
+I threw out feelers.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+He was quite willing to supply information.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Indeed, once he was fairly under way the conversation became a monologue.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He talked like a man long pent up, who has had it over with himself again and again.",0.3612,0.135,0.0,0.865,positive,The First Men in the Moon
+"He talked for nearly an hour, and I must confess I found it a pretty stiff bit of listening.",0.4939,0.176,0.0,0.824,positive,The First Men in the Moon
+But through it all there was the undertone of satisfaction one feels when one is neglecting work one has set oneself.,0.0772,0.146,0.134,0.72,positive,The First Men in the Moon
+During that first interview I gathered very little of the drift of his work.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Half his words were technicalities entirely strange to me, and he illustrated one or two points with what he was pleased to call elementary mathematics, computing on an envelope with a copying-ink pencil, in a manner that made it hard even to seem to understand.",0.1045,0.063,0.075,0.862,positive,The First Men in the Moon
+"""Yes,"" I said, ""yes.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Go on!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Nevertheless I made out enough to convince me that he was no mere crank playing at discoveries.,0.1531,0.2,0.116,0.684,positive,The First Men in the Moon
+In spite of his crank-like appearance there was a force about him that made that impossible.,-0.5267,0.0,0.195,0.805,negative,The First Men in the Moon
+"Whatever it was, it was a thing with mechanical possibilities.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He told me of a work-shed he had, and of three assistants--originally jobbing carpenters--whom he had trained.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Now, from the work-shed to the patent office is clearly only one step.",0.4019,0.184,0.0,0.816,positive,The First Men in the Moon
+He invited me to see those things.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I accepted readily, and took care, by a remark or so, to underline that.",0.6486,0.346,0.0,0.654,positive,The First Men in the Moon
+The proposed transfer of the bungalow remained very conveniently in suspense.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"At last he rose to depart, with an apology for the length of his call.",0.0516,0.079,0.0,0.921,positive,The First Men in the Moon
+"Talking over his work was, he said, a pleasure enjoyed only too rarely.",0.7906,0.412,0.0,0.588,positive,The First Men in the Moon
+"It was not often he found such an intelligent listener as myself, he mingled very little with professional scientific men.",0.4588,0.136,0.0,0.864,positive,The First Men in the Moon
+"""So much pettiness,"" he explained; ""so much intrigue!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"And really, when one has an idea--a novel, fertilising idea--I don't want to be uncharitable, but--"" I am a man who believes in impulses.",0.2681,0.098,0.052,0.85,positive,The First Men in the Moon
+I made what was perhaps a rash proposition.,-0.4019,0.0,0.351,0.649,negative,The First Men in the Moon
+"But you must remember, that I had been alone, play-writing in Lympne, for fourteen days, and my compunction for his ruined walk still hung about me.",-0.7684,0.0,0.224,0.776,negative,The First Men in the Moon
+"""Why not,"" said I, ""make this your new habit?",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+In the place of the one I spoilt?,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"At least, until we can settle about the bungalow.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+What you want is to turn over your work in your mind.,0.0772,0.106,0.0,0.894,positive,The First Men in the Moon
+That you have always done during your afternoon walk.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Unfortunately that's over--you can't get things back as they were.,-0.34,0.0,0.211,0.789,negative,The First Men in the Moon
+But why not come and talk about your work to me; use me as a sort of wall against which you may throw your thoughts and catch them again?,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"It's certain I don't know enough to steal your ideas myself--and I know no scientific men--"" I stopped.",-0.6369,0.103,0.358,0.539,negative,The First Men in the Moon
+He was considering.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Evidently the thing attracted him.,0.4215,0.412,0.0,0.588,positive,The First Men in the Moon
+"""But I'm afraid I should bore you,"" he said.",-0.3612,0.0,0.263,0.737,negative,The First Men in the Moon
+"""You think I'm too dull?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Oh, no; but technicalities--"" ""Anyhow, you've interested me immensely this afternoon.""",0.4497,0.251,0.113,0.636,positive,The First Men in the Moon
+"""Of course it would be a great help to me.",0.7783,0.493,0.0,0.507,positive,The First Men in the Moon
+Nothing clears up one's ideas so much as explaining them.,-0.0572,0.0,0.12,0.88,negative,The First Men in the Moon
+"Hitherto--"" ""My dear sir, say no more.""",0.1027,0.265,0.224,0.51,positive,The First Men in the Moon
+"""But really can you spare the time?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""There is no rest like change of occupation,"" I said, with profound conviction.",0.0772,0.17,0.15,0.68,positive,The First Men in the Moon
+The affair was over.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+On my verandah steps he turned.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I am already greatly indebted to you,"" he said.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I made an interrogative noise.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""You have completely cured me of that ridiculous habit of humming,"" he explained.",-0.3612,0.0,0.172,0.828,negative,The First Men in the Moon
+"I think I said I was glad to be of any service to him, and he turned away.",0.4588,0.176,0.0,0.824,positive,The First Men in the Moon
+Immediately the train of thought that our conversation had suggested must have resumed its sway.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+His arms began to wave in their former fashion.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The faint echo of ""zuzzoo"" came back to me on the breeze.... Well, after all, that was not my affair....",0.2732,0.1,0.0,0.9,positive,The First Men in the Moon
+"He came the next day, and again the next day after that, and delivered two lectures on physics to our mutual satisfaction.",0.4404,0.121,0.0,0.879,positive,The First Men in the Moon
+"He talked with an air of being extremely lucid about the ""ether"" and ""tubes of force,"" and ""gravitational potential,"" and things like that, and I sat in my other folding-chair and said, ""Yes,"" ""Go on,"" ""I follow you,"" to keep him going.",0.3612,0.059,0.0,0.941,positive,The First Men in the Moon
+"It was tremendously difficult stuff, but I do not think he ever suspected how much I did not understand him.",-0.5017,0.0,0.21,0.79,negative,The First Men in the Moon
+"There were moments when I doubted whether I was well employed, but at any rate I was resting from that confounded play.",0.4767,0.209,0.07,0.721,positive,The First Men in the Moon
+"Now and then things gleamed on me clearly for a space, only to vanish just when I thought I had hold of them.",0.4019,0.124,0.0,0.876,positive,The First Men in the Moon
+"Sometimes my attention failed altogether, and I would give it up and sit and stare at him, wondering whether, after all, it would not be better to use him as a central figure in a good farce and let all this other stuff slide.",-0.6711,0.06,0.174,0.766,negative,The First Men in the Moon
+"And then, perhaps, I would catch on again for a bit.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+At the earliest opportunity I went to see his house.,0.4215,0.259,0.0,0.741,positive,The First Men in the Moon
+"It was large and carelessly furnished; there were no servants other than his three assistants, and his dietary and private life were characterised by a philosophical simplicity.",-0.4939,0.0,0.149,0.851,negative,The First Men in the Moon
+"He was a water-drinker, a vegetarian, and all those logical disciplinary things.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+But the sight of his equipment settled many doubts.,-0.4215,0.0,0.259,0.741,negative,The First Men in the Moon
+It looked like business from cellar to attic--an amazing little place to find in an out-of-the-way village.,0.743,0.296,0.0,0.704,positive,The First Men in the Moon
+"The ground-floor rooms contained benches and apparatus, the bakehouse and scullery boiler had developed into respectable furnaces, dynamos occupied the cellar, and there was a gasometer in the garden.",0.4939,0.139,0.0,0.861,positive,The First Men in the Moon
+He showed it to me with all the confiding zest of a man who has been living too much alone.,-0.25,0.0,0.1,0.9,negative,The First Men in the Moon
+"His seclusion was overflowing now in an excess of confidence, and I had the good luck to be the recipient.",0.8481,0.365,0.0,0.635,positive,The First Men in the Moon
+"The three assistants were creditable specimens of the class of ""handy-men"" from which they came.",0.4215,0.167,0.0,0.833,positive,The First Men in the Moon
+"Conscientious if unintelligent, strong, civil, and willing.",0.0772,0.292,0.265,0.442,positive,The First Men in the Moon
+"One, Spargus, who did the cooking and all the metal work, had been a sailor; a second, Gibbs, was a joiner; and the third was an ex-jobbing gardener, and now general assistant.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+They were the merest labourers.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+All the intelligent work was done by Cavor.,0.4588,0.3,0.0,0.7,positive,The First Men in the Moon
+Theirs was the darkest ignorance compared even with my muddled impression.,-0.5859,0.122,0.365,0.513,negative,The First Men in the Moon
+"And now, as to the nature of these inquiries.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Here, unhappily, comes a grave difficulty.",-0.7845,0.0,0.798,0.202,negative,The First Men in the Moon
+"I am no scientific expert, and if I were to attempt to set forth in the highly scientific language of Mr. Cavor the aim to which his experiments tended, I am afraid I should confuse not only the reader but myself, and almost certainly I should make some blunder that would bring upon me the mockery of every up-to-date student of mathematical physics in the country.",-0.3269,0.041,0.091,0.868,negative,The First Men in the Moon
+"The best thing I can do therefore is, I think to give my impressions in my own inexact language, without any attempt to wear a garment of knowledge to which I have no claim.",0.5994,0.173,0.062,0.765,positive,The First Men in the Moon
+"The object of Mr. Cavor's search was a substance that should be ""opaque""--he used some other word I have forgotten, but ""opaque"" conveys the idea--to ""all forms of radiant energy.""",0.5719,0.131,0.046,0.823,positive,The First Men in the Moon
+"""Radiant energy,"" he made me understand, was anything like light or heat, or those Röntgen Rays there was so much talk about a year or so ago, or the electric waves of Marconi, or gravitation.",0.6808,0.149,0.0,0.851,positive,The First Men in the Moon
+"All these things, he said, radiate out from centres, and act on bodies at a distance, whence comes the term ""radiant energy.""",0.4767,0.134,0.0,0.866,positive,The First Men in the Moon
+Now almost all substances are opaque to some form or other of radiant energy.,0.6369,0.302,0.0,0.698,positive,The First Men in the Moon
+"Glass, for example, is transparent to light, but much less so to heat, so that it is useful as a fire-screen; and alum is transparent to light, but blocks heat completely.",0.3612,0.113,0.069,0.819,positive,The First Men in the Moon
+"A solution of iodine in carbon bisulphide, on the other hand, completely blocks light, but is quite transparent to heat.",0.2854,0.176,0.075,0.75,positive,The First Men in the Moon
+"It will hide a fire from you, but permit all its warmth to reach you.",0.4767,0.283,0.168,0.549,positive,The First Men in the Moon
+"Metals are not only opaque to light and heat, but also to electrical energy, which passes through both iodine solution and glass almost as though they were not interposed.",0.6808,0.172,0.0,0.828,positive,The First Men in the Moon
+And so on.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Now all known substances are ""transparent"" to gravitation.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"You can use screens of various sorts to cut off the light or heat, or electrical influence of the sun, or the warmth of the earth from anything; you can screen things by sheets of metal from Marconi's rays, but nothing will cut off the gravitational attraction of the sun or the gravitational attraction of the earth.",0.7783,0.151,0.063,0.785,positive,The First Men in the Moon
+Yet why there should be nothing is hard to say.,0.0762,0.126,0.0,0.874,positive,The First Men in the Moon
+"Cavor did not see why such a substance should not exist, and certainly I could not tell him.",-0.2584,0.0,0.12,0.88,negative,The First Men in the Moon
+I had never thought of such a possibility before.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He showed me by calculations on paper, which Lord Kelvin, no doubt, or Professor Lodge, or Professor Karl Pearson, or any of those great scientific people might have understood, but which simply reduced me to a hopeless muddle, that not only was such a substance possible, but that it must satisfy certain conditions.",0.431,0.149,0.119,0.731,positive,The First Men in the Moon
+It was an amazing piece of reasoning.,0.5859,0.388,0.0,0.612,positive,The First Men in the Moon
+"Much as it amazed and exercised me at the time, it would be impossible to reproduce it here.",0.4939,0.158,0.0,0.842,positive,The First Men in the Moon
+"""Yes,"" I said to it all, ""yes; go on!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Suffice it for this story that he believed he might be able to manufacture this possible substance opaque to gravitation out of a complicated alloy of metals and something new--a new element, I fancy--called, I believe, helium , which was sent to him from London in sealed stone jars.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Doubt has been thrown upon this detail, but I am almost certain it was helium he had sent him in sealed stone jars.",0.1181,0.092,0.073,0.835,positive,The First Men in the Moon
+It was certainly something very gaseous and thin.,0.34,0.255,0.0,0.745,positive,The First Men in the Moon
+If only I had taken notes...,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But then, how was I to foresee the necessity of taking notes?",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Any one with the merest germ of an imagination will understand the extraordinary possibilities of such a substance, and will sympathise a little with the emotion I felt as this understanding emerged from the haze of abstruse phrases in which Cavor expressed himself.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Comic relief in a play indeed!,0.6996,0.659,0.0,0.341,positive,The First Men in the Moon
+"It was some time before I would believe that I had interpreted him aright, and I was very careful not to ask questions that would have enabled him to gauge the profundity of misunderstanding into which he dropped his daily exposition.",-0.228,0.047,0.069,0.885,negative,The First Men in the Moon
+"But no one reading the story of it here will sympathise fully, because from my barren narrative it will be impossible to gather the strength of my conviction that this astonishing substance was positively going to be made.",0.7964,0.191,0.06,0.749,positive,The First Men in the Moon
+I do not recall that I gave my play an hour's consecutive work at any time after my visit to his house.,0.34,0.112,0.0,0.888,positive,The First Men in the Moon
+My imagination had other things to do.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+There seemed no limit to the possibilities of the stuff; whichever way I tried I came on miracles and revolutions.,-0.296,0.0,0.115,0.885,negative,The First Men in the Moon
+"For example, if one wanted to lift a weight, however enormous, one had only to get a sheet of this substance beneath it, and one might lift it with a straw.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"My first natural impulse was to apply this principle to guns and ironclads, and all the material and methods of war, and from that to shipping, locomotion, building, every conceivable form of human industry.",-0.34,0.065,0.102,0.833,negative,The First Men in the Moon
+"The chance that had brought me into the very birth-chamber of this new time--it was an epoch, no less--was one of those chances that come once in a thousand years.",0.1531,0.119,0.069,0.812,positive,The First Men in the Moon
+"The thing unrolled, it expanded and expanded.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Among other things I saw in it my redemption as a business man.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I saw a parent company, and daughter companies, applications to right of us, applications to left, rings and trusts, privileges, and concessions spreading and spreading, until one vast, stupendous Cavorite company ran and ruled the world.",0.6908,0.151,0.0,0.849,positive,The First Men in the Moon
+And I was in it!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I took my line straight away.,0.2263,0.322,0.0,0.678,positive,The First Men in the Moon
+"I knew I was staking everything, but I jumped there and then.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""We're on absolutely the biggest thing that has ever been invented,"" I said, and put the accent on ""we.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""If you want to keep me out of this, you'll have to do it with a gun.",-0.2732,0.073,0.136,0.791,negative,The First Men in the Moon
+"I'm coming down to be your fourth labourer to-morrow.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He seemed surprised at my enthusiasm, but not a bit suspicious or hostile.",0.1692,0.347,0.195,0.458,positive,The First Men in the Moon
+"Rather, he was self-depreciatory.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+He looked at me doubtfully.,-0.296,0.0,0.355,0.645,negative,The First Men in the Moon
+"""But do you really think--?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+he said.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""And your play!",0.4003,0.574,0.0,0.426,positive,The First Men in the Moon
+"How about that play?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""It's vanished!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I cried.,-0.3818,0.0,1.0,0.0,negative,The First Men in the Moon
+"""My dear sir, don't you see what you've got?",0.3818,0.245,0.0,0.755,positive,The First Men in the Moon
+"Don't you see what you're going to do?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"That was merely a rhetorical turn, but positively, he didn't.",0.6808,0.365,0.0,0.635,positive,The First Men in the Moon
+At first I could not believe it.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+He had not had the beginning of the inkling of an idea.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+This astonishing little man had been working on purely theoretical grounds the whole time!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"When he said it was ""the most important"" research the world had ever seen, he simply meant it squared up so many theories, settled so much that was in doubt; he had troubled no more about the application of the stuff he was going to turn out than if he had been a machine that makes guns.",-0.6815,0.034,0.125,0.842,negative,The First Men in the Moon
+"This was a possible substance, and he was going to make it!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"V'la tout , as the Frenchman says.",-0.128,0.0,0.231,0.769,negative,The First Men in the Moon
+"Beyond that, he was childish!",-0.3595,0.0,0.384,0.616,negative,The First Men in the Moon
+"If he made it, it would go down to posterity as Cavorite or Cavorine, and he would be made an F.R.S., and his portrait given away as a scientific worthy with Nature , and things like that.",0.6597,0.141,0.0,0.859,positive,The First Men in the Moon
+And that was all he saw!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He would have dropped this bombshell into the world as though he had discovered a new species of gnat, if it had not happened that I had come along.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"And there it would have lain and fizzled, like one or two other little things these scientific people have lit and dropped about us.",0.3612,0.098,0.0,0.902,positive,The First Men in the Moon
+"When I realised this, it was I did the talking, and Cavor who said, ""Go on!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I jumped up.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I paced the room, gesticulating like a boy of twenty.",0.3612,0.263,0.0,0.737,positive,The First Men in the Moon
+I tried to make him understand his duties and responsibilities in the matter-- our duties and responsibilities in the matter.,0.0258,0.058,0.0,0.942,neutral,The First Men in the Moon
+"I assured him we might make wealth enough to work any sort of social revolution we fancied, we might own and order the whole world.",0.6908,0.206,0.0,0.794,positive,The First Men in the Moon
+"I told him of companies and patents, and the case for secret processes.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+All these things seemed to take him much as his mathematics had taken me.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+A look of perplexity came into his ruddy little face.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He stammered something about indifference to wealth, but I brushed all that aside.",0.1406,0.154,0.187,0.659,positive,The First Men in the Moon
+"He had got to be rich, and it was no good his stammering.",0.5106,0.33,0.213,0.457,positive,The First Men in the Moon
+"I gave him to understand the sort of man I was, and that I had had very considerable business experience.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I did not tell him I was an undischarged bankrupt at the time, because that was temporary, but I think I reconciled my evident poverty with my financial claims.",-0.775,0.0,0.227,0.773,negative,The First Men in the Moon
+"And quite insensibly, in the way such projects grow, the understanding of a Cavorite monopoly grew up between us.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He was to make the stuff, and I was to make the boom.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I stuck like a leech to the ""we""--""you"" and ""I"" didn't exist for me.",0.128,0.172,0.138,0.69,positive,The First Men in the Moon
+"His idea was that the profits I spoke of might go to endow research, but that, of course, was a matter we had to settle later.",0.2732,0.124,0.0,0.876,positive,The First Men in the Moon
+"""That's all right,"" I shouted, ""that's all right.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The great point, as I insisted, was to get the thing done.",0.6249,0.291,0.0,0.709,positive,The First Men in the Moon
+"""Here is a substance,"" I cried, ""no home, no factory, no fortress, no ship can dare to be without--more universally applicable even than a patent medicine.",-0.8555,0.0,0.388,0.612,negative,The First Men in the Moon
+"There isn't a solitary aspect of it, not one of its ten thousand possible uses that will not make us rich, Cavor, beyond the dreams of avarice!""",-0.1321,0.09,0.108,0.802,negative,The First Men in the Moon
+"""No!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+he said.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I begin to see.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"It's extraordinary how one gets new points of view by talking over things!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""And as it happens you have just talked to the right man!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I suppose no one,"" he said, ""is absolutely averse to enormous wealth.",0.25,0.208,0.143,0.649,positive,The First Men in the Moon
+"Of course there is one thing--"" He paused.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I stood still.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""It is just possible, you know, that we may not be able to make it after all!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"It may be one of those things that are a theoretical possibility, but a practical absurdity.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Or when we make it, there may be some little hitch!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""We'll tackle the hitch when it comes,"" said I. II.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The First Making of Cavorite But Cavor's fears were groundless, so far as the actual making was concerned.",-0.5719,0.0,0.179,0.821,negative,The First Men in the Moon
+"On the 14th of October, 1899, this incredible substance was made!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Oddly enough, it was made at last by accident, when Mr. Cavor least expected it.",-0.4767,0.0,0.181,0.819,negative,The First Men in the Moon
+He had fused together a number of metals and certain other things--I wish I knew the particulars now!--and he intended to leave the mixture a week and then allow it to cool slowly.,0.8122,0.296,0.034,0.671,positive,The First Men in the Moon
+"Unless he had miscalculated, the last stage in the combination would occur when the stuff sank to a temperature of 60 degrees Fahrenheit.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But it chanced that, unknown to Cavor, dissension had arisen about the furnace tending.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Gibbs, who had previously seen to this, had suddenly attempted to shift it to the man who had been a gardener, on the score that coal was soil, being dug, and therefore could not possibly fall within the province of a joiner; the man who had been a jobbing gardener alleged, however, that coal was a metallic or ore-like substance, let alone that he was cook.",-0.25,0.0,0.032,0.968,negative,The First Men in the Moon
+"But Spargus insisted on Gibbs doing the coaling, seeing that he was a joiner and that coal is notoriously fossil wood.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Consequently Gibbs ceased to replenish the furnace, and no one else did so, and Cavor was too much immersed in certain interesting problems concerning a Cavorite flying machine (neglecting the resistance of the air and one or two other points) to perceive that anything was wrong.",-0.4939,0.091,0.152,0.758,negative,The First Men in the Moon
+And the premature birth of his invention took place just as he was coming across the field to my bungalow for our afternoon talk and tea.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I remember the occasion with extreme vividness.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The water was boiling, and everything was prepared, and the sound of his ""zuzzoo"" had brought me out upon the verandah.",0.2263,0.087,0.0,0.913,positive,The First Men in the Moon
+"His active little figure was black against the autumnal sunset, and to the right the chimneys of his house just rose above a gloriously tinted group of trees.",0.765,0.209,0.0,0.791,positive,The First Men in the Moon
+"Remoter rose the Wealden Hills, faint and blue, while to the left the hazy marsh spread out spacious and serene.",0.4588,0.136,0.0,0.864,positive,The First Men in the Moon
+"And then-- The chimneys jerked heavenward, smashing into a string of bricks as they rose, and the roof and a miscellany of furniture followed.",0.1531,0.099,0.074,0.826,positive,The First Men in the Moon
+Then overtaking them came a huge white flame.,0.3182,0.277,0.0,0.723,positive,The First Men in the Moon
+"The trees about the building swayed and whirled and tore themselves to pieces, that sprang towards the flare.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"My ears were smitten with a clap of thunder that left me deaf on one side for life, and all about me windows smashed, unheeded.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I took three steps from the verandah towards Cavor's house, and even as I did so came the wind.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Instantly my coat tails were over my head, and I was progressing in great leaps and bounds, and quite against my will, towards him.",0.6249,0.157,0.0,0.843,positive,The First Men in the Moon
+"In the same moment the discoverer was seized, whirled about, and flew through the screaming air.",-0.3818,0.0,0.148,0.852,negative,The First Men in the Moon
+"I saw one of my chimney pots hit the ground within six yards of me, leap a score of feet, and so hurry in great strides towards the focus of the disturbance.",0.4144,0.125,0.074,0.801,positive,The First Men in the Moon
+"Cavor, kicking and flapping, came down again, rolled over and over on the ground for a space, struggled up and was lifted and borne forward at an enormous velocity, vanishing at last among the labouring, lashing trees that writhed about his house.",-0.34,0.0,0.057,0.943,negative,The First Men in the Moon
+"A mass of smoke and ashes, and a square of bluish shining substance rushed up towards the zenith.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"A large fragment of fencing came sailing past me, dropped edgeways, hit the ground and fell flat, and then the worst was over.",-0.6249,0.0,0.163,0.837,negative,The First Men in the Moon
+"The aerial commotion fell swiftly until it was a mere strong gale, and I became once more aware that I had breath and feet.",0.6705,0.224,0.0,0.776,positive,The First Men in the Moon
+"By leaning back against the wind I managed to stop, and could collect such wits as still remained to me.",-0.296,0.0,0.109,0.891,negative,The First Men in the Moon
+In that instant the whole face of the world had changed.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The tranquil sunset had vanished, the sky was dark with scurrying clouds, everything was flattened and swaying with the gale.",0.0516,0.059,0.0,0.941,positive,The First Men in the Moon
+"I glanced back to see if my bungalow was still in a general way standing, then staggered forwards towards the trees amongst which Cavor had vanished, and through whose tall and leaf-denuded branches shone the flames of his burning house.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I entered the copse, dashing from one tree to another and clinging to them, and for a space I sought him in vain.",-0.4215,0.0,0.128,0.872,negative,The First Men in the Moon
+Then amidst a heap of smashed branches and fencing that had banked itself against a portion of his garden wall I perceived something stir.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I made a run for this, but before I reached it a brown object separated itself, rose on two muddy legs, and protruded two drooping, bleeding hands.",0.1531,0.068,0.0,0.932,positive,The First Men in the Moon
+Some tattered ends of garment fluttered out from its middle portion and streamed before the wind.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"For a moment I did not recognise this earthy lump, and then I saw that it was Cavor, caked in the mud in which he had rolled.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He leant forward against the wind, rubbing the dirt from his eyes and mouth.",-0.34,0.0,0.156,0.844,negative,The First Men in the Moon
+"He extended a muddy lump of hand, and staggered a pace towards me.",0.4939,0.242,0.0,0.758,positive,The First Men in the Moon
+"His face worked with emotion, little lumps of mud kept falling from it.",-0.1531,0.0,0.118,0.882,negative,The First Men in the Moon
+"He looked as damaged and pitiful as any living creature I have ever seen, and his remark therefore amazed me exceedingly.",-0.4404,0.122,0.232,0.646,negative,The First Men in the Moon
+"""Gratulate me,"" he gasped; ""gratulate me!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Congratulate you!""",0.5411,0.777,0.0,0.223,positive,The First Men in the Moon
+said I.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Good heavens!",0.7088,1.0,0.0,0.0,positive,The First Men in the Moon
+"What for?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I've done it.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""You have .",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"What on earth caused that explosion?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+A gust of wind blew his words away.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I understood him to say that it wasn't an explosion at all.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The wind hurled me into collision with him, and we stood clinging to one another.",-0.3612,0.0,0.152,0.848,negative,The First Men in the Moon
+"""Try and get back--to my bungalow,"" I bawled in his ear.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He did not hear me, and shouted something about ""three martyrs--science,"" and also something about ""not much good.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+At the time he laboured under the impression that his three attendants had perished in the whirlwind.,0.2263,0.106,0.0,0.894,positive,The First Men in the Moon
+Happily this was incorrect.,0.5574,0.545,0.0,0.455,positive,The First Men in the Moon
+Directly he had left for my bungalow they had gone off to the public-house in Lympne to discuss the question of the furnaces over some trivial refreshment.,-0.0258,0.0,0.041,0.959,neutral,The First Men in the Moon
+"I repeated my suggestion of getting back to my bungalow, and this time he understood.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"We clung arm-in-arm and started, and managed at last to reach the shelter of as much roof as was left to me.",0.0258,0.05,0.0,0.95,neutral,The First Men in the Moon
+For a space we sat in arm-chairs and panted.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"All the windows were broken, and the lighter articles of furniture were in great disorder, but no irrevocable damage was done.",-0.8151,0.086,0.372,0.541,negative,The First Men in the Moon
+"Happily the kitchen door had stood the pressure upon it, so that all my crockery and cooking materials had survived.",0.6908,0.264,0.084,0.651,positive,The First Men in the Moon
+"The oil stove was still burning, and I put on the water to boil again for tea.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"And that prepared, I could turn on Cavor for his explanation.",0.2263,0.174,0.0,0.826,positive,The First Men in the Moon
+"""Quite correct,"" he insisted; ""quite correct.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I've done it, and it's all right.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""But,"" I protested.",-0.128,0.0,0.6,0.4,negative,The First Men in the Moon
+"""All right!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Why, there can't be a rick standing, or a fence or a thatched roof undamaged for twenty miles round...."" ""It's all right-- really .",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I didn't, of course, foresee this little upset.",-0.3197,0.0,0.278,0.722,negative,The First Men in the Moon
+"My mind was preoccupied with another problem, and I'm apt to disregard these practical side issues.",-0.5859,0.0,0.255,0.745,negative,The First Men in the Moon
+"But it's all right--"" ""My dear sir,"" I cried, ""don't you see you've done thousands of pounds' worth of damage?""",0.3291,0.229,0.135,0.636,positive,The First Men in the Moon
+"""There, I throw myself on your discretion.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I'm not a practical man, of course, but don't you think they will regard it as a cyclone?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""But the explosion--"" ""It was not an explosion.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+It's perfectly simple.,0.6369,0.677,0.0,0.323,positive,The First Men in the Moon
+"Only, as I say, I'm apt to overlook these little things.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+It's that zuzzoo business on a larger scale.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Inadvertently I made this substance of mine, this Cavorite, in a thin, wide sheet...."" He paused.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""You are quite clear that the stuff is opaque to gravitation, that it cuts off things from gravitating towards each other?""",0.1761,0.12,0.091,0.789,positive,The First Men in the Moon
+"""Yes,"" said I.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Yes.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Well, so soon as it reached a temperature of 60 degrees Fahrenheit, and the process of its manufacture was complete, the air above it, the portions of roof and ceiling and floor above it ceased to have weight.",0.1027,0.037,0.0,0.963,positive,The First Men in the Moon
+"I suppose you know--everybody knows nowadays--that, as a usual thing, the air has weight, that it presses on everything at the surface of the earth, presses in all directions, with a pressure of fourteen and a half pounds to the square inch?""",-0.296,0.0,0.056,0.944,negative,The First Men in the Moon
+"""I know that,"" said I.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Go on.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I know that too,"" he remarked.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Only this shows you how useless knowledge is unless you apply it.",-0.4215,0.0,0.203,0.797,negative,The First Men in the Moon
+"You see, over our Cavorite this ceased to be the case, the air there ceased to exert any pressure, and the air round it and not over the Cavorite was exerting a pressure of fourteen pounds and a half to the square inch upon this suddenly weightless air.",-0.5267,0.0,0.091,0.909,negative,The First Men in the Moon
+Ah!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+you begin to see!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The air all about the Cavorite crushed in upon the air above it with irresistible force.,-0.1027,0.125,0.146,0.729,negative,The First Men in the Moon
+"The air above the Cavorite was forced upward violently, the air that rushed in to replace it immediately lost weight, ceased to exert any pressure, followed suit, blew the ceiling through and the roof off.... ""You perceive,"" he said, ""it formed a sort of atmospheric fountain, a kind of chimney in the atmosphere.",-0.8834,0.0,0.194,0.806,negative,The First Men in the Moon
+"And if the Cavorite itself hadn't been loose and so got sucked up the chimney, does it occur to you what would have happened?""",-0.3218,0.072,0.12,0.808,negative,The First Men in the Moon
+I thought.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I suppose,"" I said, ""the air would be rushing up and up over that infernal piece of stuff now.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Precisely,"" he said.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""A huge fountain--"" ""Spouting into space!",0.3802,0.341,0.0,0.659,positive,The First Men in the Moon
+Good heavens!,0.7088,1.0,0.0,0.0,positive,The First Men in the Moon
+"Why, it would have squirted all the atmosphere of the earth away!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+It would have robbed the world of air!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+It would have been the death of all mankind!,-0.636,0.0,0.344,0.656,negative,The First Men in the Moon
+"That little lump of stuff!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Not exactly into space,"" said Cavor, ""but as bad--practically.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"It would have whipped the air off the world as one peels a banana, and flung it thousands of miles.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"It would have dropped back again, of course--but on an asphyxiated world!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"From our point of view very little better than if it never came back!""",0.4901,0.196,0.0,0.804,positive,The First Men in the Moon
+I stared.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+As yet I was too amazed to realise how all my expectations had been upset.,0.1531,0.18,0.146,0.674,positive,The First Men in the Moon
+"""What do you mean to do now?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I asked.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""In the first place if I may borrow a garden trowel I will remove some of this earth with which I am encased, and then if I may avail myself of your domestic conveniences I will have a bath.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"This done, we will converse more at leisure.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"It will be wise, I think""--he laid a muddy hand on my arm--""if nothing were said of this affair beyond ourselves.",0.743,0.27,0.0,0.73,positive,The First Men in the Moon
+I know I have caused great damage--probably even dwelling-houses may be ruined here and there upon the country-side.,0.25,0.193,0.146,0.66,positive,The First Men in the Moon
+"But on the other hand, I cannot possibly pay for the damage I have done, and if the real cause of this is published, it will lead only to heartburning and the obstruction of my work.",0.1139,0.14,0.105,0.755,positive,The First Men in the Moon
+"One cannot foresee everything , you know, and I cannot consent for one moment to add the burthen of practical considerations to my theorising.",-0.1695,0.0,0.074,0.926,negative,The First Men in the Moon
+"Later on, when you have come in with your practical mind, and Cavorite is floated--floated is the word, isn't it?--and it has realised all you anticipate for it, we may set matters right with these persons.",0.0258,0.03,0.0,0.97,neutral,The First Men in the Moon
+But not now--not now.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"If no other explanation is offered, people, in the present unsatisfactory state of meteorological science, will ascribe all this to a cyclone; there might be a public subscription, and as my house has collapsed and been burnt, I should in that case receive a considerable share in the compensation, which would be extremely helpful to the prosecution of our researches.",-0.2975,0.083,0.118,0.799,negative,The First Men in the Moon
+"But if it is known that I caused this, there will be no public subscription, and everybody will be put out.",-0.4215,0.0,0.128,0.872,negative,The First Men in the Moon
+Practically I should never get a chance of working in peace again.,0.4137,0.264,0.131,0.604,positive,The First Men in the Moon
+My three assistants may or may not have perished.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+That is a detail.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"If they have, it is no great loss; they were more zealous than able, and this premature event must be largely due to their joint neglect of the furnace.",-0.1548,0.158,0.201,0.642,negative,The First Men in the Moon
+"If they have not perished, I doubt if they have the intelligence to explain the affair.",0.6381,0.286,0.0,0.714,positive,The First Men in the Moon
+They will accept the cyclone story.,0.3818,0.342,0.0,0.658,positive,The First Men in the Moon
+"And if during the temporary unfitness of my house for occupation, I may lodge in one of the untenanted rooms of this bungalow of yours--"" He paused and regarded me.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"A man of such possibilities, I reflected, is no ordinary guest to entertain.",0.0258,0.17,0.163,0.667,neutral,The First Men in the Moon
+"""Perhaps,"" said I, rising to my feet, ""we had better begin by looking for a trowel,"" and I led the way to the scattered vestiges of the greenhouse.",0.4404,0.104,0.0,0.896,positive,The First Men in the Moon
+And while he was having his bath I considered the entire question alone.,-0.25,0.0,0.154,0.846,negative,The First Men in the Moon
+It was clear there were drawbacks to Mr. Cavor's society I had not foreseen.,0.3818,0.178,0.0,0.822,positive,The First Men in the Moon
+"The absentmindedness that had just escaped depopulating the terrestrial globe, might at any moment result in some other grave inconvenience.",-0.6249,0.0,0.221,0.779,negative,The First Men in the Moon
+"On the other hand I was young, my affairs were in a mess, and I was in just the mood for reckless adventure--with a chance of something good at the end of it.",0.4404,0.217,0.139,0.643,positive,The First Men in the Moon
+I had quite settled in my mind that I was to have half at least in that aspect of the affair.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Fortunately I held my bungalow, as I have already explained, on a three-year agreement, without being responsible for repairs; and my furniture, such as there was of it, had been hastily purchased, was unpaid for, insured, and altogether devoid of associations.",0.3045,0.078,0.048,0.875,positive,The First Men in the Moon
+"In the end I decided to keep on with him, and see the business through.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Certainly the aspect of things had changed very greatly.,0.34,0.231,0.0,0.769,positive,The First Men in the Moon
+"I no longer doubted at all the enormous possibilities of the substance, but I began to have doubts about the gun-carriage and the patent boots.",-0.6059,0.0,0.229,0.771,negative,The First Men in the Moon
+We set to work at once to reconstruct his laboratory and proceed with our experiments.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Cavor talked more on my level than he had ever done before, when it came to the question of how we should make the stuff next.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Of course we must make it again,"" he said, with a sort of glee I had not expected in him, ""of course we must make it again.",0.6003,0.14,0.0,0.86,positive,The First Men in the Moon
+"We have caught a Tartar, perhaps, but we have left the theoretical behind us for good and all.",0.5927,0.194,0.0,0.806,positive,The First Men in the Moon
+"If we can possibly avoid wrecking this little planet of ours, we will.",-0.296,0.0,0.155,0.845,negative,The First Men in the Moon
+But--there must be risks!,-0.3382,0.0,0.444,0.556,negative,The First Men in the Moon
+There must be.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+In experimental work there always are.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"And here, as a practical man, you must come in.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"For my own part it seems to me we might make it edgeways, perhaps, and very thin.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Yet I don't know.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I have a certain dim perception of another method.,0.2732,0.259,0.0,0.741,positive,The First Men in the Moon
+I can hardly explain it yet.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But curiously enough it came into my mind, while I was rolling over and over in the mud before the wind, and very doubtful how the whole adventure was to end, as being absolutely the thing I ought to have done.""",-0.1505,0.068,0.081,0.851,negative,The First Men in the Moon
+"Even with my aid we found some little difficulty, and meanwhile we kept at work restoring the laboratory.",0.024,0.108,0.104,0.788,neutral,The First Men in the Moon
+There was plenty to do before it became absolutely necessary to decide upon the precise form and method of our second attempt.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Our only hitch was the strike of the three labourers, who objected to my activity as a foreman.",-0.128,0.0,0.086,0.914,negative,The First Men in the Moon
+But that matter we compromised after two days' delay.,-0.4215,0.104,0.266,0.631,negative,The First Men in the Moon
+III.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+The Building of the sphere I remember the occasion very distinctly when Cavor told me of his idea of the sphere.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"He had had intimations of it before, but at the time it seemed to come to him in a rush.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"We were returning to the bungalow for tea, and on the way he fell humming.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Suddenly he shouted, ""That's it!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+That finishes it!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"A sort of roller blind!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Finishes what?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I asked.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Space--anywhere!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The moon.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""What do you mean?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Mean?",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+Why--it must be a sphere!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"That's what I mean!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I saw I was out of it, and for a time I let him talk in his own fashion.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I hadn't the ghost of an idea then of his drift.,0.2411,0.179,0.0,0.821,positive,The First Men in the Moon
+But after he had taken tea he made it clear to me.,0.5267,0.236,0.0,0.764,positive,The First Men in the Moon
+"""It's like this,"" he said.",0.3612,0.385,0.0,0.615,positive,The First Men in the Moon
+"""Last time I ran this stuff that cuts things off from gravitation into a flat tank with an overlap that held it down.",-0.296,0.0,0.099,0.901,negative,The First Men in the Moon
+"And directly it had cooled and the manufacture was completed all that uproar happened, nothing above it weighed anything, the air went squirting up, the house squirted up, and if the stuff itself hadn't squirted up too, I don't know what would have happened!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But suppose the substance is loose, and quite free to go up?""",0.4478,0.274,0.165,0.561,positive,The First Men in the Moon
+"""It will go up at once!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Exactly.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"With no more disturbance than firing a big gun.""",-0.7755,0.0,0.608,0.392,negative,The First Men in the Moon
+"""But what good will that do?""",0.5927,0.435,0.0,0.565,positive,The First Men in the Moon
+"""I'm going up with it!""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+I put down my teacup and stared at him.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Imagine a sphere,"" he explained, ""large enough to hold two people and their luggage.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"It will be made of steel lined with thick glass; it will contain a proper store of solidified air, concentrated food, water distilling apparatus, and so forth.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"And enamelled, as it were, on the outer steel--"" ""Cavorite?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Yes.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""But how will you get inside?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""There was a similar problem about a dumpling.""",-0.4019,0.0,0.351,0.649,negative,The First Men in the Moon
+"""Yes, I know.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"But how?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""That's perfectly easy.",0.7964,0.877,0.0,0.123,positive,The First Men in the Moon
+An air-tight manhole is all that is needed.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"That, of course, will have to be a little complicated; there will have to be a valve, so that things may be thrown out, if necessary, without much loss of air.""",0.2411,0.065,0.0,0.935,positive,The First Men in the Moon
+"""Like Jules Verne's thing in A Trip to the Moon .""",0.3612,0.217,0.0,0.783,positive,The First Men in the Moon
+But Cavor was not a reader of fiction.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I begin to see,"" I said slowly.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""And you could get in and screw yourself up while the Cavorite was warm, and as soon as it cooled it would become impervious to gravitation, and off you would fly--"" ""At a tangent.""",0.128,0.055,0.041,0.904,positive,The First Men in the Moon
+"""You would go off in a straight line--"" I stopped abruptly.",0.0,0.176,0.176,0.648,neutral,The First Men in the Moon
+"""What is to prevent the thing travelling in a straight line into space for ever?""",0.25,0.2,0.0,0.8,positive,The First Men in the Moon
+I asked.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""You're not safe to get anywhere, and if you do--how will you get back?""",-0.3412,0.0,0.156,0.844,negative,The First Men in the Moon
+"""I've just thought of that,"" said Cavor.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""That's what I meant when I said the thing is finished.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"The inner glass sphere can be air-tight, and, except for the manhole, continuous, and the steel sphere can be made in sections, each section capable of rolling up after the fashion of a roller blind.",-0.0258,0.07,0.072,0.858,neutral,The First Men in the Moon
+"These can easily be worked by springs, and released and checked by electricity conveyed by platinum wires fused through the glass.",0.34,0.107,0.0,0.893,positive,The First Men in the Moon
+All that is merely a question of detail.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"So you see, that except for the thickness of the blind rollers, the Cavorite exterior of the sphere will consist of windows or blinds, whichever you like to call them.",-0.0516,0.075,0.081,0.843,negative,The First Men in the Moon
+"Well, when all these windows or blinds are shut, no light, no heat, no gravitation, no radiant energy of any sort will get at the inside of the sphere, it will fly on through space in a straight line, as you say.",0.1027,0.18,0.173,0.647,positive,The First Men in the Moon
+"But open a window, imagine one of the windows open.",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"Then at once any heavy body that chances to be in that direction will attract us--"" I sat taking it in.",0.5106,0.193,0.0,0.807,positive,The First Men in the Moon
+"""You see?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+he said.,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Oh, I see .""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Practically we shall be able to tack about in space just as we wish.",0.4019,0.172,0.0,0.828,positive,The First Men in the Moon
+"Get attracted by this and that.""",0.4215,0.359,0.0,0.641,positive,The First Men in the Moon
+"""Oh, yes.",0.4019,0.73,0.0,0.27,positive,The First Men in the Moon
+That's clear enough.,0.3818,0.565,0.0,0.435,positive,The First Men in the Moon
+"Only--"" ""Well?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""I don't quite see what we shall do it for!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"It's really only jumping off the world and back again.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Surely!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"For example, one might go to the moon.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""And when one got there?",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"What would you find?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""We should see--Oh!",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"consider the new knowledge.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Is there air there?""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""There may be.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""It's a fine idea,"" I said, ""but it strikes me as a large order all the same.",-0.431,0.084,0.195,0.721,negative,The First Men in the Moon
+The moon!,0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"I'd much rather try some smaller things first.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""They're out of the question, because of the air difficulty.""",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon
+"""Why",0.0,0.0,0.0,1.0,neutral,The First Men in the Moon

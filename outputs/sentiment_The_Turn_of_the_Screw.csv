@@ -1,0 +1,487 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Turn of the Screw This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.25,0.064,0.133,0.803,negative,The Turn of the Screw
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Turn of the Screw
+"Title : The Turn of the Screw Author : Henry James Release date : February 1, 1995 [eBook #209] Most recently updated: August 24, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/209 Credits : Judith Boss *** START OF THE PROJECT GUTENBERG EBOOK THE TURN OF THE SCREW *** The Turn of the Screw by Henry James Contents THE TURN OF THE SCREW I II III IV V VI VII VIII IX X XI XII XIII XIV XV XVI XVII XVIII XIX XX XXI XXII XXIII XXIV THE TURN OF THE SCREW The story had held us, round the fire, sufficiently breathless, but except the obvious remark that it was gruesome, as, on Christmas Eve in an old house, a strange tale should essentially be, I remember no comment uttered till somebody happened to say that it was the only case he had met in which such a visitation had fallen on a child.",-0.8834,0.012,0.112,0.876,negative,The Turn of the Screw
+"The case, I may mention, was that of an apparition in just such an old house as had gathered us for the occasion--an appearance, of a dreadful kind, to a little boy sleeping in the room with his mother and waking her up in the terror of it; waking her not to dissipate his dread and soothe him to sleep again, but to encounter also, herself, before she had succeeded in doing so, the same sight that had shaken him.",0.2617,0.09,0.089,0.821,positive,The Turn of the Screw
+"It was this observation that drew from Douglas--not immediately, but later in the evening--a reply that had the interesting consequence to which I call attention.",0.5499,0.134,0.0,0.866,positive,The Turn of the Screw
+"Someone else told a story not particularly effective, which I saw he was not following.",-0.4158,0.0,0.188,0.812,negative,The Turn of the Screw
+This I took for a sign that he had himself something to produce and that we should only have to wait.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"We waited in fact till two nights later; but that same evening, before we scattered, he brought out what was in his mind.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""I quite agree--in regard to Griffin's ghost, or whatever it was--that its appearing first to the little boy, at so tender an age, adds a particular touch.",-0.3182,0.0,0.084,0.916,negative,The Turn of the Screw
+But it's not the first occurrence of its charming kind that I know to have involved a child.,0.8957,0.412,0.0,0.588,positive,The Turn of the Screw
+"If the child gives the effect another turn of the screw, what do you say to two children--?""",-0.1027,0.0,0.076,0.924,negative,The Turn of the Screw
+"""We say, of course,"" somebody exclaimed, ""that they give two turns!",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"Also that we want to hear about them.""",0.0772,0.157,0.0,0.843,positive,The Turn of the Screw
+"I can see Douglas there before the fire, to which he had got up to present his back, looking down at his interlocutor with his hands in his pockets.",-0.34,0.0,0.082,0.918,negative,The Turn of the Screw
+"""Nobody but me, till now, has ever heard.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"It's quite too horrible.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"This, naturally, was declared by several voices to give the thing the utmost price, and our friend, with quiet art, prepared his triumph by turning his eyes over the rest of us and going on: ""It's beyond everything.",0.802,0.19,0.0,0.81,positive,The Turn of the Screw
+"Nothing at all that I know touches it.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""For sheer terror?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I remember asking.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+He seemed to say it was not so simple as that; to be really at a loss how to qualify it.,-0.3774,0.0,0.119,0.881,negative,The Turn of the Screw
+"He passed his hand over his eyes, made a little wincing grimace.",0.3566,0.23,0.124,0.646,positive,The Turn of the Screw
+"""For dreadful--dreadfulness!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Oh, how delicious!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+cried one of the women.,-0.3818,0.0,0.394,0.606,negative,The Turn of the Screw
+"He took no notice of her; he looked at me, but as if, instead of me, he saw what he spoke of.",-0.1531,0.0,0.071,0.929,negative,The Turn of the Screw
+"""For general uncanny ugliness and horror and pain.""",-0.8126,0.0,0.552,0.448,negative,The Turn of the Screw
+"""Well then,"" I said, ""just sit right down and begin.""",0.2732,0.208,0.0,0.792,positive,The Turn of the Screw
+"He turned round to the fire, gave a kick to a log, watched it an instant.",-0.34,0.0,0.156,0.844,negative,The Turn of the Screw
+"Then as he faced us again: ""I can't begin.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I shall have to send to town.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"There was a unanimous groan at this, and much reproach; after which, in his preoccupied way, he explained.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""The story's written.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+It's in a locked drawer--it has not been out for years.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I could write to my man and enclose the key; he could send down the packet as he finds it.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+It was to me in particular that he appeared to propound this--appeared almost to appeal for aid not to hesitate.,0.2057,0.087,0.0,0.913,positive,The Turn of the Screw
+"He had broken a thickness of ice, the formation of many a winter; had had his reasons for a long silence.",-0.4767,0.0,0.154,0.846,negative,The Turn of the Screw
+"The others resented postponement, but it was just his scruples that charmed me.",0.4939,0.238,0.107,0.655,positive,The Turn of the Screw
+I adjured him to write by the first post and to agree with us for an early hearing; then I asked him if the experience in question had been his own.,0.3612,0.082,0.0,0.918,positive,The Turn of the Screw
+To this his answer was prompt.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Oh, thank God, no!""",0.5983,0.71,0.0,0.29,positive,The Turn of the Screw
+"""And is the record yours?",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"You took the thing down?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Nothing but the impression.",-0.2498,0.0,0.4,0.6,negative,The Turn of the Screw
+"I took that here ""--he tapped his heart.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""I've never lost it.""",0.2411,0.395,0.0,0.605,positive,The Turn of the Screw
+"""Then your manuscript--?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Is in old, faded ink, and in the most beautiful hand.""",0.6361,0.295,0.0,0.705,positive,The Turn of the Screw
+He hung fire again.,-0.34,0.0,0.444,0.556,negative,The Turn of the Screw
+"""A woman's.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+She has been dead these twenty years.,-0.6486,0.0,0.417,0.583,negative,The Turn of the Screw
+"She sent me the pages in question before she died.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"They were all listening now, and of course there was somebody to be arch, or at any rate to draw the inference.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+But if he put the inference by without a smile it was also without irritation.,0.2235,0.195,0.146,0.659,positive,The Turn of the Screw
+"""She was a most charming person, but she was ten years older than I.",0.3708,0.175,0.0,0.825,positive,The Turn of the Screw
+"She was my sister's governess,"" he quietly said.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""She was the most agreeable woman I've ever known in her position; she would have been worthy of any whatever.",0.7178,0.25,0.0,0.75,positive,The Turn of the Screw
+"It was long ago, and this episode was long before.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I was at Trinity, and I found her at home on my coming down the second summer.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I was much there that year--it was a beautiful one; and we had, in her off-hours, some strolls and talks in the garden--talks in which she struck me as awfully clever and nice.",0.8503,0.261,0.051,0.688,positive,The Turn of the Screw
+"Oh yes; don't grin: I liked her extremely and am glad to this day to think she liked me, too.",-0.0655,0.219,0.266,0.515,negative,The Turn of the Screw
+If she hadn't she wouldn't have told me.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+She had never told anyone.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"It wasn't simply that she said so, but that I knew she hadn't.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I was sure; I could see.,0.3182,0.434,0.0,0.566,positive,The Turn of the Screw
+"You'll easily judge why when you hear.""",0.34,0.286,0.0,0.714,positive,The Turn of the Screw
+"""Because the thing had been such a scare?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+He continued to fix me.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""You'll easily judge,"" he repeated: "" you will.""",0.34,0.286,0.0,0.714,positive,The Turn of the Screw
+"I fixed him, too.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""I see.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"She was in love.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+He laughed for the first time.,0.4588,0.375,0.0,0.625,positive,The Turn of the Screw
+"""You are acute.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"Yes, she was in love.",0.7845,0.697,0.0,0.303,positive,The Turn of the Screw
+"That is, she had been.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+That came out--she couldn't tell her story without its coming out.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I saw it, and she saw I saw it; but neither of us spoke of it.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I remember the time and the place--the corner of the lawn, the shade of the great beeches and the long, hot summer afternoon.",0.6249,0.163,0.0,0.837,positive,The Turn of the Screw
+"It wasn't a scene for a shudder; but oh--!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+He quitted the fire and dropped back into his chair.,-0.34,0.0,0.211,0.789,negative,The Turn of the Screw
+"""You'll receive the packet Thursday morning?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I inquired.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Probably not till the second post.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Well then; after dinner--"" ""You'll all meet me here?""",0.2732,0.208,0.0,0.792,positive,The Turn of the Screw
+He looked us round again.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Isn't anybody going?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+It was almost the tone of hope.,0.4404,0.326,0.0,0.674,positive,The Turn of the Screw
+"""Everybody will stay!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+""" I will""--and "" I will!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+cried the ladies whose departure had been fixed.,-0.3818,0.0,0.271,0.729,negative,The Turn of the Screw
+"Mrs. Griffin, however, expressed the need for a little more light.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Who was it she was in love with?""",0.6369,0.375,0.0,0.625,positive,The Turn of the Screw
+"""The story will tell,"" I took upon myself to reply.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Oh, I can't wait for the story!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""The story won't tell,"" said Douglas; ""not in any literal, vulgar way.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""More's the pity, then.",-0.296,0.0,0.423,0.577,negative,The Turn of the Screw
+"That's the only way I ever understand.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Won't you tell, Douglas?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+somebody else inquired.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+He sprang to his feet again.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Yes--tomorrow.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+Now I must go to bed.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"Good night.""",0.4404,0.744,0.0,0.256,positive,The Turn of the Screw
+"And quickly catching up a candlestick, he left us slightly bewildered.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+From our end of the great brown hall we heard his step on the stair; whereupon Mrs. Griffin spoke.,0.6249,0.186,0.0,0.814,positive,The Turn of the Screw
+"""Well, if I don't know who she was in love with, I know who he was.""",0.6369,0.244,0.0,0.756,positive,The Turn of the Screw
+"""She was ten years older,"" said her husband. """,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+Raison de plus --at that age!,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"But it's rather nice, his long reticence.""",0.5719,0.381,0.0,0.619,positive,The Turn of the Screw
+"""Forty years!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+Griffin put in.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""With this outbreak at last.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""The outbreak,"" I returned, ""will make a tremendous occasion of Thursday night;"" and everyone so agreed with me that, in the light of it, we lost all attention for everything else.",0.1132,0.086,0.072,0.843,positive,The Turn of the Screw
+"The last story, however incomplete and like the mere opening of a serial, had been told; we handshook and ""candlestuck,"" as somebody said, and went to bed.",0.3612,0.091,0.0,0.909,positive,The Turn of the Screw
+"I knew the next day that a letter containing the key had, by the first post, gone off to his London apartments; but in spite of--or perhaps just on account of--the eventual diffusion of this knowledge we quite let him alone till after dinner, till such an hour of the evening, in fact, as might best accord with the kind of emotion on which our hopes were fixed.",0.4596,0.12,0.095,0.785,positive,The Turn of the Screw
+Then he became as communicative as we could desire and indeed gave us his best reason for being so.,0.7845,0.289,0.0,0.711,positive,The Turn of the Screw
+"We had it from him again before the fire in the hall, as we had had our mild wonders of the previous night.",-0.34,0.0,0.098,0.902,negative,The Turn of the Screw
+It appeared that the narrative he had promised to read us really required for a proper intelligence a few words of prologue.,0.6808,0.237,0.0,0.763,positive,The Turn of the Screw
+"Let me say here distinctly, to have done with it, that this narrative, from an exact transcript of my own made much later, is what I shall presently give.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"Poor Douglas, before his death--when it was in sight--committed to me the manuscript that reached him on the third of these days and that, on the same spot, with immense effect, he began to read to our hushed little circle on the night of the fourth.",-0.4019,0.029,0.064,0.907,negative,The Turn of the Screw
+"The departing ladies who had said they would stay didn't, of course, thank heaven, stay: they departed, in consequence of arrangements made, in a rage of curiosity, as they professed, produced by the touches with which he had already worked us up.",-0.3421,0.07,0.121,0.808,negative,The Turn of the Screw
+"But that only made his little final auditory more compact and select, kept it, round the hearth, subject to a common thrill.",0.5023,0.14,0.0,0.86,positive,The Turn of the Screw
+"The first of these touches conveyed that the written statement took up the tale at a point after it had, in a manner, begun.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"The fact to be in possession of was therefore that his old friend, the youngest of several daughters of a poor country parson, had, at the age of twenty, on taking service for the first time in the schoolroom, come up to London, in trepidation, to answer in person an advertisement that had already placed her in brief correspondence with the advertiser.",0.0258,0.049,0.047,0.904,neutral,The Turn of the Screw
+"This person proved, on her presenting herself, for judgment, at a house in Harley Street, that impressed her as vast and imposing--this prospective patron proved a gentleman, a bachelor in the prime of life, such a figure as had never risen, save in a dream or an old novel, before a fluttered, anxious girl out of a Hampshire vicarage.",0.416,0.125,0.078,0.796,positive,The Turn of the Screw
+"One could easily fix his type; it never, happily, dies out.",-0.1341,0.168,0.204,0.628,negative,The Turn of the Screw
+"He was handsome and bold and pleasant, off-hand and gay and kind.",0.91,0.61,0.0,0.39,positive,The Turn of the Screw
+"He struck her, inevitably, as gallant and splendid, but what took her most of all and gave her the courage she afterward showed was that he put the whole thing to her as a kind of favor, an obligation he should gratefully incur.",0.9361,0.297,0.028,0.675,positive,The Turn of the Screw
+"She conceived him as rich, but as fearfully extravagant--saw him all in a glow of high fashion, of good looks, of expensive habits, of charming ways with women.",0.7935,0.294,0.111,0.595,positive,The Turn of the Screw
+"He had for his own town residence a big house filled with the spoils of travel and the trophies of the chase; but it was to his country home, an old family place in Essex, that he wished her immediately to proceed.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"He had been left, by the death of their parents in India, guardian to a small nephew and a small niece, children of a younger, a military brother, whom he had lost two years before.",-0.7351,0.0,0.176,0.824,negative,The Turn of the Screw
+"These children were, by the strangest of chances for a man in his position--a lone man without the right sort of experience or a grain of patience--very heavily on his hands.",-0.0772,0.058,0.068,0.874,negative,The Turn of the Screw
+"It had all been a great worry and, on his own part doubtless, a series of blunders, but he immensely pitied the poor chicks and had done all he could; had in particular sent them down to his other house, the proper place for them being of course the country, and kept them there, from the first, with the best people he could find to look after them, parting even with his own servants to wait on them and going down himself, whenever he might, to see how they were doing.",0.1901,0.096,0.089,0.815,positive,The Turn of the Screw
+The awkward thing was that they had practically no other relations and that his own affairs took up all his time.,-0.4215,0.0,0.167,0.833,negative,The Turn of the Screw
+"He had put them in possession of Bly, which was healthy and secure, and had placed at the head of their little establishment--but below stairs only--an excellent woman, Mrs. Grose, whom he was sure his visitor would like and who had formerly been maid to his mother.",0.9118,0.245,0.0,0.755,positive,The Turn of the Screw
+"She was now housekeeper and was also acting for the time as superintendent to the little girl, of whom, without children of her own, she was, by good luck, extremely fond.",0.8439,0.245,0.0,0.755,positive,The Turn of the Screw
+"There were plenty of people to help, but of course the young lady who should go down as governess would be in supreme authority.",0.802,0.281,0.0,0.719,positive,The Turn of the Screw
+"She would also have, in holidays, to look after the small boy, who had been for a term at school--young as he was to be sent, but what else could be done?--and who, as the holidays were about to begin, would be back from one day to the other.",0.6369,0.102,0.0,0.898,positive,The Turn of the Screw
+There had been for the two children at first a young lady whom they had had the misfortune to lose.,-0.4019,0.0,0.13,0.87,negative,The Turn of the Screw
+"She had done for them quite beautifully--she was a most respectable person--till her death, the great awkwardness of which had, precisely, left no alternative but the school for little Miles.",0.0635,0.136,0.159,0.705,positive,The Turn of the Screw
+"Mrs. Grose, since then, in the way of manners and things, had done as she could for Flora; and there were, further, a cook, a housemaid, a dairywoman, an old pony, an old groom, and an old gardener, all likewise thoroughly respectable.",0.4927,0.078,0.0,0.922,positive,The Turn of the Screw
+So far had Douglas presented his picture when someone put a question.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""And what did the former governess die of?--of so much respectability?""",-0.644,0.0,0.299,0.701,negative,The Turn of the Screw
+Our friend's answer was prompt.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""That will come out.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I don't anticipate.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Excuse me--I thought that was just what you are doing.""",0.0772,0.126,0.0,0.874,positive,The Turn of the Screw
+"""In her successor's place,"" I suggested, ""I should have wished to learn if the office brought with it--"" ""Necessary danger to life?""",-0.5267,0.0,0.145,0.855,negative,The Turn of the Screw
+Douglas completed my thought.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""She did wish to learn, and she did learn.",0.4019,0.252,0.0,0.748,positive,The Turn of the Screw
+You shall hear tomorrow what she learned.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"Meanwhile, of course, the prospect struck her as slightly grim.",-0.4951,0.151,0.37,0.479,negative,The Turn of the Screw
+"She was young, untried, nervous: it was a vision of serious duties and little company, of really great loneliness.",0.2298,0.247,0.25,0.502,positive,The Turn of the Screw
+She hesitated--took a couple of days to consult and consider.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"But the salary offered much exceeded her modest measure, and on a second interview she faced the music, she engaged.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"And Douglas, with this, made a pause that, for the benefit of the company, moved me to throw in-- ""The moral of which was of course the seduction exercised by the splendid young man.",0.7783,0.18,0.0,0.82,positive,The Turn of the Screw
+"She succumbed to it.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"He got up and, as he had done the night before, went to the fire, gave a stir to a log with his foot, then stood a moment with his back to us.",-0.34,0.0,0.076,0.924,negative,The Turn of the Screw
+"""She saw him only twice.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Yes, but that's just the beauty of her passion.""",0.7351,0.394,0.0,0.606,positive,The Turn of the Screw
+"A little to my surprise, on this, Douglas turned round to me.",0.2111,0.155,0.0,0.845,positive,The Turn of the Screw
+"""It was the beauty of it.",0.5859,0.432,0.0,0.568,positive,The Turn of the Screw
+"There were others,"" he went on, ""who hadn't succumbed.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+He told her frankly all his difficulty--that for several applicants the conditions had been prohibitive.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"They were, somehow, simply afraid.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"It sounded dull--it sounded strange; and all the more so because of his main condition.""",-0.2023,0.0,0.114,0.886,negative,The Turn of the Screw
+"""Which was--?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""That she should never trouble him--but never, never: neither appeal nor complain nor write about anything; only meet all questions herself, receive all moneys from his solicitor, take the whole thing over and let him alone.",-0.144,0.058,0.098,0.844,negative,The Turn of the Screw
+"She promised to do this, and she mentioned to me that when, for a moment, disburdened, delighted, he held her hand, thanking her for the sacrifice, she already felt rewarded.""",0.8402,0.257,0.0,0.743,positive,The Turn of the Screw
+"""But was that all her reward?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+one of the ladies asked.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""She never saw him again.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Oh!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"said the lady; which, as our friend immediately left us again, was the only other word of importance contributed to the subject till, the next night, by the corner of the hearth, in the best chair, he opened the faded red cover of a thin old-fashioned gilt-edged album.",0.872,0.184,0.0,0.816,positive,The Turn of the Screw
+"The whole thing took indeed more nights than one, but on the first occasion the same lady put another question.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""What is your title?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""I haven't one.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Oh, I have!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I said.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"But Douglas, without heeding me, had begun to read with a fine clearness that was like a rendering to the ear of the beauty of his author's hand.",0.9428,0.405,0.0,0.595,positive,The Turn of the Screw
+"I I remember the whole beginning as a succession of flights and drops, a little seesaw of the right throbs and the wrong.",-0.3182,0.082,0.142,0.776,negative,The Turn of the Screw
+"After rising, in town, to meet his appeal, I had at all events a couple of very bad days--found myself doubtful again, felt indeed sure I had made a mistake.",-0.7425,0.07,0.261,0.669,negative,The Turn of the Screw
+"In this state of mind I spent the long hours of bumping, swinging coach that carried me to the stopping place at which I was to be met by a vehicle from the house.",-0.1531,0.0,0.051,0.949,negative,The Turn of the Screw
+"This convenience, I was told, had been ordered, and I found, toward the close of the June afternoon, a commodious fly in waiting for me.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"Driving at that hour, on a lovely day, through a country to which the summer sweetness seemed to offer me a friendly welcome, my fortitude mounted afresh and, as we turned into the avenue, encountered a reprieve that was probably but a proof of the point to which it had sunk.",0.765,0.17,0.0,0.83,positive,The Turn of the Screw
+"I suppose I had expected, or had dreaded, something so melancholy that what greeted me was a good surprise.",-0.2006,0.284,0.276,0.44,negative,The Turn of the Screw
+"I remember as a most pleasant impression the broad, clear front, its open windows and fresh curtains and the pair of maids looking out; I remember the lawn and the bright flowers and the crunch of my wheels on the gravel and the clustered treetops over which the rooks circled and cawed in the golden sky.",0.9016,0.219,0.024,0.757,positive,The Turn of the Screw
+"The scene had a greatness that made it a different affair from my own scant home, and there immediately appeared at the door, with a little girl in her hand, a civil person who dropped me as decent a curtsy as if I had been the mistress or a distinguished visitor.",0.4939,0.069,0.0,0.931,positive,The Turn of the Screw
+"I had received in Harley Street a narrower notion of the place, and that, as I recalled it, made me think the proprietor still more of a gentleman, suggested that what I was to enjoy might be something beyond his promise.",0.6705,0.139,0.0,0.861,positive,The Turn of the Screw
+"I had no drop again till the next day, for I was carried triumphantly through the following hours by my introduction to the younger of my pupils.",0.0,0.111,0.145,0.743,neutral,The Turn of the Screw
+The little girl who accompanied Mrs. Grose appeared to me on the spot a creature so charming as to make it a great fortune to have to do with her.,0.874,0.256,0.0,0.744,positive,The Turn of the Screw
+"She was the most beautiful child I had ever seen, and I afterward wondered that my employer had not told me more of her.",0.6361,0.166,0.0,0.834,positive,The Turn of the Screw
+"I slept little that night--I was too much excited; and this astonished me too, I recollect, remained with me, adding to my sense of the liberality with which I was treated.",0.6124,0.161,0.0,0.839,positive,The Turn of the Screw
+"The large, impressive room, one of the best in the house, the great state bed, as I almost felt it, the full, figured draperies, the long glasses in which, for the first time, I could see myself from head to foot, all struck me--like the extraordinary charm of my small charge--as so many things thrown in.",0.9231,0.219,0.031,0.75,positive,The Turn of the Screw
+"It was thrown in as well, from the first moment, that I should get on with Mrs. Grose in a relation over which, on my way, in the coach, I fear I had rather brooded.",-0.2732,0.061,0.093,0.845,negative,The Turn of the Screw
+The only thing indeed that in this early outlook might have made me shrink again was the clear circumstance of her being so glad to see me.,0.7555,0.205,0.0,0.795,positive,The Turn of the Screw
+"I perceived within half an hour that she was so glad--stout, simple, plain, clean, wholesome woman--as to be positively on her guard against showing it too much.",0.7269,0.203,0.0,0.797,positive,The Turn of the Screw
+"I wondered even then a little why she should wish not to show it, and that, with reflection, with suspicion, might of course have made me uneasy.",-0.3612,0.09,0.174,0.736,negative,The Turn of the Screw
+"But it was a comfort that there could be no uneasiness in a connection with anything so beatific as the radiant image of my little girl, the vision of whose angelic beauty had probably more than anything else to do with the restlessness that, before morning, made me several times rise and wander about my room to take in the whole picture and prospect; to watch, from my open window, the faint summer dawn, to look at such portions of the rest of the house as I could catch, and to listen, while, in the fading dusk, the first birds began to twitter, for the possible recurrence of a sound or two, less natural and not without, but within, that I had fancied I heard.",0.9534,0.176,0.063,0.761,positive,The Turn of the Screw
+"There had been a moment when I believed I recognized, faint and far, the cry of a child; there had been another when I found myself just consciously starting as at the passage, before my door, of a light footstep.",-0.4767,0.0,0.086,0.914,negative,The Turn of the Screw
+"But these fancies were not marked enough not to be thrown off, and it is only in the light, or the gloom, I should rather say, of other and subsequent matters that they now come back to me.",-0.6956,0.028,0.119,0.853,negative,The Turn of the Screw
+"To watch, teach, ""form"" little Flora would too evidently be the making of a happy and useful life.",0.765,0.306,0.0,0.694,positive,The Turn of the Screw
+"It had been agreed between us downstairs that after this first occasion I should have her as a matter of course at night, her small white bed being already arranged, to that end, in my room.",0.296,0.091,0.0,0.909,positive,The Turn of the Screw
+"What I had undertaken was the whole care of her, and she had remained, just this last time, with Mrs. Grose only as an effect of our consideration for my inevitable strangeness and her natural timidity.",0.5267,0.143,0.057,0.8,positive,The Turn of the Screw
+"In spite of this timidity--which the child herself, in the oddest way in the world, had been perfectly frank and brave about, allowing it, without a sign of uncomfortable consciousness, with the deep, sweet serenity indeed of one of Raphael's holy infants, to be discussed, to be imputed to her, and to determine us--I feel quite sure she would presently like me.",0.9257,0.237,0.045,0.717,positive,The Turn of the Screw
+"It was part of what I already liked Mrs. Grose herself for, the pleasure I could see her feel in my admiration and wonder as I sat at supper with four tall candles and with my pupil, in a high chair and a bib, brightly facing me, between them, over bread and milk.",0.91,0.221,0.0,0.779,positive,The Turn of the Screw
+"There were naturally things that in Flora's presence could pass between us only as prodigious and gratified looks, obscure and roundabout allusions.",0.3818,0.11,0.0,0.89,positive,The Turn of the Screw
+"""And the little boy--does he look like her?",0.3612,0.263,0.0,0.737,positive,The Turn of the Screw
+"Is he too so very remarkable?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+One wouldn't flatter a child.,-0.0762,0.0,0.302,0.698,negative,The Turn of the Screw
+"""Oh, miss, most remarkable.",0.5095,0.52,0.214,0.267,positive,The Turn of the Screw
+"If you think well of this one!""",0.3382,0.285,0.0,0.715,positive,The Turn of the Screw
+"--and she stood there with a plate in her hand, beaming at our companion, who looked from one of us to the other with placid heavenly eyes that contained nothing to check us.",0.802,0.194,0.0,0.806,positive,The Turn of the Screw
+"""Yes; if I do--?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""You will be carried away by the little gentleman!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Well, that, I think, is what I came for--to be carried away.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I'm afraid, however,"" I remember feeling the impulse to add, ""I'm rather easily carried away.",0.4404,0.245,0.0,0.755,positive,The Turn of the Screw
+"I was carried away in London!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I can still see Mrs. Grose's broad face as she took this in.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""In Harley Street?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""In Harley Street.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Well, miss, you're not the first--and you won't be the last.""",-0.1531,0.0,0.138,0.862,negative,The Turn of the Screw
+"""Oh, I've no pretension,"" I could laugh, ""to being the only one.",0.34,0.243,0.149,0.608,positive,The Turn of the Screw
+"My other pupil, at any rate, as I understand, comes back tomorrow?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Not tomorrow--Friday, miss.",0.1139,0.419,0.0,0.581,positive,The Turn of the Screw
+"He arrives, as you did, by the coach, under care of the guard, and is to be met by the same carriage.""",0.4939,0.132,0.0,0.868,positive,The Turn of the Screw
+"I forthwith expressed that the proper as well as the pleasant and friendly thing would be therefore that on the arrival of the public conveyance I should be in waiting for him with his little sister; an idea in which Mrs. Grose concurred so heartily that I somehow took her manner as a kind of comforting pledge--never falsified, thank heaven!--that we should on every question be quite at one.",0.8806,0.183,0.034,0.783,positive,The Turn of the Screw
+"Oh, she was glad I was there!",0.5093,0.397,0.0,0.603,positive,The Turn of the Screw
+"What I felt the next day was, I suppose, nothing that could be fairly called a reaction from the cheer of my arrival; it was probably at the most only a slight oppression produced by a fuller measure of the scale, as I walked round them, gazed up at them, took them in, of my new circumstances.",0.5106,0.062,0.0,0.938,positive,The Turn of the Screw
+"They had, as it were, an extent and mass for which I had not been prepared and in the presence of which I found myself, freshly, a little scared as well as a little proud.",0.0952,0.129,0.119,0.752,positive,The Turn of the Screw
+"Lessons, in this agitation, certainly suffered some delay; I reflected that my first duty was, by the gentlest arts I could contrive, to win the child into the sense of knowing me.",0.3071,0.221,0.19,0.589,positive,The Turn of the Screw
+"I spent the day with her out-of-doors; I arranged with her, to her great satisfaction, that it should be she, she only, who might show me the place.",0.7906,0.226,0.0,0.774,positive,The Turn of the Screw
+"She showed it step by step and room by room and secret by secret, with droll, delightful, childish talk about it and with the result, in half an hour, of our becoming immense friends.",0.6908,0.172,0.055,0.773,positive,The Turn of the Screw
+"Young as she was, I was struck, throughout our little tour, with her confidence and courage with the way, in empty chambers and dull corridors, on crooked staircases that made me pause and even on the summit of an old machicolated square tower that made me dizzy, her morning music, her disposition to tell me so many more things than she asked, rang out and led me on.",0.0258,0.086,0.111,0.804,neutral,The Turn of the Screw
+"I have not seen Bly since the day I left it, and I daresay that to my older and more informed eyes it would now appear sufficiently contracted.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"But as my little conductress, with her hair of gold and her frock of blue, danced before me round corners and pattered down passages, I had the view of a castle of romance inhabited by a rosy sprite, such a place as would somehow, for diversion of the young idea, take all color out of storybooks and fairytales.",0.7096,0.085,0.0,0.915,positive,The Turn of the Screw
+Wasn't it just a storybook over which I had fallen adoze and adream?,-0.3612,0.0,0.2,0.8,negative,The Turn of the Screw
+"No; it was a big, ugly, antique, but convenient house, embodying a few features of a building still older, half-replaced and half-utilized, in which I had the fancy of our being almost as lost as a handful of passengers in a great drifting ship.",0.3329,0.123,0.137,0.74,positive,The Turn of the Screw
+"Well, I was, strangely, at the helm!",-0.1007,0.244,0.29,0.466,negative,The Turn of the Screw
+"II This came home to me when, two days later, I drove over with Flora to meet, as Mrs. Grose said, the little gentleman; and all the more for an incident that, presenting itself the second evening, had deeply disconcerted me.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"The first day had been, on the whole, as I have expressed, reassuring; but I was to see it wind up in keen apprehension.",-0.0129,0.181,0.147,0.673,neutral,The Turn of the Screw
+"The postbag, that evening--it came late--contained a letter for me, which, however, in the hand of my employer, I found to be composed but of a few words enclosing another, addressed to himself, with a seal still unbroken.",0.2732,0.06,0.0,0.94,positive,The Turn of the Screw
+"""This, I recognize, is from the headmaster, and the headmaster's an awful bore.",-0.6124,0.0,0.333,0.667,negative,The Turn of the Screw
+"Read him, please; deal with him; but mind you don't report.",0.1655,0.142,0.0,0.858,positive,The Turn of the Screw
+Not a word.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I'm off!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I broke the seal with a great effort--so great a one that I was a long time coming to it; took the unopened missive at last up to my room and only attacked it just before going to bed.,0.5267,0.186,0.132,0.682,positive,The Turn of the Screw
+"I had better have let it wait till morning, for it gave me a second sleepless night.",0.4404,0.172,0.0,0.828,positive,The Turn of the Screw
+"With no counsel to take, the next day, I was full of distress; and it finally got so the better of me that I determined to open myself at least to Mrs. Grose.",-0.0056,0.146,0.147,0.707,neutral,The Turn of the Screw
+"""What does it mean?",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"The child's dismissed his school.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"She gave me a look that I remarked at the moment; then, visibly, with a quick blankness, seemed to try to take it back.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""But aren't they all--?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Sent home--yes.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+But only for the holidays.,0.5267,0.459,0.0,0.541,positive,The Turn of the Screw
+"Miles may never go back at all.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"Consciously, under my attention, she reddened.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""They won't take him?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""They absolutely decline.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"At this she raised her eyes, which she had turned from me; I saw them fill with good tears.",0.25,0.139,0.091,0.769,positive,The Turn of the Screw
+"""What has he done?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I hesitated; then I judged best simply to hand her my letter--which, however, had the effect of making her, without taking it, simply put her hands behind her.",0.7269,0.226,0.07,0.703,positive,The Turn of the Screw
+She shook her head sadly.,-0.4939,0.0,0.583,0.417,negative,The Turn of the Screw
+"""Such things are not for me, miss.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+My counselor couldn't read!,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I winced at my mistake, which I attenuated as I could, and opened my letter again to repeat it to her; then, faltering in the act and folding it up once more, I put it back in my pocket.",-0.34,0.0,0.066,0.934,negative,The Turn of the Screw
+"""Is he really bad ?""",-0.5849,0.0,0.487,0.513,negative,The Turn of the Screw
+The tears were still in her eyes.,-0.2263,0.0,0.241,0.759,negative,The Turn of the Screw
+"""Do the gentlemen say so?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""They go into no particulars.",-0.296,0.0,0.355,0.645,negative,The Turn of the Screw
+They simply express their regret that it should be impossible to keep him.,-0.4215,0.0,0.189,0.811,negative,The Turn of the Screw
+"That can have only one meaning.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"Mrs. Grose listened with dumb emotion; she forbore to ask me what this meaning might be; so that, presently, to put the thing with some coherence and with the mere aid of her presence to my own mind, I went on: ""That he's an injury to the others.""",-0.7269,0.0,0.119,0.881,negative,The Turn of the Screw
+"At this, with one of the quick turns of simple folk, she suddenly flamed up.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Master Miles!",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"him an injury?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"There was such a flood of good faith in it that, though I had not yet seen the child, my very fears made me jump to the absurdity of the idea.",0.3832,0.164,0.089,0.747,positive,The Turn of the Screw
+"I found myself, to meet my friend the better, offering it, on the spot, sarcastically.",0.6124,0.318,0.109,0.573,positive,The Turn of the Screw
+"""To his poor little innocent mates!""",-0.3149,0.222,0.357,0.421,negative,The Turn of the Screw
+"""It's too dreadful,"" cried Mrs. Grose, ""to say such cruel things!",-0.7712,0.0,0.426,0.574,negative,The Turn of the Screw
+"Why, he's scarce ten years old.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Yes, yes; it would be incredible.""",0.4019,0.351,0.0,0.649,positive,The Turn of the Screw
+She was evidently grateful for such a profession.,0.4588,0.333,0.0,0.667,positive,The Turn of the Screw
+"""See him, miss, first.",-0.1531,0.0,0.348,0.652,negative,The Turn of the Screw
+"Then believe it!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I felt forthwith a new impatience to see him; it was the beginning of a curiosity that, for all the next hours, was to deepen almost to pain.",-0.7024,0.0,0.202,0.798,negative,The Turn of the Screw
+"Mrs. Grose was aware, I could judge, of what she had produced in me, and she followed it up with assurance.",0.34,0.112,0.0,0.888,positive,The Turn of the Screw
+"""You might as well believe it of the little lady.",0.2732,0.189,0.0,0.811,positive,The Turn of the Screw
+"Bless her,"" she added the next moment--"" look at her!""",0.4753,0.256,0.0,0.744,positive,The Turn of the Screw
+"I turned and saw that Flora, whom, ten minutes before, I had established in the schoolroom with a sheet of white paper, a pencil, and a copy of nice ""round O's,"" now presented herself to view at the open door.",0.4215,0.076,0.0,0.924,positive,The Turn of the Screw
+"She expressed in her little way an extraordinary detachment from disagreeable duties, looking to me, however, with a great childish light that seemed to offer it as a mere result of the affection she had conceived for my person, which had rendered necessary that she should follow me.",0.5574,0.138,0.09,0.772,positive,The Turn of the Screw
+"I needed nothing more than this to feel the full force of Mrs. Grose's comparison, and, catching my pupil in my arms, covered her with kisses in which there was a sob of atonement.",0.3182,0.093,0.057,0.85,positive,The Turn of the Screw
+"Nonetheless, the rest of the day I watched for further occasion to approach my colleague, especially as, toward evening, I began to fancy she rather sought to avoid me.",-0.296,0.0,0.078,0.922,negative,The Turn of the Screw
+"I overtook her, I remember, on the staircase; we went down together, and at the bottom I detained her, holding her there with a hand on her arm.",0.128,0.115,0.097,0.789,positive,The Turn of the Screw
+"""I take what you said to me at noon as a declaration that you've never known him to be bad.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"She threw back her head; she had clearly, by this time, and very honestly, adopted an attitude.",0.7178,0.285,0.0,0.715,positive,The Turn of the Screw
+"""Oh, never known him--I don't pretend that! """,0.1501,0.209,0.0,0.791,positive,The Turn of the Screw
+I was upset again.,-0.3818,0.0,0.565,0.435,negative,The Turn of the Screw
+"""Then you have known him--?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Yes indeed, miss, thank God!""",0.5983,0.604,0.176,0.22,positive,The Turn of the Screw
+On reflection I accepted this.,0.2732,0.412,0.0,0.588,positive,The Turn of the Screw
+"""You mean that a boy who never is--?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Is no boy for me! """,-0.3595,0.0,0.384,0.616,negative,The Turn of the Screw
+I held her tighter.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""You like them with the spirit to be naughty?""",0.4939,0.375,0.0,0.625,positive,The Turn of the Screw
+"Then, keeping pace with her answer, ""So do I!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I eagerly brought out.,0.3818,0.565,0.0,0.435,positive,The Turn of the Screw
+"""But not to the degree to contaminate--"" ""To contaminate?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+--my big word left her at a loss.,-0.3182,0.0,0.277,0.723,negative,The Turn of the Screw
+I explained it.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""To corrupt.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"She stared, taking my meaning in; but it produced in her an odd laugh.",0.4497,0.247,0.149,0.605,positive,The Turn of the Screw
+"""Are you afraid he'll corrupt you? """,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"She put the question with such a fine bold humor that, with a laugh, a little silly doubtless, to match her own, I gave way for the time to the apprehension of ridicule.",0.5313,0.293,0.182,0.525,positive,The Turn of the Screw
+"But the next day, as the hour for my drive approached, I cropped up in another place.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""What was the lady who was here before?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""The last governess?",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"She was also young and pretty--almost as young and almost as pretty, miss, even as you.""",0.3788,0.16,0.073,0.767,positive,The Turn of the Screw
+"""Ah, then, I hope her youth and her beauty helped her!""",0.7901,0.466,0.0,0.534,positive,The Turn of the Screw
+I recollect throwing off.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""He seems to like us young and pretty!""",0.4199,0.285,0.0,0.715,positive,The Turn of the Screw
+"""Oh, he did ,"" Mrs. Grose assented: ""it was the way he liked everyone!""",0.4753,0.192,0.0,0.808,positive,The Turn of the Screw
+She had no sooner spoken indeed than she caught herself up.,-0.296,0.0,0.18,0.82,negative,The Turn of the Screw
+"""I mean that's his way--the master's.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I was struck.,-0.25,0.0,0.667,0.333,negative,The Turn of the Screw
+"""But of whom did you speak first?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"She looked blank, but she colored.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Why, of him .""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Of the master?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Of who else?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+There was so obviously no one else that the next moment I had lost my impression of her having accidentally said more than she meant; and I merely asked what I wanted to know.,-0.6461,0.053,0.199,0.748,negative,The Turn of the Screw
+"""Did she see anything in the boy--?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""That wasn't right?",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"She never told me.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I had a scruple, but I overcame it.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Was she careful--particular?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+Mrs. Grose appeared to try to be conscientious.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""About some things--yes.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""But not about all?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+Again she considered.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Well, miss--she's gone.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I won't tell tales.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""I quite understand your feeling,"" I hastened to reply; but I thought it, after an instant, not opposed to this concession to pursue: ""Did she die here?""",-0.7469,0.0,0.182,0.818,negative,The Turn of the Screw
+"""No--she went off.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I don't know what there was in this brevity of Mrs. Grose's that struck me as ambiguous.,-0.25,0.0,0.118,0.882,negative,The Turn of the Screw
+"""Went off to die?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"Mrs. Grose looked straight out of the window, but I felt that, hypothetically, I had a right to know what young persons engaged for Bly were expected to do.",0.6124,0.172,0.0,0.828,positive,The Turn of the Screw
+"""She was taken ill, you mean, and went home?""",-0.4215,0.0,0.259,0.741,negative,The Turn of the Screw
+"""She was not taken ill, so far as appeared, in this house.",0.3252,0.175,0.0,0.825,positive,The Turn of the Screw
+"She left it, at the end of the year, to go home, as she said, for a short holiday, to which the time she had put in had certainly given her a right.",0.6249,0.15,0.0,0.85,positive,The Turn of the Screw
+We had then a young woman--a nursemaid who had stayed on and who was a good girl and clever; and she took the children altogether for the interval.,0.7096,0.197,0.0,0.803,positive,The Turn of the Screw
+"But our young lady never came back, and at the very moment I was expecting her I heard from the master that she was dead.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I turned this over.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""But of what?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""He never told me!",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"But please, miss,"" said Mrs. Grose, ""I must get to my work.""",0.4497,0.211,0.0,0.789,positive,The Turn of the Screw
+"III Her thus turning her back on me was fortunately not, for my just preoccupations, a snub that could check the growth of our mutual esteem.",-0.0516,0.092,0.099,0.81,negative,The Turn of the Screw
+"We met, after I had brought home little Miles, more intimately than ever on the ground of my stupefaction, my general emotion: so monstrous was I then ready to pronounce it that such a child as had now been revealed to me should be under an interdict.",0.3612,0.055,0.0,0.945,positive,The Turn of the Screw
+"I was a little late on the scene, and I felt, as he stood wistfully looking out for me before the door of the inn at which the coach had put him down, that I had seen him, on the instant, without and within, in the great glow of freshness, the same positive fragrance of purity, in which I had, from the first moment, seen his little sister.",0.8271,0.112,0.0,0.888,positive,The Turn of the Screw
+"He was incredibly beautiful, and Mrs. Grose had put her finger on it: everything but a sort of passion of tenderness for him was swept away by his presence.",0.8707,0.283,0.0,0.717,positive,The Turn of the Screw
+What I then and there took him to my heart for was something divine that I have never found to the same degree in any child--his indescribable little air of knowing nothing in the world but love.,0.8442,0.197,0.0,0.803,positive,The Turn of the Screw
+"It would have been impossible to carry a bad name with a greater sweetness of innocence, and by the time I had got back to Bly with him I remained merely bewildered--so far, that is, as I was not outraged--by the sense of the horrible letter locked up in my room, in a drawer.",0.0772,0.142,0.12,0.738,positive,The Turn of the Screw
+As soon as I could compass a private word with Mrs. Grose I declared to her that it was grotesque.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+She promptly understood me.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""You mean the cruel charge--?""",-0.5859,0.0,0.487,0.513,negative,The Turn of the Screw
+"""It doesn't live an instant.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"My dear woman, look at him!""",0.4389,0.366,0.0,0.634,positive,The Turn of the Screw
+She smiled at my pretention to have discovered his charm.,0.7351,0.437,0.0,0.563,positive,The Turn of the Screw
+"""I assure you, miss, I do nothing else!",0.2714,0.29,0.172,0.538,positive,The Turn of the Screw
+"What will you say, then?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+she immediately added.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""In answer to the letter?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I had made up my mind.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Nothing.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""And to his uncle?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I was incisive.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""Nothing.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""And to the boy himself?""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I was wonderful.,0.5719,0.787,0.0,0.213,positive,The Turn of the Screw
+"""Nothing.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+She gave with her apron a great wipe to her mouth.,0.6249,0.313,0.0,0.687,positive,The Turn of the Screw
+"""Then I'll stand by you.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"We'll see it out.""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"""We'll see it out!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I ardently echoed, giving her my hand to make it a vow.",0.6808,0.412,0.0,0.588,positive,The Turn of the Screw
+"She held me there a moment, then whisked up her apron again with her detached hand.",0.4019,0.181,0.085,0.734,positive,The Turn of the Screw
+"""Would you mind, miss, if I used the freedom--"" ""To kiss me?",0.296,0.209,0.119,0.672,positive,The Turn of the Screw
+"No!""",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"I took the good creature in my arms and, after we had embraced like sisters, felt still more fortified and indignant.",0.3262,0.212,0.12,0.668,positive,The Turn of the Screw
+"This, at all events, was for the time: a time so full that, as I recall the way it went, it reminds me of all the art I now need to make it a little distinct.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+What I look back at with amazement is the situation I accepted.,0.6808,0.412,0.0,0.588,positive,The Turn of the Screw
+"I had undertaken, with my companion, to see it out, and I was under a charm, apparently, that could smooth away the extent and the far and difficult connections of such an effort.",0.0516,0.081,0.075,0.843,positive,The Turn of the Screw
+I was lifted aloft on a great wave of infatuation and pity.,0.5423,0.383,0.148,0.47,positive,The Turn of the Screw
+"I found it simple, in my ignorance, my confusion, and perhaps my conceit, to assume that I could deal with a boy whose education for the world was all on the point of beginning.",-0.5719,0.0,0.139,0.861,negative,The Turn of the Screw
+I am unable even to remember at this day what proposal I framed for the end of his holidays and the resumption of his studies.,0.3818,0.106,0.0,0.894,positive,The Turn of the Screw
+"Lessons with me, indeed, that charming summer, we all had a theory that he was to have; but I now feel that, for weeks, the lessons must have been rather my own.",0.34,0.076,0.0,0.924,positive,The Turn of the Screw
+"I learned something--at first, certainly--that had not been one of the teachings of my small, smothered life; learned to be amused, and even amusing, and not to think for the morrow.",0.5423,0.157,0.055,0.787,positive,The Turn of the Screw
+"It was the first time, in a manner, that I had known space and air and freedom, all the music of summer and all the mystery of nature.",0.6369,0.144,0.0,0.856,positive,The Turn of the Screw
+And then there was consideration--and consideration was sweet.,0.4588,0.3,0.0,0.7,positive,The Turn of the Screw
+"Oh, it was a trap--not designed, but deep--to my imagination, to my delicacy, perhaps to my vanity; to whatever, in me, was most excitable.",0.3269,0.136,0.087,0.777,positive,The Turn of the Screw
+The best way to picture it all is to say that I was off my guard.,0.6369,0.231,0.0,0.769,positive,The Turn of the Screw
+They gave me so little trouble--they were of a gentleness so extraordinary.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+I used to speculate--but even this with a dim disconnectedness--as to how the rough future (for all futures are rough!),0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+would handle them and might bruise them.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"They had the bloom of health and happiness; and yet, as if I had been in charge of a pair of little grandees, of princes of the blood, for whom everything, to be right, would have to be enclosed and protected, the only form that, in my fancy, the afteryears could take for them was that of a romantic, a really royal extension of the garden and the park.",0.8781,0.154,0.0,0.846,positive,The Turn of the Screw
+"It may be, of course, above all, that what suddenly broke into this gives the previous time a charm of stillness--that hush in which something gathers or crouches.",-0.0258,0.089,0.092,0.82,neutral,The Turn of the Screw
+The change was actually like the spring of a beast.,0.3612,0.238,0.0,0.762,positive,The Turn of the Screw
+"In the first weeks the days were long; they often, at their finest, gave me what I used to call my own hour, the hour when, for my pupils, teatime and bedtime having come and gone, I had, before my final retirement, a small interval alone.",-0.25,0.0,0.045,0.955,negative,The Turn of the Screw
+"Much as I liked my companions, this hour was the thing in the day I liked most; and I liked it best of all when, as the light faded--or rather, I should say, the day lingered and the last calls of the last birds sounded, in a flushed sky, from the old trees--I could take a turn into the grounds and enjoy, almost with a sense of property that amused and flattered me, the beauty and dignity of the place.",0.9792,0.302,0.0,0.698,positive,The Turn of the Screw
+"It was a pleasure at these moments to feel myself tranquil and justified; doubtless, perhaps, also to reflect that by my discretion, my quiet good sense and general high propriety, I was giving pleasure--if he ever thought of it!--to the person to whose pressure I had responded.",0.8977,0.278,0.041,0.682,positive,The Turn of the Screw
+"What I was doing was what he had earnestly hoped and directly asked of me, and that I could , after all, do it proved even a greater joy than I had expected.",0.836,0.263,0.0,0.737,positive,The Turn of the Screw
+"I daresay I fancied myself, in short, a remarkable young woman and took comfort in the faith that this would more publicly appear.",0.836,0.344,0.0,0.656,positive,The Turn of the Screw
+"Well, I needed to be remarkable to offer a front to the remarkable things that presently gave their first sign.",0.8519,0.383,0.0,0.617,positive,The Turn of the Screw
+"It was plump, one afternoon, in the middle of my very hour: the children were tucked away, and I had come out for my stroll.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"One of the thoughts that, as I don't in the least shrink now from noting, used to be with me in these wanderings was that it would be as charming as a charming story suddenly to meet someone.",0.8225,0.183,0.0,0.817,positive,The Turn of the Screw
+Someone would appear there at the turn of a path and would stand before me and smile and approve.,0.3612,0.128,0.0,0.872,positive,The Turn of the Screw
+"I didn't ask more than that--I only asked that he should know; and the only way to be sure he knew would be to see it, and the kind light of it, in his handsome face.",0.836,0.218,0.0,0.782,positive,The Turn of the Screw
+"That was exactly present to me--by which I mean the face was--when, on the first of these occasions, at the end of a long June day, I stopped short on emerging from one of the plantations and coming into view of the house.",-0.2263,0.0,0.046,0.954,negative,The Turn of the Screw
+"What arrested me on the spot--and with a shock much greater than any vision had allowed for--was the sense that my imagination had, in a flash, turned real.",-0.296,0.14,0.177,0.683,negative,The Turn of the Screw
+"He did stand there!--but high up, beyond the lawn and at the very top of the tower to which, on that first morning, little Flora had conducted me.",0.3367,0.081,0.0,0.919,positive,The Turn of the Screw
+"This tower was one of a pair--square, incongruous, crenelated structures--that were distinguished, for some reason, though I could see little difference, as the new and the old.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"They flanked opposite ends of the house and were probably architectural absurdities, redeemed in a measure indeed by not being wholly disengaged nor of a height too pretentious, dating, in their gingerbread antiquity, from a romantic revival that was already a respectable past.",0.7845,0.18,0.0,0.82,positive,The Turn of the Screw
+"I admired them, had fancies about them, for we could all profit in a degree, especially when they loomed through the dusk, by the grandeur of their actual battlements; yet it was not at such an elevation that the figure I had so often invoked seemed most in place.",0.7806,0.177,0.069,0.754,positive,The Turn of the Screw
+"It produced in me, this figure, in the clear twilight, I remember, two distinct gasps of emotion, which were, sharply, the shock of my first and that of my second surprise.",0.2732,0.137,0.076,0.787,positive,The Turn of the Screw
+My second was a violent perception of the mistake of my first: the man who met my eyes was not the person I had precipitately supposed.,-0.743,0.0,0.223,0.777,negative,The Turn of the Screw
+"There came to me thus a bewilderment of vision of which, after these years, there is no living view that I can hope to give.",0.4019,0.181,0.081,0.738,positive,The Turn of the Screw
+An unknown man in a lonely place is a permitted object of fear to a young woman privately bred; and the figure that faced me was--a few more seconds assured me--as little anyone else I knew as it was the image that had been in my mind.,-0.4445,0.057,0.118,0.825,negative,The Turn of the Screw
+I had not seen it in Harley Street--I had not seen it anywhere.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"The place, moreover, in the strangest way in the world, had, on the instant, and by the very fact of its appearance, become a solitude.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"To me at least, making my statement here with a deliberation with which I have never made it, the whole feeling of the moment returns.",0.128,0.064,0.0,0.936,positive,The Turn of the Screw
+"It was as if, while I took in--what I did take in--all the rest of the scene had been stricken with death.",-0.802,0.0,0.286,0.714,negative,The Turn of the Screw
+"I can hear again, as I write, the intense hush in which the sounds of evening dropped.",0.0772,0.085,0.0,0.915,positive,The Turn of the Screw
+"The rooks stopped cawing in the golden sky, and the friendly hour lost, for the minute, all its voice.",0.0,0.137,0.179,0.684,neutral,The Turn of the Screw
+"But there was no other change in nature, unless indeed it were a change that I saw with a stranger sharpness.",-0.4215,0.0,0.141,0.859,negative,The Turn of the Screw
+"The gold was still in the sky, the clearness in the air, and the man who looked at me over the battlements was as definite as a picture in a frame.",0.1779,0.069,0.046,0.885,positive,The Turn of the Screw
+"That's how I thought, with extraordinary quickness, of each person that he might have been and that he was not.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"We were confronted across our distance quite long enough for me to ask myself with intensity who then he was and to feel, as an effect of my inability to say, a wonder that in a few instants more became intense.",-0.4445,0.038,0.107,0.856,negative,The Turn of the Screw
+"The great question, or one of these, is, afterward, I know, with regard to certain matters, the question of how long they have lasted.",0.743,0.267,0.0,0.733,positive,The Turn of the Screw
+"Well, this matter of mine, think what you will of it, lasted while I caught at a dozen possibilities, none of which made a difference for the better, that I could see, in there having been in the house--and for how long, above all?--a person of whom I was in ignorance.",0.3818,0.121,0.049,0.83,positive,The Turn of the Screw
+It lasted while I just bridled a little with the sense that my office demanded that there should be no such ignorance and no such person.,-0.7783,0.0,0.306,0.694,negative,The Turn of the Screw
+"It lasted while this visitant, at all events--and there was a touch of the strange freedom, as I remember, in the sign of familiarity of his wearing no hat--seemed to fix me, from his position, with just the question, just the scrutiny through the fading light, that his own presence provoked.",0.0258,0.076,0.11,0.814,neutral,The Turn of the Screw
+"We were too far apart to call to each other, but there was a moment at which, at shorter range, some challenge between us, breaking the hush, would have been the right result of our straight mutual stare.",0.4215,0.098,0.0,0.902,positive,The Turn of the Screw
+"He was in one of the angles, the one away from the house, very erect, as it struck me, and with both hands on the ledge.",-0.25,0.0,0.074,0.926,negative,The Turn of the Screw
+"So I saw him as I see the letters I form on this page; then, exactly, after a minute, as if to add to the spectacle, he slowly changed his place--passed, looking at me hard all the while, to the opposite corner of the platform.",-0.1027,0.0,0.034,0.966,negative,The Turn of the Screw
+"Yes, I had the sharpest sense that during this transit he never took his eyes from me, and I can see at this moment the way his hand, as he went, passed from one of the crenelations to the next.",0.7096,0.141,0.0,0.859,positive,The Turn of the Screw
+"He stopped at the other corner, but less long, and even as he turned away still markedly fixed me.",-0.1154,0.0,0.075,0.925,negative,The Turn of the Screw
+He turned away; that was all I knew.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"IV It was not that I didn't wait, on this occasion, for more, for I was rooted as deeply as I was shaken.",-0.144,0.0,0.076,0.924,negative,The Turn of the Screw
+"Was there a ""secret"" at Bly--a mystery of Udolpho or an insane, an unmentionable relative kept in unsuspected confinement?",-0.4019,0.0,0.137,0.863,negative,The Turn of the Screw
+"I can't say how long I turned it over, or how long, in a confusion of curiosity and dread, I remained where I had had my collision; I only recall that when I re-entered the house darkness had quite closed in.",-0.8271,0.0,0.244,0.756,negative,The Turn of the Screw
+"Agitation, in the interval, certainly had held me and driven me, for I must, in circling about the place, have walked three miles; but I was to be, later on, so much more overwhelmed that this mere dawn of alarm was a comparatively human chill.",-0.1938,0.083,0.099,0.818,negative,The Turn of the Screw
+"The most singular part of it, in fact--singular as the rest had been--was the part I became, in the hall, aware of in meeting Mrs. Grose.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"This picture comes back to me in the general train--the impression, as I received it on my return, of the wide white panelled space, bright in the lamplight and with its portraits and red carpet, and of the good surprised look of my friend, which immediately told me she had missed me.",0.8625,0.213,0.037,0.75,positive,The Turn of the Screw
+"It came to me straightway, under her contact, that, with plain heartiness, mere relieved anxiety at my appearance, she knew nothing whatever that could bear upon the incident I had there ready for her.",0.5267,0.139,0.046,0.815,positive,The Turn of the Screw
+"I had not suspected in advance that her comfortable face would pull me up, and I somehow measured the importance of what I had seen by my thus finding myself hesitate to mention it.",0.656,0.204,0.057,0.738,positive,The Turn of the Screw
+"Scarce anything in the whole history seems to me so odd as this fact that my real beginning of fear was one, as I may say, with the instinct of sparing my companion.",-0.7344,0.0,0.171,0.829,negative,The Turn of the Screw
+"On the spot, accordingly, in the pleasant hall and with her eyes on me, I, for a reason that I couldn't then have phrased, achieved an inward resolution--offered a vague pretext for my lateness and, with the plea of the beauty of the night and of the heavy dew and wet feet, went as soon as possible to my room.",0.7717,0.114,0.022,0.864,positive,The Turn of the Screw
+"Here it was another affair; here, for many days after, it was a queer affair enough.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"There were hours, from day to day--or at least there were moments, snatched even from clear duties--when I had to shut myself up to think.",0.3818,0.102,0.0,0.898,positive,The Turn of the Screw
+"It was not so much yet that I was more nervous than I could bear to be as that I was remarkably afraid of becoming so; for the truth I had now to turn over was, simply and clearly, the truth that I could arrive at no account whatever of the visitor with whom I had been so inexplicably and yet, as it seemed to me, so intimately concerned.",0.4997,0.111,0.065,0.824,positive,The Turn of the Screw
+It took little time to see that I could sound without forms of inquiry and without exciting remark any domestic complications.,-0.3875,0.0,0.122,0.878,negative,The Turn of the Screw
+"The shock I had suffered must have sharpened all my senses; I felt sure, at the end of three days and as the result of mere closer attention, that I had not been practiced upon by the servants nor made the object of any ""game.""",-0.5423,0.049,0.123,0.828,negative,The Turn of the Screw
+"Of whatever it was that I knew, nothing was known around me.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+There was but one sane inference: someone had taken a liberty rather gross.,0.1154,0.245,0.221,0.533,positive,The Turn of the Screw
+"That was what, repeatedly, I dipped into my room and locked the door to say to myself.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"We had been, collectively, subject to an intrusion; some unscrupulous traveler, curious in old houses, had made his way in unobserved, enjoyed the prospect from the best point of view, and then stolen out as he came.",0.8316,0.254,0.068,0.678,positive,The Turn of the Screw
+"If he had given me such a bold hard stare, that was but a part of his indiscretion.",0.1531,0.106,0.071,0.824,positive,The Turn of the Screw
+"The good thing, after all, was that we should surely see no more of him.",0.5574,0.29,0.11,0.6,positive,The Turn of the Screw
+"This was not so good a thing, I admit, as not to leave me to judge that what, essentially, made nothing else much signify was simply my charming work.",0.4558,0.212,0.092,0.696,positive,The Turn of the Screw
+"My charming work was just my life with Miles and Flora, and through nothing could I so like it as through feeling that I could throw myself into it in trouble.",0.7042,0.236,0.075,0.69,positive,The Turn of the Screw
+"The attraction of my small charges was a constant joy, leading me to wonder afresh at the vanity of my original fears, the distaste I had begun by entertaining for the probable gray prose of my office.",0.7351,0.256,0.145,0.598,positive,The Turn of the Screw
+"There was to be no gray prose, it appeared, and no long grind; so how could work not be charming that presented itself as daily beauty?",-0.3964,0.114,0.225,0.661,negative,The Turn of the Screw
+It was all the romance of the nursery and the poetry of the schoolroom.,0.5574,0.217,0.0,0.783,positive,The Turn of the Screw
+"I don't mean by this, of course, that we studied only fiction and verse; I mean I can express no otherwise the sort of interest my companions inspired.",0.5729,0.196,0.073,0.731,positive,The Turn of the Screw
+How can I describe that except by saying that instead of growing used to them--and it's a marvel for a governess: I call the sisterhood to witness!--I made constant fresh discoveries.,0.7263,0.228,0.0,0.772,positive,The Turn of the Screw
+"There was one direction, assuredly, in which these discoveries stopped: deep obscurity continued to cover the region of the boy's conduct at school.",0.1779,0.102,0.075,0.824,positive,The Turn of the Screw
+"It had been promptly given me, I have noted, to face that mystery without a pang.",0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+Perhaps even it would be nearer the truth to say that--without a word--he himself had cleared it up.,0.4019,0.198,0.0,0.802,positive,The Turn of the Screw
+He had made the whole charge absurd.,0.0,0.0,0.0,1.0,neutral,The Turn of the Screw
+"My conclusion bloomed there with the real rose flush of his innocence: he was only too fine and fair for the little horrid, unclean school-world, and he had paid a price for it.",0.3597,0.177,0.085,0.739,positive,The Turn of the Screw
+"I reflected acutely that the sense of such differences, such superiorities of quality, always, on the part of the majority--which could include even stupid, sordid headmasters--turn infallibly to the vindictive.",-0.3818,0.056,0.106,0.839,negative,The Turn of the Screw
+"Both the children had a gentleness (it was their only fault, and it never made Miles a muff) that kept them--how shall I express it?--almost impersonal and certainly quite unpunishable.",-0.3818,0.076,0.159,0.764,negative,The Turn of the Screw
+"They were like the cherubs of the anecdote, who had--morally, at any rate--nothing to whack!",0.4199,0.166,0.0,0.834,positive,The Turn of the Screw
+I,0.0,0.0,0.0,0.0,neutral,The Turn of the Screw

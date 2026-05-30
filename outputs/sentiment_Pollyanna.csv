@@ -1,0 +1,738 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Pollyanna This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Pollyanna
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Pollyanna
+"Title : Pollyanna Author : Eleanor H. Porter Release date : September 1, 1998 [eBook #1450] Most recently updated: October 29, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/1450 Credits : Produced by Charles Keller (for Tina), and David Widger *** START OF THE PROJECT GUTENBERG EBOOK POLLYANNA *** POLLYANNA By Eleanor H. Porter Author of ""Miss Billy,"" ""Miss Billy's Decision,"" ""Cross Currents,"" ""The Turn of the Tides,"" etc.",0.0772,0.037,0.047,0.916,positive,Pollyanna
+TO My Cousin Belle CONTENTS POLLYANNA CHAPTER I.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+MISS POLLY CHAPTER II.,-0.1531,0.0,0.348,0.652,negative,Pollyanna
+OLD TOM AND NANCY CHAPTER III.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+THE COMING OF POLLYANNA CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+THE LITTLE ATTIC ROOM CHAPTER V. THE GAME CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+A QUESTION OF DUTY CHAPTER VII.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+POLLYANNA AND PUNISHMENTS CHAPTER VIII.,-0.4215,0.0,0.412,0.588,negative,Pollyanna
+POLLYANNA PAYS A VISIT CHAPTER IX.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+WHICH TELLS OF THE MAN CHAPTER X.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+A SURPRISE FOR MRS.,0.2732,0.512,0.0,0.488,positive,Pollyanna
+SNOW CHAPTER XI.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+INTRODUCING JIMMY CHAPTER XII.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+BEFORE THE LADIES' AID CHAPTER XIII.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+IN PENDLETON WOODS CHAPTER XIV.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+JUST A MATTER OF JELLY CHAPTER XV.,0.0258,0.18,0.0,0.82,neutral,Pollyanna
+DR. CHILTON CHAPTER XVI.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+A RED ROSE AND A LACE SHAWL CHAPTER XVII.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""JUST LIKE A BOOK"" CHAPTER XVIII.",0.3612,0.385,0.0,0.615,positive,Pollyanna
+PRISMS CHAPTER XIX.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+WHICH IS SOMEWHAT SURPRISING CHAPTER XX.,0.204,0.265,0.0,0.735,positive,Pollyanna
+WHICH IS MORE SURPRISING CHAPTER XXI.,0.3384,0.324,0.0,0.676,positive,Pollyanna
+A QUESTION ANSWERED CHAPTER XXII.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+SERMONS AND WOODBOXES CHAPTER XXIII.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+AN ACCIDENT CHAPTER XXIV.,-0.4767,0.0,0.508,0.492,negative,Pollyanna
+JOHN PENDLETON CHAPTER XXV.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+A WAITING GAME CHAPTER XXVI.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+A DOOR AJAR CHAPTER XXVII.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+TWO VISITS CHAPTER XXVIII.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+THE GAME AND ITS PLAYERS CHAPTER XXIX.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+THROUGH AN OPEN WINDOW CHAPTER XXX.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+JIMMY TAKES THE HELM CHAPTER XXXI.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+A NEW UNCLE CHAPTER XXXII.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+WHICH IS A LETTER FROM POLLYANNA POLLYANNA CHAPTER I.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+MISS POLLY Miss Polly Harrington entered her kitchen a little hurriedly this June morning.,-0.4466,0.0,0.263,0.737,negative,Pollyanna
+Miss Polly did not usually make hurried movements; she specially prided herself on her repose of manner.,-0.1531,0.0,0.091,0.909,negative,Pollyanna
+But to-day she was hurrying--actually hurrying.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Nancy, washing dishes at the sink, looked up in surprise.",0.2732,0.189,0.0,0.811,positive,Pollyanna
+"Nancy had been working in Miss Polly's kitchen only two months, but already she knew that her mistress did not usually hurry.",-0.0772,0.0,0.058,0.942,negative,Pollyanna
+"""Nancy!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, ma'am.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Nancy answered cheerfully, but she still continued wiping the pitcher in her hand.",0.7469,0.366,0.0,0.634,positive,Pollyanna
+"""Nancy,""--Miss Polly's voice was very stern now--""when I'm talking to you, I wish you to stop your work and listen to what I have to say.""",0.128,0.1,0.082,0.818,positive,Pollyanna
+Nancy flushed miserably.,-0.4767,0.0,0.608,0.392,negative,Pollyanna
+"She set the pitcher down at once, with the cloth still about it, thereby nearly tipping it over--which did not add to her composure.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, ma'am; I will, ma'am,"" she stammered, righting the pitcher, and turning hastily.",-0.2263,0.0,0.147,0.853,negative,Pollyanna
+"""I was only keepin' on with my work 'cause you specially told me this mornin' ter hurry with my dishes, ye know.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Her mistress frowned.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""That will do, Nancy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+I did not ask for explanations.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I asked for your attention.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, ma'am.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Nancy stifled a sigh.,-0.3182,0.244,0.533,0.222,negative,Pollyanna
+She was wondering if ever in any way she could please this woman.,0.3182,0.161,0.0,0.839,positive,Pollyanna
+"Nancy had never ""worked out"" before; but a sick mother suddenly widowed and left with three younger children besides Nancy herself, had forced the girl into doing something toward their support, and she had been so pleased when she found a place in the kitchen of the great house on the hill--Nancy had come from ""The Corners,"" six miles away, and she knew Miss Polly Harrington only as the mistress of the old Harrington homestead, and one of the wealthiest residents of the town.",0.7279,0.174,0.135,0.691,positive,Pollyanna
+That was two months before.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"She knew Miss Polly now as a stern, severe-faced woman who frowned if a knife clattered to the floor, or if a door banged--but who never thought to smile even when knives and doors were still.",-0.4039,0.0,0.107,0.893,negative,Pollyanna
+"""When you've finished your morning work, Nancy,"" Miss Polly was saying now, ""you may clear the little room at the head of the stairs in the attic, and make up the cot bed.",0.25,0.074,0.045,0.881,positive,Pollyanna
+"Sweep the room and clean it, of course, after you clear out the trunks and boxes.""",0.6486,0.275,0.0,0.725,positive,Pollyanna
+"""Yes, ma'am.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"And where shall I put the things, please, that I take out?""",0.3182,0.204,0.0,0.796,positive,Pollyanna
+"""In the front attic.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Miss Polly hesitated, then went on: ""I suppose I may as well tell you now, Nancy.",-0.2023,0.117,0.217,0.667,negative,Pollyanna
+"My niece, Miss Pollyanna Whittier, is coming to live with me.",-0.1531,0.0,0.138,0.862,negative,Pollyanna
+"She is eleven years old, and will sleep in that room.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""A little girl--coming here, Miss Harrington?",-0.0865,0.0,0.211,0.789,negative,Pollyanna
+"Oh, won't that be nice!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"cried Nancy, thinking of the sunshine her own little sisters made in the home at ""The Corners.""",0.1531,0.154,0.125,0.721,positive,Pollyanna
+"""Nice?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Well, that isn't exactly the word I should use,"" rejoined Miss Polly, stiffly.",0.128,0.153,0.117,0.73,positive,Pollyanna
+"""However, I intend to make the best of it, of course.",0.6369,0.318,0.0,0.682,positive,Pollyanna
+"I am a good woman, I hope; and I know my duty.""",0.7003,0.492,0.0,0.508,positive,Pollyanna
+Nancy colored hotly.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Of course, ma'am; it was only that I thought a little girl here might--might brighten things up for you,"" she faltered.",0.4404,0.139,0.0,0.861,positive,Pollyanna
+"""Thank you,"" rejoined the lady, dryly.",0.3612,0.333,0.0,0.667,positive,Pollyanna
+"""I can't say, however, that I see any immediate need for that.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""But, of course, you--you'd want her, your sister's child,"" ventured Nancy, vaguely feeling that somehow she must prepare a welcome for this lonely little stranger.",0.3182,0.205,0.088,0.707,positive,Pollyanna
+Miss Polly lifted her chin haughtily.,-0.1531,0.0,0.242,0.758,negative,Pollyanna
+"""Well, really, Nancy, just because I happened to have a sister who was silly enough to marry and bring unnecessary children into a world that was already quite full enough, I can't see how I should particularly WANT to have the care of them myself.",0.6834,0.152,0.0,0.848,positive,Pollyanna
+"However, as I said before, I hope I know my duty.",0.4404,0.293,0.0,0.707,positive,Pollyanna
+"See that you clean the corners, Nancy,"" she finished sharply, as she left the room.",0.4019,0.162,0.0,0.838,positive,Pollyanna
+"""Yes, ma'am,"" sighed Nancy, picking up the half-dried pitcher--now so cold it must be rinsed again.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"In her own room, Miss Polly took out once more the letter which she had received two days before from the far-away Western town, and which had been so unpleasant a surprise to her.",-0.4961,0.063,0.147,0.79,negative,Pollyanna
+"The letter was addressed to Miss Polly Harrington, Beldingsville, Vermont; and it read as follows: ""Dear Madam:--I regret to inform you that the Rev.",-0.2023,0.093,0.157,0.75,negative,Pollyanna
+"John Whittier died two weeks ago, leaving one child, a girl eleven years old.",-0.5574,0.0,0.231,0.769,negative,Pollyanna
+"He left practically nothing else save a few books; for, as you doubtless know, he was the pastor of this small mission church, and had a very meagre salary.",-0.1847,0.064,0.089,0.847,negative,Pollyanna
+"""I believe he was your deceased sister's husband, but he gave me to understand the families were not on the best of terms.",-0.6759,0.0,0.171,0.829,negative,Pollyanna
+"He thought, however, that for your sister's sake you might wish to take the child and bring her up among her own people in the East.",0.4019,0.097,0.0,0.903,positive,Pollyanna
+Hence I am writing to you.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""The little girl will be all ready to start by the time you get this letter; and if you can take her, we would appreciate it very much if you would write that she might come at once, as there is a man and his wife here who are going East very soon, and they would take her with them to Boston, and put her on the Beldingsville train.",0.6369,0.073,0.0,0.927,positive,Pollyanna
+Of course you would be notified what day and train to expect Pollyanna on.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Hoping to hear favorably from you soon, I remain, ""Respectfully yours, ""Jeremiah O.",0.7964,0.474,0.0,0.526,positive,Pollyanna
+"White.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+With a frown Miss Polly folded the letter and tucked it into its envelope.,-0.1531,0.0,0.118,0.882,negative,Pollyanna
+"She had answered it the day before, and she had said she would take the child, of course.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+She HOPED she knew her duty well enough for that!--disagreeable as the task would be.,0.6932,0.306,0.0,0.694,positive,Pollyanna
+"As she sat now, with the letter in her hands, her thoughts went back to her sister, Jennie, who had been this child's mother, and to the time when Jennie, as a girl of twenty, had insisted upon marrying the young minister, in spite of her family's remonstrances.",-0.5267,0.0,0.069,0.931,negative,Pollyanna
+There had been a man of wealth who had wanted her--and the family had much preferred him to the minister; but Jennie had not.,0.2732,0.087,0.0,0.913,positive,Pollyanna
+"The man of wealth had more years, as well as more money, to his credit, while the minister had only a young head full of youth's ideals and enthusiasm, and a heart full of love.",0.9438,0.387,0.0,0.613,positive,Pollyanna
+"Jennie had preferred these--quite naturally, perhaps; so she had married the minister, and had gone south with him as a home missionary's wife.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+The break had come then.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Miss Polly remembered it well, though she had been but a girl of fifteen, the youngest, at the time.",0.0644,0.082,0.069,0.849,positive,Pollyanna
+The family had had little more to do with the missionary's wife.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"To be sure, Jennie herself had written, for a time, and had named her last baby ""Pollyanna"" for her two sisters, Polly and Anna--the other babies had all died.",-0.3182,0.072,0.113,0.815,negative,Pollyanna
+"This had been the last time that Jennie had written; and in a few years there had come the news of her death, told in a short, but heart-broken little note from the minister himself, dated at a little town in the West.",-0.3506,0.0,0.059,0.941,negative,Pollyanna
+"Meanwhile, time had not stood still for the occupants of the great house on the hill.",0.6249,0.215,0.0,0.785,positive,Pollyanna
+"Miss Polly, looking out at the far-reaching valley below, thought of the changes those twenty-five years had brought to her.",-0.1531,0.0,0.078,0.922,negative,Pollyanna
+"She was forty now, and quite alone in the world.",-0.3167,0.0,0.203,0.797,negative,Pollyanna
+"Father, mother, sisters--all were dead.",-0.6486,0.0,0.518,0.482,negative,Pollyanna
+"For years, now, she had been sole mistress of the house and of the thousands left her by her father.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"There were people who had openly pitied her lonely life, and who had urged her to have some friend or companion to live with her; but she had not welcomed either their sympathy or their advice.",0.1017,0.126,0.141,0.733,positive,Pollyanna
+"She was not lonely, she said.",0.2755,0.297,0.0,0.703,positive,Pollyanna
+She liked being by herself.,0.4215,0.412,0.0,0.588,positive,Pollyanna
+She preferred quiet.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+But now-- Miss Polly rose with frowning face and closely-shut lips.,-0.6124,0.0,0.357,0.643,negative,Pollyanna
+"She was glad, of course, that she was a good woman, and that she not only knew her duty, but had sufficient strength of character to perform it.",0.8047,0.256,0.0,0.744,positive,Pollyanna
+But--POLLYANNA!--what a ridiculous name!,-0.4738,0.0,0.607,0.393,negative,Pollyanna
+CHAPTER II.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"OLD TOM AND NANCY In the little attic room Nancy swept and scrubbed vigorously, paying particular attention to the corners.",0.128,0.073,0.0,0.927,positive,Pollyanna
+"There were times, indeed, when the vigor she put into her work was more of a relief to her feelings than it was an ardor to efface dirt--Nancy, in spite of her frightened submission to her mistress, was no saint.",-0.4627,0.114,0.177,0.709,negative,Pollyanna
+"""I--just--wish--I could--dig--out the corners--of--her--soul!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"she muttered jerkily, punctuating her words with murderous jabs of her pointed cleaning-stick.",-0.6369,0.0,0.259,0.741,negative,Pollyanna
+"""There's plenty of 'em needs cleanin' all right, all right!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"The idea of stickin' that blessed child 'way off up here in this hot little room--with no fire in the winter, too, and all this big house ter pick and choose from!",0.281,0.105,0.117,0.779,positive,Pollyanna
+"Unnecessary children, indeed!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Humph!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"snapped Nancy, wringing her rag so hard her fingers ached from the strain; ""I guess it ain't CHILDREN what is MOST unnecessary just now, just now!""",-0.607,0.0,0.206,0.794,negative,Pollyanna
+"For some time she worked in silence; then, her task finished, she looked about the bare little room in plain disgust.",-0.5994,0.0,0.163,0.837,negative,Pollyanna
+"""Well, it's done--my part, anyhow,"" she sighed.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""There ain't no dirt here--and there's mighty little else.",0.4449,0.359,0.0,0.641,positive,Pollyanna
+"Poor little soul!--a pretty place this is ter put a homesick, lonesome child into!""",-0.6075,0.148,0.398,0.454,negative,Pollyanna
+"she finished, going out and closing the door with a bang, ""Oh!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"she ejaculated, biting her lip.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Then, doggedly: ""Well, I don't care.",-0.3875,0.0,0.396,0.604,negative,Pollyanna
+"I hope she did hear the bang,--I do, I do!""",0.4926,0.313,0.0,0.687,positive,Pollyanna
+"In the garden that afternoon, Nancy found a few minutes in which to interview Old Tom, who had pulled the weeds and shovelled the paths about the place for uncounted years.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Mr. Tom,"" began Nancy, throwing a quick glance over her shoulder to make sure she was unobserved; ""did you know a little girl was comin' here ter live with Miss Polly?""",0.1779,0.074,0.052,0.874,positive,Pollyanna
+"""A--what?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"demanded the old man, straightening his bent back with difficulty.",-0.5106,0.0,0.35,0.65,negative,Pollyanna
+"""A little girl--to live with Miss Polly.""",-0.1531,0.0,0.211,0.789,negative,Pollyanna
+"""Go on with yer jokin',"" scoffed unbelieving Tom.",-0.2023,0.0,0.205,0.795,negative,Pollyanna
+"""Why don't ye tell me the sun is a-goin' ter set in the east ter-morrer?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""But it's true.",0.5719,0.649,0.0,0.351,positive,Pollyanna
+"She told me so herself,"" maintained Nancy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""It's her niece; and she's eleven years old.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+The man's jaw fell.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Sho!--I wonder, now,"" he muttered; then a tender light came into his faded eyes.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""It ain't--but it must be--Miss Jennie's little gal!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+There wasn't none of the rest of 'em married.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Why, Nancy, it must be Miss Jennie's little gal.",-0.1531,0.0,0.167,0.833,negative,Pollyanna
+Glory be ter praise!,0.8122,0.787,0.0,0.213,positive,Pollyanna
+"ter think of my old eyes a-seein' this!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Who was Miss Jennie?""",-0.1531,0.0,0.348,0.652,negative,Pollyanna
+"""She was an angel straight out of Heaven,"" breathed the man, fervently; ""but the old master and missus knew her as their oldest daughter.",0.1154,0.059,0.0,0.941,positive,Pollyanna
+She was twenty when she married and went away from here long years ago.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Her babies all died, I heard, except the last one; and that must be the one what's a-comin'.""",-0.5574,0.0,0.184,0.816,negative,Pollyanna
+"""She's eleven years old.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, she might be,"" nodded the old man.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""And she's goin' ter sleep in the attic--more shame ter HER!""",-0.5255,0.0,0.253,0.747,negative,Pollyanna
+"scolded Nancy, with another glance over her shoulder toward the house behind her.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Old Tom frowned.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+The next moment a curious smile curved his lips.,0.5859,0.444,0.0,0.556,positive,Pollyanna
+"""I'm a-wonderin' what Miss Polly will do with a child in the house,"" he said.",-0.1531,0.0,0.11,0.89,negative,Pollyanna
+"""Humph!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Well, I'm a-wonderin' what a child will do with Miss Polly in the house!""",0.2003,0.16,0.107,0.734,positive,Pollyanna
+snapped Nancy.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+The old man laughed.,0.4588,0.5,0.0,0.5,positive,Pollyanna
+"""I'm afraid you ain't fond of Miss Polly,"" he grinned.",0.0356,0.274,0.186,0.541,neutral,Pollyanna
+"""As if ever anybody could be fond of her!""",0.4926,0.285,0.0,0.715,positive,Pollyanna
+scorned Nancy.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Old Tom smiled oddly.,0.5423,0.538,0.0,0.462,positive,Pollyanna
+He stooped and began to work again.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I guess maybe you didn't know about Miss Polly's love affair,"" he said slowly.",0.6852,0.32,0.0,0.68,positive,Pollyanna
+"""Love affair--HER!",0.6696,0.818,0.0,0.182,positive,Pollyanna
+"No!--and I guess nobody else didn't, neither.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Oh, yes they did,"" nodded the old man.",0.4019,0.278,0.0,0.722,positive,Pollyanna
+"""And the feller's livin' ter-day--right in this town, too.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Who is he?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I ain't a-tellin' that.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"It ain't fit that I should.""",-0.2755,0.0,0.345,0.655,negative,Pollyanna
+The old man drew himself erect.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"In his dim blue eyes, as he faced the house, there was the loyal servant's honest pride in the family he has served and loved for long years.",0.9136,0.346,0.0,0.654,positive,Pollyanna
+"""But it don't seem possible--her and a lover,"" still maintained Nancy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Old Tom shook his head.,-0.1027,0.0,0.259,0.741,negative,Pollyanna
+"""You didn't know Miss Polly as I did,"" he argued.",-0.2631,0.132,0.228,0.64,negative,Pollyanna
+"""She used ter be real handsome--and she would be now, if she'd let herself be.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Handsome!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Miss Polly!""",-0.2244,0.0,0.654,0.346,negative,Pollyanna
+"""Yes.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"If she'd just let that tight hair of hern all out loose and careless-like, as it used ter be, and wear the sort of bunnits with posies in 'em, and the kind o' dresses all lace and white things--you'd see she'd be handsome!",0.68,0.14,0.047,0.813,positive,Pollyanna
+"Miss Polly ain't old, Nancy.""",-0.1531,0.0,0.286,0.714,negative,Pollyanna
+"""Ain't she, though?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Well, then she's got an awfully good imitation of it--she has, she has!""",0.6793,0.337,0.0,0.663,positive,Pollyanna
+sniffed Nancy.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, I know.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"It begun then--at the time of the trouble with her lover,"" nodded Old Tom; ""and it seems as if she'd been feedin' on wormwood an' thistles ever since--she's that bitter an' prickly ter deal with.""",-0.7506,0.0,0.188,0.812,negative,Pollyanna
+"""I should say she was,"" declared Nancy, indignantly.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""There's no pleasin' her, nohow, no matter how you try!",-0.5562,0.086,0.367,0.547,negative,Pollyanna
+I wouldn't stay if 'twa'n't for the wages and the folks at home what's needin' 'em.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"But some day--some day I shall jest b'ile over; and when I do, of course it'll be good-by Nancy for me.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"It will, it will.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Old Tom shook his head.,-0.1027,0.0,0.259,0.741,negative,Pollyanna
+"""I know.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+I've felt it.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"It's nart'ral--but 'tain't best, child; 'tain't best.",-0.7741,0.0,0.574,0.426,negative,Pollyanna
+"Take my word for it, 'tain't best.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+And again he bent his old head to the work before him.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Nancy!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+called a sharp voice.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Y-yes, ma'am,"" stammered Nancy; and hurried toward the house.",-0.2263,0.0,0.192,0.808,negative,Pollyanna
+CHAPTER III.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"THE COMING OF POLLYANNA In due time came the telegram announcing that Pollyanna would arrive in Beldingsville the next day, the twenty-fifth of June, at four o'clock.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Miss Polly read the telegram, frowned, then climbed the stairs to the attic room.",-0.1531,0.0,0.11,0.89,negative,Pollyanna
+She still frowned as she looked about her.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"The room contained a small bed, neatly made, two straight-backed chairs, a washstand, a bureau--without any mirror--and a small table.",0.34,0.138,0.0,0.862,positive,Pollyanna
+"There were no drapery curtains at the dormer windows, no pictures on the wall.",-0.5267,0.0,0.268,0.732,negative,Pollyanna
+"All day the sun had been pouring down upon the roof, and the little room was like an oven for heat.",0.3041,0.101,0.0,0.899,positive,Pollyanna
+"As there were no screens, the windows had not been raised.",-0.296,0.0,0.18,0.82,negative,Pollyanna
+"A big fly was buzzing angrily at one of them now, up and down, up and down, trying to get out.",-0.4215,0.0,0.128,0.872,negative,Pollyanna
+"Miss Polly killed the fly, swept it through the window (raising the sash an inch for the purpose), straightened a chair, frowned again, and left the room.",-0.7269,0.0,0.203,0.797,negative,Pollyanna
+"""Nancy,"" she said a few minutes later, at the kitchen door, ""I found a fly up-stairs in Miss Pollyanna's room.",-0.1531,0.0,0.086,0.914,negative,Pollyanna
+The window must have been raised at some time.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I have ordered screens, but until they come I shall expect you to see that the windows remain closed.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+My niece will arrive to-morrow at four o'clock.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+I desire you to meet her at the station.,0.4019,0.278,0.0,0.722,positive,Pollyanna
+Timothy will take the open buggy and drive you over.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"The telegram says 'light hair, red-checked gingham dress, and straw hat.'",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"That is all I know, but I think it is sufficient for your purpose.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, ma'am; but--you--"" Miss Polly evidently read the pause aright, for she frowned and said crisply: ""No, I shall not go.",-0.1531,0.0,0.078,0.922,negative,Pollyanna
+"It is not necessary that I should, I think.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"That is all.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"And she turned away--Miss Polly's arrangements for the comfort of her niece, Pollyanna, were complete.",0.3612,0.152,0.0,0.848,positive,Pollyanna
+"In the kitchen, Nancy sent her flatiron with a vicious dig across the dish-towel she was ironing.",-0.3612,0.0,0.143,0.857,negative,Pollyanna
+"""'Light hair, red-checked gingham dress, and straw hat'--all she knows, indeed!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Well, I'd be ashamed ter own it up, that I would, I would--and her my onliest niece what was a-comin' from 'way across the continent!""",-0.3164,0.079,0.128,0.793,negative,Pollyanna
+Promptly at twenty minutes to four the next afternoon Timothy and Nancy drove off in the open buggy to meet the expected guest.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Timothy was Old Tom's son.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"It was sometimes said in the town that if Old Tom was Miss Polly's right-hand man, Timothy was her left.",-0.1531,0.0,0.078,0.922,negative,Pollyanna
+"Timothy was a good-natured youth, and a good-looking one, as well.",0.2732,0.208,0.0,0.792,positive,Pollyanna
+"Short as had been Nancy's stay at the house, the two were already good friends.",0.7184,0.316,0.0,0.684,positive,Pollyanna
+"To-day, however, Nancy was too full of her mission to be her usual talkative self; and almost in silence she took the drive to the station and alighted to wait for the train.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Over and over in her mind she was saying it ""light hair, red-checked dress, straw hat.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Over and over again she was wondering just what sort of child this Pollyanna was, anyway.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I hope for her sake she's quiet and sensible, and don't drop knives nor bang doors,"" she sighed to Timothy, who had sauntered up to her.",0.5739,0.164,0.0,0.836,positive,Pollyanna
+"""Well, if she ain't, nobody knows what'll become of the rest of us,"" grinned Timothy.",0.2732,0.13,0.0,0.87,positive,Pollyanna
+"""Imagine Miss Polly and a NOISY kid!",-0.5147,0.0,0.52,0.48,negative,Pollyanna
+Gorry!,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"there goes the whistle now!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Oh, Timothy, I--I think it was mean ter send me,"" chattered the suddenly frightened Nancy, as she turned and hurried to a point where she could best watch the passengers alight at the little station.",0.3182,0.107,0.074,0.818,positive,Pollyanna
+It was not long before Nancy saw her--the slender little girl in the red-checked gingham with two fat braids of flaxen hair hanging down her back.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Beneath the straw hat, an eager, freckled little face turned to the right and to the left, plainly searching for some one.",0.3612,0.106,0.0,0.894,positive,Pollyanna
+"Nancy knew the child at once, but not for some time could she control her shaking knees sufficiently to go to her.",-0.2617,0.0,0.089,0.911,negative,Pollyanna
+The little girl was standing quite by herself when Nancy finally did approach her.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Are you Miss--Pollyanna?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+she faltered.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+The next moment she found herself half smothered in the clasp of two gingham-clad arms.,-0.2263,0.0,0.119,0.881,negative,Pollyanna
+"""Oh, I'm so glad, GLAD, GLAD to see you,"" cried an eager voice in her ear.",0.9151,0.514,0.093,0.393,positive,Pollyanna
+"""Of course I'm Pollyanna, and I'm so glad you came to meet me!",0.632,0.257,0.0,0.743,positive,Pollyanna
+"I hoped you would.""",0.3818,0.565,0.0,0.435,positive,Pollyanna
+"""You--you did?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"stammered Nancy, vaguely wondering how Pollyanna could possibly have known her--and wanted her.",-0.2263,0.0,0.137,0.863,negative,Pollyanna
+"""You--you did?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"she repeated, trying to straighten her hat.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Oh, yes; and I've been wondering all the way here what you looked like,"" cried the little girl, dancing on her toes, and sweeping the embarrassed Nancy from head to foot, with her eyes.",-0.34,0.07,0.131,0.799,negative,Pollyanna
+"""And now I know, and I'm glad you look just like you do look.""",0.6705,0.333,0.0,0.667,positive,Pollyanna
+Nancy was relieved just then to have Timothy come up.,0.3818,0.224,0.0,0.776,positive,Pollyanna
+Pollyanna's words had been most confusing.,-0.2944,0.0,0.305,0.695,negative,Pollyanna
+"""This is Timothy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Maybe you have a trunk,"" she stammered.",-0.2263,0.0,0.275,0.725,negative,Pollyanna
+"""Yes, I have,"" nodded Pollyanna, importantly.",0.3182,0.365,0.0,0.635,positive,Pollyanna
+"""I've got a brand-new one.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"The Ladies' Aid bought it for me--and wasn't it lovely of them, when they wanted the carpet so?",-0.4717,0.0,0.153,0.847,negative,Pollyanna
+"Of course I don't know how much red carpet a trunk could buy, but it ought to buy some, anyhow--much as half an aisle, don't you think?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I've got a little thing here in my bag that Mr. Gray said was a check, and that I must give it to you before I could get my trunk.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Mr. Gray is Mrs. Gray's husband.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+They're cousins of Deacon Carr's wife.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I came East with them, and they're lovely!",0.6239,0.405,0.0,0.595,positive,Pollyanna
+"And--there, here 'tis,"" she finished, producing the check after much fumbling in the bag she carried.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Nancy drew a long breath.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Instinctively she felt that some one had to draw one--after that speech.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Then she stole a glance at Timothy.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Timothy's eyes were studiously turned away.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"The three were off at last, with Pollyanna's trunk in behind, and Pollyanna herself snugly ensconced between Nancy and Timothy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"During the whole process of getting started, the little girl had kept up an uninterrupted stream of comments and questions, until the somewhat dazed Nancy found herself quite out of breath trying to keep up with her.",-0.1045,0.0,0.038,0.962,negative,Pollyanna
+"""There!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Isn't this lovely?,-0.4717,0.0,0.606,0.394,negative,Pollyanna
+Is it far?,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I hope 'tis--I love to ride,"" sighed Pollyanna, as the wheels began to turn.",0.7964,0.392,0.0,0.608,positive,Pollyanna
+"""Of course, if 'tisn't far, I sha'n't mind, though, 'cause I'll be glad to get there all the sooner, you know.",0.4588,0.136,0.0,0.864,positive,Pollyanna
+What a pretty street!,0.5411,0.636,0.0,0.364,positive,Pollyanna
+"I knew 'twas going to be pretty; father told me--"" She stopped with a little choking breath.",-0.1045,0.162,0.233,0.606,negative,Pollyanna
+"Nancy, looking at her apprehensively, saw that her small chin was quivering, and that her eyes were full of tears.",-0.296,0.0,0.151,0.849,negative,Pollyanna
+"In a moment, however, she hurried on, with a brave lifting of her head.",0.5267,0.236,0.0,0.764,positive,Pollyanna
+"""Father told me all about it.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+He remembered.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+And--and I ought to have explained before.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Mrs. Gray told me to, at once--about this red gingham dress, you know, and why I'm not in black.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+She said you'd think 'twas queer.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"But there weren't any black things in the last missionary barrel, only a lady's velvet basque which Deacon Carr's wife said wasn't suitable for me at all; besides, it had white spots--worn, you know--on both elbows, and some other places.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Part of the Ladies' Aid wanted to buy me a black dress and hat, but the other part thought the money ought to go toward the red carpet they're trying to get--for the church, you know.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Mrs. White said maybe it was just as well, anyway, for she didn't like children in black--that is, I mean, she liked the children, of course, but not the black part.""",0.2252,0.108,0.049,0.844,positive,Pollyanna
+"Pollyanna paused for breath, and Nancy managed to stammer: ""Well, I'm sure it--it'll be all right.""",0.1027,0.126,0.104,0.769,positive,Pollyanna
+"""I'm glad you feel that way.",0.4588,0.375,0.0,0.625,positive,Pollyanna
+"I do, too,"" nodded Pollyanna, again with that choking little breath.",-0.4588,0.0,0.25,0.75,negative,Pollyanna
+"""Of course, 'twould have been a good deal harder to be glad in black--"" ""Glad!""",0.7345,0.34,0.0,0.66,positive,Pollyanna
+"gasped Nancy, surprised into an interruption.",-0.1531,0.226,0.298,0.476,negative,Pollyanna
+"""Yes--that father's gone to Heaven to be with mother and the rest of us, you know.",0.5106,0.18,0.0,0.82,positive,Pollyanna
+He said I must be glad.,0.4588,0.429,0.0,0.571,positive,Pollyanna
+"But it's been pretty hard to--to do it, even in red gingham, because I--I wanted him, so; and I couldn't help feeling I OUGHT to have him, specially as mother and the rest have God and all the angels, while I didn't have anybody but the Ladies' Aid.",0.3638,0.13,0.121,0.749,positive,Pollyanna
+"But now I'm sure it'll be easier because I've got you, Aunt Polly.",0.7684,0.377,0.0,0.623,positive,Pollyanna
+"I'm so glad I've got you!""",0.5551,0.418,0.0,0.582,positive,Pollyanna
+Nancy's aching sympathy for the poor little forlornness beside her turned suddenly into shocked terror.,-0.8591,0.102,0.49,0.408,negative,Pollyanna
+"""Oh, but--but you've made an awful mistake, d-dear,"" she faltered.",-0.6597,0.0,0.403,0.597,negative,Pollyanna
+"""I'm only Nancy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I ain't your Aunt Polly, at all!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""You--you AREN'T?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"stammered the little girl, in plain dismay.",-0.5719,0.0,0.485,0.515,negative,Pollyanna
+"""No.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+I'm only Nancy.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+I never thought of your takin' me for her.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"We--we ain't a bit alike we ain't, we ain't!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Timothy chuckled softly; but Nancy was too disturbed to answer the merry flash from his eyes.,0.4497,0.279,0.149,0.571,positive,Pollyanna
+"""But who ARE you?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+questioned Pollyanna.,-0.1027,0.0,0.583,0.417,negative,Pollyanna
+"""You don't look a bit like a Ladies' Aider!""",-0.3404,0.0,0.286,0.714,negative,Pollyanna
+Timothy laughed outright this time.,0.4588,0.429,0.0,0.571,positive,Pollyanna
+"""I'm Nancy, the hired girl.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+I do all the work except the washin' an' hard ironin'.,-0.1027,0.0,0.135,0.865,negative,Pollyanna
+"Mis' Durgin does that.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""But there IS an Aunt Polly?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"demanded the child, anxiously.",-0.4215,0.0,0.655,0.345,negative,Pollyanna
+"""You bet your life there is,"" cut in Timothy.",-0.2732,0.0,0.208,0.792,negative,Pollyanna
+Pollyanna relaxed visibly.,0.4939,0.615,0.0,0.385,positive,Pollyanna
+"""Oh, that's all right, then.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"There was a moment's silence, then she went on brightly: ""And do you know?",0.3612,0.172,0.0,0.828,positive,Pollyanna
+"I'm glad, after all, that she didn't come to meet me; because now I've got HER still coming, and I've got you besides.""",0.4588,0.12,0.0,0.88,positive,Pollyanna
+Nancy flushed.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Timothy turned to her with a quizzical smile.,0.3612,0.294,0.0,0.706,positive,Pollyanna
+"""I call that a pretty slick compliment,"" he said.",0.4939,0.314,0.0,0.686,positive,Pollyanna
+"""Why don't you thank the little lady?""",-0.2755,0.0,0.26,0.74,negative,Pollyanna
+"""I--I was thinkin' about--Miss Polly,"" faltered Nancy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Pollyanna sighed contentedly.,0.4404,0.592,0.0,0.408,positive,Pollyanna
+"""I was, too.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+I'm so interested in her.,0.4576,0.428,0.0,0.572,positive,Pollyanna
+"You know she's all the aunt I've got, and I didn't know I had her for ever so long.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Then father told me.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"He said she lived in a lovely great big house 'way on top of a hill.""",0.8658,0.469,0.0,0.531,positive,Pollyanna
+"""She does.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"You can see it now,"" said Nancy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""It's that big white one with the green blinds, 'way ahead.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Oh, how pretty!--and what a lot of trees and grass all around it!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I never saw such a lot of green grass, seems so, all at once.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Is my Aunt Polly rich, Nancy?""",0.5574,0.419,0.0,0.581,positive,Pollyanna
+"""Yes, Miss.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I'm so glad.",0.5095,0.622,0.0,0.378,positive,Pollyanna
+It must be perfectly lovely to have lots of money.,0.8402,0.5,0.0,0.5,positive,Pollyanna
+"I never knew any one that did have, only the Whites--they're some rich.",0.5574,0.247,0.0,0.753,positive,Pollyanna
+They have carpets in every room and ice-cream Sundays.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Does Aunt Polly have ice-cream Sundays?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Nancy shook her head.,-0.1027,0.0,0.318,0.682,negative,Pollyanna
+Her lips twitched.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+She threw a merry look into Timothy's eyes.,0.5423,0.368,0.0,0.632,positive,Pollyanna
+"""No, Miss.",-0.1531,0.0,0.615,0.385,negative,Pollyanna
+"Your aunt don't like ice-cream, I guess; leastways I never saw it on her table.""",-0.2755,0.0,0.15,0.85,negative,Pollyanna
+Pollyanna's face fell.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Oh, doesn't she?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+I'm so sorry!,-0.2228,0.0,0.485,0.515,negative,Pollyanna
+I don't see how she can help liking ice-cream.,0.6597,0.474,0.0,0.526,positive,Pollyanna
+"But--anyhow, I can be kinder glad about that, 'cause the ice-cream you don't eat can't make your stomach ache like Mrs. White's did--that is, I ate hers, you know, lots of it.",0.7269,0.233,0.07,0.697,positive,Pollyanna
+"Maybe Aunt Polly has got the carpets, though.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, she's got the carpets.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""In every room?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Well, in almost every room,"" answered Nancy, frowning suddenly at the thought of that bare little attic room where there was no carpet.",-0.5574,0.0,0.18,0.82,negative,Pollyanna
+"""Oh, I'm so glad,"" exulted Pollyanna.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I love carpets.",0.6369,0.677,0.0,0.323,positive,Pollyanna
+"We didn't have any, only two little rugs that came in a missionary barrel, and one of those had ink spots on it.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Mrs. White had pictures, too, perfectly beautiful ones of roses and little girls kneeling and a kitty and some lambs and a lion--not together, you know--the lambs and the lion.",0.8442,0.238,0.0,0.762,positive,Pollyanna
+"Oh, of course the Bible says they will sometime, but they haven't yet--that is, I mean Mrs. White's haven't.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Don't you just love pictures?""",-0.5216,0.0,0.457,0.543,negative,Pollyanna
+"""I--I don't know,"" answered Nancy in a half-stifled voice.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I do.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+We didn't have any pictures.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"They don't come in the barrels much, you know.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"There did two come once, though.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+But one was so good father sold it to get money to buy me some shoes with; and the other was so bad it fell to pieces just as soon as we hung it up.,-0.2789,0.115,0.141,0.744,negative,Pollyanna
+"Glass--it broke, you know.",-0.4215,0.0,0.483,0.517,negative,Pollyanna
+And I cried.,-0.3818,0.0,0.722,0.278,negative,Pollyanna
+"But I'm glad now we didn't have any of those nice things, 'cause I shall like Aunt Polly's all the better--not being used to 'em, you see.",0.899,0.323,0.0,0.677,positive,Pollyanna
+Just as it is when the PRETTY hair-ribbons come in the barrels after a lot of faded-out brown ones.,0.6037,0.188,0.0,0.812,positive,Pollyanna
+My!,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"but isn't this a perfectly beautiful house?""",-0.8924,0.0,0.707,0.293,negative,Pollyanna
+"she broke off fervently, as they turned into the wide driveway.",-0.4215,0.0,0.219,0.781,negative,Pollyanna
+"It was when Timothy was unloading the trunk that Nancy found an opportunity to mutter low in his ear: ""Don't you never say nothin' ter me again about leavin', Timothy Durgin.",0.1779,0.083,0.062,0.855,positive,Pollyanna
+"You couldn't HIRE me ter leave!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Leave!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I should say not,"" grinned the youth.",0.2732,0.296,0.0,0.704,positive,Pollyanna
+"""You couldn't drag me away.",0.1695,0.294,0.0,0.706,positive,Pollyanna
+"It'll be more fun here now, with that kid 'round, than movin'-picture shows, every day!""",0.5974,0.217,0.0,0.783,positive,Pollyanna
+"""Fun!--fun!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"repeated Nancy, indignantly, ""I guess it'll be somethin' more than fun for that blessed child--when them two tries ter live tergether; and I guess she'll be a-needin' some rock ter fly to for refuge.",0.8166,0.194,0.0,0.806,positive,Pollyanna
+"Well, I'm a-goin' ter be that rock, Timothy; I am, I am!""",0.3382,0.21,0.0,0.79,positive,Pollyanna
+"she vowed, as she turned and led Pollyanna up the broad steps.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+CHAPTER IV.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+THE LITTLE ATTIC ROOM Miss Polly Harrington did not rise to meet her niece.,-0.2491,0.0,0.133,0.867,negative,Pollyanna
+"She looked up from her book, it is true, as Nancy and the little girl appeared in the sitting-room doorway, and she held out a hand with ""duty"" written large on every coldly extended finger.",0.7184,0.158,0.0,0.842,positive,Pollyanna
+"""How do you do, Pollyanna?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I--"" She had no chance to say more.",-0.0516,0.196,0.216,0.588,negative,Pollyanna
+"Pollyanna, had fairly flown across the room and flung herself into her aunt's scandalized, unyielding lap.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Oh, Aunt Polly, Aunt Polly, I don't know how to be glad enough that you let me come to live with you,"" she was sobbing.",0.1027,0.109,0.094,0.797,positive,Pollyanna
+"""You don't know how perfectly lovely it is to have you and Nancy and all this after you've had just the Ladies' Aid!""",0.1838,0.144,0.118,0.738,positive,Pollyanna
+"""Very likely--though I've not had the pleasure of the Ladies' Aid's acquaintance,"" rejoined Miss Polly, stiffly, trying to unclasp the small, clinging fingers, and turning frowning eyes on Nancy in the doorway.",-0.7182,0.0,0.194,0.806,negative,Pollyanna
+"""Nancy, that will do.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+You may go.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Pollyanna, be good enough, please, to stand erect in a proper manner.",0.6369,0.366,0.0,0.634,positive,Pollyanna
+"I don't know yet what you look like.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Pollyanna drew back at once, laughing a little hysterically.",0.4939,0.314,0.0,0.686,positive,Pollyanna
+"""No, I suppose you don't; but you see I'm not very much to look at, anyway, on account of the freckles.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Oh, and I ought to explain about the red gingham and the black velvet basque with white spots on the elbows.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I told Nancy how father said--"" ""Yes; well, never mind now what your father said,"" interrupted Miss Polly, crisply.",-0.1779,0.1,0.182,0.718,negative,Pollyanna
+"""You had a trunk, I presume?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Oh, yes, indeed, Aunt Polly.",0.4019,0.403,0.0,0.597,positive,Pollyanna
+I've got a beautiful trunk that the Ladies' Aid gave me.,0.5994,0.302,0.0,0.698,positive,Pollyanna
+"I haven't got so very much in it--of my own, I mean.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"The barrels haven't had many clothes for little girls in them lately; but there were all father's books, and Mrs. White said she thought I ought to have those.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"You see, father--"" ""Pollyanna,"" interrupted her aunt again, sharply, ""there is one thing that might just as well be understood right away at once; and that is, I do not care to have you keep talking of your father to me.""",-0.4075,0.048,0.11,0.842,negative,Pollyanna
+The little girl drew in her breath tremulously.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Why, Aunt Polly, you--you mean--"" She hesitated, and her aunt filled the pause.",-0.3182,0.0,0.161,0.839,negative,Pollyanna
+"""We will go up-stairs to your room.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Your trunk is already there, I presume.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+I told Timothy to take it up--if you had one.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"You may follow me, Pollyanna.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Without speaking, Pollyanna turned and followed her aunt from the room.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Her eyes were brimming with tears, but her chin was bravely high.",0.6124,0.28,0.091,0.629,positive,Pollyanna
+"""After all, I--I reckon I'm glad she doesn't want me to talk about father,"" Pollyanna was thinking.",0.4172,0.156,0.064,0.78,positive,Pollyanna
+"""It'll be easier, maybe--if I don't talk about him.",0.4215,0.286,0.0,0.714,positive,Pollyanna
+"Probably, anyhow, that is why she told me not to talk about him.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"And Pollyanna, convinced anew of her aunt's ""kindness,"" blinked off the tears and looked eagerly about her.",0.5267,0.25,0.09,0.66,positive,Pollyanna
+She was on the stairway now.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Just ahead, her aunt's black silk skirt rustled luxuriously.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Behind her an open door allowed a glimpse of soft-tinted rugs and satin-covered chairs.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Beneath her feet a marvellous carpet was like green moss to the tread.,0.3612,0.185,0.0,0.815,positive,Pollyanna
+On every side the gilt of picture frames or the glint of sunlight through the filmy mesh of lace curtains flashed in her eyes.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Oh, Aunt Polly, Aunt Polly,"" breathed the little girl, rapturously; ""what a perfectly lovely, lovely house!",0.92,0.502,0.0,0.498,positive,Pollyanna
+"How awfully glad you must be you're so rich!""",0.5551,0.309,0.0,0.691,positive,Pollyanna
+"""PollyANNA!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"ejaculated her aunt, turning sharply about as she reached the head of the stairs.",0.1027,0.097,0.0,0.903,positive,Pollyanna
+"""I'm surprised at you--making a speech like that to me!""",0.5707,0.401,0.0,0.599,positive,Pollyanna
+"""Why, Aunt Polly, AREN'T you?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"queried Pollyanna, in frank wonder.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Certainly not, Pollyanna.",0.34,0.545,0.0,0.455,positive,Pollyanna
+"I hope I could not so far forget myself as to be sinfully proud of any gift the Lord has seen fit to bestow upon me,"" declared the lady; ""certainly not, of RICHES!""",0.9321,0.39,0.0,0.61,positive,Pollyanna
+Miss Polly turned and walked down the hall toward the attic stairway door.,-0.1531,0.0,0.118,0.882,negative,Pollyanna
+"She was glad, now, that she had put the child in the attic room.",0.4588,0.188,0.0,0.812,positive,Pollyanna
+"Her idea at first had been to get her niece as far away as possible from herself, and at the same time place her where her childish heedlessness would not destroy valuable furnishings.",-0.2273,0.076,0.126,0.798,negative,Pollyanna
+"Now--with this evident strain of vanity showing thus early--it was all the more fortunate that the room planned for her was plain and sensible, thought Miss Polly.",0.1263,0.103,0.152,0.745,positive,Pollyanna
+Eagerly Pollyanna's small feet pattered behind her aunt.,0.3818,0.271,0.0,0.729,positive,Pollyanna
+"Still more eagerly her big blue eyes tried to look in all directions at once, that no thing of beauty or interest in this wonderful house might be passed unseen.",0.9041,0.33,0.054,0.616,positive,Pollyanna
+"Most eagerly of all her mind turned to the wondrously exciting problem about to be solved: behind which of all these fascinating doors was waiting now her room--the dear, beautiful room full of curtains, rugs, and pictures, that was to be her very own?",0.9381,0.314,0.047,0.639,positive,Pollyanna
+"Then, abruptly, her aunt opened a door and ascended another stairway.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+There was little to be seen here.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+A bare wall rose on either side.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"At the top of the stairs, wide reaches of shadowy space led to far corners where the roof came almost down to the floor, and where were stacked innumerable trunks and boxes.",0.25,0.091,0.0,0.909,positive,Pollyanna
+"It was hot and stifling, too.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Unconsciously Pollyanna lifted her head higher--it seemed so hard to breathe.,-0.2183,0.0,0.157,0.843,negative,Pollyanna
+Then she saw that her aunt had thrown open a door at the right.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""There, Pollyanna, here is your room, and your trunk is here, I see.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Have you your key?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Pollyanna nodded dumbly.,-0.3182,0.0,0.535,0.465,negative,Pollyanna
+Her eyes were a little wide and frightened.,-0.3892,0.0,0.305,0.695,negative,Pollyanna
+Her aunt frowned.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""When I ask a question, Pollyanna, I prefer that you should answer aloud not merely with your head.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, Aunt Polly.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Thank you; that is better.",0.6597,0.643,0.0,0.357,positive,Pollyanna
+"I believe you have everything that you need here,"" she added, glancing at the well-filled towel rack and water pitcher.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I will send Nancy up to help you unpack.",0.4019,0.252,0.0,0.748,positive,Pollyanna
+"Supper is at six o'clock,"" she finished, as she left the room and swept down-stairs.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"For a moment after she had gone Pollyanna stood quite still, looking after her.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Then she turned her wide eyes to the bare wall, the bare floor, the bare windows.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+She turned them last to the little trunk that had stood not so long before in her own little room in the far-away Western home.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"The next moment she stumbled blindly toward it and fell on her knees at its side, covering her face with her hands.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Nancy found her there when she came up a few minutes later.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""There, there, you poor lamb,"" she crooned, dropping to the floor and drawing the little girl into her arms.",-0.4767,0.0,0.147,0.853,negative,Pollyanna
+"""I was just a-fearin!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I'd find you like this, like this.""",0.6124,0.5,0.0,0.5,positive,Pollyanna
+Pollyanna shook her head.,-0.1027,0.0,0.318,0.682,negative,Pollyanna
+"""But I'm bad and wicked, Nancy--awful wicked,"" she sobbed.",-0.9349,0.0,0.688,0.312,negative,Pollyanna
+"""I just can't make myself understand that God and the angels needed my father more than I did.""",0.2732,0.116,0.0,0.884,positive,Pollyanna
+"""No more they did, neither,"" declared Nancy, stoutly.",-0.296,0.0,0.239,0.761,negative,Pollyanna
+"""Oh-h!--NANCY!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+The burning horror in Pollyanna's eyes dried the tears.,-0.6808,0.0,0.444,0.556,negative,Pollyanna
+Nancy gave a shamefaced smile and rubbed her own eyes vigorously.,-0.0772,0.28,0.231,0.49,negative,Pollyanna
+"""There, there, child, I didn't mean it, of course,"" she cried briskly.",-0.3818,0.0,0.206,0.794,negative,Pollyanna
+"""Come, let's have your key and we'll get inside this trunk and take out your dresses in no time, no time.""",-0.5267,0.0,0.188,0.812,negative,Pollyanna
+Somewhat tearfully Pollyanna produced the key.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""There aren't very many there, anyway,"" she faltered.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Then they're all the sooner unpacked,"" declared Nancy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Pollyanna gave a sudden radiant smile.,0.6808,0.651,0.0,0.349,positive,Pollyanna
+"""That's so!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I can be glad of that, can't I?""",0.4588,0.333,0.0,0.667,positive,Pollyanna
+she cried.,-0.3818,0.0,0.722,0.278,negative,Pollyanna
+Nancy stared.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Why, of--course,"" she answered a little uncertainly.",-0.2748,0.0,0.296,0.704,negative,Pollyanna
+"Nancy's capable hands made short work of unpacking the books, the patched undergarments, and the few pitifully unattractive dresses.",-0.3612,0.11,0.215,0.675,negative,Pollyanna
+"Pollyanna, smiling bravely now, flew about, hanging the dresses in the closet, stacking the books on the table, and putting away the undergarments in the bureau drawers.",0.743,0.201,0.0,0.799,positive,Pollyanna
+"""I'm sure it--it's going to be a very nice room.",0.659,0.435,0.0,0.565,positive,Pollyanna
+"Don't you think so?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"she stammered, after a while.",-0.2263,0.0,0.388,0.612,negative,Pollyanna
+There was no answer.,-0.296,0.0,0.423,0.577,negative,Pollyanna
+"Nancy was very busy, apparently, with her head in the trunk.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Pollyanna, standing at the bureau, gazed a little wistfully at the bare wall above.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""And I can be glad there isn't any looking-glass here, too, 'cause where there ISN'T any glass I can't see my freckles.""",0.4588,0.136,0.0,0.864,positive,Pollyanna
+"Nancy made a sudden queer little sound with her mouth--but when Pollyanna turned, her head was in the trunk again.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"At one of the windows, a few minutes later, Pollyanna gave a glad cry and clapped her hands joyously.",0.5859,0.288,0.129,0.583,positive,Pollyanna
+"""Oh, Nancy, I hadn't seen this before,"" she breathed.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Look--'way off there, with those trees and the houses and that lovely church spire, and the river shining just like silver.",0.743,0.249,0.0,0.751,positive,Pollyanna
+"Why, Nancy, there doesn't anybody need any pictures with that to look at.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Oh, I'm so glad now she let me have this room!""",0.632,0.294,0.0,0.706,positive,Pollyanna
+"To Pollyanna's surprise and dismay, Nancy burst into tears.",-0.3818,0.164,0.367,0.469,negative,Pollyanna
+Pollyanna hurriedly crossed to her side.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Why, Nancy, Nancy--what is it?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"she cried; then, fearfully: ""This wasn't--YOUR room, was it?""",-0.7003,0.0,0.453,0.547,negative,Pollyanna
+"""My room!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"stormed Nancy, hotly, choking back the tears.",-0.5994,0.0,0.495,0.505,negative,Pollyanna
+"""If you ain't a little angel straight from Heaven, and if some folks don't eat dirt before--Oh, land!",0.6331,0.267,0.069,0.664,positive,Pollyanna
+"there's her bell!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"After which amazing speech, Nancy sprang to her feet, dashed out of the room, and went clattering down the stairs.",0.5859,0.167,0.0,0.833,positive,Pollyanna
+"Left alone, Pollyanna went back to her ""picture,"" as she mentally designated the beautiful view from the window.",0.4404,0.178,0.091,0.731,positive,Pollyanna
+After a time she touched the sash tentatively.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+It seemed as if no longer could she endure the stifling heat.,-0.296,0.0,0.167,0.833,negative,Pollyanna
+To her joy the sash moved under her fingers.,0.5859,0.322,0.0,0.678,positive,Pollyanna
+"The next moment the window was wide open, and Pollyanna was leaning far out, drinking in the fresh, sweet air.",0.6486,0.227,0.0,0.773,positive,Pollyanna
+She ran then to the other window.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"That, too, soon flew up under her eager hands.",0.3612,0.238,0.0,0.762,positive,Pollyanna
+"A big fly swept past her nose, and buzzed noisily about the room.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Then another came, and another; but Pollyanna paid no heed.",-0.4215,0.0,0.237,0.763,negative,Pollyanna
+Pollyanna had made a wonderful discovery--against this window a huge tree flung great branches.,0.8779,0.529,0.0,0.471,positive,Pollyanna
+"To Pollyanna they looked like arms outstretched, inviting her.",0.5859,0.407,0.0,0.593,positive,Pollyanna
+Suddenly she laughed aloud.,0.4588,0.5,0.0,0.5,positive,Pollyanna
+"""I believe I can do it,"" she chuckled.",0.296,0.268,0.0,0.732,positive,Pollyanna
+The next moment she had climbed nimbly to the window ledge.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+From there it was an easy matter to step to the nearest tree-branch.,0.4588,0.267,0.0,0.733,positive,Pollyanna
+"Then, clinging like a monkey, she swung herself from limb to limb until the lowest branch was reached.",0.0772,0.19,0.127,0.683,positive,Pollyanna
+"The drop to the ground was--even for Pollyanna, who was used to climbing trees--a little fearsome.",-0.5434,0.0,0.244,0.756,negative,Pollyanna
+"She took it, however, with bated breath, swinging from her strong little arms, and landing on all fours in the soft grass.",0.5106,0.136,0.0,0.864,positive,Pollyanna
+Then she picked herself up and looked eagerly about her.,0.3818,0.224,0.0,0.776,positive,Pollyanna
+She was at the back of the house.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Before her lay a garden in which a bent old man was working.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Beyond the garden a little path through an open field led up a steep hill, at the top of which a lone pine tree stood on guard beside the huge rock.",0.25,0.131,0.067,0.801,positive,Pollyanna
+"To Pollyanna, at the moment, there seemed to be just one place in the world worth being in--the top of that big rock.",0.4019,0.15,0.0,0.85,positive,Pollyanna
+"With a run and a skilful turn, Pollyanna skipped by the bent old man, threaded her way between the orderly rows of green growing things, and--a little out of breath--reached the path that ran through the open field.",0.1779,0.046,0.0,0.954,positive,Pollyanna
+"Then, determinedly, she began to climb.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Already, however, she was thinking what a long, long way off that rock must be, when back at the window it had looked so near!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Fifteen minutes later the great clock in the hallway of the Harrington homestead struck six.,0.4767,0.215,0.105,0.681,positive,Pollyanna
+At precisely the last stroke Nancy sounded the bell for supper.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"One, two, three minutes passed.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Miss Polly frowned and tapped the floor with her slipper.,-0.1531,0.0,0.151,0.849,negative,Pollyanna
+"A little jerkily she rose to her feet, went into the hall, and looked up-stairs, plainly impatient.",-0.296,0.0,0.128,0.872,negative,Pollyanna
+For a minute she listened intently; then she turned and swept into the dining room.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Nancy,"" she said with decision, as soon as the little serving-maid appeared; ""my niece is late.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"No, you need not call her,"" she added severely, as Nancy made a move toward the hall door.",-0.6369,0.0,0.257,0.743,negative,Pollyanna
+"""I told her what time supper was, and now she will have to suffer the consequences.",-0.5423,0.0,0.189,0.811,negative,Pollyanna
+She may as well begin at once to learn to be punctual.,0.2732,0.16,0.0,0.84,positive,Pollyanna
+"When she comes down she may have bread and milk in the kitchen.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, ma'am.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"It was well, perhaps, that Miss Polly did not happen to be looking at Nancy's face just then.",0.128,0.107,0.081,0.812,positive,Pollyanna
+"At the earliest possible moment after supper, Nancy crept up the back stairs and thence to the attic room.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Bread and milk, indeed!--and when the poor lamb hain't only just cried herself to sleep,"" she was muttering fiercely, as she softly pushed open the door.",-0.2978,0.074,0.115,0.811,negative,Pollyanna
+The next moment she gave a frightened cry.,-0.7184,0.0,0.545,0.455,negative,Pollyanna
+"""Where are you?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Where've you gone?,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Where HAVE you gone?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"she panted, looking in the closet, under the bed, and even in the trunk and down the water pitcher.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Then she flew down-stairs and out to Old Tom in the garden.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Mr. Tom, Mr. Tom, that blessed child's gone,"" she wailed.",0.5994,0.302,0.0,0.698,positive,Pollyanna
+"""She's vanished right up into Heaven where she come from, poor lamb--and me told ter give her bread and milk in the kitchen--her what's eatin' angel food this minute, I'll warrant, I'll warrant!""",0.126,0.095,0.082,0.822,positive,Pollyanna
+The old man straightened up.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Gone?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Heaven?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"he repeated stupidly, unconsciously sweeping the brilliant sunset sky with his gaze.",0.2023,0.226,0.179,0.595,positive,Pollyanna
+"He stopped, stared a moment intently, then turned with a slow grin.",0.296,0.238,0.146,0.615,positive,Pollyanna
+"""Well, Nancy, it do look like as if she'd tried ter get as nigh Heaven as she could, and that's a fact,"" he agreed, pointing with a crooked finger to where, sharply outlined against the reddening sky, a slender, wind-blown figure was poised on top of a huge rock.",0.9001,0.264,0.0,0.736,positive,Pollyanna
+"""Well, she ain't goin' ter Heaven that way ter-night--not if I has my say,"" declared Nancy, doggedly.",-0.4023,0.0,0.153,0.847,negative,Pollyanna
+"""If the mistress asks, tell her I ain't furgettin' the dishes, but I gone on a stroll,"" she flung back over her shoulder, as she sped toward the path that led through the open field.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"CHAPTER V. THE GAME ""For the land's sake, Miss Pollyanna, what a scare you did give me,"" panted Nancy, hurrying up to the big rock, down which Pollyanna had just regretfully slid.",-0.7717,0.0,0.216,0.784,negative,Pollyanna
+"""Scare?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Oh, I'm so sorry; but you mustn't, really, ever get scared about me, Nancy.",-0.6825,0.0,0.319,0.681,negative,Pollyanna
+"Father and the Ladies' Aid used to do it, too, till they found I always came back all right.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""But I didn't even know you'd went,"" cried Nancy, tucking the little girl's hand under her arm and hurrying her down the hill.",0.1236,0.142,0.125,0.733,positive,Pollyanna
+"""I didn't see you go, and nobody didn't.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I guess you flew right up through the roof; I do, I do.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Pollyanna skipped gleefully.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I did, 'most--only I flew down instead of up.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I came down the tree.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Nancy stopped short.,-0.2263,0.0,0.487,0.513,negative,Pollyanna
+"""You did--what?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Came down the tree, outside my window.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""My stars and stockings!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"gasped Nancy, hurrying on again.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I'd like ter know what yer aunt would say ter that!""",0.4199,0.218,0.0,0.782,positive,Pollyanna
+"""Would you?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Well, I'll tell her, then, so you can find out,"" promised the little girl, cheerfully.",0.7522,0.382,0.0,0.618,positive,Pollyanna
+"""Mercy!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+gasped Nancy.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""No--no!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Why, you don't mean she'd CARE!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"cried Pollyanna, plainly disturbed.",-0.6369,0.0,0.722,0.278,negative,Pollyanna
+"""No--er--yes--well, never mind.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I--I ain't so very particular about knowin' what she'd say, truly,"" stammered Nancy, determined to keep one scolding from Pollyanna, if nothing more.",0.128,0.095,0.075,0.83,positive,Pollyanna
+"""But, say, we better hurry.",0.4404,0.42,0.0,0.58,positive,Pollyanna
+"I've got ter get them dishes done, ye know.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I'll help,"" promised Pollyanna, promptly.",0.3612,0.385,0.0,0.615,positive,Pollyanna
+"""Oh, Miss Pollyanna!""",-0.2244,0.0,0.486,0.514,negative,Pollyanna
+demurred Nancy.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+For a moment there was silence.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+The sky was darkening fast.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Pollyanna took a firmer hold of her friend's arm.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I reckon I'm glad, after all, that you DID get scared--a little, 'cause then you came after me,"" she shivered.",0.4588,0.136,0.0,0.864,positive,Pollyanna
+"""Poor little lamb!",-0.5255,0.0,0.629,0.371,negative,Pollyanna
+"And you must be hungry, too.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+I--I'm afraid you'll have ter have bread and milk in the kitchen with me.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Yer aunt didn't like it--because you didn't come down ter supper, ye know.""",-0.2755,0.0,0.15,0.85,negative,Pollyanna
+"""But I couldn't.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I was up here.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes; but--she didn't know that, you see!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"observed Nancy, dryly, stifling a chuckle.",0.4019,0.403,0.0,0.597,positive,Pollyanna
+"""I'm sorry about the bread and milk; I am, I am.""",-0.0772,0.0,0.14,0.86,negative,Pollyanna
+"""Oh, I'm not.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I'm glad.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Glad!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Why?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Why, I like bread and milk, and I'd like to eat with you.",0.6124,0.333,0.0,0.667,positive,Pollyanna
+"I don't see any trouble about being glad about that.""",0.6437,0.429,0.0,0.571,positive,Pollyanna
+"""You don't seem ter see any trouble bein' glad about everythin',"" retorted Nancy, choking a little over her remembrance of Pollyanna's brave attempts to like the bare little attic room.",0.4939,0.231,0.148,0.622,positive,Pollyanna
+Pollyanna laughed softly.,0.4588,0.6,0.0,0.4,positive,Pollyanna
+"""Well, that's the game, you know, anyway.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""The--GAME?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes; the 'just being glad' game.""",0.4588,0.375,0.0,0.625,positive,Pollyanna
+"""Whatever in the world are you talkin' about?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Why, it's a game.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Father told it to me, and it's lovely,"" rejoined Pollyanna.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""We've played it always, ever since I was a little, little girl.",0.34,0.211,0.0,0.789,positive,Pollyanna
+"I told the Ladies' Aid, and they played it--some of them.""",0.34,0.211,0.0,0.789,positive,Pollyanna
+"""What is it?",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I ain't much on games, though.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Pollyanna laughed again, but she sighed, too; and in the gathering twilight her face looked thin and wistful.",0.25,0.105,0.0,0.895,positive,Pollyanna
+"""Why, we began it on some crutches that came in a missionary barrel.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""CRUTCHES!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"You see I'd wanted a doll, and father had written them so; but when the barrel came the lady wrote that there hadn't any dolls come in, but the little crutches had.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"So she sent 'em along as they might come in handy for some child, sometime.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"And that's when we began it.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Well, I must say I can't see any game about that, about that,"" declared Nancy, almost irritably.",-0.3626,0.0,0.152,0.848,negative,Pollyanna
+"""Oh, yes; the game was to just find something about everything to be glad about--no matter what 'twas,"" rejoined Pollyanna, earnestly.",0.7003,0.274,0.0,0.726,positive,Pollyanna
+"""And we began right then--on the crutches.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Well, goodness me!",0.5093,0.622,0.0,0.378,positive,Pollyanna
+"I can't see anythin' ter be glad about--gettin' a pair of crutches when you wanted a doll!""",0.5093,0.202,0.0,0.798,positive,Pollyanna
+Pollyanna clapped her hands.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""There is--there is,"" she crowed.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""But I couldn't see it, either, Nancy, at first,"" she added, with quick honesty.",0.6486,0.264,0.0,0.736,positive,Pollyanna
+"""Father had to tell it to me.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Well, then, suppose YOU tell ME,"" almost snapped Nancy.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Goosey!",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Why, just be glad because you don't--NEED--'EM!""",0.5093,0.354,0.0,0.646,positive,Pollyanna
+"exulted Pollyanna, triumphantly.",0.5106,0.623,0.0,0.377,positive,Pollyanna
+"""You see it's just as easy--when you know how!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Well, of all the queer doin's!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"breathed Nancy, regarding Pollyanna with almost fearful eyes.",-0.4417,0.0,0.293,0.707,negative,Pollyanna
+"""Oh, but it isn't queer--it's lovely,"" maintained Pollyanna enthusiastically.",0.7096,0.38,0.0,0.62,positive,Pollyanna
+"""And we've played it ever since.",0.34,0.324,0.0,0.676,positive,Pollyanna
+"And the harder 'tis, the more fun 'tis to get 'em out; only--only sometimes it's almost too hard--like when your father goes to Heaven, and there isn't anybody but a Ladies' Aid left.""",0.5341,0.129,0.0,0.871,positive,Pollyanna
+"""Yes, or when you're put in a snippy little room 'way at the top of the house with nothin' in it,"" growled Nancy.",0.2023,0.079,0.0,0.921,positive,Pollyanna
+Pollyanna sighed.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""That was a hard one, at first,"" she admitted, ""specially when I was so kind of lonesome.",-0.469,0.078,0.25,0.672,negative,Pollyanna
+"I just didn't feel like playing the game, anyway, and I HAD been wanting pretty things, so!",0.1999,0.167,0.208,0.625,positive,Pollyanna
+"Then I happened to think how I hated to see my freckles in the looking-glass, and I saw that lovely picture out the window, too; so then I knew I'd found the things to be glad about.",0.3818,0.166,0.102,0.732,positive,Pollyanna
+"You see, when you're hunting for the glad things, you sort of forget the other kind--like the doll you wanted, you know.""",0.204,0.119,0.087,0.794,positive,Pollyanna
+"""Humph!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"choked Nancy, trying to swallow the lump in her throat.",-0.4767,0.0,0.256,0.744,negative,Pollyanna
+"""Most generally it doesn't take so long,"" sighed Pollyanna; ""and lots of times now I just think of them WITHOUT thinking, you know.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+I've got so used to playing it.,0.2648,0.256,0.0,0.744,positive,Pollyanna
+It's a lovely game.,0.5859,0.655,0.0,0.345,positive,Pollyanna
+"F-father and I used to like it so much,"" she faltered.",0.3612,0.217,0.0,0.783,positive,Pollyanna
+"""I suppose, though, it--it'll be a little harder now, as long as I haven't anybody to play it with.",-0.2584,0.0,0.113,0.887,negative,Pollyanna
+"Maybe Aunt Polly will play it, though,"" she added, as an after-thought.",0.34,0.179,0.0,0.821,positive,Pollyanna
+"""My stars and stockings!--HER!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"breathed Nancy, behind her teeth.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Then, aloud, she said doggedly: ""See here, Miss Pollyanna, I ain't sayin' that I'll play it very well, and I ain't sayin' that I know how, anyway; but I'll play it with ye, after a fashion--I just will, I will!""",0.6693,0.174,0.033,0.793,positive,Pollyanna
+"""Oh, Nancy!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"exulted Pollyanna, giving her a rapturous hug.",0.802,0.732,0.0,0.268,positive,Pollyanna
+"""That'll be splendid!",0.6239,0.672,0.0,0.328,positive,Pollyanna
+"Won't we have fun?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Er--maybe,"" conceded Nancy, in open doubt.",-0.3612,0.0,0.333,0.667,negative,Pollyanna
+"""But you mustn't count too much on me, ye know.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"I never was no case fur games, but I'm a-goin' ter make a most awful old try on this one.",-0.6118,0.066,0.203,0.731,negative,Pollyanna
+"You're goin' ter have some one ter play it with, anyhow,"" she finished, as they entered the kitchen together.",0.34,0.118,0.0,0.882,positive,Pollyanna
+"Pollyanna ate her bread and milk with good appetite; then, at Nancy's suggestion, she went into the sitting room, where her aunt sat reading.",0.4404,0.112,0.0,0.888,positive,Pollyanna
+Miss Polly looked up coldly.,-0.1531,0.0,0.286,0.714,negative,Pollyanna
+"""Have you had your supper, Pollyanna?""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Yes, Aunt Polly.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""I'm very sorry, Pollyanna, to have been obliged so soon to send you into the kitchen to eat bread and milk.""",-0.1513,0.0,0.074,0.926,negative,Pollyanna
+"""But I was real glad you did it, Aunt Polly.",0.6124,0.333,0.0,0.667,positive,Pollyanna
+"I like bread and milk, and Nancy, too.",0.3612,0.294,0.0,0.706,positive,Pollyanna
+"You mustn't feel bad about that one bit.""",0.431,0.289,0.0,0.711,positive,Pollyanna
+Aunt Polly sat suddenly a little more erect in her chair.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""Pollyanna, it's quite time you were in bed.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"You have had a hard day, and to-morrow we must plan your hours and go over your clothing to see what it is necessary to get for you.",-0.1027,0.0,0.051,0.949,negative,Pollyanna
+Nancy will give you a candle.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+Be careful how you handle it.,0.1531,0.242,0.0,0.758,positive,Pollyanna
+Breakfast will be at half-past seven.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+See that you are down to that.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Good-night.""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Quite as a matter of course, Pollyanna came straight to her aunt's side and gave her an affectionate hug.",0.8062,0.399,0.0,0.601,positive,Pollyanna
+"""I've had such a beautiful time, so far,"" she sighed happily.",0.8176,0.484,0.0,0.516,positive,Pollyanna
+"""I know I'm going to just love living with you but then, I knew I should before I came.",0.3818,0.148,0.0,0.852,positive,Pollyanna
+"Good-night,"" she called cheerfully, as she ran from the room.",0.4767,0.256,0.0,0.744,positive,Pollyanna
+"""Well, upon my soul!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"ejaculated Miss Polly, half aloud.",-0.1531,0.0,0.286,0.714,negative,Pollyanna
+"""What a most extraordinary child!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+Then she frowned.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"""She's 'glad' I punished her, and I 'mustn't feel bad one bit,' and she's going to 'love to live' with me!",0.6533,0.279,0.114,0.607,positive,Pollyanna
+"Well, upon my soul!""",0.3382,0.444,0.0,0.556,positive,Pollyanna
+"ejaculated Miss Polly again, as she took up her book.",-0.1531,0.0,0.151,0.849,negative,Pollyanna
+"Fifteen minutes later, in the attic room, a lonely little girl sobbed into the tightly-clutched sheet: ""I know, father-among-the-angels, I'm not playing the game one bit now--not one bit; but I don't believe even you could find anything to be glad about sleeping all alone 'way off up here in the dark--like this.",-0.0917,0.07,0.128,0.802,negative,Pollyanna
+"If only I was near Nancy or Aunt Polly, or even a Ladies' Aider, it would be easier!""",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Down-stairs in the kitchen, Nancy, hurrying with her belated work, jabbed her dish-mop into the milk pitcher, and muttered jerkily: ""If playin' a silly-fool game--about bein' glad you've got crutches when you want dolls--is got ter be--my way--o' bein' that rock o' refuge--why, I'm a-goin' ter play it--I am, I am!""",0.7177,0.132,0.0,0.868,positive,Pollyanna
+CHAPTER VI.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+A QUESTION OF DUTY It was nearly seven o'clock when Pollyanna awoke that first day after her arrival.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Her windows faced the south and the west, so she could not see the sun yet; but she could see the hazy blue of the morning sky, and she knew that the day promised to be a fair one.",0.7351,0.147,0.0,0.853,positive,Pollyanna
+"The little room was cooler now, and the air blew in fresh and sweet.",0.6486,0.306,0.0,0.694,positive,Pollyanna
+"Outside, the birds were twittering joyously, and Pollyanna flew to the window to talk to them.",0.5994,0.206,0.0,0.794,positive,Pollyanna
+She saw then that down in the garden her aunt was already out among the rosebushes.,0.0,0.0,0.0,1.0,neutral,Pollyanna
+"With rapid fingers, therefore, she made herself ready to join her.",0.5719,0.343,0.0,0.657,positive,Pollyanna
+"Down the attic stairs sped Pollyanna, leaving both doors wide open.",0.0,0.0,0.0,1.0,neutral,Pollyanna
+"Through the hall, down the next flight, then bang through the front screened-door and around t",0.0,0.0,0.0,1.0,neutral,Pollyanna

@@ -1,0 +1,647 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of The Stolen Bacillus and Other Incidents This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.5859,0.06,0.164,0.776,negative,The Stolen Bacillus and Other Incidents
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,The Stolen Bacillus and Other Incidents
+"Title : The Stolen Bacillus and Other Incidents Author : H. G. Wells Release date : June 26, 2004 [eBook #12750] Most recently updated: October 28, 2024 Language : English Other information and formats : www.gutenberg.org/ebooks/12750 Credits : Etext produced by Elaine Walker, Josephine Paolucci and the Online Distributed Proofreading Team.",0.0772,0.091,0.064,0.845,positive,The Stolen Bacillus and Other Incidents
+HTML file produced by David Widger *** START OF THE PROJECT GUTENBERG EBOOK THE STOLEN BACILLUS AND OTHER INCIDENTS *** THE STOLEN BACILLUS AND OTHER INCIDENTS By H.G.,-0.8345,0.0,0.232,0.768,negative,The Stolen Bacillus and Other Incidents
+"Wells Methuen & Co. 36 Essex Street, Strand, London 1895 TO H.B.",0.25,0.167,0.0,0.833,positive,The Stolen Bacillus and Other Incidents
+"MARRIOTT WATSON Most of the stories in this collection appeared originally in the Pall Mall Budget , two were published in the Pall Mall Gazette , and one in St James's Gazette .",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+I desire to make the usual acknowledgments.,0.4019,0.351,0.0,0.649,positive,The Stolen Bacillus and Other Incidents
+"The third story in the book was, I find, reprinted by the Observatory , and the ""Lord of the Dynamos"" by the Melbourne Leader .",0.0772,0.058,0.0,0.942,positive,The Stolen Bacillus and Other Incidents
+H.G.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+WELLS.,0.25,1.0,0.0,0.0,positive,The Stolen Bacillus and Other Incidents
+"CONTENTS THE STOLEN BACILLUS THE FLOWERING OF THE STRANGE ORCHID IN THE AVU OBSERVATORY THE TRIUMPHS OF A TAXIDERMIST A DEAL IN OSTRICHES THROUGH A WINDOW THE TEMPTATION OF HARRINGAY THE FLYING MAN THE DIAMOND MAKER AEPYORNIS ISLAND THE REMARKABLE CASE OF DAVIDSON'S EYES THE LORD OF THE DYNAMOS THE HAMMERPOND PARK BURGLARY A MOTH--GENUS NOVO THE TREASURE IN THE FOREST THE STOLEN BACILLUS ""This again,"" said the Bacteriologist, slipping a glass slide under the microscope, ""is a preparation of the celebrated Bacillus of cholera--the cholera germ.""",0.8579,0.194,0.102,0.704,positive,The Stolen Bacillus and Other Incidents
+The pale-faced man peered down the microscope.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He was evidently not accustomed to that kind of thing, and held a limp white hand over his disengaged eye.",0.4939,0.151,0.0,0.849,positive,The Stolen Bacillus and Other Incidents
+"""I see very little,"" he said.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Touch this screw,"" said the Bacteriologist; ""perhaps the microscope is out of focus for you.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Eyes vary so much.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Just the fraction of a turn this way or that.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Ah!",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"now I see,"" said the visitor.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Not so very much to see after all.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Little streaks and shreds of pink.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"And yet those little particles, those mere atomies, might multiply and devastate a city!",-0.6588,0.0,0.268,0.732,negative,The Stolen Bacillus and Other Incidents
+"Wonderful!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He stood up, and releasing the glass slip from the microscope, held it in his hand towards the window.",0.4939,0.151,0.0,0.849,positive,The Stolen Bacillus and Other Incidents
+"""Scarcely visible,"" he said, scrutinising the preparation.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He hesitated.,-0.3182,0.0,0.697,0.303,negative,The Stolen Bacillus and Other Incidents
+"""Are these--alive?",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Are they dangerous now?""",-0.4767,0.0,0.508,0.492,negative,The Stolen Bacillus and Other Incidents
+"""Those have been stained and killed,"" said the Bacteriologist.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I wish, for my own part, we could kill and stain every one of them in the universe.""",-0.4588,0.115,0.201,0.684,negative,The Stolen Bacillus and Other Incidents
+"""I suppose,"" the pale man said with a slight smile, ""that you scarcely care to have such things about you in the living--in the active state?""",0.7968,0.269,0.0,0.731,positive,The Stolen Bacillus and Other Incidents
+"""On the contrary, we are obliged to,"" said the Bacteriologist.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Here, for instance--"" He walked across the room and took up one of several sealed tubes.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Here is the living thing.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"This is a cultivation of the actual living disease bacteria.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He hesitated, ""Bottled cholera, so to speak.""",-0.3182,0.0,0.277,0.723,negative,The Stolen Bacillus and Other Incidents
+A slight gleam of satisfaction appeared momentarily in the face of the pale man.,0.4404,0.195,0.0,0.805,positive,The Stolen Bacillus and Other Incidents
+"""It's a deadly thing to have in your possession,"" he said, devouring the little tube with his eyes.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The Bacteriologist watched the morbid pleasure in his visitor's expression.,0.5719,0.291,0.0,0.709,positive,The Stolen Bacillus and Other Incidents
+"This man, who had visited him that afternoon with a note of introduction from an old friend, interested him from the very contrast of their dispositions.",0.7096,0.204,0.0,0.796,positive,The Stolen Bacillus and Other Incidents
+"The lank black hair and deep grey eyes, the haggard expression and nervous manner, the fitful yet keen interest of his visitor were a novel change from the phlegmatic deliberations of the ordinary scientific worker with whom the Bacteriologist chiefly associated.",0.7096,0.195,0.046,0.759,positive,The Stolen Bacillus and Other Incidents
+"It was perhaps natural, with a hearer evidently so impressionable to the lethal nature of his topic, to take the most effective aspect of the matter.",0.7656,0.291,0.0,0.709,positive,The Stolen Bacillus and Other Incidents
+He held the tube in his hand thoughtfully.,0.7096,0.496,0.0,0.504,positive,The Stolen Bacillus and Other Incidents
+"""Yes, here is the pestilence imprisoned.",-0.4588,0.0,0.375,0.625,negative,The Stolen Bacillus and Other Incidents
+"Only break such a little tube as this into a supply of drinking-water, say to these minute particles of life that one must needs stain and examine with the highest powers of the microscope even to see, and that one can neither smell nor taste--say to them, 'Go forth, increase and multiply, and replenish the cisterns,' and death--mysterious, untraceable death, death swift and terrible, death full of pain and indignity--would be released upon this city, and go hither and thither seeking his victims.",-0.9538,0.042,0.209,0.749,negative,The Stolen Bacillus and Other Incidents
+"Here he would take the husband from the wife, here the child from its mother, here the statesman from his duty, and here the toiler from his trouble.",-0.4019,0.0,0.091,0.909,negative,The Stolen Bacillus and Other Incidents
+"He would follow the water-mains, creeping along streets, picking out and punishing a house here and a house there where they did not boil their drinking-water, creeping into the wells of the mineral-water makers, getting washed into salad, and lying dormant in ices.",-0.7184,0.043,0.149,0.809,negative,The Stolen Bacillus and Other Incidents
+"He would wait ready to be drunk in the horse-troughs, and by unwary children in the public fountains.",0.0258,0.12,0.115,0.766,neutral,The Stolen Bacillus and Other Incidents
+"He would soak into the soil, to reappear in springs and wells at a thousand unexpected places.",0.25,0.118,0.0,0.882,positive,The Stolen Bacillus and Other Incidents
+"Once start him at the water supply, and before we could ring him in, and catch him again, he would have decimated the metropolis.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He stopped abruptly.,-0.2263,0.0,0.487,0.513,negative,The Stolen Bacillus and Other Incidents
+He had been told rhetoric was his weakness.,-0.4215,0.0,0.286,0.714,negative,The Stolen Bacillus and Other Incidents
+"""But he is quite safe here, you know--quite safe.""",0.6474,0.349,0.0,0.651,positive,The Stolen Bacillus and Other Incidents
+The pale-faced man nodded.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+His eyes shone.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He cleared his throat.,0.1027,0.318,0.0,0.682,positive,The Stolen Bacillus and Other Incidents
+"""These Anarchist--rascals,"" said he, ""are fools, blind fools--to use bombs when this kind of thing is attainable.",-0.7096,0.0,0.282,0.718,negative,The Stolen Bacillus and Other Incidents
+"I think--"" A gentle rap, a mere light touch of the finger-nails was heard at the door.",0.4404,0.182,0.0,0.818,positive,The Stolen Bacillus and Other Incidents
+The Bacteriologist opened it.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Just a minute, dear,"" whispered his wife.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+When he re-entered the laboratory his visitor was looking at his watch.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I had no idea I had wasted an hour of your time,"" he said.",-0.6597,0.0,0.329,0.671,negative,The Stolen Bacillus and Other Incidents
+"""Twelve minutes to four.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+I ought to have left here by half-past three.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+But your things were really too interesting.,0.6082,0.398,0.0,0.602,positive,The Stolen Bacillus and Other Incidents
+"No, positively I cannot stop a moment longer.",0.4745,0.504,0.21,0.286,positive,The Stolen Bacillus and Other Incidents
+"I have an engagement at four.""",0.4588,0.429,0.0,0.571,positive,The Stolen Bacillus and Other Incidents
+"He passed out of the room reiterating his thanks, and the Bacteriologist accompanied him to the door, and then returned thoughtfully along the passage to his laboratory.",0.6808,0.183,0.0,0.817,positive,The Stolen Bacillus and Other Incidents
+He was musing on the ethnology of his visitor.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Certainly the man was not a Teutonic type nor a common Latin one.,0.34,0.194,0.0,0.806,positive,The Stolen Bacillus and Other Incidents
+"""A morbid product, anyhow, I am afraid,"" said the Bacteriologist to himself.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""How he gloated on those cultivations of disease-germs!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+A disturbing thought struck him.,-0.6486,0.0,0.726,0.274,negative,The Stolen Bacillus and Other Incidents
+"He turned to the bench by the vapour-bath, and then very quickly to his writing-table.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Then he felt hastily in his pockets, and then rushed to the door.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I may have put it down on the hall table,"" he said.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Minnie!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+he shouted hoarsely in the hall.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Yes, dear,"" came a remote voice.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Had I anything in my hand when I spoke to you, dear, just now?""",0.7003,0.367,0.0,0.633,positive,The Stolen Bacillus and Other Incidents
+Pause.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Nothing, dear, because I remember--"" ""Blue ruin!""",0.4389,0.366,0.0,0.634,positive,The Stolen Bacillus and Other Incidents
+"cried the Bacteriologist, and incontinently ran to the front door and down the steps of his house to the street.",-0.3818,0.0,0.12,0.88,negative,The Stolen Bacillus and Other Incidents
+"Minnie, hearing the door slam violently, ran in alarm to the window.",-0.8316,0.0,0.494,0.506,negative,The Stolen Bacillus and Other Incidents
+Down the street a slender man was getting into a cab.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The Bacteriologist, hatless, and in his carpet slippers, was running and gesticulating wildly towards this group.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"One slipper came off, but he did not wait for it.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""He has gone mad !""",-0.5411,0.0,0.466,0.534,negative,The Stolen Bacillus and Other Incidents
+"said Minnie; ""it's that horrid science of his""; and, opening the window, would have called after him.",-0.5423,0.0,0.179,0.821,negative,The Stolen Bacillus and Other Incidents
+"The slender man, suddenly glancing round, seemed struck with the same idea of mental disorder.",-0.5719,0.0,0.266,0.734,negative,The Stolen Bacillus and Other Incidents
+"He pointed hastily to the Bacteriologist, said something to the cabman, the apron of the cab slammed, the whip swished, the horse's feet clattered, and in a moment cab, and Bacteriologist hotly in pursuit, had receded up the vista of the roadway and disappeared round the corner.",-0.2263,0.0,0.041,0.959,negative,The Stolen Bacillus and Other Incidents
+Minnie remained straining out of the window for a minute.,-0.3182,0.0,0.223,0.777,negative,The Stolen Bacillus and Other Incidents
+Then she drew her head back into the room again.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+She was dumbfounded.,-0.3818,0.0,0.565,0.435,negative,The Stolen Bacillus and Other Incidents
+"""Of course he is eccentric,"" she meditated.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""But running about London--in the height of the season, too--in his socks!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+A happy thought struck her.,0.4019,0.481,0.26,0.26,positive,The Stolen Bacillus and Other Incidents
+"She hastily put her bonnet on, seized his shoes, went into the hall, took down his hat and light overcoat from the pegs, emerged upon the doorstep, and hailed a cab that opportunely crawled by.",0.5267,0.121,0.0,0.879,positive,The Stolen Bacillus and Other Incidents
+"""Drive me up the road and round Havelock Crescent, and see if we can find a gentleman running about in a velveteen coat and no hat.""",-0.296,0.0,0.087,0.913,negative,The Stolen Bacillus and Other Incidents
+"""Velveteen coat, ma'am, and no 'at.",-0.296,0.0,0.306,0.694,negative,The Stolen Bacillus and Other Incidents
+"Very good, ma'am.""",0.4927,0.615,0.0,0.385,positive,The Stolen Bacillus and Other Incidents
+"And the cabman whipped up at once in the most matter-of-fact way, as if he drove to this address every day in his life.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Some few minutes later the little group of cabmen and loafers that collects round the cabmen's shelter at Haverstock Hill were startled by the passing of a cab with a ginger-coloured screw of a horse, driven furiously.",-0.6124,0.0,0.162,0.838,negative,The Stolen Bacillus and Other Incidents
+"They were silent as it went by, and then as it receded--""That's 'Arry Icks.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Wot's he got?""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+said the stout gentleman known as Old Tootles.,0.1779,0.195,0.0,0.805,positive,The Stolen Bacillus and Other Incidents
+"""He's a-using his whip, he is, to rights,"" said the ostler boy.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Hullo!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"said poor old Tommy Byles; ""here's another bloomin' loonatic.",-0.4767,0.0,0.279,0.721,negative,The Stolen Bacillus and Other Incidents
+"Blowed if there aint.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""It's old George,"" said old Tootles, ""and he's drivin' a loonatic, as you say.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Aint he a-clawin' out of the keb?,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Wonder if he's after Arry 'Icks?""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The group round the cabmen's shelter became animated.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Chorus: ""Go it, George!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""It's a race.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""You'll ketch 'em!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Whip up!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""She's a goer, she is!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+said the ostler boy.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Strike me giddy!""",-0.2003,0.0,0.473,0.527,negative,The Stolen Bacillus and Other Incidents
+cried old Tootles.,-0.3818,0.0,0.565,0.435,negative,The Stolen Bacillus and Other Incidents
+"""Here!",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+I'm a-goin' to begin in a minute.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Here's another comin'.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"If all the kebs in Hampstead aint gone mad this morning!""",0.4442,0.226,0.0,0.774,positive,The Stolen Bacillus and Other Incidents
+"""It's a fieldmale this time,"" said the ostler boy.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""She's a followin' him ,"" said old Tootles.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Usually the other way about.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""What's she got in her 'and?""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Looks like a 'igh 'at.""",0.3612,0.455,0.0,0.545,positive,The Stolen Bacillus and Other Incidents
+"""What a bloomin' lark it is!",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Three to one on old George,"" said the ostler boy.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Nexst!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Minnie went by in a perfect roar of applause.,0.7579,0.52,0.0,0.48,positive,The Stolen Bacillus and Other Incidents
+"She did not like it but she felt that she was doing her duty, and whirled on down Haverstock Hill and Camden Town High Street with her eyes ever intent on the animated back view of old George, who was driving her vagrant husband so incomprehensibly away from her.",-0.1419,0.0,0.031,0.969,negative,The Stolen Bacillus and Other Incidents
+"The man in the foremost cab sat crouched in the corner, his arms tightly folded, and the little tube that contained such vast possibilities of destruction gripped in his hand.",-0.128,0.092,0.106,0.802,negative,The Stolen Bacillus and Other Incidents
+His mood was a singular mixture of fear and exultation.,-0.4939,0.0,0.286,0.714,negative,The Stolen Bacillus and Other Incidents
+"Chiefly he was afraid of being caught before he could accomplish his purpose, but behind this was a vaguer but larger fear of the awfulness of his crime.",-0.8462,0.054,0.259,0.687,negative,The Stolen Bacillus and Other Incidents
+But his exultation far exceeded his fear.,-0.6486,0.0,0.417,0.583,negative,The Stolen Bacillus and Other Incidents
+No Anarchist before him had ever approached this conception of his.,-0.296,0.0,0.18,0.82,negative,The Stolen Bacillus and Other Incidents
+"Ravachol, Vaillant, all those distinguished persons whose fame he had envied dwindled into insignificance beside him.",0.2023,0.153,0.111,0.737,positive,The Stolen Bacillus and Other Incidents
+"He had only to make sure of the water supply, and break the little tube into a reservoir.",0.3182,0.126,0.0,0.874,positive,The Stolen Bacillus and Other Incidents
+"How brilliantly he had planned it, forged the letter of introduction and got into the laboratory, and how brilliantly he had seized his opportunity!",0.902,0.346,0.0,0.654,positive,The Stolen Bacillus and Other Incidents
+The world should hear of him at last.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"All those people who had sneered at him, neglected him, preferred other people to him, found his company undesirable, should consider him at last.",-0.743,0.0,0.223,0.777,negative,The Stolen Bacillus and Other Incidents
+"Death, death, death!",-0.9184,0.0,1.0,0.0,negative,The Stolen Bacillus and Other Incidents
+They had always treated him as a man of no importance.,0.0772,0.197,0.173,0.63,positive,The Stolen Bacillus and Other Incidents
+All the world had been in a conspiracy to keep him under.,-0.5267,0.0,0.254,0.746,negative,The Stolen Bacillus and Other Incidents
+He would teach them yet what it is to isolate a man.,-0.2023,0.0,0.153,0.847,negative,The Stolen Bacillus and Other Incidents
+What was this familiar street?,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Great Saint Andrew's Street, of course!",0.6588,0.468,0.0,0.532,positive,The Stolen Bacillus and Other Incidents
+How fared the chase?,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He craned out of the cab.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The Bacteriologist was scarcely fifty yards behind.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+That was bad.,-0.5423,0.0,0.636,0.364,negative,The Stolen Bacillus and Other Incidents
+He would be caught and stopped yet.,-0.2263,0.0,0.241,0.759,negative,The Stolen Bacillus and Other Incidents
+"He felt in his pocket for money, and found half-a-sovereign.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+This he thrust up through the trap in the top of the cab into the man's face.,-0.128,0.094,0.12,0.785,negative,The Stolen Bacillus and Other Incidents
+"""More,"" he shouted, ""if only we get away.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The money was snatched out of his hand.,0.4939,0.314,0.0,0.686,positive,The Stolen Bacillus and Other Incidents
+"""Right you are,"" said the cabman, and the trap slammed, and the lash lay along the glistening side of the horse.",-0.3182,0.0,0.103,0.897,negative,The Stolen Bacillus and Other Incidents
+"The cab swayed, and the Anarchist, half-standing under the trap, put the hand containing the little glass tube upon the apron to preserve his balance.",0.2263,0.112,0.081,0.807,positive,The Stolen Bacillus and Other Incidents
+"He felt the brittle thing crack, and the broken half of it rang upon the floor of the cab.",-0.4767,0.0,0.147,0.853,negative,The Stolen Bacillus and Other Incidents
+"He fell back into the seat with a curse, and stared dismally at the two or three drops of moisture on the apron.",-0.5423,0.0,0.143,0.857,negative,The Stolen Bacillus and Other Incidents
+He shuddered.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Well!",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+I suppose I shall be the first.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Phew !,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Anyhow, I shall be a Martyr.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+That's something.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"But it is a filthy death, nevertheless.",-0.7469,0.0,0.517,0.483,negative,The Stolen Bacillus and Other Incidents
+"I wonder if it hurts as much as they say.""",-0.4767,0.0,0.279,0.721,negative,The Stolen Bacillus and Other Incidents
+Presently a thought occurred to him--he groped between his feet.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"A little drop was still in the broken end of the tube, and he drank that to make sure.",-0.3832,0.104,0.221,0.675,negative,The Stolen Bacillus and Other Incidents
+It was better to make sure.,0.6369,0.565,0.0,0.435,positive,The Stolen Bacillus and Other Incidents
+"At any rate, he would not fail.",0.431,0.322,0.0,0.678,positive,The Stolen Bacillus and Other Incidents
+Then it dawned upon him that there was no further need to escape the Bacteriologist.,-0.128,0.101,0.13,0.769,negative,The Stolen Bacillus and Other Incidents
+"In Wellington Street he told the cabman to stop, and got out.",-0.296,0.0,0.167,0.833,negative,The Stolen Bacillus and Other Incidents
+"He slipped on the step, and his head felt queer.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+It was rapid stuff this cholera poison.,-0.5423,0.0,0.368,0.632,negative,The Stolen Bacillus and Other Incidents
+"He waved his cabman out of existence, so to speak, and stood on the pavement with his arms folded upon his breast awaiting the arrival of the Bacteriologist.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+There was something tragic in his pose.,-0.4588,0.0,0.333,0.667,negative,The Stolen Bacillus and Other Incidents
+The sense of imminent death gave him a certain dignity.,-0.0258,0.327,0.265,0.408,neutral,The Stolen Bacillus and Other Incidents
+He greeted his pursuer with a defiant laugh.,0.5859,0.491,0.164,0.345,positive,The Stolen Bacillus and Other Incidents
+"""Vive l'Anarchie!",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"You are too late, my friend.",0.4939,0.39,0.0,0.61,positive,The Stolen Bacillus and Other Incidents
+I have drunk it.,-0.34,0.0,0.545,0.455,negative,The Stolen Bacillus and Other Incidents
+"The cholera is abroad!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The Bacteriologist from his cab beamed curiously at him through his spectacles.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""You have drunk it!",-0.4003,0.0,0.473,0.527,negative,The Stolen Bacillus and Other Incidents
+An Anarchist!,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"I see now.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He was about to say something more, and then checked himself.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+A smile hung in the corner of his mouth.,0.3612,0.263,0.0,0.737,positive,The Stolen Bacillus and Other Incidents
+"He opened the apron of his cab as if to descend, at which the Anarchist waved him a dramatic farewell and strode off towards Waterloo Bridge, carefully jostling his infected body against as many people as possible.",-0.4019,0.039,0.083,0.879,negative,The Stolen Bacillus and Other Incidents
+The Bacteriologist was so preoccupied with the vision of him that he scarcely manifested the slightest surprise at the appearance of Minnie upon the pavement with his hat and shoes and overcoat.,0.4767,0.12,0.0,0.88,positive,The Stolen Bacillus and Other Incidents
+"""Very good of you to bring my things,"" he said, and remained lost in contemplation of the receding figure of the Anarchist.",0.2247,0.125,0.09,0.785,positive,The Stolen Bacillus and Other Incidents
+"""You had better get in,"" he said, still staring.",0.4404,0.266,0.0,0.734,positive,The Stolen Bacillus and Other Incidents
+"Minnie felt absolutely convinced now that he was mad, and directed the cabman home on her own responsibility.",-0.0534,0.135,0.144,0.721,negative,The Stolen Bacillus and Other Incidents
+"""Put on my shoes?",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Certainly dear,"" said he, as the cab began to turn, and hid the strutting black figure, now small in the distance, from his eyes.",0.25,0.093,0.054,0.853,positive,The Stolen Bacillus and Other Incidents
+"Then suddenly something grotesque struck him, and he laughed.",0.25,0.25,0.167,0.583,positive,The Stolen Bacillus and Other Incidents
+"Then he remarked, ""It is really very serious, though.""",-0.2195,0.0,0.19,0.81,negative,The Stolen Bacillus and Other Incidents
+"""You see, that man came to my house to see me, and he is an Anarchist.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"No--don't faint, or I cannot possibly tell you the rest.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"And I wanted to astonish him, not knowing he was an Anarchist, and took up a cultivation of that new species of Bacterium I was telling you of, that infest, and I think cause, the blue patches upon various monkeys; and like a fool, I said it was Asiatic cholera.",-0.1027,0.053,0.061,0.886,negative,The Stolen Bacillus and Other Incidents
+"And he ran away with it to poison the water of London, and he certainly might have made things look blue for this civilised city.",-0.2732,0.083,0.121,0.796,negative,The Stolen Bacillus and Other Incidents
+And now he has swallowed it.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Of course, I cannot say what will happen, but you know it turned that kitten blue, and the three puppies--in patches, and the sparrow--bright blue.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"But the bother is, I shall have all the trouble and expense of preparing some more.",-0.7684,0.0,0.338,0.662,negative,The Stolen Bacillus and Other Incidents
+"""Put on my coat on this hot day!",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Why?,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Because we might meet Mrs Jabber.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"My dear, Mrs Jabber is not a draught.",0.3818,0.302,0.0,0.698,positive,The Stolen Bacillus and Other Incidents
+But why should I wear a coat on a hot day because of Mrs--.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Oh!,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"very well.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+THE FLOWERING OF THE STRANGE ORCHID The buying of orchids always has in it a certain speculative flavour.,-0.0085,0.175,0.126,0.699,neutral,The Stolen Bacillus and Other Incidents
+"You have before you the brown shrivelled lump of tissue, and for the rest you must trust your judgment, or the auctioneer, or your good-luck, as your taste may incline.",0.5106,0.102,0.0,0.898,positive,The Stolen Bacillus and Other Incidents
+"The plant may be moribund or dead, or it may be just a respectable purchase, fair value for your money, or perhaps--for the thing has happened again and again--there slowly unfolds before the delighted eyes of the happy purchaser, day after day, some new variety, some novel richness, a strange twist of the labellum, or some subtler colouration or unexpected mimicry.",0.9186,0.264,0.08,0.656,positive,The Stolen Bacillus and Other Incidents
+"Pride, beauty, and profit blossom together on one delicate green spike, and, it may be, even immortality.",0.8519,0.442,0.0,0.558,positive,The Stolen Bacillus and Other Incidents
+"For the new miracle of Nature may stand in need of a new specific name, and what so convenient as that of its discoverer?",0.5859,0.147,0.0,0.853,positive,The Stolen Bacillus and Other Incidents
+"""Johnsmithia""!",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+There have been worse names.,-0.4767,0.0,0.437,0.563,negative,The Stolen Bacillus and Other Incidents
+"It was perhaps the hope of some such happy discovery that made Winter-Wedderburn such a frequent attendant at these sales--that hope, and also, maybe, the fact that he had nothing else of the slightest interest to do in the world.",0.91,0.263,0.0,0.737,positive,The Stolen Bacillus and Other Incidents
+"He was a shy, lonely, rather ineffectual man, provided with just enough income to keep off the spur of necessity, and not enough nervous energy to make him seek any exacting employments.",-0.6908,0.05,0.234,0.716,negative,The Stolen Bacillus and Other Incidents
+"He might have collected stamps or coins, or translated Horace, or bound books, or invented new species of diatoms.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"But, as it happened, he grew orchids, and had one ambitious little hothouse.",0.631,0.257,0.0,0.743,positive,The Stolen Bacillus and Other Incidents
+"""I have a fancy,"" he said over his coffee, ""that something is going to happen to me to-day.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He spoke--as he moved and thought--slowly.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Oh, don't say that !""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+said his housekeeper--who was also his remote cousin.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"For ""something happening"" was a euphemism that meant only one thing to her.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""You misunderstand me.",-0.3612,0.0,0.556,0.444,negative,The Stolen Bacillus and Other Incidents
+I mean nothing unpleasant ... though what I do mean I scarcely know.,0.3724,0.221,0.0,0.779,positive,The Stolen Bacillus and Other Incidents
+"""To-day,"" he continued, after a pause, ""Peters' are going to sell a batch of plants from the Andamans and the Indies.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+I shall go up and see what they have.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"It may be I shall buy something good, unawares.",0.4404,0.293,0.0,0.707,positive,The Stolen Bacillus and Other Incidents
+"That may be it.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He passed his cup for his second cupful of coffee.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Are these the things collected by that poor young fellow you told me of the other day?""",-0.4767,0.0,0.162,0.838,negative,The Stolen Bacillus and Other Incidents
+asked his cousin as she filled his cup.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Yes,"" he said, and became meditative over a piece of toast.",0.34,0.211,0.0,0.789,positive,The Stolen Bacillus and Other Incidents
+"""Nothing ever does happen to me,"" he remarked presently, beginning to think aloud.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I wonder why?",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Things enough happen to other people.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+There is Harvey.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Only the other week; on Monday he picked up sixpence, on Wednesday his chicks all had the staggers, on Friday his cousin came home from Australia, and on Saturday he broke his ankle.",-0.4215,0.0,0.08,0.92,negative,The Stolen Bacillus and Other Incidents
+"What a whirl of excitement!--compared to me.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I think I would rather be without so much excitement,"" said his housekeeper.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""It can't be good for you.""",-0.3412,0.0,0.325,0.675,negative,The Stolen Bacillus and Other Incidents
+"""I suppose it's troublesome.",-0.5106,0.0,0.524,0.476,negative,The Stolen Bacillus and Other Incidents
+"Still ... you see, nothing ever happens to me.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+When I was a little boy I never had accidents.,0.2411,0.246,0.0,0.754,positive,The Stolen Bacillus and Other Incidents
+I never fell in love as I grew up.,-0.5216,0.0,0.36,0.64,negative,The Stolen Bacillus and Other Incidents
+Never married....,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"I wonder how it feels to have something happen to you, something really remarkable.",0.5984,0.245,0.0,0.755,positive,The Stolen Bacillus and Other Incidents
+"""That orchid-collector was only thirty-six--twenty years younger than myself--when he died.",-0.5574,0.0,0.265,0.735,negative,The Stolen Bacillus and Other Incidents
+"And he had been married twice and divorced once; he had had malarial fever four times, and once he broke his thigh.",-0.4215,0.0,0.118,0.882,negative,The Stolen Bacillus and Other Incidents
+"He killed a Malay once, and once he was wounded by a poisoned dart.",-0.8271,0.0,0.435,0.565,negative,The Stolen Bacillus and Other Incidents
+And in the end he was killed by jungle-leeches.,-0.6705,0.0,0.36,0.64,negative,The Stolen Bacillus and Other Incidents
+"It must have all been very troublesome, but then it must have been very interesting, you know--except, perhaps, the leeches.""",0.4005,0.164,0.095,0.741,positive,The Stolen Bacillus and Other Incidents
+"""I am sure it was not good for him,"" said the lady, with conviction.",-0.0274,0.138,0.144,0.718,neutral,The Stolen Bacillus and Other Incidents
+"""Perhaps not.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+And then Wedderburn looked at his watch.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Twenty-three minutes past eight.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"I am going up by the quarter to twelve train, so that there is plenty of time.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+I think I shall wear my alpaca jacket--it is quite warm enough--and my grey felt hat and brown shoes.,0.3384,0.184,0.0,0.816,positive,The Stolen Bacillus and Other Incidents
+"I suppose--"" He glanced out of the window at the serene sky and sunlit garden, and then nervously at his cousin's face.",0.34,0.127,0.068,0.805,positive,The Stolen Bacillus and Other Incidents
+"""I think you had better take an umbrella if you are going to London,"" she said in a voice that admitted of no denial.",0.2732,0.162,0.083,0.755,positive,The Stolen Bacillus and Other Incidents
+"""There's all between here and the station coming back.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+When he returned he was in a state of mild excitement.,0.4939,0.262,0.0,0.738,positive,The Stolen Bacillus and Other Incidents
+He had made a purchase.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"It was rare that he could make up his mind quickly enough to buy, but this time he had done so.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""There are Vandas,"" he said, ""and a Dendrobe and some Palaeonophis.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He surveyed his purchases lovingly as he consumed his soup.,0.6369,0.318,0.0,0.682,positive,The Stolen Bacillus and Other Incidents
+"They were laid out on the spotless tablecloth before him, and he was telling his cousin all about them as he slowly meandered through his dinner.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+It was his custom to live all his visits to London over again in the evening for her and his own entertainment.,0.4215,0.118,0.0,0.882,positive,The Stolen Bacillus and Other Incidents
+"""I knew something would happen to-day.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+And I have bought all these.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Some of them--some of them--I feel sure, do you know, that some of them will be remarkable.",0.7096,0.282,0.0,0.718,positive,The Stolen Bacillus and Other Incidents
+"I don't know how it is, but I feel just as sure as if someone had told me that some of these will turn out remarkable.",0.8338,0.263,0.0,0.737,positive,The Stolen Bacillus and Other Incidents
+"""That one""--he pointed to a shrivelled rhizome--""was not identified.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+It may be a Palaeonophis--or it may not.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"It may be a new species, or even a new genus.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"And it was the last that poor Batten ever collected.""",-0.4767,0.0,0.256,0.744,negative,The Stolen Bacillus and Other Incidents
+"""I don't like the look of it,"" said his housekeeper.",-0.2755,0.0,0.19,0.81,negative,The Stolen Bacillus and Other Incidents
+"""It's such an ugly shape.""",-0.5106,0.0,0.452,0.548,negative,The Stolen Bacillus and Other Incidents
+"""To me it scarcely seems to have a shape.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I don't like those things that stick out,"" said his housekeeper.",-0.2755,0.0,0.174,0.826,negative,The Stolen Bacillus and Other Incidents
+"""It shall be put away in a pot to-morrow.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""It looks,"" said the housekeeper, ""like a spider shamming dead.""",0.3612,0.238,0.0,0.762,positive,The Stolen Bacillus and Other Incidents
+Wedderburn smiled and surveyed the root with his head on one side.,0.5423,0.241,0.0,0.759,positive,The Stolen Bacillus and Other Incidents
+"""It is certainly not a pretty lump of stuff.",-0.0588,0.218,0.238,0.544,negative,The Stolen Bacillus and Other Incidents
+But you can never judge of these things from their dry appearance.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+It may turn out to be a very beautiful orchid indeed.,0.6361,0.318,0.0,0.682,positive,The Stolen Bacillus and Other Incidents
+How busy I shall be to-morrow!,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"I must see to-night just exactly what to do with these things, and to-morrow I shall set to work.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""They found poor Batten lying dead, or dying, in a mangrove swamp--I forget which,"" he began again presently, ""with one of these very orchids crushed up under his body.",-0.9411,0.0,0.407,0.593,negative,The Stolen Bacillus and Other Incidents
+"He had been unwell for some days with some kind of native fever, and I suppose he fainted.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+These mangrove swamps are very unwholesome.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Every drop of blood, they say, was taken out of him by the jungle-leeches.",-0.2732,0.0,0.139,0.861,negative,The Stolen Bacillus and Other Incidents
+"It may be that very plant that cost him his life to obtain.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I think none the better of it for that.""",-0.3412,0.0,0.231,0.769,negative,The Stolen Bacillus and Other Incidents
+"""Men must work though women may weep,"" said Wedderburn with profound gravity.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Fancy dying away from every comfort in a nasty swamp!",-0.3382,0.187,0.291,0.523,negative,The Stolen Bacillus and Other Incidents
+Fancy being ill of fever with nothing to take but chlorodyne and quinine--if men were left to themselves they would live on chlorodyne and quinine--and no one round you but horrible natives!,-0.8671,0.0,0.251,0.749,negative,The Stolen Bacillus and Other Incidents
+"They say the Andaman islanders are most disgusting wretches--and, anyhow, they can scarcely make good nurses, not having the necessary training.",-0.2666,0.104,0.146,0.751,negative,The Stolen Bacillus and Other Incidents
+"And just for people in England to have orchids!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I don't suppose it was comfortable, but some men seem to enjoy that kind of thing,"" said Wedderburn.",0.7543,0.287,0.0,0.713,positive,The Stolen Bacillus and Other Incidents
+"""Anyhow, the natives of his party were sufficiently civilised to take care of all his collection until his colleague, who was an ornithologist, came back again from the interior; though they could not tell the species of the orchid and had let it wither.",0.7096,0.123,0.0,0.877,positive,The Stolen Bacillus and Other Incidents
+"And it makes these things more interesting.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""It makes them disgusting.",-0.5267,0.0,0.531,0.469,negative,The Stolen Bacillus and Other Incidents
+I should be afraid of some of the malaria clinging to them.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"And just think, there has been a dead body lying across that ugly thing!",-0.906,0.0,0.53,0.47,negative,The Stolen Bacillus and Other Incidents
+I never thought of that before.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+There!,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"I declare I cannot eat another mouthful of dinner.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I will take them off the table if you like, and put them in the window-seat.",0.3612,0.143,0.0,0.857,positive,The Stolen Bacillus and Other Incidents
+"I can see them just as well there.""",0.2732,0.259,0.0,0.741,positive,The Stolen Bacillus and Other Incidents
+"The next few days he was indeed singularly busy in his steamy little hothouse, fussing about with charcoal, lumps of teak, moss, and all the other mysteries of the orchid cultivator.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He considered he was having a wonderfully eventful time.,0.5994,0.358,0.0,0.642,positive,The Stolen Bacillus and Other Incidents
+"In the evening he would talk about these new orchids to his friends, and over and over again he reverted to his expectation of something strange.",0.3182,0.107,0.062,0.83,positive,The Stolen Bacillus and Other Incidents
+"Several of the Vandas and the Dendrobium died under his care, but presently the strange orchid began to show signs of life.",-0.34,0.082,0.176,0.742,negative,The Stolen Bacillus and Other Incidents
+"He was delighted and took his housekeeper right away from jam-making to see it at once, directly he made the discovery.",0.5106,0.142,0.0,0.858,positive,The Stolen Bacillus and Other Incidents
+"""That is a bud,"" he said, ""and presently there will be a lot of leaves there, and those little things coming out here are akrial rootlets.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""They look to me like little white fingers poking out of the brown,"" said his housekeeper.",0.3612,0.143,0.0,0.857,positive,The Stolen Bacillus and Other Incidents
+"""I don't like them.""",-0.2755,0.0,0.413,0.587,negative,The Stolen Bacillus and Other Incidents
+"""Why not?""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I don't know.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+They look like fingers trying to get at you.,0.3612,0.238,0.0,0.762,positive,The Stolen Bacillus and Other Incidents
+"I can't help my likes and dislikes.""",-0.5559,0.0,0.534,0.466,negative,The Stolen Bacillus and Other Incidents
+"""I don't know for certain, but I don't think there are any orchids I know that have akrial rootlets quite like that.",0.5077,0.16,0.061,0.779,positive,The Stolen Bacillus and Other Incidents
+"It may be my fancy, of course.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"You see they are a little flattened at the ends.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I don't like 'em,"" said his housekeeper, suddenly shivering and turning away.",-0.2755,0.0,0.161,0.839,negative,The Stolen Bacillus and Other Incidents
+"""I know it's very silly of me--and I'm very sorry, particularly as you like the thing so much.",0.3744,0.2,0.077,0.723,positive,The Stolen Bacillus and Other Incidents
+"But I can't help thinking of that corpse.""",-0.438,0.0,0.325,0.675,negative,The Stolen Bacillus and Other Incidents
+"""But it may not be that particular plant.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"That was merely a guess of mine.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+His housekeeper shrugged her shoulders.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Anyhow I don't like it,"" she said.",-0.2755,0.0,0.297,0.703,negative,The Stolen Bacillus and Other Incidents
+Wedderburn felt a little hurt at her dislike to the plant.,-0.6915,0.0,0.416,0.584,negative,The Stolen Bacillus and Other Incidents
+"But that did not prevent his talking to her about orchids generally, and this orchid in particular, whenever he felt inclined.",-0.0286,0.0,0.053,0.947,neutral,The Stolen Bacillus and Other Incidents
+"""There are such queer things about orchids,"" he said one day; ""such possibilities of surprises.",0.2263,0.119,0.0,0.881,positive,The Stolen Bacillus and Other Incidents
+"You know, Darwin studied their fertilisation, and showed that the whole structure of an ordinary orchid-flower was contrived in order that moths might carry the pollen from plant to plant.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Well, it seems that there are lots of orchids known the flower of which cannot possibly be used for fertilisation in that way.",0.2732,0.087,0.0,0.913,positive,The Stolen Bacillus and Other Incidents
+"Some of the Cypripediums, for instance; there are no insects known that can possibly fertilise them, and some of them have never be found with seed.""",-0.296,0.0,0.081,0.919,negative,The Stolen Bacillus and Other Incidents
+"""But how do they form new plants?""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""By runners and tubers, and that kind of outgrowth.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+That is easily explained.,0.34,0.444,0.0,0.556,positive,The Stolen Bacillus and Other Incidents
+"The puzzle is, what are the flowers for?",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Very likely,"" he added, "" my orchid may be something extraordinary in that way.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+If so I shall study it.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+I have often thought of making researches as Darwin did.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"But hitherto I have not found the time, or something else has happened to prevent it.",0.0387,0.076,0.0,0.924,neutral,The Stolen Bacillus and Other Incidents
+The leaves are beginning to unfold now.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"I do wish you would come and see them!""",0.4574,0.299,0.0,0.701,positive,The Stolen Bacillus and Other Incidents
+But she said that the orchid-house was so hot it gave her the headache.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"She had seen the plant once again, and the akrial rootlets, which were now some of them more than a foot long, had unfortunately reminded her of tentacles reaching out after something; and they got into her dreams, growing after her with incredible rapidity.",0.4215,0.13,0.05,0.819,positive,The Stolen Bacillus and Other Incidents
+"So that she had settled to her entire satisfaction that she would not see that plant again, and Wedderburn had to admire its leaves alone.",0.6124,0.2,0.067,0.733,positive,The Stolen Bacillus and Other Incidents
+"They were of the ordinary broad form, and a deep glossy green, with splashes and dots of deep red towards the base.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He knew of no other leaves quite like them.,0.1513,0.233,0.183,0.584,positive,The Stolen Bacillus and Other Incidents
+"The plant was placed on a low bench near the thermometer, and close by was a simple arrangement by which a tap dripped on the hot-water pipes and kept the air steamy.",-0.2732,0.0,0.07,0.93,negative,The Stolen Bacillus and Other Incidents
+And he spent his afternoons now with some regularity meditating on the approaching flowering of this strange plant.,-0.25,0.0,0.105,0.895,negative,The Stolen Bacillus and Other Incidents
+And at last the great thing happened.,0.6249,0.406,0.0,0.594,positive,The Stolen Bacillus and Other Incidents
+"Directly he entered the little glass house he knew that the spike had burst out, although his great Palaeonophis Lowii hid the corner where his new darling stood.",0.8176,0.23,0.041,0.729,positive,The Stolen Bacillus and Other Incidents
+"There was a new odour in the air, a rich, intensely sweet scent, that overpowered every other in that crowded, steaming little greenhouse.",0.7841,0.266,0.0,0.734,positive,The Stolen Bacillus and Other Incidents
+Directly he noticed this he hurried down to the strange orchid.,-0.2023,0.0,0.153,0.847,negative,The Stolen Bacillus and Other Incidents
+"And, behold!",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"the trailing green spikes bore now three great splashes of blossom, from which this overpowering sweetness proceeded.",0.743,0.313,0.086,0.601,positive,The Stolen Bacillus and Other Incidents
+He stopped before them in an ecstasy of admiration.,0.7579,0.484,0.124,0.392,positive,The Stolen Bacillus and Other Incidents
+"The flowers were white, with streaks of golden orange upon the petals; the heavy labellum was coiled into an intricate projection, and a wonderful bluish purple mingled there with the gold.",0.6486,0.159,0.0,0.841,positive,The Stolen Bacillus and Other Incidents
+He could see at once that the genus was altogether a new one.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+And the insufferable scent!,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+How hot the place was!,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The blossoms swam before his eyes.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He would see if the temperature was right.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He made a step towards the thermometer.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Suddenly everything appeared unsteady.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The bricks on the floor were dancing up and down.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Then the white blossoms, the green leaves behind them, the whole greenhouse, seemed to sweep sideways, and then in a curve upward.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"At half-past four his cousin made the tea, according to their invariable custom.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+But Wedderburn did not come in for his tea.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""He is worshipping that horrid orchid,"" she told herself, and waited ten minutes.",-0.2263,0.152,0.205,0.643,negative,The Stolen Bacillus and Other Incidents
+"""His watch must have stopped.",-0.2263,0.0,0.322,0.678,negative,The Stolen Bacillus and Other Incidents
+"I will go and call him.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"She went straight to the hothouse, and, opening the door, called his name.",0.2263,0.137,0.0,0.863,positive,The Stolen Bacillus and Other Incidents
+There was no reply.,-0.296,0.0,0.423,0.577,negative,The Stolen Bacillus and Other Incidents
+"She noticed that the air was very close, and loaded with an intense perfume.",0.0772,0.091,0.0,0.909,positive,The Stolen Bacillus and Other Incidents
+Then she saw something lying on the bricks between the hot-water pipes.,-0.5267,0.0,0.236,0.764,negative,The Stolen Bacillus and Other Incidents
+"For a minute, perhaps, she stood motionless.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He was lying, face upward, at the foot of the strange orchid.",-0.6369,0.0,0.342,0.658,negative,The Stolen Bacillus and Other Incidents
+"The tentacle-like akrial rootlets no longer swayed freely in the air, but were crowded together, a tangle of grey ropes, and stretched tight with their ends closely applied to his chin and neck and hands.",0.1655,0.091,0.045,0.865,positive,The Stolen Bacillus and Other Incidents
+She did not understand.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Then she saw from under one of the exultant tentacles upon his cheek there trickled a little thread of blood.,0.6249,0.231,0.0,0.769,positive,The Stolen Bacillus and Other Incidents
+"With an inarticulate cry she ran towards him, and tried to pull him away from the leech-like suckers.",-0.7506,0.0,0.286,0.714,negative,The Stolen Bacillus and Other Incidents
+"She snapped two of these tentacles, and their sap dripped red.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Then the overpowering scent of the blossom began to make her head reel.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+How they clung to him!,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"She tore at the tough ropes, and he and the white inflorescence swam about her.",-0.128,0.0,0.097,0.903,negative,The Stolen Bacillus and Other Incidents
+"She felt she was fainting, knew she must not.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"She left him and hastily opened the nearest door, and, after she had panted for a moment in the fresh air, she had a brilliant inspiration.",0.8591,0.311,0.0,0.689,positive,The Stolen Bacillus and Other Incidents
+She caught up a flower-pot and smashed in the windows at the end of the green-house.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Then she re-entered.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"She tugged now with renewed strength at Wedderburn's motionless body, and brought the strange orchid crashing to the floor.",0.34,0.145,0.082,0.773,positive,The Stolen Bacillus and Other Incidents
+It still clung with the grimmest tenacity to its victim.,-0.4404,0.0,0.328,0.672,negative,The Stolen Bacillus and Other Incidents
+"In a frenzy, she lugged it and him into the open air.",-0.3182,0.0,0.187,0.813,negative,The Stolen Bacillus and Other Incidents
+"Then she thought of tearing through the sucker rootlets one by one, and in another minute she had released him and was dragging him away from the horror.",-0.7964,0.0,0.215,0.785,negative,The Stolen Bacillus and Other Incidents
+He was white and bleeding from a dozen circular patches.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The odd-job man was coming up the garden, amazed at the smashing of glass, and saw her emerge, hauling the inanimate body with red-stained hands.",0.4939,0.118,0.0,0.882,positive,The Stolen Bacillus and Other Incidents
+For a moment he thought impossible things.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Bring some water!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"she cried, and her voice dispelled his fancies.",-0.3818,0.0,0.271,0.729,negative,The Stolen Bacillus and Other Incidents
+"When, with unnatural alacrity, he returned with the water, he found her weeping with excitement, and with Wedderburn's head upon her knee, wiping the blood from his face.",0.0772,0.1,0.09,0.81,positive,The Stolen Bacillus and Other Incidents
+"""What's the matter?""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"said Wedderburn, opening his eyes feebly, and closing them again at once.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Go and tell Annie to come out here to me, and then go for Doctor Haddon at once,"" she said to the odd-job man so soon as he brought the water; and added, seeing he hesitated, ""I will tell you all about it when you come back.""",-0.3182,0.0,0.048,0.952,negative,The Stolen Bacillus and Other Incidents
+"Presently Wedderburn opened his eyes again, and, seeing that he was troubled by the puzzle of his position, she explained to him, ""You fainted in the hothouse.""",-0.4588,0.0,0.103,0.897,negative,The Stolen Bacillus and Other Incidents
+"""And the orchid?""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""I will see to that,"" she said.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Wedderburn had lost a good deal of blood, but beyond that he had suffered no very great injury.",-0.5897,0.252,0.403,0.345,negative,The Stolen Bacillus and Other Incidents
+"They gave him brandy mixed with some pink extract of meat, and carried him upstairs to bed.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+His housekeeper told her incredible story in fragments to Dr Haddon.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Come to the orchid-house and see,"" she said.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The cold outer air was blowing in through the open door, and the sickly perfume was almost dispelled.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Most of the torn akrial rootlets lay already withered amidst a number of dark stains upon the bricks.,-0.2415,0.07,0.122,0.808,negative,The Stolen Bacillus and Other Incidents
+"The stem of the inflorescence was broken by the fall of the plant, and the flowers were growing limp and brown at the edges of the petals.",-0.34,0.057,0.104,0.839,negative,The Stolen Bacillus and Other Incidents
+"The doctor stooped towards it, then saw that one of the akrial rootlets still stirred feebly, and hesitated.",-0.3182,0.0,0.119,0.881,negative,The Stolen Bacillus and Other Incidents
+"The next morning the strange orchid still lay there, black now and putrescent.",-0.2023,0.0,0.13,0.87,negative,The Stolen Bacillus and Other Incidents
+"The door banged intermittently in the morning breeze, and all the array of Wedderburn's orchids was shrivelled and prostrate.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+But Wedderburn himself was bright and garrulous upstairs in the glory of his strange adventure.,0.8847,0.467,0.089,0.444,positive,The Stolen Bacillus and Other Incidents
+"IN THE AVU OBSERVATORY The observatory at Avu, in Borneo, stands on the spur of the mountain.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"To the north rises the old crater, black at night against the unfathomable blue of the sky.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"From the little circular building, with its mushroom dome, the slopes plunge steeply downward into the black mysteries of the tropical forest beneath.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The little house in which the observer and his assistant live is about fifty yards from the observatory, and beyond this are the huts of their native attendants.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Thaddy, the chief observer, was down with a slight fever.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"His assistant, Woodhouse, paused for a moment in silent contemplation of the tropical night before commencing his solitary vigil.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The night was very still.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Now and then voices and laughter came from the native huts, or the cry of some strange animal was heard from the midst of the mystery of the forest.",-0.1779,0.094,0.144,0.762,negative,The Stolen Bacillus and Other Incidents
+"Nocturnal insects appeared in ghostly fashion out of the darkness, and fluttered round his light.",-0.25,0.0,0.125,0.875,negative,The Stolen Bacillus and Other Incidents
+"He thought, perhaps, of all the possibilities of discovery that still lay in the black tangle beneath him; for to the naturalist the virgin forests of Borneo are still a wonderland full of strange questions and half-suspected discoveries.",-0.2023,0.0,0.048,0.952,negative,The Stolen Bacillus and Other Incidents
+"Woodhouse carried a small lantern in his hand, and its yellow glow contrasted vividly with the infinite series of tints between lavender-blue and black in which the landscape was painted.",0.4939,0.103,0.0,0.897,positive,The Stolen Bacillus and Other Incidents
+His hands and face were smeared with ointment against the attacks of the mosquitoes.,-0.4404,0.0,0.182,0.818,negative,The Stolen Bacillus and Other Incidents
+"Even in these days of celestial photography, work done in a purely temporary erection, and with only the most primitive appliances in addition to the telescope, still involves a very large amount of cramped and motionless watching.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He sighed as he thought of the physical fatigues before him, stretched himself, and entered the observatory.",-0.3182,0.0,0.126,0.874,negative,The Stolen Bacillus and Other Incidents
+The reader is probably familiar with the structure of an ordinary astronomical observatory.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The building is usually cylindrical in shape, with a very light hemispherical roof capable of being turned round from the interior.",0.3818,0.12,0.0,0.88,positive,The Stolen Bacillus and Other Incidents
+"The telescope is supported upon a stone pillar in the centre, and a clockwork arrangement compensates for the earth's rotation, and allows a star once found to be continuously observed.",0.3182,0.081,0.0,0.919,positive,The Stolen Bacillus and Other Incidents
+"Besides this, there is a compact tracery of wheels and screws about its point of support, by which the astronomer adjusts it.",0.1779,0.114,0.084,0.802,positive,The Stolen Bacillus and Other Incidents
+"There is, of course, a slit in the movable roof which follows the eye of the telescope in its survey of the heavens.",0.4019,0.114,0.0,0.886,positive,The Stolen Bacillus and Other Incidents
+"The observer sits or lies on a sloping wooden arrangement, which he can wheel to any part of the observatory as the position of the telescope may require.",-0.4215,0.0,0.097,0.903,negative,The Stolen Bacillus and Other Incidents
+"Within it is advisable to have things as dark as possible, in order to enhance the brilliance of the stars observed.",0.5994,0.163,0.0,0.837,positive,The Stolen Bacillus and Other Incidents
+"The lantern flared as Woodhouse entered his circular den, and the general darkness fled into black shadows behind the big machine, from which it presently seemed to creep back over the whole place again as the light waned.",-0.25,0.0,0.051,0.949,negative,The Stolen Bacillus and Other Incidents
+"The slit was a profound transparent blue, in which six stars shone with tropical brilliance, and their light lay, a pallid gleam, along the black tube of the instrument.",0.5994,0.13,0.0,0.87,positive,The Stolen Bacillus and Other Incidents
+"Woodhouse shifted the roof, and then proceeding to the telescope, turned first one wheel and then another, the great cylinder slowly swinging into a new position.",0.6249,0.146,0.0,0.854,positive,The Stolen Bacillus and Other Incidents
+"Then he glanced through the finder, the little companion telescope, moved the roof a little more, made some further adjustments, and set the clockwork in motion.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He took off his jacket, for the night was very hot, and pushed into position the uncomfortable seat to which he was condemned for the next four hours.",-0.6705,0.0,0.175,0.825,negative,The Stolen Bacillus and Other Incidents
+Then with a sigh he resigned himself to his watch upon the mysteries of space.,-0.2263,0.073,0.132,0.795,negative,The Stolen Bacillus and Other Incidents
+"There was no sound now in the observatory, and the lantern waned steadily.",-0.296,0.0,0.155,0.845,negative,The Stolen Bacillus and Other Incidents
+"Outside there was the occasional cry of some animal in alarm or pain, or calling to its mate, and the intermittent sounds of the Malay and Dyak servants.",-0.8316,0.0,0.26,0.74,negative,The Stolen Bacillus and Other Incidents
+"Presently one of the men began a queer chanting song, in which the others joined at intervals.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"After this it would seem that they turned in for the night, for no further sound came from their direction, and the whispering stillness became more and more profound.",-0.296,0.0,0.073,0.927,negative,The Stolen Bacillus and Other Incidents
+The clockwork ticked steadily.,-0.4215,0.0,0.483,0.517,negative,The Stolen Bacillus and Other Incidents
+The shrill hum of a mosquito explored the place and grew shriller in indignation at Woodhouse's ointment.,-0.5267,0.0,0.185,0.815,negative,The Stolen Bacillus and Other Incidents
+Then the lantern went out and all the observatory was black.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Woodhouse shifted his position presently, when the slow movement of the telescope had carried it beyond the limits of his comfort.",0.3612,0.111,0.0,0.889,positive,The Stolen Bacillus and Other Incidents
+"He was watching a little group of stars in the Milky Way, in one of which his chief had seen or fancied a remarkable colour variability.",0.5574,0.135,0.0,0.865,positive,The Stolen Bacillus and Other Incidents
+"It was not a part of the regular work for which the establishment existed, and for that reason perhaps Woodhouse was deeply interested.",0.4576,0.125,0.0,0.875,positive,The Stolen Bacillus and Other Incidents
+He must have forgotten things terrestrial.,-0.2263,0.0,0.275,0.725,negative,The Stolen Bacillus and Other Incidents
+"All his attention was concentrated upon the great blue circle of the telescope field--a circle powdered, so it seemed, with an innumerable multitude of stars, and all luminous against the blackness of its setting.",0.6249,0.111,0.0,0.889,positive,The Stolen Bacillus and Other Incidents
+"As he watched he seemed to himself to become incorporeal, as if he too were floating in the ether of space.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Infinitely remote was the faint red spot he was observing.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Suddenly the stars were blotted out.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"A flash of blackness passed, and they were visible again.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Queer,"" said Woodhouse.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Must have been a bird.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The thing happened again, and immediately after the great tube shivered as though it had been struck.",0.4767,0.194,0.095,0.711,positive,The Stolen Bacillus and Other Incidents
+Then the dome of the observatory resounded with a series of thundering blows.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The stars seemed to sweep aside as the telescope--which had been undamped--swung round and away from the slit in the roof.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Great Scott!""",0.6588,0.815,0.0,0.185,positive,The Stolen Bacillus and Other Incidents
+cried Woodhouse.,-0.3818,0.0,0.722,0.278,negative,The Stolen Bacillus and Other Incidents
+"""What's this?""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Some huge vague black shape, with a flapping something like a wing, seemed to be struggling in the aperture of the roof.",0.1531,0.192,0.168,0.64,positive,The Stolen Bacillus and Other Incidents
+"In another moment the slit was clear again, and the luminous haze of the Milky Way shone warm and bright.",0.7506,0.303,0.0,0.697,positive,The Stolen Bacillus and Other Incidents
+"The interior of the roof was perfectly black, and only a scraping sound marked the whereabouts of the unknown creature.",0.6369,0.189,0.0,0.811,positive,The Stolen Bacillus and Other Incidents
+Woodhouse had scrambled from the seat to his feet.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He was trembling violently and in a perspiration with the suddenness of the occurrence.,-0.743,0.0,0.364,0.636,negative,The Stolen Bacillus and Other Incidents
+"Was the thing, whatever it was, inside or out?",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"It was big, whatever else it might be.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Something shot across the skylight, and the telescope swayed.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He started violently and put his arm up.,-0.5859,0.0,0.352,0.648,negative,The Stolen Bacillus and Other Incidents
+"It was in the observatory, then, with him.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"It was clinging to the roof, apparently.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+What the devil was it?,-0.6597,0.0,0.524,0.476,negative,The Stolen Bacillus and Other Incidents
+Could it see him?,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He stood for perhaps a minute in a state of stupefaction.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The beast, whatever it was, clawed at the interior of the dome, and then something flapped almost into his face, and he saw the momentary gleam of starlight on a skin like oiled leather.",0.3612,0.072,0.0,0.928,positive,The Stolen Bacillus and Other Incidents
+His water-bottle was knocked off his little table with a smash.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The sense of some strange bird-creature hovering a few yards from his face in the darkness was indescribably unpleasant to Woodhouse.,-0.7096,0.0,0.289,0.711,negative,The Stolen Bacillus and Other Incidents
+As his thought returned he concluded that it must be some night-bird or large bat.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"At any risk he would see what it was, and pulling a match from his pocket, he tried to strike it on the telescope seat.",-0.3818,0.0,0.141,0.859,negative,The Stolen Bacillus and Other Incidents
+"There was a smoking streak of phosphorescent light, the match flared for a moment, and he saw a vast wing sweeping towards him, a gleam of grey-brown fur, and then he was struck in the face and the match knocked out of his hand.",0.296,0.074,0.046,0.88,positive,The Stolen Bacillus and Other Incidents
+"The blow was aimed at his temple, and a claw tore sideways down to his cheek.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He reeled and fell, and he heard the extinguished lantern smash.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Another blow followed as he fell.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He was partly stunned, he felt his own warm blood stream out upon his face.",0.2006,0.119,0.069,0.812,positive,The Stolen Bacillus and Other Incidents
+"Instinctively he felt his eyes had been struck at, and, turning over on his face to protect them, tried to crawl under the protection of the telescope.",0.1531,0.088,0.068,0.845,positive,The Stolen Bacillus and Other Incidents
+"He was struck again upon the back, and he heard his jacket rip, and then the thing hit the roof of the observatory.",-0.25,0.0,0.083,0.917,negative,The Stolen Bacillus and Other Incidents
+"He edged as far as he could between the wooden seat and the eyepiece of the instrument, and turned his body round so that it was chiefly his feet that were exposed.",-0.0772,0.0,0.04,0.96,negative,The Stolen Bacillus and Other Incidents
+With these he could at least kick.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He was still in a mystified state.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The strange beast banged about in the darkness, and presently clung to the telescope, making it sway and the gear rattle.",-0.4215,0.0,0.167,0.833,negative,The Stolen Bacillus and Other Incidents
+"Once it flapped near him, and he kicked out madly and felt a soft body with his feet.",-0.4019,0.0,0.144,0.856,negative,The Stolen Bacillus and Other Incidents
+He was horribly scared now.,-0.743,0.0,0.677,0.323,negative,The Stolen Bacillus and Other Incidents
+It must be a big thing to swing the telescope like that.,0.3612,0.2,0.0,0.8,positive,The Stolen Bacillus and Other Incidents
+"He saw for a moment the outline of a head black against the starlight, with sharply-pointed upstanding ears and a crest between them.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+It seemed to him to be as big as a mastiff's.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Then he began to bawl out as loudly as he could for help.,0.4019,0.184,0.0,0.816,positive,The Stolen Bacillus and Other Incidents
+At that the thing came down upon him again.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+As it did so his hand touched something beside him on the floor.,0.539,0.225,0.0,0.775,positive,The Stolen Bacillus and Other Incidents
+"He kicked out, and the next moment his ankle was gripped and held by a row of keen teeth.",0.3612,0.128,0.0,0.872,positive,The Stolen Bacillus and Other Incidents
+"He yelled again, and tried to free his leg by kicking with the other.",0.5106,0.202,0.0,0.798,positive,The Stolen Bacillus and Other Incidents
+"Then he realised he had the broken water-bottle at his hand, and, snatching it, he struggled into a sitting posture, and feeling in the darkness towards his foot, gripped a velvety ear, like the ear of a big cat.",-0.0772,0.161,0.168,0.671,negative,The Stolen Bacillus and Other Incidents
+He had seized the water-bottle by its neck and brought it down with a shivering crash upon the head of the strange beast.,-0.5423,0.0,0.184,0.816,negative,The Stolen Bacillus and Other Incidents
+"He repeated the blow, and then stabbed and jobbed with the jagged end of it, in the darkness, where he judged the face might be.",-0.5994,0.0,0.176,0.824,negative,The Stolen Bacillus and Other Incidents
+"The small teeth relaxed their hold, and at once Woodhouse pulled his leg free and kicked hard.",0.7269,0.297,0.064,0.639,positive,The Stolen Bacillus and Other Incidents
+He felt the sickening feel of fur and bone giving under his boot.,-0.25,0.143,0.202,0.655,negative,The Stolen Bacillus and Other Incidents
+"There was a tearing bite at his arm, and he struck over it at the face, as he judged, and hit damp fur.",-0.25,0.0,0.087,0.913,negative,The Stolen Bacillus and Other Incidents
+There was a pause; then he heard the sound of claws and the dragging of a heavy body away from him over the observatory floor.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Then there was silence, broken only by his own sobbing breathing, and a sound like licking.",-0.4939,0.124,0.282,0.594,negative,The Stolen Bacillus and Other Incidents
+"Everything was black except the parallelogram of the blue skylight with the luminous dust of stars, against which the end of the telescope now appeared in silhouette.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He waited, as it seemed, an interminable time.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Was the thing coming on again?,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He felt in his trouser-pocket for some matches, and found one remaining.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He tried to strike this, but the floor was wet, and it spat and went out.",-0.0644,0.0,0.077,0.923,negative,The Stolen Bacillus and Other Incidents
+He cursed.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He could not see where the door was situated.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+In his struggle he had quite lost his bearings.,-0.5984,0.0,0.411,0.589,negative,The Stolen Bacillus and Other Incidents
+"The strange beast, disturbed by the splutter of the match, began to move again.",-0.5267,0.0,0.268,0.732,negative,The Stolen Bacillus and Other Incidents
+"""Time!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"called Woodhouse, with a sudden gleam of mirth, but the thing was not coming at him again.",0.3182,0.133,0.0,0.867,positive,The Stolen Bacillus and Other Incidents
+"He must have hurt it, he thought, with the broken bottle.",-0.7579,0.0,0.419,0.581,negative,The Stolen Bacillus and Other Incidents
+He felt a dull pain in his ankle.,-0.7184,0.0,0.545,0.455,negative,The Stolen Bacillus and Other Incidents
+Probably he was bleeding there.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He wondered if it would support him if he tried to stand up.,0.4019,0.184,0.0,0.816,positive,The Stolen Bacillus and Other Incidents
+The night outside was very still.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+There was no sound of any one moving.,-0.296,0.0,0.239,0.761,negative,The Stolen Bacillus and Other Incidents
+"The sleepy fools had not heard those wings battering upon the dome, nor his shouts.",-0.4939,0.0,0.186,0.814,negative,The Stolen Bacillus and Other Incidents
+It was no good wasting strength in shouting.,0.296,0.407,0.327,0.267,positive,The Stolen Bacillus and Other Incidents
+The monster flapped its wings and startled him into a defensive attitude.,-0.1531,0.093,0.144,0.763,negative,The Stolen Bacillus and Other Incidents
+"He hit his elbow against the seat, and it fell over with a crash.",-0.4019,0.0,0.184,0.816,negative,The Stolen Bacillus and Other Incidents
+"He cursed this, and then he cursed the darkness.",-0.25,0.0,0.2,0.8,negative,The Stolen Bacillus and Other Incidents
+Suddenly the oblong patch of starlight seemed to sway to and fro.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Was he going to faint?,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+It would never do to faint.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He clenched his fists and set his teeth to hold himself together.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Where had the door got to?,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+It occurred to him he could get his bearings by the stars visible through the skylight.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The patch of stars he saw was in Sagittarius and south-eastward; the door was north--or was it north by west?,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He tried to think.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+If he could get the door open he might retreat.,0.2023,0.167,0.0,0.833,positive,The Stolen Bacillus and Other Incidents
+It might be the thing was wounded.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+The suspense was beastly.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Look here!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"he said, ""if you don't come on, I shall come at you.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Then the thing began clambering up the side of the observatory, and he saw its black outline gradually blot out the skylight.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Was it in retreat?,0.2023,0.375,0.0,0.625,positive,The Stolen Bacillus and Other Incidents
+"He forgot about the door, and watched as the dome shifted and creaked.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Somehow he did not feel very frightened or excited now.,0.647,0.398,0.0,0.602,positive,The Stolen Bacillus and Other Incidents
+He felt a curious sinking sensation inside him.,0.3182,0.277,0.0,0.723,positive,The Stolen Bacillus and Other Incidents
+"The sharply-defined patch of light, with the black form moving across it, seemed to be growing smaller and smaller.",0.1779,0.086,0.0,0.914,positive,The Stolen Bacillus and Other Incidents
+That was curious.,0.3182,0.535,0.0,0.465,positive,The Stolen Bacillus and Other Incidents
+"He began to feel very thirsty, and yet he did not feel inclined to get anything to drink.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He seemed to be sliding down a long funnel.,0.0258,0.136,0.0,0.864,neutral,The Stolen Bacillus and Other Incidents
+"He felt a burning sensation in his throat, and then he perceived it was broad daylight, and that one of the Dyak servants was looking at him with a curious expression.",0.3182,0.076,0.0,0.924,positive,The Stolen Bacillus and Other Incidents
+Then there was the top of Thaddy's face upside down.,0.2023,0.167,0.0,0.833,positive,The Stolen Bacillus and Other Incidents
+"Funny fellow, Thaddy, to go about like that!",0.69,0.487,0.0,0.513,positive,The Stolen Bacillus and Other Incidents
+"Then he grasped the situation better, and perceived that his head was on Thaddy's knee, and Thaddy was giving him brandy.",0.6486,0.218,0.0,0.782,positive,The Stolen Bacillus and Other Incidents
+And then he saw the eyepiece of the telescope with a lot of red smears on it.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He began to remember.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""You've made this observatory in a pretty mess,"" said Thaddy.",0.4939,0.286,0.0,0.714,positive,The Stolen Bacillus and Other Incidents
+The Dyak boy was beating up an egg in brandy.,-0.4588,0.0,0.25,0.75,negative,The Stolen Bacillus and Other Incidents
+Woodhouse took this and sat up.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He felt a sharp twinge of pain.,-0.5106,0.0,0.398,0.602,negative,The Stolen Bacillus and Other Incidents
+"His ankle was tied up, so were his arm and the side of his face.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The smashed glass, red-stained, lay about the floor, the telescope seat was overturned, and by the opposite wall was a dark pool.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"The door was open, and he saw the grey summit of the mountain against a brilliant background of blue sky.",0.6124,0.227,0.0,0.773,positive,The Stolen Bacillus and Other Incidents
+"""Pah!""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+said Woodhouse.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Who's been killing calves here?",-0.6597,0.0,0.524,0.476,negative,The Stolen Bacillus and Other Incidents
+"Take me out of it.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Then he remembered the Thing, and the fight he had had with it.",-0.3818,0.0,0.178,0.822,negative,The Stolen Bacillus and Other Incidents
+"""What was it?""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"he said to Thaddy--""The Thing I fought with?""",-0.3182,0.0,0.277,0.723,negative,The Stolen Bacillus and Other Incidents
+""" You know that best,"" said Thaddy.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""But, anyhow, don't worry yourself now about it.",0.3412,0.256,0.0,0.744,positive,The Stolen Bacillus and Other Incidents
+"Have some more to drink.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Thaddy, however, was curious enough, and it was a hard struggle between duty and inclination to keep Woodhouse quiet until he was decently put away in bed, and had slept upon the copious dose of meat-extract Thaddy considered advisable.",-0.1027,0.056,0.09,0.854,negative,The Stolen Bacillus and Other Incidents
+They then talked it over together.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""It was,"" said Woodhouse, ""more like a big bat than anything else in the world.",0.4201,0.177,0.0,0.823,positive,The Stolen Bacillus and Other Incidents
+"It had sharp, short ears, and soft fur, and its wings were leathery.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Its teeth were little, but devilish sharp, and its jaw could not have been very strong or else it would have bitten through my ankle.""",0.2862,0.155,0.118,0.727,positive,The Stolen Bacillus and Other Incidents
+"""It has pretty nearly,"" said Thaddy.",0.4939,0.39,0.0,0.61,positive,The Stolen Bacillus and Other Incidents
+"""It seemed to me to hit out with its claws pretty freely.",0.7269,0.379,0.0,0.621,positive,The Stolen Bacillus and Other Incidents
+That is about as much as I know about the beast.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Our conversation was intimate, so to speak, and yet not confidential.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""The Dyak chaps talk about a Big Colugo, a Klang-utang--whatever that may be.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"It does not often attack man, but I suppose you made it nervous.",-0.2199,0.123,0.184,0.693,negative,The Stolen Bacillus and Other Incidents
+"They say there is a Big Colugo and a Little Colugo, and a something else that sounds like gobble.",0.3612,0.143,0.0,0.857,positive,The Stolen Bacillus and Other Incidents
+They all fly about at night.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"For my own part I know there are flying foxes and flying lemurs about here, but they are none of them very big beasts.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""There are more things in heaven and earth,"" said Woodhouse--and Thaddy groaned at the quotation--""and more particularly in the forests of Borneo, than are dreamt of in our philosophies.",0.552,0.113,0.0,0.887,positive,The Stolen Bacillus and Other Incidents
+"On the whole, if the Borneo fauna is going to disgorge any more of its novelties upon me, I should prefer that it did so when I was not occupied in the observatory at night and alone.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+THE TRIUMPHS OF A TAXIDERMIST Here are some of the secrets of taxidermy.,0.5766,0.253,0.0,0.747,positive,The Stolen Bacillus and Other Incidents
+They were told me by the taxidermist in a mood of elation.,0.3612,0.2,0.0,0.8,positive,The Stolen Bacillus and Other Incidents
+"He told me them in the time between the first glass of whisky and the fourth, when a man is no longer cautious and yet not drunk.",-0.1441,0.071,0.126,0.803,negative,The Stolen Bacillus and Other Incidents
+"We sat in his den together; his library it was, his sitting and his eating-room--separated by a bead curtain, so far as the sense of sight went, from the noisome den where he plied his trade.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"He sat on a deck chair, and when he was not tapping refractory bits of coal with them, he kept his feet--on which he wore, after the manner of sandals, the holy relics of a pair of carpet slippers--out of the way upon the mantel-piece, among the glass eyes.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"And his trousers, by-the-by--though they have nothing to do with his triumphs--were a most horrible yellow plaid, such as they made when our fathers wore side-whiskers and there were crinolines in the land.",-0.5849,0.0,0.109,0.891,negative,The Stolen Bacillus and Other Incidents
+"Further, his hair was black, his face rosy, and his eye a fiery brown; and his coat was chiefly of grease upon a basis of velveteen.",-0.34,0.0,0.094,0.906,negative,The Stolen Bacillus and Other Incidents
+"And his pipe had a bowl of china showing the Graces, and his spectacles were always askew, the left eye glaring nakedly at you, small and penetrating; the right, seen through a glass darkly, magnified and mild.",0.3818,0.071,0.0,0.929,positive,The Stolen Bacillus and Other Incidents
+"Thus his discourse ran: ""There never was a man who could stuff like me, Bellows, never.",0.3612,0.152,0.0,0.848,positive,The Stolen Bacillus and Other Incidents
+"I have stuffed elephants and I have stuffed moths, and the things have looked all the livelier and better for it.",0.6808,0.248,0.0,0.752,positive,The Stolen Bacillus and Other Incidents
+And I have stuffed human beings--chiefly amateur ornithologists.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+But I stuffed a nigger once.,-0.7876,0.0,0.665,0.335,negative,The Stolen Bacillus and Other Incidents
+"""No, there is no law against it.",-0.296,0.0,0.268,0.732,negative,The Stolen Bacillus and Other Incidents
+"I made him with all his fingers out and used him as a hat-rack, but that fool Homersby got up a quarrel with him late one night and spoilt him.",-0.5927,0.0,0.129,0.871,negative,The Stolen Bacillus and Other Incidents
+That was before your time.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"It is hard to get skins, or I would have another.",-0.1027,0.0,0.135,0.865,negative,The Stolen Bacillus and Other Incidents
+"""Unpleasant?",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+I don't see it.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Seems to me taxidermy is a promising third course to burial or cremation.,0.4019,0.197,0.0,0.803,positive,The Stolen Bacillus and Other Incidents
+You could keep all your dear ones by you.,0.3818,0.245,0.0,0.755,positive,The Stolen Bacillus and Other Incidents
+"Bric-`-brac of that sort stuck about the house would be as good as most company, and much less expensive.",0.2263,0.132,0.091,0.776,positive,The Stolen Bacillus and Other Incidents
+You might have them fitted up with clockwork to do things.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""Of course they would have to be varnished, but they need not shine more than lots of people do naturally.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+Old Manningtree's bald head....,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"Anyhow, you could talk to them without interruption.",0.2755,0.232,0.0,0.768,positive,The Stolen Bacillus and Other Incidents
+Even aunts.,0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"There is a great future before taxidermy, depend upon it.",0.6249,0.339,0.0,0.661,positive,The Stolen Bacillus and Other Incidents
+"There is fossils again...."" He suddenly became silent.",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+"""No, I don't think I ought to tell you that.""",0.0,0.0,0.0,1.0,neutral,The Stolen Bacillus and Other Incidents
+He sucked at his pipe t,-0.4588,0.0,0.429,0.571,negative,The Stolen Bacillus and Other Incidents

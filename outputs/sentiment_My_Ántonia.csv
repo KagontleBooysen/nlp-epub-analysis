@@ -1,0 +1,510 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of My Ántonia This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.07,0.109,0.821,negative,My Ántonia
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,My Ántonia
+"Title : My Ántonia Author : Willa Cather Release date : July 11, 2008 [eBook #242] Most recently updated: July 15, 2022 Language : English Other information and formats : www.gutenberg.org/ebooks/242 Credits : Judith Boss, Martin Robb and David Widger *** START OF THE PROJECT GUTENBERG EBOOK MY ÁNTONIA *** MY ÁNTONIA By Willa Cather TO CARRIE AND IRENE MINER In memory of affections old and true Optima dies... prima fugit VIRGIL CONTENTS INTRODUCTION BOOK I.",0.7783,0.104,0.0,0.896,positive,My Ántonia
+The Shimerdas I II III IV V VI VII VIII IX X XI XII XIII XIV XV XVI XVII XVIII XIX BOOK II.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+The Hired Girls I II III IV V VI VII VIII IX X XI XII XIII XIV XV BOOK III.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+Lena Lingard I II III IV BOOK IV.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The Pioneer Woman's Story I II III IV BOOK V. Cuzak's Boys I II III INTRODUCTION Last summer I happened to be crossing the plains of Iowa in a season of intense heat, and it was my good fortune to have for a traveling companion James Quayle Burden--Jim Burden, as we still call him in the West.",0.0772,0.075,0.052,0.873,positive,My Ántonia
+He and I are old friends--we grew up together in the same Nebraska town--and we had much to say to each other.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"While the train flashed through never-ending miles of ripe wheat, by country towns and bright-flowered pastures and oak groves wilting in the sun, we sat in the observation car, where the woodwork was hot to the touch and red dust lay deep over everything.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The dust and heat, the burning wind, reminded us of many things.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"We were talking about what it is like to spend one's childhood in little towns like these, buried in wheat and corn, under stimulating extremes of climate: burning summers when the world lies green and billowy beneath a brilliant sky, when one is fairly stifled in vegetation, in the color and smell of strong weeds and heavy harvests; blustery winters with little snow, when the whole country is stripped bare and gray as sheet-iron.",0.8689,0.174,0.06,0.766,positive,My Ántonia
+We agreed that no one who had not grown up in a little prairie town could know anything about it.,-0.0258,0.099,0.103,0.798,neutral,My Ántonia
+"It was a kind of freemasonry, we said.",0.0018,0.144,0.0,0.856,neutral,My Ántonia
+"Although Jim Burden and I both live in New York, and are old friends, I do not see much of him there.",0.0516,0.129,0.121,0.75,positive,My Ántonia
+"He is legal counsel for one of the great Western railways, and is sometimes away from his New York office for weeks together.",0.6808,0.211,0.0,0.789,positive,My Ántonia
+That is one reason why we do not often meet.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+Another is that I do not like his wife.,-0.2755,0.0,0.232,0.768,negative,My Ántonia
+"When Jim was still an obscure young lawyer, struggling to make his way in New York, his career was suddenly advanced by a brilliant marriage.",0.4588,0.196,0.095,0.709,positive,My Ántonia
+Genevieve Whitney was the only daughter of a distinguished man.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+Her marriage with young Burden was the subject of sharp comment at the time.,-0.4404,0.0,0.182,0.818,negative,My Ántonia
+"It was said she had been brutally jilted by her cousin, Rutland Whitney, and that she married this unknown man from the West out of bravado.",-0.6124,0.0,0.138,0.862,negative,My Ántonia
+"She was a restless, headstrong girl, even then, who liked to astonish her friends.",0.5859,0.328,0.117,0.556,positive,My Ántonia
+"Later, when I knew her, she was always doing something unexpected.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She gave one of her town houses for a Suffrage headquarters, produced one of her own plays at the Princess Theater, was arrested for picketing during a garment-makers' strike, etc.",-0.3818,0.063,0.146,0.791,negative,My Ántonia
+I am never able to believe that she has much feeling for the causes to which she lends her name and her fleeting interest.,0.5423,0.176,0.0,0.824,positive,My Ántonia
+"She is handsome, energetic, executive, but to me she seems unimpressionable and temperamentally incapable of enthusiasm.",0.5423,0.339,0.146,0.515,positive,My Ántonia
+"Her husband's quiet tastes irritate her, I think, and she finds it worth while to play the patroness to a group of young poets and painters of advanced ideas and mediocre ability.",0.5859,0.236,0.077,0.687,positive,My Ántonia
+She has her own fortune and lives her own life.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"For some reason, she wishes to remain Mrs. James Burden.",-0.3182,0.128,0.232,0.64,negative,My Ántonia
+"As for Jim, no disappointments have been severe enough to chill his naturally romantic and ardent disposition.",-0.25,0.227,0.305,0.469,negative,My Ántonia
+"This disposition, though it often made him seem very funny when he was a boy, has been one of the strongest elements in his success.",0.8687,0.318,0.0,0.682,positive,My Ántonia
+He loves with a personal passion the great country through which his railway runs and branches.,0.8957,0.474,0.0,0.526,positive,My Ántonia
+His faith in it and his knowledge of it have played an important part in its development.,0.7184,0.333,0.0,0.667,positive,My Ántonia
+"He is always able to raise capital for new enterprises in Wyoming or Montana, and has helped young men out there to do remarkable things in mines and timber and oil.",0.5574,0.107,0.0,0.893,positive,My Ántonia
+"If a young man with an idea can once get Jim Burden's attention, can manage to accompany him when he goes off into the wilds hunting for lost parks or exploring new canyons, then the money which means action is usually forthcoming.",-0.3182,0.0,0.054,0.946,negative,My Ántonia
+Jim is still able to lose himself in those big Western dreams.,0.0,0.175,0.175,0.649,neutral,My Ántonia
+"Though he is over forty now, he meets new people and new enterprises with the impulsiveness by which his boyhood friends remember him.",0.4767,0.124,0.0,0.876,positive,My Ántonia
+He never seems to me to grow older.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"His fresh color and sandy hair and quick-changing blue eyes are those of a young man, and his sympathetic, solicitous interest in women is as youthful as it is Western and American.",0.872,0.288,0.0,0.712,positive,My Ántonia
+"During that burning day when we were crossing Iowa, our talk kept returning to a central figure, a Bohemian girl whom we had known long ago and whom both of us admired.",0.5106,0.102,0.0,0.898,positive,My Ántonia
+"More than any other person we remembered, this girl seemed to mean to us the country, the conditions, the whole adventure of our childhood.",0.3182,0.091,0.0,0.909,positive,My Ántonia
+"To speak her name was to call up pictures of people and places, to set a quiet drama going in one's brain.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I had lost sight of her altogether, but Jim had found her again after long years, had renewed a friendship that meant a great deal to him, and out of his busy life had set apart time enough to enjoy that friendship.",0.9584,0.331,0.031,0.638,positive,My Ántonia
+His mind was full of her that day.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He made me see her again, feel her presence, revived all my old affection for her.",0.5267,0.185,0.0,0.815,positive,My Ántonia
+"""I can't see,"" he said impetuously, ""why you have never written anything about Ántonia.""",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I told him I had always felt that other people--he himself, for one knew her much better than I. I was ready, however, to make an agreement with him; I would set down on paper all that I remembered of Ántonia if he would do the same.",0.8225,0.181,0.0,0.819,positive,My Ántonia
+"We might, in this way, get a picture of her.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He rumpled his hair with a quick, excited gesture, which with him often announces a new determination, and I could see that my suggestion took hold of him.",0.6249,0.181,0.0,0.819,positive,My Ántonia
+"""Maybe I will, maybe I will!""",0.0,0.0,0.0,1.0,neutral,My Ántonia
+he declared.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He stared out of the window for a few moments, and when he turned to me again his eyes had the sudden clearness that comes from something the mind itself sees.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"""Of course,"" he said, ""I should have to do it in a direct way, and say a great deal about myself.",0.6249,0.186,0.0,0.814,positive,My Ántonia
+"It's through myself that I knew and felt her, and I've had no practice in any other form of presentation.""",-0.296,0.0,0.109,0.891,negative,My Ántonia
+I told him that how he knew her and felt her was exactly what I most wanted to know about Ántonia.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He had had opportunities that I, as a little girl who watched her come and go, had not.",0.3818,0.14,0.0,0.86,positive,My Ántonia
+"Months afterward Jim Burden arrived at my apartment one stormy winter afternoon, with a bulging legal portfolio sheltered under his fur overcoat.",-0.34,0.064,0.124,0.812,negative,My Ántonia
+He brought it into the sitting-room with him and tapped it with some pride as he stood warming his hands.,0.4588,0.182,0.0,0.818,positive,My Ántonia
+"""I finished it last night--the thing about Ántonia,"" he said.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"""Now, what about yours?""",0.0,0.0,0.0,1.0,neutral,My Ántonia
+I had to confess that mine had not gone beyond a few straggling notes.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"""Notes?",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I didn't make any.""",0.0,0.0,0.0,1.0,neutral,My Ántonia
+He drank his tea all at once and put down the cup.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"""I didn't arrange or rearrange.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+I simply wrote down what of herself and myself and other people Ántonia's name recalls to me.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+I suppose it hasn't any form.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"It hasn't any title, either.""",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He went into the next room, sat down at my desk and wrote on the pinkish face of the portfolio the word, ""Ántonia.""",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He frowned at this a moment, then prefixed another word, making it ""My Ántonia.""",0.0,0.0,0.0,1.0,neutral,My Ántonia
+That seemed to satisfy him.,0.4588,0.429,0.0,0.571,positive,My Ántonia
+"""Read it as soon as you can,"" he said, rising, ""but don't let it influence your own story.""",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"My own story was never written, but the following narrative is Jim's manuscript, substantially as he brought it to me.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"NOTE: The Bohemian name Ántonia is strongly accented on the first syllable, like the English name Anthony, and the 'i' is, of course, given the sound of long 'e'.",0.5574,0.146,0.0,0.854,positive,My Ántonia
+The name is pronounced An'-ton-ee-ah.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+BOOK I.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+The Shimerdas I I first heard of Ántonia on what seemed to me an interminable journey across the great midland plain of North America.,0.6249,0.163,0.0,0.837,positive,My Ántonia
+"I was ten years old then; I had lost both my father and mother within a year, and my Virginia relatives were sending me out to my grandparents, who lived in Nebraska.",-0.3182,0.0,0.076,0.924,negative,My Ántonia
+"I travelled in the care of a mountain boy, Jake Marpole, one of the 'hands' on my father's old farm under the Blue Ridge, who was now going West to work for my grandfather.",0.4939,0.094,0.0,0.906,positive,My Ántonia
+Jake's experience of the world was not much wider than mine.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+He had never been in a railway train until the morning when we set out together to try our fortunes in a new world.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"We went all the way in day-coaches, becoming more sticky and grimy with each stage of the journey.",-0.4703,0.0,0.153,0.847,negative,My Ántonia
+"Jake bought everything the newsboys offered him: candy, oranges, brass collar buttons, a watch-charm, and for me a 'Life of Jesse James,' which I remember as one of the most satisfactory books I have ever read.",0.4201,0.083,0.0,0.917,positive,My Ántonia
+"Beyond Chicago we were under the protection of a friendly passenger conductor, who knew all about the country to which we were going and gave us a great deal of advice in exchange for our confidence.",0.891,0.255,0.0,0.745,positive,My Ántonia
+He seemed to us an experienced and worldly man who had been almost everywhere; in his conversation he threw out lightly the names of distant states and cities.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+He wore the rings and pins and badges of different fraternal orders to which he belonged.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Even his cuff-buttons were engraved with hieroglyphics, and he was more inscribed than an Egyptian obelisk.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Once when he sat down to chat, he told us that in the immigrant car ahead there was a family from 'across the water' whose destination was the same as ours.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"'They can't any of them speak English, except one little girl, and all she can say is ""We go Black Hawk, Nebraska.""",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She's not much older than you, twelve or thirteen, maybe, and she's as bright as a new dollar.",0.4404,0.153,0.0,0.847,positive,My Ántonia
+"Don't you want to go ahead and see her, Jimmy?",-0.0572,0.0,0.12,0.88,negative,My Ántonia
+"She's got the pretty brown eyes, too!'",0.5411,0.368,0.0,0.632,positive,My Ántonia
+"This last remark made me bashful, and I shook my head and settled down to 'Jesse James.'",-0.128,0.0,0.152,0.848,negative,My Ántonia
+Jake nodded at me approvingly and said you were likely to get diseases from foreigners.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I do not remember crossing the Missouri River, or anything about the long day's journey through Nebraska.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Probably by that time I had crossed so many rivers that I was dull to them.,-0.4019,0.0,0.172,0.828,negative,My Ántonia
+"The only thing very noticeable about Nebraska was that it was still, all day long, Nebraska.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I had been sleeping, curled up in a red plush seat, for a long while when we reached Black Hawk.",0.1027,0.08,0.0,0.92,positive,My Ántonia
+Jake roused me and took me by the hand.,0.4939,0.286,0.0,0.714,positive,My Ántonia
+"We stumbled down from the train to a wooden siding, where men were running about with lanterns.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I couldn't see any town, or even distant lights; we were surrounded by utter darkness.",-0.25,0.0,0.133,0.867,negative,My Ántonia
+The engine was panting heavily after its long run.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"In the red glow from the fire-box, a group of people stood huddled together on the platform, encumbered by bundles and boxes.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+I knew this must be the immigrant family the conductor had told us about.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The woman wore a fringed shawl tied over her head, and she carried a little tin trunk in her arms, hugging it as if it were a baby.",0.4215,0.104,0.0,0.896,positive,My Ántonia
+"There was an old man, tall and stooped.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Two half-grown boys and a girl stood holding oilcloth bundles, and a little girl clung to her mother's skirts.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Presently a man with a lantern approached them and began to talk, shouting and exclaiming.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I pricked up my ears, for it was positively the first time I had ever heard a foreign tongue.",0.4215,0.179,0.084,0.737,positive,My Ántonia
+Another lantern came along.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"A bantering voice called out: 'Hello, are you Mr.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Burden's folks?,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"If you are, it's me you're looking for.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+I'm Otto Fuchs.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+I'm Mr.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Burden's hired man, and I'm to drive you out.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Hello, Jimmy, ain't you scared to come so far west?'",0.3412,0.211,0.0,0.789,positive,My Ántonia
+I looked up with interest at the new face in the lantern-light.,0.4588,0.231,0.0,0.769,positive,My Ántonia
+He might have stepped out of the pages of 'Jesse James.',0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He wore a sombrero hat, with a wide leather band and a bright buckle, and the ends of his moustache were twisted up stiffly, like little horns.",0.6597,0.197,0.0,0.803,positive,My Ántonia
+"He looked lively and ferocious, I thought, and as if he had a history.",0.3612,0.203,0.098,0.699,positive,My Ántonia
+A long scar ran across one cheek and drew the corner of his mouth up in a sinister curl.,-0.5994,0.0,0.196,0.804,negative,My Ántonia
+"The top of his left ear was gone, and his skin was brown as an Indian's.",0.2023,0.107,0.0,0.893,positive,My Ántonia
+Surely this was the face of a desperado.,0.4404,0.326,0.0,0.674,positive,My Ántonia
+"As he walked about the platform in his high-heeled boots, looking for our trunks, I saw that he was a rather slight man, quick and wiry, and light on his feet.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He told us we had a long night drive ahead of us, and had better be on the hike.",0.4404,0.146,0.0,0.854,positive,My Ántonia
+"He led us to a hitching-bar where two farm-wagons were tied, and I saw the foreign family crowding into one of them.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+The other was for us.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Jake got on the front seat with Otto Fuchs, and I rode on the straw in the bottom of the wagon-box, covered up with a buffalo hide.",-0.1779,0.0,0.066,0.934,negative,My Ántonia
+"The immigrants rumbled off into the empty darkness, and we followed them.",-0.4215,0.0,0.275,0.725,negative,My Ántonia
+"I tried to go to sleep, but the jolting made me bite my tongue, and I soon began to ache all over.",-0.5267,0.0,0.152,0.848,negative,My Ántonia
+"When the straw settled down, I had a hard bed.",-0.1027,0.0,0.167,0.833,negative,My Ántonia
+"Cautiously I slipped from under the buffalo hide, got up on my knees and peered over the side of the wagon.",-0.1779,0.0,0.082,0.918,negative,My Ántonia
+"There seemed to be nothing to see; no fences, no creeks or trees, no hills or fields.",0.5667,0.288,0.0,0.712,positive,My Ántonia
+"If there was a road, I could not make it out in the faint starlight.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"There was nothing but land: not a country at all, but the material out of which countries are made.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"No, there was nothing but land--slightly undulating, I knew, because often our wheels ground against the brake as we went down into a hollow and lurched up again on the other side.",-0.1531,0.0,0.052,0.948,negative,My Ántonia
+"I had the feeling that the world was left behind, that we had got over the edge of it, and were outside man's jurisdiction.",0.128,0.064,0.0,0.936,positive,My Ántonia
+I had never before looked up at the sky when there was not a familiar mountain ridge against it.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"But this was the complete dome of heaven, all there was of it.",0.6652,0.271,0.0,0.729,positive,My Ántonia
+"I did not believe that my dead father and mother were watching me from up there; they would still be looking for me at the sheep-fold down by the creek, or along the white road that led to the mountain pastures.",-0.6486,0.0,0.099,0.901,negative,My Ántonia
+I had left even their spirits behind me.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The wagon jolted on, carrying me I knew not whither.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+I don't think I was homesick.,0.1326,0.336,0.0,0.664,positive,My Ántonia
+"If we never arrived anywhere, it did not matter.",-0.0191,0.0,0.118,0.882,neutral,My Ántonia
+"Between that earth and that sky I felt erased, blotted out.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I did not say my prayers that night: here, I felt, what would be would be.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"II I do not remember our arrival at my grandfather's farm sometime before daybreak, after a drive of nearly twenty miles with heavy work-horses.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"When I awoke, it was afternoon.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I was lying in a little room, scarcely larger than the bed that held me, and the window-shade at my head was flapping softly in a warm wind.",-0.3612,0.067,0.12,0.813,negative,My Ántonia
+"A tall woman, with wrinkled brown skin and black hair, stood looking down at me; I knew that she must be my grandmother.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She had been crying, I could see, but when I opened my eyes she smiled, peered at me anxiously, and sat down on the foot of my bed.",0.3291,0.148,0.137,0.715,positive,My Ántonia
+"'Had a good sleep, Jimmy?'",0.4404,0.492,0.0,0.508,positive,My Ántonia
+she asked briskly.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Then in a very different tone she said, as if to herself, 'My, how you do look like your father!'",0.4199,0.134,0.0,0.866,positive,My Ántonia
+I remembered that my father had been her little boy; she must often have come to wake him like this when he overslept.,0.3612,0.106,0.0,0.894,positive,My Ántonia
+"'Here are your clean clothes,' she went on, stroking my coverlid with her brown hand as she talked.",0.7096,0.269,0.0,0.731,positive,My Ántonia
+"'But first you come down to the kitchen with me, and have a nice warm bath behind the stove.",0.7227,0.274,0.0,0.726,positive,My Ántonia
+Bring your things; there's nobody about.',0.0,0.0,0.0,1.0,neutral,My Ántonia
+'Down to the kitchen' struck me as curious; it was always 'out in the kitchen' at home.,0.0772,0.119,0.104,0.777,positive,My Ántonia
+I picked up my shoes and stockings and followed her through the living-room and down a flight of stairs into a basement.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+This basement was divided into a dining-room at the right of the stairs and a kitchen at the left.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Both rooms were plastered and whitewashed--the plaster laid directly upon the earth walls, as it used to be in dugouts.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+The floor was of hard cement.,-0.1027,0.0,0.219,0.781,negative,My Ántonia
+"Up under the wooden ceiling there were little half-windows with white curtains, and pots of geraniums and wandering Jew in the deep sills.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"As I entered the kitchen, I sniffed a pleasant smell of gingerbread baking.",0.5106,0.268,0.0,0.732,positive,My Ántonia
+"The stove was very large, with bright nickel trimmings, and behind it there was a long wooden bench against the wall, and a tin washtub, into which grandmother poured hot and cold water.",0.4877,0.095,0.0,0.905,positive,My Ántonia
+"When she brought the soap and towels, I told her that I was used to taking my bath without help.",-0.3089,0.0,0.117,0.883,negative,My Ántonia
+"'Can you do your ears, Jimmy?",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Are you sure?,0.3182,0.535,0.0,0.465,positive,My Ántonia
+"Well, now, I call you a right smart little boy.'",0.5859,0.444,0.0,0.556,positive,My Ántonia
+It was pleasant there in the kitchen.,0.5106,0.355,0.0,0.645,positive,My Ántonia
+"The sun shone into my bath-water through the west half-window, and a big Maltese cat came up and rubbed himself against the tub, watching me curiously.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"While I scrubbed, my grandmother busied herself in the dining-room until I called anxiously, 'Grandmother, I'm afraid the cakes are burning!'",-0.2942,0.0,0.109,0.891,negative,My Ántonia
+"Then she came laughing, waving her apron before her as if she were shooing chickens.",0.4939,0.186,0.0,0.814,positive,My Ántonia
+"She was a spare, tall woman, a little stooped, and she was apt to carry her head thrust forward in an attitude of attention, as if she were looking at something, or listening to something, far away.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"As I grew older, I came to believe that it was only because she was so often thinking of things that were far away.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+She was quick-footed and energetic in all her movements.,0.4404,0.266,0.0,0.734,positive,My Ántonia
+"Her voice was high and rather shrill, and she often spoke with an anxious inflection, for she was exceedingly desirous that everything should go with due order and decorum.",0.0772,0.073,0.064,0.863,positive,My Ántonia
+"Her laugh, too, was high, and perhaps a little strident, but there was a lively intelligence in it.",0.8834,0.442,0.0,0.558,positive,My Ántonia
+"She was then fifty-five years old, a strong woman, of unusual endurance.",0.5106,0.248,0.0,0.752,positive,My Ántonia
+"After I was dressed, I explored the long cellar next the kitchen.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"It was dug out under the wing of the house, was plastered and cemented, with a stairway and an outside door by which the men came and went.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Under one of the windows there was a place for them to wash when they came in from work.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"While my grandmother was busy about supper, I settled myself on the wooden bench behind the stove and got acquainted with the cat--he caught not only rats and mice, but gophers, I was told.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The patch of yellow sunlight on the floor travelled back toward the stairway, and grandmother and I talked about my journey, and about the arrival of the new Bohemian family; she said they were to be our nearest neighbours.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"We did not talk about the farm in Virginia, which had been her home for so many years.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"But after the men came in from the fields, and we were all seated at the supper table, then she asked Jake about the old place and about our friends and neighbours there.",0.631,0.115,0.0,0.885,positive,My Ántonia
+My grandfather said little.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"When he first came in he kissed me and spoke kindly to me, but he was not demonstrative.",0.4404,0.196,0.0,0.804,positive,My Ántonia
+"I felt at once his deliberateness and personal dignity, and was a little in awe of him.",0.4019,0.162,0.0,0.838,positive,My Ántonia
+"The thing one immediately noticed about him was his beautiful, crinkly, snow-white beard.",0.5994,0.245,0.0,0.755,positive,My Ántonia
+I once heard a missionary say it was like the beard of an Arabian sheik.,0.3612,0.172,0.0,0.828,positive,My Ántonia
+His bald crown only made it more impressive.,0.5563,0.339,0.0,0.661,positive,My Ántonia
+"Grandfather's eyes were not at all like those of an old man; they were bright blue, and had a fresh, frosty sparkle.",0.7087,0.295,0.078,0.627,positive,My Ántonia
+His teeth were white and regular--so sound that he had never been to a dentist in his life.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He had a delicate skin, easily roughened by sun and wind.",0.3818,0.31,0.0,0.69,positive,My Ántonia
+When he was a young man his hair and beard were red; his eyebrows were still coppery.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"As we sat at the table, Otto Fuchs and I kept stealing covert glances at each other.",-0.5719,0.0,0.198,0.802,negative,My Ántonia
+Grandmother had told me while she was getting supper that he was an Austrian who came to this country a young boy and had led an adventurous life in the Far West among mining-camps and cow outfits.,0.34,0.064,0.0,0.936,positive,My Ántonia
+"His iron constitution was somewhat broken by mountain pneumonia, and he had drifted back to live in a milder country for a while.",-0.4228,0.0,0.123,0.877,negative,My Ántonia
+"He had relatives in Bismarck, a German settlement to the north of us, but for a year now he had been working for grandfather.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The minute supper was over, Otto took me into the kitchen to whisper to me about a pony down in the barn that had been bought for me at a sale; he had been riding him to find out whether he had any bad tricks, but he was a 'perfect gentleman,' and his name was Dude.",0.5499,0.086,0.06,0.854,positive,My Ántonia
+"Fuchs told me everything I wanted to know: how he had lost his ear in a Wyoming blizzard when he was a stage-driver, and how to throw a lasso.",-0.3182,0.0,0.087,0.913,negative,My Ántonia
+He promised to rope a steer for me before sundown next day.,0.3612,0.2,0.0,0.8,positive,My Ántonia
+"He got out his 'chaps' and silver spurs to show them to Jake and me, and his best cowboy boots, with tops stitched in bold design--roses, and true-lover's knots, and undraped female figures.",0.8779,0.252,0.0,0.748,positive,My Ántonia
+"These, he solemnly explained, were angels.",0.2023,0.265,0.0,0.735,positive,My Ántonia
+"Before we went to bed, Jake and Otto were called up to the living-room for prayers.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Grandfather put on silver-rimmed spectacles and read several Psalms.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+His voice was so sympathetic and he read so interestingly that I wished he had chosen one of my favourite chapters in the Book of Kings.,0.8286,0.252,0.0,0.748,positive,My Ántonia
+I was awed by his intonation of the word 'Selah.',0.0,0.0,0.0,1.0,neutral,My Ántonia
+"'He shall choose our inheritance for us, the excellency of Jacob whom He loved.",0.8126,0.381,0.0,0.619,positive,My Ántonia
+Selah.',0.0,0.0,0.0,1.0,neutral,My Ántonia
+I had no idea what the word meant; perhaps he had not.,-0.296,0.0,0.18,0.82,negative,My Ántonia
+"But, as he uttered it, it became oracular, the most sacred of words.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Early the next morning I ran out-of-doors to look about me.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I had been told that ours was the only wooden house west of Black Hawk--until you came to the Norwegian settlement, where there were several.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Our neighbours lived in sod houses and dugouts--comfortable, but not very roomy.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Our white frame house, with a storey and half-storey above the basement, stood at the east end of what I might call the farmyard, with the windmill close by the kitchen door.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"From the windmill the ground sloped westward, down to the barns and granaries and pig-yards.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"This slope was trampled hard and bare, and washed out in winding gullies by the rain.",-0.1027,0.0,0.085,0.915,negative,My Ántonia
+"Beyond the corncribs, at the bottom of the shallow draw, was a muddy little pond, with rusty willow bushes growing about it.",0.1779,0.078,0.0,0.922,positive,My Ántonia
+"The road from the post-office came directly by our door, crossed the farmyard, and curved round this little pond, beyond which it began to climb the gentle swell of unbroken prairie to the west.",0.4404,0.081,0.0,0.919,positive,My Ántonia
+"There, along the western sky-line it skirted a great cornfield, much larger than any field I had ever seen.",0.6249,0.204,0.0,0.796,positive,My Ántonia
+"This cornfield, and the sorghum patch behind the barn, were the only broken land in sight.",-0.4767,0.0,0.171,0.829,negative,My Ántonia
+"Everywhere, as far as the eye could reach, there was nothing but rough, shaggy, red grass, most of it as tall as I.",0.0129,0.046,0.0,0.954,neutral,My Ántonia
+"North of the house, inside the ploughed fire-breaks, grew a thick-set strip of box-elder trees, low and bushy, their leaves already turning yellow.",-0.2732,0.0,0.091,0.909,negative,My Ántonia
+"This hedge was nearly a quarter of a mile long, but I had to look very hard to see it at all.",-0.2592,0.0,0.102,0.898,negative,My Ántonia
+The little trees were insignificant against the grass.,-0.2815,0.0,0.234,0.766,negative,My Ántonia
+"It seemed as if the grass were about to run over them, and over the plum-patch behind the sod chicken-house.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"As I looked about me I felt that the grass was the country, as the water is the sea.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The red of the grass made all the great prairie the colour of winestains, or of certain seaweeds when they are first washed up.",0.7351,0.22,0.0,0.78,positive,My Ántonia
+"And there was so much motion in it; the whole country seemed, somehow, to be running.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I had almost forgotten that I had a grandmother, when she came out, her sunbonnet on her head, a grain-sack in her hand, and asked me if I did not want to go to the garden with her to dig potatoes for dinner.",0.3337,0.078,0.069,0.853,positive,My Ántonia
+"The garden, curiously enough, was a quarter of a mile from the house, and the way to it led up a shallow draw past the cattle corral.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Grandmother called my attention to a stout hickory cane, tipped with copper, which hung by a leather thong from her belt.",0.1779,0.086,0.0,0.914,positive,My Ántonia
+"This, she said, was her rattlesnake cane.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+I must never go to the garden without a heavy stick or a corn-knife; she had killed a good many rattlers on her way back and forth.,-0.3818,0.102,0.158,0.739,negative,My Ántonia
+A little girl who lived on the Black Hawk road was bitten on the ankle and had been sick all summer.,-0.5106,0.0,0.148,0.852,negative,My Ántonia
+I can remember exactly how the country looked to me as I walked beside my grandmother along the faint wagon-tracks on that early September morning.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Perhaps the glide of long railway travel was still with me, for more than anything else I felt motion in the landscape; in the fresh, easy-blowing morning wind, and in the earth itself, as if the shaggy grass were a sort of loose hide, and underneath it herds of wild buffalo were galloping, galloping... Alone, I should never have found the garden--except, perhaps, for the big yellow pumpkins that lay about unprotected by their withering vines--and I felt very little interest in it when I got there.",-0.4216,0.058,0.101,0.841,negative,My Ántonia
+"I wanted to walk straight on through the red grass and over the edge of the world, which could not be very far away.",0.2263,0.079,0.0,0.921,positive,My Ántonia
+"The light air about me told me that the world ended here: only the ground and sun and sky were left, and if one went a little farther there would be only sun and sky, and one would float off into them, like the tawny hawks which sailed over our heads making slow shadows on the grass.",0.3612,0.043,0.0,0.957,positive,My Ántonia
+"While grandmother took the pitchfork we found standing in one of the rows and dug potatoes, while I picked them up out of the soft brown earth and put them into the bag, I kept looking up at the hawks that were doing what I might so easily do.",0.4795,0.065,0.0,0.935,positive,My Ántonia
+"When grandmother was ready to go, I said I would like to stay up there in the garden awhile.",0.6124,0.25,0.0,0.75,positive,My Ántonia
+She peered down at me from under her sunbonnet.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+'Aren't you afraid of snakes?',0.0,0.0,0.0,1.0,neutral,My Ántonia
+"'A little,' I admitted, 'but I'd like to stay, anyhow.'",0.5346,0.389,0.0,0.611,positive,My Ántonia
+"'Well, if you see one, don't have anything to do with him.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+The big yellow and brown ones won't hurt you; they're bull-snakes and help to keep the gophers down.,0.6679,0.255,0.0,0.745,positive,My Ántonia
+Don't be scared if you see anything look out of that hole in the bank over there.,0.3412,0.131,0.0,0.869,positive,My Ántonia
+That's a badger hole.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He's about as big as a big 'possum, and his face is striped, black and white.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He takes a chicken once in a while, but I won't let the men harm him.",-0.6956,0.0,0.284,0.716,negative,My Ántonia
+In a new country a body feels friendly to the animals.,0.4939,0.286,0.0,0.714,positive,My Ántonia
+I like to have him come out and watch me when I'm at work.',0.3612,0.172,0.0,0.828,positive,My Ántonia
+"Grandmother swung the bag of potatoes over her shoulder and went down the path, leaning forward a little.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The road followed the windings of the draw; when she came to the first bend, she waved at me and disappeared.",-0.2263,0.0,0.087,0.913,negative,My Ántonia
+I was left alone with this new feeling of lightness and content.,-0.128,0.12,0.16,0.72,negative,My Ántonia
+"I sat down in the middle of the garden, where snakes could scarcely approach unseen, and leaned my back against a warm yellow pumpkin.",0.2263,0.083,0.0,0.917,positive,My Ántonia
+"There were some ground-cherry bushes growing along the furrows, full of fruit.",0.1779,0.134,0.0,0.866,positive,My Ántonia
+I turned back the papery triangular sheaths that protected the berries and ate a few.,0.4404,0.195,0.0,0.805,positive,My Ántonia
+"All about me giant grasshoppers, twice as big as any I had ever seen, were doing acrobatic feats among the dried vines.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+The gophers scurried up and down the ploughed ground.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"There in the sheltered draw-bottom the wind did not blow very hard, but I could hear it singing its humming tune up on the level, and I could see the tall grasses wave.",0.0661,0.04,0.0,0.96,positive,My Ántonia
+"The earth was warm under me, and warm as I crumbled it through my fingers.",0.4215,0.241,0.0,0.759,positive,My Ántonia
+Queer little red bugs came out and moved in slow squadrons around me.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Their backs were polished vermilion, with black spots.",-0.0516,0.0,0.146,0.854,negative,My Ántonia
+I kept as still as I could.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+Nothing happened.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+I did not expect anything to happen.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I was something that lay under the sun and felt it, like the pumpkins, and I did not want to be anything more.",0.3134,0.11,0.054,0.836,positive,My Ántonia
+I was entirely happy.,0.6115,0.666,0.0,0.334,positive,My Ántonia
+"Perhaps we feel like that when we die and become a part of something entire, whether it is sun and air, or goodness and knowledge.",0.1531,0.181,0.128,0.691,positive,My Ántonia
+"At any rate, that is happiness; to be dissolved into something complete and great.",0.8271,0.391,0.0,0.609,positive,My Ántonia
+"When it comes to one, it comes as naturally as sleep.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+III On Sunday morning Otto Fuchs was to drive us over to make the acquaintance of our new Bohemian neighbours.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"We were taking them some provisions, as they had come to live on a wild place where there was no garden or chicken-house, and very little broken land.",-0.6469,0.0,0.175,0.825,negative,My Ántonia
+"Fuchs brought up a sack of potatoes and a piece of cured pork from the cellar, and grandmother packed some loaves of Saturday's bread, a jar of butter, and several pumpkin pies in the straw of the wagon-box.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+We clambered up to the front seat and jolted off past the little pond and along the road that climbed to the big cornfield.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I could hardly wait to see what lay beyond that cornfield; but there was only red grass like ours, and nothing else, though from the high wagon-seat one could look off a long way.",0.5023,0.095,0.0,0.905,positive,My Ántonia
+"The road ran about like a wild thing, avoiding the deep draws, crossing them where they were wide and shallow.",0.0258,0.114,0.11,0.776,neutral,My Ántonia
+"And all along it, wherever it looped or ran, the sunflowers grew; some of them were as big as little trees, with great rough leaves and many branches which bore dozens of blossoms.",0.4284,0.104,0.054,0.842,positive,My Ántonia
+They made a gold ribbon across the prairie.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Occasionally one of the horses would tear off with his teeth a plant full of blossoms, and walk along munching it, the flowers nodding in time to his bites as he ate down toward them.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The Bohemian family, grandmother told me as we drove along, had bought the homestead of a fellow countryman, Peter Krajiek, and had paid him more than it was worth.",0.2263,0.066,0.0,0.934,positive,My Ántonia
+"Their agreement with him was made before they left the old country, through a cousin of his, who was also a relative of Mrs. Shimerda.",0.4939,0.127,0.0,0.873,positive,My Ántonia
+The Shimerdas were the first Bohemian family to come to this part of the county.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Krajiek was their only interpreter, and could tell them anything he chose.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"They could not speak enough English to ask for advice, or even to make their most pressing wants known.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"One son, Fuchs said, was well-grown, and strong enough to work the land; but the father was old and frail and knew nothing about farming.",0.2846,0.082,0.0,0.918,positive,My Ántonia
+He was a weaver by trade; had been a skilled workman on tapestries and upholstery materials.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He had brought his fiddle with him, which wouldn't be of much use here, though he used to pick up money by it at home.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"'If they're nice people, I hate to think of them spending the winter in that cave of Krajiek's,' said grandmother.",-0.2263,0.119,0.157,0.723,negative,My Ántonia
+'It's no better than a badger hole; no proper dugout at all.,-0.128,0.19,0.288,0.523,negative,My Ántonia
+And I hear he's made them pay twenty dollars for his old cookstove that ain't worth ten.',-0.2654,0.0,0.18,0.82,negative,My Ántonia
+"'Yes'm,' said Otto; 'and he's sold 'em his oxen and his two bony old horses for the price of good workteams.",0.4404,0.127,0.0,0.873,positive,My Ántonia
+I'd have interfered about the horses--the old man can understand some German--if I'd I a' thought it would do any good.,0.4404,0.132,0.0,0.868,positive,My Ántonia
+But Bohemians has a natural distrust of Austrians.',-0.1154,0.272,0.31,0.418,negative,My Ántonia
+Grandmother looked interested.,0.4019,0.574,0.0,0.426,positive,My Ántonia
+"'Now, why is that, Otto?'",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Fuchs wrinkled his brow and nose.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"'Well, ma'm, it's politics.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+It would take me a long while to explain.',0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The land was growing rougher; I was told that we were approaching Squaw Creek, which cut up the west half of the Shimerdas' place and made the land of little value for farming.",0.1796,0.109,0.06,0.831,positive,My Ántonia
+"Soon we could see the broken, grassy clay cliffs which indicated the windings of the stream, and the glittering tops of the cottonwoods and ash trees that grew down in the ravine.",0.0516,0.091,0.085,0.824,positive,My Ántonia
+"Some of the cottonwoods had already turned, and the yellow leaves and shining white bark made them look like the gold and silver trees in fairy tales.",0.3612,0.088,0.0,0.912,positive,My Ántonia
+"As we approached the Shimerdas' dwelling, I could still see nothing but rough red hillocks, and draws with shelving banks and long roots hanging out where the earth had crumbled away.",0.0129,0.035,0.0,0.965,neutral,My Ántonia
+"Presently, against one of those banks, I saw a sort of shed, thatched with the same wine-coloured grass that grew everywhere.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Near it tilted a shattered windmill frame, that had no wheel.",-0.6486,0.0,0.398,0.602,negative,My Ántonia
+"We drove up to this skeleton to tie our horses, and then I saw a door and window sunk deep in the drawbank.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The door stood open, and a woman and a girl of fourteen ran out and looked up at us hopefully.",0.4019,0.137,0.0,0.863,positive,My Ántonia
+A little girl trailed along behind them.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+The woman had on her head the same embroidered shawl with silk fringes that she wore when she had alighted from the train at Black Hawk.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She was not old, but she was certainly not young.",0.4767,0.256,0.0,0.744,positive,My Ántonia
+"Her face was alert and lively, with a sharp chin and shrewd little eyes.",0.6249,0.317,0.0,0.683,positive,My Ántonia
+She shook grandmother's hand energetically.,0.6808,0.638,0.149,0.213,positive,My Ántonia
+"'Very glad, very glad!'",0.5551,0.544,0.0,0.456,positive,My Ántonia
+she ejaculated.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Immediately she pointed to the bank out of which she had emerged and said, 'House no good, house no good!'",-0.2003,0.118,0.191,0.691,negative,My Ántonia
+Grandmother nodded consolingly.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"'You'll get fixed up comfortable after while, Mrs. Shimerda; make good house.'",0.7351,0.383,0.0,0.617,positive,My Ántonia
+"My grandmother always spoke in a very loud tone to foreigners, as if they were deaf.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She made Mrs. Shimerda understand the friendly intention of our visit, and the Bohemian woman handled the loaves of bread and even smelled them, and examined the pies with lively curiosity, exclaiming, 'Much good, much thank!'",0.8516,0.22,0.0,0.78,positive,My Ántonia
+--and again she wrung grandmother's hand.,0.4939,0.39,0.0,0.61,positive,My Ántonia
+"The oldest son, Ambroz--they called it Ambrosch--came out of the cave and stood beside his mother.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He was nineteen years old, short and broad-backed, with a close-cropped, flat head, and a wide, flat face.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"His hazel eyes were little and shrewd, like his mother's, but more sly and suspicious; they fairly snapped at the food.",-0.4638,0.067,0.15,0.783,negative,My Ántonia
+The family had been living on corncakes and sorghum molasses for three days.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The little girl was pretty, but Ántonia--they accented the name thus, strongly, when they spoke to her--was still prettier.",0.8302,0.354,0.0,0.646,positive,My Ántonia
+I remembered what the conductor had said about her eyes.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"They were big and warm and full of light, like the sun shining on brown pools in the wood.",0.5267,0.206,0.0,0.794,positive,My Ántonia
+"Her skin was brown, too, and in her cheeks she had a glow of rich, dark colour.",0.5574,0.194,0.0,0.806,positive,My Ántonia
+Her brown hair was curly and wild-looking.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The little sister, whom they called Yulka (Julka), was fair, and seemed mild and obedient.",0.3182,0.141,0.0,0.859,positive,My Ántonia
+"While I stood awkwardly confronting the two girls, Krajiek came up from the barn to see what was going on.",-0.4404,0.0,0.187,0.813,negative,My Ántonia
+With him was another Shimerda son.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+Even from a distance one could see that there was something strange about this boy.,-0.2023,0.0,0.122,0.878,negative,My Ántonia
+"As he approached us, he began to make uncouth noises, and held up his hands to show us his fingers, which were webbed to the first knuckle, like a duck's foot.",0.3612,0.079,0.0,0.921,positive,My Ántonia
+"When he saw me draw back, he began to crow delightedly, 'Hoo, hoo-hoo, hoo-hoo!'",0.5707,0.221,0.0,0.779,positive,My Ántonia
+like a rooster.,0.3612,0.714,0.0,0.286,positive,My Ántonia
+"His mother scowled and said sternly, 'Marek!'",0.0,0.0,0.0,1.0,neutral,My Ántonia
+then spoke rapidly to Krajiek in Bohemian.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"'She wants me to tell you he won't hurt nobody, Mrs.",0.4168,0.217,0.0,0.783,positive,My Ántonia
+Burden.,-0.4404,0.0,1.0,0.0,negative,My Ántonia
+He was born like that.,0.3612,0.385,0.0,0.615,positive,My Ántonia
+The others are smart.,0.4019,0.474,0.0,0.526,positive,My Ántonia
+"Ambrosch, he make good farmer.'",0.4404,0.42,0.0,0.58,positive,My Ántonia
+"He struck Ambrosch on the back, and the boy smiled knowingly.",0.3612,0.241,0.138,0.621,positive,My Ántonia
+At that moment the father came out of the hole in the bank.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He wore no hat, and his thick, iron-grey hair was brushed straight back from his forehead.",-0.0772,0.105,0.122,0.773,negative,My Ántonia
+"It was so long that it bushed out behind his ears, and made him look like the old portraits I remembered in Virginia.",0.3612,0.106,0.0,0.894,positive,My Ántonia
+"He was tall and slender, and his thin shoulders stooped.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He looked at us understandingly, then took grandmother's hand and bent over it.",0.4939,0.211,0.0,0.789,positive,My Ántonia
+I noticed how white and well-shaped his own hands were.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"They looked calm, somehow, and skilled.",0.3182,0.315,0.0,0.685,positive,My Ántonia
+"His eyes were melancholy, and were set back deep under his brow.",-0.4404,0.0,0.209,0.791,negative,My Ántonia
+"His face was ruggedly formed, but it looked like ashes--like something from which all the warmth and light had died out.",0.3291,0.24,0.163,0.597,positive,My Ántonia
+Everything about this old man was in keeping with his dignified manner.,0.4939,0.225,0.0,0.775,positive,My Ántonia
+He was neatly dressed.,0.34,0.444,0.0,0.556,positive,My Ántonia
+"Under his coat he wore a knitted grey vest, and, instead of a collar, a silk scarf of a dark bronze-green, carefully crossed and held together by a red coral pin.",0.1779,0.101,0.0,0.899,positive,My Ántonia
+"While Krajiek was translating for Mr. Shimerda, Ántonia came up to me and held out her hand coaxingly.",0.4939,0.158,0.0,0.842,positive,My Ántonia
+"In a moment we were running up the steep drawside together, Yulka trotting after us.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"When we reached the level and could see the gold tree-tops, I pointed toward them, and Ántonia laughed and squeezed my hand as if to tell me how glad she was I had come.",0.8625,0.275,0.0,0.725,positive,My Ántonia
+We raced off toward Squaw Creek and did not stop until the ground itself stopped--fell away before us so abruptly that the next step would have been out into the tree-tops.,0.2235,0.059,0.0,0.941,positive,My Ántonia
+"We stood panting on the edge of the ravine, looking down at the trees and bushes that grew below us.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The wind was so strong that I had to hold my hat on, and the girls' skirts were blown out before them.",0.6418,0.175,0.0,0.825,positive,My Ántonia
+Ántonia seemed to like it; she held her little sister by the hand and chattered away in that language which seemed to me spoken so much more rapidly than mine.,0.6908,0.169,0.0,0.831,positive,My Ántonia
+"She looked at me, her eyes fairly blazing with things she could not say.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+'Name?,0.0,0.0,0.0,1.0,neutral,My Ántonia
+What name?',0.0,0.0,0.0,1.0,neutral,My Ántonia
+"she asked, touching me on the shoulder.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I told her my name, and she repeated it after me and made Yulka say it.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She pointed into the gold cottonwood tree behind whose top we stood and said again, 'What name?'",0.2023,0.101,0.0,0.899,positive,My Ántonia
+We sat down and made a nest in the long red grass.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+Yulka curled up like a baby rabbit and played with a grasshopper.,0.5994,0.38,0.0,0.62,positive,My Ántonia
+Ántonia pointed up to the sky and questioned me with her glance.,-0.1027,0.0,0.113,0.887,negative,My Ántonia
+"I gave her the word, but she was not satisfied and pointed to my eyes.",-0.4585,0.0,0.187,0.813,negative,My Ántonia
+"I told her, and she repeated the word, making it sound like 'ice.'",0.3612,0.185,0.0,0.815,positive,My Ántonia
+"She pointed up to the sky, then to my eyes, then back to the sky, with movements so quick and impulsive that she distracted me, and I had no idea what she wanted.",-0.5574,0.0,0.133,0.867,negative,My Ántonia
+She got up on her knees and wrung her hands.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She pointed to her own eyes and shook her head, then to mine and to the sky, nodding violently.",-0.6369,0.0,0.234,0.766,negative,My Ántonia
+"'Oh,' I exclaimed, 'blue; blue sky.'",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She clapped her hands and murmured, 'Blue sky, blue eyes,' as if it amused her.",0.4215,0.167,0.0,0.833,positive,My Ántonia
+"While we snuggled down there out of the wind, she learned a score of words.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She was alive, and very eager.",0.659,0.574,0.0,0.426,positive,My Ántonia
+We were so deep in the grass that we could see nothing but the blue sky over us and the gold tree in front of us.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+It was wonderfully pleasant.,0.802,0.783,0.0,0.217,positive,My Ántonia
+"After Ántonia had said the new words over and over, she wanted to give me a little chased silver ring she wore on her middle finger.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"When she coaxed and insisted, I repulsed her quite sternly.",-0.4939,0.0,0.286,0.714,negative,My Ántonia
+"I didn't want her ring, and I felt there was something reckless and extravagant about her wishing to give it away to a boy she had never seen before.",-0.2551,0.066,0.136,0.798,negative,My Ántonia
+"No wonder Krajiek got the better of these people, if this was how they behaved.",0.1779,0.16,0.122,0.718,positive,My Ántonia
+"While we were disputing 'about the ring, I heard a mournful voice calling, 'Ántonia, Ántonia!'",-0.68,0.0,0.337,0.663,negative,My Ántonia
+She sprang up like a hare.,0.3612,0.385,0.0,0.615,positive,My Ántonia
+'Tatinek!,0.0,0.0,0.0,1.0,neutral,My Ántonia
+Tatinek!',0.0,0.0,0.0,1.0,neutral,My Ántonia
+"she shouted, and we ran to meet the old man who was coming toward us.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Ántonia reached him first, took his hand and kissed it.",0.7351,0.507,0.0,0.493,positive,My Ántonia
+"When I came up, he touched my shoulder and looked searchingly down into my face for several seconds.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I became somewhat embarrassed, for I was used to being taken for granted by my elders.",-0.0534,0.123,0.136,0.74,negative,My Ántonia
+"We went with Mr. Shimerda back to the dugout, where grandmother was waiting for me.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Before I got into the wagon, he took a book out of his pocket, opened it, and showed me a page with two alphabets, one English and the other Bohemian.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He placed this book in my grandmother's hands, looked at her entreatingly, and said, with an earnestness which I shall never forget, 'Te-e-ach, te-e-ach my Ántonia!'",0.2401,0.075,0.0,0.925,positive,My Ántonia
+"IV On the afternoon of that same Sunday I took my first long ride on my pony, under Otto's direction.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"After that Dude and I went twice a week to the post-office, six miles east of us, and I saved the men a good deal of time by riding on errands to our neighbours.",0.6908,0.169,0.0,0.831,positive,My Ántonia
+"When we had to borrow anything, or to send about word that there would be preaching at the sod schoolhouse, I was always the messenger.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Formerly Fuchs attended to such things after working hours.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+All the years that have passed have not dimmed my memory of that first glorious autumn.,0.6369,0.219,0.0,0.781,positive,My Ántonia
+"The new country lay open before me: there were no fences in those days, and I could choose my own way over the grass uplands, trusting the pony to get me home again.",0.128,0.077,0.063,0.86,positive,My Ántonia
+Sometimes I followed the sunflower-bordered roads.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Fuchs told me that the sunflowers were introduced into that country by the Mormons; that at the time of the persecution, when they left Missouri and struck out into the wilderness to find a place where they could worship God in their own way, the members of the first exploring party, crossing the plains to Utah, scattered sunflower seed as they went.",0.6124,0.106,0.03,0.864,positive,My Ántonia
+"The next summer, when the long trains of wagons came through with all the women and children, they had the sunflower trail to follow.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I believe that botanists do not confirm Fuchs's story, but insist that the sunflower was native to those plains.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Nevertheless, that legend has stuck in my mind, and sunflower-bordered roads always seem to me the roads to freedom.",0.4939,0.181,0.086,0.733,positive,My Ántonia
+"I used to love to drift along the pale-yellow cornfields, looking for the damp spots one sometimes found at their edges, where the smartweed soon turned a rich copper colour and the narrow brown leaves hung curled like cocoons about the swollen joints of the stem.",0.8885,0.223,0.0,0.777,positive,My Ántonia
+"Sometimes I went south to visit our German neighbours and to admire their catalpa grove, or to see the big elm tree that grew up out of a deep crack in the earth and had a hawk's nest in its branches.",0.4767,0.077,0.0,0.923,positive,My Ántonia
+"Trees were so rare in that country, and they had to make such a hard fight to grow, that we used to feel anxious about them, and visit them as if they were persons.",-0.6124,0.0,0.167,0.833,negative,My Ántonia
+It must have been the scarcity of detail in that tawny landscape that made detail so precious.,0.6948,0.229,0.0,0.771,positive,My Ántonia
+Sometimes I rode north to the big prairie-dog town to watch the brown earth-owls fly home in the late afternoon and go down to their nests underground with the dogs.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Ántonia Shimerda liked to go with me, and we used to wonder a great deal about these birds of subterranean habit.",0.7845,0.277,0.0,0.723,positive,My Ántonia
+"We had to be on our guard there, for rattlesnakes were always lurking about.",-0.128,0.0,0.103,0.897,negative,My Ántonia
+"They came to pick up an easy living among the dogs and owls, which were quite defenceless against them; took possession of their comfortable houses and ate the eggs and puppies.",0.7351,0.176,0.0,0.824,positive,My Ántonia
+We felt sorry for the owls.,-0.0772,0.0,0.206,0.794,negative,My Ántonia
+It was always mournful to see them come flying home at sunset and disappear under the earth.,-0.5423,0.0,0.231,0.769,negative,My Ántonia
+"But, after all, we felt, winged things who would live like that must be rather degraded creatures.",-0.1154,0.148,0.169,0.683,negative,My Ántonia
+The dog-town was a long way from any pond or creek.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Otto Fuchs said he had seen populous dog-towns in the desert where there was no surface water for fifty miles; he insisted that some of the holes must go down to water--nearly two hundred feet, hereabouts.",-0.296,0.0,0.059,0.941,negative,My Ántonia
+"Ántonia said she didn't believe it; that the dogs probably lapped up the dew in the early morning, like the rabbits.",0.3612,0.111,0.0,0.889,positive,My Ántonia
+"Ántonia had opinions about everything, and she was soon able to make them known.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Almost every day she came running across the prairie to have her reading lesson with me.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Mrs. Shimerda grumbled, but realized it was important that one member of the family should learn English.",0.296,0.121,0.0,0.879,positive,My Ántonia
+"When the lesson was over, we used to go up to the watermelon patch behind the garden.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I split the melons with an old corn-knife, and we lifted out the hearts and ate them with the juice trickling through our fingers.",-0.0516,0.0,0.052,0.948,negative,My Ántonia
+"The white Christmas melons we did not touch, but we watched them with curiosity.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"They were to be picked late, when the hard frosts had set in, and put away for winter use.",-0.1027,0.0,0.072,0.928,negative,My Ántonia
+"After weeks on the ocean, the Shimerdas were famished for fruit.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The two girls would wander for miles along the edge of the cornfields, hunting for ground-cherries.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Ántonia loved to help grandmother in the kitchen and to learn about cooking and housekeeping.,0.765,0.337,0.0,0.663,positive,My Ántonia
+"She would stand beside her, watching her every movement.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"We were willing to believe that Mrs. Shimerda was a good housewife in her own country, but she managed poorly under new conditions: the conditions were bad enough, certainly!",-0.2481,0.152,0.135,0.712,negative,My Ántonia
+"I remember how horrified we were at the sour, ashy-grey bread she gave her family to eat.",-0.5423,0.0,0.189,0.811,negative,My Ántonia
+"She mixed her dough, we discovered, in an old tin peck-measure that Krajiek had used about the barn.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"When she took the paste out to bake it, she left smears of dough sticking to the sides of the measure, put the measure on the shelf behind the stove, and let this residue ferment.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The next time she made bread, she scraped this sour stuff down into the fresh dough to serve as yeast.",0.3182,0.108,0.0,0.892,positive,My Ántonia
+During those first months the Shimerdas never went to town.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+Krajiek encouraged them in the belief that in Black Hawk they would somehow be mysteriously separated from their money.,0.3612,0.122,0.0,0.878,positive,My Ántonia
+"They hated Krajiek, but they clung to him because he was the only human being with whom they could talk or from whom they could get information.",-0.3818,0.0,0.091,0.909,negative,My Ántonia
+"He slept with the old man and the two boys in the dugout barn, along with the oxen.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+They kept him in their hole and fed him for the same reason that the prairie-dogs and the brown owls house the rattlesnakes--because they did not know how to get rid of him.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"V We knew that things were hard for our Bohemian neighbours, but the two girls were lighthearted and never complained.",0.7497,0.277,0.05,0.673,positive,My Ántonia
+"They were always ready to forget their troubles at home, and to run away with me over the prairie, scaring rabbits or starting up flocks of quail.",-0.6486,0.075,0.234,0.691,negative,My Ántonia
+"I remember Ántonia's excitement when she came into our kitchen one afternoon and announced: 'My papa find friends up north, with Russian mans.",0.743,0.24,0.0,0.76,positive,My Ántonia
+"Last night he take me for see, and I can understand very much talk.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Nice mans, Mrs.",0.4215,0.583,0.0,0.417,positive,My Ántonia
+Burden.,-0.4404,0.0,1.0,0.0,negative,My Ántonia
+One is fat and all the time laugh.,0.5574,0.34,0.0,0.66,positive,My Ántonia
+Everybody laugh.,0.5574,0.783,0.0,0.217,positive,My Ántonia
+The first time I see my papa laugh in this kawntree.,0.5574,0.286,0.0,0.714,positive,My Ántonia
+"Oh, very nice!'",0.0,0.0,0.0,1.0,neutral,My Ántonia
+I asked her if she meant the two Russians who lived up by the big dog-town.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"I had often been tempted to go to see them when I was riding in that direction, but one of them was a wild-looking fellow and I was a little afraid of him.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Russia seemed to me more remote than any other country--farther away than China, almost as far as the North Pole.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Of all the strange, uprooted people among the first settlers, those two men were the strangest and the most aloof.",-0.2023,0.0,0.087,0.913,negative,My Ántonia
+"Their last names were unpronounceable, so they were called Pavel and Peter.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"They went about making signs to people, and until the Shimerdas came they had no friends.",0.2263,0.161,0.114,0.725,positive,My Ántonia
+"Krajiek could understand them a little, but he had cheated them in a trade, so they avoided him.",-0.8388,0.0,0.363,0.637,negative,My Ántonia
+"Pavel, the tall one, was said to be an anarchist; since he had no means of imparting his opinions, probably his wild gesticulations and his generally excited and rebellious manner gave rise to this supposition.",-0.25,0.062,0.113,0.825,negative,My Ántonia
+"He must once have been a very strong man, but now his great frame, with big, knotty joints, had a wasted look, and the skin was drawn tight over his high cheekbones.",0.5642,0.202,0.11,0.688,positive,My Ántonia
+"His breathing was hoarse, and he always had a cough.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Peter, his companion, was a very different sort of fellow; short, bow-legged, and as fat as butter.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He always seemed pleased when he met people on the road, smiled and took off his cap to everyone, men as well as women.",0.8176,0.288,0.0,0.712,positive,My Ántonia
+"At a distance, on his wagon, he looked like an old man; his hair and beard were of such a pale flaxen colour that they seemed white in the sun.",0.3612,0.085,0.0,0.915,positive,My Ántonia
+They were as thick and curly as carded wool.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"His rosy face, with its snub nose, set in this fleece, was like a melon among its leaves.",-0.0772,0.123,0.138,0.739,negative,My Ántonia
+"He was usually called 'Curly Peter,' or 'Rooshian Peter.'",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The two Russians made good farm-hands, and in summer they worked out together.",0.4404,0.195,0.0,0.805,positive,My Ántonia
+I had heard our neighbours laughing when they told how Peter always had to go home at night to milk his cow.,0.4939,0.138,0.0,0.862,positive,My Ántonia
+"Other bachelor homesteaders used canned milk, to save trouble.",0.128,0.248,0.209,0.543,positive,My Ántonia
+Sometimes Peter came to church at the sod schoolhouse.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"It was there I first saw him, sitting on a low bench by the door, his plush cap in his hands, his bare feet tucked apologetically under the seat.",-0.2732,0.0,0.075,0.925,negative,My Ántonia
+"After Mr. Shimerda discovered the Russians, he went to see them almost every evening, and sometimes took Ántonia with him.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"She said they came from a part of Russia where the language was not very different from Bohemian, and if I wanted to go to their place, she could talk to them for me.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"One afternoon, before the heavy frosts began, we rode up there together on my pony.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"The Russians had a neat log house built on a grassy slope, with a windlass well beside the door.",0.6249,0.267,0.0,0.733,positive,My Ántonia
+"As we rode up the draw, we skirted a big melon patch, and a garden where squashes and yellow cucumbers lay about on the sod.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"We found Peter out behind his kitchen, bending over a washtub.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+He was working so hard that he did not hear us coming.,-0.2183,0.0,0.145,0.855,negative,My Ántonia
+"His whole body moved up and down as he rubbed, and he was a funny sight from the rear, with his shaggy head and bandy legs.",0.4404,0.108,0.0,0.892,positive,My Ántonia
+"When he straightened himself up to greet us, drops of perspiration were rolling from his thick nose down onto his curly beard.",0.3182,0.099,0.0,0.901,positive,My Ántonia
+Peter dried his hands and seemed glad to leave his washing.,0.4215,0.227,0.091,0.682,positive,My Ántonia
+"He took us down to see his chickens, and his cow that was grazing on the hillside.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"He told Ántonia that in his country only rich people had cows, but here any man could have one who would take care of her.",0.765,0.223,0.0,0.777,positive,My Ántonia
+"The milk was good for Pavel, who was often sick, and he could make butter by beating sour cream with a wooden spoon.",-0.5267,0.103,0.223,0.674,negative,My Ántonia
+Peter was very fond of his cow.,0.4927,0.347,0.0,0.653,positive,My Ántonia
+He patted her flanks and talked to her in Russian while he pulled up her lariat pin and set it in a new place.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+"After he had shown us his garden, Peter trundled a load of watermelons up the hill in his wheelbarrow.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+Pavel was not at home.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+He was off somewhere helping to dig a well.,0.5106,0.417,0.0,0.583,positive,My Ántonia
+The house I thought very comfortable for two men who were 'batching.',0.5563,0.264,0.0,0.736,positive,My Ántonia
+"Besides the kitchen, there was a living-room, with a wide double bed built against the wall, properly made up with blue gingham sheets and pillows.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"There was a little storeroom, too, with a window, where they kept guns and saddles and tools, and old coats and boots.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"That day the floor was covered with garden things, drying for winter; corn and beans and fat yellow cucumbers.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"There were no screens or window-blinds in the house, and all the doors and windows stood wide open, letting in flies and sunshine alike.",0.25,0.117,0.08,0.803,positive,My Ántonia
+"Peter put the melons in a row on the oilcloth-covered table and stood over them, brandishing a butcher knife.",0.0,0.0,0.0,1.0,neutral,My Ántonia
+"Before the blade got fairly into them, they split of their own ripeness, with a delicious sound.",0.5719,0.198,0.0,0.802,positive,My Ántonia
+"He gave us knives, but no plates, and the top of the table was soon swimming with juice and seeds.",-0.1531,0.096,0.122,0.783,negative,My Ántonia
+I had never seen anyone eat so many melons as Peter ate.,0.0,0.0,0.0,1.0,neutral,My Ántonia
+He assured us that they were good for one--bette,0.6597,0.435,0.0,0.565,positive,My Ántonia

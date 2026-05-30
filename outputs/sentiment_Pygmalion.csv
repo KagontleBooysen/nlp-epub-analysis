@@ -1,0 +1,900 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of Pygmalion This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.071,0.112,0.816,negative,Pygmalion
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,Pygmalion
+"Title : Pygmalion Author : Bernard Shaw Release date : March 1, 2003 [eBook #3825] Most recently updated: April 13, 2021 Language : English Other information and formats : www.gutenberg.org/ebooks/3825 Credits : Eve Sobol.",0.3612,0.085,0.0,0.915,positive,Pygmalion
+"HTML version by Al Haines *** START OF THE PROJECT GUTENBERG EBOOK PYGMALION *** TRANSCRIBER'S NOTE: In the printed version of this text, all apostrophes for contractions such as ""can't"", ""wouldn't"" and ""he'd"" were omitted, to read as ""cant"", ""wouldnt"", and ""hed"".",0.0,0.0,0.0,1.0,neutral,Pygmalion
+This etext edition restores the omitted apostrophes.,0.296,0.268,0.0,0.732,positive,Pygmalion
+PYGMALION BERNARD SHAW 1912 ACT 1 ACT 2 ACT 3 ACT 4 ACT 5 PREFACE TO PYGMALION.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+A Professor of Phonetics.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"As will be seen later on, Pygmalion needs, not a preface, but a sequel, which I have supplied in its due place.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"The English have no respect for their language, and will not teach their children to speak it.",0.2263,0.153,0.108,0.739,positive,Pygmalion
+They spell it so abominably that no man can teach himself what it sounds like.,0.0094,0.139,0.137,0.724,neutral,Pygmalion
+It is impossible for an Englishman to open his mouth without making some other Englishman hate or despise him.,-0.7269,0.0,0.264,0.736,negative,Pygmalion
+German and Spanish are accessible to foreigners: English is not accessible even to Englishmen.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+The reformer England needs today is an energetic phonetic enthusiast: that is why I have made such a one the hero of a popular play.,0.9217,0.455,0.0,0.545,positive,Pygmalion
+There have been heroes of that kind crying in the wilderness for many years past.,0.5574,0.307,0.142,0.55,positive,Pygmalion
+"When I became interested in the subject towards the end of the eighteen-seventies, Melville Bell was dead; but Alexander J. Ellis was still a living patriarch, with an impressive head always covered by a velvet skull cap, for which he would apologize to public meetings in a very courtly manner.",0.6428,0.15,0.05,0.799,positive,Pygmalion
+"He and Tito Pagliardini, another phonetic veteran, were men whom it was impossible to dislike.",-0.3818,0.0,0.157,0.843,negative,Pygmalion
+"Henry Sweet, then a young man, lacked their sweetness of character: he was about as conciliatory to conventional mortals as Ibsen or Samuel Butler.",0.7351,0.228,0.0,0.772,positive,Pygmalion
+"His great ability as a phonetician (he was, I think, the best of them all at his job) would have entitled him to high official recognition, and perhaps enabled him to popularize his subject, but for his Satanic contempt for all academic dignitaries and persons in general who thought more of Greek than of phonetics.",0.4019,0.189,0.082,0.729,positive,Pygmalion
+"Once, in the days when the Imperial Institute rose in South Kensington, and Joseph Chamberlain was booming the Empire, I induced the editor of a leading monthly review to commission an article from Sweet on the imperial importance of his subject.",0.6705,0.129,0.0,0.871,positive,Pygmalion
+"When it arrived, it contained nothing but a savagely derisive attack on a professor of language and literature whose chair Sweet regarded as proper to a phonetic expert only.",0.5093,0.215,0.12,0.665,positive,Pygmalion
+"The article, being libelous, had to be returned as impossible; and I had to renounce my dream of dragging its author into the limelight.",-0.2732,0.077,0.119,0.805,negative,Pygmalion
+"When I met him afterwards, for the first time for many years, I found to my astonishment that he, who had been a quite tolerably presentable young man, had actually managed by sheer scorn to alter his personal appearance until he had become a sort of walking repudiation of Oxford and all its traditions.",-0.4019,0.0,0.052,0.948,negative,Pygmalion
+It must have been largely in his own despite that he was squeezed into something called a Readership of phonetics there.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"The future of phonetics rests probably with his pupils, who all swore by him; but nothing could bring the man himself into any sort of compliance with the university, to which he nevertheless clung by divine right in an intensely Oxonian way.",0.7096,0.107,0.0,0.893,positive,Pygmalion
+"I daresay his papers, if he has left any, include some satires that may be published without too destructive results fifty years hence.",0.4973,0.133,0.0,0.867,positive,Pygmalion
+"He was, I believe, not in the least an ill-natured man: very much the opposite, I should say; but he would not suffer fools gladly.",0.6871,0.242,0.086,0.672,positive,Pygmalion
+"Those who knew him will recognize in my third act the allusion to the patent Shorthand in which he used to write postcards, and which may be acquired from a four and six-penny manual published by the Clarendon Press.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+The postcards which Mrs. Higgins describes are such as I have received from Sweet.,0.4588,0.2,0.0,0.8,positive,Pygmalion
+"I would decipher a sound which a cockney would represent by zerr, and a Frenchman by seu, and then write demanding with some heat what on earth it meant.",-0.2263,0.0,0.073,0.927,negative,Pygmalion
+"Sweet, with boundless contempt for my stupidity, would reply that it not only meant but obviously was the word Result, as no other Word containing that sound, and capable of making sense with the context, existed in any language spoken on earth.",-0.1901,0.109,0.144,0.747,negative,Pygmalion
+That less expert mortals should require fuller indications was beyond Sweet's patience.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Therefore, though the whole point of his ""Current Shorthand"" is that it can express every sound in the language perfectly, vowels as well as consonants, and that your hand has to make no stroke except the easy and current ones with which you write m, n, and u, l, p, and q, scribbling them at whatever angle comes easiest to you, his unfortunate determination to make this remarkable and quite legible script serve also as a Shorthand reduced it in his own practice to the most inscrutable of cryptograms.",0.9513,0.208,0.049,0.743,positive,Pygmalion
+"His true objective was the provision of a full, accurate, legible script for our noble but ill-dressed language; but he was led past that by his contempt for the popular Pitman system of Shorthand, which he called the Pitfall system.",0.1027,0.159,0.109,0.732,positive,Pygmalion
+"The triumph of Pitman was a triumph of business organization: there was a weekly paper to persuade you to learn Pitman: there were cheap textbooks and exercise books and transcripts of speeches for you to copy, and schools where experienced teachers coached you up to the necessary proficiency.",0.7351,0.124,0.0,0.876,positive,Pygmalion
+Sweet could not organize his market in that fashion.,0.4588,0.273,0.0,0.727,positive,Pygmalion
+He might as well have been the Sybil who tore up the leaves of prophecy that nobody would attend to.,0.2732,0.1,0.0,0.9,positive,Pygmalion
+"The four and six-penny manual, mostly in his lithographed handwriting, that was never vulgarly advertized, may perhaps some day be taken up by a syndicate and pushed upon the public as The Times pushed the Encyclopaedia Britannica; but until then it will certainly not prevail against Pitman.",0.4767,0.064,0.0,0.936,positive,Pygmalion
+I have bought three copies of it during my lifetime; and I am informed by the publishers that its cloistered existence is still a steady and healthy one.,0.4019,0.101,0.0,0.899,positive,Pygmalion
+I actually learned the system two several times; and yet the shorthand in which I am writing these lines is Pitman's.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"And the reason is, that my secretary cannot transcribe Sweet, having been perforce taught in the schools of Pitman.",-0.357,0.0,0.121,0.879,negative,Pygmalion
+"Therefore, Sweet railed at Pitman as vainly as Thersites railed at Ajax: his raillery, however it may have eased his soul, gave no popular vogue to Current Shorthand.",0.7003,0.234,0.064,0.702,positive,Pygmalion
+"Pygmalion Higgins is not a portrait of Sweet, to whom the adventure of Eliza Doolittle would have been impossible; still, as will be seen, there are touches of Sweet in the play.",-0.067,0.128,0.135,0.736,negative,Pygmalion
+With Higgins's physique and temperament Sweet might have set the Thames on fire.,0.1531,0.183,0.146,0.671,positive,Pygmalion
+"As it was, he impressed himself professionally on Europe to an extent that made his comparative personal obscurity, and the failure of Oxford to do justice to his eminence, a puzzle to foreign specialists in his subject.",0.4939,0.152,0.077,0.771,positive,Pygmalion
+"I do not blame Oxford, because I think Oxford is quite right in demanding a certain social amenity from its nurslings (heaven knows it is not exorbitant in its requirements!",0.3103,0.145,0.071,0.785,positive,Pygmalion
+"); for although I well know how hard it is for a man of genius with a seriously underrated subject to maintain serene and kindly relations with the men who underrate it, and who keep all the best places for less important subjects which they profess without originality and sometimes without much capacity for them, still, if he overwhelms them with wrath and disdain, he cannot expect them to heap honors on him.",0.8836,0.203,0.094,0.703,positive,Pygmalion
+Of the later generations of phoneticians I know little.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Among them towers the Poet Laureate, to whom perhaps Higgins may owe his Miltonic sympathies, though here again I must disclaim all portraiture.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"But if the play makes the public aware that there are such people as phoneticians, and that they are among the most important people in England at present, it will serve its turn.",0.6946,0.156,0.0,0.844,positive,Pygmalion
+I wish to boast that Pygmalion has been an extremely successful play all over Europe and North America as well as at home.,0.8903,0.391,0.0,0.609,positive,Pygmalion
+"It is so intensely and deliberately didactic, and its subject is esteemed so dry, that I delight in throwing it at the heads of the wiseacres who repeat the parrot cry that art should never be didactic.",0.5945,0.163,0.097,0.74,positive,Pygmalion
+It goes to prove my contention that art should never be anything else.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Finally, and for the encouragement of people troubled with accents that cut them off from all high employment, I may add that the change wrought by Professor Higgins in the flower girl is neither impossible nor uncommon.",-0.3182,0.068,0.125,0.807,negative,Pygmalion
+The modern concierge's daughter who fulfils her ambition by playing the Queen of Spain in Ruy Blas at the Theatre Francais is only one of many thousands of men and women who have sloughed off their native dialects and acquired a new tongue.,0.2023,0.042,0.0,0.958,positive,Pygmalion
+"But the thing has to be done scientifically, or the last state of the aspirant may be worse than the first.",-0.631,0.0,0.172,0.828,negative,Pygmalion
+"An honest and natural slum dialect is more tolerable than the attempt of a phonetically untaught person to imitate the vulgar dialect of the golf club; and I am sorry to say that in spite of the efforts of our Academy of Dramatic Art, there is still too much sham golfing English on our stage, and too little of the noble English of Forbes Robertson.",0.5908,0.12,0.066,0.814,positive,Pygmalion
+ACT I Covent Garden at 11.15 p.m. Torrents of heavy summer rain.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Cab whistles blowing frantically in all directions.,-0.34,0.0,0.286,0.714,negative,Pygmalion
+"Pedestrians running for shelter into the market and under the portico of St. Paul's Church, where there are already several people, among them a lady and her daughter in evening dress.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"They are all peering out gloomily at the rain, except one man with his back turned to the rest, who seems wholly preoccupied with a notebook in which he is writing busily.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+The church clock strikes the first quarter.,-0.3612,0.0,0.294,0.706,negative,Pygmalion
+"THE DAUGHTER [in the space between the central pillars, close to the one on her left] I'm getting chilled to the bone.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+What can Freddy be doing all this time?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+He's been gone twenty minutes.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE MOTHER [on her daughter's right] Not so long.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+But he ought to have got us a cab by this.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"A BYSTANDER [on the lady's right] He won't get no cab not until half-past eleven, missus, when they come back after dropping their theatre fares.",0.2235,0.076,0.0,0.924,positive,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+But we must have a cab.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+We can't stand here until half-past eleven.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+It's too bad.,-0.5423,0.0,0.636,0.364,negative,Pygmalion
+THE BYSTANDER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, it ain't my fault, missus.",0.52,0.521,0.0,0.479,positive,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"If Freddy had a bit of gumption, he would have got one at the theatre door.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"What could he have done, poor boy?",-0.4767,0.0,0.341,0.659,negative,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Other people got cabs.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Why couldn't he?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Freddy rushes in out of the rain from the Southampton Street side, and comes between them closing a dripping umbrella.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"He is a young man of twenty, in evening dress, very wet around the ankles.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, haven't you got a cab?",0.2732,0.344,0.0,0.656,positive,Pygmalion
+FREDDY.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+There's not one to be had for love or money.,0.6369,0.318,0.0,0.682,positive,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, Freddy, there must be one.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+You can't have tried.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+It's too tiresome.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Do you expect us to go and get one ourselves?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+FREDDY.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I tell you they're all engaged.,0.4019,0.403,0.0,0.597,positive,Pygmalion
+The rain was so sudden: nobody was prepared; and everybody had to take a cab.,0.2263,0.128,0.0,0.872,positive,Pygmalion
+I've been to Charing Cross one way and nearly to Ludgate Circus the other; and they were all engaged.,0.4019,0.13,0.0,0.87,positive,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Did you try Trafalgar Square?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+FREDDY.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+There wasn't one at Trafalgar Square.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Did you try?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+FREDDY.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I tried as far as Charing Cross Station.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Did you expect me to walk to Hammersmith?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You haven't tried at all.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You really are very helpless, Freddy.",-0.5509,0.0,0.416,0.584,negative,Pygmalion
+Go again; and don't come back until you have found a cab.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+FREDDY.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I shall simply get soaked for nothing.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+And what about us?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Are we to stay here all night in this draught, with next to nothing on.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+You selfish pig-- FREDDY.,-0.4767,0.0,0.508,0.492,negative,Pygmalion
+"Oh, very well: I'll go, I'll go.",0.3384,0.285,0.0,0.715,positive,Pygmalion
+"[He opens his umbrella and dashes off Strandwards, but comes into collision with a flower girl, who is hurrying in for shelter, knocking her basket out of her hands.",-0.5023,0.0,0.107,0.893,negative,Pygmalion
+"A blinding flash of lightning, followed instantly by a rattling peal of thunder, orchestrates the incident] THE FLOWER GIRL.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Nah then, Freddy: look wh' y' gowin, deah.",-0.1027,0.0,0.167,0.833,negative,Pygmalion
+FREDDY.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Sorry [he rushes off].,-0.0772,0.0,0.302,0.698,negative,Pygmalion
+THE FLOWER GIRL [picking up her scattered flowers and replacing them in the basket] There's menners f' yer!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Te-oo banches o voylets trod into the mad.,-0.4939,0.0,0.348,0.652,negative,Pygmalion
+"[She sits down on the plinth of the column, sorting her flowers, on the lady's right.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+She is not at all an attractive person.,0.4404,0.293,0.0,0.707,positive,Pygmalion
+"She is perhaps eighteen, perhaps twenty, hardly older.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+She wears a little sailor hat of black straw that has long been exposed to the dust and soot of London and has seldom if ever been brushed.,-0.0772,0.0,0.048,0.952,negative,Pygmalion
+Her hair needs washing rather badly: its mousy color can hardly be natural.,-0.2212,0.136,0.19,0.674,negative,Pygmalion
+She wears a shoddy black coat that reaches nearly to her knees and is shaped to her waist.,0.0516,0.07,0.0,0.93,positive,Pygmalion
+She has a brown skirt with a coarse apron.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Her boots are much the worse for wear.,-0.4767,0.0,0.307,0.693,negative,Pygmalion
+She is no doubt as clean as she can afford to be; but compared to the ladies she is very dirty.,-0.6994,0.07,0.288,0.642,negative,Pygmalion
+Her features are no worse than theirs; but their condition leaves something to be desired; and she needs the services of a dentist].,0.0,0.105,0.144,0.751,neutral,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"How do you know that my son's name is Freddy, pray?",0.3182,0.187,0.0,0.813,positive,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Ow, eez ye-ooa san, is e?",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Wal, fewd dan y' de-ooty bawmz a mather should, eed now bettern to spawl a pore gel's flahrzn than ran awy atbaht pyin.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Will ye-oo py me f'them?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[Here, with apologies, this desperate attempt to represent her dialect without a phonetic alphabet must be abandoned as unintelligible outside London.]",-0.6833,0.0,0.238,0.762,negative,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Do nothing of the sort, mother.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+The idea!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Please allow me, Clara.",0.4939,0.677,0.0,0.323,positive,Pygmalion
+Have you any pennies?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+No.,-0.296,0.0,1.0,0.0,negative,Pygmalion
+I've nothing smaller than sixpence.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [hopefully] I can give you change for a tanner, kind lady.",0.5267,0.236,0.0,0.764,positive,Pygmalion
+THE MOTHER [to Clara] Give it to me.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[Clara parts reluctantly].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Now [to the girl] This is for your flowers.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Thank you kindly, lady.",0.6908,0.74,0.0,0.26,positive,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Make her give you the change.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+These things are only a penny a bunch.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Do hold your tongue, Clara.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+[To the girl].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You can keep the change.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, thank you, lady.",0.3612,0.455,0.0,0.545,positive,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Now tell me how you know that young gentleman's name.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I didn't.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I heard you call him by it.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Don't try to deceive me.,0.3089,0.361,0.0,0.639,positive,Pygmalion
+THE FLOWER GIRL [protesting] Who's trying to deceive you?,-0.4019,0.0,0.252,0.748,negative,Pygmalion
+I called him Freddy or Charlie same as you might yourself if you was talking to a stranger and wished to be pleasant.,0.5106,0.142,0.0,0.858,positive,Pygmalion
+[She sits down beside her basket].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Sixpence thrown away!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Really, mamma, you might have spared Freddy that.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+[She retreats in disgust behind the pillar].,-0.5994,0.0,0.394,0.606,negative,Pygmalion
+"An elderly gentleman of the amiable military type rushes into shelter, and closes a dripping umbrella.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"He is in the same plight as Freddy, very wet about the ankles.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"He is in evening dress, with a light overcoat.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+He takes the place left vacant by the daughter's retirement.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE GENTLEMAN.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Phew!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE MOTHER [to the gentleman] Oh, sir, is there any sign of its stopping?",-0.1531,0.0,0.11,0.89,negative,Pygmalion
+THE GENTLEMAN.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I'm afraid not.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+It started worse than ever about two minutes ago.,-0.4767,0.0,0.279,0.721,negative,Pygmalion
+[He goes to the plinth beside the flower girl; puts up his foot on it; and stoops to turn down his trouser ends].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, dear!",0.4389,0.743,0.0,0.257,positive,Pygmalion
+[She retires sadly and joins her daughter].,-0.4215,0.0,0.318,0.682,negative,Pygmalion
+THE FLOWER GIRL [taking advantage of the military gentleman's proximity to establish friendly relations with him].,0.6369,0.271,0.0,0.729,positive,Pygmalion
+If it's worse it's a sign it's nearly over.,-0.4767,0.0,0.307,0.693,negative,Pygmalion
+"So cheer up, Captain; and buy a flower off a poor girl.",0.1263,0.245,0.211,0.544,positive,Pygmalion
+THE GENTLEMAN.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"I'm sorry, I haven't any change.",-0.0772,0.0,0.245,0.755,negative,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"I can give you change, Captain, THE GENTLEMEN.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+For a sovereign?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I've nothing less.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Garn!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh do buy a flower off me, Captain.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+I can change half-a-crown.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Take this for tuppence.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE GENTLEMAN.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Now don't be troublesome: there's a good girl.,0.681,0.528,0.0,0.472,positive,Pygmalion
+"[Trying his pockets] I really haven't any change--Stop: here's three hapence, if that's any use to you [he retreats to the other pillar].",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [disappointed, but thinking three halfpence better than nothing] Thank you, sir.",0.7964,0.372,0.0,0.628,positive,Pygmalion
+THE BYSTANDER [to the girl] You be careful: give him a flower for it.,0.1531,0.118,0.0,0.882,positive,Pygmalion
+There's a bloke here behind taking down every blessed word you're saying.,0.5994,0.281,0.0,0.719,positive,Pygmalion
+[All turn to the man who is taking notes].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL [springing up terrified] I ain't done nothing wrong by speaking to the gentleman.,-0.2846,0.0,0.133,0.867,negative,Pygmalion
+I've a right to sell flowers if I keep off the kerb.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[Hysterically] I'm a respectable girl: so help me, I never spoke to him except to ask him to buy a flower off me.",0.7089,0.247,0.0,0.753,positive,Pygmalion
+"[General hubbub, mostly sympathetic to the flower girl, but deprecating her excessive sensibility.",0.2846,0.152,0.0,0.848,positive,Pygmalion
+Cries of Don't start hollerin.,-0.4019,0.0,0.403,0.597,negative,Pygmalion
+Who's hurting you?,-0.4019,0.0,0.574,0.426,negative,Pygmalion
+Nobody's going to touch you.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+What's the good of fussing?,0.4404,0.42,0.0,0.58,positive,Pygmalion
+Steady on.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Easy, easy, etc., come from the elderly staid spectators, who pat her comfortingly.",0.8176,0.459,0.0,0.541,positive,Pygmalion
+"Less patient ones bid her shut her head, or ask her roughly what is wrong with her.",-0.4767,0.0,0.162,0.838,negative,Pygmalion
+"A remoter group, not knowing what the matter is, crowd in and increase the noise with question and answer: What's the row?",0.34,0.152,0.0,0.848,positive,Pygmalion
+What she do?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Where is he?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+A tec taking her down.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+What!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+him?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Yes: him over there: Took money off the gentleman, etc.",0.4019,0.231,0.0,0.769,positive,Pygmalion
+"The flower girl, distraught and mobbed, breaks through them to the gentleman, crying mildly] Oh, sir, don't let him charge me.",-0.7717,0.0,0.261,0.739,negative,Pygmalion
+You dunno what it means to me.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+They'll take away my character and drive me on the streets for speaking to gentlemen.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"They-- THE NOTE TAKER [coming forward on her right, the rest crowding after him] There, there, there, there!",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Who's hurting you, you silly girl?",-0.3818,0.141,0.346,0.513,negative,Pygmalion
+What do you take me for?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE BYSTANDER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+It's all right: he's a gentleman: look at his boots.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[Explaining to the note taker] She thought you was a copper's nark, sir.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER [with quick interest] What's a copper's nark?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE BYSTANDER [inept at definition] It's a--well, it's a copper's nark, as you might say.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+What else would you call it?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+A sort of informer.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [still hysterical] I take my Bible oath I never said a word-- THE NOTE TAKER [overbearing but good-humored] Oh, shut up, shut up.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Do I look like a policeman?,0.3612,0.455,0.0,0.545,positive,Pygmalion
+THE FLOWER GIRL [far from reassured] Then what did you take down my words for?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+How do I know whether you took me down right?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You just show me what you've wrote about me.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[The note taker opens his book and holds it steadily under her nose, though the pressure of the mob trying to read it over his shoulders would upset a weaker man].",-0.7717,0.0,0.222,0.778,negative,Pygmalion
+What's that?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+That ain't proper writing.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I can't read that.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I can.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[Reads, reproducing her pronunciation exactly] ""Cheer ap, Keptin; n' haw ya flahr orf a pore gel.""",0.5106,0.191,0.0,0.809,positive,Pygmalion
+THE FLOWER GIRL [much distressed] It's because I called him Captain.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I meant no harm.,-0.6908,0.0,0.851,0.149,negative,Pygmalion
+"[To the gentleman] Oh, sir, don't let him lay a charge agen me for a word like that.",0.3612,0.143,0.0,0.857,positive,Pygmalion
+You-- THE GENTLEMAN.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Charge!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I make no charge.,-0.296,0.0,0.524,0.476,negative,Pygmalion
+"[To the note taker] Really, sir, if you are a detective, you need not begin protecting me against molestation by young women until I ask you.",-0.4404,0.0,0.112,0.888,negative,Pygmalion
+Anybody could see that the girl meant no harm.,-0.6908,0.0,0.449,0.551,negative,Pygmalion
+THE BYSTANDERS GENERALLY [demonstrating against police espionage] Course they could.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+What business is it of yours?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You mind your own affairs.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"He wants promotion, he does.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Taking down people's words!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Girl never said a word to him.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+What harm if she did?,-0.5423,0.0,0.467,0.533,negative,Pygmalion
+"Nice thing a girl can't shelter from the rain without being insulted, etc., etc., etc.",0.6707,0.314,0.0,0.686,positive,Pygmalion
+"[She is conducted by the more sympathetic demonstrators back to her plinth, where she resumes her seat and struggles with her emotion].",0.2716,0.138,0.096,0.766,positive,Pygmalion
+THE BYSTANDER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+He ain't a tec.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+He's a blooming busybody: that's what he is.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"I tell you, look at his boots.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER [turning on him genially] And how are all your people down at Selsey?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE BYSTANDER [suspiciously] Who told you my people come from Selsey?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Never you mind.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+They did.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[To the girl] How do you come to be up so far east?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You were born in Lisson Grove.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [appalled] Oh, what harm is there in my leaving Lisson Grove?",-0.5423,0.0,0.212,0.788,negative,Pygmalion
+It wasn't fit for a pig to live in; and I had to pay four-and-six a week.,-0.3632,0.0,0.226,0.774,negative,Pygmalion
+"[In tears] Oh, boo--hoo--oo-- THE NOTE TAKER.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Live where you like; but stop that noise.,-0.2617,0.166,0.265,0.569,negative,Pygmalion
+"THE GENTLEMAN [to the girl] Come, come!",0.0,0.0,0.0,1.0,neutral,Pygmalion
+he can't touch you: you have a right to live where you please.,0.3182,0.173,0.0,0.827,positive,Pygmalion
+"A SARCASTIC BYSTANDER [thrusting himself between the note taker and the gentleman] Park Lane, for instance.",-0.4084,0.0,0.163,0.837,negative,Pygmalion
+"I'd like to go into the Housing Question with you, I would.",0.3612,0.2,0.0,0.8,positive,Pygmalion
+"THE FLOWER GIRL [subsiding into a brooding melancholy over her basket, and talking very low-spiritedly to herself] I'm a good girl, I am.",0.0258,0.167,0.121,0.711,neutral,Pygmalion
+THE SARCASTIC BYSTANDER [not attending to her] Do you know where I come from?,-0.4084,0.0,0.186,0.814,negative,Pygmalion
+THE NOTE TAKER [promptly] Hoxton.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Titterings.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Popular interest in the note taker's performance increases.,0.7003,0.492,0.0,0.508,positive,Pygmalion
+"THE SARCASTIC ONE [amazed] Well, who said I didn't?",-0.1613,0.194,0.252,0.554,negative,Pygmalion
+Bly me!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You know everything, you do.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [still nursing her sense of injury] Ain't no call to meddle with me, he ain't.",0.2235,0.1,0.0,0.9,positive,Pygmalion
+THE BYSTANDER [to her] Of course he ain't.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Don't you stand it from him.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[To the note taker] See here: what call have you to know about people what never offered to meddle with you?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Where's your warrant?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+SEVERAL BYSTANDERS [encouraged by this seeming point of law] Yes: where's your warrant?,0.4019,0.184,0.0,0.816,positive,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Let him say what he likes.,0.4215,0.359,0.0,0.641,positive,Pygmalion
+I don't want to have no truck with him.,-0.3447,0.0,0.363,0.637,negative,Pygmalion
+THE BYSTANDER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You take us for dirt under your feet, don't you?",-0.34,0.0,0.211,0.789,negative,Pygmalion
+Catch you taking liberties with a gentleman!,0.5562,0.418,0.0,0.582,positive,Pygmalion
+THE SARCASTIC BYSTANDER.,-0.25,0.0,0.5,0.5,negative,Pygmalion
+Yes: tell HIM where he come from if you want to go fortune-telling.,0.4588,0.267,0.0,0.733,positive,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Cheltenham, Harrow, Cambridge, and India.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE GENTLEMAN.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Quite right.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[Great laughter.,0.4939,0.762,0.0,0.238,positive,Pygmalion
+Reaction in the note taker's favor.,0.4019,0.351,0.0,0.649,positive,Pygmalion
+Exclamations of He knows all about it.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Told him proper.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Hear him tell the toff where he come from?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+etc.].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"May I ask, sir, do you do this for your living at a music hall?",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I've thought of that.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Perhaps I shall some day.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+The rain has stopped; and the persons on the outside of the crowd begin to drop off.,-0.4588,0.0,0.211,0.789,negative,Pygmalion
+"THE FLOWER GIRL [resenting the reaction] He's no gentleman, he ain't, to interfere with a poor girl.",-0.6486,0.0,0.275,0.725,negative,Pygmalion
+"THE DAUGHTER [out of patience, pushing her way rudely to the front and displacing the gentleman, who politely retires to the other side of the pillar] What on earth is Freddy doing?",-0.4939,0.0,0.094,0.906,negative,Pygmalion
+I shall get pneumonia if I stay in this draught any longer.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE NOTE TAKER [to himself, hastily making a note of her pronunciation of ""monia""] Earlscourt.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE DAUGHTER [violently] Will you please keep your impertinent remarks to yourself?,0.3182,0.173,0.0,0.827,positive,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Did I say that out loud?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I didn't mean to.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I beg your pardon.,0.3182,0.535,0.0,0.465,positive,Pygmalion
+"Your mother's Epsom, unmistakeably.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE MOTHER [advancing between her daughter and the note taker] How very curious!,0.4376,0.194,0.0,0.806,positive,Pygmalion
+"I was brought up in Largelady Park, near Epsom.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER [uproariously amused] Ha!,0.4003,0.35,0.0,0.65,positive,Pygmalion
+ha!,0.4003,1.0,0.0,0.0,positive,Pygmalion
+What a devil of a name!,-0.69,0.0,0.61,0.39,negative,Pygmalion
+Excuse me.,0.0772,0.565,0.0,0.435,positive,Pygmalion
+"[To the daughter] You want a cab, do you?",0.0772,0.157,0.0,0.843,positive,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Don't dare speak to me.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, please, please Clara.",0.5574,0.697,0.0,0.303,positive,Pygmalion
+[Her daughter repudiates her with an angry shrug and retires haughtily.],-0.5106,0.0,0.248,0.752,negative,Pygmalion
+"We should be so grateful to you, sir, if you found us a cab.",0.5949,0.244,0.0,0.756,positive,Pygmalion
+[The note taker produces a whistle].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, thank you.",0.3612,0.556,0.0,0.444,positive,Pygmalion
+[She joins her daughter].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+The note taker blows a piercing blast.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE SARCASTIC BYSTANDER.,-0.25,0.0,0.5,0.5,negative,Pygmalion
+There!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I knowed he was a plain-clothes copper.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE BYSTANDER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+That ain't a police whistle: that's a sporting whistle.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL [still preoccupied with her wounded feelings] He's no right to take away my character.,-0.296,0.0,0.121,0.879,negative,Pygmalion
+My character is the same to me as any lady's.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I don't know whether you've noticed it; but the rain stopped about two minutes ago.,-0.3291,0.0,0.153,0.847,negative,Pygmalion
+THE BYSTANDER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+So it has.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Why didn't you say so before?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+and us losing our time listening to your silliness.,-0.5423,0.0,0.391,0.609,negative,Pygmalion
+[He walks off towards the Strand].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE SARCASTIC BYSTANDER.,-0.25,0.0,0.5,0.5,negative,Pygmalion
+I can tell where you come from.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You come from Anwell.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Go back there.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER [helpfully] H anwell.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE SARCASTIC BYSTANDER [affecting great distinction of speech] Thenk you, teacher.",0.3328,0.259,0.173,0.568,positive,Pygmalion
+Haw haw!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+So long [he touches his hat with mock respect and strolls off].,0.0772,0.195,0.176,0.629,positive,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Frightening people like that!,-0.2481,0.313,0.437,0.25,negative,Pygmalion
+How would he like it himself.,0.3612,0.333,0.0,0.667,positive,Pygmalion
+THE MOTHER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"It's quite fine now, Clara.",0.2716,0.344,0.0,0.656,positive,Pygmalion
+We can walk to a motor bus.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Come.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[She gathers her skirts above her ankles and hurries off towards the Strand].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE DAUGHTER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+But the cab--[her mother is out of hearing].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, how tiresome!",0.0,0.0,0.0,1.0,neutral,Pygmalion
+[She follows angrily].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"All the rest have gone except the note taker, the gentleman, and the flower girl, who sits arranging her basket, and still pitying herself in murmurs.",-0.34,0.0,0.088,0.912,negative,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Poor girl!,-0.5255,0.0,0.772,0.228,negative,Pygmalion
+Hard enough for her to live without being worrited and chivied.,-0.1027,0.0,0.123,0.877,negative,Pygmalion
+"THE GENTLEMAN [returning to his former place on the note taker's left] How do you do it, if I may ask?",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Simply phonetics.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+The science of speech.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+That's my profession; also my hobby.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Happy is the man who can make a living by his hobby!,0.6114,0.285,0.0,0.715,positive,Pygmalion
+You can spot an Irishman or a Yorkshireman by his brogue.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I can place any man within six miles.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I can place him within two miles in London.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Sometimes within two streets.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Ought to be ashamed of himself, unmanly coward!",-0.75,0.0,0.516,0.484,negative,Pygmalion
+THE GENTLEMAN.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+But is there a living in that?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Oh yes.,0.4019,0.73,0.0,0.27,positive,Pygmalion
+Quite a fat one.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+This is an age of upstarts.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Men begin in Kentish Town with 80 pounds a year, and end in Park Lane with a hundred thousand.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+They want to drop Kentish Town; but they give themselves away every time they open their mouths.,-0.1027,0.065,0.088,0.847,negative,Pygmalion
+Now I can teach them-- THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Let him mind his own business and leave a poor girl-- THE NOTE TAKER [explosively] Woman: cease this detestable boohooing instantly; or else seek the shelter of some other place of worship.,-0.2732,0.064,0.125,0.812,negative,Pygmalion
+"THE FLOWER GIRL [with feeble defiance] I've a right to be here if I like, same as you.",0.0772,0.134,0.118,0.749,positive,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+A woman who utters such depressing and disgusting sounds has no right to be anywhere--no right to live.,-0.802,0.0,0.369,0.631,negative,Pygmalion
+Remember that you are a human being with a soul and the divine gift of articulate speech: that your native language is the language of Shakespear and Milton and The Bible; and don't sit there crooning like a bilious pigeon.,0.8402,0.209,0.0,0.791,positive,Pygmalion
+"THE FLOWER GIRL [quite overwhelmed, and looking up at him in mingled wonder and deprecation without daring to raise her head] Ah--ah--ah--ow--ow--oo!",-0.2964,0.051,0.102,0.847,negative,Pygmalion
+THE NOTE TAKER [whipping out his book] Heavens!,0.4574,0.299,0.0,0.701,positive,Pygmalion
+what a sound!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[He writes; then holds out the book and reads, reproducing her vowels exactly] Ah--ah--ah--ow--ow--ow--oo!",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [tickled by the performance, and laughing in spite of herself] Garn!",-0.126,0.169,0.195,0.635,negative,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You see this creature with her kerbstone English: the English that will keep her in the gutter to the end of her days.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, sir, in three months I could pass that girl off as a duchess at an ambassador's garden party.",0.5859,0.242,0.0,0.758,positive,Pygmalion
+"I could even get her a place as lady's maid or shop assistant, which requires better English.",0.4404,0.172,0.0,0.828,positive,Pygmalion
+That's the sort of thing I do for commercial millionaires.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"And on the profits of it I do genuine scientific work in phonetics, and a little as a poet on Miltonic lines.",0.4404,0.139,0.0,0.861,positive,Pygmalion
+THE GENTLEMAN.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I am myself a student of Indian dialects; and-- THE NOTE TAKER [eagerly] Are you?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Do you know Colonel Pickering, the author of Spoken Sanscrit?",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE GENTLEMAN.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I am Colonel Pickering.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Who are you?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE NOTE TAKER.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Henry Higgins, author of Higgins's Universal Alphabet.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+PICKERING [with enthusiasm] I came from India to meet you.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I was going to India to meet you.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Where do you live?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+27A Wimpole Street.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Come and see me tomorrow.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I'm at the Carlton.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Come with me now and let's have a jaw over some supper.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Right you are.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [to Pickering, as he passes her] Buy a flower, kind gentleman.",0.5267,0.221,0.0,0.779,positive,Pygmalion
+I'm short for my lodging.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I really haven't any change.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I'm sorry [he goes away].,-0.0772,0.0,0.245,0.755,negative,Pygmalion
+HIGGINS [shocked at girl's mendacity] Liar.,-0.5106,0.0,0.398,0.602,negative,Pygmalion
+You said you could change half-a-crown.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [rising in desperation] You ought to be stuffed with nails, you ought.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+[Flinging the basket at his feet] Take the whole blooming basket for sixpence.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+The church clock strikes the second quarter.,-0.3612,0.0,0.294,0.706,negative,Pygmalion
+"HIGGINS [hearing in it the voice of God, rebuking him for his Pharisaic want of charity to the poor girl] A reminder.",0.2732,0.236,0.118,0.646,positive,Pygmalion
+[He raises his hat solemnly; then throws a handful of money into the basket and follows Pickering].,0.2023,0.107,0.0,0.893,positive,Pygmalion
+THE FLOWER GIRL [picking up a half-crown] Ah--ow--ooh!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[Picking up a couple of florins] Aaah--ow--ooh!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[Picking up several coins] Aaaaaah--ow--ooh!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[Picking up a half-sovereign] Aasaaaaaaaaah--ow--ooh!!!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+FREDDY [springing out of a taxicab] Got one at last.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Hallo!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[To the girl] Where are the two ladies that were here?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+They walked to the bus when the rain stopped.,-0.2263,0.0,0.192,0.808,negative,Pygmalion
+FREDDY.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+And left me with a cab on my hands.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Damnation!,-0.5983,0.0,1.0,0.0,negative,Pygmalion
+"THE FLOWER GIRL [with grandeur] Never you mind, young man.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+I'm going home in a taxi.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[She sails off to the cab.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+The driver puts his hand behind him and holds the door firmly shut against her.,0.4939,0.186,0.0,0.814,positive,Pygmalion
+"Quite understanding his mistrust, she shows him her handful of money].",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Eightpence ain't no object to me, Charlie.",0.2235,0.239,0.0,0.761,positive,Pygmalion
+[He grins and opens the door].,0.2263,0.275,0.0,0.725,positive,Pygmalion
+"Angel Court, Drury Lane, round the corner of Micklejohn's oil shop.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Let's see how fast you can make her hop it.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[She gets in and pulls the door to with a slam as the taxicab starts].,-0.3818,0.0,0.167,0.833,negative,Pygmalion
+FREDDY.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, I'm dashed!",0.3382,0.545,0.0,0.455,positive,Pygmalion
+ACT II Next day at 11 a.m. Higgins's laboratory in Wimpole Street.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"It is a room on the first floor, looking on the street, and was meant for the drawing-room.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+The double doors are in the middle of the back hall; and persons entering find in the corner to their right two tall file cabinets at right angles to one another against the walls.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"In this corner stands a flat writing-table, on which are a phonograph, a laryngoscope, a row of tiny organ pipes with a bellows, a set of lamp chimneys for singing flames with burners attached to a gas plug in the wall by an indiarubber tube, several tuning-forks of different sizes, a life-size image of half a human head, showing in section the vocal organs, and a box containing a supply of wax cylinders for the phonograph.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Further down the room, on the same side, is a fireplace, with a comfortable leather-covered easy-chair at the side of the hearth nearest the door, and a coal-scuttle.",0.5106,0.121,0.0,0.879,positive,Pygmalion
+There is a clock on the mantelpiece.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Between the fireplace and the phonograph table is a stand for newspapers.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"On the other side of the central door, to the left of the visitor, is a cabinet of shallow drawers.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+On it is a telephone and the telephone directory.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"The corner beyond, and most of the side wall, is occupied by a grand piano, with the keyboard at the end furthest from the door, and a bench for the player extending the full length of the keyboard.",0.4588,0.079,0.0,0.921,positive,Pygmalion
+"On the piano is a dessert dish heaped with fruit and sweets, mostly chocolates.",0.4939,0.211,0.0,0.789,positive,Pygmalion
+The middle of the room is clear.,0.3818,0.302,0.0,0.698,positive,Pygmalion
+"Besides the easy chair, the piano bench, and two chairs at the phonograph table, there is one stray chair.",0.4404,0.139,0.0,0.861,positive,Pygmalion
+It stands near the fireplace.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"On the walls, engravings; mostly Piranesis and mezzotint portraits.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+No paintings.,-0.296,0.0,0.688,0.312,negative,Pygmalion
+"Pickering is seated at the table, putting down some cards and a tuning-fork which he has been using.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Higgins is standing up near him, closing two or three file drawers which are hanging out.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"He appears in the morning light as a robust, vital, appetizing sort of man of forty or thereabouts, dressed in a professional-looking black frock-coat with a white linen collar and black silk tie.",0.5574,0.141,0.0,0.859,positive,Pygmalion
+"He is of the energetic, scientific type, heartily, even violently interested in everything that can be studied as a scientific subject, and careless about himself and other people, including their feelings.",-0.1779,0.148,0.166,0.686,negative,Pygmalion
+"He is, in fact, but for his years and size, rather like a very impetuous baby ""taking notice"" eagerly and loudly, and requiring almost as much watching to keep him out of unintended mischief.",0.5267,0.167,0.081,0.752,positive,Pygmalion
+His manner varies from genial bullying when he is in a good humor to stormy petulance when anything goes wrong; but he is so entirely frank and void of malice that he remains likeable even in his least reasonable moments.,0.5994,0.2,0.096,0.704,positive,Pygmalion
+"HIGGINS [as he shuts the last drawer] Well, I think that's the whole show.",0.2732,0.149,0.0,0.851,positive,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+It's really amazing.,0.624,0.672,0.0,0.328,positive,Pygmalion
+"I haven't taken half of it in, you know.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Would you like to go over any of it again?,0.3612,0.217,0.0,0.783,positive,Pygmalion
+"PICKERING [rising and coming to the fireplace, where he plants himself with his back to the fire] No, thank you; not now.",0.0772,0.101,0.089,0.81,positive,Pygmalion
+I'm quite done up for this morning.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"HIGGINS [following him, and standing beside him on his left] Tired of listening to sounds?",-0.4404,0.0,0.172,0.828,negative,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Yes.,0.4019,1.0,0.0,0.0,positive,Pygmalion
+It's a fearful strain.,-0.5267,0.0,0.815,0.185,negative,Pygmalion
+I rather fancied myself because I can pronounce twenty-four distinct vowel sounds; but your hundred and thirty beat me.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I can't hear a bit of difference between most of them.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"HIGGINS [chuckling, and going over to the piano to eat sweets] Oh, that comes with practice.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You hear no difference at first; but you keep on listening, and presently you find they're all as different as A from B.",-0.1531,0.0,0.071,0.929,negative,Pygmalion
+[Mrs. Pearce looks in: she is Higgins's housekeeper] What's the matter?,0.0258,0.099,0.0,0.901,neutral,Pygmalion
+"MRS. PEARCE [hesitating, evidently perplexed] A young woman wants to see you, sir.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+A young woman!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+What does she want?,0.0772,0.302,0.0,0.698,positive,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, sir, she says you'll be glad to see her when you know what she's come about.",0.6249,0.254,0.0,0.746,positive,Pygmalion
+"She's quite a common girl, sir.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Very common indeed.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"I should have sent her away, only I thought perhaps you wanted her to talk into your machines.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"I hope I've not done wrong; but really you see such queer people sometimes--you'll excuse me, I'm sure, sir-- HIGGINS.",0.7292,0.351,0.0,0.649,positive,Pygmalion
+"Oh, that's all right, Mrs. Pearce.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Has she an interesting accent?,0.4019,0.403,0.0,0.597,positive,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, something dreadful, sir, really.",-0.4404,0.0,0.42,0.58,negative,Pygmalion
+I don't know how you can take an interest in it.,0.4588,0.25,0.0,0.75,positive,Pygmalion
+HIGGINS [to Pickering] Let's have her up.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Show her up, Mrs. Pearce [he rushes across to his working table and picks out a cylinder to use on the phonograph].",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"MRS. PEARCE [only half resigned to it] Very well, sir.",0.101,0.193,0.161,0.646,positive,Pygmalion
+It's for you to say.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[She goes downstairs].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+This is rather a bit of luck.,0.4588,0.375,0.0,0.625,positive,Pygmalion
+I'll show you how I make records.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+We'll set her talking; and I'll take it down first in Bell's visible Speech; then in broad Romic; and then we'll get her on the phonograph so that you can turn her on as often as you like with the written transcript before you.,0.3612,0.055,0.0,0.945,positive,Pygmalion
+"MRS. PEARCE [returning] This is the young woman, sir.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+The flower girl enters in state.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"She has a hat with three ostrich feathers, orange, sky-blue, and red.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"She has a nearly clean apron, and the shoddy coat has been tidied a little.",0.4019,0.184,0.0,0.816,positive,Pygmalion
+"The pathos of this deplorable figure, with its innocent vanity and consequential air, touches Pickering, who has already straightened himself in the presence of Mrs. Pearce.",0.128,0.085,0.067,0.848,positive,Pygmalion
+"But as to Higgins, the only distinction he makes between men and women is that when he is neither bullying nor exclaiming to the heavens against some featherweight cross, he coaxes women as a child coaxes its nurse when it wants to get anything out of her.",0.8303,0.15,0.0,0.85,positive,Pygmalion
+"HIGGINS [brusquely, recognizing her with unconcealed disappointment, and at once, baby-like, making an intolerable grievance of it] Why, this is the girl I jotted down last night.",-0.7506,0.0,0.211,0.789,negative,Pygmalion
+She's no use: I've got all the records I want of the Lisson Grove lingo; and I'm not going to waste another cylinder on it.,0.1109,0.135,0.082,0.783,positive,Pygmalion
+[To the girl] Be off with you: I don't want you.,-0.0572,0.0,0.12,0.88,negative,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Don't you be so saucy.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You ain't heard what I come for yet.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[To Mrs. Pearce, who is waiting at the door for further instruction] Did you tell him I come in a taxi?",0.0,0.0,0.0,1.0,neutral,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Nonsense, girl!",-0.4574,0.0,0.749,0.251,negative,Pygmalion
+what do you think a gentleman like Mr. Higgins cares what you came in?,0.6705,0.333,0.0,0.667,positive,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, we are proud!",0.5255,0.531,0.0,0.469,positive,Pygmalion
+"He ain't above giving lessons, not him: I heard him say so.",-0.2584,0.0,0.169,0.831,negative,Pygmalion
+"Well, I ain't come here to ask for any compliment; and if my money's not good enough I can go elsewhere.",0.4203,0.22,0.102,0.678,positive,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Good enough for what?,0.4404,0.492,0.0,0.508,positive,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Good enough for ye--oo.,0.4404,0.492,0.0,0.508,positive,Pygmalion
+"Now you know, don't you?",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"I'm come to have lessons, I am.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+And to pay for em too: make no mistake.,-0.6124,0.0,0.5,0.5,negative,Pygmalion
+HIGGINS [stupent] WELL!!!,0.5732,0.65,0.0,0.35,positive,Pygmalion
+[Recovering his breath with a gasp] What do you expect me to say to you?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, if you was a gentleman, you might ask me to sit down, I think.",0.2732,0.149,0.0,0.851,positive,Pygmalion
+Don't I tell you I'm bringing you business?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Pickering: shall we ask this baggage to sit down or shall we throw her out of the window?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [running away in terror to the piano, where she turns at bay] Ah--ah--ah--ow--ow--ow--oo!",-0.5707,0.0,0.198,0.802,negative,Pygmalion
+[Wounded and whimpering] I won't be called a baggage when I've offered to pay like any lady.,0.2732,0.148,0.083,0.769,positive,Pygmalion
+"Motionless, the two men stare at her from the other side of the room, amazed.",0.4939,0.186,0.0,0.814,positive,Pygmalion
+"PICKERING [gently] What is it you want, my girl?",0.0772,0.14,0.0,0.86,positive,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I want to be a lady in a flower shop stead of selling at the corner of Tottenham Court Road.,0.0772,0.075,0.0,0.925,positive,Pygmalion
+But they won't take me unless I can talk more genteel.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+He said he could teach me.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, here I am ready to pay him--not asking any favor--and he treats me as if I was dirt.",0.2023,0.215,0.178,0.607,positive,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+How can you be such a foolish ignorant girl as to think you could afford to pay Mr. Higgins?,-0.5574,0.0,0.272,0.728,negative,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Why shouldn't I?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I know what lessons cost as well as you do; and I'm ready to pay.,0.4939,0.271,0.082,0.647,positive,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+How much?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"THE FLOWER GIRL [coming back to him, triumphant] Now you're talking!",0.0,0.0,0.0,1.0,neutral,Pygmalion
+I thought you'd come off it when you saw a chance of getting back a bit of what you chucked at me last night.,0.25,0.091,0.0,0.909,positive,Pygmalion
+"[Confidentially] You'd had a drop in, hadn't you?",-0.2732,0.0,0.259,0.741,negative,Pygmalion
+HIGGINS [peremptorily] Sit down.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, if you're going to make a compliment of it-- HIGGINS [thundering at her] Sit down.",0.4767,0.181,0.0,0.819,positive,Pygmalion
+"MRS. PEARCE [severely] Sit down, girl.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Do as you're told.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[She places the stray chair near the hearthrug between Higgins and Pickering, and stands behind it waiting for the girl to sit down].",0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Ah--ah--ah--ow--ow--oo!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[She stands, half rebellious, half bewildered].",-0.296,0.0,0.306,0.694,negative,Pygmalion
+PICKERING [very courteous] Won't you sit down?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA [coyly] Don't mind if I do.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[She sits down.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Pickering returns to the hearthrug].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+What's your name?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+THE FLOWER GIRL.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Liza Doolittle.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"HIGGINS [declaiming gravely] Eliza, Elizabeth, Betsy and Bess, They went to the woods to get a bird's nes': PICKERING.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+They found a nest with four eggs in it: HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"They took one apiece, and left three in it.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+They laugh heartily at their own wit.,0.5574,0.375,0.0,0.625,positive,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, don't be silly.",-0.0191,0.0,0.264,0.736,neutral,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You mustn't speak to the gentleman like that.,0.3612,0.263,0.0,0.737,positive,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, why won't he speak sensible to me?",0.2732,0.231,0.0,0.769,positive,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Come back to business.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+How much do you propose to pay me for the lessons?,-0.1027,0.0,0.123,0.877,negative,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, I know what's right.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+A lady friend of mine gets French lessons for eighteenpence an hour from a real French gentleman.,0.4939,0.186,0.0,0.814,positive,Pygmalion
+"Well, you wouldn't have the face to ask me the same for teaching me my own language as you would for French; so I won't give more than a shilling.",0.2732,0.072,0.0,0.928,positive,Pygmalion
+Take it or leave it.,-0.0516,0.0,0.231,0.769,negative,Pygmalion
+"HIGGINS [walking up and down the room, rattling his keys and his cash in his pockets] You know, Pickering, if you consider a shilling, not as a simple shilling, but as a percentage of this girl's income, it works out as fully equivalent to sixty or seventy guineas from a millionaire.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+How so?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Figure it out.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+A millionaire has about 150 pounds a day.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+She earns about half-a-crown.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA [haughtily] Who told you I only-- HIGGINS [continuing] She offers me two-fifths of her day's income for a lesson.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Two-fifths of a millionaire's income for a day would be somewhere about 60 pounds.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+It's handsome.,0.4939,0.762,0.0,0.238,positive,Pygmalion
+"By George, it's enormous!",0.0,0.0,0.0,1.0,neutral,Pygmalion
+it's the biggest offer I ever had.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"LIZA [rising, terrified] Sixty pounds!",0.0,0.0,0.0,1.0,neutral,Pygmalion
+What are you talking about?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I never offered you sixty pounds.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Where would I get-- HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Hold your tongue.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA [weeping] But I ain't got sixty pounds.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Oh-- MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Don't cry, you silly girl.",0.357,0.385,0.162,0.453,positive,Pygmalion
+Sit down.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Nobody is going to touch your money.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Somebody is going to touch you, with a broomstick, if you don't stop snivelling.",0.2235,0.136,0.0,0.864,positive,Pygmalion
+Sit down.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA [obeying slowly] Ah--ah--ah--ow--oo--o!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+One would think you was my father.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"If I decide to teach you, I'll be worse than two fathers to you.",-0.4767,0.0,0.205,0.795,negative,Pygmalion
+Here [he offers her his silk handkerchief]!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+What's this for?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+To wipe your eyes.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+To wipe any part of your face that feels moist.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Remember: that's your handkerchief; and that's your sleeve.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Don't mistake the one for the other if you wish to become a lady in a shop.,0.577,0.267,0.0,0.733,positive,Pygmalion
+"Liza, utterly bewildered, stares helplessly at him.",-0.3947,0.0,0.307,0.693,negative,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"It's no use talking to her like that, Mr. Higgins: she doesn't understand you.",0.0772,0.15,0.132,0.719,positive,Pygmalion
+"Besides, you're quite wrong: she doesn't do it that way at all [she takes the handkerchief].",-0.5256,0.0,0.184,0.816,negative,Pygmalion
+LIZA [snatching it] Here!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You give me that handkerchief.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"He give it to me, not to you.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+PICKERING [laughing] He did.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"I think it must be regarded as her property, Mrs. Pearce.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"MRS. PEARCE [resigning herself] Serve you right, Mr. Higgins.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Higgins: I'm interested.,0.4019,0.574,0.0,0.426,positive,Pygmalion
+What about the ambassador's garden party?,0.4019,0.351,0.0,0.649,positive,Pygmalion
+I'll say you're the greatest teacher alive if you make that good.,0.8658,0.519,0.0,0.481,positive,Pygmalion
+I'll bet you all the expenses of the experiment you can't do it.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+And I'll pay for the lessons.,-0.1027,0.0,0.219,0.781,negative,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, you are real good.",0.4404,0.42,0.0,0.58,positive,Pygmalion
+"Thank you, Captain.",0.3612,0.556,0.0,0.444,positive,Pygmalion
+"HIGGINS [tempted, looking at her] It's almost irresistible.",0.2748,0.231,0.0,0.769,positive,Pygmalion
+She's so deliciously low--so horribly dirty-- LIZA [protesting extremely] Ah--ah--ah--ah--ow--ow--oooo!!!,-0.3284,0.203,0.289,0.508,negative,Pygmalion
+"I ain't dirty: I washed my face and hands afore I come, I did.",0.3412,0.211,0.0,0.789,positive,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You're certainly not going to turn her head with flattery, Higgins.",0.4215,0.297,0.0,0.703,positive,Pygmalion
+"MRS. PEARCE [uneasy] Oh, don't say that, sir: there's more ways than one of turning a girl's head; and nobody can do it better than Mr. Higgins, though he may not always mean it.",0.4404,0.083,0.0,0.917,positive,Pygmalion
+"I do hope, sir, you won't encourage him to do anything foolish.",-0.2268,0.185,0.306,0.509,negative,Pygmalion
+HIGGINS [becoming excited as the idea grows on him] What is life but a series of inspired follies?,0.7184,0.286,0.0,0.714,positive,Pygmalion
+The difficulty is to find them to do.,-0.34,0.0,0.255,0.745,negative,Pygmalion
+Never lose a chance: it doesn't come every day.,0.1326,0.226,0.174,0.6,positive,Pygmalion
+I shall make a duchess of this draggletailed guttersnipe.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA [strongly deprecating this view of her] Ah--ah--ah--ow--ow--oo!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS [carried away] Yes: in six months--in three if she has a good ear and a quick tongue--I'll take her anywhere and pass her off as anything.,0.6808,0.196,0.0,0.804,positive,Pygmalion
+We'll start today: now!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+this moment!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Take her away and clean her, Mrs. Pearce.",0.4019,0.278,0.0,0.722,positive,Pygmalion
+"Monkey Brand, if it won't come off any other way.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Is there a good fire in the kitchen?,0.128,0.282,0.233,0.485,positive,Pygmalion
+MRS. PEARCE [protesting].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Yes; but-- HIGGINS [storming on] Take all her clothes off and burn them.,0.4019,0.184,0.0,0.816,positive,Pygmalion
+Ring up Whiteley or somebody for new ones.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Wrap her up in brown paper till they come.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You're no gentleman, you're not, to talk of such things.",-0.296,0.0,0.196,0.804,negative,Pygmalion
+"I'm a good girl, I am; and I know what the like of you are, I do.",0.6597,0.329,0.0,0.671,positive,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"We want none of your Lisson Grove prudery here, young woman.",0.0772,0.115,0.0,0.885,positive,Pygmalion
+You've got to learn to behave like a duchess.,0.3612,0.263,0.0,0.737,positive,Pygmalion
+"Take her away, Mrs. Pearce.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+If she gives you any trouble wallop her.,-0.4019,0.0,0.278,0.722,negative,Pygmalion
+LIZA [springing up and running between Pickering and Mrs. Pearce for protection] No!,-0.3595,0.0,0.172,0.828,negative,Pygmalion
+"I'll call the police, I will.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+But I've no place to put her.,-0.4215,0.0,0.318,0.682,negative,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Put her in the dustbin.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Ah--ah--ah--ow--ow--oo!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh come, Higgins!",0.0,0.0,0.0,1.0,neutral,Pygmalion
+be reasonable.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"MRS. PEARCE [resolutely] You must be reasonable, Mr. Higgins: really you must.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+You can't walk over everybody like this.,0.3612,0.294,0.0,0.706,positive,Pygmalion
+"Higgins, thus scolded, subsides.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+The hurricane is succeeded by a zephyr of amiable surprise.,0.5994,0.412,0.0,0.588,positive,Pygmalion
+HIGGINS [with professional exquisiteness of modulation] I walk over everybody!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"My dear Mrs. Pearce, my dear Pickering, I never had the slightest intention of walking over anyone.",0.6369,0.271,0.0,0.729,positive,Pygmalion
+All I propose is that we should be kind to this poor girl.,0.0772,0.206,0.188,0.606,positive,Pygmalion
+We must help her to prepare and fit herself for her new station in life.,0.6369,0.286,0.0,0.714,positive,Pygmalion
+"If I did not express myself clearly it was because I did not wish to hurt her delicacy, or yours.",-0.1877,0.125,0.203,0.673,negative,Pygmalion
+"Liza, reassured, steals back to her chair.",-0.1531,0.245,0.3,0.455,negative,Pygmalion
+"MRS. PEARCE [to Pickering] Well, did you ever hear anything like that, sir?",0.5574,0.295,0.0,0.705,positive,Pygmalion
+"PICKERING [laughing heartily] Never, Mrs. Pearce: never.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS [patiently] What's the matter?,0.0258,0.216,0.0,0.784,neutral,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, the matter is, sir, that you can't take a girl up like that as if you were picking up a pebble on the beach.",0.5719,0.222,0.0,0.778,positive,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Why not?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Why not!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+But you don't know anything about her.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+What about her parents?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+She may be married.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Garn!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+There!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"As the girl very properly says, Garn!",0.0,0.0,0.0,1.0,neutral,Pygmalion
+Married indeed!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Don't you know that a woman of that class looks a worn out drudge of fifty a year after she's married.,-0.296,0.0,0.115,0.885,negative,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Who'd marry me?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"HIGGINS [suddenly resorting to the most thrillingly beautiful low tones in his best elocutionary style] By George, Eliza, the streets will be strewn with the bodies of men shooting themselves for your sake before I've done with you.",0.8836,0.243,0.049,0.708,positive,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Nonsense, sir.",-0.4019,0.0,0.73,0.27,negative,Pygmalion
+You mustn't talk like that to her.,-0.2755,0.0,0.26,0.74,negative,Pygmalion
+LIZA [rising and squaring herself determinedly] I'm going away.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"He's off his chump, he is.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+I don't want no balmies teaching me.,0.1695,0.266,0.172,0.563,positive,Pygmalion
+"HIGGINS [wounded in his tenderest point by her insensibility to his elocution] Oh, indeed!",0.4003,0.172,0.0,0.828,positive,Pygmalion
+"I'm mad, am I?",-0.4939,0.0,0.516,0.484,negative,Pygmalion
+"Very well, Mrs. Pearce: you needn't order the new clothes for her.",0.3384,0.179,0.0,0.821,positive,Pygmalion
+Throw her out.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA [whimpering] Nah--ow.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You got no right to touch me.,-0.296,0.0,0.268,0.732,negative,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You see now what comes of being saucy.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"[Indicating the door] This way, please.",0.3182,0.315,0.0,0.685,positive,Pygmalion
+LIZA [almost in tears] I didn't want no clothes.,0.1695,0.207,0.134,0.659,positive,Pygmalion
+I wouldn't have taken them [she throws away the handkerchief].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I can buy my own clothes.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS [deftly retrieving the handkerchief and intercepting her on her reluctant way to the door] You're an ungrateful wicked girl.,-0.8126,0.0,0.331,0.669,negative,Pygmalion
+This is my return for offering to take you out of the gutter and dress you beautifully and make a lady of you.,0.5719,0.15,0.0,0.85,positive,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Stop, Mr. Higgins.",-0.296,0.0,0.524,0.476,negative,Pygmalion
+I won't allow it.,-0.1695,0.0,0.454,0.546,negative,Pygmalion
+It's you that are wicked.,-0.5267,0.0,0.459,0.541,negative,Pygmalion
+"Go home to your parents, girl; and tell them to take better care of you.",0.7269,0.319,0.0,0.681,positive,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I ain't got no parents.,0.2235,0.386,0.0,0.614,positive,Pygmalion
+They told me I was big enough to earn my own living and turned me out.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Where's your mother?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I ain't got no mother.,0.2235,0.386,0.0,0.614,positive,Pygmalion
+Her that turned me out was my sixth stepmother.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+But I done without them.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"And I'm a good girl, I am.",0.4404,0.42,0.0,0.58,positive,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Very well, then, what on earth is all this fuss about?",0.3384,0.193,0.0,0.807,positive,Pygmalion
+The girl doesn't belong to anybody--is no use to anybody but me.,-0.1531,0.0,0.127,0.873,negative,Pygmalion
+[He goes to Mrs. Pearce and begins coaxing].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You can adopt her, Mrs. Pearce: I'm sure a daughter would be a great amusement to you.",0.8625,0.491,0.0,0.509,positive,Pygmalion
+Now don't make any more fuss.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Take her downstairs; and-- MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+But what's to become of her?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Is she to be paid anything?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Do be sensible, sir.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, pay her whatever is necessary: put it down in the housekeeping book.",-0.1027,0.0,0.104,0.896,negative,Pygmalion
+[Impatiently] What on earth will she want with money?,0.0772,0.14,0.0,0.86,positive,Pygmalion
+She'll have her food and her clothes.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+She'll only drink if you give her money.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA [turning on him] Oh you are a brute.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+It's a lie: nobody ever saw the sign of liquor on me.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[She goes back to her chair and plants herself there defiantly].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"PICKERING [in good-humored remonstrance] Does it occur to you, Higgins, that the girl has some feelings?",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"HIGGINS [looking critically at her] Oh no, I don't think so.",-0.296,0.0,0.196,0.804,negative,Pygmalion
+Not any feelings that we need bother about.,-0.34,0.0,0.255,0.745,negative,Pygmalion
+"[Cheerily] Have you, Eliza?",0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I got my feelings same as anyone else.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"HIGGINS [to Pickering, reflectively] You see the difficulty?",-0.34,0.0,0.255,0.745,negative,Pygmalion
+PICKERING.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Eh?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+What difficulty?,-0.34,0.0,0.706,0.294,negative,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+To get her to talk grammar.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+The mere pronunciation is easy enough.,0.4404,0.367,0.0,0.633,positive,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I don't want to talk grammar.,-0.0572,0.0,0.234,0.766,negative,Pygmalion
+I want to talk like a lady.,0.4215,0.559,0.0,0.441,positive,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Will you please keep to the point, Mr. Higgins.",0.3182,0.223,0.0,0.777,positive,Pygmalion
+I want to know on what terms the girl is to be here.,0.0772,0.106,0.0,0.894,positive,Pygmalion
+Is she to have any wages?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+And what is to become of her when you've finished your teaching?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+You must look ahead a little.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS [impatiently] What's to become of her if I leave her in the gutter?,-0.0516,0.0,0.091,0.909,negative,Pygmalion
+"Tell me that, Mrs. Pearce.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"That's her own business, not yours, Mr. Higgins.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, when I've done with her, we can throw her back into the gutter; and then it will be her own business again; so that's all right.",0.2732,0.075,0.0,0.925,positive,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Oh, you've no feeling heart in you: you don't care for nothing but yourself [she rises and takes the floor resolutely].",-0.2878,0.055,0.151,0.794,negative,Pygmalion
+Here!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I've had enough of this.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+I'm going [making for the door].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You ought to be ashamed of yourself, you ought.",-0.4767,0.0,0.279,0.721,negative,Pygmalion
+"HIGGINS [snatching a chocolate cream from the piano, his eyes suddenly beginning to twinkle with mischief] Have some chocolates, Eliza.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+"LIZA [halting, tempted] How do I know what might be in them?",0.0,0.0,0.0,1.0,neutral,Pygmalion
+I've heard of girls being drugged by the like of you.,0.3612,0.2,0.0,0.8,positive,Pygmalion
+Higgins whips out his penknife; cuts a chocolate in two; puts one half into his mouth and bolts it; and offers her the other half.,-0.296,0.0,0.087,0.913,negative,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Pledge of good faith, Eliza.",0.6908,0.655,0.0,0.345,positive,Pygmalion
+I eat one half you eat the other.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+[Liza opens her mouth to retort: he pops the half chocolate into it].,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You shall have boxes of them, barrels of them, every day.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+You shall live on them.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Eh?,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"LIZA [who has disposed of the chocolate after being nearly choked by it] I wouldn't have ate it, only I'm too ladylike to take it out of my mouth.",-0.4767,0.0,0.103,0.897,negative,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Listen, Eliza.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+I think you said you came in a taxi.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Well, what if I did?",0.2732,0.412,0.0,0.588,positive,Pygmalion
+I've as good a right to take a taxi as anyone else.,0.4404,0.244,0.0,0.756,positive,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You have, Eliza; and in future you shall have as many taxis as you want.",0.0772,0.085,0.0,0.915,positive,Pygmalion
+You shall go up and down and round the town in a taxi every day.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"Think of that, Eliza.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+MRS. PEARCE.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Mr. Higgins: you're tempting the girl.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+It's not right.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+She should think of the future.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+At her age!,0.0,0.0,0.0,1.0,neutral,Pygmalion
+Nonsense!,-0.4574,0.0,1.0,0.0,negative,Pygmalion
+Time enough to think of the future when you haven't any future to think of.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"No, Eliza: do as this lady does: think of other people's futures; but never think of your own.",-0.1531,0.0,0.086,0.914,negative,Pygmalion
+"Think of chocolates, and taxis, and gold, and diamonds.",0.0,0.0,0.0,1.0,neutral,Pygmalion
+LIZA.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+No: I don't want no gold and no diamonds.,0.091,0.337,0.306,0.357,positive,Pygmalion
+"I'm a good girl, I am.",0.4404,0.492,0.0,0.508,positive,Pygmalion
+"[She sits down again, with an attempt at dignity].",0.0,0.0,0.0,1.0,neutral,Pygmalion
+HIGGINS.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"You shall remain so, Eliza, under the care of Mrs. Pearce.",0.4939,0.242,0.0,0.758,positive,Pygmalion
+"And you shall marry an officer in the Guards, with a beautiful moustache: the son of a marquis, who will disinherit him for marrying you, but will relent when he sees your beauty and goodness-- PICKERING.",0.8248,0.193,0.0,0.807,positive,Pygmalion
+"Excuse me, Higgins; but I really must interfere.",0.0387,0.161,0.0,0.839,neutral,Pygmalion
+Mrs. Pearce is quite right.,0.0,0.0,0.0,1.0,neutral,Pygmalion
+"If this girl is to put herself in your hands for six months for an experiment in teaching, she must",0.0,0.0,0.0,1.0,neutral,Pygmalion

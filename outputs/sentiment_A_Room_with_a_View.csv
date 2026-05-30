@@ -1,0 +1,730 @@
+sentence,compound,positive,negative,neutral,label,title
+The Project Gutenberg eBook of A Room with a View This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.,-0.1531,0.068,0.107,0.825,negative,A Room with a View
+"You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org .",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.",0.4215,0.097,0.0,0.903,positive,A Room with a View
+"Title : A Room with a View Author : E. M. Forster Release date : May 1, 2001 [eBook #2641] Most recently updated: August 11, 2025 Language : English Other information and formats : www.gutenberg.org/ebooks/2641 *** START OF THE PROJECT GUTENBERG EBOOK A ROOM WITH A VIEW *** A Room With A View By E. M. Forster CONTENTS Part One.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Chapter I.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+The Bertolini Chapter II.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+In Santa Croce with No Baedeker Chapter III.,-0.296,0.0,0.239,0.761,negative,A Room with a View
+"Music, Violets, and the Letter ""S"" Chapter IV.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Fourth Chapter Chapter V. Possibilities of a Pleasant Outing Chapter VI.,0.5106,0.268,0.0,0.732,positive,A Room with a View
+"The Reverend Arthur Beebe, the Reverend Cuthbert Eager, Mr. Emerson, Mr. George Emerson, Miss Eleanor Lavish, Miss Charlotte Bartlett, and Miss Lucy Honeychurch Drive Out in Carriages to See a View; Italians Drive Them Chapter VII.",-0.0772,0.065,0.125,0.809,negative,A Room with a View
+They Return Part Two.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Chapter VIII.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Medieval Chapter IX.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Lucy As a Work of Art Chapter X. Cecil as a Humourist Chapter XI.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+In Mrs. Vyse's Well-Appointed Flat Chapter XII.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Twelfth Chapter Chapter XIII.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+How Miss Bartlett's Boiler Was So Tiresome Chapter XIV.,-0.1531,0.0,0.167,0.833,negative,A Room with a View
+How Lucy Faced the External Situation Bravely Chapter XV.,0.5106,0.292,0.0,0.708,positive,A Room with a View
+The Disaster Within Chapter XVI.,-0.6249,0.0,0.506,0.494,negative,A Room with a View
+Lying to George Chapter XVII.,-0.5267,0.0,0.459,0.541,negative,A Room with a View
+Lying to Cecil Chapter XVIII.,-0.5267,0.0,0.459,0.541,negative,A Room with a View
+"Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and The Servants Chapter XIX.",-0.5267,0.0,0.236,0.764,negative,A Room with a View
+Lying to Mr. Emerson Chapter XX.,-0.5267,0.0,0.405,0.595,negative,A Room with a View
+"The End of the Middle Ages PART ONE Chapter I The Bertolini ""The Signora had no business to do it,"" said Miss Bartlett, ""no business at all.",-0.6124,0.0,0.207,0.793,negative,A Room with a View
+"She promised us south rooms with a view close together, instead of which here are north rooms, looking into a courtyard, and a long way apart.",0.3612,0.102,0.0,0.898,positive,A Room with a View
+"Oh, Lucy!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""And a Cockney, besides!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"said Lucy, who had been further saddened by the Signora's unexpected accent.",-0.5267,0.0,0.236,0.764,negative,A Room with a View
+"""It might be London.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"She looked at the two rows of English people who were sitting at the table; at the row of white bottles of water and red bottles of wine that ran between the English people; at the portraits of the late Queen and the late Poet Laureate that hung behind the English people, heavily framed; at the notice of the English church (Rev.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Cuthbert Eager, M. A.",0.3612,0.455,0.0,0.545,positive,A Room with a View
+Oxon.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"), that was the only other decoration of the wall.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Charlotte, don't you feel, too, that we might be in London?",0.0,0.0,0.0,1.0,neutral,A Room with a View
+I can hardly believe that all kinds of other things are just outside.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"I suppose it is one's being so tired.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""This meat has surely been used for soup,"" said Miss Bartlett, laying down her fork.",0.3182,0.166,0.091,0.743,positive,A Room with a View
+"""I want so to see the Arno.",0.0772,0.178,0.0,0.822,positive,A Room with a View
+The rooms the Signora promised us in her letter would have looked over the Arno.,0.3612,0.152,0.0,0.848,positive,A Room with a View
+The Signora had no business to do it at all.,-0.296,0.0,0.196,0.804,negative,A Room with a View
+"Oh, it is a shame!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Any nook does for me,"" Miss Bartlett continued; ""but it does seem hard that you shouldn't have a view.""",-0.2263,0.0,0.153,0.847,negative,A Room with a View
+Lucy felt that she had been selfish.,-0.4767,0.0,0.341,0.659,negative,A Room with a View
+"""Charlotte, you mustn't spoil me: of course, you must look over the Arno, too.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+I meant that.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"The first vacant room in the front--"" ""You must have it,"" said Miss Bartlett, part of whose travelling expenses were paid by Lucy's mother--a piece of generosity to which she made many a tactful allusion.",0.4019,0.089,0.043,0.867,positive,A Room with a View
+"""No, no.",-0.296,0.0,0.688,0.312,negative,A Room with a View
+"You must have it.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I insist on it.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Your mother would never forgive me, Lucy.""",-0.2057,0.0,0.232,0.768,negative,A Room with a View
+"""She would never forgive me .""",-0.2057,0.0,0.266,0.734,negative,A Room with a View
+"The ladies' voices grew animated, and--if the sad truth be owned--a little peevish.",-0.2023,0.14,0.189,0.671,negative,A Room with a View
+"They were tired, and under the guise of unselfishness they wrangled.",-0.4404,0.0,0.225,0.775,negative,A Room with a View
+"Some of their neighbours interchanged glances, and one of them--one of the ill-bred people whom one does meet abroad--leant forward over the table and actually intruded into their argument.",-0.3612,0.0,0.082,0.918,negative,A Room with a View
+"He said: ""I have a view, I have a view.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Miss Bartlett was startled.,-0.3182,0.0,0.623,0.377,negative,A Room with a View
+"Generally at a pension people looked them over for a day or two before speaking, and often did not find out that they would ""do"" till they had gone.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"She knew that the intruder was ill-bred, even before she glanced at him.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He was an old man, of heavy build, with a fair, shaven face and large eyes.",0.3182,0.141,0.0,0.859,positive,A Room with a View
+"There was something childish in those eyes, though it was not the childishness of senility.",-0.296,0.0,0.136,0.864,negative,A Room with a View
+"What exactly it was Miss Bartlett did not stop to consider, for her glance passed on to his clothes.",0.0742,0.092,0.078,0.83,positive,A Room with a View
+These did not attract her.,-0.2755,0.0,0.345,0.655,negative,A Room with a View
+He was probably trying to become acquainted with them before they got into the swim.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"So she assumed a dazed expression when he spoke to her, and then said: ""A view?",-0.2415,0.0,0.123,0.877,negative,A Room with a View
+"Oh, a view!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"How delightful a view is!""",0.6239,0.577,0.0,0.423,positive,A Room with a View
+"""This is my son,"" said the old man; ""his name's George.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He has a view too.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Ah,"" said Miss Bartlett, repressing Lucy, who was about to speak.",-0.5267,0.0,0.328,0.672,negative,A Room with a View
+"""What I mean,"" he continued, ""is that you can have our rooms, and we'll have yours.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"We'll change.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"The better class of tourist was shocked at this, and sympathized with the new-comers.",0.1531,0.169,0.134,0.698,positive,A Room with a View
+"Miss Bartlett, in reply, opened her mouth as little as possible, and said ""Thank you very much indeed; that is out of the question.""",0.2263,0.096,0.061,0.843,positive,A Room with a View
+"""Why?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"said the old man, with both fists on the table.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Because it is quite out of the question, thank you.""",0.3612,0.217,0.0,0.783,positive,A Room with a View
+"""You see, we don't like to take--"" began Lucy.",-0.2755,0.0,0.209,0.791,negative,A Room with a View
+Her cousin again repressed her.,-0.3182,0.0,0.365,0.635,negative,A Room with a View
+"""But why?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+he persisted.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Women like looking at a view; men don't.""",0.3612,0.294,0.0,0.706,positive,A Room with a View
+"And he thumped with his fists like a naughty child, and turned to his son, saying, ""George, persuade them!""",0.4199,0.141,0.0,0.859,positive,A Room with a View
+"""It's so obvious they should have the rooms,"" said the son.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""There's nothing else to say.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He did not look at the ladies as he spoke, but his voice was perplexed and sorrowful.",-0.8047,0.0,0.326,0.674,negative,A Room with a View
+"Lucy, too, was perplexed; but she saw that they were in for what is known as ""quite a scene,"" and she had an odd feeling that whenever these ill-bred tourists spoke the contest widened and deepened till it dealt, not with rooms and views, but with--well, with something quite different, whose existence she had not realized before.",-0.431,0.029,0.078,0.893,negative,A Room with a View
+Now the old man attacked Miss Bartlett almost violently: Why should she not change?,-0.7968,0.0,0.424,0.576,negative,A Room with a View
+What possible objection had she?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+They would clear out in half an hour.,0.3818,0.271,0.0,0.729,positive,A Room with a View
+"Miss Bartlett, though skilled in the delicacies of conversation, was powerless in the presence of brutality.",-0.8316,0.0,0.404,0.596,negative,A Room with a View
+It was impossible to snub any one so gross.,-0.7777,0.0,0.492,0.508,negative,A Room with a View
+Her face reddened with displeasure.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"She looked around as much as to say, ""Are you all like this?""",0.3612,0.172,0.0,0.828,positive,A Room with a View
+"And two little old ladies, who were sitting further up the table, with shawls hanging over the backs of the chairs, looked back, clearly indicating ""We are not; we are genteel.""",0.3612,0.082,0.036,0.881,positive,A Room with a View
+"""Eat your dinner, dear,"" she said to Lucy, and began to toy again with the meat that she had once censured.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Lucy mumbled that those seemed very odd people opposite.,-0.3804,0.0,0.245,0.755,negative,A Room with a View
+"""Eat your dinner, dear.",0.3818,0.464,0.0,0.536,positive,A Room with a View
+This pension is a failure.,-0.5106,0.0,0.524,0.476,negative,A Room with a View
+"To-morrow we will make a change.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Hardly had she announced this fell decision when she reversed it.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"The curtains at the end of the room parted, and revealed a clergyman, stout but attractive, who hurried forward to take his place at the table, cheerfully apologizing for his lateness.",0.836,0.254,0.039,0.707,positive,A Room with a View
+"Lucy, who had not yet acquired decency, at once rose to her feet, exclaiming: ""Oh, oh!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Why, it's Mr. Beebe!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Oh, how perfectly lovely!",0.8516,0.806,0.0,0.194,positive,A Room with a View
+"Oh, Charlotte, we must stop now, however bad the rooms are.",-0.6908,0.0,0.388,0.612,negative,A Room with a View
+"Oh!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Miss Bartlett said, with more restraint: ""How do you do, Mr. Beebe?",-0.1531,0.0,0.127,0.873,negative,A Room with a View
+"I expect that you have forgotten us: Miss Bartlett and Miss Honeychurch, who were at Tunbridge Wells when you helped the Vicar of St. Peter's that very cold Easter.""",-0.2732,0.064,0.164,0.772,negative,A Room with a View
+"The clergyman, who had the air of one on a holiday, did not remember the ladies quite as clearly as they remembered him.",0.6887,0.221,0.0,0.779,positive,A Room with a View
+But he came forward pleasantly enough and accepted the chair into which he was beckoned by Lucy.,0.7783,0.312,0.0,0.688,positive,A Room with a View
+"""I am so glad to see you,"" said the girl, who was in a state of spiritual starvation, and would have been glad to see the waiter if her cousin had permitted it.",0.8286,0.205,0.0,0.795,positive,A Room with a View
+"""Just fancy how small the world is.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Summer Street, too, makes it so specially funny.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Miss Honeychurch lives in the parish of Summer Street,"" said Miss Bartlett, filling up the gap, ""and she happened to tell me in the course of conversation that you have just accepted the living--"" ""Yes, I heard from mother so last week.",-0.0258,0.048,0.074,0.878,neutral,A Room with a View
+"She didn't know that I knew you at Tunbridge Wells; but I wrote back at once, and I said: 'Mr.",0.128,0.086,0.0,0.914,positive,A Room with a View
+"Beebe is--'"" ""Quite right,"" said the clergyman.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I move into the Rectory at Summer Street next June.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"I am lucky to be appointed to such a charming neighbourhood.""",0.765,0.485,0.0,0.515,positive,A Room with a View
+"""Oh, how glad I am!",0.5093,0.523,0.0,0.477,positive,A Room with a View
+"The name of our house is Windy Corner.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Mr. Beebe bowed.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""There is mother and me generally, and my brother, though it's not often we get him to ch---- The church is rather far off, I mean.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Lucy, dearest, let Mr. Beebe eat his dinner.""",0.5574,0.34,0.0,0.66,positive,A Room with a View
+"""I am eating it, thank you, and enjoying it.""",0.7096,0.457,0.0,0.543,positive,A Room with a View
+"He preferred to talk to Lucy, whose playing he remembered, rather than to Miss Bartlett, who probably remembered his sermons.",0.0516,0.084,0.075,0.841,positive,A Room with a View
+"He asked the girl whether she knew Florence well, and was informed at some length that she had never been there before.",0.2732,0.091,0.0,0.909,positive,A Room with a View
+"It is delightful to advise a newcomer, and he was first in the field.",0.5859,0.241,0.0,0.759,positive,A Room with a View
+"""Don't neglect the country round,"" his advice concluded.",0.357,0.262,0.0,0.738,positive,A Room with a View
+"""The first fine afternoon drive up to Fiesole, and round by Settignano, or something of that sort.""",0.2023,0.101,0.0,0.899,positive,A Room with a View
+"""No!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+cried a voice from the top of the table.,-0.2023,0.173,0.25,0.577,negative,A Room with a View
+"""Mr. Beebe, you are wrong.",-0.4767,0.0,0.437,0.563,negative,A Room with a View
+"The first fine afternoon your ladies must go to Prato.""",0.2023,0.167,0.0,0.833,positive,A Room with a View
+"""That lady looks so clever,"" whispered Miss Bartlett to her cousin.",-0.2177,0.0,0.157,0.843,negative,A Room with a View
+"""We are in luck.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"And, indeed, a perfect torrent of information burst on them.",0.5719,0.316,0.0,0.684,positive,A Room with a View
+"People told them what to see, when to see it, how to stop the electric trams, how to get rid of the beggars, how much to give for a vellum blotter, how much the place would grow upon them.",-0.296,0.0,0.056,0.944,negative,A Room with a View
+"The Pension Bertolini had decided, almost enthusiastically, that they would do.",0.5118,0.249,0.0,0.751,positive,A Room with a View
+"Whichever way they looked, kind ladies smiled and shouted at them.",0.7845,0.434,0.0,0.566,positive,A Room with a View
+"And above all rose the voice of the clever lady, crying: ""Prato!",-0.1007,0.183,0.207,0.61,negative,A Room with a View
+They must go to Prato.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+That place is too sweetly squalid for words.,0.4767,0.307,0.0,0.693,positive,A Room with a View
+"I love it; I revel in shaking off the trammels of respectability, as you know.""",0.7845,0.394,0.088,0.518,positive,A Room with a View
+"The young man named George glanced at the clever lady, and then returned moodily to his plate.",0.1779,0.148,0.113,0.739,positive,A Room with a View
+Obviously he and his father did not do.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Lucy, in the midst of her success, found time to wish they did.",0.7506,0.368,0.0,0.632,positive,A Room with a View
+"It gave her no extra pleasure that any one should be left in the cold; and when she rose to go, she turned back and gave the two outsiders a nervous little bow.",0.1027,0.1,0.116,0.784,positive,A Room with a View
+"The father did not see it; the son acknowledged it, not by another bow, but by raising his eyebrows and smiling; he seemed to be smiling across something.",0.8402,0.235,0.0,0.765,positive,A Room with a View
+"She hastened after her cousin, who had already disappeared through the curtains--curtains which smote one in the face, and seemed heavy with more than cloth.",-0.2263,0.0,0.073,0.927,negative,A Room with a View
+"Beyond them stood the unreliable Signora, bowing good-evening to her guests, and supported by 'Enery, her little boy, and Victorier, her daughter.",0.3182,0.099,0.0,0.901,positive,A Room with a View
+"It made a curious little scene, this attempt of the Cockney to convey the grace and geniality of the South.",0.6249,0.231,0.0,0.769,positive,A Room with a View
+"And even more curious was the drawing-room, which attempted to rival the solid comfort of a Bloomsbury boarding-house.",0.6901,0.323,0.0,0.677,positive,A Room with a View
+Was this really Italy?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Miss Bartlett was already seated on a tightly stuffed arm-chair, which had the colour and the contours of a tomato.",-0.1531,0.0,0.086,0.914,negative,A Room with a View
+"She was talking to Mr. Beebe, and as she spoke, her long narrow head drove backwards and forwards, slowly, regularly, as though she were demolishing some invisible obstacle.",-0.3612,0.0,0.085,0.915,negative,A Room with a View
+"""We are most grateful to you,"" she was saying.",0.5095,0.292,0.0,0.708,positive,A Room with a View
+"""The first evening means so much.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"When you arrived we were in for a peculiarly mauvais quart d'heure .""",-0.1027,0.0,0.113,0.887,negative,A Room with a View
+He expressed his regret.,-0.4215,0.0,0.483,0.517,negative,A Room with a View
+"""Do you, by any chance, know the name of an old man who sat opposite us at dinner?""",0.25,0.105,0.0,0.895,positive,A Room with a View
+"""Emerson.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Is he a friend of yours?""",0.4939,0.444,0.0,0.556,positive,A Room with a View
+"""We are friendly--as one is in pensions.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Then I will say no more.""",-0.296,0.0,0.355,0.645,negative,A Room with a View
+"He pressed her very slightly, and she said more.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I am, as it were,"" she concluded, ""the chaperon of my young cousin, Lucy, and it would be a serious thing if I put her under an obligation to people of whom we know nothing.",-0.0772,0.0,0.039,0.961,negative,A Room with a View
+His manner was somewhat unfortunate.,-0.4033,0.0,0.404,0.596,negative,A Room with a View
+"I hope I acted for the best.""",0.4404,0.42,0.0,0.58,positive,A Room with a View
+"""You acted very naturally,"" said he.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He seemed thoughtful, and after a few moments added: ""All the same, I don't think much harm would have come of accepting.""",0.6652,0.232,0.0,0.768,positive,A Room with a View
+"""No harm , of course.",-0.6908,0.0,0.74,0.26,negative,A Room with a View
+"But we could not be under an obligation.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""He is rather a peculiar man.""",0.1531,0.286,0.0,0.714,positive,A Room with a View
+"Again he hesitated, and then said gently: ""I think he would not take advantage of your acceptance, nor expect you to show gratitude.",0.7399,0.297,0.129,0.574,positive,A Room with a View
+He has the merit--if it is one--of saying exactly what he means.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He has rooms he does not value, and he thinks you would value them.",-0.4717,0.0,0.253,0.747,negative,A Room with a View
+He no more thought of putting you under an obligation than he thought of being polite.,-0.296,0.0,0.128,0.872,negative,A Room with a View
+"It is so difficult--at least, I find it difficult--to understand people who speak the truth.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Lucy was pleased, and said: ""I was hoping that he was nice; I do so always hope that people will be nice.""",0.8928,0.407,0.0,0.593,positive,A Room with a View
+"""I think he is; nice and tiresome.",0.4215,0.318,0.0,0.682,positive,A Room with a View
+"I differ from him on almost every point of any importance, and so, I expect--I may say I hope--you will differ.",0.3612,0.128,0.0,0.872,positive,A Room with a View
+But his is a type one disagrees with rather than deplores.,-0.4497,0.0,0.247,0.753,negative,A Room with a View
+When he first came here he not unnaturally put people's backs up.,-0.0516,0.0,0.098,0.902,negative,A Room with a View
+He has no tact and no manners--I don't mean by that that he has bad manners--and he will not keep his opinions to himself.,-0.7845,0.0,0.273,0.727,negative,A Room with a View
+"We nearly complained about him to our depressing Signora, but I am glad to say we thought better of it.""",0.7351,0.296,0.138,0.566,positive,A Room with a View
+"""Am I to conclude,"" said Miss Bartlett, ""that he is a Socialist?""",-0.1531,0.0,0.151,0.849,negative,A Room with a View
+"Mr. Beebe accepted the convenient word, not without a slight twitching of the lips.",0.2732,0.149,0.0,0.851,positive,A Room with a View
+"""And presumably he has brought up his son to be a Socialist, too?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I hardly know George, for he hasn't learnt to talk yet.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He seems a nice creature, and I think he has brains.",0.4215,0.259,0.0,0.741,positive,A Room with a View
+"Of course, he has all his father's mannerisms, and it is quite possible that he, too, may be a Socialist.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Oh, you relieve me,"" said Miss Bartlett.",0.2263,0.275,0.176,0.549,positive,A Room with a View
+"""So you think I ought to have accepted their offer?",0.2732,0.208,0.0,0.792,positive,A Room with a View
+"You feel I have been narrow-minded and suspicious?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Not at all,"" he answered; ""I never suggested that.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""But ought I not to apologize, at all events, for my apparent rudeness?""",-0.1139,0.0,0.116,0.884,negative,A Room with a View
+"He replied, with some irritation, that it would be quite unnecessary, and got up from his seat to go to the smoking-room.",-0.5106,0.0,0.136,0.864,negative,A Room with a View
+"""Was I a bore?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"said Miss Bartlett, as soon as he had disappeared.",-0.3612,0.0,0.333,0.667,negative,A Room with a View
+"""Why didn't you talk, Lucy?",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He prefers young people, I'm sure.",0.3182,0.315,0.0,0.685,positive,A Room with a View
+I do hope I haven't monopolized him.,0.5523,0.603,0.0,0.397,positive,A Room with a View
+"I hoped you would have him all the evening, as well as all dinner-time.""",0.5719,0.299,0.0,0.701,positive,A Room with a View
+"""He is nice,"" exclaimed Lucy.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Just what I remember.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+He seems to see good in everyone.,0.4404,0.326,0.0,0.674,positive,A Room with a View
+"No one would take him for a clergyman.""",-0.296,0.0,0.268,0.732,negative,A Room with a View
+"""My dear Lucia--"" ""Well, you know what I mean.",0.3818,0.271,0.0,0.729,positive,A Room with a View
+"And you know how clergymen generally laugh; Mr. Beebe laughs just like an ordinary man.""",0.8519,0.437,0.0,0.563,positive,A Room with a View
+"""Funny girl!",0.4926,0.761,0.0,0.239,positive,A Room with a View
+How you do remind me of your mother.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+I wonder if she will approve of Mr.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Beebe.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I'm sure she will; and so will Freddy.""",0.3182,0.247,0.0,0.753,positive,A Room with a View
+"""I think everyone at Windy Corner will approve; it is the fashionable world.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"I am used to Tunbridge Wells, where we are all hopelessly behind the times.""",-0.296,0.123,0.198,0.679,negative,A Room with a View
+"""Yes,"" said Lucy despondently.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"There was a haze of disapproval in the air, but whether the disapproval was of herself, or of Mr. Beebe, or of the fashionable world at Windy Corner, or of the narrow world at Tunbridge Wells, she could not determine.",0.3612,0.062,0.0,0.938,positive,A Room with a View
+"She tried to locate it, but as usual she blundered.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Miss Bartlett sedulously denied disapproving of any one, and added ""I am afraid you are finding me a very depressing companion.""",-0.7501,0.0,0.303,0.697,negative,A Room with a View
+"And the girl again thought: ""I must have been selfish or unkind; I must be more careful.",-0.5868,0.092,0.277,0.631,negative,A Room with a View
+"It is so dreadful for Charlotte, being poor.""",-0.5777,0.0,0.348,0.652,negative,A Room with a View
+"Fortunately one of the little old ladies, who for some time had been smiling very benignly, now approached and asked if she might be allowed to sit where Mr. Beebe had sat.",0.5413,0.13,0.0,0.87,positive,A Room with a View
+"Permission granted, she began to chatter gently about Italy, the plunge it had been to come there, the gratifying success of the plunge, the improvement in her sister's health, the necessity of closing the bed-room windows at night, and of thoroughly emptying the water-bottles in the morning.",0.9202,0.259,0.033,0.708,positive,A Room with a View
+"She handled her subjects agreeably, and they were, perhaps, more worthy of attention than the high discourse upon Guelfs and Ghibellines which was proceeding tempestuously at the other end of the room.",0.6997,0.162,0.0,0.838,positive,A Room with a View
+"It was a real catastrophe, not a mere episode, that evening of hers at Venice, when she had found in her bedroom something that is one worse than a flea, though one better than something else.",-0.6808,0.072,0.186,0.743,negative,A Room with a View
+"""But here you are as safe as in England.",0.5927,0.325,0.0,0.675,positive,A Room with a View
+"Signora Bertolini is so English.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Yet our rooms smell,"" said poor Lucy.",-0.4767,0.0,0.341,0.659,negative,A Room with a View
+"""We dread going to bed.""",-0.4588,0.0,0.429,0.571,negative,A Room with a View
+"""Ah, then you look into the court.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+She sighed.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""If only Mr. Emerson was more tactful!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"We were so sorry for you at dinner.""",-0.188,0.0,0.199,0.801,negative,A Room with a View
+"""I think he was meaning to be kind.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Undoubtedly he was,"" said Miss Bartlett.",-0.1531,0.0,0.242,0.758,negative,A Room with a View
+"""Mr. Beebe has just been scolding me for my suspicious nature.",-0.3612,0.0,0.2,0.8,negative,A Room with a View
+"Of course, I was holding back on my cousin's account.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Of course,"" said the little old lady; and they murmured that one could not be too careful with a young girl.",-0.1139,0.0,0.071,0.929,negative,A Room with a View
+"Lucy tried to look demure, but could not help feeling a great fool.",-0.9141,0.0,0.614,0.386,negative,A Room with a View
+"No one was careful with her at home; or, at all events, she had not noticed it.",-0.1531,0.085,0.117,0.798,negative,A Room with a View
+"""About old Mr. Emerson--I hardly know.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"No, he is not tactful; yet, have you ever noticed that there are people who do things which are most indelicate, and yet at the same time--beautiful?""",-0.296,0.0,0.078,0.922,negative,A Room with a View
+"""Beautiful?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"said Miss Bartlett, puzzled at the word.",-0.3182,0.0,0.398,0.602,negative,A Room with a View
+"""Are not beauty and delicacy the same?""",-0.4717,0.0,0.339,0.661,negative,A Room with a View
+"""So one would have thought,"" said the other helplessly.",-0.34,0.0,0.231,0.769,negative,A Room with a View
+"""But things are so difficult, I sometimes think.""",-0.6555,0.0,0.421,0.579,negative,A Room with a View
+"She proceeded no further into things, for Mr. Beebe reappeared, looking extremely pleasant.",0.3384,0.214,0.131,0.655,positive,A Room with a View
+"""Miss Bartlett,"" he cried, ""it's all right about the rooms.",-0.4939,0.0,0.344,0.656,negative,A Room with a View
+I'm so glad.,0.5095,0.622,0.0,0.378,positive,A Room with a View
+"Mr. Emerson was talking about it in the smoking-room, and knowing what I did, I encouraged him to make the offer again.",0.3612,0.116,0.0,0.884,positive,A Room with a View
+He has let me come and ask you.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He would be so pleased.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Oh, Charlotte,"" cried Lucy to her cousin, ""we must have the rooms now.",-0.3818,0.0,0.178,0.822,negative,A Room with a View
+"The old man is just as nice and kind as he can be.""",0.7351,0.36,0.0,0.64,positive,A Room with a View
+Miss Bartlett was silent.,-0.1531,0.0,0.348,0.652,negative,A Room with a View
+"""I fear,"" said Mr. Beebe, after a pause, ""that I have been officious.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"I must apologize for my interference.""",0.1027,0.259,0.0,0.741,positive,A Room with a View
+"Gravely displeased, he turned to go.",-0.6597,0.0,0.574,0.426,negative,A Room with a View
+"Not till then did Miss Bartlett reply: ""My own wishes, dearest Lucy, are unimportant in comparison with yours.",0.3182,0.225,0.169,0.606,positive,A Room with a View
+"It would be hard indeed if I stopped you doing as you liked at Florence, when I am only here through your kindness.",0.5423,0.222,0.126,0.651,positive,A Room with a View
+"If you wish me to turn these gentlemen out of their rooms, I will do it.",0.4019,0.162,0.0,0.838,positive,A Room with a View
+"Would you then, Mr. Beebe, kindly tell Mr. Emerson that I accept his kind offer, and then conduct him to me, in order that I may thank him personally?""",0.8934,0.337,0.0,0.663,positive,A Room with a View
+"She raised her voice as she spoke; it was heard all over the drawing-room, and silenced the Guelfs and the Ghibellines.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"The clergyman, inwardly cursing the female sex, bowed, and departed with her message.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Remember, Lucy, I alone am implicated in this.",-0.25,0.0,0.25,0.75,negative,A Room with a View
+I do not wish the acceptance to come from you.,-0.5773,0.0,0.404,0.596,negative,A Room with a View
+"Grant me that, at all events.""",0.3612,0.333,0.0,0.667,positive,A Room with a View
+"Mr. Beebe was back, saying rather nervously: ""Mr. Emerson is engaged, but here is his son instead.""",0.1406,0.102,0.072,0.826,positive,A Room with a View
+"The young man gazed down on the three ladies, who felt seated on the floor, so low were their chairs.",-0.4101,0.0,0.126,0.874,negative,A Room with a View
+"""My father,"" he said, ""is in his bath, so you cannot thank him personally.",-0.3343,0.0,0.154,0.846,negative,A Room with a View
+"But any message given by you to me will be given by me to him as soon as he comes out.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Miss Bartlett was unequal to the bath.,-0.4588,0.0,0.444,0.556,negative,A Room with a View
+All her barbed civilities came forth wrong end first.,-0.4767,0.0,0.279,0.721,negative,A Room with a View
+Young Mr. Emerson scored a notable triumph to the delight of Mr. Beebe and to the secret delight of Lucy.,0.8979,0.405,0.0,0.595,positive,A Room with a View
+"""Poor young man!""",-0.5255,0.0,0.629,0.371,negative,A Room with a View
+"said Miss Bartlett, as soon as he had gone.",-0.1531,0.0,0.167,0.833,negative,A Room with a View
+"""How angry he is with his father about the rooms!",-0.5562,0.0,0.285,0.715,negative,A Room with a View
+"It is all he can do to keep polite.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""In half an hour or so your rooms will be ready,"" said Mr. Beebe.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Then looking rather thoughtfully at the two cousins, he retired to his own rooms, to write up his philosophic diary.",0.4019,0.124,0.0,0.876,positive,A Room with a View
+"""Oh, dear!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"breathed the little old lady, and shuddered as if all the winds of heaven had entered the apartment.",0.5106,0.163,0.0,0.837,positive,A Room with a View
+"""Gentlemen sometimes do not realize--"" Her voice faded away, but Miss Bartlett seemed to understand and a conversation developed, in which gentlemen who did not thoroughly realize played a principal part.",-0.5808,0.0,0.15,0.85,negative,A Room with a View
+"Lucy, not realizing either, was reduced to literature.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Taking up Baedeker's Handbook to Northern Italy, she committed to memory the most important dates of Florentine History.",0.4927,0.208,0.0,0.792,positive,A Room with a View
+For she was determined to enjoy herself on the morrow.,0.6808,0.412,0.0,0.588,positive,A Room with a View
+"Thus the half-hour crept profitably away, and at last Miss Bartlett rose with a sigh, and said: ""I think one might venture now.",0.2732,0.152,0.066,0.782,positive,A Room with a View
+"No, Lucy, do not stir.",-0.296,0.0,0.355,0.645,negative,A Room with a View
+"I will superintend the move.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""How you do do everything,"" said Lucy.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Naturally, dear.",0.3818,0.722,0.0,0.278,positive,A Room with a View
+"It is my affair.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""But I would like to help you.""",0.7783,0.63,0.0,0.37,positive,A Room with a View
+"""No, dear.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Charlotte's energy!,0.3382,0.705,0.0,0.295,positive,A Room with a View
+And her unselfishness!,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"She had been thus all her life, but really, on this Italian tour, she was surpassing herself.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"So Lucy felt, or strove to feel.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+And yet--there was a rebellious spirit in her which wondered whether the acceptance might not have been less delicate and more beautiful.,0.765,0.316,0.117,0.568,positive,A Room with a View
+"At all events, she entered her own room without any feeling of joy.",0.5315,0.235,0.085,0.68,positive,A Room with a View
+"""I want to explain,"" said Miss Bartlett, ""why it is that I have taken the largest room.",-0.0772,0.077,0.095,0.828,negative,A Room with a View
+"Naturally, of course, I should have given it to you; but I happen to know that it belongs to the young man, and I was sure your mother would not like it.""",0.0734,0.09,0.082,0.828,positive,A Room with a View
+Lucy was bewildered.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""If you are to accept a favour it is more suitable you should be under an obligation to his father than to him.",0.6705,0.216,0.0,0.784,positive,A Room with a View
+"I am a woman of the world, in my small way, and I know where things lead to.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"However, Mr. Beebe is a guarantee of a sort that they will not presume on this.""",0.25,0.133,0.0,0.867,positive,A Room with a View
+"""Mother wouldn't mind I'm sure,"" said Lucy, but again had the sense of larger and unsuspected issues.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Miss Bartlett only sighed, and enveloped her in a protecting embrace as she wished her good-night.",0.1779,0.136,0.095,0.769,positive,A Room with a View
+"It gave Lucy the sensation of a fog, and when she reached her own room she opened the window and breathed the clean night air, thinking of the kind old man who had enabled her to see the lights dancing in the Arno and the cypresses of San Miniato, and the foot-hills of the Apennines, black against the rising moon.",0.7579,0.118,0.0,0.882,positive,A Room with a View
+"Miss Bartlett, in her room, fastened the window-shutters and locked the door, and then made a tour of the apartment to see where the cupboards led, and whether there were any oubliettes or secret entrances.",-0.1531,0.0,0.046,0.954,negative,A Room with a View
+"It was then that she saw, pinned up over the washstand, a sheet of paper on which was scrawled an enormous note of interrogation.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Nothing more.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""What does it mean?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"she thought, and she examined it carefully by the light of a candle.",0.128,0.12,0.0,0.88,positive,A Room with a View
+"Meaningless at first, it gradually became menacing, obnoxious, portentous with evil.",-0.8834,0.0,0.563,0.437,negative,A Room with a View
+"She was seized with an impulse to destroy it, but fortunately remembered that she had no right to do so, since it must be the property of young Mr. Emerson.",-0.6187,0.0,0.153,0.847,negative,A Room with a View
+"So she unpinned it carefully, and put it between two pieces of blotting-paper to keep it clean for him.",0.4939,0.198,0.0,0.802,positive,A Room with a View
+"Then she completed her inspection of the room, sighed heavily according to her habit, and went to bed.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Chapter II In Santa Croce with No Baedeker It was pleasant to wake up in Florence, to open the eyes upon a bright bare room, with a floor of red tiles which look clean though they are not; with a painted ceiling whereon pink griffins and blue amorini sport in a forest of yellow violins and bassoons.",0.7717,0.148,0.037,0.815,positive,A Room with a View
+"It was pleasant, too, to fling wide the windows, pinching the fingers in unfamiliar fastenings, to lean out into sunshine with beautiful hills and trees and marble churches opposite, and close below, the Arno, gurgling against the embankment of the road.",0.886,0.215,0.0,0.785,positive,A Room with a View
+"Over the river men were at work with spades and sieves on the sandy foreshore, and on the river was a boat, also diligently employed for some mysterious end.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+An electric tram came rushing underneath the window.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"No one was inside it, except one tourist; but its platforms were overflowing with Italians, who preferred to stand.",-0.1531,0.0,0.082,0.918,negative,A Room with a View
+"Children tried to hang on behind, and the conductor, with no malice, spat in their faces to make them let go.",-0.296,0.0,0.099,0.901,negative,A Room with a View
+"Then soldiers appeared--good-looking, undersized men--wearing each a knapsack covered with mangy fur, and a great-coat which had been cut for some larger soldier.",-0.2732,0.0,0.095,0.905,negative,A Room with a View
+"Beside them walked officers, looking foolish and fierce, and before them went little boys, turning somersaults in time with the band.",-0.2732,0.0,0.095,0.905,negative,A Room with a View
+"The tramcar became entangled in their ranks, and moved on painfully, like a caterpillar in a swarm of ants.",-0.2263,0.12,0.163,0.718,negative,A Room with a View
+"One of the little boys fell down, and some white bullocks came out of an archway.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Indeed, if it had not been for the good advice of an old man who was selling button-hooks, the road might never have got clear.",0.1818,0.103,0.078,0.819,positive,A Room with a View
+"Over such trivialities as these many a valuable hour may slip away, and the traveller who has gone to Italy to study the tactile values of Giotto, or the corruption of the Papacy, may return remembering nothing but the blue sky and the men and women who live under it.",0.34,0.076,0.029,0.895,positive,A Room with a View
+"So it was as well that Miss Bartlett should tap and come in, and having commented on Lucy's leaving the door unlocked, and on her leaning out of the window before she was fully dressed, should urge her to hasten herself, or the best of the day would be gone.",0.6908,0.115,0.029,0.856,positive,A Room with a View
+"By the time Lucy was ready her cousin had done her breakfast, and was listening to the clever lady among the crumbs.",0.6705,0.216,0.0,0.784,positive,A Room with a View
+"A conversation then ensued, on not unfamiliar lines.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Miss Bartlett was, after all, a wee bit tired, and thought they had better spend the morning settling in; unless Lucy would at all like to go out?",0.2263,0.164,0.137,0.699,positive,A Room with a View
+"Lucy would rather like to go out, as it was her first day in Florence, but, of course, she could go alone.",-0.1901,0.072,0.103,0.825,negative,A Room with a View
+Miss Bartlett could not allow this.,-0.3107,0.0,0.449,0.551,negative,A Room with a View
+Of course she would accompany Lucy everywhere.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Oh, certainly not; Lucy would stop with her cousin.",0.5086,0.38,0.0,0.62,positive,A Room with a View
+"Oh, no!",-0.3595,0.0,0.714,0.286,negative,A Room with a View
+that would never do.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Oh, yes!",0.4574,0.749,0.0,0.251,positive,A Room with a View
+At this point the clever lady broke in.,0.0516,0.254,0.237,0.508,positive,A Room with a View
+"""If it is Mrs. Grundy who is troubling you, I do assure you that you can neglect the good person.",-0.296,0.198,0.243,0.56,negative,A Room with a View
+"Being English, Miss Honeychurch will be perfectly safe.",0.7579,0.518,0.117,0.365,positive,A Room with a View
+Italians understand.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"A dear friend of mine, Contessa Baroncelli, has two daughters, and when she cannot send a maid to school with them, she lets them go in sailor-hats instead.",0.7003,0.195,0.0,0.805,positive,A Room with a View
+"Every one takes them for English, you see, especially if their hair is strained tightly behind.""",-0.4019,0.0,0.153,0.847,negative,A Room with a View
+Miss Bartlett was unconvinced by the safety of Contessa Baroncelli's daughters.,-0.1027,0.187,0.28,0.533,negative,A Room with a View
+"She was determined to take Lucy herself, her head not being so very bad.",-0.3962,0.13,0.22,0.65,negative,A Room with a View
+"The clever lady then said that she was going to spend a long morning in Santa Croce, and if Lucy would come too, she would be delighted.",0.743,0.208,0.0,0.792,positive,A Room with a View
+"""I will take you by a dear dirty back way, Miss Honeychurch, and if you bring me luck, we shall have an adventure.""",0.2732,0.199,0.16,0.641,positive,A Room with a View
+"Lucy said that this was most kind, and at once opened the Baedeker, to see where Santa Croce was.",0.5709,0.17,0.0,0.83,positive,A Room with a View
+"""Tut, tut!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Miss Lucy!,-0.2244,0.0,0.654,0.346,negative,A Room with a View
+I hope we shall soon emancipate you from Baedeker.,0.4404,0.293,0.0,0.707,positive,A Room with a View
+He does but touch the surface of things.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+As to the true Italy--he does not even dream of it.,0.264,0.207,0.129,0.665,positive,A Room with a View
+"The true Italy is only to be found by patient observation.""",0.4215,0.219,0.0,0.781,positive,A Room with a View
+"This sounded very interesting, and Lucy hurried over her breakfast, and started with her new friend in high spirits.",0.7346,0.267,0.0,0.733,positive,A Room with a View
+Italy was coming at last.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+The Cockney Signora and her works had vanished like a bad dream.,0.0,0.281,0.219,0.5,neutral,A Room with a View
+Miss Lavish--for that was the clever lady's name--turned to the right along the sunny Lung' Arno.,0.6369,0.284,0.078,0.637,positive,A Room with a View
+How delightfully warm!,0.7088,0.855,0.0,0.145,positive,A Room with a View
+"But a wind down the side streets cut like a knife, didn't it?",0.1531,0.218,0.178,0.604,positive,A Room with a View
+"Ponte alle Grazie--particularly interesting, mentioned by Dante.",0.4019,0.31,0.0,0.69,positive,A Room with a View
+San Miniato--beautiful as well as interesting; the crucifix that kissed a murderer--Miss Honeychurch would remember the story.,0.7506,0.363,0.0,0.637,positive,A Room with a View
+The men on the river were fishing.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"(Untrue; but then, so is most information.)",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Then Miss Lavish darted under the archway of the white bullocks, and she stopped, and she cried: ""A smell!",-0.6588,0.0,0.285,0.715,negative,A Room with a View
+a true Florentine smell!,0.4753,0.607,0.0,0.393,positive,A Room with a View
+"Every city, let me teach you, has its own smell.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Is it a very nice smell?""",0.4754,0.436,0.0,0.564,positive,A Room with a View
+"said Lucy, who had inherited from her mother a distaste to dirt.",-0.34,0.0,0.194,0.806,negative,A Room with a View
+"""One doesn't come to Italy for niceness,"" was the retort; ""one comes for life.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Buon giorno!,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Buon giorno!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+bowing right and left.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Look at that adorable wine-cart!",0.5411,0.466,0.0,0.534,positive,A Room with a View
+"How the driver stares at us, dear, simple soul!""",0.4389,0.266,0.0,0.734,positive,A Room with a View
+"So Miss Lavish proceeded through the streets of the city of Florence, short, fidgety, and playful as a kitten, though without a kitten's grace.",-0.4069,0.105,0.241,0.654,negative,A Room with a View
+"It was a treat for the girl to be with any one so clever and so cheerful; and a blue military cloak, such as an Italian officer wears, only increased the sense of festivity.",0.9399,0.367,0.0,0.633,positive,A Room with a View
+"""Buon giorno!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Take the word of an old woman, Miss Lucy: you will never repent of a little civility to your inferiors.",-0.2732,0.0,0.154,0.846,negative,A Room with a View
+That is the true democracy.,0.4215,0.412,0.0,0.588,positive,A Room with a View
+Though I am a real Radical as well.,0.2732,0.296,0.0,0.704,positive,A Room with a View
+"There, now you're shocked.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Indeed, I'm not!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+exclaimed Lucy.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""We are Radicals, too, out and out.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"My father always voted for Mr. Gladstone, until he was so dreadful about Ireland.""",-0.5777,0.0,0.223,0.777,negative,A Room with a View
+"""I see, I see.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"And now you have gone over to the enemy.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Oh, please--!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"If my father was alive, I am sure he would vote Radical again now that Ireland is all right.",0.5994,0.234,0.0,0.766,positive,A Room with a View
+"And as it is, the glass over our front door was broken last election, and Freddy is sure it was the Tories; but mother says nonsense, a tramp.""",-0.6059,0.053,0.179,0.768,negative,A Room with a View
+"""Shameful!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"A manufacturing district, I suppose?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""No--in the Surrey hills.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"About five miles from Dorking, looking over the Weald.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Miss Lavish seemed interested, and slackened her trot.",0.2732,0.262,0.155,0.583,positive,A Room with a View
+"""What a delightful part; I know it so well.",0.7609,0.567,0.0,0.433,positive,A Room with a View
+It is full of the very nicest people.,0.5413,0.333,0.0,0.667,positive,A Room with a View
+"Do you know Sir Harry Otway--a Radical if ever there was?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Very well indeed.""",0.3384,0.545,0.0,0.455,positive,A Room with a View
+"""And old Mrs. Butterworth the philanthropist?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Why, she rents a field of us!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"How funny!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Miss Lavish looked at the narrow ribbon of sky, and murmured: ""Oh, you have property in Surrey?""",-0.1531,0.0,0.091,0.909,negative,A Room with a View
+"""Hardly any,"" said Lucy, fearful of being thought a snob.",-0.7351,0.0,0.47,0.53,negative,A Room with a View
+"""Only thirty acres--just the garden, all downhill, and some fields.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Miss Lavish was not disgusted, and said it was just the size of her aunt's Suffolk estate.",0.2905,0.143,0.083,0.774,positive,A Room with a View
+Italy receded.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"They tried to remember the last name of Lady Louisa someone, who had taken a house near Summer Street the other year, but she had not liked it, which was odd of her.",-0.7139,0.0,0.165,0.835,negative,A Room with a View
+"And just as Miss Lavish had got the name, she broke off and exclaimed: ""Bless us!",-0.2244,0.137,0.229,0.634,negative,A Room with a View
+Bless us and save us!,0.7424,0.677,0.0,0.323,positive,A Room with a View
+"We've lost the way.""",-0.3182,0.0,0.434,0.566,negative,A Room with a View
+"Certainly they had seemed a long time in reaching Santa Croce, the tower of which had been plainly visible from the landing window.",0.4939,0.174,0.0,0.826,positive,A Room with a View
+"But Miss Lavish had said so much about knowing her Florence by heart, that Lucy had followed her with no misgivings.",-0.5719,0.0,0.198,0.802,negative,A Room with a View
+"""Lost!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+lost!,-0.3802,0.0,1.0,0.0,negative,A Room with a View
+"My dear Miss Lucy, during our political diatribes we have taken a wrong turning.",-0.2732,0.15,0.272,0.578,negative,A Room with a View
+How those horrid Conservatives would jeer at us!,-0.5848,0.0,0.351,0.649,negative,A Room with a View
+What are we to do?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Two lone females in an unknown town.,-0.2732,0.0,0.259,0.741,negative,A Room with a View
+"Now, this is what I call an adventure.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Lucy, who wanted to see Santa Croce, suggested, as a possible solution, that they should ask the way there.",0.3182,0.119,0.0,0.881,positive,A Room with a View
+"""Oh, but that is the word of a craven!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"And no, you are not, not, not to look at your Baedeker.",-0.296,0.0,0.167,0.833,negative,A Room with a View
+Give it to me; I shan't let you carry it.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"We will simply drift.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Accordingly they drifted through a series of those grey-brown streets, neither commodious nor picturesque, in which the eastern quarter of the city abounds.",0.2206,0.082,0.0,0.918,positive,A Room with a View
+"Lucy soon lost interest in the discontent of Lady Louisa, and became discontented herself.",-0.2732,0.157,0.267,0.576,negative,A Room with a View
+For one ravishing moment Italy appeared.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+She stood in the Square of the Annunziata and saw in the living terra-cotta those divine babies whom no cheap reproduction can ever stale.,0.34,0.129,0.079,0.791,positive,A Room with a View
+"There they stood, with their shining limbs bursting from the garments of charity, and their strong white arms extended against circlets of heaven.",0.8555,0.32,0.0,0.68,positive,A Room with a View
+"Lucy thought she had never seen anything more beautiful; but Miss Lavish, with a shriek of dismay, dragged her forward, declaring that they were out of their path now by at least a mile.",-0.5717,0.069,0.193,0.739,negative,A Room with a View
+"The hour was approaching at which the continental breakfast begins, or rather ceases, to tell, and the ladies bought some hot chestnut paste out of a little shop, because it looked so typical.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"It tasted partly of the paper in which it was wrapped, partly of hair oil, partly of the great unknown.",0.5908,0.168,0.0,0.832,positive,A Room with a View
+"But it gave them strength to drift into another Piazza, large and dusty, on the farther side of which rose a black-and-white façade of surpassing ugliness.",-0.1901,0.133,0.156,0.711,negative,A Room with a View
+Miss Lavish spoke to it dramatically.,-0.1531,0.0,0.242,0.758,negative,A Room with a View
+It was Santa Croce.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+The adventure was over.,0.3182,0.434,0.0,0.566,positive,A Room with a View
+"""Stop a minute; let those two people go on, or I shall have to speak to them.",-0.296,0.0,0.136,0.864,negative,A Room with a View
+I do detest conventional intercourse.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Nasty!,-0.5983,0.0,1.0,0.0,negative,A Room with a View
+"they are going into the church, too.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Oh, the Britisher abroad!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""We sat opposite them at dinner last night.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+They have given us their rooms.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"They were so very kind.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Look at their figures!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+laughed Miss Lavish.,0.34,0.536,0.286,0.179,positive,A Room with a View
+"""They walk through my Italy like a pair of cows.",0.3612,0.238,0.0,0.762,positive,A Room with a View
+"It's very naughty of me, but I would like to set an examination paper at Dover, and turn back every tourist who couldn't pass it.""",0.5023,0.124,0.0,0.876,positive,A Room with a View
+"""What would you ask us?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Miss Lavish laid her hand pleasantly on Lucy's arm, as if to suggest that she, at all events, would get full marks.",0.6908,0.234,0.059,0.706,positive,A Room with a View
+"In this exalted mood they reached the steps of the great church, and were about to enter it when Miss Lavish stopped, squeaked, flung up her arms, and cried: ""There goes my local-colour box!",0.1759,0.135,0.156,0.709,positive,A Room with a View
+"I must have a word with him!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"And in a moment she was away over the Piazza, her military cloak flapping in the wind; nor did she slacken speed till she caught up an old man with white whiskers, and nipped him playfully upon the arm.",0.3818,0.066,0.0,0.934,positive,A Room with a View
+Lucy waited for nearly ten minutes.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Then she began to get tired.,-0.4404,0.0,0.367,0.633,negative,A Room with a View
+"The beggars worried her, the dust blew in her eyes, and she remembered that a young girl ought not to loiter in public places.",-0.296,0.0,0.091,0.909,negative,A Room with a View
+"She descended slowly into the Piazza with the intention of rejoining Miss Lavish, who was really almost too original.",0.1742,0.109,0.077,0.814,positive,A Room with a View
+"But at that moment Miss Lavish and her local-colour box moved also, and disappeared down a side street, both gesticulating largely.",-0.5023,0.0,0.191,0.809,negative,A Room with a View
+"Tears of indignation came to Lucy's eyes partly because Miss Lavish had jilted her, partly because she had taken her Baedeker.",-0.683,0.0,0.269,0.731,negative,A Room with a View
+How could she find her way home?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+How could she find her way about in Santa Croce?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Her first morning was ruined, and she might never be in Florence again.",-0.4767,0.0,0.205,0.795,negative,A Room with a View
+"A few minutes ago she had been all high spirits, talking as a woman of culture, and half persuading herself that she was full of originality.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Now she entered the church depressed and humiliated, not even able to remember whether it was built by the Franciscans or the Dominicans.",-0.6908,0.0,0.213,0.787,negative,A Room with a View
+"Of course, it must be a wonderful building.",0.5719,0.381,0.0,0.619,positive,A Room with a View
+But how like a barn!,0.5487,0.541,0.0,0.459,positive,A Room with a View
+And how very cold!,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Of course, it contained frescoes by Giotto, in the presence of whose tactile values she was capable of feeling what was proper.",0.7003,0.264,0.0,0.736,positive,A Room with a View
+But who was to tell her which they were?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"She walked about disdainfully, unwilling to be enthusiastic over monuments of uncertain authorship or date.",0.25,0.174,0.12,0.707,positive,A Room with a View
+"There was no one even to tell her which, of all the sepulchral slabs that paved the nave and transepts, was the one that was really beautiful, the one that had been most praised by Mr. Ruskin.",0.7569,0.175,0.05,0.775,positive,A Room with a View
+"Then the pernicious charm of Italy worked on her, and, instead of acquiring information, she began to be happy.",0.7506,0.274,0.0,0.726,positive,A Room with a View
+"She puzzled out the Italian notices--the notices that forbade people to introduce dogs into the church--the notice that prayed people, in the interest of health and out of respect to the sacred edifice in which they found themselves, not to spit.",0.6597,0.133,0.037,0.83,positive,A Room with a View
+"She watched the tourists; their noses were as red as their Baedekers, so cold was Santa Croce.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"She beheld the horrible fate that overtook three Papists--two he-babies and a she-baby--who began their career by sousing each other with the Holy Water, and then proceeded to the Machiavelli memorial, dripping but hallowed.",-0.3071,0.0,0.066,0.934,negative,A Room with a View
+"Advancing towards it very slowly and from immense distances, they touched the stone with their fingers, with their handkerchiefs, with their heads, and then retreated.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+What could this mean?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+They did it again and again.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Then Lucy realized that they had mistaken Machiavelli for some saint, hoping to acquire virtue.",0.4767,0.279,0.124,0.597,positive,A Room with a View
+Punishment followed quickly.,-0.4939,0.0,0.615,0.385,negative,A Room with a View
+"The smallest he-baby stumbled over one of the sepulchral slabs so much admired by Mr. Ruskin, and entangled his feet in the features of a recumbent bishop.",0.5542,0.125,0.0,0.875,positive,A Room with a View
+"Protestant as she was, Lucy darted forward.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+She was too late.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+He fell heavily upon the prelate's upturned toes.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Hateful bishop!""",-0.5411,0.0,0.777,0.223,negative,A Room with a View
+"exclaimed the voice of old Mr. Emerson, who had darted forward also.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Hard in life, hard in death.",-0.6908,0.0,0.691,0.309,negative,A Room with a View
+"Go out into the sunshine, little boy, and kiss your hand to the sun, for that is where you ought to be.",0.8375,0.32,0.0,0.68,positive,A Room with a View
+"Intolerable bishop!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"The child screamed frantically at these words, and at these dreadful people who picked him up, dusted him, rubbed his bruises, and told him not to be superstitious.",-0.765,0.0,0.233,0.767,negative,A Room with a View
+"""Look at him!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+said Mr. Emerson to Lucy.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Here's a mess: a baby hurt, cold, and frightened!",-0.8439,0.0,0.694,0.306,negative,A Room with a View
+"But what else can you expect from a church?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+The child's legs had become as melting wax.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Each time that old Mr. Emerson and Lucy set it erect it collapsed with a roar.,-0.2732,0.0,0.13,0.87,negative,A Room with a View
+"Fortunately an Italian lady, who ought to have been saying her prayers, came to the rescue.",0.5106,0.18,0.0,0.82,positive,A Room with a View
+"By some mysterious virtue, which mothers alone possess, she stiffened the little boy's back-bone and imparted strength to his knees.",0.6124,0.24,0.08,0.68,positive,A Room with a View
+He stood.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Still gibbering with agitation, he walked away.",-0.25,0.0,0.25,0.75,negative,A Room with a View
+"""You are a clever woman,"" said Mr. Emerson.",0.4588,0.333,0.0,0.667,positive,A Room with a View
+"""You have done more than all the relics in the world.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"I am not of your creed, but I do believe in those who make their fellow-creatures happy.",0.7227,0.265,0.0,0.735,positive,A Room with a View
+"There is no scheme of the universe--"" He paused for a phrase.",-0.296,0.0,0.18,0.82,negative,A Room with a View
+"""Niente,"" said the Italian lady, and returned to her prayers.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I'm not sure she understands English,"" suggested Lucy.",-0.2411,0.0,0.219,0.781,negative,A Room with a View
+In her chastened mood she no longer despised the Emersons.,-0.5994,0.0,0.38,0.62,negative,A Room with a View
+"She was determined to be gracious to them, beautiful rather than delicate, and, if possible, to erase Miss Bartlett's civility by some gracious reference to the pleasant rooms.",0.9468,0.443,0.039,0.517,positive,A Room with a View
+"""That woman understands everything,"" was Mr. Emerson's reply.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""But what are you doing here?",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Are you doing the church?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Are you through with the church?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""No,"" cried Lucy, remembering her grievance.",-0.6908,0.0,0.588,0.412,negative,A Room with a View
+"""I came here with Miss Lavish, who was to explain everything; and just by the door--it is too bad!--she simply ran away, and after waiting quite a time, I had to come in by myself.""",-0.2244,0.0,0.056,0.944,negative,A Room with a View
+"""Why shouldn't you?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+said Mr. Emerson.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Yes, why shouldn't you come by yourself?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"said the son, addressing the young lady for the first time.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""But Miss Lavish has even taken away Baedeker.""",-0.2263,0.0,0.213,0.787,negative,A Room with a View
+"""Baedeker?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+said Mr. Emerson.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I'm glad it's that you minded.",0.4588,0.375,0.0,0.625,positive,A Room with a View
+"It's worth minding, the loss of a Baedeker.",-0.1027,0.207,0.25,0.543,negative,A Room with a View
+"That's worth minding.""",0.2263,0.487,0.0,0.513,positive,A Room with a View
+Lucy was puzzled.,-0.1779,0.0,0.459,0.541,negative,A Room with a View
+"She was again conscious of some new idea, and was not sure whither it would lead her.",-0.2411,0.0,0.109,0.891,negative,A Room with a View
+"""If you've no Baedeker,"" said the son, ""you'd better join us.""",0.4404,0.333,0.144,0.523,positive,A Room with a View
+Was this where the idea would lead?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+She took refuge in her dignity.,0.4019,0.351,0.0,0.649,positive,A Room with a View
+"""Thank you very much, but I could not think of that.",0.1901,0.163,0.0,0.837,positive,A Room with a View
+I hope you do not suppose that I came to join on to you.,0.6249,0.338,0.0,0.662,positive,A Room with a View
+"I really came to help with the child, and to thank you for so kindly giving us your rooms last night.",0.9054,0.434,0.0,0.566,positive,A Room with a View
+"I hope that you have not been put to any great inconvenience.""",0.7906,0.438,0.0,0.562,positive,A Room with a View
+"""My dear,"" said the old man gently, ""I think that you are repeating what you have heard older people say.",0.4588,0.136,0.0,0.864,positive,A Room with a View
+You are pretending to be touchy; but you are not really.,0.0516,0.107,0.0,0.893,positive,A Room with a View
+"Stop being so tiresome, and tell me instead what part of the church you want to see.",-0.2263,0.07,0.119,0.811,negative,A Room with a View
+"To take you to it will be a real pleasure.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Now, this was abominably impertinent, and she ought to have been furious.",-0.5719,0.0,0.252,0.748,negative,A Room with a View
+But it is sometimes as difficult to lose one's temper as it is difficult at other times to keep it.,-0.9294,0.0,0.462,0.538,negative,A Room with a View
+Lucy could not get cross.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Mr. Emerson was an old man, and surely a girl might humour him.",0.7184,0.375,0.0,0.625,positive,A Room with a View
+"On the other hand, his son was a young man, and she felt that a girl ought to be offended with him, or at all events be offended before him.",0.0516,0.099,0.124,0.776,positive,A Room with a View
+It was at him that she gazed before replying.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I am not touchy, I hope.",-0.3412,0.0,0.376,0.624,negative,A Room with a View
+"It is the Giottos that I want to see, if you will kindly tell me which they are.""",0.5423,0.231,0.0,0.769,positive,A Room with a View
+The son nodded.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"With a look of sombre satisfaction, he led the way to the Peruzzi Chapel.",0.4404,0.195,0.0,0.805,positive,A Room with a View
+There was a hint of the teacher about him.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+She felt like a child in school who had answered a question rightly.,0.3612,0.2,0.0,0.8,positive,A Room with a View
+"The chapel was already filled with an earnest congregation, and out of them rose the voice of a lecturer, directing them how to worship Giotto, not by tactful valuations, but by the standards of the spirit.",0.5859,0.153,0.0,0.847,positive,A Room with a View
+"""Remember,"" he was saying, ""the facts about this church of Santa Croce; how it was built by faith in the full fervour of medievalism, before any taint of the Renaissance had appeared.",0.4215,0.083,0.0,0.917,positive,A Room with a View
+"Observe how Giotto in these frescoes--now, unhappily, ruined by restoration--is untroubled by the snares of anatomy and perspective.",-0.7184,0.0,0.273,0.727,negative,A Room with a View
+"Could anything be more majestic, more pathetic, beautiful, true?",0.4562,0.414,0.243,0.343,positive,A Room with a View
+"How little, we feel, avails knowledge and technical cleverness against a man who truly feels!""",0.7574,0.351,0.0,0.649,positive,A Room with a View
+"""No!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"exclaimed Mr. Emerson, in much too loud a voice for church.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Remember nothing of the sort!",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Built by faith indeed!,0.4753,0.508,0.0,0.492,positive,A Room with a View
+That simply means the workmen weren't paid properly.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"And as for the frescoes, I see no truth in them.",0.0258,0.184,0.176,0.64,neutral,A Room with a View
+Look at that fat man in blue!,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He must weigh as much as I do, and he is shooting into the sky like an air balloon.""",0.3612,0.128,0.0,0.872,positive,A Room with a View
+"He was referring to the fresco of the ""Ascension of St.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"John.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Inside, the lecturer's voice faltered, as well it might.",0.2732,0.208,0.0,0.792,positive,A Room with a View
+"The audience shifted uneasily, and so did Lucy.",-0.34,0.0,0.255,0.745,negative,A Room with a View
+She was sure that she ought not to be with these men; but they had cast a spell over her.,0.1655,0.084,0.0,0.916,positive,A Room with a View
+They were so serious and so strange that she could not remember how to behave.,-0.428,0.0,0.228,0.772,negative,A Room with a View
+"""Now, did this happen, or didn't it?",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Yes or no?""",0.4019,0.574,0.0,0.426,positive,A Room with a View
+"George replied: ""It happened like this, if it happened at all.",0.3612,0.2,0.0,0.8,positive,A Room with a View
+"I would rather go up to heaven by myself than be pushed by cherubs; and if I got there I should like my friends to lean out of it, just as they do here.""",0.836,0.241,0.0,0.759,positive,A Room with a View
+"""You will never go up,"" said his father.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""You and I, dear boy, will lie at peace in the earth that bore us, and our names will disappear as surely as our work survives.""",0.7269,0.265,0.115,0.619,positive,A Room with a View
+"""Some of the people can only see the empty grave, not the saint, whoever he is, going up.",-0.5267,0.0,0.216,0.784,negative,A Room with a View
+"It did happen like that, if it happened at all.""",0.3612,0.217,0.0,0.783,positive,A Room with a View
+"""Pardon me,"" said a frigid voice.",0.3182,0.365,0.0,0.635,positive,A Room with a View
+"""The chapel is somewhat small for two parties.",0.4019,0.278,0.0,0.722,positive,A Room with a View
+"We will incommode you no longer.""",-0.296,0.0,0.306,0.694,negative,A Room with a View
+"The lecturer was a clergyman, and his audience must be also his flock, for they held prayer-books as well as guide-books in their hands.",0.2732,0.087,0.0,0.913,positive,A Room with a View
+They filed out of the chapel in silence.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Amongst them were the two little old ladies of the Pension Bertolini--Miss Teresa and Miss Catherine Alan.,-0.1531,0.0,0.091,0.909,negative,A Room with a View
+"""Stop!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+cried Mr. Emerson.,-0.3818,0.0,0.565,0.435,negative,A Room with a View
+"""There's plenty of room for us all.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Stop!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+The procession disappeared without a word.,-0.2263,0.0,0.322,0.678,negative,A Room with a View
+"Soon the lecturer could be heard in the next chapel, describing the life of St. Francis.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""George, I do believe that clergyman is the Brixton curate.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"George went into the next chapel and returned, saying ""Perhaps he is.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"I don't remember.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Then I had better speak to him and remind him who I am.",0.4404,0.225,0.0,0.775,positive,A Room with a View
+It's that Mr.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Eager.,0.3612,1.0,0.0,0.0,positive,A Room with a View
+Why did he go?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+Did we talk too loud?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+How vexatious.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+I shall go and say we are sorry.,-0.0772,0.0,0.178,0.822,negative,A Room with a View
+Hadn't I better?,-0.3412,0.0,0.706,0.294,negative,A Room with a View
+"Then perhaps he will come back.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""He will not come back,"" said George.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"But Mr. Emerson, contrite and unhappy, hurried away to apologize to the Rev.",-0.4767,0.098,0.227,0.675,negative,A Room with a View
+Cuthbert Eager.,0.3612,0.714,0.0,0.286,positive,A Room with a View
+"Lucy, apparently absorbed in a lunette, could hear the lecture again interrupted, the anxious, aggressive voice of the old man, the curt, injured replies of his opponent.",-0.7579,0.0,0.279,0.721,negative,A Room with a View
+"The son, who took every little contretemps as if it were a tragedy, was listening also.",-0.6597,0.0,0.239,0.761,negative,A Room with a View
+"""My father has that effect on nearly everyone,"" he informed her.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""He will try to be kind.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I hope we all try,"" said she, smiling nervously.",0.6486,0.437,0.119,0.444,positive,A Room with a View
+"""Because we think it improves our characters.",0.4215,0.318,0.0,0.682,positive,A Room with a View
+"But he is kind to people because he loves them; and they find him out, and are offended, or frightened.""",0.8462,0.331,0.086,0.583,positive,A Room with a View
+"""How silly of them!""",0.1007,0.317,0.0,0.683,positive,A Room with a View
+"said Lucy, though in her heart she sympathized; ""I think that a kind action done tactfully--"" ""Tact!""",0.5707,0.198,0.0,0.802,positive,A Room with a View
+He threw up his head in disdain.,-0.4767,0.0,0.341,0.659,negative,A Room with a View
+Apparently she had given the wrong answer.,-0.4767,0.0,0.341,0.659,negative,A Room with a View
+She watched the singular creature pace up and down the chapel.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"For a young man his face was rugged, and--until the shadows fell upon it--hard.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Enshadowed, it sprang into tenderness.",0.4215,0.412,0.0,0.588,positive,A Room with a View
+"She saw him once again at Rome, on the ceiling of the Sistine Chapel, carrying a burden of acorns.",-0.4404,0.0,0.146,0.854,negative,A Room with a View
+"Healthy and muscular, he yet gave her the feeling of greyness, of tragedy that might only find solution in the night.",0.0258,0.233,0.158,0.609,neutral,A Room with a View
+The feeling soon passed; it was unlike her to have entertained anything so subtle.,0.4939,0.259,0.0,0.741,positive,A Room with a View
+"Born of silence and of unknown emotion, it passed when Mr. Emerson returned, and she could re-enter the world of rapid talk, which was alone familiar to her.",-0.25,0.0,0.069,0.931,negative,A Room with a View
+"""Were you snubbed?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+asked his son tranquilly.,0.296,0.423,0.0,0.577,positive,A Room with a View
+"""But we have spoilt the pleasure of I don't know how many people.",0.7227,0.315,0.0,0.685,positive,A Room with a View
+"They won't come back.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""...full of innate sympathy...quickness to perceive good in others...vision of the brotherhood of man..."" Scraps of the lecture on St. Francis came floating round the partition wall.",0.4404,0.1,0.0,0.9,positive,A Room with a View
+"""Don't let us spoil yours,"" he continued to Lucy.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Have you looked at those saints?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Yes,"" said Lucy.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""They are lovely.",0.5859,0.655,0.0,0.345,positive,A Room with a View
+"Do you know which is the tombstone that is praised in Ruskin?""",0.4939,0.225,0.0,0.775,positive,A Room with a View
+"He did not know, and suggested that they should try to guess it.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"George, rather to her relief, refused to move, and she and the old man wandered not unpleasantly about Santa Croce, which, though it is like a barn, has harvested many beautiful things inside its walls.",0.8074,0.228,0.053,0.719,positive,A Room with a View
+"There were also beggars to avoid and guides to dodge round the pillars, and an old lady with her dog, and here and there a priest modestly edging to his Mass through the groups of tourists.",-0.296,0.0,0.061,0.939,negative,A Room with a View
+But Mr. Emerson was only half interested.,0.5499,0.372,0.0,0.628,positive,A Room with a View
+"He watched the lecturer, whose success he believed he had impaired, and then he anxiously watched his son.",0.4215,0.171,0.088,0.741,positive,A Room with a View
+"""Why will he look at that fresco?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+he said uneasily.,-0.34,0.0,0.545,0.455,negative,A Room with a View
+"""I saw nothing in it.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I like Giotto,"" she replied.",0.3612,0.385,0.0,0.615,positive,A Room with a View
+"""It is so wonderful what they say about his tactile values.",0.8147,0.453,0.0,0.547,positive,A Room with a View
+"Though I like things like the Della Robbia babies better.""",0.6124,0.417,0.0,0.583,positive,A Room with a View
+"""So you ought.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+A baby is worth a dozen saints.,0.2263,0.322,0.0,0.678,positive,A Room with a View
+"And my baby's worth the whole of Paradise, and as far as I can see he lives in Hell.""",0.7269,0.276,0.0,0.724,positive,A Room with a View
+Lucy again felt that this did not do.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""In Hell,"" he repeated.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""He's unhappy.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Oh, dear!""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+said Lucy.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""How can he be unhappy when he is strong and alive?",0.4767,0.353,0.168,0.479,positive,A Room with a View
+What more is one to give him?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+And think how he has been brought up--free from all the superstition and ignorance that lead men to hate one another in the name of God.,-0.6249,0.067,0.198,0.735,negative,A Room with a View
+"With such an education as that, I thought he was bound to grow up happy.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"She was no theologian, but she felt that here was a very foolish old man, as well as a very irreligious one.",-0.2592,0.109,0.193,0.698,negative,A Room with a View
+"She also felt that her mother might not like her talking to that kind of person, and that Charlotte would object most strongly.",0.0729,0.094,0.083,0.823,positive,A Room with a View
+"""What are we to do with him?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+he asked.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""He comes out for his holiday to Italy, and behaves--like that; like the little child who ought to have been playing, and who hurt himself upon the tombstone.",0.3818,0.203,0.099,0.698,positive,A Room with a View
+Eh?,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"What did you say?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Lucy had made no suggestion.,-0.296,0.0,0.355,0.645,negative,A Room with a View
+"Suddenly he said: ""Now don't be stupid over this.",0.4168,0.258,0.0,0.742,positive,A Room with a View
+"I don't require you to fall in love with my boy, but I do think you might try and understand him.",0.3818,0.126,0.0,0.874,positive,A Room with a View
+"You are nearer his age, and if you let yourself go I am sure you are sensible.",0.3182,0.133,0.0,0.867,positive,A Room with a View
+You might help me.,0.4019,0.474,0.0,0.526,positive,A Room with a View
+"He has known so few women, and you have the time.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"You stop here several weeks, I suppose?",-0.296,0.0,0.306,0.694,negative,A Room with a View
+But let yourself go.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"You are inclined to get muddled, if I may judge from last night.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Let yourself go.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Pull out from the depths those thoughts that you do not understand, and spread them out in the sunlight and know the meaning of them.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+By understanding George you may learn to understand yourself.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"It will be good for both of you.""",0.4404,0.293,0.0,0.707,positive,A Room with a View
+To this extraordinary speech Lucy found no answer.,-0.296,0.0,0.239,0.761,negative,A Room with a View
+"""I only know what it is that's wrong with him; not why it is.""",-0.4767,0.0,0.193,0.807,negative,A Room with a View
+"""And what is it?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"asked Lucy fearfully, expecting some harrowing tale.",-0.4939,0.0,0.348,0.652,negative,A Room with a View
+"""The old trouble; things won't fit.""",-0.4019,0.0,0.351,0.649,negative,A Room with a View
+"""What things?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""The things of the universe.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+It is quite true.,0.4754,0.508,0.0,0.492,positive,A Room with a View
+"They don't.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Oh, Mr. Emerson, whatever do you mean?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"In his ordinary voice, so that she scarcely realized he was quoting poetry, he said: ""'From far, from eve and morning, And yon twelve-winded sky, The stuff of life to knit me Blew hither: here am I' George and I both know this, but why does it distress him?",-0.6808,0.0,0.089,0.911,negative,A Room with a View
+"We know that we come from the winds, and that we shall return to them; that all life is perhaps a knot, a tangle, a blemish in the eternal smoothness.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+But why should this make us unhappy?,-0.5719,0.0,0.381,0.619,negative,A Room with a View
+"Let us rather love one another, and work and rejoice.",0.7964,0.47,0.0,0.53,positive,A Room with a View
+"I don't believe in this world sorrow.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Miss Honeychurch assented.,-0.1531,0.0,0.444,0.556,negative,A Room with a View
+"""Then make my boy think like us.",0.3612,0.294,0.0,0.706,positive,A Room with a View
+"Make him realize that by the side of the everlasting Why there is a Yes--a transitory Yes if you like, but a Yes.""",0.3818,0.159,0.0,0.841,positive,A Room with a View
+Suddenly she laughed; surely one ought to laugh.,0.8591,0.655,0.0,0.345,positive,A Room with a View
+"A young man melancholy because the universe wouldn't fit, because life was a tangle or a wind, or a Yes, or something!",-0.3822,0.117,0.231,0.652,negative,A Room with a View
+"""I'm very sorry,"" she cried.",-0.4336,0.0,0.417,0.583,negative,A Room with a View
+"""You'll think me unfeeling, but--but--"" Then she became matronly.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Oh, but your son wants employment.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+Has he no particular hobby?,-0.296,0.0,0.355,0.645,negative,A Room with a View
+"Why, I myself have worries, but I can generally forget them at the piano; and collecting stamps did no end of good for my brother.",-0.296,0.129,0.236,0.635,negative,A Room with a View
+"Perhaps Italy bores him; you ought to try the Alps or the Lakes.""",-0.3182,0.0,0.161,0.839,negative,A Room with a View
+"The old man's face saddened, and he touched her gently with his hand.",0.4215,0.316,0.173,0.51,positive,A Room with a View
+This did not alarm her; she thought that her advice had impressed him and that he was thanking her for it.,0.6293,0.213,0.0,0.787,positive,A Room with a View
+"Indeed, he no longer alarmed her at all; she regarded him as a kind thing, but quite silly.",0.1254,0.189,0.164,0.647,positive,A Room with a View
+"Her feelings were as inflated spiritually as they had been an hour ago esthetically, before she lost Baedeker.",-0.3182,0.0,0.119,0.881,negative,A Room with a View
+"The dear George, now striding towards them over the tombstones, seemed both pitiable and absurd.",0.128,0.147,0.119,0.734,positive,A Room with a View
+"He approached, his face in the shadow.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"He said: ""Miss Bartlett.""",-0.1531,0.0,0.348,0.652,negative,A Room with a View
+"""Oh, good gracious me!""",0.7777,0.773,0.0,0.227,positive,A Room with a View
+"said Lucy, suddenly collapsing and again seeing the whole of life in a new perspective.",-0.296,0.0,0.145,0.855,negative,A Room with a View
+"""Where?",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Where?""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""In the nave.""",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""I see.",0.0,0.0,0.0,1.0,neutral,A Room with a View
+"Those gossiping little Miss Alans must have--"" She checked herself.",-0.4417,0.0,0.328,0.672,negative,A Room with a View
+"""Poor girl!""",-0.5255,0.0,0.772,0.228,negative,A Room with a View
+exploded Mr. Emerson.,0.0,0.0,0.0,1.0,neutral,A Room with a View
+"""Poor girl!""",-0.5255,0.0,0.772,0.228,negative,A Room with a View
+"She could not let this pass, for it was just what she was feeling herself.",0.128,0.097,0.0,0.903,positive,A Room with a View
+"""Poor girl?",-0.4767,0.0,0.756,0.244,negative,A Room with a View
+I fail to understand the point of that remark.,-0.5423,0.0,0.333,0.667,negative,A Room with a View
+I think myself,0.0,0.0,0.0,1.0,neutral,A Room with a View
